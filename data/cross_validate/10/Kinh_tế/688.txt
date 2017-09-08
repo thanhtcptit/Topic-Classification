@@ -1,0 +1,11 @@
+Nghị_sĩ/N Mỹ/Np không/R đồng_ý/V bán/V sàn/N chứng_khoán/V cho/E Trung_Quốc/Np
+Hôm_qua/N 11/M nghị_sĩ/N Quốc_hội/N đã/R yêu_cầu/V Uỷ_ban/N Chứng_khoán/N Mỹ/Np /V SEC/Np /V dừng/V việc/N bán/V Sàn/N giao_dịch/V chứng_khoán/V Chicago/Np /V CHX/Np /V cho/E một/M nhóm/N nhà_đầu_tư/N Trung_Quốc/Np
+Đồng_thời/R các/L nghị_sĩ/N cho/V rằng/C SEC/Np không/R đủ/A khả_năng/N để/E giám_sát/V người/N mua/V tại/E nước_ngoài/N
+Đầu/N tháng/N 6/M SEC/Np thông_báo/V sẽ/R đưa/V ra/R quyết_định/V cho/E thương_vụ/N này/P trong/E vòng/N 60/M ngày/N
+Đề_xuất/N bán/V CHX/Np với/E số/N tiền/N không/R được/V tiết_lộ/V cho/E Chongqing_Casin_Enterprise_Group/Np /V CCEG/Np /V đã/R thu_hút/V nhiều/A sự/N chú_ý/V vì/E đây/P là/V lần/N đầu_tiên/A các/L nhà/N đầu_tiên/A các/L nhà_đầu_tư/N Trung_Quốc/Np muốn/V mua/V một/M sàn/N chứng_khoán/V Mỹ/Np
+Trong/E thông_báo/N gửi/V tới/E SEC/Np các/L nghị_sĩ/N của/E Đảng_Cộng/Np hoà/V và/CC Đảng_Dân/Np chủ/N cho/V rằng/C SEC/Np sẽ/R không_thể/R giám_sát/V được/R cấu_trúc/V quyền_sở_hữu/N của/E CCEG/Np sau/E khi/N bán/V CHX/Np và/CC có_thể/R tạo/V ra/R nhiều/A tác_động/N không/R mong_muốn/V tới/E thị_trường/N tài_chính/N
+CHX/Np là/V một/M trong/E 13/M sàn/N giao_dịch/V chứng_khoán/N của/E Mỹ/Np
+Đây/P là/V doanh_nghiệp/N độc_lập/N và/CC chỉ/R chiếm/V ít/A hơn/R 0,5%/M các/L giao_dịch/N trên/E thị_trường_chứng_khoán/N Mỹ/Np
+Tại_Trung_Quốc/Np Casin_Group/Np là/V một/M công_ty/N chuyên/A hoạt_động/V trong/E lĩnh_vực/N bất_động_sản/N và/CC tài_chính/N  /M Mục_tiêu/N lâu_dài/A của/E Casin_Group/Np trong/E thương_vụ/N này/P là/V giúp/V các/L doanh_nghiệp/N Trung_Quốc/Np có_thể/R niêm_yết/V tại/E thị_trường/N Mỹ/Np thông_qua/V CHX/Np
+Uỷ_ban/N Đầu_tư/V nước_ngoài/N tại/E Mỹ/Np /V CFI/Np /M Cơ_quan/N chuyên/A nghiên/V các/L giao_dịch/N có/V nguy_cơ/N gây/V ảnh_hưởng/V đến/E anh/N ninh/V quốc_gia/N đã/R phê_duyệt/V kế_hoạch/N bán/V CHX/Np từ/E tháng/N 12/M năm_ngoái/N
+Tuy_nhiên/C SEC/Np vẫn/R cần/V ký_kết/V để/E thực_hiện/V giao_dịch/V

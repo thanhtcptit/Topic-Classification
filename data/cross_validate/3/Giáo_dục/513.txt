@@ -1,0 +1,14 @@
+Điểm/N xét/V tuyển/V vào/E đại_học/N tốp/N đầu/N Hà_Nội/Np
+Ngày/N 12/7/M sau/E khi/N Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N /M điểm_sàn/N /A nhiều/A trường/N thông_báo/V mức/N sàn/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V
+Đại_học/N Ngoại_thương/N cơ_sở/N Hà_Nội/Np và/CC TP_HCM/Np có/V mức/N sàn/N là/V 22,5/M khối/N A/N các/L khối/N còn/V lại/R 21,5/M riêng/A khối/N D2/Np /V thi/V tiếng/N Nga/Np /V lấy/V 20,5/M điểm/N
+Cơ_sở/N Quảng_Ninh/Np của/E trường/N nhận/V hồ_sơ/N từ/E 18/M điểm/N
+Đại_học/N Bách_khoa/N Hà_Nội/Np có/V điểm_sàn/N ở/E các/L mã/N ngành/N khác_nhau/A dao_động/V 21-24/M
+Trừ_Đào/Np tạo/V quốc_tế/N có/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V dưới/E 20/M điểm/N các/L ngành/N đại_trà/N của/E Bách_khoa/N đều/R từ/E 21/M điểm/N trở_lên/A
+Thí_sinh/N dưới/N 21/M điểm/N nên/C chọn/V trường/N khác/A đăng_ký/V xét/V tuyển/V để/E tăng/V cơ_hội/N đỗ/V Trưởng_phòng/N Đào_tạo/N Nguyễn_Phong_Điền/Np nói/V
+Ngày/N 14/7/M Đại_học/N Bách_khoa/N Hà_Nội/Np sẽ/R công_bố/V ngưỡng/N điểm/N nhận/V hồ_sơ/N cụ_thể/A cho/E từng/R mã/N ngành/N
+Đại_học/N Kinh_tế/N quốc_dân/N lấy/V ngưỡng/N xét/V tuyển/V của/E tất_cả/P 25/M mã/Nu ngành/N là/V 18/M điểm/N tăng/V 1/M điểm/N so/V với/E năm/N 2016/M
+Tuy_nhiên/C Trưởng_phòng/N Đào_tạo/N Bùi_Đức_Triệu/Np khuyến_nghị/A mức/N điểm/N đăng_ký/V vào/E trường/N an_toàn/A nhất_là/X 20/M
+Tổng_số/N nguyện_vọng/N đăng_ký/V vào/E Đại_học/N Kinh_tế/N quốc_dân/N ban_đầu/N là/V hơn/A 60 0/M trường/N tuyển/V 4 0/M chỉ_tiêu/N
+Dù/C còn/V thời_gian/N để/E thí_sinh/V điều_chỉnh/V nguyện_vọng/N nhưng/C ông/Nc Triệu/Np tin/V rằng/C với/E sàn/N 18/M điểm/N trường/N vẫn/R dư/V dôi/V nguồn/N tuyển/V  /EOS
+Học_viện/N Ngân_hàng/N cơ_sở/N Hà_Nội/Np chỉ/R xét/V tuyển/V thí_sinh/N đạt/V từ/E 17,5/M điểm/N trở_lên/A cơ_sở/N Bắc_Ninh/Np và/CC Phú_Yên/Np nhận/V hồ_sơ/N từ/E 15,5/M điểm/N bằng/E mức/N điểm_sàn/N Bộ/N  /N Giáo_dục/N công_bố/V
+Đại_học/N Hà_Nội/Np nhận/V hồ_sơ/N từ/E 15,5/M điểm/N Đại_học/N Thương_mại/N từ/E 17,5/M điểm/N

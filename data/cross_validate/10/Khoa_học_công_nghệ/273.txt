@@ -1,0 +1,24 @@
+Chặn/V tin/N rác/N Doanh_nghiệp/N viễn_thông/V là/V gốc_rễ/N của/E vấn_đề/N 
+ /M Người/N dùng/V điện_thoại/N vẫn/R đau_đầu/A vì/E tin/N nhắn/V rác/N 
+ảnh/N minh_họa/V Sở/N cho/V rằng/C việc/N chặn/V tin/N nhắn/V rác/N là/V một/M tiêu_chí/N quan_trọng/A để/E đánh_giá/V chất_lượng/N cung_cấp/V dịch_vụ/N của/E nhà/N mạng/N 
+Tin/N rác/N vẫn/R hoành_hành/V Tại_Hội/Np nghị/V giao_ban/N thực_hiện/V Chỉ_thị/N số/N 82/CT-BTTTT/Np diễn/V ra/R sáng/N 17/9/M đại_diện/N Sở/N Thông/Np tin/V và/CC Truyền_thông/N Hà_Nội/Np cho_hay/A thời_gian/N qua/V đã/R ban_hành/V 12/M văn_bản/N đề_nghị/V doanh_nghiệp/N cung_cấp/V dịch_vụ/N viễn_thông/V ngừng/V cung_cấp/V dịch_vụ/N với/E 37/M đầu/N số/N và/CC 372/M số/N điện_thoại/N phát_tán/V tin/V rác/N tin/N nhắn/V lừa_đảo/V 
+Sở/N đã/R thanh_tra/V 30/M doanh_nghiệp/N cung_cấp/V nội_dung/N xử_phạt/V vi_phạm/V hành_chính/N 717,5/M triệu/M đồng/Nu truy_thu/V về/E ngân_sách/N nhà_nước/N 330/M triệu/M đồng/Nu thu_hồi/V 2/M đầu/N số/N 19006668/M và/CC 19006804/M 
+Sở/N đã/R xử_phạt/V đối_tượng/N phát_tán/V tin/V rác/N số/N tiền/N 56,25/M triệu/M đồng/Nu tịch_thu/V 12.419/M sim/N rác/N và/CC 11/M thiết_bị/N có/V chức_năng/N kích_hoạt/V sim/N không/R cần/V bẻ/V sim/N 
+Đi/V cùng_với/C việc/N xử_phạt/V từ/E cơ_quan/N quản_lý/V thời_gian/N qua/V các/L doanh_nghiệp/N viễn_thông/N đã/R xây_dựng/V hệ_thống/N kỹ_thuật/N có/V khả_năng/N ngăn_chặn/V rác/N theo/E tần_suất/N nguồn/N gửi/V và/CC từ_khóa/V 
+Hệ_thống/N chặn/V spam/V v/N SMSC/Np VTTEK/Np của/E Viettel/Np hoạt_động/V từ/E tháng/N 7/2015/M  /M hệ_thống/N ngăn_chặn/V tin/V rác/N theo/E từ_khóa/N của/E MobiFone/Np có/V dung_lượng/N đáp_ứng/V 15/M triệu/N thuê_bao/V VinaPhone/Np áp_dụng/V chặn/V cả/P tần_suất/N lẫn/C cú_pháp/N từ/E mức/N 60/M tin/phút/N giảm/V xuống/R còn/R 30/M tin/phút/N và/CC đang/R hướng/V tới/E 10/M tin/N //X 5/M phút/Nu 
+Gtel/Np có/V hệ_thống/N chặn/V tin/N nhắn/V theo/E tần_suất/N online/V 100/M tin/N nhắn/V offline/V 300/M tin/N nhắn/V 
+Bên_cạnh/N đó/P các/L nhà/N mạng/N cũng/R đưa/V các/L số/N hotline/N để/E tiếp_nhận/V thông_tin/N của/E khách_hàng/N về/E tin/N nhắn/V rác/N lừa_đảo/V …/M Nhà/N mạng/N cũng/R đã/R tăng_cường/V rà_soát/V giám_sát/V các/L doanh_nghiệp/N cung_cấp/V dịch_vụ/N nội_dung/N hợp_tác/V với/E mình/P 
+Tính/V đến/E tháng/N 8/2015/M số_lượng/N doanh_nghiệp/N cung_cấp/V dịch_vụ/N nội_dung/N thông_tin/N phát_tán/V tin/N nhắn/V rác/N tin/N nhắn/V lừa_đảo/V đã/R bị/V nhà/N mạng/N chấm_dứt/V hợp_đồng/N hợp_tác/V kinh_doanh/V là/V 10/M tổng_đài/N 1900/M và/CC 5/M đầu/N số/N 
+Tuy_nhiên/C tin/V rác/N trên/E thực_tế/N vẫn/R hoành_hành/V 
+Tính/V đến/E tháng/N 8/M đã/R có/V 630.023/M thuê_bao/N di_động/V trả/V trước/E bị/V chặn/V do/E phát_tán/V tin/N rác/N 
+Tại/E hội_nghị/N nhiều/A ý_kiến/N cũng/R chỉ/R ra/V rằng/C chính/A nhà/N mạng/N cũng/R phát_tán/V tin/N nhắn/V rác/N 
+Nhà/N mạng/N là/V gốc_rễ/N của/E vấn_đề/N Tin/V rác/N hoành_hành/V ở/E tất_cả/P các/L mạng/N di_động/V 
+Hiện/N chiêu/N trò/N phát_tán/V tin/V rác/N tin/N lừa_đảo/V ngày_càng/X nhiều/A biến_tướng/N 
+Theo/E đại_diện/N Sở/N Thông/Np tin/V và/CC Truyền_thông/N Hà_Nội/Np tuy/C lượng/N tin/N nhắn/V rác/N từ/E đầu/N số/N của/E doanh_nghiệp/N đã/R giảm/V nhưng/C thực_tế/N các/L nhà/N mạng/N chưa/R quyết_liệt/A trong/E việc/N xử_lý/V các/L thuê_bao/N trả/V trước/E không/R đăng_ký/V thông_tin/N chính_xác/A 
+Ngoài_ra/C hiện_nay/N tiêu_chí/N thế_nào/P là/V tin/N rác/N cũng/R chưa/R thống_nhất/V gây/V khó_khăn/A cho/E việc/N ngăn_chặn/V xử_lý/V 
+Sở/N Thông/Np tin/V và/CC Truyền_thông/N Hà_Nội/Np đưa/V ra/R đề_xuất/V tới/E Bộ/N Thông/Np tin/V và/CC Truyền_thông/N sớm/A ban_hành/V một/M tiêu_chí/N chung/A về/E hạn_mức/N tin/N nhắn/V thuê_bao/V được/R gửi/V tối_đa/A trong/E một/M ngày/N 
+Khi/N thuê_bao/V có/V nhu_cầu/N nhắn_tin/V vượt/V hạn_mức/N cho_phép/V thì_phải/V thực_hiện/V đăng_ký/V với/E nhà/N mạng/N 
+Cần/V quy_định/N rõ/A quyền_hạn/N trách_nhiệm/N của/E nhà/N mạng/N 
+Việc/N chặn/V triệt_để/A tin/N nhắn/V rác/N được/V hay/C không/R phụ_thuộc/V vào/E nhà/N mạng/N vì/E chính/T nhà/N mạng/N là/V đơn_vị/N trực_tiếp/A xử_lý/V 
+Nhà/N mạng/N là/V gốc_rễ/N của/E vấn_đề/N 
+Bảo_Khánh/Np lebaotrung@dantri.com.vn/N 

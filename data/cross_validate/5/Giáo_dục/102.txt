@@ -1,0 +1,38 @@
+Thi/V THPT/Np quốc_gia/N 2017/M môn/N ngữ_văn/N rút/V ngắn/N bớt/V 60/M phút/N
+Sáng/N 226/M Phó_Thủ_tướng/N Vũ_Đức_Đam/Np và/CC đoàn/N giám_sát/V coi/V thi/V của/E Sở/N GDĐT/Np Cần_Thơ/Np đã/R đến/V điểm/N thi/V trường/N THPT/Np Bùi_Hữu_Nghĩa/Np QB/Np ình/V Thuỷ/Np Cần_Thơ/Np kiểm_tra/V tình_hình/N thi_cử/V và/N công_tác/N chuẩn/N bị/V thi/V cho/V thí_sinh/N
+Phó/N thủ_tướng/N hỏi_thăm/V cán_bộ/N coi/V thi/V tại/E trường/N đã/R có/V sơ_suất/N hay/C xảy/V ra/R sự_cố/N ngoài/N ý_muốn/N trong/E buổi/N thi/V đầu_tiên/A hay/C không/R
+Đồng_thời/N phó/N thủ_tướng/N đề_nghị/V cán_bộ/N coi/V thi/V ban/N điều_hành/V coi/V thi/V tạo/V mọi/N điều_kiện/N thuận_lợi/A để/E thí_sinh/V đến/V phòng/N thi/V an_toàn/A
+Dù/C bất_cứ/R có/V xảy/V ra/R sự_cố/N nào/P thì/C để/V thí_sinh/V vào/V phòng/N dự/V thi/V trước/N đã/R mọi/N thủ_tục/N có_thể/R hoàn_tất/V sau/N ông/N Đam/Np nói/V
+Cũng/R theo/V ông/N Đam/Np kì/N thi/V năm/N nay/P có/V thay_đổi/V nhiều/A nét/N mới/A nhưng/C chung_qui/N đều/R đặt/V sự/N an_toàn/A thuận_lợi/A cho/E thí_sinh/N lên/N hàng_đầu/N
+Điển_hình/N thí/N sinh_học/N trường/N nào/P được/V thi/V tại/E trường/N đó/P là/V điều/N thuận_lợi/A đầu_tiên/A giảm/V bớt/V rất/R nhiều/A chi_phí/N căng_thẳng/A cho/V thí_sinh/N
+Theo/E số_liệu/N thống_kê/N của/E Bộ/Np GD/Np ĐT/Np sáng/N 226/M trong/E tổng_số/N 866000/M thí_sinh/N dự/V thi/V THPT/Np quốc_gia/N 2017/M số/N thí_sinh/N dự/V thi/V môn/N toán/N là/V hơn/A 858000/M em/N cao/A hơn/R số/N thí_sinh/N dự/V thi/V môn/N Ngữ_văn/V khoảng/N 20000/M em/N
+Cả/P nước/N chỉ/R có/V hơn/A 20/M phòng/N thi/V không/R có/V thí_sinh/N dự/V thi/V môn/N toán/N còn/V số/N phòng/N thi/V không/R có/V thí_sinh/N dự/V thi/V môn/N ngữ_văn/N cao/A hơn/R gấp/V nhiều/A lần/N
+Số_liệu/N thống_kê/V chung/A của/E Bộ/N GDĐT/Np cũng/R cho/V thấy/V số/N thí_sinh/N là/V học_sinh/N lớp/N 12/M chiếm/N 91/M còn/V lại/V 9/M thí_sinh/N tự_do/N
+Tổng_số/N thí_sinh/N có/V đăng_kí/N nguyện_vọng/N xét/V tuyển/N ĐH/N CĐ/Np là/V hơn/A 640000/M em/N còn/V lại/V là/V thí_sinh/N thi/V chỉ/R để/E xét/V công_nhận/N tốt_nghiệp/V
+Trao_đổi/V với/E Tuổi_Trẻ/Np thứ_trưởng/N Bộ/Np GD/Np ĐT/Np Bùi_Văn_Ga/Np cho/V biết/V ngay/N trong_sáng/N 216/M trước/E khi/N thí_sinh/V đến/V điểm/N thi/V làm/V thủ_tục/N dự/V thi/V Bộ/N GDĐT/N đã/R tiếp_tục/V gửi/V hướng_dẫn/V đến/E các/L hội_đồng/N thi/V THPT/Np quốc_gia/N trên/N toàn_quốc/N nhắc_nhở/V thêm/V về/E công_tác/N coi/V thi/V nhất_là/N với/E các/L phòng/N thi/V dành/V cho/R thí_sinh/A tự_do/N
+Theo/E đó/P đối_với/N các/L điểm/N thi/V có/V bố_trí/V phòng/N thi/V ghép/V các/L thí_sinh/N dự/V thi/V các/L môn/N thành_phần/N của/E bài/N thi/V tổ_hợp/N khác/A nhau/N đảm_bảo/V thí_sinh/N nhận/V được/R mã_đề/V giống/N nhau/N của/E các/L môn/N thành_phần/N của/E bài/N thi/V tổ_hợp/N
+Để/E đảm_bảo/V nguyên_tắc/N này/P Bộ/Np GD/Np ĐT/Np gợi_ý/V các/L điểm/N thi/V có_thể/V áp_dụng/V việc/N sắp_xếp/V thí_sinh/N mới/R được/V bổ_sung/V thêm/V vào/E phòng/N thi/V ngồi/V phía/N sau/N thí_sinh/N đã/R có/V trong/E phòng/N để/E không/R thay_đổi/V vị_trí/N ngồi/V của/E thí_sinh/N đã/R có_mặt/V trong/N phòng/N không/R chèn/V thí_sinh/N mới/A vào/V giữa/N các/L thí_sinh/N đã/R có/V trong/N phòng/N
+Ngoài_ra/C các/L điểm/N thi/V cần/V bố_trí/V phòng/N chờ/V tại/E các/L điểm/N thi/V để/E thí_sinh/V không/R thi/V môn/N đầu/N của/E bài/N tổ_hợp/N có_thể/A chờ/V trước/E khi/N vào/V phòng/N thi/V sau/N đó/P đến/V giờ/N thi/V môn/N thí_sinh/N đã/R đăng_kí/V sẽ/R có/V cán/N bộ/N giám_sát/N đưa/V vào/E phòng/N thi/V
+Thí_sinh/N làm/V thủ_tục/N vào/V phòng/N thi/V tại/E Hội_đồng/N thi/V trường/N Lý_Tự_Trọng/Np TP/Np
+Nha_Trang/Np Khánh_Hoà/Np
+Mặc_dù/N gần/A tới/V giờ/N vào/V phòng/N thi/V nhiều/A em/N vẫn/R mang/V theo/V sách_vở/N để/E ôn/V bài/N trong/E khi/N nhiều/N em/N khác/A tỏ/V ra/R lo_lắng/V khi/N bước/V vào/E phòng/N thi/V Ảnh/Np Thanh_Trúc/Np
+Nhiều/A thí_sinh/N ở/V các/L điểm/N thi/V của/E TPHCM/Np tỏ/V ra/R tự_tin/V thoải_mái/A trước/N giờ/N thi/V môn/N văn/N môn/N thi/V đầu_tiên/A của/E kì/N thi/V THPT/Np quốc_gia/N năm/N 2017/M
+Do/E kì/N thi/V được/V tổ_chức/V ngay/T tại/E trường/N mình/N học/V hoặc/N gần/A trường/N nên/C thí_sinh/V đến/V điểm/N thi/V thuận_lợi/N
+Tại/E điểm/N thi/V Trường/N THPT/Np Nguyễn_Thị_Minh_Khai/Np Q3/Np TPHCM/Np trong/E số/N 469/M thí_sinh/N dự/V thi/V ngoài/E số/N thí_sinh/N là/V học_sinh/N của/E trường/N này/P còn/R có/V các/L thí_sinh/N của/E Trường/N THPT/Np Lê_Quý_Đôn/Np
+Thí_sinh/N Minh_Trung/Np học_sinh/N Trường/N THPT/Np Lê_Quý_Đôn/Np chia_sẻ/V Trước/E khi/N bước/V vào/E môn/N thi/N đầu_tiên/N em/N đã/R được/V thầy/N cô/N ôn_tập/V rất/R kĩ/A nên/C rất/R thoải_mái/A
+Về/E đề/N văn_nghị_luận/N xã_hội/N em/N dự_đoán/N sẽ/R ra/V về/V kĩ_năng/N sống/N của/E giới/N trẻ/N
+Cũng/R tại/V điểm/N thi/V này/N một/M thí_sinh/N mang/V theo/V bịch/N trái_cây/N và/CC mấy/L cây/N nhang/N đến/V tượng_đài/N Nguyễn_Thị_Minh/Np Khai/Np trong/E trường/N để/E thắp/V nhang/N khấn/V nguyện/N
+Tại/E điểm/N thi/V Trường/N THPT/Np Nguyễn_Hữu_Huân/Np QT/Np hủ/V Đức/Np TPHCM/Np có/V 744/M thí_sinh/N dự/V thi/V tại/E 31/M phòng/N
+Đáng/V chú_ý/V tại/E điểm/N thi/N này/P không/R có/V thí_sinh/N tự_do/A và/CC không/R có/V thí_sinh/N dự/V thi/V bài/N khoa_học_xã_hội/X
+Tất_cả/L thí_sinh/N đều/R dự/V thi/V bốn/N bài/N thi/V ngữ_văn/V toán/N khoa_học_tự_nhiên/X và/N tiếng/N Anh/Np
+Theo/E ông/N Lê_Hồng_Sơn/Np giám_đốc/N Sở/N GDĐT/N TPHCM/Np kì/N thi/V năm/N nay/N tại/E TPHCM/Np có/V 71469/M thí_sinh/N đăng_kí/N dự/V thi/V trong/E đó/N thí_sinh/N dự/V thi/V chỉ/R để/V xét/V tốt_nghiệp/V THPT/Np 3192/M thí_sinh/N 447/M số/N thí_sinh/N đã/R tốt_nghiệp/V dự/V thi/V để/E xét/V tuyển/N ĐH/N CĐ/Np 5661/M thí_sinh/N 795/M thí_sinh/N dự/V thi/V vừa/R xét/V tốt_nghiệp/N và/CC xét/N tuyển/V ĐH/N CĐ/N 62596/M thí_sinh/N 8759/M
+TPHCM/Np có/V 114/M điểm/N thi/V tại/E 24/M quận/N huyện/N nhằm/V tạo/V điều_kiện/N thuận_lợi/A cho/E thí_sinh/N không/R phải/A di_chuyển/V xa/A
+Trong/E đó/P có/V 96/M điểm/N thi/V cho/E thí/N sinh_học/N chương_trình/N THPT/Np 18/M điểm/N thi/V dành/V cho/R thí/V sinh_học/N chương_trình/N giáo_dục/V thường_xuyên/A và/N thí_sinh/N tự_do/A
+Các/L điểm/N thi/V cách/V xa/V hội_đồng/N thi/V nằm/V ở/E các/L huyện/N Củ_Chi/Np Cần_Giờ/Np Hóc_Môn/Np Bình_Chánh/Np
+Nơi/N xa/V nhất_là/N Trường/N THPT/Np Quang_Trung/Np huyện/N Củ_Chi/Np cách/V hội_đồng/N thi/V khoảng/N 40km/M
+Tại_Huế/Np hơn/A 13000/M thí_sinh/N cũng/R đã/R có_mặt/V tại/E các/L điểm/N thi/V từ/E khá/N sớm/A
+Theo/E ghi_nhận/N của/E phóng_viên/N tại/V nhiều/A điểm/N thi/V vẫn/R còn/V một_số/N thí_sinh/N đi/V trễ/N vì/N
+quên/V thời_gian/N
+Tại/E hội_đồng/N thi/V Trường/N THPT/Np chuyên/A Quốc_Học/Np vẫn/R có/V nhiều/A thí_sinh/N đem/V điện_thoại/N vào/V phòng/N thi/V
+Giám_thị/N nhắc_nhở/V mới/R cuống/N quít/N chạy/V ra/R ngoài/N gửi/V
+NHÓM/N PV/Np

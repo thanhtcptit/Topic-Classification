@@ -1,0 +1,52 @@
+9/M loại/Nc câu_hỏi/N thường/R gặp/V trong/E bài/N đọc/V hiểu/V tiếng/N Anh/N
+Dựa/V vào_đề/N thi/V minh_họa/V thử_nghiệm/V tham_khảo/V mà/C Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V bài/N đọc/V hiểu/V thường/R có/V 9/M dạng/N câu_hỏi/N sau/A 1/M
+Main/Np idea/V /M câu_hỏi/N về/E ý/N chính/T /M What/Np is/V the/N topic/V of/E this/N passage/N
+Chủ_đề/N của/E bài/N viết/V là/V gì/P What/Np is/V the/N main/V idea/N expressed/N in/V this/N passage/N
+Ý/Np chính/T được/R thể_hiện/V trong/E bài/N là/V gì/P Which/Np title/V best/N reflects/V the/N main/V idea/N of/E the/N passage/N
+Nhan_đề/N phù_hợp/V nhất/R cho/E ý/N chính/A của/E bài/N là/V gì/P
+Với/E loại/Nc câu_hỏi/N này/P trước_hết/N thí_sinh/N cần/V quan_sát/V tiêu_đề/A của/E bài/N /N nếu/C có/V /M hoặc/CC tập_trung/V tìm/V ý/N chính/T ở/E đoạn/N mở_đầu/V hay/C đoạn/N kết/V bài/N
+Đây/P thường/R là/V phần/N giới_thiệu/V và/CC tổng_kết/V ý/N chính/T của/E cả/P bài/N
+Ý/N chính/T phải/V thể_hiện/V nội_dung/N của/E toàn/N bài/N chứ/C không/R phải/V của/E từng/P đoạn/N nhỏ/A
+Đây/P là/V cái/Nc bẫy/N mà/C học_sinh/N cần/V tránh/V
+Nếu/C gặp/V khó_khăn/A thí_sinh/N nên/C để/E câu/V này/P sau/E khi/N xử_lý/V các/L câu_hỏi/N khác/A của/E bài/N như_thế/X sẽ/R hiểu/V nội_dung/N chuẩn_xác/A hơn/R
+2/M
+Factual_Questions/Np /V câu_hỏi/N lấy/V thông_tin/N /M According/Np to/A the/N passage/V why/V //X what/V //X how/V …/A
+Theo/V như/C đoạn/N viết/V tại_sao/X
+Cái/N gì/P
+Thế_nào/X
+According/Np to/A the/N information/N in/V paragraph/N 1/M what/V …/N
+Theo/V như/C thông_tin/N trong/E đoạn/N 1/M cái/Nc gì/P …/A
+Ở/E các/L câu_hỏi/N dạng/N này/P kỹ_năng/N tìm/V từ_khóa/N trong/E câu_hỏi/N và/CC câu/N trả_lời/V là/V rất/R quan_trọng/A
+Bởi/E lẽ/N từ_khóa/A ở/E câu_hỏi/N sẽ/R là/V manh_mối/N để/E tìm/V câu/N trả_lời/V trong/E bài/N đọc/V
+Từ_khóa/N này/P thường/R là/V các/L động_từ/N chính/T danh_từ/N chính/T tính_từ/N chính/T từ/E chỉ/R thời_gian/N nơi/N chốn/N
+Điểm/N khó_ở/A dạng/N câu_hỏi/N này/P là/V đôi_lúc/N đề/N dùng/V các/L từ_đồng_nghĩa/N với/E nhau/N chứ/C không/R phải/V chính/T từ_khóa/A có/V trong/E câu_hỏi/N được/V đưa/V ra/R
+3/M
+Negative/Np factual/V Questions/Np /M câu_hỏi/N lấy/V thông_tin/N phủ_định/A đối_lập/V /N Dạng/N bài/N này/P thí_sinh/N cần/V đọc/V cẩn_thận/A câu_hỏi/N và/CC chú_ý/V đến/E những/L từ/E phủ_định/N thường/R được/V in/V hoa/N sau/N EXCEPT…/Np /M ngoại_trừ/N /A NOT/Np mention/V …/N
+/N không/R được/V nhắc/V đến/E /M LEAST/Np likely/V …/M /N ít/A có/V khả_năng/N xảy_ra/V …/A /M Thông_tin/N nào/P không/R được/V nhắc/V đến/R trong/E bài/N hoặc/CC thông_tin/N sai/A sẽ/R là/V câu/N trả_lời/V được/V chọn/V
+4/M
+Vocabulary_Questions/Np /V câu_hỏi/N về/E từ_vựng/N /M The/Np expression/V in/V line/N  /N  /M could/N best/V replaced/N by/N …/M The/Np word/V  /N  /N in/V line/N  /N  /M is/N closest/N meaning/N to/A …/A Từ/E //X cụm_từ/N  /A  /A ở/E dòng/N  /N  /A có_thể/R được/V thay_thế/V bởi/E //X gần/A nghĩa/N nhất/A với/E từ/E nào/P
+Lý_tưởng/N nhất/A khi/N làm/V câu_hỏi/N này/P là/V thí_sinh/N biết/V nghĩa/N của/E từ/E được/R in/V đậm/A và/CC các/L phương_án/N lựa_chọn/V
+Tuy_nhiên/C đề/N thi/V sẽ/R hỏi/V một/M từ/E khó/A hoặc/CC từ/E mới/R học_sinh/N không/R biết/V nghĩa/N
+Do_đó/C học_sinh/N nên/C sử_dụng/V câu/N và/CC ngữ_cảnh/N có/V chứa/V từ/E cần/V hỏi/V nghĩa/N sử_dụng/V logic/N để/E phán_đoán/V nghĩa/N rồi/C chọn/V
+Cách/V khác/A thí_sinh/N có_thể/R dùng/V phương_pháp/N thay_thế/V các/L lựa_chọn/V với/E từ/E cần/V tìm/V nghĩa/N xem/V phương_án/N nào/P hợp_lý/A nhất/R
+5/M
+Reference_Questions/Np /V câu_hỏi/N liên_hệ/V đến/E từ_vựng/N /M It/M //X They/Np Them/Np Those/Np …/M in/V line/N  /N  /M refers/N to/A  /A Từ_It/Np //X They/Np Them/Np Those/Np …/V ở/E dòng/N …/N để/E ám_chỉ/V …/N Đây/P là/V câu/N tương_đối/A đơn_giản/A đáp_án/N chính_xác/A được/R thay_thế/V bởi/E các/L từ/N như/C trên/N nên/C chỉ/R nằm/V rất/R gần/A với/E các/L từ/N này/P
+Thí_sinh/N đọc/V kỹ/A câu/N văn/N hoặc/CC các/L câu/N có/V liên_quan/V để/E tìm/V ra/R đáp_án/N đúng/A
+6/M
+Inference_Questions/Np /V câu_hỏi/N suy_diễn/N /M It/Np is/V probable/N that/V …/A Có_thể/R là/V …/M It/Np can/V be/V inferred/N from/V the/N passage/V that/N …/V Có_thể/R được/R suy/V ra/R từ/E đoạn/N là/V …/M In/M the/N paragraph/N 2/M the/N author/V implies/N //X suggests/V that/N …/V Trong/E đoạn/N 2/M tác_giả/N ngầm/A ám_chỉ/V //X gợi_ý/V rằng/C …/M Dạng/N câu/N này/P tương_đối/A khó/A vì/E đáp_án/N đúng/A có_thể/R không/R xuất_hiện/V trong/E đề/N
+Học_sinh/N cần/V nắm/V chắc/A nội_dung/N bài/N để/E đưa/V ra/R đáp_án/N chính_xác/A cho/E những/L câu_hỏi/N suy_luận/V
+Chú_ý/V tính/N logic/N của/E bài/N và/CC những/L manh_mối/N tính_chất/N nối_tiếp/V …/N 7/M
+Questions/Np on/V author/N ’/V s/N purpose/N /M câu_hỏi/N mục_đích/N của/E tác_giả/N /M Why/Np does/V the/N author/N mention/N  /A _/M _/Nu _/M _/M  /N
+Tại_sao/X tác_giả/N đề_cập/V đến/E …/N
+The/Np author/V M s/N main/V purpose/N in/V paragraph/N 2/M is/Nu to/A …/M Mục_đích/N chính/T của/E tác_giả/N trong/E đoạn/N 2/M là/V để/E …/V Câu_hỏi/N về/E mục_đích/N khi/N tác_giả/N viết/V về/E một/M vấn_đề/N hoặc/CC đoạn/N nào_đó/P có_thể/R đáp_án/V nằm/V sau/E chữ/N to/A /A để/E …/V /N hoặc/CC ta/P phải/V tự/P lập_luận/N ra/V đáp_án/N
+8/M
+Questions/Np on/V author/N V s/N attitude/V /M câu_hỏi/N về/E thái_độ/N của/E tác_giả/N /M What/Np is/V the/N author/N M s/N opinion/V //X attitude/V of/E  /N _/M _/Nu _/M _/N
+Ý_kiến/N //X thái_độ/N của/E tác_giả/N thể_hiện/V trong/E bài/N là/V gì/P Which/Np of/E the/N following/N most/V accurately/N reflects/V the/N author/N M s/N opinion/N of/E _/M _/Nu _/M _/N
+Điều/N nào/P dưới/E đây/P phản_ánh/V chính_xác/A nhất/R ý_kiến/N //X thái_độ/N của/E tác_giả/N
+Một_số/L đáp_án/N được/V đưa/V ra/R Positive/Np /V tích_cực/A /M Negative/Np /M tiêu_cực/N /A Neutral/Np /M trung_lập/N /A Supportive/Np /M ủng_hộ/V /M Skeptical/Np /M nghi_ngờ/V /N …/A Để/E trả_lời/V câu_hỏi/N này/P thí_sinh/N cần/V dựa/V vào/E những/L câu/N có/V thể_hiện/V quan_điểm/N cá_nhân/N của/E tác_giả/N như/C khen/V chê/V ủng_hộ/V nghi_ngờ/V …/N 9/M
+The/N origin/V of/E the/N passage/N /M nguồn_gốc/N của/E bài/N viết/V /M Where/Np is/V this/N passage/N most/V likely/N seen/V //X found/V
+Bài/N viết/V có_thể/R được/R nhìn/V thấy/V //X tìm/V thấy/V ở/E đâu/P
+Dựa/V vào/E nội_dung/N của/E bài/N đề_cập/V thí_sinh/V chọn/V phương_án/N phù_hợp/V
+Đó/P có_thể/R ở/V tạp_chí/N khoa_học/N tạp_chí/N thời_trang/N mẩu/N quảng_cáo/V trên/E báo/N ấn_phẩm/N tạp_chí/N về/E y_học/N ôtô/N
+Đề/Np thi/V có_thể/R không/R hỏi/V hết/R những/L câu_hỏi/N này/P nhưng/C học_sinh/N cần/V thường_xuyên/A làm/V bài/N luyện_tập/V để/E nắm/V rõ/A ý/N chính/T được/V hỏi/V của/E mỗi/L dạng/N câu_hỏi/N và/CC có/V phán_đoán/V về/E cách/N tìm/V câu/N trả_lời/V đúng/A
+Nắm/V rõ/A các/L dạng/N câu_hỏi/N thường/R gặp/V sẽ/R giúp/V thí_sinh/N tiết_kiệm/V được/V thời_gian/N làm/V bài/N

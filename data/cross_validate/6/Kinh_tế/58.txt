@@ -1,0 +1,17 @@
+​/N Giá/Np USD/Np tiếp_tục/V đi/V lên/R
+Cuối/A ngày/N 266/M giá/N bán/V USD/Np tại/E các/L ngân_hàng/N tiếp_tục/V đi/V lên/R
+Vietcombank/N niêm/N yết_giá/N bán/V 22770/M đồngUSD/N tăng/V 10/M đồngUSD/N so/V với/E cuối/N tuần/N trước/N và/CC tăng/V 45/M đồngUSD/N nếu/N so/V mức/N giá/N ngày/N 156/M
+ACB/Np niêm/V yết_giá/N bán/V USD/Np ở/V mức/N cao/A hơn/R 22775/M đồngUSD/N còn/V Eximbank/Np bán/V USD/Np ở/E mức/N 22780/M đồngUSD/N
+Như/C vậy/P so/V với/E khoảng/N 10/M ngày_trước/N giá/N bán/V USD/Np đã/R tăng/V từ/E 4555/M đồngUSD/N
+Giá/N mua/V USD/Np tiền_mặt/N cũng/R tăng/V lên/R mức/N 22705/M đồngUSD/N
+Thời_gian/N gần/A đây/P tỉ_giá/N trung_tâm/A do/E Ngân_hàng/N Nhà_nước/N niêm_yết/V trong/E xu_thế/N đi/V lên/R
+Ngày/N 166/M tỉ_giá/N trung_tâm/N ở/V mức/N 22410/M đồngUSD/N tuy_nhiên/N đến/V ngày/N 196/M đã/N tăng/V lên/R mức/N 22417/M đồngUSD/N
+Đến/E ngày/N 236/M tỉ_giá/N trung_tâm/N đã/R lên/V đến/T mức/N 22433/M đồngUSD/N trước/E khi/N giảm/V nhẹ/A xuống/V mức/N 22431/M đồngUSD/N vào/E hôm_nay/N 266/M
+Với/E mức/N tỉ_giá/N trung_tâm/N này/P các/L ngân_hàng/N được/V bán/V USD/Np ở/E mức/N tối_đa/A là/V 23104/M đồngUSD/N
+Tuy_nhiên/C hiện/N các/L ngân_hàng/N vẫn/R bán/V USD/N thấp/A hơn/R giá_trần/N 324/M 334/M đồngUSD/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np chuyên_gia/N Ngô_Xuân_Hải_lí/X giải/N giá/N USD/Np đi/V lên/R trong/E mấy/L ngày/N gần/A đây/P là/V do/E Ngân_hàng/N Nhà_nước/N tăng_giá/V mua/V USD/Np thêm/R 50/M đồng/Nu lên/V mức/N 22725/M đồngUSD/N vào/V tuần/N trước/N
+Hiện/N mức/N giá/N thu_mua/N này/P vẫn/R cao/A hơn/A giá/N mua/V USD/Np tại/E các/L ngân_hàng/N 25/M 45/M đồngUSD/N
+Có_thể/A Ngân_hàng/N Nhà_nước/N thấy/V tỉ_giá/N từ/E đầu/N năm/N đến/E nay/N khá/R bình_lặng/A nên/C điều_chỉnh/V một_chút/N để/E khuyến_khích/V xuất_khẩu/V
+Từ/E đầu/N năm/N đến/E nay/N do/E sự/N cải_thiện/V của/E cán_cân/N thương_mại/N nguồn/N vốn/N đầu_tư/V trực_tiếp/A và/N gián_tiếp/N nước_ngoài/N giải_ngân/N tốt/A do_vậy/N đã/R tạo/V nguồn/N cung/N dồi_dào/N cho/E thị_trường/N và/CC Ngân_hàng/N Nhà_nước/N đã/R mua/V vào/E một/M lượng/N ngoại_tệ/N để/E bổ_sung/V cho/R dự_trữ/V ngoại_hối/N ông/Nc Hải/Np nói/V
+Cuối/A ngày/N 266/M giá/N vàng/N thế_giới/N giảm/A 143/M USDounce/N 392000/M đồnglượng/N rơi/V xuống/E mức/N 12423/M USDounce/N tương_đương/V 3412/M triệu/N đồnglượng/N
+Giá/N vàng/N miếng/N SJC/Np giảm/V về/V mức/N 3635/M triệu/M đồnglượng/N

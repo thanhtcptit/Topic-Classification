@@ -1,0 +1,18 @@
+Trung_Quốc/Np chỉnh/V gene/V tạo/V phôi_thai/N kháng/N virus/N HIV/Np
+Theo/E Science_Alert/Np khi/N cuộc/N tranh_luận/V đạo_đức/N về/E việc/N thay_đổi/V gene/N trên/E phôi_thai/N người/N đang/R còn/V diễn/V ra/R các/L nhà_khoa_học/N Trung_Quốc/Np thực_hiện/V thành_công/V lần/N thử_nghiệm/V thứ_hai/N trong/E lịch_sử/N
+Nhóm/N nghiên_cứu/V thuộc/V Đại_học/N Y_Quảng_Châu_Trung_Quốc/Np tiến_hành/V thử_nghiệm/V theo/E một/M quy_trình/N nghiêm_ngặt/A
+Họ/P thu_thập/V 213/M trứng/N đã/R thụ_tinh/V nhưng/C không/R có/V tiềm_năng/N phát_triển/V thành/V người/N hoàn_chỉnh/V
+Trứng/N do/E 87/M bệnh_nhân/N tại/E bệnh_viện/N sản_khoa/N hiến/V tặng/V phục_vụ/V mục_đích/N nghiên_cứu/V
+Các/L nhà_khoa_học/N sử_dụng/V công_cụ/N chỉnh_sửa/V gene/N CRISPR/Cas9/Np để/E chèn/V một/M đột_biến/N có/V trong/E tự_nhiên/N đến/V bộ/N gene/V phôi_thai/N khiến/V phôi/N có/V khả_năng/N kháng/V virus/N HIV/Np
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E tạp_chí/N Nature/Np hôm/N 8/4/M
+Một_số/L người/N mang/V đột_biến/N tự_nhiên/N CCR5/Np Δ/Np 32/M kháng/N virus/N HIV/Np
+Đột_biến/N này/P làm/V thay_đổi/V protein/N CCR5/Np theo/E cách/N có_thể/A ngăn_chặn/V virus/N HIV/Np xâm_nhập/V vào/E tế_bào/N T/Np để/E lây_nhiễm/V Ewen_Callaway/Np lý_giải/V trên/E Nature/Np
+Trong/E số/N 26/M phôi_thai/N được/V mang/V đi/R chỉnh_sửa/V gene/N chỉ/R có/V 4/M phôi/N sửa_đổi/N thành_công/V
+Những/L phôi_thai/N còn/V lại/R có/V dấu_hiệu/N đột_biến/V ngoài/N ý_muốn/N
+Các/L nhà_nghiên_cứu/N tiến_hành/V tiêu_hủy/V tất_cả/P phôi/N sau/E đó/P ba/M ngày/N
+Công_nghệ/N chỉnh_sửa/V gene/N CRISPR/Np có/V nhiều/A triển_vọng/N trong/E tương_lai/N giúp/V các/L nhà_khoa_học/N xác_định/V vị_trí/N những/L đoạn/N ADN/Np xấu/V và/CC thay_thế/V chúng/P nếu/C cần_thiết/V
+Nhưng/C độ_chính_xác/N của/E phương_pháp/N này/P đến/E nay/P vẫn/R khiến/V nhiều/A người/N nghi_ngờ/V
+Nhóm/N nghiên_cứu/V cũng/R nêu/V lên_mặt/V lợi_ích/N và/CC nguy_hiểm/A của/E việc/N chỉnh_sửa/V phôi_thai/N người_ở/N mức_độ/N di_truyền/V
+Công_nghệ/N trên/E dùng/V để/E chống/V lại/R bệnh_tật/N tạo/V ra/R những/L đứa/N trẻ/N sơ_sinh/A thiết_kế/V trước/E có/V tính_trạng/N tốt/A như/C mong_đợi/V nhưng/C cũng/R có_thể/R gây/V ra/R những/L tác_dụng/N phụ/A không/R mong_muốn/V mà/C con_người/N chưa/R biết/V đến/E
+Việc/N chỉnh_sửa/V gene/N hiện_nay/N được/V Anh/N cho_phép/V thực_hiện/V nhưng/C phải/V theo/V quy_định/N rất/R nghiêm_ngặt/A
+Tại_Mỹ/N công_nghệ/N này/P là/V bất_hợp_pháp/A

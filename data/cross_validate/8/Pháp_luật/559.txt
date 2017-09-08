@@ -1,0 +1,11 @@
+Bỏ/V quy_định/N xuất_trình/V đăng_ký/V kết_hôn/V khi/N khai_sinh/V cho/E con/N
+Theo/E Nghị/Np quyết/V 58/NQ-CP/Np về/V đơn_giản_hóa/V thủ_tục/N hành_chính/N giấy_tờ/N công_dân/N liên_quan/V quản_lý/V dân_cư/N thuộc/V phạm_vi/N chức_năng/N quản_lý_nhà_nước/V của/E Bộ/N Tư/Np pháp/V từ/E ngày/N 4/7/M các/L thủ_tục/N sau/N được/V bãi_bỏ/V Thủ_tục/N cấp/V phiếu/N lý_lịch/N tư_pháp/N cho/E công_dân/N Việt_Nam/Np Bãi_bỏ/V bản_sao/N hộ_khẩu/N sổ/N tạm_trú/V /N đối_với/E công_dân/N Việt_Nam/Np /M thông_tin/N về/E ngày_tháng/N năm/N sinh/V nơi/N sinh/V giới_tính/N quốc_tịch/N dân_tộc/N nơi/N thường_trú/V tạm_trú/V …/M Trong/E lĩnh_vực/N thi_hành/V án/N dân_sự/N Bỏ/V quy_định/N nộp/V “/N giấy/N xác_nhận/V của/E Ủy_ban_nhân_dân/N cấp/N xã/N nơi/N người/N đó/P cư_trú/V ”/M /N trong/E thủ_tục/N thanh_toán/V tiền/N trả/V tài_sản/N thi_hành/V án/N ”/N
+Trong/E lĩnh_vực/N chứng_thực/V Bỏ/V quy_định/N yêu_cầu/V người/N chứng_thực/V nộp/V bản_sao/N giấy_tờ/N tùy_thân/V
+Về/V lĩnh_vực/N quốc_tịch/N Bỏ/V thủ_tục/N thông_báo/N có/V quốc_tịch/N nước_ngoài/N
+Trong/E lĩnh_vực/N hộ_tịch/V Bỏ/V thủ_tục/N cấp/N giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N
+Thủ_tục/N đăng_ký/V khai_sinh/V Bỏ/V quy_định/N xuất_trình/V giấy/N chứng_nhận/V kết_hôn/N của/E cha/N mẹ/N trẻ_em/N
+Trong/E thủ_tục/N đăng_ký/V kết_hôn/V đăng_ký/V kết_hôn/N có/V yếu_tố/N nước_ngoài/N Bỏ/V quy_định/N nộp/V giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N trích_lục/N ghi_chú/V ly_hôn/N
+Thủ_tục/N cấp/V phiếu/N lý_lịch/N tư_pháp/N cho/E công_dân/N Việt_Nam/Np Bỏ/V quy_định/N nộp/V bản_sao/N sổ_hộ_khẩu/N sổ/N tạm_trú/V
+Thay/V vào/E đó/P người_dân/N nộp/V bản_sao/N thẻ/N căn_cước/V công_dân/N  /EOS
+Thủ_tục/N xin/V nhập/V quốc_tịch/N Việt_Nam/Np Người/N xin/V nhập/V quốc_tịch/N Việt_Nam/Np không/R cần/V xuất_trình/V hoặc/CC không/R cần/V nộp/V giấy/N tùy_thân/V của/E người/N liên_quan/V đến/E người/N xin/V nhập/V quốc_tịch/N giấy/N chứng_nhận/V kết_hôn/N của/E người/N xin/V nhập/V quốc_tịch/N Việt_Nam/Np với/E công_dân/N Việt_Nam/Np /M nếu/C có/V /M giấy_tờ/N chứng_minh/V nơi/N cư_trú/V cha/N mẹ/N hoặc/CC người/N giám_hộ/V của/E người/N xin/V nhập/V quốc_tịch/N Việt_Nam/Np
+Với/E người/N  /N đang/R cư_trú/V trong/E nước/N  /M xin/V thôi/V quốc_tịch/N Việt_Nam/Np Không/R yêu_cầu/V nộp/V bản_sao/N giấy/N khai_sinh/V hộ_chiếu/N Việt_Nam/Np hoặc/CC giấy_tờ/N chứng_minh/V có/V quốc_tịch/N Việt_Nam/Np

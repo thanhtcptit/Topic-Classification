@@ -1,0 +1,27 @@
+Các/L vụ/N tấn_công/V mạng/N bị/V nghi/V có/V nguồn_gốc/N từ/E Triều_Tiên/Np
+Một_số/L chuyên_gia/N bảo_mật/V đang/R xem_xét/V mối/N liên_quan/V giữa/E Triều_Tiên/Np và/CC mã/N độc/A tống_tiền/V đang/R lây_lan/V ở/E 150/M nước/N
+Trang/N CNN/Np đã/R thống_kê/V lại/R một_số/L vụ/N tấn_công/V mạng/N được/V cho/V là/C có/V sự/N can_thiệp/V của/E nước/N này/P
+Tháng/N 2/2016/M hacker/N đột_nhập/V vào/E hệ_thống/N máy_tính/N của/E ngân_hàng/N trung_ương/N Bangladesh/Np tạo/V lệnh/N giả/A để/E Cục/N dự_trữ/V Liên_bang/N Mỹ/Np tại/E New_York/Np chuyển/V 81/M triệu/M USD/Nu từ/E tài_khoản/N của/E ngân_hàng/N Bangladesh/Np tới/E tài_khoản/N của/E 4/M người/Nc đàn_ông/N ở/E Philippines/Np
+Chúng/P cũng/R yêu_cầu/V chuyển/V thêm/V 20/M triệu/M USD/Nu tới/E một/M ngân_hàng/N ở/E Sri_Lanka/Np nhưng/C không/R thực_hiện/V được/R vì/E lệnh/N chuyển_tiền/V sai/A chính_tả/N
+Hacker/Np  /A cũng/R đã/R sử_dụng/V cách_thức/N này/P để/E tấn_công/V các/L ngân_hàng/N ở/E  /N Ecuador/Np Philippines/Np và/CC Việt_Nam/Np trong/E năm/N 2016/M
+Tuy_nhiên/C đó/P mới/R chỉ/R là/V phần/N nổi/V của/E tảng/N băng/N
+Đầu/N tháng/N 4/2017/M hãng/N bảo_mật/V  /A Kaspersky/Np tuyên_bố/V nhóm/N tin_tặc/N  /M Lazarus/Np là/V thủ_phạm/N của/E những/L cuộc/N tấn_công/V trên/E
+Chúng/P còn/R nhắm/V tới/E một/M loạt/Nc ngân_hàng/N ở/E 18/M nước/N như/C Ấn/V Độ/N Iraq/Np Indonesia/Np Malaysia/Np Thái_Lan/Np Uruguay/Np
+Để/E che_giấu/V nguồn_gốc/N nhóm/N hacker/N đã/R truyền/V tín_hiệu/N qua/V Pháp/Np Hàn_Quốc/Np và/CC Đài_Loan/Np để/E thiết_lập/V máy_chủ/N tấn_công/V
+Tuy_nhiên/C Kaspersky/Np đã/R phát_hiện/V một/M kết_nối/V diễn/V ra/R rất/R ngắn/A từ/E Triều_Tiên/Np
+Triều_Tiên/Np là/V một/M phần/N rất/R quan_trọng/A trong/E chương_trình/N này/P Vitaly_Kamluk/Np trưởng/Z bộ_phận/N nghiên_cứu/V châu/N Á/Np Thái_Bình_Dương/Np của/E Kaspersky/Np phát_biểu/V
+Năm/N 2014/M các/L tin_tặc/N đã/R tấn_công/V hãng/N Sony_Pictures/Np nhà_sản_xuất/N bộ/N phim/N hài/A Interview/Np nói/V về/E âm_mưu/N ám_sát/V lãnh_đạo/N tối_cao/A Kim_Jong/Np un/N của/E Triều_Tiên/Np
+Hacker/Np ăn_cắp/V kịch_bản/N tài_liệu/N thông_tin/N cá_nhân/N của/E diễn_viên/N trong/E phim/N cũng_như/C của/E nhân_viên/N Sony/Np đồng_thời/R đe_dọa/V về/E an_ninh/N nếu/C phim/N được/V công_chiếu/V
+Sony_Pictures/Np cuối_cùng/A phải/V hủy/V buổi/N công_chiếu/V ngày/N 25/12/2014/M
+Cục/N Điều/N tra/V Liên_bang/N Mỹ/Np /V FBI/Np /V đã/R tìm_hiểu/V và/CC thông_báo/V có/V đủ/A thông_tin/N để/E kết_luận/V nhóm/N Lazarus/Np đã/R tiến_hành/V vụ/N thâm_nhập/V với/E sự/Nc hậu_thuẫn/N của/E Triều_Tiên/Np
+Sau/E cuộc/N tấn_công/V Tổng_thống/N Mỹ/Np khi/N đó/P là/V Barack_Obama/Np đã/R ký/V lệnh/N trừng_phạt/V đối_với/E Triều_Tiên/Np
+Vì_Mỹ/Np đang/R lan_truyền/V những/L lời/N cáo_buộc/V vô_căn_cứ/A và/CC vu_khống/V chúng_tôi/P đề_xuất/V một/M cuộc/N điều_tra/V chung/A về/E việc/N này/P người_phát_ngôn/N của/E Bộ/N Ngoại/Np giao/V Triều_Tiên/Np phát_biểu/V đồng_thời/R cảnh_báo/V những/L hậu_quả/N nghiêm_trọng/A nếu/C Washington/Np từ_chối/V hợp_tác/V với/E Bình_Nhưỡng/Np
+Giữa/E năm/N 2016/M cảnh_sát/N Hàn_Quốc/Np cho_biết/V Triều_Tiên/Np đã/R cấy/V mã/V độc/A vào/E hơn/A 140 0/M máy_tính/N ở/E 160/M công_ty/N và/CC cơ_quan/N chính_phủ/N Hàn_Quốc/Np suốt/A từ/E năm/N 2014/M
+Tin_tặc/N không/R thực_hiện/V tấn_công/V ngay/R mà/C chờ_đợi/V có_vẻ/X như/C để/E chuẩn_bị/V cho/E cuộc/N tấn_công/V mạng/N quy_mô/N lớn/A tiêu_diệt/V các/L hệ_thống/N máy_tính/N kiểm_soát/V dịch_vụ/N công/N hệ_thống/N giao_thông/N vận_tải/V
+của/E Hàn_Quốc/Np
+Triều_Tiên/Np tiếp_tục/V phủ_nhận/V các/L cáo_buộc/V trên/E
+Chuyên_gia/N Neel_Mehta/Np của/E Google/Np nhận/V thấy/V một/M phiên_bản/N mã/N của/E WannaCry/Np có/V điểm/N tương_tự/A với/E mã/N độc/A do/E nhóm/N tin_tặc/N Lazarus/Np phát_tán/V hồi/N tháng/N 2/2015/M
+Lazarus/Np là/V nhóm/N bị/V cáo_buộc/V tấn_công/V Sony_Pictures/Np cũng_như/C nhiều/A ngân_hàng/N trên/E thế_giới/N
+Hai/M công_ty/N bảo_mật/V Kaspersky/Np và/CC Symantec/Np cũng/R lên_tiếng/V công_nhận/V mối/N liên_quan/V giữa/E hai/M đoạn/N mã/V tuy_nhiên/C hiện/N còn/R quá/R sớm/A để/E kết_luận/V và/CC cần/V nghiên_cứu/V để/E tìm/V ra/R những/L bằng_chứng/N đủ/A mạnh/A hơn/R
+WannaCry/Np là/V một/M biến_thể/N của/E mã/N độc/A tống_tiền/V /N ransomware/N /M còn/R có/V tên/N gọi/V khác/A là/C WannaCrypt0r/Np 2 M hay/C WCry/Np bắt_đầu/V bùng_phát/V trên/E toàn/N thế_giới/N từ/E ngày/N 12/5/M
+Sau/E 2/M ngày/N xuất_hiện/V mã/V độc/A này/P đã/R gây/V ảnh_hưởng/V tới/E 10 0/M tổ_chức/N 200 0/M cá_nhân/N trong/E khoảng/N 150/M quốc_gia/N trên/E thế_giới/N

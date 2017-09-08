@@ -1,0 +1,9 @@
+Hàng/R trăm/M ấu_trùng/N ký_sinh/N trong/E cánh_tay/N người/N đàn_ông/N
+Bệnh_nhân/N 51/M tuổi/N vào/E viện/N ngày/N 31/5/M trong/E tình_trạng/N đau_nhức/A vùng/N cánh_tay/N chảy/V dịch/N mủ/N thối/V nhiều/A ấu_trùng/N đang/R sống/V ký_sinh/N tại/E vị_trí/N ổ/N nhiễm_trùng/A
+Gần/A một/M tháng/N trước/E bệnh_nhân/N mọc/V nhọt/N ở/E cánh_tay/N tự/P điều_trị/V ở/E nhà/N nhưng/C không/R khỏi/V
+Ông/N dùng/V thuốc_nam/N rửa/V vết_thương/N hàng/R ngày/N
+Sau/E một/M tuần/N vết_thương/N sưng/A đau/V nhiều/A hơn/R rỉ/V máu/N ông/N đến/V bệnh_viện/N đa_khoa/N tỉnh/N khám/V
+Bác_sĩ/N chẩn_đoán/V cánh_tay/N bệnh_nhân/N có/V nhiều/A vị_trí/N bị/V hoại_tử/V ký_sinh_trùng/N phát_sinh/V  /EOS
+Bác_sĩ/N Quàng_Văn_Hải/Np Phó_Trưởng/Np khoa/N Chấn_thương/V chỉnh_hình/N Bệnh_viện/N Đa_khoa/N tỉnh/N Tuyên_Quang/Np cho_biết/V trong/E hơn/A một/M giờ/N phẫu_thuật/V kíp/N mổ/V đã/R cắt/V lọc/V các/L tổ_chức/N hoại_tử/V loại_bỏ/V ấu_trùng/N đang/R sống/V trong/E cánh_tay_phải/N người_bệnh/N
+Hiện/N bệnh_nhân/N tỉnh/N giảm/V cảm_giác/N đau/V do/E ấu_trùng/N bò/N trong/E cơ/N và/CC tiếp_tục/V được/V chăm_sóc/V sau/N mổ/V
+Bác_sĩ/N khuyến_cáo/N bệnh_nhân/N không/R nên/V tự_ý/A sử_dụng/V thảo_dược/N không/R rõ/A nguồn_gốc/N vì/E nó/P tạo/V điều_kiện/N thuận_lợi/A cho/E vi_trùng/N vi_khuẩn/V phát_triển/V trên/E các/L vết_thương/N hở/T

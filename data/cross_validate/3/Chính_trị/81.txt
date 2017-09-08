@@ -1,0 +1,15 @@
+Một/M thanh_niên/N chết/V do/N chơi/V game/N kiệt_sức/A
+Vào/V tiệm/N chơi/V game/N liên_tục/A thời_gian/N dài/A H/Np
+được/V phát_hiện/V tử_vong/V trong/N tiệm/N
+Nguyên_nhân/N ban/N đầu/N được/V xác_định/V là/V viêm/N phổi/N cấp/N suy_nhược/A cơ_thể/N vì/E không/R ăn_uống/V gì/N trong/E thời_gian/N dài/A
+Sáng/N 17/M ngành/N chức_năng/N TP/Np Bà/N Rịa/Np Bà/N Rịa/Np Vũng_Tàu/Np đã/R bàn_giao/V thi_thể/N anh/N Đ/Np
+QH/Np sinh/V 1991/M quê/N Phú_Lộc/Np Thừa_Thiên/Np Huế/Np cho/V gia_đình/N mai_táng/V
+Trước/E đó/P chiều/N 306/M Đ/Np
+QH/Np được/V phát_hiện/V đã/R chết/V trong/E tiệm/N trò_chơi/N điện_tử/N công_cộng/A ở/E đường/N Cách_Mạng_Tháng_Tám/Np phường/N Long_Toàn/Np TP/Np Bà/N Rịa/Np
+vào/V tiệm/N trên/N chơi/V game/N từ/E lúc/N 19h/M tối/N 296/M đến/E 0h30/M ngày/N 306/M thì/C không/R chơi/V và/N nằm/V nghỉ/V ngay/T trong/N tiệm/N
+Mọi/L người/N tưởng/V H/Np
+mệt/N nằm/V nghỉ/V nên/V không/R gọi/V
+Đến/E chiều/N 306/M mọi/N người/N phát_hiện/V H/Np
+đã/R tử_vong/V
+Nguyên_nhân/N H/Np
+tử_vong/N ban_đầu/N được/V xác_định/V là/V do/N viêm/N phổi/N cấp/N suy_nhược/A cơ_thể/N vì/E không/R ăn_uống/V gì/N trong/E thời_gian/N dài/A

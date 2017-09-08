@@ -1,0 +1,9 @@
+Bắt/V 2/M đối_tượng/N đột_nhập/V kho/N chứa/V hàng/N trộm/V 3/M xe_máy/N 
+Hà_Nam/Np Sáng/N 12/7/M Phòng_Cảnh/Np sát/A hình_sự/N Công_an/N Hà_Nam/Np bắt/V khẩn_cấp/V đối_tượng/N Vũ_Quốc_Phong/Np SN/Np 1990/M )/Nu trú/V ở/E phường/N Lam_Hạ/Np và/CC Nguyễn_Văn_Hùng/Np SN/Np 1994/M )/Nu trú/V ở/E tổ/N 2/M phường/N Minh_Khai/Np thành_phố/N Phủ_Lý/Np tỉnh/N Hà_Nam/Np để/E điều_tra/V về/E hành_vi/N trộm_cắp/V tài_sản/N 
+Theo/E đó/P vào_khoảng/X 2h/M 20/M ’/Nu ngày/N 12/7/M Phòng_Cảnh/Np sát/A hình_sự/N Công_an/N Hà_Nam/Np nhận/V được/R tin/N báo/N của/E anh/N Nguyễn_Đức_Minh/Np trú/V ở/E huyện/N Kim_Bảng/Np về/E việc/N bị/V kẻ_gian/V đột_nhập/V vào/E kho/N chứa/V hàng/N của/E mình/P ở/E khu_tập_thể/N xi_măng/V Bút_Sơn/Np phường/N Lê_Hồng_Phong/Np thành_phố/N Phủ_Lý/Np bị/V kẻ_gian/V bẻ_khóa/V đột_nhập/V lấy/V trộm/V 3/M chiếc/Nc xe_máy/N 
+Sau/E khi/N nhận/V được/R tin/N báo/N hơn/R 1/M tiếng/Nu sau/N lực_lượng/N trinh_sát/N Phòng_Cảnh/Np sát/A hình_sự/N Công_an/N tỉnh/N Hà_Nam/Np bằng/E các/L biện_pháp/N nghiệp_vụ/N đã/R điều_tra/V làm/V rõ/A và/CC bắt/V được/R Phong/Np và/CC Hùng/Np khi/N 2/M đối_tượng/N đang/R lẩn_trốn/V tại/E xã/N Liên_Sơn/Np huyện/N Kim_Bảng/Np tỉnh/N Hà_Nam/Np 
+Tang_vật/N thu_giữ/V 3/M xe_máy/N 1/M bộ/N vam/N phá/V khóa/N 1/M điện_thoại_di_động/N 
+Tại/E cơ_quan/N Công_an/N Phong/Np và/CC Hùng/Np đã/R khai/V nhận/V toàn_bộ/L hành_vi/N phạm_tội/V của/E mình/P 
+Được/V biết/V Phong/Np từng/R có/V 2/M tiền_án/N về/V tội/N trộm_cắp/V tài_sản/N và/CC cướp/V tài_sản/N Hùng/Np có/V 1/M tiền_án/N về/V tội/N cướp/V tài_sản/N 
+Hiện/N cơ_quan/N Công_an/N tỉnh/N Hà_Nam/Np đang/R tiếp_tục/V điều_tra/V làm/V rõ/A 
+Đức_Văn/Np 

@@ -1,0 +1,15 @@
+Tia/Nc laser/N có/V khả_năng/N đốt/V nóng/A lên/R tới/T 15/M triệu/N độ/V C/N
+Theo/E IFL/Np Science/Np phản_ứng/V nhiệt_hạch/N hạt_nhân/N xảy_ra/V một_cách/N tự_nhiên/A bên/N trong/N lõi/N của/E những/L ngôi_sao/N dưới/E điều_kiện/N nhiệt_độ/N cực/A cao/A
+Ví_dụ/V Mặt_Trời/Np có/V nhiệt_độ/N lõi/V là/V 15/M triệu/N độ/V C/N
+Nguyên_tử/N của/E các/L nguyên_tố/N nhẹ/A hơn/R va/V vào/E nhau/N hạt_nhân/N của/E chúng/P nóng_chảy/V và/CC tạo/V ra/R những/L nguyên_tố/N nặng/A hơn/R
+Trong/E quá_trình/N đó/P năng_lượng/N được/V giải_phóng/V
+Tuy_nhiên/C để/E kích_hoạt/V quá_trình/N này/P diễn/V ra/R ban_đầu/N các/L hạt_nhân/N phải/V dao_động/V ở/E mức/N đủ/A để/E tương_tác/V với/E nhau/N
+Dù/C một_số/L quá_trình/N vật_lý/N bên/N trong/E Mặt_Trời/N có_thể/R hạ/V thấp/A nhiệt_độ/N đánh/V lửa/N để/E bắt_đầu/V phản_ứng/V nhiệt_hạch/N lượng/N nhiệt/N cần_thiết/A vẫn/R rất/R cao/A
+Một/M nhóm/N các/L nhà_vật_lý/N lý_thuyết/N ở/E Đại_học/N Hoàng_gia/N London_Anh/Np đã/R tìm/V cách/N khắc_phục/V vấn_đề/N này/P
+Trong/E nghiên_cứu/N công_bố/V trên/E tạp_chí/N Nature_Communication/Np hôm/N 13/11/M các/L nhà_nghiên_cứu/N cho_biết/V công_nghệ/N laser/N mới/A của/E họ/P có_thể/R đốt/V nóng/A vật_chất/N ở/E nhiệt_độ/N lõi/N Mặt_Trời/Np chỉ/R trong/E 20/M phần/N triệu/N tỷ/V giây/N
+Thời_gian/N này/P nhanh/A hơn/R gấp/V 100/M lần/N so/V với/E tốc_độ/N hiện_nay/N trong/E các/L thí_nghiệm/N nhiệt_hạch/N do/E Cơ_quan/N Đánh/V lửa/N Quốc_gia/Np National_Ignition_Facility/Np NIF/Np của/E Mỹ/Np tiến_hành/V
+Phần_lớn/N các/L loại/N tia/Nc laser/N nhắm/V đến/E electron/N bên/N trong/E vật_liệu/N khiến/V chúng/P dao_động/V dẫn/V đến/E nhiệt_độ/N chung/A tăng/V mạnh/A
+Tia/Nc laser/N cường_độ/N cao/A mới/R tập_trung/V vào/E các/L ion/N của/E vật_liệu/N sử_dụng/V sốc/N tĩnh_điện/N để/E buộc/V chúng/P tăng_tốc/V và/CC bắn/V phá/V ở/E tốc_độ/N khác_nhau/A
+Kết_quả/N là/V những/L ion/N va_chạm/V vào/E nhau/N sản_sinh/V ma_sát/N và/CC nhiệt_lượng/N
+Theo/E các/L nhà_nghiên_cứu/N công_nghệ/N laser/N mới/R cho/V hiệu_quả/N tốt/A nhất/R trên/E vật_liệu/N gồm/V hai/M loại/Nc ion/N như/A nhựa/N
+Nếu/C có_thể/R chứng_minh/V tính/N hiệu_quả/N trong/E thực_tế/N công_nghệ/N laser/N này/P sẽ/R mang/V lại/R tốc_độ/N đốt/V nóng/A nhanh_nhất/A từ/E trước/N tới/E nay/N và/CC là/V tiền_đề/N để/E phát_triển/V mạnh/A những/L ngành/N công_nghiệp/N ứng_dụng/V phản_ứng/N nhiệt_hạch/N hạt_nhân/N như/C sản_xuất/V điện/N

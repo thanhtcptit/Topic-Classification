@@ -1,0 +1,7 @@
+Ông/Nc lão/N 70/M tuổi/N chạy/V xe_ôm/N bị/V 4/M nhát/N đâm/V nằm/V kêu_cứu/V bên/N đường/N
+Chiều/N 4/7/M tại/E ngã/N ba/M đường/N liên/Z xã_giao/V với/E quốc_lộ/N 7/M thuộc/V địa_phận/N xã/N Diễn_Bình/Np /M huyện/N Diễn_Châu/Np Nghệ_An/Np /M người_dân/N nghe/V tiếng/N kêu_cứu/V của/E người/Nc đàn_ông/N ôm/V vết_thương/N nằm/V trên/E vũng/N máu/N
+Khi/N có/V người/N tiếp_cận/V nạn_nhân/N chỉ/R kịp/A thông_báo/V ngắn_gọn/A mình/P làm/V nghề/N lái_xe/N ôm/V chở/V một/M người/Nc đàn_ông/N không/R quen_biết/V tới/E địa_phận/N xã/N Diễn_Bình/Np thì/C bị/V tấn_công/V bằng/E dao/N
+Trong/E lúc/N cố/V giằng_co/V để/E giữ/V ví/N tiền/N ông/N bị/V người/N khách/N đâm/V dao/N liên_tiếp/A
+Chiếc/Nc xe_máy/N bị/V hắn/P cướp/V đi/V
+Sau/E vài/L câu/N nói/V nạn_nhân/N lịm/A dần/R nên/C được/V chuyển/V tới/V bệnh_viện/N ông/Nc Trần_Văn_Diên/Np /V Trưởng/Np công_an/N xã/N Diễn_Bình/Np /A kể/V và/CC cho_biết/V nạn_nhân/N khoảng/A 70/M tuổi/N  /EOS
+Bác_sĩ/N xác_định/V người/N lái_xe/N ôm/V già/A bị/V mất/V nhiều/A máu/N do/E trúng/V 4/M nhát/N dao/N ở/E tay/N và/CC vai/N

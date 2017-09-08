@@ -1,0 +1,11 @@
+3/M bố_con/N nhập_viện/V do/E bị/V tạt/V axit/N bỏng/A nặng/A
+Bác_sĩ/N Trần_Văn_Khoa/Np Khoa_Phỏng_Tạo/Np hình/N Bệnh_viện/N Chợ_Rẫy/Np cho_biết/V bệnh_nhân/N  /M Giáp_Thị_Mỹ_Trinh/Np 23/M tuổi/N nhập_viện/V với/E diện_tích/N bỏng/A 9%/M độ/N 2/M 3/M ở/E mặt/N mắt/N thân/N tay_trái/N và/CC hai/M chân/N
+Đặc_biệt/A bệnh_nhân/N bị/V tổn_thương/V ở/E mắt/N thiếu/V máu/N giác_mạc/V rất/R nặng/A có_thể/A ảnh_hưởng/V đến/E thị_lực/N sau_này/N
+Bệnh_nhân/N sẽ/R được/V phẫu_thuật/V cắt/V lọc/V da/N hoại_tử/N điều_trị/V và/CC theo_dõi/V thị_lực/N
+Em_gái/N của/E Trinh/Np tên/N Giáp_Thị_Mỹ_Trâm/Np 18/M tuổi/N bỏng/A axit/V 12%/M  /N độ/N 2/M độ/N 3/M ở/E vùng/N mặt/N cổ/N thân/N hai/M tay/N
+Vùng/N bỏng/A nặng/A nhất_là/X sau/E lưng/N sẽ/R được/V phẫu_thuật/V cắt/V bỏ/V da/N hoại_tử/N  /M Bạn_trai/N của/E Trinh/Np là/V Hoàng_Anh_Tuấn/Np 23/M tuổi/N cũng/R nhập_viện/V vì/E bỏng/A axit/N  /V rải_rác/A ở/E mặt/N tứ_chi/N
+Ông/Nc bố/N Giáp_Văn_Cường/Np 47/M tuổi/N điều_trị/V tại/E khoa/N Mắt/N vì/E bỏng/A giác_mạc/N và/CC vùng/N cổ/A ngực/N
+Bác_sĩ/N Ngô_Văn_Hồng/Np  /V Trưởng_Khoa_Mắt_Bệnh/Np viện/N Chợ_Rẫy/Np cho_biết/V mắt/N bên/N phải/A của/E bệnh_nhân/N bị/V bong/V biểu/V mô/P nên/C thị_lực/N giảm/V hơn/R mắt/N trái/A
+Bác_sĩ/N đã/R xử_trí/V ban_đầu/N điều_trị/V chống/V nhiễm_trùng/A giảm/V đau/N tiên_lượng/N phục_hồi/V tốt/A
+Người/N bố/N cho_biết/V trong/E lúc/N cãi/V nhau/N do/E mâu_thuẫn/N với/E hàng_xóm/N tên/N Lê_Văn_Hào/Np đã/R bị/V người/N này/P cầm/V can/Nc axit/N tạt/V cả/P nhà/N
+Hiện/N công_an/N TP/Np Biên_Hòa/Np đã/R tạm/A giữ/V hình_sự/N ông/N Hào/Np để/E điều_tra/V

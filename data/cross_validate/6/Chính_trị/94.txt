@@ -1,0 +1,7 @@
+​/N Mở/V hệ_thống/N giao_dịch/N điện_tử/N cho/E người/N nước_ngoài/N nhập_cảnh/V
+Cục/N quản_lí/N xuất_nhập_cảnh/N tại/E miền/N Nam/Np vừa/R ra/V thông_báo/V sẽ/R triển_khai/V hệ_thống/N giao_dịch/V điện_tử/N kể/V từ/E ngày/N 172017/M
+Thông_qua/V hệ_thống/N giao_dịch/V điện_tử/N các/L cơ_quan/N tổ_chức/V và/N doanh_nghiệp/N trong/E nước/N có_thể/R bảo_lãnh/V người/N nước_ngoài/N nhập_cảnh/V tại/E Việt_Nam/Np thuận_tiện/A hơn/R trong/E tất_cả/N các/L khâu/N thủ_tục/N tiếp_nhận/V giải_quyết/V hồ_sơ/N và/CC trả/V kết_quả/N
+Đại_tá/N Đậu_Hiền_Lương/Np phó/N cục_trưởng/N Cục/N quản_lí/N xuất_nhập_cảnh/N cho/V biết/V đây/P là/V bước/N cải_cách/V thủ_tục/N hành_chính/N trong/E lĩnh_vực/N xuất_nhập_cảnh/N của/E Việt_Nam/Np theo/V hướng/N tăng_cường/N ứng_dụng/V công_nghệ_thông_tin/N trong/E công_tác/N quản_lí_nhà_nước/X
+Theo/E đó/P hệ_thống/N giao_dịch/V điện_tử/N góp_phần/V giảm/V chi_phí/N tiết_kiệm/V thời_gian/N cho/V các/L cơ_quan/N tổ_chức/V
+Với/E thao_tác/N đơn_giản/A sử_dụng/V tài_khoản/N để/E truy_cập/V trang/N thông_tin/N điện_tử/N và/CC thực_hiện/V các/L bước/N theo/V hướng_dẫn/N để/E làm/V thủ_tục/N các/L cơ_quan/N tổ_chức/V không/R cần/V đến/V trực_tiếp/A cục/N quản_lí/N xuất_nhập_cảnh/N làm/V hồ_sơ/N
+Vừa_qua/N cục/N cũng/R đã/R tổ_chức/V buổi/N tập_huấn/V cho/V đại_diện/N 57/M doanh_nghiệp/N để/E hướng_dẫn/V trình_tự/N các/L bước/N gửi/V công_văn/N và/CC nhận/V kết_quả/N trả_lời/V qua/V hệ_thống/N giao_dịch/N điện_tử/N

@@ -1,0 +1,8 @@
+Vận_chuyển/N đường_sắt/N sẽ/R tiết_kiệm/V 20/M chi_phí/N so/V với/N đường_bộ/N
+Sử_dụng/V đường_sắt/N sẽ/R tiết_kiệm/V được/V ít_nhất/N 20/M chi_phí/N vận_chuyển/V so/V với/E đường_bộ/N với/C thời_gian/N từ/E 72/M đến/E 75/M giờ/Nu cho/E một/M container/N hàng/N lạnh/A từ/E Sóng_Thần/Np đến/V Đồng_Đăng/Np
+Tính_toán/N này/P được/V đưa/V ra/R trong/E buổi/N Công_ty/N cổ_phần/N vận_tải/V đường_sắt/N Hà_Nội/Np HARACO/Np vừa/R kí/V hợp_đồng/N cung_cấp/V dịch_vụ/N vận_chuyển/V đường_sắt/N trọn_gói/N container/N lạnh/A cho/V TânNamChinh/N Logistics/Np TNC/Np LOGISTICS/Np từ/E các/L ga/N Sóng_Thần/Np Bình_Thuận/Np
+đến/E ga/N Lào_Cai/Np Đồng_Đăng/Np Lạng_Sơn/Np và/CC ngược_lại/N
+Thoả/N thuận/N mở/V ra/R cơ_hội/N cho/V TNC/Np LOGISTICS/Np góp_phần/V phát_triển/V hệ_thống/N dịch_vụ/N gia_tăng/V trong/E ngành/N đường_sắt/N như/C khai_báo/N hải_quan/N kho_bãi/V tìm/V khách/N hàng/N mới/A
+tận_dụng/N tối_đa/A công_suất/N vận_chuyển/V hàng/N hoá/N của/E ngành/N logistics/N đường_sắt/N
+TNC/N LOGISTICS/Np sẽ/R đầu_tư/V kinh_phí/N ban_đầu/N để/E lắp_đặt/V thêm/V các/L phụ_kiện/N vào/V toa_xe/N Mc/Np chuyên_dùng/A đảm_bảo/V đủ/A điều_kiện/N vận_chuyển/V được/R hàng/N bằng/E container/N lạnh/A tương_thích/N về/V công_nghệ/N kĩ/N thuật/N và/CC chất_lượng/N hàng/N lạnh/A khi/N đến/V Đồng_Đăng/Np Lạng_Sơn/Np nối_kết/V với/E logistics/N đường_sắt/N quốc_tế/N Á/Np Âu/Np qua/V cửa_khẩu/N Lào_Cai/Np
+Việc/N sử_dụng/V đường_sắt/N khách/N hàng/N sẽ/R tiết_kiệm/V được/R ít/A nhất/A 20/M chi_phí/N vận_chuyển/V so/V với/E đường_bộ/N với/C thời_gian/N từ/E 72/M đến/E 75/M giờ/Nu cho/E một/M container/N hàng/N lạnh/A từ/E Sóng_Thần/Np đến/E Đồng_Đăng/Np ông/N Vũ_Trọng_Tuệ/Np Tổng/N giám/N đốc/N TNC/Np LOGISTICS/Np cho/V biết/V

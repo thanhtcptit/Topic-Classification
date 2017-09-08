@@ -1,0 +1,9 @@
+Khởi_tố/V vụ/N án/N 7/M bệnh_nhân/N chạy/V thận/N tử_vong/N
+TTo/N Cảnh_sát/N điều_tra/V Công_an/N tỉnh/N Hoà_Bình/Np đã/R khởi_tố/V vụ/N án/N để/E điều_tra/V làm/V rõ/A nguyên_nhân/N tử_vong/N của/E 7/M bệnh_nhân/N chạy/V thận/N nhân_tạo/A tại/E Bệnh_viện/N đa_khoa/N tỉnh/N xảy/V ra/R ngày/N 295/M
+Ngày/N 305/M xác_nhận/V với/E Tuổi_Trẻ/Np một/M lãnh_đạo/N Tổng_cục/N Cảnh_sát/N phòng_chống/V tội_phạm/N Bộ/N Công_an/N cho/V biết/V như/C trên/N
+Theo/E thông_tin/N từ/E Công_an/N Hoà_Bình/Np hiện_tại/N cơ_quan/N điều_tra/V đã/R hoàn_tất/V khám_nghiệm/V tử_thi/N 7/M bệnh_nhân/N tử_vong/N và/CC bàn_giao/V cho/E gia_đình/N lo/V hậu_sự/N
+Công_an/N tỉnh/N cũng/R cho/V biết/V cùng/A với/C việc/N giải_thích/V động_viên/V tinh_thần/N gia_đình/N nạn_nhân/N cơ_quan_chức_năng/N cũng/R đang/R tăng_cường/V biện_pháp/N đảm_bảo/V an_ninh/N trật_tự/N phòng_ngừa/N ngăn_chặn/V việc/N lợi_dụng/V vụ_việc/N gây/V ảnh_hưởng/N an_ninh/N trật_tự/N
+dự_phòng/V các/L phương_án/N cụ_thể/A có_thể/A xảy/V ra/R kiên_quyết/A không/R để/V xảy/V ra/R sự_việc/N phức_tạp/A
+Như/C thông_tin/N đã/R đưa/V ngày/N 295/M tại/E Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np có/V 6/M bệnh_nhân/N tử_vong/N trong/E khi/N đang/R chạy/V thận/N nhân_tạo/A
+Đêm_ngày/N 295/M có/V thêm/V một/M bệnh_nhân/N nữa/R tử_vong/V
+Hiện/N có/V 10/M bệnh_nhân/N cùng/N ca/N chạy/V thận/N sáng/N 295/M đã/R được/V đưa/V về/E Bệnh_viện/N Bạch_Mai/Np điều_trị/V và/CC 1/M bệnh_nhân/N bị/V tai_biến/V nặng/A đang/R nằm/V điều_trị/V tại/E bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np

@@ -1,0 +1,7 @@
+Chuỗi/V hoạt_động/N Gia_đình/N là/V mái/N ấm/A
+Chuỗi/N hoạt_động/V kỉ_niệm/N Ngày/N gia_đình/N Việt_Nam/Np 286/M do/N đường/N sách/N TPHCM/Np tổ_chức/V diễn/V ra/R trong/E 5/M ngày/N từ/E 286/M đến/N 27/M
+Một_số/N chuyên_đề/N dành/V cho/R phụ_huynh/N như/C lúc/N 8h30/N sáng/N 286/M diễn_giả/N Lệ_Chi/Np trò_chuyện/V về/V cách/N xây_dựng/V tủ_sách/N gia_đình/N
+Tiếp_nối/N là/V chuyên_đề/N Chia_sẻ/V kinh_nghiệm/N gia_đình/N và/CC bạn/N trẻ/N đi/V du_học/V lúc/N 9h/M ngày/N 296/M hoặc/N chuyên_đề/N Sống/V vui/V khoẻ/N mỗi/L ngày/N nói/V về/E chuyện/N sử_dụng/V thực_phẩm/N sạch/A 9h/M ngày/N 17/M
+Ngoài_ra/C bạn/N nhỏ/A có_thể/A đến/V với/E các/L hoạt_động/N như/C Chơi/V với/E chú/N hề/N và/CC xiếc/V bong_bóng/N 9h/M ngày/N 17/M
+giao_lưu/V với/E nhạc_sĩ/N Nguyễn_Văn/Np Chung/Np về/V sách/N nhạc/N 100/M bài/N hát/V thiếu_nhi/N 16h/M ngày/N 17/M
+giao_lưu/V cùng/A chú/N Khểnh_Sài_Gòn/Np Bambini_Group/Np 16h/M ngày/N 27/M

@@ -1,0 +1,29 @@
+Đại_lí/N ma/N cà/V thẻ/N giả/V chiếm_đoạt/V tiền/N
+Thanh_toán/V khống/N
+Theo/E C50/M thời_gian/N qua/R phát_hiện/V nhiều/A vụ/N đối_tượng/N lợi_dụng/V POS/Np để/E thanh_toán/V thẻ/N giả_như/N trường_hợp/N Đ/Np
+VT/Np ùng/V 26/M tuổi/N quê/N Hà_Nam/Np
+Theo/E cơ_quan/N điều_tra/V sau/N khi/N học/V được/R chiêu/N làm/V giả/N thẻ_tín_dụng/N NH/Np trên/E Internet/Np Tùng/Np đã/R làm/V giả/V nhiều/A thẻ_tín_dụng/N NH/Np chiếm_đoạt/V thông_tin/N tài_khoản/N của/E người/N nước_ngoài/N rồi/C mua_sắm/V hàng_hoá/N
+Để/E thực_hiện/V kế_hoạch/N của/E mình/N Tùng/Np đã/R kí/V hợp_đồng/N làm/V đơn_vị/N chấp_nhận/V thẻ/N của/E NH/Np và/CC được/V cấp/V một/M máy/N chấp_nhận/V thanh_toán/V thẻ/N POS/Np lắp_đặt/V tại/E cửa_hàng/N điện_thoại/N của/N Tùng/Np
+Từ/E tháng/N 1/M đến/E tháng/N 92015/M NH/Np kí/V hợp_đồng/N với/E Tùng/Np đã/R phát_sinh/V 307/M giao_dịch/N thanh_toán/V thẻ/N với/E tổng_số/N tiền/N khoảng/N 24/M tỉ/M đồng/Nu
+Trong/E đó/P chỉ/R có/V 12/M giao_dịch/N thành_công/V với/E số/N tiền/N gần/A 35/M triệu/M đồng/Nu còn/V lại/R các/L giao_dịch/N khác/A không/R thành_công/V do/E hệ_thống/N của/E NH/Np phát_hiện/V thẻ/N giả/V thẻ/N bị/V đánh_cắp/V thẻ/N không/N hợp_lệ/V
+Trước/E đó/P tháng/N 72015/M Công_an/N tỉnh/N Khánh_Hoà/Np bắt/V khẩn_cấp/N Yang_Qing/Np 43/M tuổi/N quốc_tịch/N Mỹ/Np về/V hành_vi/N sử_dụng/V thông_tin/N tài_khoản/N thẻ/N NH/Np để/E chiếm_đoạt/V tài_sản/N
+Cụ_thể/N hoá_đơn/V dùng/V cơm/N chỉ/R vài/L trăm_ngàn/M đồng/Nu nhưng/C Yang_Qing/Np đã/R cấu_kết/V với/E nhà_hàng/N cà/N 42/M lần/N bằng/E các/L thẻ_tín_dụng/N giả/V để/E thanh_toán/V trên/E 15/M tỉ/M đồng/Nu
+Với/E số/N tiền/N này/P chủ/N nhà_hàng/N được/V hưởng/V hoa_hồng/N hơn/A 700/M triệu/M đồng/Nu
+Tại/E cơ_quan/N công_an/N Yang_Qing/Np khai/V được/R một/M đối_tượng/N người/N nước_ngoài/N móc_nối/V và/CC chỉ/V cho/V phương_thức/N dùng/V thẻ_thanh_toán/N quốc_tế/N giả/V thực_hiện/V các/L giao_dịch/N bất_hợp_pháp/N để/E chiếm_đoạt/V tiền_của/N các/L chủ/N thẻ/N
+Giám_đốc/N trung_tâm/N thẻ/V một/M NH/Np cổ/N phần_lớn/N tại/E TPHCM/Np cho/V biết/V hiện/N chưa/R có/V quy_định/N bắt_buộc/V máy/N POS/Np không/R dây/N phải/V có/V tính_năng/N định_vị/V qua/R GPS/Np và/CC phải/V bật/V tính_năng/A này/P mới/R thanh_toán/V được/R
+Do_vậy/C có/V trường_hợp/N đơn_vị/N chấp_nhận/V thẻ/N đã/R lợi_dụng/V
+Phương_thức/N thủ_đoạn/N thường/A thấy/V là/V đối_tượng/N tội_phạm/N người/N nước_ngoài/N móc_nối/V với/E người/N VN/Np để/E thoả_thuận/V về/E việc/N thanh_toán/V khống/N qua/V máy/N POS/Np hoặc/N bắt_tay/V với/E đối_tượng/N người/N VN/Np thành_lập/V công_ty/N kí/N hợp_đồng/N làm/V đơn_vị/N chấp_nhận/V thẻ/N với/E các/L NH/Np và/CC yêu_cầu/V đăng_kí/N sử_dụng/V máy/N POS/Np không/R dây/N sau/N đó/P thực_hiện/V giao_dịch/N bằng/E thẻ/N giả/A rồi/C nhận/V tiền_mặt/N
+Đổi/V lại/R phía/N đơn_vị/N chấp_nhận/V thẻ/N nhận/V được/R hoa_hồng/N từ/E các/L phi_vụ/N thanh_toán/N này/P
+Cẩn_thận/N đại_lí/V ma/N
+Hội_Thẻ/Np NH/Np VN/Np đã/R yêu_cầu/V các/L NH/Np tăng_cường/V công_tác/V kiểm_tra/V định_vị/N giám_sát/V giao_dịch/V tại/E các/L đơn_vị/N chấp_nhận/V thẻ/N đặc_biệt/A chú_ý/V các/L đơn_vị/N mới/A đăng_kí/V hoặc/N có/V mối/N quan_hệ/N với/E người/N của/E những/L quốc_gia/N thường/A xuất_hiện/V loại/N tội_phạm/N này/P
+Hội/N yêu_cầu/V trong/E trường_hợp/N đơn_vị/N chấp_nhận/V thẻ/N phát_hiện/V các/L phát_sinh/N giao_dịch/V có/V dấu_hiệu/N bất_thường/A thì/C NH/Np cần/V trì_hoãn/V giao_dịch/N thông_báo/V cho/R C50/M Bộ/N Công_an/N để/E phối_hợp/V xử_lí/N
+Chuyên_gia/N Cấn_Văn_Lực/Np nói/V rằng/C VN/Np đang/R là/V một/M trong/E những/L thị_trường/N rủi_ro/A và/CC các/L tổ_chức/N thẻ/N quốc_tế/N đã/R lên_tiếng/V cảnh_báo/V
+Tình_trạng/N này/P xảy/V ra/R một/M phần/N cũng/R do/E quy_định/N chưa/R đầy_đủ/A hoặc/N còn/V tồn_tại/V những/L kẽ/N hở/N mà/N đối_tượng/N tội_phạm/N lợi_dụng/V
+Do_vậy/N cơ_quan/N quản_lí/N và/CC NH/Np cũng/R cần/V rà/V lại/R các/L quy_trình/N quy_định/N hoặc/N tăng/V các/L biện_pháp/N bảo_vệ/V song_song/N đó/P nâng/V cao/A ý_thức/N cho/V các/L đơn_vị/N chấp_nhận/V thẻ/N và/CC chủ/N thẻ/N ông/Nc Lực/Np nói/V
+Theo/E các/L chuyên_gia/N cần_thiết/N ban_hành/V quy_định/N về/V hoạt_động/N thanh_toán/V qua/R POS/Np trong/E đó/P quy_định/N cụ_thể/A về/V điều_kiện/N lĩnh_vực/N kinh_doanh/V qua/R POS/Np như/C những/L dịch_vụ/N nào/P sử_dụng/V POS/Np không/R dây/N thời_gian/N các/L NH/Np báo/N có/V cho/V giao_dịch/V qua/V POS/Np
+tiêu_chuẩn/N về/V an_ninh/N an_toàn/A đối_với/N POS/Np
+chế_tài/N xử_lí/N vi_phạm/V nhằm/V hạn_chế/V tình_trạng/N này/P
+Lưu_ý/V những/L giao_dịch/N bất_thường/A
+Giám_đốc/N một/M NH/Np cho/V rằng/C dấu_hiệu/N dễ/N nhận_biết/V nhất/A với/E những/L trường_hợp/N đánh_cắp/V tiền/N bằng/E thẻ_tín_dụng/N là/V số/N tiền/N cà/N thẻ/N bất_thường/A không/R phù_hợp/V với/E các/L dịch_vụ/N
+Chẳng_hạn/N nhà_hàng/N quán/N ăn/V hoá_đơn/A nhiều/A lắm/N là/V vài/L triệu/M đồng/Nu nhưng/C lại/R cà/V thẻ/N liên_tục/A số/N tiền/N lên/V đến/R vài/L chục/M hoặc/N hàng/R trăm/M triệu/M đồng/Nu
+Những/L trường_hợp/N này/P NH/Np theo_dõi/V trên/E hệ_thống/N phát_hiện/V sẽ/R chặn/V lại/R giao_dịch/V và/N rút/V máy/N về/V

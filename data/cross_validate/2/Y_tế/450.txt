@@ -1,0 +1,33 @@
+Cơ_thể/N con_người/N có/V bao_nhiêu/P tế_bào/N 
+Tế_bào/N là/V những/L viên/Nc gạch/N xây_dựng/V nên/C cơ_thể/N con_người/N 
+Một/M người/N bình_thường/A sẽ/R có/V bao/N nhiều/A tế_bào/N trong/E cơ_thể/N 
+Câu/N trả_lời/V ngắn_gọn/A là/V cơ_thể/N của/E một/M người/N trung_bình/A thường/R chứa/V khoảng/N 30/M đến/E 40/M nghìn/N tỷ/V tế_bào/N 
+Câu/N trả_lời/V đầy_đủ/A hơn/R là/V các/L nhà_khoa_học/N vẫn/R chưa/R biết/V chính_xác/A số_lượng/N 
+Thêm/V vào/E đó/P con_số/N phụ_thuộc/V vào/E việc/N liệu/V bạn/N có/V tính/V cả/P những/L vi_khuẩn/N có/V trong/N và/CC trên/E cơ_thể/N hay/C không/R 
+Đa_số/L các/L tế_bào/N trong/E cơ_thể/N chúng_ta/P thực_ra/A là/V các/L tế_bào/N hồng_cầu/V 
+Mặc_dù/C chúng/P chiếm/V hơn/R 80%/M cơ_thể/N về/E số_lượng/N nhưng/C chúng/P chỉ/R chiếm/V khoảng/N 4%/M tổng/N khối_lượng/N cơ_thể/N 
+Lý_do/N là/V vì/E các/L tế_bào/N hồng_cầu/N chỉ/R có/V đường_kính/N trung_bình/A 8mcm/M nhỏ/A hơn/R 10/M lần/N so/V với/E đường_kính/N của/E một/M sợt/N tóc/N 
+Ngược_lại/X kích_thước/N trung_bình/A của/E một/M tế_bào/N mỡ/N là/V 100/M mcm/N 
+Mặc_dù/C các/L tế_bào/N mỡ/N tạo/V thành/V gần/A 19%/M khối_lượng/N cơ_thể/N nhưng/C chúng/P chiếm/V dưới/E 0,2%/M tổng_số/N tế_bào/N 
+Nhưng/C tại_sao/X lại/R rất/R khó/A để/E tìm/V ra/R chính_xác/A số_lượng/N các/L tế_bào/N trong/E cơ_thể/N 
+Thiếu/V sự/N hợp_tác/V Năm/N 2013/M một/M nhóm/N các/L nhà_nghiên_cứu/N từ/E Hy_Lạp/Np Ý/Np và/CC Tây_Ban_Nha/Np đã/R công_bố/V ước_tính/V số_lượng/N tế_bào/N trong/E cơ_thể/N 
+Họ/P sử_dụng/V số_liệu/N được/V các/L tác_giả/N khác/A báo_cáo/V về/E từng/P cơ_quan/N riêng_lẻ/V và/CC một_số/L mô_hình/N toán_học/N để/E thu/V được/R kết_quả/N 
+Bài/N báo/V đưa/V ra/R số_lượng/N các/L tế_bào/N ở/E mức/N 37,2/M nghìn/N tỷ/V cộng/V trừ/V khoảng/N 0,81/M nghìn/N tỷ/V 
+Tác_giả/N chính/T Pierluigi_Strippoli/Np phó_giáo_sư/N sinh_học/N ứng_dụng/V tại/E Đại_học/N Bologna/Np Italy/Np giải_thích/V rằng/C rất/R khó/A thu/V được/R số_liệu/N chính_xác/A cho/E các/L hệ_thống/N khuếch_tán/N chẳng_hạn/X như/C mạch_máu/N và/CC dây_thần_kinh/N 
+Trên/E thực_tế/N nhóm/N nghiên_cứu/V không_thể/R khảo_sát/V tất_cả/P các/L cơ_quan/N và/CC các/L loại/Nc tế_bào/N trong/E cơ_thể/N vì_vậy/C con_số/N này/P là/V nỗ_lực/N ban_đầu/N 
+Ông/N cũng/R bày_tỏ/V hy_vọng/V những/L đóng_góp/N thêm/V của/E các/L chuyên_gia/N khác/A về/E nội_tạng/N sẽ/R giúp/V cải_thiện/V ước_tính/V về/E số_lượng/N tế_bào/N của/E cơ_thể/N người/N 
+Liệu_Các/Np nhà_khoa_học/N khác/A có/V hưởng_ứng/V lời/N kêu_gọi/V này/P hay/C không/R 
+Tế_bào/N người/N và/CC vi_khuẩn/N Họ/P đã/R hướng/V ứng/V 
+GS/Np 
+Ron_Milo/Np Viện_Khoa/Np học/V Weizman/Np ở/E Rehovot/Np Israel/Np và/CC các/L đồng_nghiệp/N đã/R công_bố/V báo_cáo/V cập_nhật/V vào/E năm/N 2016/M 
+Trên/E thực_tế/N họ/P đã/R thực_hiện/V hai/M phép_tính/N khác_nhau/A 
+Đầu_tiên/N là/V tính/N số_lượng/N tế_bào/N ở/E một/M nam_giới/N nặng/A 100kg/M sử_dụng/V thể_tích/N trung_bình/A của/E tế_bào/N là/V từ/E 1.000/M đến/E 10.000/M mcm3/N 
+Điều/N này/P cho/E họ/P một/M ước_tính/V tổng_quát/N khoảng/A từ/E 30/M đến/E 40/M nghìn/N tỷ/V tế_bào/N 
+Tiếp_theo/V họ/P tính/V số/N tế_bào/N thực/N của/E 5/M loại/Nc tế_bào/N phổ_biến/A nhất/A ở/E một/M người/Nc đàn_ông/N trưởng_thành/V trung_bình/A chiếm/V 97%/M số/N tế_bào/N trong/E cơ_thể/N 
+Điều/N này/P dẫn/V họ/P đến/E con_số/N ước_tính/V 30/M nghìn/N tỷ/V tế_bào/N trong/E đó/P các/L tế_bào/N hồng_cầu/V chiếm/V 84%/M 
+Nhưng/C tế_bào/N người/N không/R phải/V là/V những/L tế_bào/N duy_nhất/A trong/E cơ_thể/N chúng_ta/P 
+Mặc_dù/C các/L nghiên_cứu/N trước_đây/N đã/R ước_tính/V số/N vi_khuẩn/N trong/E cơ_thể/N chúng_ta/P nhiều/A gấp/V 10/M lần/N số/N tế_bào/N người/N nhưng/C GS/Np 
+Milo/Np và/CC các/L đồng_nghiệp/N đã/R điều_chỉnh/V con_số/N này/P là/V khoảng/N 38/M nghìn/N tỷ/V 
+Đáng/V chú_ý/V là/V mặc_dù/C số_lượng/N lớn/A vi_khuẩn/N nhỏ/A hơn/R nhiều/A so/V với/E tế_bào/N người/N và/CC chúng/P thực_sự/A chỉ/R chiếm/V 200g/M trong/E tổng/N khối_lượng/N cơ_thể/N 
+Nhưng/C với/E số_lượng/N tế_bào/N gần_như/R bằng/E nhau/N trong/E cơ_thể/N ai/P đó/P có_thể/R lý_luận/V rằng/C chúng_ta/P cũng/R là/V vi_khuẩn/V nhiều/A như/C chúng_ta/P là/V người/N đưa/V tổng_số/N tế_bào/N lên/V đến/E khoảng/N 70/M nghìn/N tỷ/V 
+Cẩm_Tú_Theo/Np MNT/Np 

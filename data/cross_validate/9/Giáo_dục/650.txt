@@ -1,0 +1,7 @@
+Điểm/N trúng_tuyển/V hệ/N dân_sự/N Đại_học/N Phòng/N cháy/V chữa_cháy/V
+Ngày/N 14/8/M Đại_học/N Phòng/N cháy/V chữa_cháy/V Bộ/N Công/N an/M thông_báo/N điểm_chuẩn/N tuyển_sinh/V Hệ/N dân_sự/N
+Mức/N điểm/N trúng_tuyển/V là/C 15/M dành/V cho/E học_sinh/N phổ_thông/N khu_vực/N 3/M
+Mức/N chênh_lệch/A điểm/N trúng_tuyển/V giữa/E hai/M nhóm/N đối_tượng/N kế_tiếp/V là/V 1/M điểm/N giữa/N hai/M khu_vực/N kế_tiếp/V là/V 0,5/M điểm/N
+Những/L thí_sinh/N đã/R trúng_tuyển/V nộp/V bản_gốc/N Giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N về/V trường/N từ/E 15/8/M đến/E trước/E 17h/M ngày/N 19/8/M để/E xác_nhận/V theo/V học/V
+Năm_học/N 2016-2017/M Bộ/N Công/N an/M giao/V trường/N 150/M chỉ_tiêu/N tuyển_sinh/V Hệ/N dân_sự/N có/V 79/M thí_sinh/N đăng_ký/V xét/V tuyển/V vào/V trường/N
+Hiện/N Đại_học/N Phòng/N cháy/V chữa_cháy/V chưa/R có/V điểm/N trúng_tuyển/V Hệ_Sĩ/Np quan/N

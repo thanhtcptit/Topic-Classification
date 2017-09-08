@@ -1,0 +1,9 @@
+Tạm/Np đình_chỉ/V giám_đốc/N Bệnh_viện/N đa_khoa/N Hoà_Bình/Np
+Ông/Nc Trương_Quý_Dương/Np Giám/Np đốc/V Bệnh_viện/N cùng/C hai/M người/N là/V kĩ_thuật_viên/N Trần_Văn_Sơn/Np điều/N dưỡng/V Đỗ_Thị_Điệp/Np bị/V tạm/V đình_chỉ/V công_việc/N để/E phục_vụ/V công_tác/N điều_tra/V vụ/N tai_biến/V chạy/V thận/N làm/V 8/M người/N chết/V
+Sáng/N nay/P 86/M ngay/N trước/N phiên/N họp/V của/E Hội_đồng/N chuyên_môn/N về/V sự_cố/N chạy/V thận/N tại/E Hoà_Bình/Np Sở/N Y/Np tế/N Hoà_Bình/Np đã/R có/V quyết_định/N tạm/V đình_chỉ_công_tác/X với/E ông/N Trương_Quý_Dương/Np Giám/Np đốc/V Bệnh_viện/N đa_khoa/N Hoà_Bình/Np giao_phó/V giám_đốc/N là/V ông/N Quách_Thiên_Tường/Np tạm/V điều/N hành/V bệnh_viện/N
+Đồng_thời/C hai/M cán_bộ/N khác/A của/E Bệnh_viện/N là/V Trần_Văn_Sơn/Np kĩ_thuật_viên/N Phòng_Vật_tư/N và/CC bà/N Đỗ_Thị_Điệp/Np điều_dưỡng/V Khoa_Thận/Np nhân_tạo/N cũng/R bị/V tạm/A đình_chỉ/V công_việc/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np một/M cán_bộ/N có/V trách_nhiệm/N của/E bệnh_viện/N cho/V biết/V cho/T đến/V nay/N chưa/R có/V cán_bộ/N nào/P bị/V bắt_giữ/V
+Việc/N tạm/A đình_chỉ/V công_việc/N là/V để/E phục_vụ/V công_tác/N điều_tra/V vụ/N án/N vi_phạm/V quy_định/N về/V khám/V bệnh/N chữa/V bệnh/N sản_xuất/V pha_chế/N thuốc/N cấp_phát/V thuốc/N bán/V thuốc/N hoặc/N dịch_vụ/N y_tế/N khác/A đã/R được/V Công_an/N tỉnh/N Hoà_Bình/Np khởi_tố/V để/E điều_tra/V nguyên_nhân/N vụ/N tai_biến/V trong/E chạy/N thận/N tại/E bệnh_viện/N này/P
+Cũng/R trong_sáng/A nay/N hội_đồng/N chuyên_môn/N sẽ/R họp/V bàn/V về/R nguyên_nhân/N sự_cố/N Bệnh_viện/N Bạch_Mai/Np cũng/R cho/V 10/M nạn_nhân/N sự_cố/N này/P xuất_viện/N
+Theo/E ông/N Dương_Đức_Hùng/Np trưởng_phòng/N Kế_hoạch/N tổng_hợp/V Bệnh_viện/N Bạch_Mai/Np tình_trạng/N sức_khoẻ/N của/E 10/M bệnh_nhân/N này/P đã/R ổn_định/V
+Trước/E đó/P trong/E sự_cố/N ngày/N 295/M có/V 18/M bệnh_nhân/N suy/N thận/N bị/V tai_biến/V 8/M người/N đã/R tử_vong/V

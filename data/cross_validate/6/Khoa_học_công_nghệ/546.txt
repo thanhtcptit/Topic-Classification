@@ -1,0 +1,15 @@
+Lớp/N phủ/V màn_hình/N tự_phát/V điện/N cho/E điện_thoại_di_động/N
+Theo/E Live_Science/Np các/L nhà_khoa_học/N tại/E Đại_học/N Lan_Châu_Trung_Quốc/Np cho/V rằng/C năng_lượng/N cơ_học/N từ/E những/L thao_tác/V trên/E màn_hình/N cảm_ứng/N của/E các/L thiết_bị/N điện_tử/N có_thể/R được/V chuyển_đổi/V thành/V điện/N để/E sạc/V pin/V cho/E điện_thoại/N giúp/V kéo_dài/V đáng_kể/A thời_gian/N làm_việc/V của/E các/L thiết_bị/N cầm/V tay/N
+Họ/P đã/R phát_triển/V một/M loại/Nc vật_liệu/N mới/R dựa/V trên/E một/M loại/Nc cao_su/N silicone/V trong_suốt/A được/R gọi_là/X PDMS/Np
+Các/L sợi/N dây_dẫn/N làm/V từ/E vật_liệu/N chì/N zirconate/V titanate/N có/V bề/N rộng/A chỉ/R khoảng/A 700/M nanomet/N mỏng/A hơn/A bề/N rộng/A sợi/N tóc/N người/N khoảng/A 140/M lần/N được/V nhúng/V vào/E trong/E cao_su/N
+Khi/N cao_su/N rắn/N lại/R các/L nhà_nghiên_cứu/N sử_dụng/V điện_trường/N để/E sắp_xếp/V các/L dây_dẫn/N nano/V trong/E cao_su/N thẳng/A hàng/R theo/E các/L cột/N
+Quá_trình/N sắp_xếp/N này/P sẽ/R thiết_lập/V các/L tính_chất/N điện/N và/CC thị_giác/V cho/E lớp/N phủ/V
+Mỗi/L khi/N có/V tác_động/N cơ_học/N vào/E cao_su/N như/C thao_tác/V chạm/V vào/E màn_hình/N làm/V các/L dây_dẫn/N này/P bị/V cong/A dòng_điện/N sẽ/R được/V phát/V ra/R do/E hiện_tượng/N áp_điện/N
+Do/E các/L dây_dẫn/N nano/V được/R sắp_xếp/V thẳng/A hàng/N chúng/P sẽ/R phản_ứng/V với/E nhiều/A thao_tác/V chạm/V cùng/A một/M lúc/N tạo/V ra/R nhiều/A năng_lượng/N nhất/A có_thể/R
+Do/E các/L sợi/Nc dây/N có/V kích_thước/N rất/R nhỏ/A toàn_bộ/L tấm/N phủ/V sẽ/R gần_như/R trong_suốt/A
+Như_vậy/C các/L dây/N nano/V có_thể/R khai_thác/V năng_lượng/N trên/E một/M màn_hình/N mà/C không/R ảnh_hưởng/V đến/E hoạt_động/N bình_thường/A của/E nó/P tác_giả/N nghiên_cứu/V Yong_Qin/Np cho_biết/V
+Ngoài_ra/C khi/N màn_hình/N đã/R được/V phủ/V nếu/C nhìn/V từ/E một/M góc/N khác/A với/E góc/N nhìn/V người/N chủ/N thiết_bị/N nhìn/V thẳng/A màn_hình/N các/L dây/N nano/N sẽ/R làm/V nhiễu/N xạ/V ánh_sáng/N không_thể/R thấy/V rõ/A bảo_vệ/V sự/Nc riêng_tư/A của/E chủ/N thiết_bị/N
+Trong/E các/L thí_nghiệm/N hiện_tại/N chạm/V vào/E lớp/N phủ/V sẽ/R sinh_ra/V một/M dòng_điện/N 0/M 8/M nanoampe/N khoảng/A một/M phần/N triệu/N của/E dòng_điện/N được/V sử_dụng/V trong/E máy/N trợ_thính/V
+Các/L nhà_khoa_học/N cũng/R cho_biết/V các/L nghiên_cứu/N tiếp_theo/V sẽ/R giúp/V phát/V ra/R dòng_điện/N lớn/A hơn/R tăng/V hiệu_quả/N sạc/V pin/V cho/E các/L thiết_bị/N di_động/V
+Tín_hiệu/N điện_từ/V các/L dây_dẫn/N nano/N cũng/R giúp/V phát_triển/V các/L màn_hình/N cảm_ứng/V với/E độ/N nhạy/N cao/A hơn/R theo/V Qin/Np
+Nghiên_cứu/N đã/R được/V đăng_tải/V chi_tiết/N trực_tuyến/A trên/E tạp_chí/N Small/Np hôm/N 13/1/M

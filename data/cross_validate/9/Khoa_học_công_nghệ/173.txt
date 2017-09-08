@@ -1,0 +1,12 @@
+Đổi/V iPhone/N 6/M Plus/Np lỗi/N camera/N chụp/V mờ/N tại/N VN/Np
+Theo/E thông_tin/N chỉ/R một/M lượng/N iPhone/M 6/M Plus/Np bán/V ra/R trong/E khoảng/N thời_gian/N từ/E tháng/N 92014/M đến/N tháng/N 12015/M bị/V ảnh_hưởng/V bởi/N lỗi/N
+Lỗi/N này/P không/R ảnh_hưởng/V camera/N mặt/N trước/A camera/N FaceTime/N hay/C camera/N trong/E phiên_bản/N iPhone/M 6/M
+Để/E kiểm_tra/V iPhone/N 6/M Plus/Np của/E bạn/N có/V cần/V thay/V camera/N hay/C không/R vào/V trang_web/N của/E Apple/Np chọn/V Quốc_gia/N là/V Việt_Nam/Np ở/V phần/N bên/N trái/A nhập/N số/N Serial/Np không/R phải/A số/N IMEI/Np vào/V ô/N trống/N bên/N dưới/N và/CC nhấn/V chọn/V SUBMIT/Np để/V kiểm_tra/V
+Theo/E hướng_dẫn/N bằng/E hình_ảnh/N bên/N dưới/N các/L bạn/N sẽ/R biết/V máy/N mình/P có/V trong/N tình_trạng/N được/V đổi/V camera/N mới/A hay/V không/R
+Đem/V máy/N tới/V trung_tâm/N bảo_hành/N của/E hãng/N và/CC kiểm/V tra/V các/L thông_tin/N đối_chiếu/N trùng/V khớp/N Các/L nhà/Nc cung_cấp/N dịch_vụ/N uỷ_quyền/A bởi/E Apple/Np ASP/Np tại/E VN/Np sẽ/R tiếp_nhận/V bảo_hành/N và/CC giữ/V lại/R máy/N trong/E vòng/N 07/M ngày/N tối_đa/A 21/M ngày/N để/E đặt/V camera/N từ/E Apple/Np về/V thay_thế/V
+Theo/E thông_tin/N từ/E FPT/Np Shop/Np các/L máy/N iPhone/N 6/M Plus/Np bán/V ra/R từ/V các/L cửa_hàng/N FPT/Np Shop/Np vẫn/R nhận/V bảo_hành/N như/C bình_thường/N nếu/N số/N SERIAL/Np nằm/V trong/E diện/N được/V đổi/V camera/N mới/R dù/N đã/R hết/V bảo_hành/N theo/V hoá_đơn/N hay/C trên/N Web/Np của/N Apple/Np
+Như/C vậy/P máy/N tham_gia/V bảo_hành/V là/V máy/N có/V số/N Serial/Np nằm/V trong/E diện/N được/V đổi/V camera/N mới/A
+không/R bị/V va_đập/V rơi/V móp/N
+thân/N máy/N camera/N không/R bị/V can_thiệp/V sửa_chữa/V thay_thế/N trước/N đó/P
+Máy/N đã/R hết/V hạn/N bảo_hành/N vẫn/R có_thể/A tham_gia/V thay/V mới/A camera/N
+Lưu_ý/V sao/P lưu/V dữ_liệu/N iTunes/N và/CC iCloud/N trước/E khi/N gửi/V trả/V để/E sửa_chữa/V gỡ/V bỏ/V mật_khẩu/N mở/V máy/N

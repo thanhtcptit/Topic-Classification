@@ -1,0 +1,7 @@
+Thẻ_Nhớ_Micro/Np SDHCSDXC/Np quay/V video/N Full/Np HD/Np lên/V tới/T 12000/M giờ/N
+Bên_cạnh/N đó/P các/L thẻ/N nhớ/V High_Endurance/Np tranSDXC/N còn/V hoạt_động/N mạnh_mẽ/A ngay/T cả/T trong/N các/L điều_kiện/N môi_trường/N khắc_nghiệt/A nhất/R
+Khả_năng/N chống/V chói/N với/E ánh_sáng/N mặt_trời/N chống_chọi/N nhiệt/N mưa/N khi/N được/V gắn/V trong/E thiết_bị/N quay_phim/N ngoài_trời/N hoặc/N phơi/V dưới/N nắng/N đằng/N sau/N lớp/N kính/N ô_tô/N
+Ngoài_ra/C High_Endurance/Np microSDHCSDXC/N còn/R cho/V tốc_độ/N ghiđọc/V dữ_liệu/N lên/V tới/N 21MB/M s/N trong/E các/L điều_kiện/N khắc_nghiệt/N
+Công_nghệ/N tự_động/A sửa/V lỗi/N Error_Correction_Code/Np ECC/Np của/E Transcend/Np cũng/R được/V tích_hợp/V giúp/V các/L mẫu/N thẻ/N nhớ/V này/N có/V khả_năng/N ổn_định/V tự_động/N điều_tra/V và/CC sửa/V lỗi/N trong/E quá_trình/N hoạt_động/V mang/V lại/R khả_năng/N bảo_vệ/V dữ_liệu/N đáng/N tin_cậy/V cao/A nhất/A cho/V người_dùng/N
+Các/L thẻ/N nhớ/V High_Endurance/Np microSDHCSDXC/N còn/V được/V hỗ_trợ/V bởi/E phần_mềm/N độc_quyền/N RecoveRx/N miễn/N phí/N của/N Transcend/Np
+Chỉ/R với/E vài/L cái/Nc click/N chuột/N người_dùng/N có_thể/N dễ_dàng/A sao/N lưu/V hay/V đồng_bộ/N bất_kì/N tập_tin/N hình_ảnh/N tài_liệu/N âm_nhạc/N hay/C video/N trên/E thẻ/N nhớ/V

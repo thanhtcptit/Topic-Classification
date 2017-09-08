@@ -1,0 +1,5 @@
+Đồng_hồ/N thông_minh/A hạng/N sang/A Tag_Heuer/Np 1500/M USD/Nu
+Hợp_tác/V với/E Intel/Np nên/C Tag_Heuer_Connected/Np tích_hợp/V chip/N xử_lí/N Intel_Atom/Np hai/M nhân/N Dualcore/Np 16GHz/M RAM/Np 1GB/M và/N bộ_nhớ_trong/N 4GB/N hỗ_trợ/V các/L kết_nối/N Bluetooth/Np 41/M và/N WiFi/N 80211n/M
+Bất_lợi/N của/E Tag_Heuer_Connected/Np trước/E các/L đối_thủ/N như/C Samsung_Gear/Np S2/Np hay/C Huawei_Watch/Np có_giá/A rẻ/A hơn/A từ/E ba/M đến/E bốn/M lần/N là/V mật_độ/N điểm_ảnh/N 240/M ppi/N của/E màn_hình/N LCD/Np 15/M inch/N 360/M x/N 360/M thấp/A hơn/R 286/M ppi/N của/E Huawei_Watch/Np hay/C 302/M ppi/N của/E Gear/Np S2/Np
+Vỏ/N titanium/N và/CC mặt/N kính/N sapphire/N cùng/A thiết_kế/V và/N thương_hiệu/N Tag_Huer/Np đã/R đưa/V giá/N sản_phẩm/N đồng_hồ/N thông_minh/A đầu_tay/A lên/N khá/R cao/A nhưng/C thiếu_vắng/N cảm_biến/N đo/V nhịp/N tim/N theo_dõi/V sức_khoẻ/N
+Smartwatch_Tag_Heuer_Connected/Np dùng/V hệ_điều_hành/N Android_Wear/Np của/E Google/Np với/E một_vài/N ứng_dụng/N riêng/A pin/N 410/M mAh/N

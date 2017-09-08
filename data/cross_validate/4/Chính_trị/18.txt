@@ -1,0 +1,6 @@
+Bản_đồ/N giao/V thông_số/N tiếp_nhận/V thông_tin/N sự_cố/N giao_thông/N
+Từ/E ngày/N 37/M cổng/N thông_tin/N giao_thông/N TPHCM/Np còn/V gọi_là/N bản_đồ/N giao/V thông_số/N tiếp_nhận/N thông_tin/N của/E người/N dân/N phản_ánh/V sự_cố/N hạ_tầng/N kĩ_thuật/N giao_thông/N tai_nạn/N giao_thông/N đường/N hư/A cống/N bể/V
+Như/C vậy/P ngoài/N tổng_đài/N 1022/M tiếp_nhận/N phản_ánh/V sự_cố/N hạ_tầng/N kĩ_thuật/V giao_thông/N người/N dân/N đã/R có/V thêm/V 1/M kênh/N phản_ánh/V thông_tin/N thông_qua/V ứng_dụng/N bản_đồ/N giao/V thông_số/N điện_tử/N
+Theo/E ông/N Lê_Minh_Triết/Np giám_đốc/N Trung_tâm/N quản_lí/V đường_hầm/N sông/N Sài_Gòn/Np việc/N đưa/V vào/R vận_hành/V hệ_thống/N mới/A này/P giúp/V hỗ_trợ/V người/N dân/N phản_ánh/V đến/E đơn_vị/N quản_lí/V về/V các/L sự_cố/N hạ_tầng/N kĩ_thuật/V giao_thông/N một_cách/N thuận_tiện/A và/CC hiệu_quả/N góp_phần/V giúp/V thông_tin/N nhanh_chóng/A đến/V các/L đơn_vị/N quản_lí/N để/E xử_lí/V các/L sự_cố/N
+Theo/E đó/P người/N dân/N có_thể/R đăng_tải/V phản_ánh/V bằng/E hình_ảnh/N trực_tiếp/A từ/E thiết_bị/N di_động/V xem/V danh_sách/N các/L phản_ánh/N kèm/V nội_dung/N và/CC thời_gian/N cập_nhật/V
+Ngoài_ra/C người/Nc dân/N còn/R có_thể/R thấy/V được/R thông_tin/V phản_hồi/V từ/E phía/N đơn_vị/N quản_lí/N

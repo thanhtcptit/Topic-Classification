@@ -1,0 +1,11 @@
+Sơ_đồ/N rào_chắn/N đường/N thi_công/V thoát/V nước/N ​/N quận/N Tân_Phú/Np
+Sở/N GTVT/Np TPHCM/Np vừa/R công_bố/V sơ_đồ/N rào_chắn/N cấm/V ôtô/N để/E tổ_chức/V thi_công/V cải_tạo/V hệ_thống/N thoát/V nước/N đường/N Tân_Sơn_Nhì/Np quận/N Tân_Phú/Np
+Việc/N thi_công/V sẽ/R ảnh_hưởng/V nhiều/A đến/V giao_thông/N nhiều/A tuyến/N đường/N ở/E quận/N Tân_Phú/Np như/C Tân_Hương/Np Tân_Sơn_Nhì/Np
+Theo/E thông_tin/N trước/N đó/P kể/V từ/E ngày/N 772017/M đến/E ngày/N 31102017/M cấm/N các/L loại/N xe/N ôtô/N và/CC 3/M bánh/N đi_lại/V trên/E các/L tuyến/N đường/N Tân_Sơn_Nhì/Np đoạn/Nc từ_đường/N Trương_Vĩnh_Ký/Np đến/V đường/N Độc_Lập/Np
+Người/Nc dân/N đi/V theo/V lộ_trình/N thay_thế/V
+Lộ_trình/N 1/M Đường_Tân_Sơn_Nhì/Np →/V đường/N Trương_Vĩnh_Ký/Np →/V đường/N Tự_Do/Np →/V đường/N Độc_Lập/Np →/V đường/N Phan_Đình_Phùng/Np →/V đường/N Thống_Nhất/Np →/V đường/N kênh/N Nước_Đen/Np →/V đường/N Tân_Hương/Np và/CC ngược_lại/N
+Lộ_trình/N 2/M Đường_Tân_Sơn_Nhì/Np →/V đường/N Nguyễn_Văn_Săng/Np →/V đường/N Âu_Cơ/Np →/V đường/N Luỹ_Bán_Bích/Np →/V đường/N Vườn_Lài/Np →/V đường/N Văn_Cao/Np →/V đường/N Tân_Hương/Np và/CC ngược_lại/N
+Cũng/R từ/E ngày/N 372017/M đến/E ngày/N 31102017/M cấm/N các/L loại/N xe/N ôtô/N và/CC 3/M bánh/N lưu_thông/V trên/E các/L tuyến/N đường/N Tân_Hương/Np đoạn/Nc từ_đường/N Độc_Lập/Np đến/V đường/N Kênh_Nước_Đen/Np
+Lộ_trình/N lưu_thông/V thay_thế/N
+Lộ_trình/N 1/M Đường_Tân_Sơn_Nhì/Np →/V đường/N Trương_Vĩnh_Ký/Np →/V đường/N Tự_Do/Np →/V đường/N Độc_Lập/Np →/V đường/N Phan_Đình_Phùng/Np →/V đường/N Thống_Nhất/Np →/V đường/N kênh/N Nước_Đen/Np →/V đường/N Tân_Hương/Np và/CC ngược_lại/N
+Lộ_trình/N 2/M Đường_Tân_Sơn_Nhì/Np →/V đường/N Nguyễn_Văn_Săng/Np →/V đường/N Âu_Cơ/Np →/V đường/N Luỹ_Bán_Bích/Np →/V đường/N Vườn_Lài/Np →/V đường/N Văn_Cao/Np →/V đường/N Tân_Hương/Np và/CC ngược_lại/N

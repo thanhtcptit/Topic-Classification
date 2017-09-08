@@ -1,0 +1,27 @@
+​/N Cảnh_báo/N chiến_dịch/N lừa_đảo/N mạo_danh/N ngân_hàng/N
+Chiến_dịch/N lừa_đảo/N
+Theo/E đó/P hình_thức/N lừa_đảo/V của/E chúng/N là/V mạo_danh/V người/N bán/V hàng/N chat/V giao_dịch/V với/N nạn_nhân/N
+Sau/E đó/P lừa/V lấy/V số/N điện/N và/CC số/N tài_khoản/N ngân_hàng/N
+Tiếp_theo/V chúng/N sẽ/R mạo_danh/V ngân_hàng/N nhắn/V thông_tin/N chuyển_tiền/V và/CC một/M đường_dẫn/N truy_cập/V mạng/N mạo_danh/V để/E dụ/V nạn_nhân/N truy_cập/V vào/V để/V thanh_toán/V
+Tại/E website/N mạo_danh/N người_dùng/N sẽ/R bị/V lừa/V nhập/V tài_khoản/N và/CC mật_khẩu/N đồng_thời/N bị/V lừa/V nhập/V cả/P OTP/Np tại/V đó/P
+Những/L thông_tin/N này/P sẽ/R bị/V kẻ/N xấu/A sử_dụng/V để/E thực_hiện/V một/M giao_dịch/N thậm_chí/N còn/R lớn/A hơn/R cả/P số/N tiền/N món/N hàng/N chúng/N lừa/V người/N sử_dụng/V mua/V trong/E tin_nhắn/N ban_đầu/N
+Công_ty/N an_ninh/N mạng/N Bkav/Np cũng/R ghi_nhận/V 3/M tháng/N đầu/N năm/N 2017/M đã/R xuất_hiện/V hàng_loạt/N vụ_việc/N đánh_cắp/V tài_khoản/N người_dùng/N dịch_vụ/N ngân_hàng/N trực_tuyến/A
+Trước/E đó/P Bkav/Np đã/R nhiều/A lần/N dự_báo/V xu_hướng/N tấn_công/V của/E tội_phạm/N mạng/N nhắm/V đến/R lĩnh_vực/N ngân_hàng/N tài_chính/N vì/E mục_tiêu/N chiếm_đoạt/V tiền/N
+Trong/E đó/P giả_mạo/N website/N ngân_hàng/N tổ_chức/V tài_chính/N để/E lừa/V người_dùng/N cũng/R là/V một/M trong/E những/L cách_thức/N phổ_biến/A nhất/R
+Cụ_thể/N hacker/V tạo/V ra/R các/L website/N có/V giao_diện/N giống_hệt/N trang/N của/E ngân_hàng/N dịch_vụ/N chuyển/V tiền/N
+Bước/N tiếp_theo/V chúng/N mạo_danh/V ngân_hàng/N người_thân/N bạn_bè/N gửi/V đường_dẫn/N trang_web/N đó/P tới/V nạn_nhân/N
+Trên/E trang/N giả_mạo/N người_dùng/N sẽ/R được/V yêu_cầu/V nhập/V thông_tin/N cá_nhân/N tài_khoản/N
+Một_khi/N thực_hiện/V theo/E các/L hướng_dẫn/N này/P là/V người_dùng/N đã/R tự/V cung_cấp/V tài_khoản/N của/E mình/N cho/V hacker/N
+Ngân_hàng/N cảnh_báo/V
+Vẫn/R lơ/A là/V ATM/Np
+Theo/E Kaspersky/Np các/L ngân_hàng/N hiện/N vẫn/R cho/V thấy/V mối/N quan_tâm/N tương_đối/N thấp/A về/E các/L tổn_thất/N tài_chính/N do/E các/L cuộc/N tấn_công/V máy/N ATM/Np mặc_dù/N loại_hình/N tấn_công/V này/N rất/R dễ/A gây/V tổn_thương/N
+Chỉ/R có/V 19/M ngân_hàng/N quan_tâm/V đến/E các/L cuộc/N tấn_công/V vào/E máy/N ATM/Np và/CC các/L máy/N rút_tiền/V mặc_dù/N tỉ_lệ/N phần_mềm/N độc_hại/A nhằm/V vào/E cơ_sở_hạ_tầng/N này/N của/E ngân_hàng/N ngày_càng/N cao/A năm/N 2016/M ghi_nhận/N các/L mã/N độc/N ATM/Np tăng/V lên/R 20/M so/V với/E năm/N 2015/M
+Theo/E nghiên_cứu/N về/V nguy_cơ/N bảo_mật/V cho/E các/L tổ_chức/N ngân_hàng/N của/E hãng/N bảo_mật/N Kaspersky/Np và/CC B2B/N International/Np các/L rủi_ro/N mới/R nổi/V có/V liên_quan/V đến/R giao_dịch/V ngân_hàng/N di_động/N có_thể/R đặt/V các/L ngân_hàng/N vào/V các/L mối/N đe_doạ/N mạng/N mới/A
+42/M các/L ngân_hàng/N dự_đoán/N phần_lớn/N khách/N hàng/N của/E họ/P sẽ/R sử_dụng/V dịch_vụ/N ngân_hàng/N di_động/V trong/E vòng/N ba/M năm/N tới/V nhưng/C họ/N cũng/R thừa_nhận/V là/V khách/N hàng/N của/E mình/N quá/R bất_cẩn/V trong/E các/L hành_vi/N trực_tuyến/N
+Hầu_hết/X các/L ngân_hàng/N được/V khảo_sát/V đều/R thừa_nhận/V 46/M khách/N hàng/N của/E họ/P thường_xuyên/A bị/V tấn_công/V bởi/E lừa_đảo/N 70/M ngân_hàng/N cũng/R báo_cáo/V các/L sự_cố/N về/V gian_lận/N tài_chính/N dẫn/V đến/R mất/V tiền/N
+Trước/E nguy_cơ/N ngày_càng/N tăng/V một_số/L ngân_hàng/N trong/E nước/N như/C Techcombank/Np Maritimebank/Np cũng/R vừa/R gửi/V các/L cảnh_báo/N đến/V khách/N hàng/N của/N mình/N
+Theo/E một/M cán_bộ/N của/E Techcombank/Np tội_phạm/N có_thể/N giả_danh/V cán_bộ/N ngân_hàng/N thông_báo/V với/E khách/N hàng/N về/V các/L khoản/N tiền/N chuyển/V đến/E tài_khoản/N khách/N hàng/N và/CC yêu_cầu/V khách/N hàng/N cung_cấp/V thông_tin/N số/N thẻ/N cùng/N mã/N mật_khẩu/V xác_thực/N một/M lần/N One_Time_Password/Np OTP/Np để/E tác_nghiệp/V ghi/V có/V vào/N tài_khoản/N khách/N hàng/N
+Sau/E đó/P đối_tượng/N sẽ/R lợi_dụng/V các/L thông_tin/N được/V cung_cấp/V để/E mua_sắm/V hàng_hoá/N dịch_vụ/V qua/V mạng/N Internet/Np dễ_dàng/A chuyển_đổi/V thành/N tiền_mặt/N như/C thẻ/N games/N trực_tuyến/N thẻ/N trả/V trước/E Internet/N thẻ/N điện_thoại/N tại/E Việt_Nam/Np hoặc/N dịch_vụ/N du_lịch/N vật_phẩm/V cao_cấp/N tại/N nước_ngoài/N
+Các/L ngân_hàng/N này/P khuyến_cáo/N khách/N hàng/N tuyệt_đối/A không/R cung_cấp/V cho/E bất_kì/N ai/N dưới/N bất_kì/N hình_thức/N nào/P thông_tin/V đăng_nhập/N mật_khẩu/N ngân_hàng/N điện_tử/N và/CC mã/N xác_thực/N OTP/Np thông_tin/V thẻ/N số/N thẻ/N ngày/N hiệu_lực/N và/CC số/N CVC2/Np
+Ông/Nc Ngô_Tuấn_Anh/Np phó/Z chủ_tịch/N phụ_trách/V an_ninh/N mạng/N của/E Bkav/Np cho/V biết/V thêm/V Để/E không/R trở_thành/V nạn_nhân/N các/L chiêu/N trò/N lừa_đảo/V người_dùng/N lưu_ý/N không/R truy_cập/V vào/E các/L đường_dẫn/N lạ/A
+Đối_với/C các/L yêu_cầu/N đáng/V ngờ/V nên/V xác_minh/V với/E bạn_bè/N người_thân/N trước/E khi/N cung_cấp/V thông_tin/N

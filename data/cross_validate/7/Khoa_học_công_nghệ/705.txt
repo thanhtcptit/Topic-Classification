@@ -1,0 +1,26 @@
+Cấy/V mạch/N biến/V hoa_hồng/N thành/V robot/N
+Theo/E Live_Science/Np các/L nhà_khoa_học/N cấy/V các/L mạch/N điện_tử/N polymer/V rất/R nhỏ/A vào/E trong/E thân/N cây/N
+Nhờ/V vào/E cấu_trúc/N bên/N trong/N của/E hoa_hồng/N chúng/P sẽ/R tự/P sắp_xếp/V thành/V mạch/N điện/N
+Thực_vật/N sẽ/R giúp/V sắp_xếp/V thiết_bị/N điện_tử/N bên/N trong/E nó/P Magnus_Berggren/Np nhà_nghiên_cứu/N điện_tử/N hữu_cơ/N thuộc/V Đại_học/N Link/Np ö/V ping/N Thụy_Điển/Np đồng_tác_giả/N của/E công_trình/N đăng/N hôm/N  /A 20/11/M trên/E tạp_chí/N khoa_học/N Science_Advances/Np cho_biết/V
+Thực_vật/N tích_hợp/V thiết_bị/N điện_tử/N cyberplant/V trong/E tương_lai/N sẽ/R giúp/V hoa/N kiểm_soát/V thời_điểm/N nở/V tránh/V lúc/N sương_giá/N hoặc/CC khi/N nào/P cần/V tiết/N ra/V hormone/N để/E chống/V lại/R hạn_hán/N
+Nó/P cũng/R giúp/V nâng/V cao/A năng_suất/N cây_trồng/N khi/N có/V điều_kiện/N thời_tiết/N thuận_lợi/A theo/V Berggren/Np
+Berggren/Np và/CC cộng_sự/N đã/R làm_việc/V trong/E lĩnh_vực/N này/P trong/E khoảng/N một/M thập_kỷ/N
+Nhóm/N nghiên_cứu/V tập_trung/V vào/E hoa_hồng/N vì/E có/V đủ/A các/L thành_phần/N đặc_trưng/A của/E thực_vật/N vỏ/N lá/N cuống/N lá/N nối/V lá/N với/E cành/N và/CC hệ_thống/N rễ/N đặc_biệt/A
+Ngoài_ra/C chúng/P còn/R nhỏ/A gọn/A cứng_cáp/V và/CC phổ_biến/V
+Thử_thách/V đầu_tiên/A là/V cấy_ghép/N hệ_thống/N dây_dẫn/N điện/N
+Nhiều/A thử_nghiệm/V đã/R thất_bại/V một_số/L kích_thích/N cây/Nc giải_phóng/N hợp_chất/N độc_hại/A
+Một_số/L khác/A làm/V tắc/V mạch/N gỗ/N hoặc/CC mô/P mạch/N cây/N bộ_phận/N làm/V nhiệm_vụ/N vận_chuyển/V nước/N bên/N trong/E thân/N cây/N
+Nhóm/N nghiên_cứu/V chỉ/R thành_công/V khi/N cắt/V cành/N hoa_hồng/N và/CC cắm/V vào/E dung_dịch/N với/E nhiều/A biến_thể/N của/E hợp_chất/N hữu_cơ/N polymer/N PEDOT/Np S/Np H/Np
+Đây/P là/V hợp_chất/N có/V tính/N dẫn_điện/V tốt/A trong/E nước/N
+Ý_tưởng/N này/P do/E tác_giả/N chính/A của/E nghiên_cứu/N Eleni_Stavrinidou/Np làm_việc/V tại/E phòng_thí_nghiệm/N của/E Berggren/Np nghĩ/V ra/R
+Sau/E khi/N cành/N hoa_hồng/N ngâm/V trong/E dung_dịch/N PEDOT/Np S/Np H/Np từ/E 1/M 2/M ngày/N lớp/N vỏ/N ngoài/N được/V lột/V bỏ/V để/E lộ/V các/L dây_dẫn/N nhỏ/A bằng/E vật_liệu/N polymer/N hữu_cơ/N dài/A khoảng/A 5/M cm/Nu
+Khi/N nhìn/V thấy/V những/L đoạn/Nc dây_dẫn/N này/P tôi/P lập_tức/R tin/V rằng/C có_thể/R tạo/V ra/R các/L mạch/N điện_tử/N bên/N trong/N thực_vật/N Berggren/Np nói/V
+Dự_đoán/N của/E Berggren/Np là/V chính_xác/A
+Vài/L ngày_sau/N nhóm/N nghiên_cứu/V chứng_minh/V được/R các/L đoạn/N dây_dẫn/N này/P có/V tính/N dẫn_điện/V
+Từ/E đây/P các/L linh_kiện/N điện_tử/N như/C bóng_bán_dẫn/N một/M thành_phần/N cơ_bản/A của/E mạng_lưới/N cảm_biến/N cũng/R đã/R được/V tạo/V ra/R bằng/E công_nghệ/N tự/P sắp_xếp/V
+Nếu/C kết_hợp/V các/L cảm_biến/N này/P với/E thiết_bị/N chuyển/V chúng_tôi/P có_thể/R tạo/V ra/R một/M hệ_thống/N thần_kinh/N để/E ghi/V lại/R cảm_nhận/V và/CC điều_chỉnh/V các/L chức_năng/N sinh_lý/V của/E thực_vật/N Berggren/Np cho_biết/V
+Tới/E nay/P nhóm/N nghiên_cứu/V đã/R chế_tạo/V thành_công/V một/M mạng_lưới/N điện/N dài/A khoảng/A 20/M cm/Nu
+Công_nghệ/N sử_dụng/V cho/E các/L loài/N thực_vật/N có/V cấu_tạo/N khác/A hoa_hồng/N như/C cần_tây/N chỉ/R có/V một_chút/N khác_biệt/A theo/V Berggren/Np
+Đối_với/E cây_lương_thực/N các/L nhà_khoa_học/N cần/V phải/V chỉ/R ra/V rằng/C các/L chất/N polymer/N hữu_cơ/N không/R ngấm/V vào/E trong/E trái_cây/N hạt/N hoặc/CC các/L phần/N ăn/V được/V của/E cây/N
+Nhóm/N nghiên_cứu/V cũng/R hy_vọng/V sẽ/R sử_dụng/V được/R hóa_chất/N sinh_học/N như/C chlorophyll/N để/E tạo/V ra/R các/L mạch/N điện_tử/N tránh/V gây/V ô_nhiễm/V môi_trường/N
+Chúng_tôi/P có_thể/R tinh_chế/V chính/T những/L chất/N có/V trong/E thực_vật/N để/E chế_tạo/V các/L chất_bán_dẫn/N và/CC chất/N dẫn/V rồi/C đưa/V trở_lại/V vào/E thực_vật/N Berggren/Np nói/V

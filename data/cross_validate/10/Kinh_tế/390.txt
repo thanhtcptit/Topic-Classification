@@ -1,0 +1,19 @@
+Vàng/Np tăng_giá/V nhà_đầu_tư/N nhỏ_lẻ/A tăng_cường/V mua/V vàng/N 
+Mở_cửa/V thị_trường/N vàng/N sáng/N nay/P 15/7/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 36,26/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,34/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,27/M triệu/M đồng/Nu //X lượng/N 36,33/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P tăng/V mỗi/L chiều/N 50.000/M đồng/lượng/N và/CC 60.000/M đồng/lượng/N so/V với/E chốt/N phiên/N hôm_qua/N 
+Tương_tự/A tại/E TPHCM/Np giá/N vàng/N SJC/Np giao_dịch/V ở/E mức/N 36,16/M triệu/M đồng/Nu //X lượng/N 36,39/M triệu/M đồng/Nu //X lượng/N tăng/V mỗi/L chiều/N 40.000/M đồng/lượng/N và/CC 30.000/M đồng/lượng/N 
+Chốt/N phiên/N 14/7/M Tập_Đoàn_Vàng/Np bạc/N đá_quý/A DOJI/Np niêm_yết/V giá/N vàng/N SJC/Np ở/E mức/N 36,21/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E và/CC 36,28/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R 
+Công_ty/N vàng_bạc/V đá_quý/N Sài_Gòn/Np niêm_yết/V vàng/N SJC/Np ở/E mức/N 36,12/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E và/CC 36,36/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R 
+Vàng/Np tăng_giá/V nhà_đầu_tư/N nhỏ_lẻ/A tăng_cường/V mua/V vàng/N Theo/E DOJI/Np thị_trường/N vàng/N thế_giới/N đón_nhận/V những/L thông_tin/N khả_quan/A khi/N Chủ_tịch/N Fed/Np bà/N Janet_Yellen/Np phát/V đi/V tín_hiệu/N sẽ/R thận_trọng/V trong/E việc/N thắt/V chặt/A chính_sách/N tiền_tệ/N điều/N này/P có_thể/R sẽ/R giúp/V cho/E giá/N vàng/N trong/E ngắn_hạn/N trở_nên/V dễ_thở/A hơn/R 
+Cùng/A chung/A diễn_biến/N ổn_định/A của/E thị_trường/N thế_giới/N giá/N vàng/N trong/E nước/N mấy/L phiên/N giao_dịch/V vừa_qua/X tiếp_tục/V tìm_kiếm/V xu_hướng/N đi/V lên/R 
+Tuy_nhiên/C đà/N tăng/V không/R đủ/A mạnh/A kết_hợp/V nhu_cầu/N trong/E dân/N yếu/A chưa/R tạo/V cho/E thị_trường/N trong/E nước/N phiên/N giao_dịch/V thành_công/V 
+Các/L giao_dịch/N phát_sinh/V chủ_yếu/A từ/E khách_hàng/N nhỏ_lẻ/A với/E số_lượng/N giao_dịch/V khá/R mỏng/A 
+Trên/E thế_giới/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np qua/V niêm_yết/V của/E Kitco.com/Np phiên/V chốt/N cuối/N tuần/N ở/E mức/N 1.228,4/M USD/ounce/Np 
+Triển_vọng/N tăng/V lãi_suất/N theo/E hướng/N cứng_rắn/A của/E Fed/Np đã/R giảm/V nhiệt/N sau/E bài/N phát_biểu/V của/E Chủ_tịch/N Fed_Janet/Np cho_hay/V nền/N kinh_tế/N Mỹ/Np đã/R đủ/V mạnh/A để/E nâng/V lãi_suất/N và/CC bắt_đầu/V thu_hẹp/V chương_trình/N thu_mua/V trái_phiếu/N chính_phủ/N bất_chấp/V lạm_phát/N có/V dấu_hiệu/N tăng/V chậm/A lại/R 
+Bên_cạnh/N đó/P bà/N Yellen/Np cũng/R cho_biết/V Ngân_hàng/N Trung_ương/N Mỹ/Np có_thể/R sẽ/R tiến_hành/V tăng/V lãi_suất/N một_cách/N từ_từ/A để/E trở_về/V tình_trạng/N bình_thường/A 
+Những/L phát_biểu/V trên/E đã/R khuyến_khích/V dòng/N tiền/N chảy/V vào/E tài_sản/N phi/N lợi_tức/A giống/A như/C vàng/N 
+Đặc_biệt/A đồng/N USD/Np suy_yếu/A thường/R là/V yếu_tố/N hỗ_trợ/V nhu_cầu/N hàng_hóa/N được/V định_giá/V bằng/E đồng_tiền/N này/P đi/V lên/R cũng/R là/V một/M trong/E những/L chất_xúc_tác/N để/E vàng/N hồi_phục/V trở_lại/V 
+Hiện/N giới/N đầu_tư/V đang/R chờ_đợi/V các/L báo_cáo/N kinh_tế/N vĩ_mô/N tại/E Mỹ/Np bao_gồm/V doanh_thu/N bán_lẻ/V lạm_phát/N nhằm/V xác_định/V hướng/N đi/V tiếp_theo/V cho/E thị_trường/N 
+Theo/E nhận/V đinh/N của/E các/L chuyên_gia/N thế_giới/N giá/N vàng/N thế_giới/N mặc_dù/C tăng/V trong/E những/L phiên/N giao_dịch/V gần/A đây/P nhưng/C vẫn/R chưa/R có/V yếu_tố/N hỗ_trợ/V rõ_ràng/A do_đó/C xu_hướng/N giá/N vàng/N chưa/R được/V xác_định/V 
+Nhiều/A dự_báo/V giá/N vàng/N vẫn/R có_thể/A quay/V đầu/N đi/V xuống/R nếu/C cuối/N tuần/N này/P Mỹ/Np công_bố/V chỉ_số/N bán_lẻ/V khả_quan/A so/V với/E dự_báo/V 
+An_Hạ/Np 

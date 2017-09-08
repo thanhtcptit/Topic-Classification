@@ -1,0 +1,11 @@
+Phần_mềm/N khiến/V điện_thoại/N V phản/V chủ/N N
+PlaceRaider/Np là/V một/M phần_mềm/N có/V khả_năng/N tạo/V bản_đồ/N 3D/Np về/E không_gian/N xung_quanh/N điện_thoại_di_động/N nhờ/V đó/P gián_điệp/N có_thể/R đột_nhập/V vào/E nhà/N và/CC những/L loại/Nc công_trình/N xây_dựng/V khác/A
+Nó/P là/V phát_minh/N của/E các/L nhà_khoa_học/N thuộc/V hải_quân/N Mỹ/Np và/CC Đại_học/N Indiana/Np tại/E Mỹ/Np
+Nếu/C tìm/V thấy/V “/N PlaceRaider/Np ”/V trên/E mạng/N người_ta/P sẽ/R chỉ/R biết/V nó/P là/V một/M ứng_dụng/N dành/V cho/E camera/N của/E điện_thoại/N nên/C sẽ/R không/R nghi_ngờ/V  /V Tech_News_Daily/Np đưa/V tin/N
+Phần_mềm/N sẽ/R bí_mật/V ra_lệnh/V cho/E camera/N của/E điện_thoại/N chụp/V ảnh/N hay/C quay/V video/N đồng_thời/R thu_thập/V dữ_liệu/N về/E phương_hướng/N từ/E thiết_bị/N đo/V gia_tốc/N trên/E điện_thoại/N
+Sau/E đó/P PlaceRaider/Np gửi/V dữ_liệu/N về/E một/M máy_tính/N để/E nó/P kết_hợp/V những/L hình_ảnh/N có/V độ/N nét/N cao/A nhất/R thành/V bản_đồ/N ảo/A ba/M chiều/N về/E ngôi/Nc nhà/N hay/C văn_phòng/N của/E người/N sử_dụng/V điện_thoại/N
+Máy_tính/N sẽ/R tự_động/A loại/Nc những/L ảnh/N tối/A hoặc/CC mờ/A
+Gián_điệp/N có_thể/A phóng/V to/A những/L thông_tin/N nhạy_cảm/A trong/E phòng/N như/C báo_cáo/V tài_chính/N số/N điện_thoại/N sec/V cá_nhân/N hay/C kế_hoạch/N làm_việc/V trên/E lịch/N tường/N
+Bản_đồ/N 3D/M cho_phép/V người/N sử_dụng/V lọt/V vào/E nhà/N một_cách/N dễ_dàng/A nếu/C họ/P muốn/V xâm_nhập/V
+Nhóm/N nghiên_cứu/V cho/V rằng/C phần_mềm/N của/E họ/P không_chỉ/R là/V công_cụ/N hữu_ích/A đối_với/E gián_điệp/N mà_còn/C có_thể/R trợ_giúp/V đắc_lực/A cho/E binh_lính/N đặc_nhiệm/N cảnh_sát/N và/CC các/L nhà/N điều_tra/V vụ_án/N
+Tuy_nhiên/C một_số/L người/N lo_ngại/V “/N PlaceRaider/Np ”/V sẽ/R gây/V hại/V lớn/A cho/E xã_hội/N nếu/C kẻ_trộm/V hay/C những/L đối_tượng/N xấu/A sử_dụng/V nó/P

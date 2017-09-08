@@ -1,0 +1,19 @@
+Công_nghệ/N biến/V màn_hình/N điện_thoại/N thành/V pin/N Mặt_Trời/N trong_suốt/A
+Pin_Mặt_Trời/Np ngày_càng/X phổ_biến/V nhưng/C con_người/N mới/R chỉ/R khai_thác/V được/R một/M phần/N rất/R nhỏ/A của/E nguồn/N năng_lượng/N khổng_lồ/A này/P
+Hiệu_suất/N chuyển_hóa/V từ/E quang_năng/N thành/V điện_năng/N cao/A nhất/R mới/R chỉ/R đạt/V 20%/M
+Song_song/A với/E việc/N nâng/V cao/A hiệu_suất/N pin/V các/L nhà_khoa_học/N cũng/R muốn/V mở_rộng/V phạm_vi/N lắp_đặt/V và/CC ứng_dụng/V các/L tấm/N pin/N
+Với/E pin/N Mặt_Trời/Np trong_suốt/A thay_vì/V chỉ/R có_thể/R lắp_đặt/V trên/E mái/N nhà/N có_thể/R dùng/V để/E phủ/V trên/E cửa_kính/N các/L tòa/N nhà/N cao_tầng/A hay/C sử_dụng/V cho/E các/L thiết_bị/N điện_tử/N như/A điện_thoại_di_động/N
+Nguyên_lý/N hoạt_động/V của/E pin/N Mặt_Trời/Np trong_suốt/A rất/R đơn_giản/A
+Ánh_sáng/N Mặt_Trời/Np là/V tập_hợp/N của/E vô_số/L các/L bước/N xạ/N thuộc/V vùng/N không/R nhìn/V thấy/V hồng_ngoại/N tử_ngoại/N và/CC các/L bước/N xạ/N thuộc/V vùng/N nhìn/V thấy/V
+Pin_Mặt_Trời/Np trong_suốt/A là/V loại/Nc pin/N chỉ/R chuyển_hóa/V năng_lượng/N của/E các/L bức_xạ/N hồng_ngoại/N và/CC tử_ngoại/V thành/V điện_năng/N cho/E ánh_sáng/N nhìn/V thấy/V đi/V qua/V
+Nói/V cách/N khác/A nó/P trong_suốt/A với/E mắt/N người/N
+Theo/E National_Geographic/Np loại/Nc vật_liệu/N sử_dụng/V để/E chế_tạo/V pin/N Mặt_Trời/Np trong_suốt/A là/V vật_liệu/N hữu_cơ/A
+Ưu_điểm/N của/E việc/N sử_dụng/V vật_liệu/N hữu_cơ/A là/C nguyên_liệu/N luôn/R sẵn/A có/V và/CC rất/R phong_phú/A Nikos_Kopidakis/Np một/M nhà_nghiên_cứu/N thuộc/V Phòng_thí_nghiệm/N năng_lượng/N tái_tạo/N Mỹ/Np NREL/Np cho_biết/V
+Một/M ưu_điểm/N nữa/R của/E pin/N vật_liệu/N hữu_cơ/A là/C dễ/A chế_tạo/V hơn/R pin/N Mặt_Trời/N truyền_thống/N
+Với/E công_nghệ/N chế_tạo/V pin/N Mặt_Trời/Np hiện_tại/N cần/V phải/V có/V buồng/N chân_không/N cao/A và/CC lò/N nung/V nhiệt_độ/N cao/A 300/M 400/M độ/N C/N
+Loại/N pin/V mới/R không/R cần/V buồng/N chân_không/A và/CC có_thể/A chế_tạo/V ở/E nhiệt_độ/N thường/R
+Với/E quá_trình/N phủ/V phim/N tiêu_chuẩn/N hiện_nay/N các/L kỹ_sư/N của/E Ubiquitous/Np có_thể/R tạo/V ra/R các/L lớp/N quang_điện/N hữu_cơ/N có/V độ/N dày/A chỉ/R bằng/E 1/1000/M độ/N dày/A sợi/N tóc/N
+Tuy_nhiên/C có/V một/M vấn_đề/N với/E loại/Nc pin/N mới/A này/P là/V hiệu_suất/N chưa/R cao/A như/C pin/V truyền_thống/N
+Vì_vậy/C các/L nhà_nghiên_cứu/N của/E Ubiquitous/Np sẽ/R chứng_minh/V tính/N ứng_dụng/A của/E pin/N Mặt_Trời/Np trong_suốt/A ở/E quy_mô/N nhỏ/A trước/E
+Cơ_sở/N sản_xuất/V thử_nghiệm/V của/E công_ty/N đặt/V tại/E thành_phố/N Redwood_California/Np hiện/N đang/R hợp_tác/V với/E những/L công_ty/N khác/A để/E sản_xuất/V các/L bản_mẫu/N điện_thoại/N thông_minh/A đồng_hồ/N và/CC thiết_bị/N điện_tử/N nhỏ/A sử_dụng/V công_nghệ/N pin/V trong_suốt/A của/E Ubiquitous/Np
+Nếu/C suôn_sẻ/V trong/E tương_lai/N cửa_sổ/N và/CC màn_hình/N điện_thoại_di_động/N sẽ/R được/V phủ/V một/M lớp/N pin/N mỏng/A vô_hình/A

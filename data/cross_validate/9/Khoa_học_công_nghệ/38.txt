@@ -1,0 +1,10 @@
+Smartphone/N dưới/N 100000/M đồng/Nu bán/V từ/E ngày/N 306/M
+Giá/N bán_lẻ/N của/E chiếc/Nc Freedom/Np 251/M là/V 4/M USD/Nu tương_đương/N 88000/M VNĐ/N
+Đối_với/C những/L người/N đặt_hàng/V trước/A vào/E tháng/N 2/M giá/N bán/N còn/R 37/M USD/Nu tương_đương/N 83000/M VNĐ/N
+Ở/E mức/N giá/N này/P mỗi/M chiếc/N bán/V ra/R công_ty/N lỗ/A 22/M USD/Nu
+Nhà/N sáng_lập/V Ringing_Bells_Mohit_Goel/Np trả_lời/V phỏng_vấn/V báo/N Indian_Express/Np cho/V biết/V công_ty/N sẽ/R có/V một/M khoản/N lỗ/N nhưng/C hạnh_phúc/A với/E việc/N hoàn/V thành/N giấc/N mơ/V kết_nối/V nông_thôn/N và/CC người/N nghèo/A Ấn_Độ/Np trở_thành/V một/M phần/N của/E Ấn_Độ_Kỹ_thuật/N số/N Digital_India/Np qua/V Freedom/Np 251/M
+Ringing_Bells_Freedom/Np 251/M là/V smartphone/N Android/Np màn_hình/N 4/M inch/N camera/N sau/N 8MP/N và/CC camera/N trước/N 32MP/M
+Máy/N dùng/V chip/N xử_lí/N 13GHz/N bộ_nhớ/N RAM/Np 1GB/Np và/CC bộ_nhớ_trong/N 8GB/N có/V khe/N cắm/V thẻ/N nhớ/V microSD/N mở_rộng/V dung_lượng/N lưu_trữ/V
+Ngoài/E kết_nối/N WiFi/N Freedom/Np 251/M có/V hỗ_trợ/N mạng/N di_động/V 3G/N
+Ringing_Bells/Np cho/V biết/V chuẩn_bị/V xuất_xưởng/V gần/A 200000/M điện_thoại/N Freedom/Np 251/M và/N dự_kiến/V mở/V lại/R hệ_thống/N đặt_hàng/V theo/V nhu_cầu/N trong/E tương_lai/N gần/A
+Tuy_vậy/N theo/V The_Guardian/Np đã/R có/V một/M cuộc/N điều_tra/V của/E chính_phủ/N về/V thuế/N và/CC các/L giấy_phép/N viễn_thông/N còn/R thiếu/V của/N Ringing_Bells/Np

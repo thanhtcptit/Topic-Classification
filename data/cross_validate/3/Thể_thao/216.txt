@@ -1,0 +1,6 @@
+Thái_Sơn_Nam/Np thẳng/A tiến/V
+ĐKVĐ/N Thái_Sơn_Nam/Np thắng/V Sài_Gòn/Np FC/Np 30/M để/E tiếp_tục/V dẫn_đầu/V
+Trong/E khi/N đó/P ba/N đội/N đang/R đua_tranh/V vị_trí/N thứ_hai/N cũng/R đều/A giành/V chiến_thắng/N
+Sanatech_Khánh_Hoà/Np thắng/V Tân_Hiệp_Hưng/Np 53/M Hải_Phương_Nam_Phú_Nhuận/Np thắng/V Cao_Bằng/Np 53/M và/N Sanna_Khánh_Hoà/Np thắng/V Sanest_Tourist_Khánh_Hoà/Np 41/M
+Bảng/N xếp_hạng/N cụ_thể/N thứ_tự/V 4/M hạng/N đầu/N sau/N 14/M lượt/N Thái_Sơn_Nam/Np 35/M điểm/N Sanatech_Khánh_Hoà/Np 29/M điểm/N Hải_Phương_Nam_Phú_Nhuận/Np 28/M điểm/N và/CC Sanna_Khánh_Hoà/Np 25/M điểm/N
+Hôm_nay/N 186/M lượt/N 15/M tiếp_tục/N với/V 5/M cặp/N đấu/V Cao_Bằng/Np Sanna_Khánh_Hoà/Np 9h/Np Tân_Hiệp_Hưng/Np Hải_Phương_Nam_Phú_Nhuận/Np 11h/Np Sài_Gòn/Np FC/Np Thái_Sơn_Bắc/Np 14h/Np Thái_Sơn_Nam/Np Hoàng_Thư_Đà_Nẵng/Np 16h/Np Sanatech_Khánh_Hoà/Np Sanest_Tourist_Khánh_Hoà/Np 18h/M

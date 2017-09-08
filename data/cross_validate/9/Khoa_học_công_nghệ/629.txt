@@ -1,0 +1,18 @@
+Pin_Mặt_Trời/Np có/V khả_năng/N tái_tạo/V ánh_sáng/N
+Business_Insider/Np  /V dẫn/V báo_cáo/V  /A trên/E tạp_chí/N Science/Np hôm/N 17/3/M cho_biết/V loại/N vật_liệu/N lai_tạp/A giữa/E chì/N halide/N muối/N của/E chì/N và/CC 1/M nguyên_tố/N halogen/N –/M Clo_Flo_Brom/Np I/M ốt/N và/CC quặng/N perovskite/N CaTiO3/Np có/V khả_năng/N hấp_thụ/V ánh_sáng/N Mặt_Trời/Np tạo/V ra/R các/L hạt/N mang/V điện/N và/CC sau/N đó/P còn/R có_thể/A tự_phát/V ra/R ánh_sáng/N
+Chúng_tôi/P biết/V rằng/C loại/Nc vật_liệu/N này/P hấp_thụ/V ánh_sáng/N và/CC tạo/V ra/R các/L hạt/N mang/V điện/N rất/R tốt/A đồng_tác_giả/N của/E nghiên_cứu/N Tiến_sĩ/N Felix_Deschler_Đại/Np học/V Cambridge_Anh/Np cho_biết/V
+Chúng_tôi/P còn/R chứng_minh/V được/R nó/P có_thể/R tái_tạo/V ra/R các/L photon/N ánh_sáng/N
+Pin_Mặt_Trời/Np hoạt_động/V theo/E cách/N hấp_thụ/V năng_lượng/N ánh_sáng/N –/V các/L photon/N chuyển/V năng_lượng/N này/P vào/E hạt/N mang/V điện/N và/CC tạo/V thành/V dòng_điện/N
+Pin/N lai/A hóa/V chì/N halogen/V –/M perovskite/N từ/E lâu/A đã/R nổi_tiếng/A với/E hiệu_suất/N chuyển_hóa/V năng_lượng/N rất/R tốt/A của/E mình/P nhưng/C nhóm/N nghiên_cứu/V của/E Deschler/Np còn/R chứng_minh/V được/V rằng/C perovskite/N thực_sự/A có_thể/R phát/V ra/R ánh_sáng/N sau/E quá_trình/N trên/A để/E tái/A hấp_thụ/V một/M lần/N nữa/R
+Kết_quả/N là/V các/L pin/N này/P hoạt_động/V như/C một/M thiết_bị/N tập_trung/V điện/N có/V khả_năng/N tạo/V ra/R nhiều/A năng_lượng/N hơn/R tăng/V điện_thế/N lên/R cao/A hơn/R với/E một/M nguồn/N sáng/N sẵn/A có/V so/V với/E các/L vật_liệu/N không/R có/V khả_năng/N tái_tạo/V ánh_sáng/N
+Hiệu_suất/N của/E pin/N Mặt_Trời/Np hiện_nay/N vào_khoảng/X 20/M –/Nu 21%/M trong/E khi/N hiệu_suất/V tối_đa/A theo/E lý_thuyết/N là/V 33%/M
+Nghiên_cứu/N của/E chúng_tôi/P có_thể/R mở/V ra/R một/M hướng/N để/E đạt/V được/R hiệu_suất/N đó/P  /V Deschler/Np cho_biết/V
+Hiệu_suất/N của/E một/M pin/N Mặt_Trời/Np là/V phần_trăm/N năng_lượng/N ánh_sáng/N mà/C nó/P có_thể/R chuyển_hóa/V thành/V điện/N
+Theo/E tính_toán/V lý_thuyết/N về/E nhiệt/N động_lực_học/N vào/E năm/N 1961/M của/E William_Shockley/Np và/CC Hans_Queisser/Np giới_hạn/V của/E hiệu_suất/N này/P là/V 33%/M
+Theo/E các/L nhà_nghiên_cứu/N loại/N vật_liệu/N này/P không_chỉ/R có/V hiệu_suất/N cao/A mà_còn/C rất/R dễ/A sản_xuất/V giá_thành/N rẻ/A có/V khả_năng/N thương_mại_hóa/V
+Bạn/N sẽ/R không/R tin/V được/V rằng/C nó/P có_thể/R tái_tạo/A ánh_sáng/N do/E chế_tạo/V nó/P quá/R đơn_giản/A so/V với/E các/L loại/N khác/A Deschler/Np nói/V
+Loại/N vật_liệu/N của/E chúng_tôi/P còn/R rất/R rẻ/A và/CC linh_hoạt/A
+Quy_trình/N chế_tạo/V pin/N Mặt_Trời/Np hiện_nay/N đòi_hỏi/V phải/V kiểm_soát/V được/R quá_trình/N hình_thành/V cấu_trúc/V vật_liệu/N  /V Tạp_chất/N lẫn/C trong/E cấu_trúc/N tinh_thể/N sẽ/R để/V lại/R một/M vùng/N khiếm_khuyết/N trong/E vật_liệu/N làm/V giảm/V tính_năng/N hấp_thụ/V ánh_sáng/N
+Nhưng/C loại/Nc vật_liệu/N mới/R nằm/V ngoài/E quy_luật/N này/P
+Chúng_tôi/P đang/R phải/V tìm_hiểu/V nguyên_nhân/N vì_sao/X loại/Nc vật_liệu/N này/P lại/R biểu_hiện/V tốt/A hơn/R các/L loại/N khác/A  /V Deschler/Np nói/V
+Các/L nhà_nghiên_cứu/N hy_vọng/V sẽ/R thu_hút/V được/R sự/N quan_tâm/V từ/E các/L nhà_sản_xuất/N pin/V Mặt_Trời/Np đang/R tìm_kiếm/V một/M giải_pháp/N khai_thác/V nguồn/N năng_lượng/N này/P rẻ/A hơn/R hiệu_quả/A hơn/R

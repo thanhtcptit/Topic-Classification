@@ -1,0 +1,6 @@
+Ukraine/N thu_giữ/V công_cụ/N tấn_công/V mạng/N của/E hacker/N Nga/Np
+Theo/E trang/N IBT/Np Times/Np thông_cáo/V phát/V đi/R ngày/N 306/M của/N SBU/Np cho/V biết/V cơ_quan/N này/P đã/R thu_giữ/V máy_chủ/N từng/R được/V các/L hacker/N sử_dụng/V trong/E tháng/N 5/M và/N 6/M năm/N nay/P để/E thực_hiện/V các/L cuộc/N tấn_công/V mạng/N nhằm/V vào/R Ukraine/Np và/CC các/L nước/N khác/A
+SBU/Np cũng/R cho/V rằng/E rất/R có_thể/A máy_chủ/N này/P cũng/R từng/R tham_gia/V trong/E cuộc/N tấn/N công_bằng/N mã/V độc/A đầu/N tuần/N này/P dẫn/V tới/E sự/N tê_liệt/V hoạt_động/N của/E hệ_thống/N máy_tính/N tại/E ít_nhất/N 65/M quốc_gia/N
+Sau/E khi/N xảy/V ra/R vụ/N tấn_công/V mạng/N của/E mã/N độc/N biến_thể/A Petya/Np xảy/V ra/R đầu_tiên/A tại/E Ukraine/Np và/CC mau_chóng/V lan/N rộng/A ra/V các/L nước/N khác/A ngày/N thứ_ba/N tuần/N này/P 276/M chính_giới/N Ukraine/Np lập_tức/N đổ/V tội/N cho/V hacker/N Nga/Np nhưng/C người_phát_ngôn/N điện/N Kremlin/Np bác_bỏ/V những/L cáo_buộc/N mà/C họ/N cho/V là/C vô_căn_cứ/N đó/P
+Hiện/N chưa/R rõ/V thiết_bị/N mà/N SBU/Np vừa/R thu_giữ/V được/R có/V đóng/V vai_trò/N nào/N trong/E quá_trình/N phát_tán/V biến_thể/N mã/N độc/A Petya/Np vừa_qua/V hay/V không/R
+SBU/Np cho/V biết/V cơ_quan/N này/P vẫn/R đang/R tiếp_tục/V điều_tra/V về/V thiết_bị/N vừa/R thu_giữ/V cũng/R như/C các/L vụ/N tấn_công/V mạng/N vừa/R xảy/V ra/R

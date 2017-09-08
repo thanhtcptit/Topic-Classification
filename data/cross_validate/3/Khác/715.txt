@@ -1,0 +1,33 @@
+Smartphone/Np có/V cần/V đến/V RAM/Np 8/M GB/Nu
+Khi/N mua/V điện_thoại/N không/R ít/A người/N lúng_túng/A trước/E bảng/N liệt_kê/V cấu_hình/V với/E những/L con_số/N khó/A hiểu/V  /M Một/M trong/E những/L thông_số/N gây/V thắc_mắc/V nhất_là/X RAM/Np /V Random_Access_Memory/Np /V
+RAM/Np là/V bộ_nhớ/N dữ_liệu/N tạm_thời/A lưu_thông/V tin/N về/E những/L ứng_dụng/N đang/R hoạt_động/V trong/E một/M khoảng/N thời_gian/N nhất_định/A để/E chúng/P nhanh_chóng/A được/V truy_cập/V giúp/V thiết_bị/N chạy/V đa_nhiệm/N mượt/A hơn/R
+Khi/N tắt/V máy/N sẽ/R không/R có/V dữ_liệu/N nào/P được/V lưu/V trong/E RAM/Np  /EOS
+Nếu/C vẫn/R đang/R băn_khoăn/A smartphone/N của/E mình/P cần/V bao_nhiêu/P RAM/Np bạn/N không/R phải/V người/N duy_nhất/A
+Câu_hỏi/N này/P đã/R được/V đề_cập/V nhiều/A từ/E khi/N smartphone/N ra_đời/V và/CC trang/N Digitrends/Np đã/R tham_khảo/V một_số/L chuyên_gia/N để/E làm/V rõ/A hơn/R vấn_đề/N
+Smartphone/Np trải/V qua/R một/M hành_trình/N dài/A và/CC đảm_nhận/V nhiều/A vai_trò/N hơn/A chúng_ta/P từng/R hình_dung/V Vishal_Kara/Np Giám_đốc/N sản_phẩm/N tại/E Piriform/Np nhà_phát_triển/N ứng_dụng/V CCleaner/Np dành/V cho/E Android/Np nói/V
+Khi/N chúng_ta/P thực_hiện/V nhiều/A tác_vụ/N hơn/A trên/E điện_thoại/N đương_nhiên/A thiết_bị/N đòi_hỏi/V nhiều/A RAM/Np hơn/A để/E có_thể/R duy_trì/V các/L chức_năng/N một_cách/N hiệu_quả/N
+Khi/N bạn/N truy_cập/V ứng_dụng/V hay/C trò_chơi/N trên/E điện_thoại/N thông_tin/N được/V tải/N vào/V RAM/Np
+Nếu/C ứng_dụng/N đó/P vẫn/R nằm/V trong/E RAM/Np người/N dùng/V có_thể/R mở/V ra/R mở/V vào/R và/CC tiếp_tục/V những/L gì/P họ/P đang/R làm/V mà/C không/R cần/V tải/N lại/R từ/E đầu/N Vì_vậy/C RAM/Np đóng/V vai_trò/N đặc_biệt/A quan_trọng/A cho/E đa_nhiệm/N  /V Về/V
+lý_thuyết/N nhiều/A RAM/Np hơn/R có_nghĩa/V nhiều/A ứng_dụng/N có_thể/R hoạt_động/V cùng/A lúc/N hơn/A mà/C không/R làm/V ảnh_hưởng/V đến/E trải_nghiệm/N của/E người/N dùng/V
+Chẳng/R có/V gì/P là/V đúng/A hay/C sai/A một_cách/N rạch_ròi/A khi/N nói/V về/E số/N RAM/Np mà/C điện_thoại/N cần/V
+Không/R như/C một_vài/L giây/N trễ/A khi/N mở/V ứng_dụng/N trên/E máy_tính/N cũng/R chấp_nhận/V được/R chúng_ta/P mong/V ứng_dụng/V phải/V chạy/V tức_thì/R trên/E smartphone/N Kara/Np nhấn_mạnh/V
+Smartphone/Np chạy/V Android/Np đầu_tiên/A HTC/Np Dream/Np chỉ/R có/V RAM/Np 192/M MB/Np trong/E khi/N mẫu/N i/N Phone/Np đời_đầu/V là/V 128/M MB/Np
+Con_số/N này/P đã/R tăng/V dần/R đều/R trong_suốt/A một/M thập_kỷ/N qua/V và/CC giờ_đây/N điện_thoại/N OnePlus/Np 5/M được/V trang_bị/V RAM/Np lên/V tới/E 8/M GB/Np
+Với/E 8/M GB/Np OnePlus/Np có_thể/R chạy/V nhiều/A ứng_dụng/N nền/N hơn/A cho_phép/V hoạt_động/N đa_nhiệm/V nhanh/A hơn/R Laura_Watts/Np Giám_đốc/N truyền_thông/N của/E OnePlus/Np khẳng_định/V  /M Trong/E khi/N đa_số/L smartphone/N cao_cấp/A trên/E thị_trường/N được/V trang_bị/V RAM/Np 2-4/M GB/Np thì/C 8/M GB/Np nghe/V có_vẻ/X đầy/A hấp_dẫn/V
+Nói_chung/N nhiều/A RAM/Np hơn/A thì/C vẫn/R tốt/A hơn/R nhưng/C quan_trọng/A là/C nó/P có/V thực_sự/A cần_thiết/A ở/E giai_đoạn/N này/P hay/C không/R chuyên_gia/N  /M John_Poole/Np của/E Primate_Labs/Np công_ty/N tạo/V ra/R phần_mềm/N Geekbench/Np 4/M nhận_xét/V
+Theo/E thống_kê/V của/E App_Annie/Np  /N trung_bình/A một/M người/N dùng/V điện_thoại/N mở/V 9/M ứng_dụng/N mỗi/M ngày/N và/CC khoảng/N 30/M ứng_dụng/N khác_nhau/A mỗi/M tháng/N
+Biên_tập_viên/N của/E Digitrends/Np  /Np đã/R thử/V kiểm_tra/V  /N bộ_nhớ/N của/E HTC_U1/Np 1/M /N có/V 4/M GB_RAM/Np /M và/CC nhận/V thấy/V lượng/N sử_dụng/V bộ_nhớ/N trung_bình/A trong/E ngày/N chỉ/R là/V 2,3/M GB/Np với/E 47/M ứng_dụng/N được/V truy_cập/V
+Theo/E Poole/Np dù/C ứng_dụng/V ngày_càng/N mạnh_mẽ/A camera/N chụp/V ảnh/N dung_lượng/N lớn/A hơn/R với/E định_dạng/N RAW/Np và/CC màn_hình/N to/A hơn/A ông/N vẫn/R hoài_nghi/V về/E nhu_cầu/N cần/V đến/E 8/M GB_RAM/Np trên/E điện_thoại/N
+Với/E smartphone/N tầm/N 4/M GB/Nu lúc/N này/P là/V đủ/A
+Tôi/P có/V cảm_giác/N một_số/L nhà_sản_xuất/N cố/V nhồi_nhét/V RAM/Np và/CC lăng_xê/V cho/E nó/P để/E thu_hút/V và/CC bán/V được/R hàng/N Poole/Np nói/V
+Đầu/N năm/N nay/P Lao_Shi/Np một/M lãnh_đạo/N của/E Huawei/Np cũng/R chia_sẻ/V trên/E Weibo/Np rằng/C RAM/Np 4/M GB/Nu là/V đủ/A cho/E smartphone/N hoạt_động/V mượt_mà/A  /EOS
+Nhìn_chung/N các/L chuyên_gia/N cho/V rằng/C trong/E tương_lai/N khi/N ứng_dụng/V nặng/A hơn/A và/CC đòi_hỏi/V cấu_hình/N mạnh/A như/C các/L nội_dung/N 4K/Np thực_tế/N ảo/A
+thì/C  /V các/L nhà_sản_xuất/N có_thể/R tăng/V RAM/Np để/E đáp_ứng/V nhu_cầu/N
+Còn/C hiện_tại/N nâng/V dung_lượng/N RAM/Np chỉ/R làm/V tăng_giá/V sản_phẩm/N một_cách/N lãng_phí/V mà/T thôi/T
+Chưa/R kể/V càng/R nhiều/A RAM/Np đưa/V vào/E điện_thoại/N nó/P càng/R ngốn/V nhiều/A năng_lượng/N hơn/A và/CC làm/V giảm/V thời_gian/N hoạt_động/V của/E pin/N Poole/Np giải_thích/V
+Bên_cạnh/N đó/P người/N dùng/V được/R đào_tạo/V  /N từ/E thời/N PC/Np được/V trang_bị/V bộ_nhớ/N hạn_chế/V  /V rằng/C RAM/Np trống/A nhiều/A giúp/V máy/N chạy/V tốt/A hơn/R
+Ngày_nay/N quan_niệm/N này/P không/R còn/V đúng/A nữa/R
+Nếu/C có/V thói_quen/N xóa/V đi/V những/L ứng_dụng/N đang/R nằm/V trong/E RAM/Np bạn/N nên/C ngừng/V làm/V điều/N đó/P vì/E nó/P chẳng/R thay_đổi/V gì/P
+Nó/P không/R giúp/V tiết_kiệm/V pin/N hay/C làm/V điện_thoại/N chạy/V nhanh/A hơn/R mà/C có_khi/R còn/R tác_dụng/V ngược/A  /M Đa_số/N nhà_sản_xuất/N cung_cấp/V tính_năng/N cho_phép/V người/N dùng/V kiểm_tra/V RAM/Np và/CC xóa/V bớt/V dữ_liệu/N để/E tăng/V giải_phóng/N bộ_nhớ/N RAM/Np  /M Người/N dùng/V muốn/V thấy/V RAM/Np trống/A nhưng/C sẽ/R tốt/A hơn/R nếu/C RAM/Np của/E bạn/N đang/R của/E bạn/N đang/R được/V sử_dụng/V  /M Kara/N cho_biết/V
+Quá_trình/N tải/N ứng_dụng/V từ/E bộ_nhớ_trong/N của/E máy/N vào/E RAM/Np cũng/R tốn/V năng_lượng/N còn/C các/L ứng_dụng/N chạy/V ngầm/A như/C email/N Facebook/Np vẫn/R luôn/R hoạt_động/V
+Các/L chuyên_gia/N kết_luận/V rằng/C dung_lượng/N RAM/Np phụ_thuộc/V nhu_cầu/N của/E mỗi/L người/N trên/E điện_thoại/N nhưng/C hiện_tại/N đây/P không/R còn/R là/V vấn_đề/N mà/C họ/P cần/V quan_tâm/V nữa/R và/CC các/L nhà_sản_xuất/N cũng/R không/R nên/V dùng/V RAM/Np như/C một/M chiêu/N trò/N câu_khách/V

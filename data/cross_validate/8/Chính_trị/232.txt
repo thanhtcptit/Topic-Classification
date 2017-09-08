@@ -1,0 +1,35 @@
+Bất_an/V với/E chủ_trương/N đấu_thầu/V quyền/N khai_thác/V taxi/N
+Theo/E dự_thảo/N lần/N 4/M Quy_chế/N quản_lí/V hoạt_động/N kinh_doanh/V vận_tải/V hành_khách/N bằng/E xe/N taxi/N trên/E địa_bàn/N TP/Np
+Hà_Nội/Np của/E UBND/Np TP/Np
+Hà_Nội_các/N doanh_nghiệp/N taxi/N phải/V tham_gia/V đấu_thầu/V để/E được/V cung_ứng/V dịch_vụ/N taxi/N
+Tuy_nhiên/C Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/C việc/N đấu_thầu/V là/V không/R phù_hợp/V gây/V bất_an/V cho/V doanh_nghiệp/N
+Trong/E văn_bản/N vừa/R gửi/V Ban/N Kinh_tế/N Trung_ương/N Bộ/N Tư_pháp/N Bí_thư/N Thành_uỷ/N Hà_Nội/Np Chủ_tịch/N UBND/Np TP/Np
+Hà_Nội/Np và/CC Sở/N Giao_thông/N vận_tải/V Hà_Nội/Np Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/E một_số/N nội_dung/N dự_thảo/N của/E Quy_chế/N trên/E nếu/N đi/V vào/R thực_tế/N sẽ/R tạo/V ra/R nhiều/A bất_cập/N rủi_ro/A cho/V doanh_nghiệp/N taxi/N hiện_nay/N
+Cụ_thể/N dự/V thảo/V quy_định/N UBND/Np TP/Np
+Hà_Nội/Np lựa_chọn/V đơn_vị/N cung_ứng/V dịch_vụ/N vận_tải/V hành_khách/N bằng/E xe/N taxi/N theo/V hình_thức/N đấu_thầu/V
+xe/N được/V phép/V khai_thác/V sử_dụng/V có/V thời_hạn/N 8/M năm/N tính_từ/M năm/N sản_xuất/V
+Sau/E thời_gian/N 8/M năm/N khai_thác/V xe/N sẽ/R được/V mang/V đấu_thầu/N
+Với/E những/L xe/N chưa/R khai_thác/V hết/V thời_gian/N khai_thác/V mà/C thay_thế/V bằng/E xe/N mới/A thì/C chỉ/R được/V tính/V quyền/N khai_thác/V các/L năm/N còn/V lại/V của/E xe/N trước/N đó/P
+Tuy_nhiên/C Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/N quy_định/N đấu_thầu/V sai/A về/E mặt/N bản_chất/N chức_năng/N nhiệm_vụ/N của/E cơ_quan/N quản_lí/N địa_phương/N và/CC không/R đảm_bảo/V tính/N khách_quan/A dễ/A nảy_sinh/V tiêu_cực/N
+Bởi_vì/N Sở/N Giao_thông/N vận_tải/N đang/R là/V cơ_quan/N quản_lí/V theo/V dự_thảo/N quy_chế/N đã/R trở_thành/V bên/N giao_thầu/A bên/N A/Np cung_cấp/V dịch_vụ/N vận_tải/V hành_khách/N bằng/E taxi/N để/E biến/V các/L doanh_nghiệp/N vận_tải/V trở_thành/V bên/N nhận_thầu/A bên/N B/Np
+Điều/N này/P sai/A về/E mặt/N bản_chất/N chức_năng/N nhiệm_vụ/N của/E cơ_quan/N quản_lí/N địa_phương/N là/V Sở/N Giao_thông/N vận_tải/V thực_hiện/V quản_lí/N vận_tải/V theo/V quy_định/N tại/E Nghị_định/N 862014/M NĐCP/N của/E Chính_phủ/N về/V kinh_doanh/V vận_tải/V bằng/N ô_tô/N và/CC theo/V thông_tư/N liên_quan/V của/E Bộ/N Giao_thông/N vận_tải/V
+Việc_Sở/Np Giao_thông/N vận_tải/V vừa/A là/V cơ_quan/N quản_lí/N vừa/R là/V bên/N giao_thông/N sẽ/R không/R đảm_bảo/V tính/N khách_quan/A trong/E việc/N đấu_thầu/V dễ/N nảy_sinh/V tiêu_cực/N
+Hiệp_hội/N Vận_tải/V Hà_Nội/Np dẫn_chứng/V là/V Hà_Nội/Np có/V chủ_trương/N ngừng/V cấp/N phù_hiệu/N taxi/N từ/E năm/N 2012/M
+Thời_điểm/N đó/P tổng_số/N xe/N taxi/N đã/R được/V cấp/V phù_hiệu/N TAXI/Np HANOI/Np là/V 17400/M xe/N
+Nhưng/C đến/V tháng/N 62016/M thì/N tổng_số/N phù_hiệu/N đã/R cấp/V là/V 19141/M chiếc/N
+Số_lượng/N 1741/M phù_hiệu/N TAXI/Np HANOI/Np tăng/V thêm/R đã/R được/V cấp/V cho/E đơn_vị/N nào/P căn_cứ/V theo/V tiêu_chuẩn/N nào/P đến/V nay/P các/L doanh_nghiệp/N taxi/N vẫn/R chưa/R có/V bất_cứ/N một/M thông_tin/N công_khai/A minh_bạch/A từ/E phía/N các/L cơ_quan/N quản_lí/V
+Ông/Nc Nguyễn_Anh_Quân/Np Phó_Chủ_tịch/N Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/C việc/N đấu_thầu/V quyền/N khai_thác/V dễ/N đẩy/V doanh_nghiệp/N vào/E thế/N bị_động/N tước/V đi/V quyền/N tự_chủ/V kinh_doanh/V đầu_tư/V thay_thế/N phương_tiện/N
+Thay_vì/V quyền/N được/R tự_chủ/V kinh_doanh/V thì/C các/L doanh_nghiệp/N lại/R phải/V đấu_thầu/V để/V mua/V lại/R quyền/N khai_thác/V của/E chính/N chiếc/Nc xe/N mình/N vừa/R thanh_lí/V
+Việc/N này/P làm/V gia_tăng/V chi_phí/N và/CC tạo/V tâm_lí/N bất_an/N cho/V doanh_nghiệp/N
+Bên_cạnh/N đó/P doanh_nghiệp/N trúng_thầu/N dễ/A tăng_giá/V cước/N để/E bù_đắp/V chi_phí/N đấu_thầu/V cuối_cùng/A khách/N hàng/N phải/V gánh_chịu/V khoản/N chi_phí/N này/P
+Theo/V dự_thảo/N từ/E đầu/N năm/N 2019/M các/N doanh_nghiệp/N taxi/N ở/E Hà_Nội/Np sẽ/R bắt_buộc/V phải/V tham_gia/V sử_dụng/V Trung_tâm/N điều_hành/V chung/A của/E thành_phố/N
+Nếu/C không/R tham_gia/V sẽ/R bị/V cắt/V tần_số/N thu_hồi/V giấy_phép/N kinh_doanh/V vận_tải/V thu_hồi/N phù_hiệu/N taxi/N để/E đem/V đấu_thầu/N
+Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/C việc/N sử_dụng/V Trung_tâm/N điều_hành/V chung/A không/R làm/V chất_lượng/N dịch_vụ/N taxi/N của/E Hà_Nội/Np tốt/A hơn/A mà/C làm/N gia_tăng/V bộ_máy/N con_người/N tăng/V gánh_nặng/N ngân_sách/N thành_phố/N
+Cơ_quan/N quản_lí_nhà_nước/X đứng/V ra/R vận_hành/V một/M Trung_tâm/N điều_hành/V kinh_doanh/V chung/A cho/V tất_cả/N các/L doanh_nghiệp/N sẽ/R không/R gắn/V được/R giữa/N quyền_lợi/N và/CC trách_nhiệm/N tạo/V nên/R một/M mô_hình/N mang/V dáng_dấp/N hợp_tác_xã/N bao_cấp/N trái/A với/E quy_luật/N của/N kinh_tế_thị_trường/N
+Việc/N này/P dễ/A tạo/V kẽ/N hở/N cho/V nhân_viên/N điều_hành/V ăn/V dơ/N với/E doanh_nghiệp/N lái_xe/N để/E điều_chuyển/V các/L cuốc/N khách/N cho/V các/L doanh_nghiệp/N lái_xe/N đã/R chi/V tiền/N thưởng/V cho/E họ/N tính/V trên/E số_lượng/N cuốc/N khách/N điều/N chuyển/V
+Bên_cạnh/N đó/P Hiệp_hội/N Vận_tải/V Hà_Nội/Np cho/V rằng/C khách/N hàng/N lựa_chọn/N dịch_vụ/N taxi/N trên/N cơ_sở/N chất_lượng/N và/CC giá/N của/E dịch_vụ/N mà/C hãng/N taxi/N cung_cấp/V
+Chất_lượng/N dịch_vụ/N tạo/V nên/R thương_hiệu/N của/E các/L hãng/N taxi/N
+Việc/N sử_dụng/V Trung_tâm/N điều_hành/V chung/A của/E các/L đơn_vị/N vận_tải/V taxi/N thực_chất/N là/V lấy/V đi/R giá_trị/N thương_hiệu/N từ/E các/L doanh_nghiệp/N đã/R đầu_tư/V rất/R nhiều/A năm/N để/E san_sẻ/V cho/E các/L doanh_nghiệp/N mới/R quản_lí/V yếu_kém/N ít/A đầu_tư/V
+Hiệp_hội/N Vận_tải/V Hà_Nội/Np đề_nghị/V UBND/Np TP/Np
+Hà_Nội/Np Sở/N Giao_thông/N vận_tải/V chờ/V Chính_phủ/N ban_hành/V nghị_định/N sửa_đổi/N nghị_định/N 862014/M NĐCP/N của/E Chính_phủ/N về/V kinh_doanh/V vận_tải/V bằng/E ô_tô/N để/E làm/V cơ_sở/N xây_dựng/V cho/E Quy_chế/N quản_lí/N hoạt_động/V kinh_doanh/V vận_tải/V hành_khách/N bằng/E xe/N taxi/N trên/E địa_bàn/N TP/Np
+Hà_Nội/Np tránh/V tình_trạng/N Quy_chế/N vừa/R ban_hành/V đã/R không/R phù_hợp/V với/E các/L quy_định/N của/E nghị_định/N mới/A

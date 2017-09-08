@@ -1,0 +1,22 @@
+Video/N Tốc/Np độ/N 4G/N của/E Viettel/Np so/V với/E 3G/N không/N giới_hạn/V
+Trong/E clip/N Nhịp_Sống_Số/Np sử/N dụng/N SIM/Np 4G/M chuẩn/N LTE/Np đang/R được/V nhà/N mạng/N Viettel/Np phát/V sóng/N thử_nghiệm/V tại/E thành/N phố/N Vũng_Tàu/Np so_sánh/V tốc/N độ/N thực_tế/A với/E gói/N cước/N không/R giới_hạn/V dung_lượng/N SIM/Np 3G/M xài/N bao_nhiêu/N trả/N bao_nhiêu/N của/E cùng/N nhà/N mạng/N
+Cần/V biết/V Apple/Np mở/V mạng/N 4G/M cho/N iPhone/M tại/E Vi/Np ​/N ệt/V Nam/Np
+Ứng_dụng/N dùng/V so_sánh/N là/V SpeedTest/N một/M dịch_vụ/N so_sánh/N tốc/N độ/N kết_nối/N Internet/Np rất/R phổ_biến/A
+Ngoài_ra/C khi/N chọn/V so_sánh/N với/E SpeedTest/N tác/N giả/A đã/R chọn/V cùng/A máy_chủ/N server/N thử_nghiệm/V kết_nối/N là/V máy/N chủ/N đặt/V tại/E TPHCM/Np Ho_Chi_Minh/Np city/V
+[/N VIDEO/Np id/V 1459500382251/M alt/N Clip/Np so/V sanh/N 4G/N vs/N 3G/N Viettel/Np Speedtest/Np Thực_hiện/V TT/Np rực/N ]/N httpstaticnewtuoitrevnttor20160401clipsosanh4gvs3gspeedtest1459500323mp4/N [/N VIDEO/Np ]/V
+Kết_quả/N từ/E clip/N trên/N cho/V thấy/V tốc/N độ/N kết_nối/N của/E mạng/N 4G/N LTE/Np thử/V nghiệm/V vượt/V xa/N 3G/N
+Tốc/N độ/N tải_về/N download/V lên/V đến/R 14566/M Mbgiây/Np Mbps/Np và/CC tốc/V độ/N tải/N lên/V upload/N đạt/V 4482/M Mbgiây/Np
+Gấp/V hơn/A 40/M lần/N tốc/V độ/N tải/N của/E mạng/N 3G/N
+Bên_cạnh/N so_sánh/N tốc/N độ/N qua/V ứng_dụng/N tác/N giả/A tiếp_tục/V so_sánh/V tốc/N độ/N khi/N sử_dụng/V thực_tế/N là/V xem/V video/N chất_lượng/N FullHD/N 1080p/N trên/N YouTube/N
+Xem/V Mạng/Np 4G/V khác_gì/N mạng/N 3G/M
+Xem/V video/N trực_tuyến/N là/V thói_quen/N của/E người_dùng/N di/N động/N nhưng/C thông_thường/N chất_lượng/N hình/N ảnh/N truyền_tải/N streaming/N rơi/V vào/R 360p/M hoặc/N 480p/M
+Một_số/N người_dùng/N WiFi/N mới/A mạnh_dạn/V chuyển/V sang/V xem/V video/N đạt/V chuẩn/N HD/Np 720p/M cho/V rõ/A nét/N vì/N xem/V video/N HD/Np 720p/N hay/N FullHD/V 1080p/N qua/V mạng/N dữ/N liệu/V 3G/N sẽ/R nhanh_chóng/A hút/V cạn/N tài_khoản/N của/N bạn/N
+Trong/E thử_nghiệm/N bên/N dưới/N tác_giả/N sử_dụng/V cả/P hai/M gói/N dữ_liệu/N không/N giới_hạn/V
+[/N VIDEO/Np id/V 1459500744618/M alt/N Clip/Np so/V sanh/N 4G/N vs/N 3G/N Viettel/Np YouTube/V streaming/N Thực_hiện/V TT/Np rực/N ]/N httpstaticnewtuoitrevnttor20160401clipsosanh4gvs3gyoutubestreaming1459500340mp4/N [/N VIDEO/Np ]/V
+Ở/E clip/N trên/A thực_tế/N mạng/N 3G/N vẫn/R đáp/V ứng/V được/R nhu_cầu/V xem/V video/N trực_tuyến/N mà/C không/R bị/V giật/V hình/N khi/N tải/N streaming/N
+Tuy_nhiên/C như/A đã/R nói/V ở/V trên/E nếu/N bạn/N dùng/V các/L gói/N cước/N 3G/N giới_hạn/N thì/C tốc/A độ/N và/CC dữ_liệu/N sẽ/R còn/V tuỳ_thuộc/V vào/R gói/V cước/N đăng_kí/N
+Bên/N cạnh/N đó/P tốc/V độ/N kết_nối/N còn/V phụ_thuộc/V vào/E thiết_bị/N kết_nối/N ở/V đây/P là/V smartphone/N của/E người_dùng/N có/V khả_năng/N kết/V nối_mạng/N tốc/A độ/N cao/A 4G/M LTE/N theo/V các/L chuẩn/N Cat5/M Cat6/N hay/N ở/E mức/N phổ_thông/N
+Tuỳ/N theo/V đó/P mà/C kết_quả/N cho/V ra/V nhanh/A hay/V chậm/A
+Cuối_cùng/N là/V khu_vực/N phủ_sóng/V mạng/N
+Mời/V bạn/N đọc/V đón/V xem/V tiếp/N clip/N trải_nghiệm/N chi_tiết/N mạng/N 4G/N LTE/Np đang/R phát_sóng/V thử/V nghiệm/N của/E Viettel/Np tại/E Vũng_Tàu/Np trên/N nhipsongso/N
+tuoitrevn/N

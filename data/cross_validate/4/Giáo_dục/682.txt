@@ -1,0 +1,20 @@
+TP_HCM/Np công_bố/V điểm_chuẩn/N lớp/N 10/M công_lập/N
+Trưa/N 3/7/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M THPT/Np năm_học/N 2017-2018/M
+Ở/E mỗi/M trường/N điểm_chuẩn/N nguyện_vọng/N 2/M cao/A hơn/R điểm_chuẩn/N nguyện_vọng/N 1/M và/CC nguyện_vọng/N 3/M cao/A hơn/R nguyện_vọng/N 2/M không/R quá/R 1/M điểm/N
+Điểm/N xét/V tuyển/V là/V tổng/N điểm/N ba/M môn/N Toán/Np và/CC Ngữ_văn/Np /V cùng/A nhân/N hệ_số/N 2/M /V cộng/V với/E Ngoại_ngữ/N cùng/C các/L điểm/N ưu_tiên/V khuyến_khích/V /N nếu/C có/V /M
+Thí_sinh/N trúng_tuyển/V phải/V dự/V đủ/A ba/M bài/N thi/V và/CC không/R bài/N nào/P bị/V điểm/N 0/M
+Sau/E khi/N điểm_chuẩn/V được/R công_bố/V thí_sinh/V không/R được/V phép/N thay_đổi/V nguyện_vọng/N  /M Các/L
+trường/N THPT/Np nhận/V hồ_sơ/N nhập_học/V của/E học_sinh/N từ/E ngày/N 4/M đến/E 20/7/M  /EOS
+Trước/E đó/P khoảng/N 73 0/M thí_sinh/N tại/E TP_HCM/Np tham_gia/V kỳ/N tuyển_sinh/V lớp/N 10/M trường/N THPT/Np công_lập/V
+Điểm/N thi/V môn/N Toán/Np năm/N nay/P thấp/A hơn/A năm/N trước/A trong/E khi/N môn/N Văn/Np và/CC tiếng/N Anh/Np không/R nhiều/A biến_động/N
+2/M
+Phiếu/N báo/V điểm/N kỳ/N thi_tuyển/V sinh/V vào/E lớp/N 10/M THPT /Np năm/N 2017/M
+3/M
+Học_bạ/N cấp/V THCS /Np /V bản_chính/N /V
+4/M
+Bằng/Np tốt_nghiệp/V THCS /Np /M bản_chính/N /V
+Học_sinh/N tốt_nghiệp/V THCS /Np năm_học/N 2015-2016/M nộp/V giấy/N chứng_nhận/V tốt_nghiệp/V /N tạm_thời/A /V do/E các/L cơ_sở/N giáo_dục/N cấp/V và/CC nộp/V bản_chính/N văn_bằng/V vào/E hồ_sơ/N khi/N được/V Phòng_Giáo/Np dục/V cấp_phát/V bằng/E
+5/M
+Bản_sao/N giấy/N khai_sinh/V hợp_lệ/N
+6/M
+Giấy/N xác_nhận/V được/R hưởng/V chính_sách/N ưu_tiên/A khuyến_khích/V /N nếu/C có/V /M do/E cơ_quan/N có/V thẩm_quyền/N cấp/V

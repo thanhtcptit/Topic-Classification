@@ -1,0 +1,34 @@
+M Thành_phố/N i/N Phone/Np V tại/E Trung_Quốc/Np
+Năm/N 2010/M Zhang_Hailin/Np một/M nông_dân/N tại/E Trịnh_Châu/Np nhìn/V thấy/V những/L chiếc/Nc trực_thăng/N bay/V qua/R cánh/N đồng/N ngô/N lúa_mỳ/N của/E mình/P để/E thả/V các/L quả/Nc bóng/N đánh_dấu/V điểm/N
+Ba/M ngày_sau/N hàng/R trăm/M xe/N ủi/V đất/N được/V đưa/V đến/E
+Những/L nhà_xưởng/N màu/N xám/A những/L đường/N dây_điện/N xuất_hiện/V vài/L tháng/N sau/E đó/P  /M Các/L
+chuyến/N xe_buýt/N chở/V công_nhân/N cũng/R bắt_đầu/V ra_vào/V nhà_máy/N của/E Foxconn/Np đối_tác/N sản_xuất/V hầu_hết/R i/N Phone/Np của/E Apple/Np  /EOS
+Nhờ/E đó/P một/M khu_công_nghiệp/N dần/R được/V hình_thành/V và/CC được/V biết/V đến/V như/C thành_phố/N i/N Phone/Np tại/E vùng_đất/N nông_nghiệp/N ngày/N nào/P
+Một/M năm/N sau/A Chủ_tịch/N Terry_Gou/Np của/E Foxconn/Np thông_báo/V có/V 100 0/M công_nhân/N làm_việc/V trong/E khu_công_nghiệp/N này/P
+Còn/C hiện_tại/N số_lượng/N công_nhân/N tại/E đây/P đã/R lên/V đến/E 250 0/M người/N xấp_xỉ/A dân_số/N của/E thành_phố/N Madison/Np /V Mỹ/Np /V
+Trong/E quá_trình/N xây_dựng/V các/L nhà_máy/N nông_dân/N địa_phương/N nhận/V được/R tiền/N đền_bù/V đất/N sản_xuất/V
+Nhiều/A người/N cho_biết/V cả/P đời/N trồng/V lúa/N ngô/N thì/C họ/P cũng/R không/R kiếm/V được/R số/N tiền/N lớn/A như_thế_này/X
+Foxconn/Np thông_báo/V đã/R mua/V 80%/M các/L toà/N nhà/N mà/C công_ty/N đang/R sử_dụng/V tại/E Trịnh_Châu/Np và/CC thuê/V 20%/M còn/V lại/R
+Đồng_thời/R họ/P sẽ/R tiếp_tục/V đầu_tư/V vào/E thành_phố/N này/P
+Sau/E lần/N nhìn/V thấy/V các/L máy_bay/N bay/V qua/R cánh/N đồng/N năm/N 2010/M ông/Nc Zhang/Np đã/R mua/V được/R hai/M căn_hộ/N nhờ/V số/N tiền/N đền_bù/V
+Hiện_tại/N ông/N là/V một/M công_nhân/N vệ_sinh/V đường_phố/N
+Trong/E khi/N vợ/N và/CC các/L con/N ông/N đều/R làm_việc/V trong/E nhà_máy/N của/E Foxconn/Np
+Mỗi/L công_nhân/N Foxconn/Np tại/E Trịnh_Châu/Np kiếm/V được/R khoảng/N 1 0/M yuan/N /A 278/M USD/Nu /A một/M tháng/N
+Nếu/C làm/V thêm/R giờ/N họ/P có_thể/R nhận/V được/R hơn/R 4 0/M yuan/N
+Đây/P là/V một/M mức/N thu_nhập/N không/R cao/A nhưng/C tốt/A hơn/R nhiều/A so/V với/E làm/V nông_nghiệp/N
+Nhờ/E đó/P các/L trung_tâm/N mua_sắm/V nhà_hàng/N và/CC quán/N karaoke/N mọc/V lên/R liên_tiếp/A để/E phục_vụ/V nhu_cầu/N của/E người/N lao_động/V tại/E thành_phố/N i/N Phone/Np
+Trong/E cơn_sốt/N i/V Phone/Np 7/M mùa/N thu/V năm_ngoái/N Foxconn/Np đã/R phải/V thuê/V thêm/V công_nhân/N từ/E các/L nhà_máy/N than/V quanh/N vùng/N
+Đến/E năm/N nay/P các/L nhà/N tuyển_dụng/V của/E hãng/N công_nghệ/N này/P lại/R phải/V tới/V các/L làng/N quê/N tìm_kiếm/V công_nhân/N lắp_ráp/V mẫu/N i/N Phone/Np sắp/R ra_mắt/V  /EOS
+Giới/N phân_tích/V ước_tính/V Foxconn/Np sản_xuất/V khoảng/A 150/M triệu/M i/Nu Phone/Np 20/M triệu/N i/V Pad/Np và/CC nhiều/A thiết_bị/N điện_tử/N khác/A mỗi/M năm/N
+Hãng/N công_nghệ/N này/P cho_biết/V họ/P đang/R thuê/V khoảng/N một_triệu/M lao_động/N khắp/A Trung_Quốc/Np và/CC các/L nơi/N khác/A bao_gồm/V cả/P Thẩm_Quyến/Np nơi/N sản_xuất/V i/N Phone/V đầu_tiên/A của/E Foxconn/Np
+Nhờ/V là/V công_xưởng/N của/E Apple/Np và/CC sự/Nc thành_công/V của/E i/N Phone/Np trong/E một/M thập_kỷ/N gần/A đây/P  /N Trung_Quốc/Np đã/R trở_thành/V trung_tâm/N của/E chuỗi/Nc cung_cấp/V các/L thiết_bị/N điện_tử/N toàn_cầu/N
+Các/L nhà_máy/N công_nghệ_cao/N bùng_nổ/V khi/N được/V chính_quyền/N Bắc_Kinh/Np hậu_thuẫn/V
+Sự/N thay_đổi/V này/P đã/R biến_đổi/V cuộc_sống/N của/E hàng/N triệu/M người_dân/N Trung_Quốc/Np
+Theo/E Giáo/N sư/N kinh_tế/N Shi_Pu/Np tại/E Hà_Nam/Np Chính_quyền/N Trung_Quốc/Np xem/V các/L nhà_máy/N i/V Phone/Np như_là/V một/M khoản/N đầu_tư/V đáng_giá/A
+Foxconn/Np đã/R đào_tạo/V hàng/R trăm_nghìn/N người_dân/N tỉnh/N Hà_Nam/Np
+Họ/P có_thể/R ứng_dụng/V các/L kỹ_năng/N này/P vào/E nhiều/A công_việc/N khác/A ông/N nhận_định/V
+Theo/E thống_kê/V của/E Chính_phủ/N Trung_Quốc/Np gần/A đây/P lượng/N hàng/N điện_tử/N xuất_khẩu/V từ/E tỉnh/N nghèo/A Hà_Nam/Np với/E thành_phố/N Trịnh_Châu/Np là/V trung_tâm/N đã/R tăng/V vọt/R  /EOS
+Cũng/R giống/A như/C các/L thị_trấn/N  /A tại/E Mỹ/Np cách/V đây/P một/M thế_kỷ/N thành_phố/N i/N Phone/Np đang/R chủ_yếu/A xoay/V quanh/N một/M sản_phẩm/N duy_nhất/A và/CC phát_triển/V dựa/V trên/E sự/Nc thành_công/V của/E sản_phẩm/N này/P
+Tuy_nhiên/C gần/A đây/P nhiều/A người/N lo_ngại/V rằng/C Foxconn/Np hay/C Apple/Np sẽ/R cần/V thành_phố/N i/N Phone/Np tại/E Trịnh_Châu/Np đến/E lúc_nào/N khi/N mà/C doanh_số/N chiếc/Nc điện_thoại/N thông_minh/A này/P lần/N đầu_tiên/A sụt_giảm/V sau/E 10/M năm/N ra_đời/V
+Còn/C hiện_tại/N iPhone/N vẫn/R là/V một/M lựa_chọn/V xa_xỉ/A với/E nhiều/A công_nhân/N Foxconn/Np dù/E chính/T họ/P góp_phần/V tạo/V nên/C chiếc/Nc điện_thoại/N thông_minh/A này/P
+Những/L người/Nc công_nhân/N thường/R chỉ/R sử_dụng/V những/L mẫu/N điện_thoại/N Trung_Quốc/Np rẻ_tiền/V hơn/R

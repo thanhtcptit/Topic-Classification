@@ -1,0 +1,15 @@
+Nhiều/A người/N dùng/V Mỹ/Np mua/V hàng/N trực_tuyến/A qua/V Amazon/Np
+Đây/P là/V số_liệu/N từ/E nghiên_cứu/N do/E công_ty/N thương_mại/N số/N Salmon/Np vừa/R công_bố/V
+Tương_lai/N cho/E các/L nhà_bán_lẻ/N trực_tuyến/A khá/R sáng_sủa/A khi/N có/V đến/V 73%/M trong/E số/N 600/M người/N được/V phỏng_vấn/V cho_biết/V họ/P sẽ/R tăng_cường/V việc/N sử_dụng/V các/L kênh/N mua_sắm/V trực_tuyến/A trong/E thời_gian/N tới/V
+Kết_quả/N khảo_sát/V cũng/R cho/V thấy/V người/N tiêu_dùng/V xếp_hạng/N Amazon/Np cao/A hơn/R các/L đối_thủ/N cạnh_tranh/V khác/A tại/E Mỹ/Np
+Cụ_thể/A 72%/M người/N được/V hỏi/V cho/V rằng/C Amazon/Np dẫn_đầu/V trong/E ngành/N bán_lẻ/V kỹ_thuật_số/N
+Còn/C 57%/M người/N tiêu_dùng/V châu/N Âu/Np đánh_giá/V đây/P là/V thương_hiệu/N thương_mại_điện_tử/X hàng_đầu/N
+Một/M trong/E những/L dịch_vụ/N góp_phần/V gia_tăng/V doanh_số/N và/CC sự/Nc phổ_biến/V của/E ông/N lớn/V thương_mại_điện_tử/N Mỹ/Np là/V nút/N mua/V hàng/N thông_minh/A Dash_Button/Np
+Với/E trang_bị/V kết_nối/V Wi-Fi/Np Dash_Button/Np có_thể/R dán/V lên/R bền/V mặt/N cửa/N tủ_lạnh/N máy_giặt/N hay/C bất_cứ/R nơi/N nào/P thích_hợp/A trong/E nhà/N
+Khi/N cần/V mua/V những/L sản_phẩm/N phục_vụ/V nhu_cầu/N thiết_yếu/V hàng/R ngày/N như/C thực_phẩm/N đồ/N uống/V bột_giặt/V giấy_vệ_sinh/N người/N dùng/V chỉ/R cần/V bấm/V nút/N và/CC Amazon/Np sẽ/R giao/V hàng/R tận/E nhà/N
+Khoảng/N 25%/M người/N tiêu_dùng/V nói/V rằng/C họ/P đang/R sử_dụng/V dịch_vụ/N đặt_hàng/V tự_động/A này/P 30%/M cho_biết/V sẽ/R làm/V như_vậy/X trong/E vòng/N hai/M năm/N tới/V hoặc/CC sớm/A hơn/R
+Dash_Button/Np khá/R thu_hút/V đối_tượng/N khách_hàng/N trẻ/A khi/N có/V đến/V 76%/M nhóm/N người/N từ/E 25-34/M tuổi/N thường_xuyên/A sử_dụng/V dịch_vụ/N hoặc/CC có/V ý_định/N dùng/V thử/V trong/E hai/M năm/N tới/V
+Hugh_Fletcher/Np Giám_đốc/N toàn_cầu/N về/V tư_vấn/V và/CC đổi_mới/V tại/E Salmon/Np nhìn_nhận/V kết_quả/N khảo_sát/V cho/E thấy/V các/L nhà_bán_lẻ/N cần/V có/V những/L chiến_lược/N khôn_ngoan/A để/E đối_phó/V với/E sự/Nc cạnh_tranh/V khốc_liệt/A từ/E Amazon/Np
+Họ/P cần/V tạo/V ra/R các/L dịch_vụ/N kỹ_thuật_số/N mạnh_mẽ/A nhanh_chóng/A và/CC đạt/V tiêu_chuẩn/N cao/A
+Amazon/Np dường_như/R luôn/R đi/V trước/A và/CC vượt/V xa/A các/L nhà_bán_lẻ/N khác/A liên_tục/A mở_rộng/V sang/R nhiều/A thị_trường/N chứng_tỏ/V tham_vọng/N hiện_diện/V tiên_phong/A trong/E mọi/L lĩnh_vực/N
+Nếu_không/N thay_đổi/V thật/R khó/A cho/E các/L nhà_bán_lẻ/N còn/V lại/R trụ/N vững/A và/CC phát_triển/V ông/Nc Hugh_Fletcher/Np nhấn_mạnh/V

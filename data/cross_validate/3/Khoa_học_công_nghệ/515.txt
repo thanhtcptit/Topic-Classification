@@ -1,0 +1,17 @@
+Vật_liệu/N giúp/V điện_thoại/N không/R cần/V sạc/V pin/N
+Theo/E  /N Phys/Np  /M nhóm/N nghiên_cứu/V thuộc/V đại_học/N Hiroshima_Nhật_Bản/Np đã/R tìm/V ra/R cách/N để/E tạo/V ra/R dòng_điện/N ở/E nhiệt_độ/N phòng/N mà/C không/R hao_phí/V năng_lượng/N hoặc/CC cần/V phải/V có/V nguồn/N điện/N ngoài/E  /N nhờ/V vật_liệu/N có/V tên/N chất/V cách_điện/N topo/V
+Các/L nghiên_cứu/N từ/E trước/N tới/E nay/N cho/V thấy/V dòng_điện/N có_thể/R được/V tạo/V ra/R nhờ/V tính_chất/N sắt/N từ/E hoặc/CC độ/N nhạy/A từ/E cao/A của/E vật_liệu/N mà/C không/R cần/V nguồn/N điện/N ngoài/E
+Hiện_tượng/N này/P lần/N đầu_tiên/A được/V phát_hiện/V vào/E những/L năm/N 1980/M được/V đặt/V tên/N là/V Hiệu_ứng/N Hall/Np lượng_tử/V theo/E tên/N nhà_vật_lý/N người/N Mỹ/Np phát_hiện/V ra/R hiệu_ứng/N Edwin_Hall/Np
+Tuy_nhiên/C để/E đạt/V được/R yêu_cầu/V tạo/V ra/R dòng_điện/N mà/C không/R mất_mát/V năng_lượng/N cho/E tới/E nay/N hệ_thống/N vẫn/R cần/V phải/V đặt/V trong/E một/M môi_trường/N rất/R lạnh/A với/E một/M từ_trường/N ngoài/N lớn/A
+Để/E giải_quyết/V vấn_đề/N này/P các/L nhà_khoa_học/N Nhật_Bản/Np đã/R sử_dụng/V vật_liệu/N cách_điện/V topo/N sắt/N từ/E có/V công_thức/N dạng/N Cr_Sb/Np //X Bi/Np 2Te3/Np Cr/Np Crom_Sb/Np Antimony_Te/Np Tellurium_Bi/Np Bismuth/Np
+Loại/N vật_liệu/N này/P có/V tính_chất/N kim_loại/N ở/E vỏ/N ngoài/N và/CC cách_điện/N ở/E lớp/N trong/E
+Một/M màng/N mỏng/A nhỏ/A chế_tạo/V từ/E vật_liệu/N này/P sẽ/R phát/V ra/R một/M dòng_điện/N trên/E bề_mặt/N hoặc/CC dọc/A theo/E các/L cạnh/N mà/C không/R cần/V nguồn/N điện/N ngoài/E
+Năm/N 2007/M khi/N lần/N đầu/N quan_sát/V thấy/V hiện_tượng/N này/P xảy_ra/V ở/E nhiệt_độ/N thấp/A mà/C không/R mất_mát/V năng_lượng/N các/L nhà_khoa_học/N đã/R rất/R ngạc_nhiên/V
+Họ/P không/R lý_giải/V được/R tại_sao/X nó/P lại/R trở_thành/V vật_liệu/N sắt/N từ/E để/E từ/E đó/P tự_phát/V ra/R dòng_điện/N
+Đây/P là/V lý_do/N vì_sao/X chúng_tôi/P chọn/V vật_liệu/N này/P làm/V đối_tượng/N nghiên_cứu/V Giáo_sư/N Akio_Kimura_Đại/Np học/V Hiroshima/Np thành_viên/N của/E nhóm/N nghiên_cứu/V cho_biết/V
+Trong/E hợp_chất/N Cr_Sb/Np //X Bi/Np 2Te3/M Cr/Np có/V tính/N sắt/N từ/E hoạt_động/N như/C một/M nam_châm/N siêu/Z nhỏ/A kích_thước/N nguyên_tử/V
+Thông_thường/A các/L nguyên_tử/N này/P sẽ/R tương_tác/V để/E định_hướng/V sắp_xếp/V theo/E chiều/N Bắc/Np –/M Nam/Np nhưng/C do/E cấu_tạo/N phân_tử/V Cr_Sb/Np //X Bi/Np 2Te3/M các/L nguyên_tử/N Cr/Np ở/E quá/R xa/A nhau/N để/E thực_hiện/V điều/N này/P
+Tuy_nhiên/C các/L nhà_nghiên_cứu/N phát_hiện/V ra/V rằng/C các/L nguyên_tử/N phi/N từ_tính/A như/C Sb/Np hay/C Te/Np sẽ/R đóng/V vai_trò/N cầu_nối/N để/E tương_tác/V này/P xảy_ra/V làm/V cho/E toàn_bộ/L vật_liệu/N có/V tính/N sắt/N từ/E
+Phát_hiện/V này/P rất/R quan_trọng/A trong/E việc/N phát_triển/V các/L thiết_bị/N điện_tử/N tiêu_thụ/V ít/A năng_lượng/N
+Hiện/N các/L kết_quả/N mới/R chỉ/R đạt/V được/R ở/E nhiệt_độ/N rất/R thấp/A nhóm/N nghiên_cứu/V đang/R tìm/V cách/N để/E tăng/V nhiệt_độ/N chuyển/V pha/V từ_tính/A này/P
+Chúng_tôi/P hy_vọng/V rằng/C thành_tựu/N này/P sẽ/R làm/V tiền_đề/N cho/E việc/N tạo/V ra/R các/L vật_liệu/N mới/R hoạt_động/V ở/E nhiệt_độ/N phòng/N trong/E tương_lai/N Kimura/Np nói/V  /A Nghiên_cứu/N đã/R được/V công_bố/V trên/E tạp_chí/N Nature_Communication/Np hôm/N 19/11/2015/M

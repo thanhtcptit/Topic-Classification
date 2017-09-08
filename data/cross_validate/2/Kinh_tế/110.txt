@@ -1,0 +1,6 @@
+Dừng/V cấp/V phép/N thí_điểm/N mới/A Grab/Np Uber/Np
+Bộ/N GTVT/Np cho/V biết/V đã/R có/V văn_bản/N đề_nghị/V tạm/A dừng/V cấp/V phép/N mới/A với/E đề_án/N thí_điểm/N triển_khai/V taxi/N công_nghệ/N kiểu/N Grab/Np Uber/Np
+do/C phát_triển/V quá/R nóng/A gây/V kẹt/V xe/N
+Trước/E đó/P sở/N Giao_thông/N Vận_tải/V Hà_Nội/Np và/CC TPHCM/Np đã/R kiến_nghị/V Bộ/N kết_thúc/V thí_điểm/N đề_án/A trên/N vì/N tình_trạng/N số_lượng/N taxi/N công_nghệ/N tiếp_tục/V gia_tăng/V tạo/V áp_lực/N lên/N hạ_tầng/N giao_thông/N gây/V ra/R tình_trạng/N thiếu/A công_bằng/A với/E taxi/N truyền_thống/N
+Theo/E Bộ/N Giao_thông/N Vận_tải/V đến/N nay/P đã/R có/V 7/M đơn_vị/N tham_gia/V đề_án/N thí_điểm/N gồm/V GrabTaxi/N với/E ứng_dụng/N Grabcar/Np Công_ty/N cổ_phần/N vận_tải/V 57/M Hà_Nội/Np với/E ứng_dụng/N Thanhcong_Car/Np Mai_Linh/Np với/E ứng_dụng/N Mailinh_Car/Np Công_ty/N hợp_tác/V đầu_tư/V và/N phát_triển/V với/E ứng_dụng/N Home_Car/Np Uber_Việt_Nam/Np với/E ứng_dụng/N Uber/Np Linh_Trang/Np với/E ứng_dụng/N LBCar/N và/CC Công_ty/N Ngôi_Sao/Np với/E ứng_dụng/N VicCar/N
+Tính/V đến/E tháng/N 42017/M thống_kê/N sơ_bộ/N của/E Sở/N Giao_thông/N Vận_tải/V Hà_Nội/Np cho/V thấy/V có/V khoảng/N 7000/M taxi/N công_nghệ/N TPHCM/Np hơn/R gấp/A ba/M với/E khoảng/N 22000/M xe/N

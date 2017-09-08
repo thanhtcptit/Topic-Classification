@@ -1,0 +1,14 @@
+iOS/N 10/M sẽ/R đến/V tay/N người/N dùng/V Việt/Np vào/E rạng/N sáng/N ngày/N 14/9/M 
+Phone_Arena/Np đưa/V tin/N Apple/Np sẽ/R chính_thức/A phát_hành/V i/N OS/Np 10/M dành/V cho/E người/N tiêu_dùng/V kể/V từ/E 10/M giờ/Nu sáng/N theo/E giờ/N Thái_Bình_Dương/Np phần_lớn/N người/N dùng/V ở/E Mỹ/Np sẽ/R nhận/V được/R bản/N cập_nhật/V này/P từ/E trưa/N hoặc/CC chậm/A nhất_là/X sau/E đó/P vài/L giờ/N 
+Trong/E khi/N đó/P người/N dùng/V ở/E châu/N Âu/Np sẽ/R nhận/V bản/N cập_nhật/V vào/E buổi/N tối/N và/CC ở/E châu/N Á/Np sẽ/R là/V buổi/N sáng_sớm/V ngày/N hôm_sau/A tức/C ngày/N 14/9/M 
+Đáng/V chú_ý/V iPhone/N 4S/M trở_về/V trước/E đều/R không/R được/V nâng_cấp/V lên/R phiên_bản/N i/N OS/Np 10/M 
+Chỉ/R có/V i/N Phone/Np 5/M trở_lên/A mới/R hội_tụ/V đủ/A điều_kiện/N sử_dụng/V phiên_bản/N i/N OS/Np mới/R của/E Apple/Np 
+Riêng/T với/E i/N Pad/Np các/L mẫu/N i/N Pad/Np mini/V iPad/N 2/M iPad/N thế_hệ/N thứ/N 3/M đều/R có/V chung/A số_phận/N với/E i/N Phone/Np 4S/M 
+Những/L mẫu/N máy/N i/V Pad/Np mini/V 2/M và/CC i/N Pad/Np 4/M trở_lên/A mới/R được/V nâng_cấp/V lên/R i/N OS/Np 10/M 
+Đồng_thời/R mẫu/N i/N Pod_Touch/Np thế_hệ/N thứ/N 5/M cũng/R không/R đủ/A điều_kiện/N để/E nâng_cấp/V lên/R phiên_bản/N mới/R 
+Đối_với/E những/L người/N dùng/V đang/R đăng_kí/V sử_dụng/V thử/V i/N OS/Np 10/M beta/N trong/E chương_trình/N thử_nghiệm/V của/E hãng/N đều/R có_thể/R nâng_cấp/V lên/R phiên_bản/N chính_thức/A một_cách/N dễ_dàng/A thông_qua/V OTA/Np 
+Phone_Arena/Np cũng/R cho_biết/V một_số/L tính_năng/N độc_đáo/A trên/E i/N OS/Np 10/M sẽ/R không_thể/R hoạt_động/V được/R trên/E thiết_bị/N cũ/A chẳng_hạn/X như/C tính_năng/V màn_hình/N khóa/N Raise/Np to/A wake/V đưa/V máy/N lên/V tầm_mắt/N màn_hình/N sẽ/R tự/P mở/V sẽ/R chỉ/V hoạt_động/V từ/E i/N Phone/Np SE/Np và/CC 6S/Np trở_lên/A trong/E khi/N các/L phiên_bản/N i/N Phone/Np 6/M và/CC 6/M Plus/Np trở_lại/V đều/R không/R dùng/V được/R 
+Ngoài_ra/C việc/N i/V OS/Np 10/M không/R được/V cập_nhật/V đối_với/E các/L dòng/N máy/N cũ/A là/V 4s/M iPad/N Mini/Np thì/C người/N dùng/V cần/V lưu_ý/V nên/C hạn_chế/V mua/V lại/R những/L sản_phẩm/N này/P 
+Lý_do/N bởi/E khi_không/N được/V nâng_cấp/V lên/R một/M phiên_bản/N mới/A sẽ/R khiến/V cho/E thiết_bị/N dễ/A dính/V đến/E các/L lỗi/N bảo_mật/V và/CC không_thể/R tự/P vá/V được/R 
+Đồng_thời/R các/L ứng_dụng/N của/E bên/N thứ/N 3/M sẽ/R từ_từ/A dừng/V hỗ_trợ/V bởi/E không/R tương_thích/A khiến/V người/N dùng/V không_thể/R sử_dụng/V những/L tính_năng/N mới/A và/CC thậm_chí/R có_thể/A không/R sử_dụng/V được/R ứng_dụng/V 
+Phan_Tuấn/Np 

@@ -1,0 +1,8 @@
+VIB/Np cấp/V tín_dụng/N 515/M tỷ/N đồng/N cho/V EVN_NPC/Np
+Tổng_Công/Np ty/V Điện_lực/N Miền_Bắc/Np /M EVN_NPC/Np /M vừa/R ký_kết/V hợp_đồng/N tín_dụng/N khoản/N vay/V hợp/V vốn/N trị_giá/V 515/M tỷ/N đồng/N vào/E ngày/N 5/7/M tại/E Hà_Nội/Np
+Ngân_hàng/N TMCP/Np Quốc_tế/N Việt_Nam/Np VIB/Np là/V đầu_mối/N thu_xếp/V vốn/N cho/E khoản/N tín_dụng/N này/P với/E sự/Nc tham_gia/V đồng/N tài_trợ/V của/E Ngân_hàng/N Taipei_Fubon/Np chi_nhánh/N Hà_Nội/Np Ngân_hàng/N Taipei_Fubon/Np chi_nhánh/N TP_HCM/Np và/CC Ngân_hàng/N First_Commercial_Bank/Np chi_nhánh/N TP_HCM/Np
+Tổng_công_ty/N Điện_lực/N Miền_Bắc/Np là/V một/M trong/E 5/M tổng_công_ty/N phân_phối/V điện/N của/E Tập_đoàn/N Điện_lực/N Việt_Nam/Np với/E địa_bàn/N quản_lý/V là/V 27/M tỉnh/N thành_phố/N miền/N Bắc/Np và/CC Bắc_Trung_Bộ/Np /V trừ/V Hà_Nội/N /A
+EVN_NPC/Np đặt/V mục_tiêu/N tiếp_tục/V phát_triển/V lưới_điện/N đáp_ứng/V tốc_độ/N tăng_trưởng/V hàng/N năm/N đạt/V từ/E 13-15/M %/N trong/E giai_đoạn/N đến/V 2020/M
+Việc/N ký_kết/V thành_công/V khoản/N vay/V hợp/V vốn/N 515/M tỷ/N đồng/N trong/E 7/M năm/N giúp/V EVN_NPC/Np triển_khai/V các/L hoạt_động/N đầu_tư/V nâng_cấp/V và/CC mở_rộng/V lưới_điện/N phân_phối/V trong/E thời_gian/N tới/V
+Taipei_Fubon/Np và/CC First_Commercial_Bank/Np là/V hai/M ngân_hàng/N hàng_đầu/N của/E Đài_Loan/Np cam_kết/V hỗ_trợ/V tài_chính/N cho/E các/L công_ty/N tập_đoàn/N cũng_như/C sự/N phát_triển/V nền/N kinh_tế/N Việt_Nam/Np
+Đây/P cũng/R là/V một/M trong/E những/L khoản/N vay/V hợp/V vốn/N đầu_tiên/A được/V thu_xếp/V bởi/E ngân_hàng/N trong/E nước/N với/E sự/Nc tham_gia/V đồng/N tài_trợ/V hoàn_toàn/A từ/E các/L chi_nhánh/N ngân_hàng/N nước_ngoài/N tại/E Việt_Nam/Np

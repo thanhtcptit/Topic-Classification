@@ -1,0 +1,11 @@
+Hoàn_thành/V tuyến/N cáp_quang/N nhanh_nhất/A thế_giới/N
+Đây/P là/V tuyến/N cáp/N ngầm/A đầu_tiên/A được/V lắp_đặt/V ở/E hành_lang/N biển/N nối/V giữa/E London/Np và/CC New_York/Np sau/A hơn/R một/M thập_kỷ/N
+Khi/N đưa/V vào/R sử_dụng/V các/L giao_dịch/N của/E thị_trường/N tài_chính/N giữa/E hai/M thành_phố/N sẽ/R được/V thực_hiện/V ở/E tốc_độ/N cao/A nhất/A từ/E trước/N tới/E nay/N IBTimes/Np đưa/V tin/N
+Hibernia_Networks/Np chủ/N đầu_tư/V dự_án/N lắp_đặt/V cáp_quang/N trị_giá/V 300/M triệu/M USD/Nu tuyên_bố/V việc/N lắp_đặt/V tuyến/N cáp/N đã/R hoàn_thành/V vào/E ngày/N 15/9/M
+Bjarni_Thorvardarson/Np giám_đốc/N điều_hành/V của/E Hibernia_Networks/Np cho_biết/V hệ_thống/N cáp/N dài/A hơn/A 4/M 500/M km/Nu này/P sẽ/R truyền_tải/V thông_tin/N giữa/E hai/M bên/N bờ/N đại_dương/N với/E thời_gian/N dưới/E 59/M 9/M phần/N nghìn/M giây/Nu nhanh/A hơn/R cáp_quang/N tốc_độ/N cao/A nhất/A hiện_nay/N 5/M phần/N nghìn/N giây/N
+Tuyến/N cáp_quang/V AC/Np 1/M nối/V giữa/E Mỹ/Np và/CC ba/M nước/N châu/N Âu_là/N Anh/N Hà_Lan_Đức/Np với/E thời_gian/N truyền_tải/A 64/M 8/M phần/N nghìn/N giây/N là/V hệ_thống/N cáp/N có/V tốc_độ/N nhanh_nhất/A đang/R được/V sử_dụng/V
+Một/M phần/N của/E hệ_thống/N cáp/N mới/R sẽ/R rẽ/V nhánh/N sang/V Cork_Ireland/Np nơi/N các/L công_ty/N công_nghệ/N lớn/A như/C Apple_Microsoft_Google/Np đặt/V các/L trung_tâm/N dữ_liệu/N trong/E vài/L năm/N gần/A đây/P
+Thorvardarson/Np hy_vọng/V hệ_thống/N cáp/V mới/R với/E tốc_độ/N cao/A sẽ/R giúp/V Cork/Np và/CC các/L vùng/N lân_cận/A trở_thành/V địa_điểm/N lý_tưởng/N cho/E các/L công_ty/N đặt/V các/L trung_tâm/N dữ_liệu/N hoặc/CC trụ_sở/N mới/R
+Cáp/V được/R cấu_tạo/N bởi/E 6/M cặp/N sợi/N quang/N trong/E đó/P một/M cặp/N phụ_trách/V việc/N truyền_tải/V thông_tin/N ở/E tốc_độ/N cao/A nhất/R có_thể/A 4/M cặp/N chịu/V trách_nhiệm/N truyền_tải/V các/L dữ_liệu/N lớn/A
+Theo/E Thorvardarson/Np thậm_chí/R các/L kỹ_sư/N của/E dự_án/N còn/R tối_ưu_hóa/V tốc_độ/N từng/R phần/N nghìn/M giây/Nu bằng/E cách/N đặt/V cáp/N chính_xác/A uốn/V theo/E độ/N cong/A của/E Trái_Đất/Np là/V đường/N ngắn/A nhất/A nối/V giữa/E hai/M điểm/N đầu_cuối/V trên/E đất_liền/N là/V London/Np và/CC Halifax_Nova_Scotia/Np
+Dữ_liệu/N tới/V Halifax/Np sau/E đó/P sẽ/R được/V truyền/V tới/E New_York/Np bằng/E cáp/N đặt/V trên/E đất_liền/N

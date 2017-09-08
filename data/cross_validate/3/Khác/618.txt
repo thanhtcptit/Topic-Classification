@@ -1,0 +1,24 @@
+Chu_trình/N 30/M phút/Nu mỗi/M ngày/N giúp/V bé/N ngủ/V tốt/A hơn/R
+Khảo_sát/V mới_đây/X được/V Hiệp_hội/N Giấc_ngủ/N Trẻ_em/N châu/N Á/Np Thái_Bình_Dương/Np /V APPSA/Np /V thực_hiện/V trên/E 29 0/M trẻ/N 0-36/M tháng/N tuổi/N tại/E 17/M quốc_gia/N bao_gồm/V Việt_Nam/Np
+Kết_quả/N cho_biết/V nhóm/N trẻ/N châu/N Á/Np đi/V ngủ/V trễ/A hơn/A và/CC thời_gian/N ngủ/V đêm/N trung_bình/A cũng/R ít/A hơn/R nhóm/N trẻ/N châu/N Âu/Np
+Giấc_ngủ/N có/V vai_trò/N quan_trọng/A đối_với/E sự/N phát_triển/V thể_chất/N nhận_thức/V và/CC kỹ_năng/N xã_hội/N của/E trẻ/N đặc_biệt/A trong/E những/L năm/N đầu/N đời/N
+Giấc_ngủ/N ngon/A và/CC sâu/A tác_động/V tích_cực/A tới/E não/N bộ/N khả_năng/N học_tập/V của/E trẻ/N giúp/V bé/N lưu_giữ/V trí_nhớ/N đã/R có/V và/CC tạo/V ký_ức/N mới/R đồng_thời/R tăng_cường/V tiếp_thu/V ngôn_ngữ/N
+Tuy_nhiên/C ở/E Việt_Nam/Np nhiều/A bà_mẹ/N than_thở/V trẻ/N ngủ/V không/R ngon/A hoặc/CC khó/A đi/V vào/E giấc_ngủ/N thậm_chí/R quấy/V khóc/V mỗi/M khi/N trở/V dậy/V giữa/E đêm/N
+Sau/N khảo_sát/V APPSA/Np phối_hợp/V với/E Johnson/Np &/CC Johnson/Np đã/R nghiên_cứu/V và/CC phát_triển/V chu_trình/N Johnson/Np ’/M s/N 3/M bước/N giúp/V trẻ/A dễ/A vào/E giấc_ngủ/N và/CC ngủ/V ngon/A suốt/A đêm/N
+Đó/P là/V tắm/V sạch/A với/E nước/N ấm/A mát-xa/N thư_giãn/V tạo/V thời_gian/N yên_tĩnh/A cho/E trẻ/N dễ/A đi/V vào/E giấc_ngủ/N bằng/E các/L hoạt_động/N vỗ_về/V hát_ru/V hay/C đọc/V truyện/N
+Thời_gian/N thực_hiện/V 3/M bước/N là/V 30/M phút/Nu trước/E khi/N ngủ/V mỗi/M bước/N 10/M phút/Nu
+Chu_trình/N lặp/V lại/R hàng/R ngày/N sẽ/R giúp/V hình_thành/V thói_quen/N ngủ/V lành_mạnh/A
+Theo/E Tiến/V sĩ/N bác_sĩ/N chuyên_khoa/N II/M Huỳnh_Thị_Duy_Hương/Np Phó_chủ_tịch/N Hội_Chu/Np sinh/V và/CC Sơ_sinh/A TP_HCM/Np các/L nước/N phát_triển/V đã/R tiếp_cận/V khoa_học/N giấc_ngủ/N từ/E lâu/A
+Họ/P có/V nhiều/A nghiên_cứu/N bằng_chứng/N cũng_như/C phương_pháp/N điều_chỉnh/V can_thiệp/V và/CC chăm_sóc/V giấc_ngủ/N tốt/A hơn/R cho/E trẻ_em/N
+Tuy_nhiên/C ở/E Việt_Nam/Np khoa_học/N giấc_ngủ/N vẫn/R là/V lĩnh_vực/N mới/R nghiên_cứu/V còn/R ít_ỏi/A chưa/R có/V khuyến_nghị/N rõ_ràng/A trong/E cách/N chăm_sóc/V giấc_ngủ/N cho/E trẻ/N
+3/M bước/N này/P được/V Hội_Nhi/Np khoa/N Việt_Nam/Np đưa/V vào/E bộ/N khuyến_nghị/N “/M Chu_trình/N giúp/V trẻ/N ngủ/V ngon/A ”/M nhằm/V phổ_biến/V rộng_rãi/A cho/E nhân_viên/N y_tế/N và/CC các/L bà_mẹ/N trên/E cả/P nước/N vào/E năm/N 2017/M
+Để/E việc/N áp_dụng/V hiệu_quả/N Tiến_sĩ/N Duy_Hương/Np khuyên/V cha_mẹ/N cần/V tuân_thủ/V về/E thời_gian/N cũng_như/C 3/M bước/N thực_hiện/V để/E trẻ/A dần/R hình_thành/V phản_xạ_có_điều_kiện/N
+Nên/C áp_dụng/V từ/E sớm/A khi/N trẻ/N mới/R 1,5/M 2/M tháng/N tuổi/N để/E đạt/V hiệu_quả/N cao/A hơn/A
+Bộ/N khuyến_nghị/N cũng/R khuyên/V cha_mẹ/N nên/V cho/E trẻ/N đi/V ngủ/V trước/A 21h/M
+Kết_quả/N khảo_sát/V Giấc_ngủ/N toàn_cầu/N cho/V thấy/V trẻ/N đi/V ngủ/V trước/E 21h/M sẽ/R có/V giấc_ngủ/N dài/A hơn/R một/M tiếng/N so/V với/E trẻ/N ngủ/V sau/A 21h/M
+Ngoài_ra/C cha_mẹ/N không/R nên/V vỗ_về/V ẵm/V bế/V đu_đưa/V hay/C cho/E trẻ/N ngậm/V ti/N để/E ngủ/V mà/C nên/C để/E trẻ/N học/V cách/N tự/P đi/V vào/E giấc_ngủ/N
+Như_thế/X trẻ/N sẽ/R ít/A thức_giấc/V giữa/E đêm/N nếu/C có/V dậy/V cũng/R tự/P trở_lại/V giấc_ngủ/N nhanh/A hơn/R
+Bản_thân/N người/N chăm_sóc/V sẽ/R bớt/V mệt_mỏi/A
+Ông/Nc Robert_Kwon/Np Giám_đốc/N khoa_học/N Johnson/Np ’/M s/N Baby/Np khu_vực/N châu/N Á/Np Thái_Bình_Dương/Np cho_biết/V chu_trình/N này/P được/V nghiên_cứu/V trên/E 405/M bà_mẹ/N và/CC trẻ/N 7-36/M tháng/N tuổi/N  /M Kết_quả/N nghiên_cứu/V lâm_sàng/N cho/E thấy/V sau/E một/M tuần/N áp_dụng/V chu_trình/A 3/M bước/N trẻ/A đi/V vào/E giấc_ngủ/N nhanh/A hơn/R 37%/M số/N lần/N thức_giấc/V giữa/E đêm/N giảm/V 38%/M thời_gian/N thức_giấc/V ít/A hơn/R 32%/M
+Sau/E 3/M tuần/N áp_dụng/V số/N bà_mẹ/N ghi_nhận/V con/N ngủ/V ngon/A hơn/R tăng/V gấp/V đôi/M
+Nhờ/E đó/P mẹ/N giảm/V căng_thẳng/A mệt_mỏi/A 45%/M bớt/V cáu_gắt/V 54%/M giàu/A năng_lượng/N hơn/A 22%/M và/CC tự_tin/V về/E khả_năng/N quản_lý/V giấc_ngủ/N của/E con/N

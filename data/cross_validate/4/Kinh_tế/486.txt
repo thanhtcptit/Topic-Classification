@@ -1,0 +1,17 @@
+Điểm_danh/N hàng_loạt/N khoản/N thuế/N lệ_phí/N phải/V nộp/V khi/N bán/V hàng/N qua/V Facebook/Np 
+Cục/N thuế/N TPHCM/Np vừa/R có/V thông_báo/N về/E việc/N đăng_ký/V khai/V nộp/V thuế/N đối_với/E hoạt_động/V kinh_doanh/V dưới/E hình_thức/N thương_mại_điện_tử/X TMĐT/Np trên/E địa_bàn/N 
+Thông_báo/V này/P nêu/V rõ/A đối_tượng/N đăng_ký/V khai/V nộp/V thuế/N bao_gồm/V tất_cả/P những/L cá_nhân/N kinh_doanh/V có/V doanh_thu/N bán/V hàng_hóa/N dịch_vụ/N từ/E tất_cả/P các/L hình_thức/N kinh_doanh/V bao_gồm/V cả/P hình_thức/N kinh_doanh/V qua/V mạng/N internet/V mạng/N xã_hội/N …/A có/V doanh_thu/N trên/A 100/M triệu/M đồng/Nu //X năm/N 
+Các/L loại/N thuế/N lệ_phí/N phải/V nộp/V bao_gồm/V lệ_phí/N môn_bài/N thuế_giá_trị_gia_tăng/N thuế_thu_nhập/V cá_nhân/N và/CC thuế/N tiêu_thụ/V đặc_biệt/A thuế/N bảo_vệ/V môi_trường/N nếu/C có/V 
+Trong/E đó/P mức/N thu/V lệ_phí/N môn_bài/N với/E đơn_vị/N //X cá_nhân/N doanh_thu/N trên/A 500/M triệu/M đồng/Nu //X năm/N là/V 1/M triệu/M đồng/Nu //X năm/N có/V doanh_thu/N 300/M 500/M triệu/M đồng/Nu thì_phải/N nộp/V 500.000/M đồng/năm/N và/CC mức/N lệ_phí/N 300.000/M đồng/năm/N dành/V cho/E cá_nhân/N đơn_vị/N có/V doanh_thu/N trên/A 100/M triệu/N đến/V 300/M triệu/M đồng/Nu 
+Cá_nhân/N kinh_doanh/V hoặc/CC mới/R thành_lập/V được/V cấp/N đăng_ký/V thuế/N và/CC mã_số/V thuế/N trong/E thời_gian/N của/E 6/M tháng/N đầu/N năm/N thì/C nộp/V mức/N lệ_phí/N môn_bài/N cả/P năm/N nếu/C thành_lập/V được/V cấp/N đăng_ký/V thuế/N và/CC mã_số/V thuế/N mã_số/V doanh_nghiệp/N trong/E thời_gian/N 6/M tháng/N cuối/N năm/N thì/C nộp/V 50%/M mức/N lệ_phí/N môn_bài/N cả/P năm/N 
+Bên_cạnh/N đó/P các/L đơn_vị/N cá_nhân/N này/P còn/R phải/V nộp/V thuế_giá_trị_gia_tăng/N và/CC thuế_thu_nhập/V cá_nhân/N 
+Cụ_thể/A với/E hoạt_động/N phân_phối/V cung_cấp/V hàng_hóa/N thì/C tỷ_lệ/N %/V thuế/N GTGT/Np là/V 1%/M và/CC tỷ_lệ/V %/N thuế_thu_nhập/V cá_nhân/N là/V 0,5%/M doanh_thu/N 
+Với/E hoạt_động/N dịch_vụ/N thì/C nộp/V thuế/N GTGT/Np tỷ_lệ/V 5%/M và/CC thuế/N TNCN/Np tỷ_lệ/V 2%/M doanh_thu/N 
+Hoạt_động/V vận_tải/V dịch_vụ/N có/V gắn/V với/E hàng_hóa/N nộp/V thuế/N GTGT/Np tỷ_lệ/V 3%/M và/CC thuế/N TNCN/Np tỷ_lệ/V 1,5%/M doanh_thu/N 
+Các/L hoạt_động/N kinh_doanh/V khác/A có/V thuế/N GTGT/Np là/V 2%/M và/CC thuế/N TNCN/Np là/V 1%/M 
+Trước/E đó/P trao_đổi/V với/E báo_chí/N đại_diện/N Cục/N thuế/N TPHCM/Np cho_biết/V cơ_quan/N này/P xác_định/V có/V khoảng/N 13.500/M người/N bán/V hàng/N trên/E Facebook/Np đã/R được/V mời/V lên/R làm_việc/V 
+Tuy_nhiên/C số_lượng/N người/N đến/E cơ_quan/N thuế/N chỉ/R đạt/V khoảng/N 1.000/M người/N 
+Qua/E gần/A 2/M tháng/N triển_khai/V báo_cáo/V từ/E chi_cục/N thuế/N các/L quận/N huyện/N thì/C bên_cạnh/N nhiều/A cá_nhân/N tổ_chức/N hợp_tác/V kê_khai/V thuế/N cũng/R có/V nhiều/A người/N cố_tình/V né/V vì/E cho/V rằng/C việc/N kinh_doanh/V trên/E Facebook/Np chỉ/R là/V nghề/N tay_trái/N thu_nhập/N thấp/A 
+Ví_dụ/V như/C cục/N thuế/N Bình_Thạnh/Np mời/V 172/M chủ/N trang_web/N //X Facebook/Np lên/R hướng_dẫn/V kê_khai/V thuế/N thì_có/X 98/M chủ/N trang/N hợp_tác/V 
+Trong/E số/N 677/M Facebook/Np đứng_tên/V cá_nhân/N hoạt_động/V kinh_doanh/V được/R mời/V có/V đến/V hơn/R 500/M chủ/N trang/N Facebook/Np không/R xuất_đầu_lộ_diện/X 
+Bích_Diệp/Np 

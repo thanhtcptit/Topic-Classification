@@ -1,0 +1,15 @@
+Thai_phụ/N viêm/N ruột_thừa/N tưởng/V bị/V động_thai/V
+Thai_phụ/N làm/V công_nhân/N tại/E Bình_Phước/Np đau/V bụng/N đi/V khám/V ở/E gần/A nhà/N được/V bác_sĩ/N cho/V là/V dấu_hiệu/N bình_thường/A của/E thai/N kỳ/N
+Hôm_sau/N chị/N đau/V bụng/N dữ/A hội/N hơn/A nhập_viện/V với/E chẩn_đoán/V động_thai/N  /N dấu_hiệu/N dọa/V sinh/V non/N
+Các/L cơn/N đau/V vẫn/R không/R giảm/V nên/C thai_phụ/V xin/V chuyển/V đến/E Bệnh_viện/N Từ_Dũ/Np TP_HCM/Np
+Các/L bác_sĩ/N Bệnh_viện/N Từ_Dũ/Np chẩn_đoán/V bệnh_nhân/N bị/V viêm/V ruột_thừa/N nên/C chuyển/V sang/V Bệnh_viện/N Bình_Dân/Np  /V trong/E tình_trạng/N đau_đớn/A dữ_dội/A sốt/V ấn/V đau/V 1/4/M dưới/N hố_chậu/N phải/V
+Tại/E đây/P bác_sĩ/N xác_định/V thai_phụ/N bị/V  /V viêm/N phúc_mạc/A toàn_thể/L do/E viêm/N ruột_thừa/N  /N phải/V phẫu_thuật/V nội_soi/N cấp_cứu/V
+Thám_sát/V ổ_bụng/N có/V dịch/N đục/A lẫn/C giả/A nạc/N  /N ruột_thừa/V viêm/N dính/V vào/E tử_cung/N hoại_tử/N  /EOS
+Kíp/N mổ/V đã/R  /V bóc/V tách/V cắt/V đốt/V mạc/N treo/V ruột_thừa/A rửa/V sạch/A ổ_bụng/N bệnh_nhân/N
+Ca/N phẫu_thuật/V 2/M giờ/Nu dài/A hơn/R so/V với/E các/L ca/N mổ/V ruột_thừa/N bình_thường/A  /M Sau/N
+mổ/V bệnh_nhân/N phải/V dùng/V kháng_sinh/N  /V thuốc/N giảm/V co/V để/E giữ/V thai/N
+3/M tuần/N sau/N phẫu_thuật/V sản_phụ/N sinh/V con/N khỏe_mạnh/A  /EOS
+Viêm/N ruột_thừa/V ở/E thai_phụ/N thường/R diễn_tiến/V nhanh/A dễ/A viêm/V phúc_mạc/N  /N gây/V sảy/V thai/N hay/C đẻ_non/V  /V thậm_chí/R tử_vong/N  /M Bệnh_nhân/N cho_biết/V đây/P là/V lần/N đầu/N mang/V thai/N chưa/R có/V kinh_nghiệm/N nên/C không/R biết/V những/L cơn/Nc gò/N đau/V bụng/N ở/E tuần/N thai/N thứ/N 31/M là/V có/V bất_thường/A  /EOS
+Đau/V ruột_thừa/N ở/E thai_phụ/N thường/R khó/A nhận_biết/V và/CC dễ/A bị/V chẩn_đoán/V nhầm/V với/E các/L vấn_đề/N thai/N kỳ/N  /N dẫn/V tới/E điều_trị/V chậm_trễ/A
+Thai_phụ/N mang/V bầu/N trên/E 6/M tháng/N  /N tử_cung/N thường/R đẩy/V ruột_thừa/V lên/R cao/A và/CC ép/V ra/V ngoài/E thành/N bụng/N nên/C triệu_chứng/N có_thể/R phức_tạp/A và/CC khó/A chẩn_đoán/V hơn/R
+Thai_phụ/N cần/V  /V cảnh_giác/V khi/N đau/V hố_chậu/N phải/V đau/V bụng/N kéo_dài/V sốt/V nhẹ/A rối_loạn/V tiêu_hóa/V

@@ -1,0 +1,21 @@
+Người/Nc phụ_nữ/N bị/V cắt/V nhầm/V hai/M quả/N thận/N thắng/V kiện/V bệnh_viện/N
+TAND/Np quận/N Ninh_Kiều/Np TP/Np Cần_Thơ/Np chiều/N 29/6/M xét_xử/V sơ_thẩm/V  /N vụ_kiện/N đòi/V Bệnh_viện/N đa_khoa/N TP/Np Cần_Thơ/Np bồi_thường/V vì/E cắt/V nhầm/V hai/M quả/Nc thận/N của/E bệnh_nhân/N Hứa_Cẩm_Tú/Np /M 42/M tuổi/N /A ở/E huyện/N Thới_Lai/Np  /EOS
+Tòa/N chấp_nhận/V một/M phần/N yêu_cầu/V của/E bà/N Tú/Np buộc/V bệnh/N viên/N này/P bồi_thường/V 302/M triệu/M đồng/Nu cho/E các/L tổn_thất/N tinh_thần/N và/CC khoảng/N trợ_cấp/V mỗi/M tháng/N 5,8/M triệu/M đồng/Nu cho/E tới/E khi/N trách_nhiệm/N bồi_thường/V chấm_dứt/V /A bồi_thường/V suốt/A đời/N /A
+HĐXX/Np nhận_định/V ê/N kip/N mổ/V có/V sai_sót/N chuyên_môn/N khám/V chữa/V bệnh/N gây/V tai_biến/V cho/E người_bệnh/N nên/C phải/V có/V trách_nhiệm/N bồi_thường/V và/CC chịu/V trách_nhiệm/N pháp_lý/N khác/A /V nếu/C có/V /M
+Cụ_thể/A biên_bản/N họp/V hội_đồng/N chuyên_môn/N xác_định/V bác_sĩ/N chẩn_đoán/V hình_ảnh/N và/CC kỹ_thuật_viên/N chưa/R nhận_định/V được/R thận/N móng/N ngựa/N hiếm/A gặp/V không/R hội_chẩn/A chuyển/V từ/E mổ/V nội_soi/N sang/V mổ/V hở/T dẫn/V đến/E việc/N cắt/V hết/V hai/M quả/N thận/N của/E bà/Nc Tú/Np  /EOS
+Vì/E sức_khỏe/N yếu/A bà/Nc Tú/Np không/R đến/V tòa/N mà/C ủy_quyền/V cho/E chồng/N Nguyễn_Thiện_Trí/Np cùng/A luật_sư/N bảo_vệ/V quyền_lợi/N  /EOS
+Tại/E tòa/N ông/N Trí/Np cho_biết/V cuộc_sống/N gia_đình/N đang/R rất/R khó_khăn/A
+Sức_khỏe/N của/E vợ/N ông/N yếu/A hàng/N tháng/N phải/V đi/V tái/A khám/V hai/M lần/N
+Nhà/N có/V hai/M công/N đất/N đã/R cầm_cố/V
+Cuộc_sống/N gia_đình/N và/CC 3/M con/N ăn_học/V dựa/V vào/E việc_làm/N chậu/V kiểng/N bán/V của/E ông/N và/CC giúp_đỡ/V của/E mạnh_thường_quân/N
+Sau/N phẫu_thuật/V vợ/N tôi/P gần_như/R mất/V khả_năng/N lao_động/N
+Năm/N 2013/M bệnh_viện/N đột_ngột/A cắt/V khoảng/N hỗ_trợ/V 3/M triệu/M đồng/Nu mỗi/L tháng/N gia_đình/N quá/R túng_quẫn/A nên/C mới/R khởi_kiện/V ông/Nc Trí/Np nói/V và/CC cho_biết/V chấp_nhận/V bản_án/N của/E tòa/N
+Theo/E hồ_sơ/N ngày/N 1/12/2011/M bà/Nc Tú/Np được/V đưa/V đến/E bệnh_viện/N Đa_Khoa/Np TP/Np Cần_Thơ/Np để/E khám/V
+Kết_quả/N chụp/V CT/Np thận/N phải/V của/E bà/N tốt/A thận/N trái/A ứ/N nước/N độ/N III-IV/Np có/V sạn/N buộc/V phải/V mổ/V
+5/M ngày_sau/N bà/Nc Tú/Np được/V chỉ_định/V mổ/V nội_soi/N thận/N trái/A ứ/V nước/N
+Sau/E ca/N phẫu_thuật/V do/C bị/V biến_chứng/V phù_nề/A tình_trạng/N sức_khỏe/N xấu/A đi/V nên/C bà/N đi/V siêu_âm/V kiểm_tra/V mới/R biết/V bị/V bác_sĩ/N cắt/V bỏ/V 2/M quả/N thận/N
+Bà/N phản_ánh/V thì/C được/V bệnh_viện/N trả_lời/V là/V do/E  /N bất_khả_kháng/V và/CC hứa/V hoàn_trả/V viện_phí/N sẽ/R hỗ_trợ/V chạy/V thận/N miễn_phí/V suốt/A đời/N
+Tháng/N 7/2012/M bà/Nc Tú/Np được/V Bệnh_viện/N Đa_khoa/Np Trung_ương/N Huế/Np ghép/V thận/N thành_công/V
+Bệnh_viện/N Đa_khoa/Np TP/Np Cần_Thơ/Np đã/R hỗ_trợ/V gia_đình/N bà/N 6/M triệu/M đồng/Nu mỗi/M tháng/N sau/E đó/P giảm/V còn/R 3/M triệu/N và/CC từ/E tháng/N 5/2013/M đến/E nay/P thì/C ngưng/V hẳn/R
+Trong/E quá_trình/N giải_quyết/V vụ_việc/N phía/N bệnh_viện/N không/R thừa_nhận/V sai_sót/N chuyên_môn/N không/R đồng_ý/V bồi_thường/V nên/C giữa/N năm/N 2013/M bà/Nc Tú/Np khởi_kiện/V  /EOS
+Theo/E kết_quả/N giám_định/V của/E Viện_Pháp/Np y/Np quốc_gia/N ngày/N 22/6/2015/M bà/Nc Tú/Np bị/V suy_giảm/V sức_khỏe/N 81%/M

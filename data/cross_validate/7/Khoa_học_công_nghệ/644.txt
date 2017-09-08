@@ -1,0 +1,11 @@
+Xe/N bay/V cất/V hạ_cánh/V thẳng_đứng/A
+Theo/E thông_cáo/V báo_chí/N hôm/N 20/7/M của/E công_ty/N Terrafugia/Np TF_X/Np là/V một/M mẫu/N xe/N hybrid/N 4/M chỗ/N có_thể/R sạc/V pin/N từ/E động_cơ/N hoặc/CC các/L trạm/N sạc/V điện/N
+Chiếc/Nc xe/N có/V kích_thước/N nhỏ/A nằm/V vừa/R trong/E một/M gara/N bình_thường/A và/CC có_thể/A chạy/V trên/E mọi/L địa_hình/N đường/N
+Khi/N chuyển/V sang/V chế_độ/N bay/V phần/N cánh/N ở/E hai/M bên/N hông/N xe/N sẽ/R mở_rộng/V mô_tơ/V điện/N kép/V công_suất/N một/M megawatt/N ở/E đuôi/N xe/N sẽ/R hoạt_động/V và/CC nâng/V xe/N lên/V khỏi/V mặt_đất/N
+Hai/M cánh_quạt/N nhỏ/A theo/V kiểu/N máy_bay_trực_thăng/N sẽ/R cung_cấp/V lực/N đẩy/V nếu/C cần/V và/CC tự/P gập/V lại/R khi/N xe/N bay/V ở/E độ/N cao/A thông_thường/A
+Quá_trình/N bay/V sẽ/R do/E máy_tính/N vận_hành/V vì_vậy/C các/L lái_xe/N không/R cần/V lo_lắng/V về/E thao_tác/V định_vị/V một/M phương_tiện/N hàng_không/N
+Trước/E khi/N khởi_hành/V lái_xe/N chỉ/R cần/V chọn/V một/M nơi/N hạ_cánh/V chính_thức/A và/CC hai/M phương_án/N dự_phòng/V khác/A
+Nếu/C TF_X/Np phát_hiện/V không/R đủ/A nhiên_liệu/N để/E hạ_cánh/V tại/E một/M trong/E hai/M khu_vực/N dự_phòng/V khi/N khẩn_cấp/V và/CC tới/V điển/V đến/E cuối_cùng/A trong/E 30/M phút/Nu chiếc/Nc xe/N sẽ/R không/R cất_cánh/V
+TF_X/Np cũng/R không/R thực_hiện/V chuyến/N bay/V nếu/C dự_báo/V thời_tiết/N nguy_hiểm/A hoặc/CC nơi/N hạ_cánh/V nằm/V trong/E khu_vực/N không_lưu/N tạm_thời/A bị/V gián_đoạn/V
+Terrafugia/Np tuyên_bố/V điều_khiển/V TF_X/Np an_toàn/A hơn/R so/V với/E lái/N một/M chiếc/Nc ôtô/N hiện_đại/A  /V TF_X/Np sẽ/R tiếp_tục/V được/V phát_triển/V trong/E thời_gian/N từ/E 8/M đến/E 12/M năm/N nữa/R
+Terrafugia/Np  /V sẽ/R kiểm_tra/V mẫu/N xe/N thử_nghiệm/V tại/E đường_hầm/N gió/N Wright_Brothers/Np ở/E Học_viện/N công_nghệ/N Massachusett_Mỹ/Np để/E đo/V lực/N cản/V lực/N nâng/V và/CC lực/N đẩy/V trong/E khi/N bay/V

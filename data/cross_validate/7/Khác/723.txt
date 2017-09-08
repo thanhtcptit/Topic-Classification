@@ -1,0 +1,29 @@
+Apple/Np đang/R ngày_càng/X giống/A Microsoft/Np
+Với/E kho/N ứng_dụng/V App_Store/Np Apple/Np tuyên_bố/V là/V điểm/N đến/V thu_hút/V nhất/R cho/E các/L chuyên_gia/N phát_triển/V ứng_dụng/N toàn_cầu/N
+Nhưng/C với/E i/N Pad_Pro/Np 10,5/M inch/N và/CC i/N OS/Np 11/M Apple/Np đang/R xây_dựng/V những/L tính_năng/N khiến/V máy_tính/N bảng/N của/E họ/P hoạt_động/V giống/N Mac/Np và/CC Windows/Np hơn/R
+Trong/E khi/N đó/P Microsoft/Np đã/R dành/V nửa/L thập_kỷ/N để/E phát_triển/V máy_tính/N Surface/Np với/E màn_hình/N cảm_ứng/N để/E cạnh_tranh/V với/E máy/N Mac/Np nhưng/C giờ/N lại/R theo/V hướng/N giống/A với/E i/N Pad/Np  /EOS
+Apple/Np nhiều/A lần/N nói/V i/N Pad/Np là/V tương_lai/N của/E điện_toán/N
+Chiếc/Nc máy_tính/N bảng/N của/E họ/P mỏng/A và/CC nhẹ/A với/E màn_hình/N cảm_ứng/N độ_phân_giải/N cao/A
+Khi/N i/V Pad_Pro/Np ra_đời/V năm/N 2015/M Tim_Cook/Np CEO/Np Apple/Np khẳng_định/V nó/P là/V sự/Nc thay_thế/V đáng/V chú_ý/V cho/E máy_tính_xách_tay/N
+Trong/E cuộc/N phỏng_vấn/V với/E BuzzFeed/Np Craig_Federighi/Np trưởng/Z nhóm/N phần_mềm/N của/E Apple/Np cho_biết/V hãng/N coi/V i/N Pad/Np là/V sản_phẩm/N nằm/V giữa/E điện_thoại/N và/CC máy_tính/N khai_thác/V những/L đặc_tính/N tốt/A nhất/A của/E cả/P hai/M thiết_bị/N
+Vấn_đề/N khiến/V i/N Pad/Np chưa_thể/R thay_thế/V laptop/N là/V hệ_điều_hành/N i/N OS/Np chưa/R phù_hợp/V
+So/V với/E Mac/Np hay/C PC/Np đa_nhiệm/N trên/E i/N Pad/Np không/R tốt/A việc/N chuyển_đổi/V file/V giữa/E các/L ứng_dụng/N cũng/R rất/R tệ/A
+Hầu_hết/L ứng_dụng/N trên/E i/N OS/Np đều/R được/V đơn_giản_hóa/V ít/A tính_năng/V hơn/R so/V với/E bản/N dành/V cho/E desktop/N
+Với/E sự/Nc ra_đời/V của/E i/N OS/Np 11/M Apple/Np đang/R tiến/V một/M bước/N dài/A để/E xóa_bỏ/V khoảng_cách/N đó/P
+Hệ_điều_hành/N mới/R có/V thanh/N dock/N ứng_dụng/V được/R thiết_kế/V lại/R linh_hoạt/A hơn/A để/E chuyển_đổi/V nhanh/A giữa/E các/L ứng_dụng/N
+Tính_năng/N kéo/V thả/V /N Drag/Np and/CC drop/V /N cho_phép/V kéo/V nội_dung/N từ/E ứng_dụng/N này/P rồi/C thả/V chúng/P vào/E ứng_dụng/N khác/A đang/R chạy/V song_song/A
+iOS/N 11/M cũng/R có/V trình/N quản_lý/V file/N hỗ_trợ/N quản_lý/V dữ_liệu/N cá_nhân/N trên/E máy/N
+Những/L tính_năng/N mới/A này/P gợi/V nhớ/V đến/E hệ_điều_hành/N Windows/Np 8/M và/CC suy/V cho/E cùng/A ý_tưởng/N tablet/N có_thể/R thay_thế/V laptop/N của/E Apple/Np đã/R được/V Microsoft/Np tiên_phong/A từ/E năm/N 2012/M với/E dòng/N Surface/Np
+Ngược_lại/X Microsoft/Np cũng/R đang/R thực_hiện/V nhiều/A bước_đi/N giống/A với/E chiến_lược/N của/E Quả/N táo/N
+Thế/T mạnh/A của/E Microsoft/Np lại/R là/V gót/V chân/N Achilles/Np của/E Apple/Np
+Các/L thiết_bị/N Surface/Np chạy/V hệ_điều_hành/N Windows/Np 10/M hoàn_chỉnh/V cho_phép/V người/N dùng/V tiếp_cận/V các/L phần_mềm/N đầy_đủ/A tính_năng/V
+Người/N dùng/V có_thể/R sử_dụng/V phiên_bản/N Office/Np mà/C họ/P đã/R có/V hoặc/CC bản/N desktop/N của/E trình_duyệt/N Google_Chrome/Np
+Trong/E khi/N đó/P điểm/N yếu/A của/E Microsoft/Np lại/R là/V thế/P mạnh/A của/E Apple/Np
+Kho/Np ứng_dụng/V Windows_Store/Np có/V ít/A lựa_chọn/V hơn/R App_Store/Np nên_người/N sở_hữu/V Surface/Np không/R tiếp_cận/V được/R với/E nhiều/A ứng_dụng/N quen_thuộc/A với/E họ/P trên/E smartphone/N và/CC tablet/N
+PC/Np đang/R đi/V xuống/V và/CC smartphone/N đang/R thịnh_hành/V ngày_càng/X nhiều/A lập_trình_viên/N chuyển/V sang/V phát_triển/V ứng_dụng/N cho/E i/N OS/Np và/CC Android/Np hơn/A là/V Windows/Np
+Để/E khắc_phục/V điều/N đó/P nền_tảng/N Windows/Np 10/M S/Np ra_đời/V và/CC hoạt_động/V trên/E Surface_Laptop/Np
+Là/V laptop/N nhưng/C nó/P chỉ/R chấp_nhận/V ứng_dụng/V được/V duyệt/V trên/E Windows_Store/Np
+Microsoft/Np giải_thích/V điều/N đó/P giúp/V họ/P quản_lý/V tốt/A hơn/R đảm_bảo/V trải_nghiệm/V người/N dùng/V và/CC tăng/V thời_lượng/N pin/V cho/E máy/N
+Đổi/V lại/R người/N sử_dụng/V sẽ/R không_thể/R cài/V những/L phần_mềm/N Windows/Np truyền_thống/A trong/E đó/P có/V cả/P Chrome/Np hay/C trò_chơi/N trên/E Steam/Np
+Dù/C đi/V theo/V theo/E hướng/N nào/P cả/P Apple/Np và/CC Microsoft/Np cùng/A đang/R cố_gắng/V xóa/V mờ/A khoảng_cách/N giữa/E tablet/N và/CC laptop/N
+Hai/M bên/N sẵn_sàng/A học_hỏi/V điểm/N mạnh/A của/E nhau/N để/E làm/V giảm/V đi/V những/L điểm/N yếu/A bởi/E họ/P có/V chung/A một/M mục_tiêu/N trở_thành/V nền_tảng/N được/V mọi/L người/N lựa_chọn/V để/E làm_việc/V giải_trí/V và/CC sáng_tạo/V dù/C thiết_bị/N đó/P được/V gọi_là/X máy_tính/N hay/C máy_tính/N bảng/N

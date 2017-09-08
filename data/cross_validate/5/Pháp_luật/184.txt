@@ -1,0 +1,12 @@
+Lừa/V bán/V ngoại_tệ/N cho/V tiệm/N vàng/N cướp/V 260/M triệu/M đồng/Nu
+Hai/M nghi/N phạm/N hẹn/V một/M cửa_hàng/N vàng/N cho/E người/N cầm/V tiền/N đến/V để/E trao_đổi/V mua_bán/V ngoại_tệ/N rồi/R cướp/V tiền/N
+Phòng_Cảnh_sát/N điều_tra/V tội_phạm/N về/V trật_tự/N xã_hội/N Công_an/N TP/Np Hà_Nội/Np cho/V biết/V cơ_quan/N này/P vừa/R thực_hiện/V lệnh/N bắt/V khẩn_cấp/A tạm/N giữ/V hình_sự/N hai/M nghi/N phạm/N Lê_Văn_Lợi/Np và/CC Đỗ_Văn_Sơn/Np cùng/A trú/V tại/E Hưng_Yên/Np để/V điều_tra/V về/V hành_vi/N cướp/V tài_sản/N
+Theo/E cơ_quan/N điều_tra/V Lợi/Np từng/R có/V thời_gian/N làm_thuê/V trong/E một/M cửa_hàng/N bán/V vàng/N tại/V Hà_Nội/Np
+Thời_gian/N gần/A đây/P do/E thiếu/V tiền/N tiêu_xài/V nên/V Lợi/Np nảy_sinh/V ý_định/N đi/V cướp/V
+Tối/N 76/M Lợi/Np gọi/V cho/E bạn/N là/V Đỗ_Văn_Sơn/Np bàn/V kế_hoạch/N đi/V cướp/V
+Sáng/N 86/M hai/M người/N đi/V xe_máy/N từ/E Hưng_Yên/Np lên/V Hà_Nội/Np mua/V hai/M con/Nc dao/N nhọn/A làm/V công_cụ/N gây/V án/N
+Do/E từng/R làm/V ở/E tiệm/N vàng/N biết/V những/L sơ_hở/N trong/E các/L hoạt_động/N mua_bán/V ngoại_tệ/N bên/N ngoài/N nên/C Lợi/Np gọi/V điện/V cho/E một/M cửa_hàng/N vàng/N nói/V đang/R cần/V bán/V 10000/M EURO/Np
+Lợi/N hẹn/V cửa_hàng/N cho/V người/N mang/V tiền/N đến/V khu_vực/N Linh_Đàm/Np quận/N Hoàng_Mai/Np để/V giao_dịch/V
+Khi/N nhân_viên/N của/E tiệm/N vàng/N đến/V điểm/N hẹn/V Lợi/Np và/CC Sơn/Np đã/R dùng/V dao/N dí/V vào/E cổ/N đe_doạ/N và/CC cướp/V đi/V số/N tiền/N 260/M triệu/M đồng/Nu
+Sau/E khi/N gây/V án/N hai/M nghi/N phạm/N thuê/V taxi/N đi/V Sầm_Sơn/Np Thanh_Hoá/Np chơi/V sau/N đó/P tiếp_tục/V đi/V Tuần_Châu/Np Quảng_Ninh/Np
+Ngày/N 106/M Phòng_Cảnh_sát/N điều_tra/V tội_phạm/N về/V trật_tự/N xã_hội/N Công_an/N Hà_Nội/Np phối_hợp/V cùng/A Công_an/N tỉnh/N Quảng_Ninh/Np thực_hiện/V lệnh/N bắt/V khẩn_cấp/N Lợi/Np và/CC Sơn/Np

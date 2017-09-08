@@ -1,0 +1,11 @@
+Chiêm_ngưỡng/N cực_quang/V N đẹp/A như/C cổ_tích/N A ở/E Bắc_Âu/Np
+Thông_tin/N tour/N tham_khảo/V Đan_Mạch/Np Na_Uy/Np Thụy_Điển/Np /M 9/M ngày/N /A khởi_hành/V 25/8/M 21/9/M 20/10/M
+Giá/N từ/E 76,9/M triệu/M đồng/Nu
+Nga/Np Moscow/Np Saint_Peterburg/Np /M 9/M ngày/N /M khởi_hành/V 15/M 22/M 26/8/M 9/M 14/M 23/9/M 14/10/M
+Giá/N từ/E 47,9/M triệu/M đồng/Nu đến/V 49,5/M triệu/M đồng/Nu
+Tour/N 8/M ngày/N khởi_hành/V 12/M 25/8/M 15/9/M 3/10/M
+Giá/N từ/E 45,9/M triệu/M đồng/Nu
+Liên_hệ/V Vietravel_Hà_Nội/Np Hotline/Np du_lịch/V trong/E nước/N 0989/M 37/M 00/M 33/M
+Hotline/Np nước_ngoài/N 0983/M 16/M 00/M 22/M
+Số/N 3/M Hai_Bà_Trưng/Np Hà_Nội/Np Tel/Np 024 33/M 1978/M 30/M Trần_Thái_Tông/Np Cầu_Giấy/Np Hà_Nội/Np Tel/Np 024 69/M 2858/M 299/M Quang_Trung/Np Hà_Đông/Np Hà_Nội/Np Tel/Np 024 98/M 5555/M 262/M Xã/N Đàn/Np Đống_Đa/Np Hà_Nội/Np Tel/Np 024/M
+3765/M 3333/M 445/M Nguyễn_Văn_Cừ/Np Long_Biên/Np Hà_Nội/Np Tel/Np 024/M

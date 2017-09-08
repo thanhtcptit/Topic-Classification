@@ -1,0 +1,16 @@
+Windows/Np 10/M thêm/N lá_chắn/N chống/V mã/N độc/N tống_tiền/V
+Một_số/N doanh_nghiệp/N lớn/A ở/E Ấn_Độ/Np Úc/Np đã/R báo_cáo/V về/E việc/N bị/V mã/V độc/A đòi/V tiền/N chuộc/V Petya/Np mới/A tấn_công/V
+Các/L nhà/N bảo_mật/V khuyến_cáo/N khả_năng/N lây_lan/V xảy/V ra/R tại/N Việt_Nam/Np
+Dịch_vụ/N thuê/V biến_thể/N mã_hoá/N dữ_liệu/N tống_tiền/V Ransomwareasaservice/Np nhắm/V vào/E máy/N Mac/Np đang/R được/V chào_bán/N ở/V thị_trường/N mạng/N chợ_đen/V của/E thế_giới/N ngầm/N Hãng/N bảo_mật/V Fortinet/Np công_bố/V
+Trong/E năm/N 2016/M các/N loại/N mã/N độc/A mã_hoá/N dữ_liệu/N tống_tiền/V ransomware/N không/R còn/V xa_lạ/A mà/C trở_thành/V mối/N nguy/N thực_tế/N cho/V người_dùng/N Internet/Np tại/V Viêt_Nam/Np
+Mất/V dữ_liệu/N mất/V tiền/N
+Theo/E đó/P Microsoft/Np cần/V một/M giải_pháp/N mang/V tính/N phòng_chống/V hơn/A là/V vá/N lỗ_hổng/V trước/E những/L nguy_cơ/N từ/V Ransomware/Np và/CC đó/P là/V Controlled/Np folder/V access/N hay/C quản_lí/V quyền/N truy_xuất/N thư_mục/N
+Microsoft/Np đang/R thử_nghiệm/V tính_năng/N mới/A này/P trong/E chương_trình/N Windows_Insider/Np và/CC sẽ/R phát_hành/V bản/N cập_nhật/V Windows/Np 10/M Fall_Creators_Update/Np đến/V người_dùng/N Windows/Np 10/M vào/E tháng/N 9/M
+Nó/P sẽ/R là/V một/M phần/N của/E công_cụ/N bảo_mật/V Windows_Defender/Np
+Như/C tên/N gọi/V tính_năng/N này/P cho/V phép/N người_dùng/N quản_lí/V được/R các/L truy_xuất/N của/E những/L thư_mục/N quan_trọng/A cảnh_báo/V họ/P khi/N có/V những/L mưu_đồ/N thay_đổi/V chưa/R được/V đồng_ý/V
+Khả_năng/N quản_lí/V quyền/N truy_xuất/N của/E bất_kì/N thư_mục/N nào/P trên/E máy_tính/N bao_gồm/V cả/P những/L thư_mục/N chia_sẻ/V mạng/N shared/V hay/N ổ_đĩa/V ánh_xạ/N map/N drive/N
+Theo/E đó/P mã/N độc/A họ/P Ransomware/Np không_thể/V thực_hiện/V công_việc/N duy_nhất/A của/E nó/P là/V mã_hoá/N dữ_liệu/N trong/E thư_mục/N đã/R được/V bảo_vệ/V
+Những/L ứng_dụng/N cố/V thay_đổi/V thư_mục/N folder/N không/R được/V sự/N đồng_ý/V cấp/N quyềnchứng_thực/N sẽ/R bị/V Windows_Defender/Np đưa/V vào/R danh/N sách_đen/A và/CC chỉ/R có/V chủ_nhân/N có/V quyền_hạn/N cao/A nhất/A Admin/N mới/R có_thể/A giải_thoát/V chúng/N ra/V khỏi/V danh_sách/N
+Cách/N này/P thực_sự/N giúp/V người_dùng/N Windows/Np làm_chủ/V được/R các/L ứng_dụng/N có/V quyền/N thay_đổi/V các/L tập/N tintin/N
+Microsoft/Np có/V kèm/V theo/V các/L mức/N thiết_lập/N cấu_hình/N mức_độ/N phòng_vệ/V cho/V thư_mục/N người_dùng/N có_thể/N cấp/V quyền/N ưu_tiên/A cho/E những/L ứng_dụng/N đáng/V tin_cậy/V
+Tuy_nhiên/C các/L thư_mục/N hệ_thống/N quan_trọng/N sẽ/R mặc_định/V được/R lá_chắn/V này/N bảo_vệ/V như/C Documents/Np Pictures/Np Movie/Np Desktop/Np

@@ -1,0 +1,11 @@
+​/N 52/M máy_tính/N Việt_Nam/Np tồn_tại/V lỗ_hổng/N cho/V WannaCry/N tấn_công/V
+Trước/E đó/P công_ty/N này/P cũng/R đã/R phát_hành/V công_cụ/N miễn_phí/V để/E quét/V virus/N và/CC kiểm_tra/V lỗ_hổng/N trên/N máy/N
+Công_cụ/N này/P giúp/V người/N sử_dụng/V quét/N xem/V máy_tính/N có/V đang/R bị/V nhiễm/V mã/N độc/A WannaCry/N không/R đồng_thời/N kiểm_tra/V và/N cảnh_báo/V nếu/C máy_tính/N có/V chứa/N lỗ_hổng/N EternalBlue/N
+Mã/N độc/A tống_tiền/N WannaCry/N hiện/N đã/R lây_nhiễm/V hơn/A 200/M nghìn/N máy_tính/N tại/E hơn/N 90/M nước/N t/N rên/N thế_giới/N trong/N đó/P có/V Việt_Nam/Np
+Mã/N độc/A có/V khả_năng/N lây_nhiễm/V các/L máy_tính/N ngang_hàng/N thông_qua/V lỗ_hổng/N nên/C tốc_độ/N lây_lan/V rất/R nhanh/A
+Ông/Nc Vũ_Ngọc_Sơn/Np Phó/Z chủ_tịch/N phụ_trách/V mảng/N chống/V mã/N độc/N Anti_Malware/Np của/E Bkav/Np cho/V biết/V Các/L cuộc/N tấn_công/V của/E WannaCry/N ở/E các/L nước/N châu/N Âu/Np đang/R diễn_biến/V phức_tạp/A nhưng/C tại/E Việt_Nam/Np sự_việc/N chưa/R thực_sự/N bùng_phát/V
+Có_thể/A dự_định/N ban_đầu/N của/E hacker/N chủ_yếu/A nhắm/V tới/E thị_trường/N châu/N Âu/Np và/CC chưa/V nhắm/V vào/V Việt_Nam/Np
+Tuy_nhiên/C với/E số_lượng/N máy_tính/N tồn_tại/V lỗ_hổng/N lên/V tới/N 52/M tiềm_ẩn/N nguy_cơ/N bị/V tấn_công/V trên/E diện/N rộng/A rất/R lớn/A
+Người_dùng/N cần/V khẩn_trương/V quét/V kiểm_tra/V lỗ_hổng/N bằng/E công_cụ/N chúng_tôi/N đã/R phát_hành/V và/N cập_nhật/V bản/N vá/V theo/V hướng_dẫn/V
+Thống_kê/V từ/E hệ_thống/N giám_sát/N virus/N của/E Bkav/Np trong/E năm/N 2016/M cũng/R cho/V thấy/V có/V tới/T 16/M lượng/N email/N lưu_chuyển/V phát_tán/V ransomware/N
+Như/C vậy/P cứ/R nhận/V được/R 10/M email/N người/N sử_dụng/V sẽ/R gặp/V 16/M email/N chứa/V ransomware/N

@@ -1,0 +1,22 @@
+​/N Trường/N THCS/Np Lý_Thánh_Tông/Np thực_hiện/V mô_hình/N trường/N tiên/N tiến/V
+Thí_sinh/N dự_tuyển/N sẽ/R nộp/V hồ_sơ/N gồm/V Bản_sao/N khai_sinh/V hợp_lệ/N
+bản_sao/N hộ_khẩu/N có/V công_chứng/N hoặc/N sổ/N KT3/Np giấy/N tạm_trú/V dài_hạn/N
+giấy/N chứng_nhận/N đã/R hoàn_thành/V chương_trình/N bậc/N tiểu_học/N
+giấy/N xác_nhận/V có/V cha/N và/CC mẹ/N hoặc/N cha/N mẹ/N là/V cán_bộ/N công_chức/N viên_chức/N
+giấy/N chứng_nhận/V ưu_tiên/N nếu/N có/V
+Tuyển_sinh/N lớp/N 6/M chương_trình/N tăng_cường/V Tiếng_Anh/Np thực_hiện/V đối_với/N trường/N Trung_học/N cơ_sở/N Chánh_Hưng/Np Bình_An/Np và/CC Tùng_Thiện_Vương/Np
+Các/L trường/N sẽ/R tiếp_nhận/V học_sinh/N được/V công_nhận/V đạt/V yêu_cầu/N cấp/N tiểu_học/N của/E chương_trình/N và/CC có/V điểm/N toàn/A năm/N từng/N kĩ_năng/N từ/E 6/M điểm/N trở/V lên/V hoặc/N có/V chứng_chỉ/N Cambridge/Np flyer/V đạt/V 1015/M khiên/N hoặc/N TOEFL/Np Primary_Step/Np 2/M đạt/N 35/M huy_hiệu/N
+Tuyển_sinh/N lớp/N 6/M chương_trình/N tăng_cường/V tiếng/N Pháp/Np
+Học_sinh/N lớp/N 5/M đã/N hoàn_thành/V chương_trình/N cấp/V tiểu_học/N có/V học_lực/N hai/M môn/N tiếng/N Việt/Np và/CC Toán/Np ở/V năm_học/N lớp/N 5/M từ/N 8/M điểm/N trở/V lên/V và/N có/V điểm/N trung_bình/A các/L môn/N tiếng/N Pháp/Np và/CC bằng/E tiếng/N Pháp/Np từ/E 6/M điểm/N trở/V lên/R tuyển/V thẳng/A vào/E trường/N Trung_học/N cơ_sở/N Chánh_Hưng/Np để/E tiếp_tục/V theo/V học/V lớp/N tăng_cường/N tiếng/V Pháp/Np
+Hồ_sơ/N gồm/V Bản_sao/N khai_sinh/V
+bản_sao/N hộ_khẩu/N có/V chứng_thực/N hoặc/N sổ/N KT3/Np giấy/N tạm_trú/V
+giấy/N chứng_nhận/N đã/R hoàn_thành/V chương_trình/N bậc/N tiểu_học/N
+học_bạ/V học/V tăng_cường/V lớp/N 5/M
+giấy/N xác_nhận/V có/V cha/N lẫn/N mẹ/N hoặc/N cha/N mẹ/N là/V cán_bộ/N công_chức/N viên_chức/N tại/E Quận/Np 8/M
+giấy/N chứng_nhận/V ưu_tiên/N nếu/N có/V
+Tuyển_sinh/N lớp/N 1/M
+Chương_trình/N tăng_cường/V tiếng/N Anh/Np thực/V hiện_tại/N các/L trường/N Tiểu_học/N Âu_Dương_Lân/Np Bông_Sao/Np Trần_Nguyên_Hãn/Np Nguyễn_Trung_Ngạn/Np An_Phong/Np và/CC Bùi_Minh_Trực/Np
+Chương_trình/N Tiếng_Anh/Np tích_hợp/V thực/N hiện_tại/N các/L trường/N Tiểu_học/N Âu_Dương_Lân/Np Bông_Sao/Np Nguyễn_Trung_Ngạn/Np An_Phong/Np Trần_Nguyên_Hãn/Np
+Trường_Tiểu_học/N Bông_Sao/Np tiếp_tục/V tuyển_sinh/V chương_trình/N tăng_cường/V tiếng/N Pháp/Np rộng_rãi/A trong/E 16/M phường/N
+Trường_Tiểu_học/N Lý_Thái_Tổ/Np tiếp_tục/V xét/V tuyển/N học_sinh/N con_em/N người/Nc Hoa/Np có/V nhu_cầu/N học/V lớp/N tăng_cường/N tiếng/V Trung/Np
+HOÀNG/M HƯƠNG/N

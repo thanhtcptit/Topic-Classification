@@ -1,0 +1,19 @@
+Mạng/N di_động/V Google_Fi/Np cho/V đăng_kí/N t/N ​/N ự/V do/N
+Theo/E thông_báo/N mới/A nhất/R trên/N blog/N hôm/N 73/M bởi/N giám_đốc/N sản_phẩm/N Google/Np Project_Fi_Simon_Arscott/Np Google/Np mở_cửa/V cho/V tất_cả/N mọi/L người/N đăng_kí/N sử_dụng/V Project_Fi/Np tại/E Mỹ/Np không/R còn/V cần/V đến/V thư/N mời/V
+Tuy_vậy/C vẫn/R tồn/V tại/E điều_kiện/N khó_chịu/N thứ_hai/N bên_cạnh/N thư/N mời/V là/C hỗ_trợ/V khách/N hàng/N đang/R sử_dụng/V các/L thiết_bị/N mới/A nhất/A thuộc/V nhóm/N sản_phẩm/N Nexus/Np của/E Google/Np gồm/V Nexus/Np 5X/M Nexus/Np 6P/M và/N Nexus/Np 6/M
+Google/V tặng/V thêm/V gói/N giảm_giá/A khi/N mua/V điện_thoại/N Google_Nexus/Np 5X/M hợp/N tác/N sản_xuất/V bởi/E LG/Np khi/N đăng_kí/V dùng/V Project_Fi/Np
+Phí/N đăng_kí/N thuê_bao/N mạng/N Project_Fi/Np vào/V tầm/N giá/N 20/M USDtháng/N tương_đương/V khoảng/N 450/M ngàn/M đồng/Nu để/E dùng/V không/R giới_hạn/V thoại/N và/N nhắn_tin/V
+Nếu/C muốn/V sử_dụng/V gói/N mạng/N dữ_liệu/N data/N người_dùng/N trả/V 10/M USDtháng/N cho/E mỗi/M GB/Np dữ_liệu/N
+Lượng/N dữ_liệu/N thừa/V sẽ/R được/V dồn/V sang/N tháng/N kế_tiếp/V nếu/C không/R xài/V hết/V trong/E tháng/N đó/P
+Việt_Nam/Np chưa/R có/V trong/E danh_sách/N 120/M thị_trường/N hỗ_trợ/V mạng/N Project_Fi/Np
+Các/L quốc_gia/N lân_cận/A như/C Thái_Lan/Np Singapore/Np Indonesia/Np Philippines/Np Malaysia/Np hay/V thậm_chí/N Venezuela/Np và/CC Zambia/Np đều/R hiện_diện/V trong/E danh_sách/N
+Project_Fi/Np chỉ/R hỗ_trợ/V tốc_độ/N kết_nối/N tối_đa/A 256/M kbps/N mạng/N dữ_liệu/N 3G/N ở/E 120/M quốc_gia/N này/P và/N mức/N phí/N cũng/R khác_biệt/A
+Thẻ/N SIM/Np của/E mạng/N Project_Fi/Np có_thể/R dùng/V cho/E nhiều/A thiết_bị/N khác/A như/A iPad/N và/CC máy_tính_bảng/N hỗ_trợ/V mạng/N 4G/N LTE/Np không/R đơn_thuần/A chỉ/R hỗ_trợ/V điện_thoại_di_động/N
+Ý/N tưởng/V đột_phá/N của/N Project_Fi/Np
+Cần/V nhắc/V lại/R Project_Fi/Np là/V mạng/N viễn_thông/V ảo/N Mobile_Virtual_Network_Operator/Np MVNO/Np không/R cung_cấp/V trực_tiếp/A dịch_vụ/N viễn_thông/V như/C các/L nhà/N mạng/N TMobile/V hay/N Sprint/Np tại/E Mỹ/Np hay/C ví_dụ/N dễ/A hiểu/V về/V nhà/N mạng/N di/V động/N như/C Viettel/Np hay/N Mobifone/Np Vinaphone/Np tại/V Việt_Nam/Np
+Google/Np hợp_tác/V với/E các/L nhà/Nc mạng/N Sprint/Np và/CC TMobile/N cũng/R như/A gắn_kết/V với/E hơn/R một/M triệu/N điểm/N phát/V mạng/N không/R dây/N WiFi/V trên/E khắp/N thế_giới/N
+Project_Fi/Np dựa_dẫm/V vào/E các/L mạng/N này/P liên_tục/R chuyển_đổi/V giữa/N các/L mạng/N từ/E WiFi/N cho/E đến/V 4G/N LTE/Np để/V chọn/V ra/R dịch_vụ/N mạng/N nhanh/A nhất/R và/N đáng/V tin_cậy/V nhất/A trong/E khu_vực/N người_dùng/N đang/R sử_dụng/V
+Project_Fi/Np cung_cấp/V SIM/Np tích_hợp/V công_nghệ/N hoà_trộn/V và/N kết_hợp/N tự_động/A chọn/V sóng/N mạnh/A nhất/A của/E một/M trong/E hai/M mạng/N di_động/V TMobile/N và/CC Sprint/Np đang/R phát/V trong/E khu_vực/N của/E người/N sử_dụng/V
+Tương_tự/V việc/N bạn/N dùng/V một/M thẻ/N SIM/Np mà/C nó/P đủ/V thông_minh/N để/E biết/V và/N tự/N chọn/V kết/N nối_mạng/N không/R dây/N nhanh/A nhất/R đang/R được/V phát_sóng/V bởi/E Mobifone/Np hay/V Vinaphone/Np hay/V Viettel/Np
+Như/C vậy/P người_dùng/N không/R cần/V để_tâm/N đang/R dùng/V mạng/N gì/P hay/A đang/R kết_nối/V WiFi/N Google/Np cho/V phép/N gọi/V điện_thoại/N truyền_tải/N nội_dung/N số/N lướt/N web/N dùng/V các/L ứng_dụng/N
+Thậm_chí/R người_dùng/N có_thể/R gọi/V điện_thoại/N bằng/E số/N điện_thoại/N của/E mình/N trên/E bất_kì/N thiết_bị/N nào/N của/E họ/N bao_gồm/V máy_tính_cá_nhân/N PC/Np và/CC máy_tính_bảng/N tablet/N

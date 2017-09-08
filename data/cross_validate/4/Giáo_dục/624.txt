@@ -1,0 +1,19 @@
+Hà_Nội/Np hạ/V điểm_chuẩn/V vào/E lớp/N 10/M công_lập/N
+Tối/N 30/6/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np ra/R quyết_định/V hạ/V điểm_chuẩn/N vào/E lớp/N 10/M của/E 42/M trong/E số/N 108/M trường/N THPT/Np công_lập/V trên/E địa_bàn/N
+Trong/E danh_sách/N hạ/V điểm/N có/V nhiều/A trường/N tên_tuổi/N như/C Chu_Văn_An/Np Kim_Liên/Np Việt_Đức/Np Trần_Phú/Np Hoàn_Kiếm/Np Yên_Hòa/Np  /A Cụ_thể/A THPT/Np Chu_Văn_An/Np giảm/V từ/E 55,5/M điểm/N xuống/V 54,5/M điểm/N
+THPT/Np Kim_Liên/Np trước/E lấy/V 53/M điểm/N giờ/N hạ/V xuống/V 52,5/M
+THPT/Np Yên_Hòa/Np THPT/Np Trần_Phú/Np Hoàn_Kiếm/Np THPT/Np Nhân_Chính/Np THPT/Np Cầu_Giấy/Np THPT/Np Nguyễn_Thị_Minh_Khai/Np đều/R giảm/V 0,5/M điểm/N ngưỡng/N đầu_vào/N lớp/N 10/M
+THPT/Np Việt_Đức/Np hạ/V chuẩn/A của/E duy_nhất/A lớp/N tiếng/N Đức/Np từ/E 49/M xuống/E 43/M điểm/N
+Có/V 6/M trường/N THPT/Np thông_báo/V tuyển/V nguyện_vọng/N 3/M gồm/V Đông_Mỹ/Np Tự_Lập/Np Bất_Bạt/Np Minh_Quang/Np Mỹ_Đức/Np C/Np Lưu_Hoàng/Np và/CC Đại_Cường/Np  /EOS
+Từ/E ngày/N 1/7/M đến/E 17h/M ngày/N 3/7/M học_sinh/N đủ/A điểm/N  /V xét/V tuyển/V nguyện_vọng/N 3/M nộp/V đơn/N đăng_ký/V kèm/V bản/N photo/V giấy_báo/V kết_quả/N tuyển_sinh/V lớp/N 10/M THPT/Np năm_học/N 2017-2018/M về/V trường/N
+Từ/E 8h/M ngày/N 4/7/M Hội_đồng/N tuyển_sinh/V nhà_trường/N họp/V xét_duyệt/V đơn/N dự_tuyển/V nguyện_vọng/N 3/M theo/V điểm/N xét/V tuyển/V từ/E cao/A xuống/R thấp/A đến/E khi/N đủ/A chỉ_tiêu/N
+16h30/M cùng/A ngày/N các/L trường/N công_bố/V kết_quả/N học_sinh/N trúng_tuyển/V nguyện_vọng/N 3/M
+Những/L em/N này/P sẽ/R nộp/V hồ_sơ/N vào/V trường/N từ/E 8h/M đến/E 17h/M ngày/N 5/7/M
+Ngày/N 9-10/M //X 6/M hơn/R 76 0/M học_sinh/N của/E Hà_Nội/Np tham_dự/V kỳ/N thi_tuyển/V sinh/V vào/E lớp/N 10/M THPT/Np  /EOS
+Cách/V tính/V điểm/N vào/E lớp/N 10/M năm/N nay/P vẫn/R theo/V công_thức/N Trong/E đó/P điểm/N THCS/Np là/V tổng_số/N điểm/N tính/V theo/E kết_quả/N học_tập/V và/CC rèn_luyện/V của/E 4/M năm_học/N cấp/N THCS/Np nếu/C lưu_ban/V lớp/N nào/P thì/C lấy/V kết_quả/N năm_học/N lại/R của/E lớp/N đó/P
+Điểm/N tính/V theo/E kết_quả/N rèn_luyện/V và/CC học_tập/V mỗi/L năm_học/N ở/E cấp/N THCS/Np được/V tính/V như/C sau/N Hạnh_kiểm/N tốt/A và/CC học_lực/N giỏi/A là/V 5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N giỏi/A hoặc/CC hạnh/V điểm/N tốt/A và/CC học_lực/N khá/R là/V 4,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N khá/R là/V 4/M điểm/N Hạnh_kiểm/N trung_bình/A và/CC học_lực/N giỏi/A hoặc/CC hạnh_kiểm/N tốt/A và/CC học_lực/N trung_bình/A là/V 3,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N trung_bình/A hoặc/CC hạnh_kiểm/A trung_bình/A và/CC lực/N học/V khá/R là/V 3/M điểm/N
+Trường_hợp/N còn/V lại/R là/V 2,5/M điểm/N
+Điểm/N thi/V là/V tổng/N điểm/N hai/M bài/N thi/V Ngữ_văn/N và/CC Toán/Np /A đã/R nhân/V hệ_số/N 2/M /Nu chấm/V theo/E thang/N 10/M điểm/N lẻ/A đến/V 0,25/M
+Chỉ/R học_sinh/N không/R vi_phạm/V quy_chế/N trong/E kỳ/N tuyển_sinh/V và/CC không/R có/V bài/N thi/N nào/P bị/V điểm/N 0/M mới/R được/V đưa/V vào/E diện/N xét/V tuyển/V
+Điểm/N cộng/V thêm/V là/C tổng/N của/E điểm/N ưu_tiên/V và/CC khuyến_khích/V tối_đa/A là/V 6/M
+/N Chi_tiết/A các/L trường_hợp/N được/V cộng/V điểm/N /V

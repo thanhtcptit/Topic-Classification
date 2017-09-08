@@ -1,0 +1,7 @@
+Kỹ_thuật/N nội_soi/N cắt/V gan/N chữa/V ung_thư/N của/E bác_sĩ/N Việt/Np giành/V giải/N nhất/A thế_giới/N
+​/N Đề_tài/N này/P do/E nhóm/N bác_sĩ/N Bệnh_viện/N Đại_học/N Y_dược/N TP_HCM/Np báo_cáo/V tại/E hội_nghị/N phẫu_thuật/V nội_soi/N cắt/V gan/N thế_giới/N tổ_chức/V tại/E Paris/Np hôm/N 6-8/M //X 7/M
+Theo/E  /N bác_sĩ/N Trần_Công_Duy_Long/Np Phó_trưởng/N khoa/N Gan/Np Mật/Np Tụy/Np Bệnh_viện/N Đại_học/N Y_dược/N TP_HCM/Np mổ/V nội_soi/N cắt/V gan/N chữa/V ung_thư/N  /N là/V phương_pháp/N điều_trị/V triệt_để/A ít/A xâm_lấn/N ít/A đau/V giảm/V mất/V máu/N và/CC biến_chứng/N bệnh_nhân/N phục_hồi/V nhanh/A đảm_bảo/V tính/N thẩm_mỹ/A
+Để/E thực_hiện/V đề_tài/N này/P các/L bác_sĩ/N đã/R theo_dõi/V khoảng/N 450/M bệnh_nhân/N được/V nội_soi/N cắt/V gan/N điều_trị/V ung_thư/N tại/E Bệnh_viện/N Đại_học/N Y_Dược/N TP_HCM/Np
+Ghi_nhận/V sau/E 5/M năm/N cho/V thấy/V hơn/A 96%/M bệnh_nhân/N sống/V thêm/V một/M năm/N gần/A 79%/M bệnh_nhân/N sống/V thêm/V 3/M năm/N và/CC trên/N 77%/M sống/V sau/E 5/M năm/N
+Phó_giáo_sư/N tiến_sĩ/N Nguyễn_Hoàng_Bắc/Np Giám_đốc/N Bệnh_viện/N Đại_học/N Y_dược/N TP_HCM/Np kỳ_vọng/V việc/N ứng_dụng/V rộng_rãi/A kỹ_thuật/N nội_soi/N cắt/V gan/N đem/V  /N đến/E tiên_lượng/N tốt/A hơn/R cho/E nhiều/A người_bệnh/N ung_thư/N gan/N
+Mỗi/L năm/N bệnh_viện/N  /M tiếp_nhận/V 1 0/M ca/N ung_thư/N gan/A khoảng/A hơn/R 30%/M bệnh_nhân/N đủ/A điều_kiện/N điều_trị/V bằng/E kỹ_thuật/N nội_soi/N cắt/V gan/N  /M Bệnh_viện/N dự_kiến/V nghiên_cứu/V sâu/A hơn/R để/E mở_rộng/V chỉ_định/V phẫu_thuật/V nội_soi/N cắt/V gan/N cho/E nhiều/A bệnh_nhân/N

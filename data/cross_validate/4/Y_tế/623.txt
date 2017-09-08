@@ -1,0 +1,15 @@
+2/M em/N bé/N Cao_Bằng/Np nghi/V bị/V viêm/V não/N tử_vong/N
+Bác_sĩ/N Phương_Đức_Cù/Np Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Cao_Bằng/Np cho_biết/V đây/P là/V hai/M bé/N gái/N 9/M và/CC 10/M tuổi/N bị/V suy/V hô_hấp/N não/N phù_nề/A hôn_mê/V phải/V thở/V máy/N
+Chiều/N cùng/A ngày/N xe/N cấp_cứu/V có/V nhân_viên/N y_tế/N đi/V cùng/A bóp/V bóng/N để/E đưa/V các/L bé/N về/V nhà/N
+Bé/N trai/N 7/M tuổi/N còn/V lại/R đã/R có/V dấu_hiệu/N hồi_phục/V đang/R điều_trị/V tại/E khoa/N Truyền_Nhiễm/Np
+Đây/P là/V 3/M em/N bé/N trong/E cùng/A một/M gia_đình/N người/N dân_tộc/N Mông/Np ở/E Thông_Nông/Np Cao_Bằng/Np có/V các/L triệu_chứng/N nghi/V viêm/N não/N
+Trước/E đó/P một/M bé/N 12/M tuổi/N là/V họ_hàng/N của/E 3/M cháu/N bé/N này/P đã/R tử_vong/V tại/E nhà/N với/E các/L triệu_chứng/N tương_tự/A
+Hiện/N các/L bác_sĩ/N chưa/R thống_nhất/V kết_luận/V các/L bé/N bị/V viêm/V não/N hay/C ngộ_độc/V chưa/R rõ/A nguyên_nhân/N
+Kết_quả/N chụp/V chiếu/N cho/V thấy/V các/L bé/N có/V hình_ảnh/N viêm/N não/N
+Kết_quả/N xét_nghiệm/V cho/V thấy/V tình_trạng/N bạch_cầu/N tăng/V cao/A trong/E khi/N lượng/N đường/N trong/E cơ_thể/N các/L bệnh_nhi/N giảm/V rất/R thấp/A
+Những/L mẫu/N bệnh_phẩm/N đã/R được/V gửi/V về/E Trung_tâm/N chống/V độc/A Bệnh_viện/N Bạch_Mai/Np để/E xét_nghiệm/V  /M Bộ/N
+Y_tế/N cũng/R chỉ_đạo/V Cục/N An/Np toàn/R thực_phẩm/N phối_hợp/V ngành/N y_tế/N Cao_Bằng/Np tìm/V nguyên_nhân/N  /EOS
+Anh/Nc Lý_Văn_Dẩu/Np bố/N của/E các/L cháu/N cho_biết/V tối/N 8/6/M vợ_chồng/N anh/N đi/V làm/V nương/N về/E nhà/N thì/C thấy/V 4/M con/Nc bị/V đau_đầu/A buồn_nôn/A mệt_mỏi/A
+Gia_đình/N nghĩ/V con/N bị/V cảm_thông/V thường/R
+Sáng/N hôm_sau/V cháu/N 12/M tuổi/N tử_vong/A các/L bé/N còn/V lại/R có/V dấu_hiệu/N nặng/A hơn/A nên/C được/V đưa/V vào/R cấp_cứu/V ở/E Bệnh_viện/N Đa_khoa/Np huyện/N Thông_Nông/Np sau/E đó/P chuyển/V đến/E bệnh_viện/N tỉnh/N
+Các/L bé/N  /A có/V biểu_hiện/N giống/A nhau/N như/C sốt/V cao/A 39-40/M độ/N mắt/N lờ_đờ/A hôn_mê/V đau_đầu/V nôn/V co_giật/V

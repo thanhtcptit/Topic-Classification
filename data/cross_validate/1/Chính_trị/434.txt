@@ -1,0 +1,38 @@
+Phó_Thủ/Np tướng/N Cấm/V công_chức/N đi/V tết/N sếp/N nhậu/V trưa/N 
+Sáng/N 4/1/M Phó_Thủ/Np tướng/N Thường_trực/V Chính_phủ/N Trương_Hoà_Bình/Np –/V Chủ_tịch/N UB/Np An_toàn/A giao_thông/N quốc_gia/N chủ_trì/V hội_nghị/N trực_tuyến/A toàn_quốc/N tổng_kết/V năm/N an_toàn/A giao_thông/N 2016/M 
+Phó_Thủ/N tướng/N Thường_trực/V Chính_phủ/N Trương_Hòa_Bình/Np phát_biểu/V chỉ_đạo/V tại/E lễ/N ra_quân/V phát_động/V Năm/N ATGT/M năm/N 2017/M sáng/N nay/P 
+Tiêu_chí/N kéo/V giảm/V số/N người/N chết/V vì/E tai_nạn/N không/R đạt/V Báo_cáo/V tại/E hội_nghị/N Phó_Chủ/Np tịch/V UB/Np An_toàn/A giao_thông/N quốc_gia/N Khuất_Việt_Hùng/Np cho_biết/V tròn/A 1/M năm/N 16/12/2015/M đến/E 15/12/2016/M )/Nu cả/P nước/N xảy_ra/V hơn/R 21.500/M vụ/N tai_nạn/N làm/V chết/V 8.685/M người/N làm/V bị_thương/V 19.280/M người/N 
+So/V với/E cùng/A kỳ/N 2015/M tai_nạn/N đã/R giảm/V cả/P về/E số/N vụ/N 1.200/M vụ/N số/N người/N chết/V 43/M người/N và/CC số/N người/N bị_thương/V 1.792/M người/N )/A 
+Tai_nạn/N vẫn/R tập_trung/V ở/E đường_bộ/N với/E trên/N 21.000/M vụ/N 8.417/M người/N chết/V và/CC 19.035/M người/N bị_thương/V 
+Đường_sắt/N xảy_ra/V 360/M vụ/N tai_nạn/N làm/V chết/V 191/M người/N bị_thương/V 229/M người/N 
+Đường_thuỷ/N nội_địa/N xảy_ra/V 114/M vụ/N tai_nạn/N làm/V chết/V 72/M người/N bị_thương/V 16/M người/N 
+Hàng_hải/N xảy_ra/V 21/M vụ/Nc tai_nạn/N làm/V 5/M người/N chết/V 
+Hàng_không/N có/V những/L diễn_biến/N ngược/A chiều/N khi/N tổng_số/N sự_cố/N giảm/V 9%/M so/V với/E năm/N 2015/M (/Nu 82/90/M sự_cố/N )/A 
+Tuy_nhiên/C chỉ_số/N sự_cố/N xảy_ra/V do/E con_người/N lại/R tăng/V hơn/R 9%/M so/V với/E năm/N trước/E 26/22/M sự_cố/N )/A trong/E đó/P có/V 8/M sự_cố/N có/V nguy_cơ/N uy_hiếp/V an_toàn/N cao/A mức/N C/N 
+Tổng_kết/V chung/A có/V 40/M tỉnh/N thành/V trên/E cả/P nước/N đã/R kéo/V giảm/V được/R số/N người/N chết/V vì/E tai_nạn/N giao_thông/N trong/E đó/P có/V 13/M địa_phương/N giảm/V được/V trên/E 10%/M 
+Dù_vậy/C vẫn/R còn/R 20/M địa_phương/N có/V số/N người/N chết/V vì/E tai_nạn/N tăng/V trong/E đó/P cũng/R có/V 9/M tỉnh/N tăng/V trên/E 10%/M 
+Về/V tình_hình/N ùn_tắc/V giao_thông/N theo/V báo_cáo/N của/E Bộ/N Công/N an/M năm/N qua/V cả/P nước/N xảy_ra/V 41/M vụ/N ùn_tắc/V giao_thông/N kéo_dài/V chủ_yếu/A trên/E địa_bàn/N Hà_Nội/Np TPHCM/Np Quốc_lộ/N 1A/M )/Nu giảm/V 4/M vụ/N so/V với/E năm_ngoái/N 
+Dù_vậy/C tình_trạng/N tắc/V đường/N kẹt/V xe/N tại/E 2/M thành_phố/N lớn/A nhất/R cả/T nước/N diễn_biến/N phức_tạp/A trở_lại/V đặc_biệt/A trong/E các/L khung/N giờ/N cao_điểm/N khi/N xảy_ra/V mưa/N ngập/V Có/V 2/M vụ/N đua/V xe/N trái_phép/A xảy_ra/V tại/E Tiền_Giang/Np và/CC TP.Cần/Np Thơ/Np 28/M vụ/N chống/V lại/R CSGT/Np làm/V 4/M cảnh_sát/N bị_thương/V 
+Đánh_giá/V những/L tồn_tại/V hạn_chế/V UB/Np An_toàn/A giao_thông/N Quốc_gia/Np nhấn_mạnh/V việc/N chỉ_tiêu/N về/E tỷ_lệ/N giảm/V số/N người/N chết/V vì/E tai_nạn/N chưa/R đạt/V (/N chỉ/R giảm/V 0,49%/M trong/E khi/N mục_tiêu/N đề/V ra/R là/V giảm/V 5-10/M %/N )/A 
+Số/N người/N chết/V vì/E tai_nạn/N trong/E tháng/N 5/M 6/M 8/M 11/M 12/M đều/R tăng/V so/V với/E cùng/A kỳ/N 2015/M 
+Nhiều/A vụ/N tai_nạn/N đặc_biệt/A nghiêm_trọng/A cũng/R được/V điểm/N lại/R như/C vụ/N tông/V xe_khách/N tại/E Bình_Thuận/Np vào/E tháng/N 5/M tại/E Lâm_Đồng/Np vào/E tháng/N 6/M làm/V 20/M người/N chết/V 
+Tai_nạn/N đường_thuỷ/N nội_địa/N cũng/R gây/V thiệt_hại/A lớn/A như/C vụ/N tai_nạn/N cầu/N An_Thái/Np –/V Hải_Dương/Np cầu/N Ghềnh/Np –/V Đồng_Nai/Np vụ/N lật/V tàu/N du_lịch/V trên/E sông/N Hàn/Np tại/E Đà_Nẵng/Np …/M Tỷ_lệ/N tai_nạn/N liên_quan/V đến/E ô_tô/N có/V xu_hướng/N gia_tăng/V đặc_biệt/A là/C tỷ_lệ/N tai_nạn/N do/E lái_xe/N ô_tô/N gây/V nên/C (/N có/V tới/V 27%/M số/N vụ/N tai_nạn/N đường_bộ/N trong/E khi/N số/N ô/N tổ/N chỉ/R chiếm/V 6%/M tổng_số/N phương_tiện/N cơ_giới/N )/A 
+Nhận_xét/V chung/A Phó_Thủ/Np tướng/N Trương_Hoà_Bình/Np –/V Chủ_tịch/N UB/Np An_toàn/A giao_thông/N quốc_gia/N cho/V rằng/C công_tác/N đảm_bảo/V an_toàn/A giao_thông/N năm/N 2016/M đã/R đạt/V kết_quả/N tích_cực/A nhưng/C cũng/R có/V những/L diễn_biến/N mới/R phức_tạp/A 
+Nhấn_mạnh/V việc/N tai_nạn/N đã/R được/V kéo/V giảm/V ở/E cả/P 3/M tiêu_chí/N nhưng/C Phó_Thủ/Np tướng/N cũng/R nhắc/V việc/N còn/R nhiều/A vụ/N tai_nạn/N đặc_biệt/A nghiêm_trọng/A xảy_ra/V gây/V thiệt_hại/N lớn/A vẫn/R còn/V sự_cố/N huy/V hiếp/V an_toàn/A bay/V tình_hình/N ùn_tắc/V giao_thông/N tại/E Hà_Nội/Np TPHCM/Np có/V xu_hướng/N tăng/V và/CC ngày_càng/X phức_tạp/A hơn/R 
+Xe/N biển/N xanh/A Nhất_quyết/Np không/R du_di/V khi/N xử_lý/V Đại_diện/N Ban/N An/Np toàn/R giao_thông/N tỉnh/N Tây_Ninh/Np đề_cập/V chuyện/N thời_sự/A xe/N biển/N xanh/A biển/N trắng/A hiện_nay/N 
+Ông/N này/P khẳng_định/V Tây_Ninh/Np nhất_quyết/V xử_lý/V nghiêm/N xe/N vi_phạm/V biển/N xanh/A hay/C biển/N trắng/A đều/R như/C nhau/N 
+Không/R có/V vùng/N cấm/V trong/E việc/N xử_lý/V vi_phạm/V dù/C xe/N công/N hay/C xe/N tư_nhân/N chúng_tôi/P không/R có/V chuyện/N du_di/A khi/N xử_lý/V 
+Đã/R vi_phạm/V giao_thông/N các/L phương_tiện/N đều/R bình_đẳng/A chứ/C không/R nên/V đặt/V vấn_đề/N vì/E biển/N xanh/A biển/N trắng/A mà/C cân_đo/V 
+Biển_số/N cấp/V cho/E phương_tiện/N rõ_ràng/A là/V công_bằng/A không/R cần/V đề_cập/V nhiều_chuyện/N phải/V cùng/A trắng/A hay/C cùng/A xanh/A màu/N khác_nhau/A chỉ/R để/E phân_biệt/V các/L loại/N phương_tiện/N mà/C thôi/T –/Nu đại_diện/N Ban/N An/Np toàn/R giao_thông/N tỉnh/N Tây_Ninh/Np nêu/V quan_điểm/N 
+Chủ_tịch/N UBND/Np tỉnh/N An_Giang_Vương_Bình_Thạnh/Np cho/V rằng/C yếu_tố/N quan_trọng/A để/E kiểm_soát/V tai_nạn/N là/V phải/V làm_sao/X hạn_chế/V bớt/V tình_trạng/N nhật/N nhẹt/V rượu_chè/V 
+Chia_sẻ/V kinh_nghiệm/N của/E tỉnh/N này/P ông/Nc Thạnh/Np cho_biết/V chính_quyền/N tập_trung/V quán_triệt/V để/E hạn_chế/V tình_trạng/N cán_bộ/N công_chức/N ăn_nhậu/V nhất_là/X uống/V rượu_bia/N trong/E giờ/N nghỉ/V trưa/N 
+Tán_thành/V ý_kiến/N này/P Bộ_trưởng/N GTVT/Np Trương_Quang_Nghĩa/Np nhận_xét/V đi/V công_tác/V gần/A đây/P tới/E các/L tỉnh/N thành/V thì/C thấy/V buổi_trưa/N địa_phương/N nào/P cũng/R đều/R đã/R cấm/V tuyệt_đối/A chuyện/N rượu_bia/A 
+Việc/N này/P theo/E ông/Nc Nghĩa/Np đã/R mang/V lại/R kết_quả/N tích_cực/A đối_với/E công_tác/N đảm_bảo/V an_toàn/A giao_thông/N 
+Bộ_trưởng/N Giao_thông/N nhấn_mạnh/V kết_quả/N việc/N kiềm_chế/V tai_nạn/N phụ_thuộc/V rất/R lớn/A quyết_tâm/V sự/Nc sâu_sát/V của/E chính_quyền/N Đảng_bộ/N các/L địa_phương/N nhất_là/X trách_nhiệm/N người/N đứng/V đầu/N đúng/A như/C Chủ_tịch/N tỉnh/N An_Giang/Np đã/R trao_đổi/V 
+Chỉ_đạo/V thêm/V Phó_Thủ/Np tướng/N Trương_Hoà_Bình/Np cho_biết/V hiện_tại/N Ban/N Bí/Np thư/N TƯ/Np Đảng/Np Thủ_tướng/N Chính_phủ/N cũng/R có/V văn_bản/N chỉ_thị/N chỉ_đạo/V Tết/N này/P các/L địa_phương/N cấp/V dưới/N không/R về/V TƯ/Np không/R đi/V tết/N cấp/V trên/A không/R tặng/V quà/N 
+Quy_định/N cấm/V uống/V rượu_bia/N buổi_trưa/N trong/E giờ/N làm_việc/V cũng/R được/V TƯ/Np quán_triệt/V 
+Phó_Thủ/N tướng/N yêu_cầu/V các/L tỉnh/N chỉ_đạo/V cụ_thể/A chấp_hành/V nghiêm/N quy_định/N của/E Đảng/Np Chính_phủ/N 
+Mục_tiêu/N UB/Np An_toàn/A giao_thông/N quốc_gia/N đề/V ra/R cho/E năm/N 2017/M là/V tiếp_tục/V giảm/V tai_nạn/N giao_thông/N từ/E 5-10/M %/N ở/E cả/P 3/M tiêu_chí/N số/N vụ/N số/N người/N chết/V số/N người/N bị_thương/V so/V với/E năm/N 2016/M 
+Tiếp_tục/V cải_thiện/V tình_trạng/N ùn_tắc/V giao_thông/N tại/E Hà_Nội/Np TPHCM/Np không/R để/V xảy_ra/V ùn_tắc/V giao_thông/N kéo_dài/V trên/E 30/M phút/Nu 
+Năm/N an_toàn/A giao_thông/N 2017/M được/V xác_định/V chủ_đề/N “/V Xây_dựng/V văn_hoá/N giao_thông/N trong/E Thanh/Np Thiếu_niên/N với/E tinh_thần/N Tính_mạng/N con_người/N là/V trên_hết/N 
+P.Thảo/Np 

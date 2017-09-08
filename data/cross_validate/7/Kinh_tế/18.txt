@@ -1,0 +1,16 @@
+​/N Vietcombank/Np mở_rộng/V tính_năng/N dịch_vụ/N VCBMobile/N B/Np nking/V
+Kể/V từ/E ngày/N 17/M Ngân_hàng/N Ngoại_Thương/Np VN/Np Vietcombank/Np triển_khai/V mở_rộng/N phạm_vi/N tính_năng/N dịch_vụ/N VCBMobile/N B/Np nking/V bao_gồm/N dịch_vụ/N tiền/N gửi/V tiết_kiệm/N trực_tuyến/N và/CC dịch_vụ/N chuyển_tiền/V nhanh/A 247/M qua/N tài_khoản/N
+Với/E dịch_vụ/N tiền/N gửi/V tiết_kiệm/N trực_tuyến/N người_dùng/N có_thể/R gửi/V từ/E 3/M triệu/M đồng/Nu trở/V lên/R theo/V nhiều/A kì_hạn/N từ/E 14/M ngày/N đến/V 24/M tháng/N lãi_suất/N tiết_kiệm/V áp_dụng/V bằng/E với/E lãi_suất/N đang/R áp_dụng/V tại/N quầy/N
+Ngoài_ra/C người/N gửi/V tiền/N cũng/R có_thể/A tất_toán/V đúng/A hạn/N hoặc/N trước/A hạn/N thông_qua/N kênh/N giao_dịch/V trực_tuyến/N hoặc/N tại/E quầy/N giao_dịch/N
+Với/E dịch_vụ/N Chuyển_tiền/N nhanh/A 247/M qua/N tài_khoản/N khách/N hàng/N có_thể/R thực_hiện/V các/L giao_dịch/N chuyển_tiền/V ngay/T từ/E tài_khoản/N tiền/N gửi/V thanh_toán/N của/E mình/P tới/V người/N hưởng/V có/V tài_khoản/N tại/E ngân_hàng/N khác/A thông_qua/V hệ_thống/N của/E Công_ty/N cổ_phần/N Thanh_toán/N quốc_gia/N Việt_Nam/Np Napas/Np và/CC không/R bị/V giới_hạn/V về/E thời_gian/N giao_dịch/V
+Tài_khoản/N người/N hưởng/V được/V ghi/V có/V ngay/N sau/E khi/N trích/V nợ/N thành_công/V tài_khoản/N của/E người/N chuyển/V
+So/V với/E phương_thức/N chuyển_khoản/N thông_thường/A dịch_vụ/N đáp_ứng/V nhu_cầu/N chuyển/V nhận/V tiền/N nhanh/N tức_thì/N trong/E khi/N mức/N phí/N vẫn/R giữ/V nguyên/A ở/E mức/N 10000/M đồnggiao_dịch/N chưa/R bao_gồm/V VAT/Np
+Để/E sử_dụng/V phiên_bản/N mới/R người_dùng/V phiên_bản/N cũ/A làm/V theo/E các/L bước/N sau/A
+Đăng_nhập/N Apple_Store/Np hoặc/N Play_Store/Np chọn/V ứng_dụng/N Vietcombank/Np và/CC thực_hiện/V cập_nhật/N phiên_bản/N mới/A bằng/V cách/N ấn/N nút/N Update/Np
+Đăng_nhập/N ứng_dụng/N Vietcombank/Np phiên_bản/V mới/A vừa/R cập_nhật/V bằng/E số/N điện_thoại/N và/CC mật_khẩu/N đang/R sử_dụng/V trên/E phiên_bản/N cũ/A
+Đổi/V mật_khẩu/N mới/A và/CC xác_nhận/V bằng/E SMS/Np OTP/Np do/E Vietcombank/Np gửi/V về/V số/N điện_thoại/N của/E khách/N hàng/N
+Trường_hợp/N trước/N đó/P người_dùng/N đã/R đăng_kí/A nhưng/C chưa/R kích_hoạt/V sử_dụng/V dịch_vụ/N thì/N
+Tải/N ứng_dụng/N Vietcombank/Np trên/E Apple_Store/Np hoặc/N Play_Store/Np
+Kích_hoạt/N ứng_dụng/N vừa/R tải/N bằng/E mật_khẩu/N do/E Vietcombank/Np gửi/V qua/E tin_nhắn/N SMS/Np đến/V số/N điện_thoại/N đăng_kí/N sử_dụng/V dịch_vụ/N trong/E vòng/N 24h/M kể/N từ/E thời_điểm/N nhận/V được/R tin_nhắn/V
+Trường_hợp/N trước/N đó/P chưa/R đăng_kí/V dịch_vụ/N hoặc/N đã/R ngừng/V sử_dụng/V dịch_vụ/N thì_phải/V đăng_kí/N dịch_vụ/N VCB/Np Mobile/N B/Np nking/V tại/E quầy/N giao_dịch/N hoặc/N trên/E kênh/N Ngân_hàng/N trực_tuyến/N VCBiB/V nking/N
+Sau/N đó/P thực_hiện/V tiếp/R các/L bước/N tải/N và/CC kích_hoạt/N sử_dụng/V ứng_dụng/N

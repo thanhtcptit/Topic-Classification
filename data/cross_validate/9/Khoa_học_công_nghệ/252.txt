@@ -1,0 +1,28 @@
+Xem/V trực_tiếp/A sự_kiện/N ra_mắt/V i/N Phone/V 7/M mấy/L giờ/N ở/E đâu/P 
+Theo/E dự_kiến/N sự_kiện/N ra_mắt/V sản_phẩm/N mới/A của/E Apple/Np sẽ/R được/V tổ_chức/V vào/E thời_gian/N 10/M 00/M PDT/Np ngày/N 7/9/M (/N tức/E 0h/M ngày/N 8/9/M )/A theo/E giờ/N Việt_Nam/Np tại/E San_Francisco/Np Mỹ/Np 
+Nhiều/A khả_năng/N Apple/Np sẽ/R công_bố/V chiếc/Nc điện_thoại/N i/A Phone/Np 7/M được/V chờ_mong/V bấy_lâu/N cùng_với/C một/M phiên_bản/N Apple/Np TV/Np hoặc/CC đồng_hồ/N Apple_Watch/Np thế_hệ/N mới/A 
+Đây/P là/V một/M trong/E những/L sự_kiện/N quan_trọng/A nhất/A năm/N đối_với/E Apple/Np và/CC được/V đông_đảo/A người/N dùng/V công_nghệ/N trên/E toàn/N thế_giới/N theo_dõi/V 
+Hiểu/V rõ/A điều/N này/P Apple/Np từ/E trước/N đến/E nay/P luôn/R tạo/V điều_kiện/N thuận_lợi/A cho/E người/N xem/V dù/C là/V trên/E thiết_bị/N hay/C hệ_điều_hành/N nào/P đi_chăng_nữa/N 
+Dưới/E đây/P sẽ/R là/V cách_thức/N để/E xem/V trực_tiếp/A sự_kiện/N của/E Apple/Np 
+Đối_với/E Macbook/Np và/CC trình_duyệt/N Safari_Apple/Np luôn/R dành/V một/M phần/N ưu_ái/N không/R nhỏ/A cho/E các/L sản_phẩm/N và/CC dịch_vụ/N của/E hãng/N 
+Do_đó/C với/E lợi_thế/N là/V người/N sử_dụng/V trình_duyệt/N Safari/Np trên/E MacBook/Np bạn/N có_thể/A theo_dõi/V toàn_bộ/L diễn_biến/N của/E sự_kiện/N một_cách/N dễ_dàng/A thông_qua/V hệ_thống/N livestream/N chính_thức/A của/E Apple/Np 
+Tất_cả/P những/L gì/P bạn/N cần/V làm/V chỉ/R là/V hướng/N đến/E website/Np của/E sự_kiện/N vào/E thời_gian/N bắt_đầu/V buổi/N ra_mắt/V 
+Người/N dùng/V i/N Phone/Np iPad/N có/V cài_đặt/V i/N OS/Np 7/M trở_lên/A cũng/R có_thể/A theo_dõi/V trực_tiếp/A sự_kiện/N qua/V trình_duyệt/N Safari/Np sẵn/A có/V 
+Đối_với/E hệ_điều_hành/N Windows/Np 10/M Cũng/R giống/A như/C Safari/Np hệ_điều_hành/N Windows/Np 10/M có_thể/R dễ_dàng/A giúp/V bạn/N theo_dõi/V sự_kiện/N ra_mắt/V i/V Phone/Np 7/M thông_qua/V trình_duyệt/N Microsoft_Edge/Np 
+Bạn/N chỉ/R cần/V truy_cập/V đường/N link/V sau/A 
+Đây/P là/V một/M ngoại_lệ/N hiếm_hoi/A khi/N mà/C từ/E trước/N đến/E nay/P người/N dùng/V Windows/Np đều/R phải/V sử_dụng/V một/M phần_mềm/N cài_đặt/V của/E bên/N thứ/N 3/M mới/R có_thể/A theo_dõi/V được/R diễn_biến/V của/E sự_kiện/N 
+Chất_lượng/N hình_ảnh/N khi/N truyền_hình/N trực_tiếp/A vì_thế/C mà/C cũng/R kém/A đi/V phần/N ổn_định/A 
+Đối_với/E hệ_điều_hành/N Linux/Np và/CC Windows/Np 8.1/M trở_về/V trước/A Nếu_như/C không/R sử_dụng/V Windows/Np 10/M bạn/N sẽ/R gặp/V những/L rắc_rối/N nhất_định/A nếu/C muốn/V theo_dõi/V trực_tiếp/A sự_kiện/N của/E Apple/Np 
+Dưới/E đây/P là/V các/L bước/N hướng_dẫn/V 
+Đầu_tiên/N cũng/R là/V cách/N dễ_dàng/A nhất/A bạn/N có_thể/A tiến_hành/V cập_nhật/V lên/R Windows/Np 10/M 
+Theo/E như/C thông_báo/N chính_thức/A của/E Microsoft/Np thì/C ngày/N 29/7/M là/V hạn/N cuối_cùng/A để/E người/N dùng/V Windows/Np 7/8/M //X 8.1/M nâng_cấp/V lên/R Windows/Np 10/M miễn_phí/V 
+Tuy_nhiên/C cho_đến/E nay/N bạn/N vẫn/R có_thể/A tiến_hành/V cập_nhật/V mà/C không/R mất/V phí/N thông_qua/V dịch_vụ/N hỗ_trợ/V khách_hàng/N tại/E đường/N link/N sau/A 
+Nếu_như/C không/R muốn/V cập_nhật/V lên/R Windows/Np 10/M bạn_đọc/N có_thể/A tham_khảo/V phần_mềm/N đa_phương_tiện/N VLC/Np media/V player/N 
+Bạn/N có_thể/A tải/N về/V miễn_phí/V phần_mềm/N này/P qua/E đường/N link/N 
+Sau/E khi/N tiến_hành/V tải/N về/V và/CC cài_đặt/V hãy/R chạy/V chương_trình/N VLC/Np media/V player/N 
+Ở/E tab/N media/N chọn/V mục/N Open_Network_Stream/Np hoặc/CC sử_dụng/V phím/N tắt/V Ctrl/Np +/V N/Np 
+Sau/E đó/P dán/V đường/N link/A của/E sự_kiện/N ra_mắt/V i/V Phone/Np 7/M http/V //X //X www.apple.com/apple-events/september-2016/M //X 
+Cần/V lưu_ý/V rằng/C bạn/N chỉ/R có_thể/A xem/V được/R khi/N khi/N kênh/N livestream/N bắt_đầu/V được/V tạo/V vào/E 0h/M ngày/N 8/9/M tới/E đây/P 
+Người/N dùng/V hệ_điều_hành/N Linux/Np cũng/R có_thể/R xem/V trực_tiếp/A sự_kiện/N bằng/E cách/N thực_hiện/V các/L bước/N trên/A 
+Báo_Dân/Np trí/V sẽ/R tường_thuật/V trực_tiếp/A sự_kiện/N này/P 
+Nguyễn_Nguyễn_Theo_Techradar/Np 

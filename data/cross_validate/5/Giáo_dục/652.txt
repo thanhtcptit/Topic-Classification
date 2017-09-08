@@ -1,0 +1,18 @@
+Thi/V THPT/Np quốc_gia/N 2017/M Thí_sinh/N sẽ/R được/V thi/V cả/P 2/M môn/N tự/P chọn/V
+Ngày/N 5/12/M Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V Dự_thảo/N quy_chế/N thi/V THPT/Np quốc_gia/N 2017/M
+Có/V tất_cả/P 5/M bài/N thi/V gồm/V Toán/Np Ngữ_văn/N Ngoại_ngữ/N Khoa_học_tự_nhiên/N /M tổ_hợp/N các/L môn/N Vật_lý/N Hóa_học/N Sinh_học/N /A và/CC Khoa_học_xã_hội/N /V tổ_hợp/N các/L môn/N Lịch_sử/N Địa_lý/N Giáo_dục/N công_dân/N đối_với/E Giáo_dục/N THPT/Np tổ_hợp/N các/L môn/N Lịch_sử/N Địa_lý/N đối_với/E Giáo_dục/N thường_xuyên/A /V
+Để/E xét/V công_nhận/V tốt_nghiệp/V THPT/Np thí_sinh/N dự/V thi/V 4/M bài/N gồm/V 3/M bài/N bắt_buộc/V Toán/Np Ngữ_văn/N Ngoại_ngữ/N và/CC một/M bài/N tự/P chọn/V hoặc/CC là/V Khoa_học_tự_nhiên/N hoặc/CC Khoa_học_xã_hội/N
+Thí_sinh/N Giáo_dục/N thường_xuyên/A phải/V dự/V thi/V 3/M bài/N gồm/V Toán/Np Ngữ_văn/Np và/CC một/M bài/N tự/P chọn/V /N Khoa_học_tự_nhiên/N hoặc/CC Khoa_học_xã_hội/N /V
+Thí_sinh/N được/V dự/V thi/V cả/P 2/M bài/N Khoa_học_tự_nhiên/N và/CC Khoa_học_xã_hội/N điểm/N bài/N nào/P cao/A hơn/R sẽ/R được/V tính/V để/E xét/V công_nhận/V tốt_nghiệp/V THPT/Np  /M Việc/N thi/V cả/P 5/M bài/N đối_với/E thí_sinh/N THPT/Np và/CC 4/M bài/N đối_với/E hệ/N Giáo_dục/N thường_xuyên/A cũng/R sẽ/R tăng/V cơ_hội/N xét/V tuyển_sinh/V đại_học/N cao_đẳng/N  /EOS
+Để/E xét/V tuyển/V đại_học/N cao_đẳng/N thí_sinh/N tự_do/A đã/R tốt_nghiệp/V THPT/Np phải/V dự/V thi/V các/L bài/N và/CC môn/N thành_phần/N của/E bài/N Khoa_học_tự_nhiên/N Khoa_học_xã_hội/N phù_hợp/V với/E tổ_hợp/N môn/N thi/V xét/V tuyển/V vào/E ngành/N nhóm/N ngành/N
+Nội_dung/N thi/V THPT/Np quốc_gia/N vẫn/R giữ/V nguyên/A lộ_trình/N đưa/V kiến_thức/N vào_đề/A như/C công_bố/V phương_án/N thi/V ngày/N 28/9/M là/V năm/N 2017/M nằm/V trong/E chương_trình/N lớp/N 12/M THPT/Np năm/N 2018/M mở_rộng/V sang/V cả/P chương_trình/N lớp/N 11/M
+Từ/E năm/N 2019/M trở/V đi/V nội_dung/N thi/V năm/N trong/E chương_trình/N toàn/R cấp/V THPT/Np
+Điểm/N mới/A của/E kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2017/M là/V thí_sinh/N tự_do/A đã/R tốt_nghiệp/V THPT/Np sẽ/R phải/V thi/V ở/E phòng/N riêng/A
+Nhóm/N này/P được/V xếp/V phòng/N thi/V ở/E một/M hoặc/CC một_số/L điểm/N do/E Giám_đốc/N Sở/N Giáo/N dục/N và/CC Đào_tạo/N quyết_định/V
+Thí_sinh/N Giáo_dục/N thường_xuyên/A cũng/R được/V bố_trí/V phòng/N thi/V riêng/A khi/N dự/V thi/V bài/N Khoa_học/N Xã_hội/N
+Dự_thảo/N nêu/V rõ/A mỗi/M phòng/N thi/V tối_đa/A 24/M thí_sinh/N khoảng_cách/N tối_thiểu/A giữa/E 2/M người/N ngồi/V cạnh/N nhau/N là/V 1,2/M mét/Nu theo/E hàng/N ngang/A  /EOS
+Kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2017/M vẫn/R thống_nhất/V sử_dụng/V phần_mềm/N quản_lý/V thi/V do/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N cung_cấp/V
+Phiếu/N trả_lời/V trắc_nghiệm/V của/E thí_sinh/N phải/V được/V chấm/V bằng/E máy/N với/E cùng/A một/M phần_mềm/N chuyên_dụng/A của/E Bộ/N
+Điểm/N bài/N thi_trắc_nghiệm/V được/R  /M quy_đổi/N bằng/E máy_tính/N sang/V thang/N điểm/N 10/M làm_tròn/V đến/E hai/M chữ_số/N thập_phân/V cho/E từng/P bài/N thi/V trắc/V  /N nghiệm/V
+Điểm/N bài/N thi/V tự/P luận/V lấy/V đến/E 0,25/M không/R quy/V tròn/A điểm/N
+So/V với/E phương_án/N thi_công/V bố/N cuối/N tháng/N 9/M dự_thảo/N lần/N này/P vẫn/R chưa/R đề_cập/V ngày/N thi/V THPT/Np quốc_gia/N

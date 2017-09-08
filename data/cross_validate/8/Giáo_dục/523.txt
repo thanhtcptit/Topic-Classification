@@ -1,0 +1,11 @@
+Phổ_thông/N Năng_khiếu/Np tại/E TP_HCM/Np tuyển/V gần/A 600/M học_sinh/N lớp/N 10/M
+Chiều/N 21/3/M trường/N Phổ_thông/N Năng_khiếu/Np /V ĐHQG_TP_HCM/Np /V công_bố/V kế_hoạch/N tuyển_sinh/V 590/M chỉ_tiêu/N vào/E lớp/N 10/M
+Tại/E cơ_sở/N 1/M /Nu 153/M Nguyễn_Chí_Thanh/Np quận/N 5/M /Nu trường/N tuyển/V 245/M học_sinh/N cho/E 7/M lớp/N chuyên/A Toán/Np Tin_học/N Vật_lý/N Hóa_học/N Sinh_học/N tiếng/N Anh/Np và/CC Ngữ_văn/N với/E mỗi/L lớp/N không/R quá/R 35/M học_sinh/N
+Hệ/N không/R chuyên/A tuyển/V 135/M học_sinh/N cho/E 3/M lớp/N mỗi/L lớp/N không/R quá/R 45/M học_sinh/N
+Cơ_sở/N 2/M /Nu Khu_đô_thị/N ĐHQG_TP_HCM/Np quận/N Thủ_Đức/Np /V tuyển/V 210/M học_sinh/N cho/E 6/M lớp/N chuyên/A Toán/Np Vật_lý/N Hóa_học/N Sinh_học/N tiếng/N Anh/Np và/CC Ngữ_văn/N mỗi/L lớp/N không/R quá/R 35/M học_sinh/N
+Để/E xét/V tuyển/V vào/E lớp/N 10/M Phổ_thông/N Năng_khiếu/Np thí_sinh/N phải/V thi/V 4/M môn/N gồm/V 3/M môn/N thi/V không/R chuyên/A bắt_buộc/V là/V Toán/Np Ngữ_văn/N Tiếng_Anh/Np và/CC một/M môn/N chuyên/A do/E thí_sinh/N tự/P chọn/V
+Học_sinh/N tham_gia/V dự/V thi/V phải/V có_tuổi/V là/V 15/M với/E những/L em/N học/V vượt/V lớp/N ở/E bậc/N THCS/Np hoặc/CC vào/E cấp/N học/V này/P ở/E độ/N tuổi/N cao/A hơn/R quy_định/N thì/C tuổi/N vào/E lớp/N 10/M được/V xem_xét/V giảm/V hoặc/CC tăng/V
+Trước/E đó/P trường/N Trung_học/N Thực_hành/V /M Đại_học/N Sư_phạm/N TP_HCM/Np /A cũng/R thông_báo/V tuyển/V 3/M lớp/N 10/M chuyên/A Toán/Np Văn/Np và/CC tiếng/N Anh/Np với/E mỗi/L lớp/N 35/M học_sinh/N
+Thí_sinh/N phải/V thi/V 3/M môn/N cơ_bản/A Toán/Np Văn/Np tiếng/N Anh/Np /V hệ_số/N 1/M /Nu và/CC một/M môn/N chuyên/A đăng_ký/V /N hệ_số/N 2/M /V trong/E hai/M ngày/N 5/M và/CC 6/6/M  /M Đề/Np thi/V được/R áp_dụng/V theo/E hình_thức/N tự/P luận/V
+Riêng/T đề/N thi/V môn/N tiếng/N Anh/Np được/V áp_dụng/V cả/P hai/M hình_thức/N tự/P luận/V và/CC trắc_nghiệm/V khách_quan/N
+Ngoài_ra/C trường/N Trung_học/N Thực_hành/V cũng/R tuyển/V 190/M học_sinh/N vào/E lớp/N 10/M thường/R theo/V kỳ/N thi/V do/E Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np tổ_chức/V

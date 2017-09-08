@@ -1,0 +1,10 @@
+Cứu/V sống/V bé/N trai/N Campuchia/Np bị/V huỷ/V cơ/N suy/V thận/N
+Ngày/N 165/M bác_sĩ/N Đặng_Thanh_Tuấn/Np trưởng/N Khoa_Hồi_sức/N ngoại/N Bệnh_viện/N Nhi_Đồng/Np 1/M TPHCM/Np cho/V biết/V các/L bác_sĩ/N bệnh_viện/N này/P vừa/R cứu/V sống/V bé/N trai/N SLH/Np 6/M tuổi/N người/N Campuchia/Np
+Trước/E đó/P ngày/N 274/M gia_đình/N tự/N đưa/V bé/N đến/V Bệnh_viện/N Nhi_Đồng/Np 1/M trong/E tình_trạng/N người/N bị/V phù/N tiểu/V ít/A
+Trước/E đó/P 5/M ngày/N bé/N bị/V té/V khi/N leo/V cây/N
+Sau/N đó/P bé/N nhập_viện/V tại/E một/M bệnh_viện/N ở/V Campuchia/Np với/E chẩn_đoán/N gãy/N xương/N đùi/N bên/N phải/A chèn_ép/V khoang/N chấn_thương/N đầu/N
+Bé/N được/V rạch/N giải/N áp/N chèn_ép/N khoang/N cẳng_chân/N phải/V bất_động/V ngoài/N đùi/N phải/V
+Sau/E ba/M ngày/N điều_trị/V bé/N tiểu/V ít/A phù/N toàn_thân/N sau/N đó/P được/V chuyển/V đến/E Bệnh_viện/N Nhi_Đồng/Np 1/M
+Theo/E bác_sĩ/N Thanh_Tuấn/Np điều/N đặc_biệt/A của/E trường_hợp/N này/P là/V mới_đầu/N bé/N chỉ/R bị/V gãy/V xương/N đùi/N nhưng/C sau/N đó/P đã/R bị/V chèn_ép/V khoang/N huỷ/N cơ/N suy/V thận/N cấp/N do/N tắc_nghẽn/A ống/N thận/N
+Bệnh_nhi/N đã/R được/V lọc/V máu/N liên_tục/A điều_trị/V kháng_sinh/N giảm/A đau/V chăm_sóc/V tại_chỗ/N vết_thương/N điều_trị/V nâng_đỡ/N chế_độ/N dinh_dưỡng/N phù_hợp/V với/E bệnh_lí/N suy/V thận/N
+Hiện/N bé/N tỉnh_táo/A ăn_uống/V được/R đi_tiểu/V trở_lại/V

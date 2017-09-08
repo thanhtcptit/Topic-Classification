@@ -1,0 +1,11 @@
+Thêm/V 2/M doanh_nghiệp/N đa_cấp/N bị/V xóa_sổ/V 
+Cục/N Quản/Np lý/N Cạnh_tranh/V Bộ/N Công_Thương/Np hôm_nay/N 20/2/M vừa/R thông_báo/V chấm_dứt/V hoạt_động/V kinh_doanh/V của/E hai/M doanh_nghiệp/N đa_cấp/N là/V Công_ty/N TNHH/Np Triwonder_International/Np và/CC Công_ty/N TNHH/Np Isagenix_Việt_Nam/Np 
+Công_ty/N TNHH/Np Triwonder_International/Np hiện/N đặt/V trụ_sở/N chính/T tại/E Tầng/N 15/M tòa/N nhà/N An_Phú/Np 24/M Hoàng_Quốc_Việt/Np Nghĩa_Đô/Np Cầu_Giấy/Np Hà_Nội/Np do/E ông/Nc Nguyễn_Anh_Sơn/Np làm/V người/N đại_diện/V pháp_luật/N 
+Công_ty/N có/V giấy/N chứng_nhận/V đăng_ký/V hoạt_động/V bán/V hàng/N đa_cấp/N được/V Bộ/N Công_Thương/Np cấp/V lần/N đầu/N ngày/N 15/8/2015/M cấp/N sửa_đổi/N bổ_sung/V lần/N thứ/N 1/M vào/E ngày/N 16/9/2016/M 
+Theo/E Bộ_Công_Thương/Np lý_do/N khiến/V công_ty/N này/P bị/V thu_hồi/V giấy_phép/N kinh_doanh/V là/V bởi/E doanh_nghiệp/N đã/R không/R triển_khai/V hoạt_động/N bán/V hàng/N đa_cấp/N trong/E thời_hạn/N 12/M tháng/N liên_tục/A kể/V từ/E ngày/N được/V cấp/V Giấy/N chứng_nhận/V đăng_ký/V hoạt_động/V bán/V hàng/N đa_cấp/N 
+Thời_gian/N bắt_đầu/V chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/N từ/E ngày/N 12/10/2016/M trên/E phạm_vi/N chấm_dứt/V hoạt_động/V trên/E toàn_quốc/N 
+Doanh_nghiệp/N đa_cấp/N thứ/N 2/M bị/V khai_tử/V là/V Công_ty/N TNHH/Np Isagenix_Việt/Np nam/N có/V trụ_sở/N chính/A Ô/N số/N 2/M Tầng/N M/Np Tòa/N nhà/N Sông_Hồng/Np Số/N 165/M Thái_Hà/Np phường/N Láng_Hạ/Np quận/N Đống_Đa/Np thành_phố/N Hà_Nội/Np do/E ông/N Kevin_Patricks_Adams/Np làm/V người/N đại_diện/V theo/E pháp_luật/N 
+Công_ty/N có/V giấy/N chứng_nhận/V đăng_ký/V hoạt_động/V bán/V hàng/N đa_cấp/A lần/N đầu/N ngày/N 23/1/2015/M cấp/N sửa_đổi/N bổ_sung/V lần/N thứ/N 4/M vào/E ngày/N 22/1/2016/M 
+Thời_gian/N bắt_đầu/V chấm_dứt/V hoạt_động/V kinh_doanh/V bán/V hàng/N đa_cấp/N từ/E 14/3/2016/M phạm_vi/N chấm_dứt/V kinh_doanh/V trên/E toàn_quốc/N 
+Bộ/N Công_Thương/Np cũng/R đề_nghị/V công_ty/N giải_tỏa/V số/N tiền/N ký_quỹ/V với/E lý_do/N công_ty/N giải_thể/V và/CC chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/N 
+Phương_Dung/Np 

@@ -1,0 +1,18 @@
+​/V Gần/A nửa/M lượng/N tấn_công/N lừa_đảo/V năm/N 2016/M nhắm/N vào/V túi/N tiền_của/N bạn/N
+Trong/E đó/P hơn/A 735/M triệu/N người_dùng/N bị/V tấn_công/V tài_chính/N mục_đích/N là/V lấy/V thông_tin/N cá_nhân/A của/E người_dùng/N như/C số/N thẻ/N ngân_hàng/N tài_khoản/N tín_dụng/N mật_khẩu/N mạng_xã_hội/N và/CC thông_tin/N đăng_nhập/V ngân_hàng/N điện_tử/N
+Tội_phạm/N mạng/N dùng/V những/L thông_tin/N này/P để/E đánh_cắp/V tiền_của/N nạn_nhân/N hành_động/V chiếm/V tỉ_lệ/N cao/A nhất/A trong/N tấn_công/V tài_chính/N được/V Kaspersky_Lab/Np ghi_nhận/V cho/T đến/V nay/N
+Tấn_công/V ngân_hàng/N đứng/V đầu/N trong/N tất_cả/N các/L loại/N lừa_đảo/N tài_chính/N
+¼/N số/N cuộc/N tấn_công/V 2576/M sử_dụng/N thông_tin/N ngân_hàng/N điện_tử/N giả_mạo/V hoặc/N những/L thông_tin/N khác/A có/V liên_quan/V đến/R ngân_hàng/N
+Kết_quả/N là/C tỉ_lệ/N này/P tăng/V 831/M so/V với/E năm/N 2015/M
+Tỉ_lệ/N lừa_đảo/N liên_quan/V đến/E hệ_thống/N thanh_toán/V và/CC mua_sắm/V trực_tuyến/N chiếm/V lần_lượt/N 1155/M và/N 1014/M tăng/N 375/M và/N 109/M so/V với/E năm/N 2015/M
+Tỉ_lệ/N lừa_đảo/N tài_chính/N được/V phát_hiện/V trên/E máy_tính/N MacOS/N là/V 3138/M
+Những/L kẻ/N tiến_hành/V tấn_công/N tài_chính/N đặc_biệt/A thích/N sử_dụng/V dữ_liệu/N thuộc/V những/L ngân_hàng/N đa/N quốc_gia/N hệ_thống/N thanh_toán/V phổ_biến/V và/N cửa_hàng/N trên/E Internet/N và/CC các/L cuộc/N đấu_giá/V tại/E Hoa_Kỳ/Np Trung_Quốc/Np và/CC Brazil/Np
+Nadezhda_Demidova/N nhà/N phân_tích/V web/N tại/E Kaspersky_Lab/Np chia_sẻ/V Lừa_đảo/N tài_chính/N vẫn/R đang/R là/V một/M trong/E những/L cách/N dễ/A nhất/A để/E tội_phạm/N mạng/N kiếm/V những/L đồng_tiền/N phi_pháp/N
+Bạn/N không/R cần/V phải/V là/V lập_trình_viên/N có/V tay_nghề/N và/CC không/R cần/V đầu_tư/V nhiều/A tiền/N vào/V cơ_sở/N vật_chất/N
+Dĩ_nhiên/N phần_lớn/N kế_hoạch/N lừa_đảo/V đều/N dễ_dàng/A bị/V phát_hiện/V và/N ngăn_chặn/V nhưng/C xét/V về/V số_liệu/N chúng_tôi/N thu_thập/V được/V thì/N rất/R nhiều/A người/N vẫn/R đang/R mất/V cảnh_giác/N với/E dữ_liệu/N tài_chính/N trực_tuyến/N nếu/C không/R chúng_tôi/P đã/R không/R ghi_nhận/V nhiều/A cuộc/N tấn_công/V như/C vậy/P trong/E năm/N 2016/M
+Làm_gì/N để/V tự/R bảo_vệ/V mình/N
+Khi/N thực_hiện/V thanh_toán/N trực_tuyến/N kiểm_tra/V website/N có/V hợp_pháp/N hay/C không/R
+Kết_nối/N có_thể/R được/V bảo_vệ/V bằng/E Https/Np và/CC tên_miền/N thuộc/V tổ_chức/N mà/C bạn/N đang/R tiến_hành/V chi_trả/V
+Luôn/R kiểm_tra/V mức_độ/N thật/N của/E email/N bạn/N nhận/V được/R từ/V nhiều/A cái/Nc tên/N nổi_tiếng/A
+Thậm_chí/C khi/N các/L email/N này/P yêu_cầu/V bạn/N làm/V việc_gì/N đó/P khẩn_cấp/A như/C thay_đổi/N mật_khẩu/N đầu_tiên/A phải/V chắc/A rằng/C chúng/R được/V gửi/V từ/E nguồn/N chính_thống/N và/CC liên_hệ/N ngân_hàng/N hoặc/N đại_diện/V hệ_thống/N thanh_toán/V để/E tìm_hiểu/V xem/V email/N đó/P có/V thật_sự/N được/V gửi/V từ/E họ/N hay/V không/R
+Không_kích/N chuột/V vào/V đường_dẫn/N trong/E email/N hoặc/N trang_web/N mà/C bạn/N nghi_ngờ/V về/E độ/N xác_thực/A của/N chúng/N

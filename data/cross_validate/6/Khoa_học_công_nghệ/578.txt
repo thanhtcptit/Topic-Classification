@@ -1,0 +1,22 @@
+Trung_Quốc/Np tham_vọng/N chế_tạo/V chùm/Nc neutron/N mạnh/A nhất/A thế_giới/N
+Theo/E South_China_Morning_Post/Np máy/N phát/V neutron/N nhiệt_hạch/N D_T/Np cường_độ/V cao/A Hineg/Np tại/E Viện_Khoa/Np học/V Vật_lý/N thuộc/V Viện_Hàn/Np lâm/V Khoa_học/N Trung_Quốc/Np tại/E Hợp_Phì/Np thủ_phủ/N tỉnh/N An_Huy/Np ở/E miền/N đông/N Trung_Quốc/Np sản_sinh/V hơn/R một_nghìn/N tỷ/N neutron/V mỗi/M giây/N trong/E lần/N chạy/V thử_nghiệm/V vào/E ngày/N 9/1/M
+Một/M nhóm/N các/L nhà_vật_lý/N hạt_nhân/N dẫn_đầu/V là/V giáo_sư/N Wu_Yican/Np bắn/V deuterium/N một/M đồng_vị/N bền/N của/E hydro/N vào/E một/M bia/N làm_bằng/V tritium/N một/M đồng_vị/N khác/A của/E hydro/N có/V tính/N phóng_xạ/V cao/A
+Hai/M đồng_vị/N này/P khi/N hợp/V lại/R tạo/V thành/V helium/N đồng_thời/R bức_xạ/V ra/R một/M neutron/N với/E động_năng/N rất/R lớn/A
+Khi/N quá_trình/N nhiệt_hạch/N tiếp_tục/V xảy_ra/V các/L nhà_khoa_học/N sẽ/R thu/V được/R một/M chùm/Nc neutron/N ổn_định/A với/E năng_lượng/N cao/A
+Máy/N phát/V neutron/N là/V một/M phần/N quan_trọng/A của/E vũ_khí_hạt_nhân/N hiện_đại/A
+Nó/P tạo/V ra/R một/M chùm/Nc neutron/N để/E kích_hoạt/V chuỗi/Nc phản_ứng/N phân_hạch/V hoặc/CC nhiệt_hạch/V trong/E đầu/N đạn/N hạt_nhân/N
+Một/M máy/N phát/V neutron/N tiên_tiến/A có_thể/R giúp/V giảm/V đáng_kể/A kích_thước/N và/CC trọng_lượng/N của/E vũ_khí_hạt_nhân/N thông_thường/A
+Ngoài_ra/C bản_thân/N máy/N phát/V neutron/N cũng/R có_thể/R được/V sử_dụng/V như/C một/M vũ_khí/N nguy_hiểm/A
+Bom/N neutron/V tạo/V ra/R chùm/Nc neutron/N mạnh/A có_thể/R hủy_diệt/V sự/N sống/V trong/E bán_kính/N nhiều/A km/Nu mà/C không/R làm/V hư_hại/N các/L tòa/N nhà/N và/CC xe_tăng/N
+Đó/P là/V do/E các/L neutron/N được/V gia_tốc/N có_thể/R phá_hủy/V tế_bào/N hữu_cơ/A nhưng/C lại/R xuyên/V qua/E nhiều/A vật_liệu/N vô_cơ/A
+Bom/N neutron/V tạo/V ra/R ít/A bụi/N phóng_xạ/N không/R gây/V độc_hại/A cho/E môi_trường/N trong/E một/M thời_gian/N dài/A sau/E đó/P
+Theo/E các/L nhà_khoa_học/N Trung_Quốc/Np máy/N phát/V neutron/N cực/N mạnh/A tại/E Hợp_Phì/Np chủ_yếu/A phục_vụ/V cho/E mục_đích/N dân_sự/N
+Giáo_sư/N Wu/Np cho_biết/V máy/N phát/V neutron/N sẽ/R được/V sử_dụng/V để/E kiểm_tra/V sự/N phân_hủy/V của/E các/L kim_loại/N đặc_biệt/A được/R sử_dụng/V cho/E các/L lò/N phản_ứng/V tổng_hợp/V hạt_nhân/N trong/E tương_lai/N
+Ngoài_ra/C máy/N phát/V neutron/N Hineg/Np còn/R được/V dùng/V để/E giả_lập/V các/L môi_trường/N khắc_nghiệt/V bên/N trong/E lò/N phản_ứng/V nhiệt_hạch/N
+Ứng_dụng/N này/P giúp/V các/L nhà_khoa_học/N tìm/V ra/R những/L hợp_kim/N có/V khả_năng/N chịu/V được/R sự/Nc bắn/V phá/V của/E neutron/N năng_lượng/N cao/A khi/N lò/N phản_ứng/V nhiệt_hạch/N hoạt_động/V
+Với/E lần/N thử_nghiệm/V thành_công/N này/P các/L nhà_khoa_học/N dự_định/V sẽ/R tăng/V công_suất/N của/E máy/N phát/V Hineg/Np lên/V 100/M lần/N trong/E vài/L năm/N tới/V biến/V nó/P trở_thành/V máy/N phát/V neutron/N mạnh/A nhất/A trên/E thế_giới/N
+Tuy_nhiên/C nhóm/N nghiên_cứu/V vẫn/R còn/R phải/V vượt/V qua/R một_số/L rào_cản/N kỹ_thuật/N
+Một/M trong/E những/L thách_thức/N lớn/A nhất_là/C làm/V thế_nào/P để/E làm/V mát/A cho/E bia/N Tritium/Np nơi/N thường/R có/V nhiệt_độ/N rất/R cao/A khi/N bị/V chùm/Nc deuterium/N bắn/V vào/E
+Li_Yuan/Np một/M giáo_sư/N vật_lý/N tại/E Đại_học/N Bắc_Kinh/Np chuyên_gia/N về/E neutron/N cho_biết/V Trung_Quốc/Np vẫn/R đi_sau/V các/L nước/N phương/N Tây/Np về/E công_nghệ/N máy/N phát/V neutron/N
+Nhiều/A thí_nghiệm/N đòi_hỏi/V nguồn/N neutron/N mạnh/A phải/V tiến_hành/V ở/E nước_ngoài/N do/E các/L điều_kiện/N thí_nghiệm/V ở/E mức/N trung_bình/A tại/E Trung_Quốc/Np Li/Np nói/V
+Thử_nghiệm/V thành_công/V với/E máy/N Hineg/Np là/V một/M bước_tiến/N quan_trọng/A giúp/V Trung_Quốc/Np thu_hẹp/V khoảng_cách/N với/E các/L nước/N khác/A như/C Mỹ/Np trong/E những/L năm/N tới/V

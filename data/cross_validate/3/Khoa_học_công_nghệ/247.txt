@@ -1,0 +1,13 @@
+​/N Máy_tính/N Windows/Np cần/V tải/N ngay/N bản/N cập_nhật/V này/N
+Một/M lỗi/N trong/E dịch_vụ/N tìm/V kiếm/V Windows_Search/Np trong/E Windows/Np chứa/V lỗ_hổng/N bảo_mật/N có_thể/A bị/V khai/V thác/N tấn_công/V chạy/V mã/N gây/V hại/V từ/E xa/N chiếm/V toàn_quyền/N quản_trị/V một/M hệ_thống/N
+Sau/E động_thái/N bất_thường/A của/E Microsoft/Np khi/N phát_hành/V khẩn_cấp/V bản/N vá/V lỗi/N chống/V mã/V độc/N tống/V tiền/N WannaCry/V cho/E Windows/Np XP/Np dù/N đã/R hết/V hạn/N hỗ_trợ/V theo/E vòng/N đời/N sản_phẩm/N người_dùng/A Windows/Np XP/Np tiếp_tục/V nhận/V bản/N vá/V mới/A trong/E đợt/N phát_hành/V này/N
+Trung_tâm/N Phòng_thủ/V Không_gian/N mạng/N của/N Microsoft/Np
+Một/M lỗi/N khác/A mang/V số_hiệu/N CVE/Np 20178464/M đang/R bị/V khai_thác/V tấn_công/V
+Tội_phạm/N mạng/N nhắm/V vào/R cách_thức/N mà/E các/L biểu_tượng/N icon/N hiển_thị/N để/E nhúng/V mã/N độc/A
+Trình_duyệt/N web/N Microsoft_Edge/Np và/CC Internet_Explorer/Np cũng/R có/V vài/L lỗ_hổng/N bảo_mật/V mang/V số_hiệu/N CVE/Np 20178498/M CVE/Np 20178530/M và/N CVE/Np 20178523/M nhưng/N Microsoft/Np chưa/R ghi_nhận/V các/L cuộc/N tấn_công/V nhắm/V vào/E các/L lỗi/N này/P
+Microsoft/N khuyến_cáo/N người_dùng/N tải/N và/CC cài_đặt/V nhanh/A các/L tập_tin/N cập_nhật/V từ/E website/N Microsoft/Np hoặc/N bật/V chế_độ/N cập_nhật/V tự_động/A cho/V Windows_Update/Np
+Bài_học/N về/E sự/Nc chậm_trễ/N cập_nhật/V các/L bản/N vá/V lỗi/N phần_mềm/N như/C Windows/Np đã/R tiếp_tay/V mã/V độc/N WannaCry/N hoành_hành/V khắp/A thế_giới/N người_dùng/N cá_nhân/N lẫn/V các/L doanh_nghiệp/N nên/C hành_động/V ngay/R trước/E khi/N trở_thành/V nạn_nhân/N của/E một/M biến_thể/N mã/N độc/A mới/A
+Đối_với/N người/N dùng/V Windows_Server/Np 2008/M Windows/Np 7/M Windows_Server/Np 2008/M R2/Np Windows_Server/Np 2012/M Windows/Np 81/M Windows/Np 81/M RT/Np Windows_Server/Np 2012/M R2/Np Windows/Np 10/M hay/N Windows_Server/Np 2016/M xem/N Tại/N đây/P
+Đối_với/N người/N dùng/V Windows/Np XP/Np Windows_Vista/Np Windows/Np 8/M Windows_Server/Np 2003/M hay/N Windows_Server/Np 2003/M R2/Np xem/V Tại/E đây/P
+Để/E kiểm_tra/V xem/V mình/N đang/R dùng/V phiên_bản/N Windows/Np nào/R bạn/N nhấn/N tổ_hợp/N phím/N Windows/Np R/Np gõ/V msconfig/V vào/E hộp_thoại/N Run/Np rồi/C nhấn/V Enter/Np
+Thông_số/N máy_tính/N và/CC phiên_bản/N Windows/Np sẽ/R xuất_hiện/V

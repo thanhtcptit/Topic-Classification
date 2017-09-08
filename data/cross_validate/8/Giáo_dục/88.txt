@@ -1,0 +1,45 @@
+Ngày/N đầu_tiên/A thi/V THPT/Np quốc_gia/N 2017/M Đề/Np thi/V quá/V an_toàn/A
+Theo/E thống_kê/N của/E Ban/N chỉ_đạo/N thi/V THPT/Np quốc_gia/N tất_cả/N hội_đồng/N thi/V trên/E toàn_quốc/N đã/R ghi_nhận/V có/V 50/M trường_hợp/N thí_sinh/N vi_phạm/V kỉ_luật/N trong/N đó/N có/V 1/M trường_hợp/N bị/V cảnh_cáo/V và/N 49/M trường_hợp/N bị/V đình_chỉ/V thi/V do/E vi_phạm/N quy_chế/N
+Tỉ_lệ/N thí_sinh/N dự/V thi/V môn/N toán/N và/CC văn/N đều/R đạt/V trên/N 99/M
+Đề/N văn/N dễ_thở/N
+Cô/N Hà_Thanh/Np giáo_viên/N Trường/N THPT/Np Lê_Quý_Đôn/Np Hà_Nội/Np nhận_định/V Đề/Np văn/N rất/R an_toàn/A dễ_thở/A không_chỉ/N đối_với/N học_sinh/N ban/N D/Np mà_cả/V ban/N A/Np
+Với/E những/L em/N không/R để_tâm/V nhiều/A môn/N văn/N cũng/R có_thể/A đạt/V được/R yêu_cầu/V để/V tốt_nghiệp/V
+Thí_sinh/N ban/N A/N đạt/V điểm/N 56/M đối_với/N đề/N thi/V này/N không/R khó/A
+Điểm/N 7/M có_thể/N sẽ/R nhiều/A hơn/R đối_với/N thí_sinh/N ban/N D/Np
+Tuy_nhiên/C để/V đạt/V từ/E 8/M điểm/N trở/V lên/R với/E đề/N thi/N này/P không/R phải/A dễ/A vì/N ngay/R cả/R phần/N đọc/V hiểu/V tuy/C không/R quá/R khó/A nhưng/C để/E xâu_chuỗi/V viết/V logic/N thuyết_phục/N không/R phải/A nhiều/A thí_sinh/N làm/V được/R
+Một/M giáo_viên/N dạy/V văn/N THPT/Np tại/E Đà_Nẵng/Np cũng/R cho/V biết/V Đề/Np văn/N có/V cấu_trúc/N quá/R cũ/A
+Đây/P là/V dạng/N đề/V ra/R để/E đảm_bảo/V sự/N an_toàn/V cho/V thí_sinh/N
+Theo/E giáo_viên/N trên/N kiểu/N đề/N này/P có/V cấu_trúc/N dạng/N đọc/V hiểu/V đoạn/N trích/V rồi/C yêu_cầu/V chỉ/V ra/R phương_thức/N biểu_đạt/V
+Với/E phần/N làm/V văn/N trình_bày/N suy_nghĩ/V về/V cuộc_sống/N hay/V cảm_nhận/V về/V đoạn/N thơ/N là/V quá/N dễ/A
+Giáo_viên/N này/P cũng/R nói/V thêm/V dạng/N đề/N trên/N sẽ/R khó/A phân_hoá/V được/R thí_sinh/V
+Đề/N toán/N tương_tự/A đề/N minh_hoạ/V
+Thầy_Nguyễn_Quốc_Chí/Np giáo_viên/N toán/N ở/V Hà_Nội/Np nhận_xét/N Đề/Np thi/V toán/N tương_tự/N cấu_trúc/N đề/N thi/V minh_hoạ/N mà/N Bộ/N GDĐT/Np đã/R công_bố/V
+Trong/E tất_cả/N các/L mã_đề/N 30/M câu_đầu/N đều/R hết_sức/R cơ_bản/A khá/R dễ/A và/N có_thể/R làm/V nhanh/A
+Từ/E câu/N 31/M đến/V 44/M là/V những/L câu/N ở/V mức_độ/N khá/R cần/V có/V sự/N suy_nghĩ/V cân_nhắc/V
+Từ/E câu/N 45/M đến/N 50/M là/V những/L câu/N vận_dụng/N và/CC vận_dụng/N cao/A
+Những/L câu/N sử_dụng/V máy_tính/N cầm/V tay/N đã/R được/V hạn_chế/V đáng_kể/N so/V với/E đề/N thi/V minh_hoạ/N đã/R công_bố/V
+Còn/C theo/V ThS/N Ngô_Thiện/Np trưởng/N bộ_môn/N toán/N Trường/N THPT/Np Trần_Nhân_Tông/Np TPHCM/Np nếu/C so/V với/E đề/N thi/V dạng/N tự/N luận/V thì/C đề/N thi/V toán/N trắc_nghiệm/N năm/N nay/P có/V phần/N nhẹ/A hơn/R
+Nhìn_chung/V các/L câu/N hỏi/V chủ_yếu/A ra/V theo/V hướng/N đánh_giá/V khả_năng/N nhạy_bén/N thông_hiểu/N suy_luận/N
+của/E học_sinh/N tức_là/V các/L câu/N hỏi/V mang/V tính_chất/N lí_luận/N thuần/N toán/N
+Tuy_nhiên/C đề/N thi/V có/V rất/R ít/A câu/N hỏi/V mang/V tính/N ứng_dụng/V kiến_thức/N vào/V thực_tế/N cuộc_sống/N ThS/V Ngô_Thiện/Np cho/V biết/V
+Tương_tự/N ThS/N Đoàn_Công_Thành/Np tổ_trưởng/N tổ/N toán/N Trường/N THPT/Np Trần_Khai_Nguyên/Np TPHCM/Np cũng/R cho/V rằng/R Về/V mặt/N kiến_thức/N tôi/P cho/V rằng/C nội_dung/N đề/V thi/V đủ/A để/E xác_định/V thí_sinh/N có/V đủ/A năng_lực/N và/CC trình_độ/N vào/V đại_học/N hay/C không/R
+So/V về/V độ/N khó/A thì/C đề/N trắc_nghiệm/V không/R có/V những/L câu/N quá/R cao/A như/C đề/N tự/N luận/V nhưng/C thí_sinh/V lại/R bị/V áp_lực/N rất/R lớn/A về/E thời_gian/N làm/V bài/N
+Tóm_lại/N không_chỉ/N thí_sinh/N mà/C giáo_viên/N cũng/R cảm_thấy/V phấn_chấn/A với/E đề/N thi/N này/P
+Hơn/A 330000/M thí_sinh/N dự/V thi/V tổ_hợp/N khoa_học_tự_nhiên/N
+Sáng/N nay/P 236/M hơn/R 330000/M thí_sinh/N dự/V thi/V bài/N thi/V khoa_học_tự_nhiên/X
+Đây/P là/V bài/N thi/V tổ_hợp/N lần/N đầu_tiên/A xuất/V hiện_tại/N kì/N thi/V THPT/Np quốc_gia/N
+Bài/N thi/V khoa_học_tự_nhiên/X gồm/V ba/N môn/N thi/V thành_phần/N vật_lí/N hoá_học/N sinh_học/N với/E thời_gian/N làm/V bài/N mỗi/L môn/N là/V 50/M phút/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np Thứ_trưởng/N Bộ/N GDĐT/N Bùi_Văn_Ga/Np cho/V biết/V do/C bài/N thi/V tổ_hợp/N là/V dạng/N bài/N thi/V mới/R xuất_hiện/V trong/E kì/N thi/V THPT/Np quốc_gia/N nên/C cả/P cán_bộ/N coi/V thi/V và/N thí_sinh/N đều/R cần/V đặc_biệt/A lưu_ý/N thực_hiện/V các/L quy_định/N tránh/V vi_phạm/V quy_chế/N thi/V
+Ban/N chỉ_đạo/V thi/V THPT/Np quốc_gia/N đã/R yêu_cầu/V các/L sở/N GDĐT/N chỉ_đạo/V các/L giám_thị/N phải/V có/V trách_nhiệm/N nhắc_nhở/V thí_sinh/N trả_lời/V đúng/A thứ_tự/N câu/N hỏi/V
+Đặc_biệt/A ông/N Ga/Np cũng/R khuyến_cáo/N thí_sinh/V thời_gian/N tính_từ/A lúc/N kết_thúc/V môn/N thi/V trước/E đó/P đến/E lúc/N bắt_đầu/V làm/V bài/N môn/N tiếp_theo/V trong/E bài/N thi/V tổ_hợp/N là/V 20/M phút/N nên/C nếu/C thí_sinh/V không/R có/V nhu_cầu/N đặc_biệt/A thì/C cần/V nghỉ_ngơi/V tại_chỗ/N để/E chuẩn_bị/V bước/V vào/V môn/N thi/V tiếp_theo/V
+Buổi/N chiều/N 236/M sẽ/N có/V gần/A 760000/M thí_sinh/N dự/V thi/V môn/N ngoại_ngữ/N
+NGỌC/M HÀ/N
+Lo_lắng/V với/E đề/N thi/V tổ_hợp/N
+Nếu/C đề/V thi/V tổ_hợp/N khoa_học_tự_nhiên/N tương_tự/A như/C đề/N thi/V minh_hoạ/N mà/N Bộ/N GDĐT/Np đã/R công_bố/V hồi/N tháng/N 5/M thì/N rất/R nặng/A đối_với/N thí_sinh/N
+Bởi/C độ/N khó/A của/E đề/N tương_tự/A như/C năm/N trước/A mà/C thời_gian/N thì/C bị/V rút/V ngắn/A
+Lấy/V ví_dụ/N chỉ/R riêng/A môn/N lí/N năm/N trước/N đề/N có/V 50/M câu/N hỏi/V thời_gian/N làm/V bài/N 90/M phút/N
+còn/C năm/N nay/P môn/N lí/N có/V 40/M câu/N thời_gian/N làm/V bài_chỉ/N 50/M phút/N thầy/N Đoàn_Hồng_Hà/Np tổ/N phó/N tổ/N vật_lí/N Trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np TPHCM/Np phân_tích/V
+Tương_tự/A một/M giáo_viên/N môn_sinh/N ở/V vùng_ven/N TPHCM/Np cũng/R băn_khoăn/A Trước/E đây/P mỗi/N buổi/N thí_sinh/N chỉ/V thi/V 1/M môn/N rồi/C về/V nhà/N nghỉ_ngơi/V
+Năm/N nay/P các/L em/N phải/V làm/V bài/N thi/V 3/M môn/N trong/E 1/M buổi/N thực_sự/N nặng_nề/A và/N áp_lực/N
+HHG/Np
+NHÓM/N PV/Np

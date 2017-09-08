@@ -1,0 +1,44 @@
+Chọn/V mua/V máy_tính_bảng/N mùa/N tựu_trường/V 2015/M
+Máy_tính/N bảng/N tablet/N ngày_nay/N khi/N kết_hợp/V qua/R Bluetooth/Np với/E bàn_phím/N vật/N lí/N có_thể/R hoạt_động/V như/A một/M chiếc/Nc máy_tính_xách_tay/N phục_vụ/N tốt/A nhu_cầu/N học_tập/V lẫn/V giải_trí/V
+Do/E đó/P bạn/N cần/V chú_ý/V một_số/L điểm/N cơ_bản/A sau/N để/E chọn/V đúng/A máy_tính_bảng/N phù_hợp/V
+Thông_số/N kĩ_thuật/N chip/N xử_lí/N là/V bộ_não/N nhưng/C bộ_nhớ/N RAM/Np giúp/V hoạt_động/N trơn_tru/A hơn/R
+Dung_lượng/N lưu_trữ/V bộ_nhớ_trong/N giúp/V lưu/V tài_liệu/N học_tập/V cần/V được/V chú_ý/V từ/E 32GB/M trở/N lên/V hoặc/N có/V hỗ_trợ/N thẻ/N nhớ/V microSD/N để/E gia_tăng/V khi/N cần/V
+Kích_cỡ/N đó/P là/V kích_cỡ/N màn_hình/N
+Màn_hình/N lớn/A thông_tin/N hiển_thị/N rõ_ràng/A nhưng/C tiêu_hao/N pin/N nhiều/A hơn/R
+Màn_hình/N nhỏ/A tiện_lợi/A sử_dụng/V cơ_động/N
+Hiện/N có/V các/L kích_cỡ/N tablet/N phổ_biến/V như/C 7/M inch/N 8/M inch/N 97/M inch/N và/CC từ/E 105/M inch/N trở/V lên/R
+Ngoài_ra/C độ_phân_giải/N màn_hình/N nên/C chọn/V từ/E HD/Np 720p/M trở/V lên/R
+Pin/Np cần/V chọn/V tablet/N có/V pin/N hoạt_động/V hơn/A 7/M giờ/Nu sử_dụng/V thông_thường/A và/N hơn/A 5/M giờ/Nu lướt/N web/N dùng/V Internet/Np liên_tục/V
+Kết_nối/N nếu/C chọn/V mua/V phiên_bản/N tablet/N hỗ_trợ/V mạng/N 3G/N sẽ/R giúp/V bạn/N luôn/R kết_nối/V Internet/Np nhưng/C giá/N bán/N thường/N cao/A hơn/R tầm/N một/M triệu/N đồng/N so/V với/E phiên_bản/N WiFi/N
+Xem/V Người_Việt/Np dùng/V tablet/N làm_gì/N
+Về/V hệ_điều_hành/N và/CC hệ_sinh_thái/N thì/C hiện/N cả/A ba/N nền_tảng/V phổ_biến/V cho/E máy_tính_bảng/N gồm/V Google_Android/Np Apple/Np iOS/V iPad/N và/CC Microsoft_Windows/Np đều/R có/V các/L ứng_dụng/N phục_vụ/V cho/E học_tập/N xử_lí/N tài_liệu/N văn_bản/N
+Những/L đại_diện/N máy_tính_bảng/N 2015/M
+Samsung_Galaxy_Tab/Np S2/Np 8/M inch/N và/CC 97/M inch/N
+Đây/P là/V sản_phẩm/N thuộc/V phân/N khúc/N tablet/N cao_cấp/A Tab/Np S2/Np mỏng/A và/CC nhẹ/A hơn/R so/V với/E thế_hệ/N đầu_tiên/A phiên_bản/V Tab/Np S2/Np 8/M inch/N chỉ/R cỡ/N bằng/E một/M quyển/Nc sách/N nên/C dễ/N và/CC tiện/V lợi/N đem/V theo/E trong/N ba_lô/N
+Cải_tiến/N khả_năng/N xử_lí/N mạnh_mẽ/A hơn/R với/E chip/N xử_lí/N tám/N nhân/N 64/M bit/N và/CC 3GB/N RAM/Np bộ_nhớ_trong/N 32GB/N hỗ_trợ/V thẻ/N nhớ/V microSD/N xem/V chi_tiết/N
+Cấu_hình/N này/P cho/V phép/N người_dùng/N làm/V cùng/A lúc/N nhiều/A tác_vụ/N mở/V song_song/N cùng/A lúc/N hai/M cửa_sổ/N như/C cửa_sổ/N trình_duyệt/N web/N tìm_kiếm/V thông_tin/N và/CC cửa_sổ/N Word/Np để/E làm/V bài/N
+Có_thể/R dùng/V Tab/Np S2/Np để/E chụp/V ảnh/N với/E camera/N 8MP/M hay/N quay_phim/N 4K/N thu/V âm/N gửi/V email/N đặc_biệt/A là/V bộ/N ứng_dụng/N văn_phòng/N Microsoft_Office/Np được/V tích_hợp/V sẵn/A cho/V phép/N xử_lí/N tài_liệu/N Word/Np bảng/N tính/V Excel/Np hay/C tập_tin/N trình_diễn/N Powerpoint/Np
+Mức/N pin/N 5870/M mAh/N 97/M inch/N và/CC 4000/M mAh/N 8/M inch/N cũng/R giúp/V duy_trì/V hoạt_động/N gần/A trọn/A ngày/N
+Giá/N bán/V tham_khảo/N lần_lượt/V 13990000/M VNĐ/N 97/M inch/N và/CC 11990000/M VNĐ/N 8/M inch/N có_thể/R mua/V phụ_kiện/N vỏ/N bao/N đứng/V hoặc/N bàn_phím/N QWERTY/Np vật_lí/V
+Cùng/A hai/M kích_cỡ/N Samsung/Np có/V Galaxy_Tab/Np A/Np 8/M inch/N 6990000/M VNĐ/N và/CC 97/M inch/N 8990000/M VNĐ/N
+Phân/N khúc/N bình_dân/A có/V Galaxy_Tab/Np 4/M 7/M inch/N 4990000/M VNĐ/N Galaxy_Tab/Np 3V/M 3490000/M VNĐ/M
+Apple/N iPad/N 79/M inch/N và/CC 97/M inch/N
+Nếu/C yêu/V thích/V Táo/Np khuyết/V bạn/N có/V nhiều/A chọn_lựa/N gồm/V iPad/N Air/Np 2/M 97/M inch/N hiện/N là/V tablet/N mỏng/A và/CC mới/A nhất/A của/E Apple/Np có_giá/N từ/E 15590000/M 17590000/M VNĐ/N tuỳ/N dung_lượng/N lưu_trữ/V
+Thế_hệ/N iPad/N Air/Np đầu_tiên/A còn/V 9590000/M VNĐ/Nu cho/V phiên_bản/N WiFi/N 16GB/N và/CC 12790000/M VNĐ/N cho/V phiên_bản/N 3G/M
+Apple/N ra_mắt/V iPad/N Air/Np 2/M và/N iPad/M Mini/Np 3/M
+iPad/N Mini/Np kích_cỡ/N nhỏ/A 79/M inch/N có_giá/N 8990000/M VNĐ/N
+Phiên_bản/N iPad/M Mini/Np 3/M 16GB/Nu WiFi/N mới/A nhất/A giá/N 9999000/M VNĐ/N
+iPad/N có/V rất/R nhiều/A phụ_kiện/N nên/C việc/N chọn_lựa/V một/M bàn_phím/N Bluetooth/Np hay/C vỏ/N bao/N phù_hợp/N không/R khó/A
+Nếu/C đang/R dùng/V máy/N Mac/Np và/CC iPhone/Np thì/C việc/N đồng_bộ/A và/CC truyền_tải/N dữ_liệu/N với/E iPad/N rất/N dễ_dàng/A
+Microsoft_Surface_Pro/Np 3/M
+Microsoft_Surface_Pro/Np 3/M là/V đại_diện/N của/E nhóm/N tablet/N dùng/V Windows/Np 8/M có/V đủ/N khả_năng/N của/E một/M chiếc/Nc máy_tính_xách_tay/N laptop/N Windows/Np trong/E vóc_dáng/N máy_tính_bảng/N
+Surface_Pro/Np 3/M có/V màn_hình/N 12/M inch/N chip/N xử_lí/N Intel_Core/Np i3/M i5/N i7/Np RAM/Np 48/M GB/Np và/CC ổ_cứng/N SSD/Np 512GB/M
+Giá/N dao/N động_từ/N 15790000/M VNĐ/N đến/V hơn/A 30/M triệu/M đồng/Nu tuỳ/N chọn/N cấu_hình/N chưa/R bao_gồm/V bàn_phím/N
+Microsoft_Surface_Pro/Np 3/M tablet/N thay_thế/V laptop/N
+Asus_Zen/Np Pad/Np 7/M inch/N và/CC 8/M inch/N
+Tập_trung/V vào/E nhóm/N tablet/N 7/M inch/N và/CC 8/M inch/N Asus/Np có/V ZenPad/N S/Np 80/M và/N 70/M vừa/N ra_mắt/V với/E giá/N lần_lượt/N 7490000/M VNĐ/N và/CC 3990000/M VNĐ/N ZenPad/N 80/M 5990000/M VNĐ/Nu và/N ZenPad/N C/Np 3190000/M VNĐ/N
+Asus/N ra_mắt/V bốn/M máy_tính_bảng/N ZenPad/N
+Ngoài_Zen/Np Pad/Np Asus/Np còn/R có/V dòng/N FonePad/N với/E các/L đại_diện/N FonePad/N 7/M 2990000/M VNĐ/N và/CC FonePad/N 8/M 4990000/M VNĐ/M
+Lenovo/N Tương_tự/A Asus/Np và/CC Samsung/Np Lenovo/Np cũng/R có/V bộ/N sản_phẩm/N trải/V dài/A ở/E các/L phân/N khúc/N gồm/V Lenovo/Np TAB/Np S8/Np 8/M inch/N 5990000/M VNĐ/N Lenovo/Np TAB/Np 2/M A7/Np 10/M 1999000/M VNĐ/N IdeaTab/N A8/Np 50/M HD/Np 3990000/M VNĐ/N IdeaTab/N A7/Np 50/M 2990000/M VNĐ/M
+Hai/M sản_phẩm/N máy_tính_bảng/N thương_hiệu/N Việt/Np gồm/V CINK/Np TAB/Np và/CC Masstel_Tab/Np cũng/R góp_mặt/V với/E các/L đại_diện/N giá/N dưới/A hai/M triệu/M đồng/Nu xem/V Tablet/Np giá/N rẻ/A dùng/V chip/N Intel_Atom/Np x3/M ra_mắt/N
+Dell_Venue/Np 8/M tablet/N 8/M inch/N bình_dân/N

@@ -1,0 +1,29 @@
+Cậu/N học_trò/N 3/M điểm/N 10/M tập_tễnh/N đi/V với/E ước_mơ/N bác_sĩ/N
+Ngày/N 67/M bạn/N Lê_Hữu_Hiếu/Np sinh/V năm/N 1999/M học_sinh/N lớp/N 12A1/M Trường/N THPT/Np Yên_Định/Np I/N huyện/N Yên_Định/Np Thanh_Hoá/Np nhận/V tin_vui/N ba/N điểm/N 10/M toán/N hoá/V sinh_học/N khối/N B/Np khi/N đang/R giúp_việc/V cho/V người_thân/N cách/V xa/A gia_đình/N gần/A 120km/M
+Sinh/V ra/R Hiếu/Np bị/V tật_nguyền/N ở/V chân/N trái/A với/E chứng/N teo/N cơ/N nên/V chân/N to/A chân/N nhỏ/A nhưng/C may_mắn/A là/N còn/R có_thể/A đi_lại/V được/R
+Hiếu/Np lớn/V lên/R trong/E hoàn_cảnh/N gia_đình/N hết_sức/R khó_khăn/A nhiều/A năm/N thuộc/V diện/N hộ/N nghèo/A rồi/C cận/V nghèo/A ở/E thôn/N Châu_Thôn/Np II/M xã/N Yên_Lạc/Np huyện/N Yên_Định/Np
+Bố_mẹ/N Hiếu/Np làm/V 5/M sào/Nu ruộng/N nước/N nơi/N vùng/N quê/N nghèo/A lấy/V gạo/N ăn/V nuôi/V ba/M đứa/Nc con/N ăn_học/V
+Hết/V mùa/N cấy/N mùa/N gặt/V lúa/N ông/N Lê_Hữu_Hưng/Np bố/N của/E Hiếu/Np lại/R xa/A vợ_con/N ra/V Hà_Nội/Np đi/V làm/V phụ/V hồ/N dọn_dẹp/V ở/E các/L công_trình/N xây_dựng/V kiếm/V tiền/N phụ_giúp/V vợ/N trang_trải/V cuộc_sống/N lo/V cho/V con/N đến/V trường/N
+Cái/Nc nghèo_khó/N cứ/R bủa_vây/V gia_đình/N Hiếu/Np với/E năm/N miệng_ăn/N hết/V năm/N này/P đến/E năm/N khác/A
+Kể/V lại/R những/L ngày_tháng/N khốn_khó/A của/E gia_đình/N bà/N Lưu_Thị_Châm/Np 41/M tuổi/N mẹ/N của/E Hiếu/Np không/R cầm/V được/R nước_mắt/N Tài_sản/N của/E gia_đình/N có/V 5/M sào/Nu ruộng/N nước/N gieo_cấy/N mỗi/M năm/N hai/M vụ/N lúa/N lấy/V gạo/N ăn/V
+Nhiều/A năm/N mất_mùa/V bán/V lúa/N lấy/V tiền/N mua/V sách_vở/N đồ_dùng/N học_tập/V cho/E Hiếu/Np và/CC hai/M đứa/N em/N thì/C thiếu/V gạo/N ăn/V lúc/N giáp_hạt/N
+Mà/C không/R bán/V lúa/N lo/V cho/V con/N đến/V trường/N thì/C tụi/N nhỏ/A lại/V thất_học/N
+Biết/V hoàn_cảnh/N gia_đình/N khó_khăn/A bữa/N đói/N bữa/N no/A nên/C bà/N dì/N ở/E huyện/N miền/N núi/N Quan_Hoá/Np Thanh_Hoá/Np đưa/V Hiếu/Np lên/E nuôi/V cho/E ăn_học/V suốt/A bốn/M năm/N THCS/Np
+Mấy/L năm/N gần/A đây/P bố/N Hiếu/Np đau_ốm/V thường_xuyên/A không/R đi/V làm/V thêm/V được/R nhiều/A nên/C gia_đình/N càng/R thêm/V khốn_khó/N
+Hai/M năm_học/N lớp/N 10/M và/N lớp/N 11/M đến/V kì/N nghỉ_hè/N Hiếu/Np lại/R xin/V bố_mẹ/N ra/V Hà_Nội/Np đi/V giúp_việc/V vặt/A như/C thu_dọn/N vôi/N vữa/N nấu_ăn/V cho/V công_nhân/N ở/E các/L công_trường/N xây_dựng/V
+Nhìn/V con_trai/N đang/R tuổi/N ăn/V tuổi/N lớn/A lo/V việc/N học_hành/V mà/C phải/V đi/V làm/V thêm/V kiếm/V tiền/N phụ_giúp/V bố_mẹ/N vợ_chồng/N tôi/P đau_xót/A lắm/R nhưng/C Hiếu/Np cứ/R động_viên/V bố_mẹ/N yên_tâm/N
+Chiều/N 67/M trao_đổi/V với/E Tuổi_Trẻ/N ông/N Nguyễn_Đức_Hải/Np hiệu_trưởng/N Trường/N THPT/Np Yên_Định/Np I/N cho/V biết/V dù/C hoàn_cảnh/N gia_đình/N từ/E hộ/N nghèo/A nhiều/A năm/N trước/A đến/V hộ/V cận/N nghèo/A hiện_nay/N cuộc_sống/N thiếu_thốn/V nhưng/C Hiếu/Np chưa/R bao_giờ/P có/V ý_định/N bỏ/V học/V giữa_chừng/N
+Suốt/A ba/N năm_học/N tại/E Trường/N THPT/Np Yên_Định/Np I/N Hiếu/Np đạt/V danh_hiệu/N học_sinh/N giỏi/A toàn_diện/A
+Thầy_Hải/Np nói/V về/E niềm/N đam_mê/V môn/N hoá_học/N toán_học/N và/CC sinh_học/N mà/C hiếm/A có/V học_sinh/N nào/P có/V được/R của/N Hiếu/Np
+Trong/E những/L năm_học/N tại/E trường/N ngoài/N chính_sách/N miễn_giảm/A học_phí/N dành/V cho/E con/N hộ/N nghèo/A cận/N nghèo/A nhà_trường/N luôn/R dành/V suất/N học/N bổng/N hoặc/N tiền/N hỗ/V trợ_từ/N quỹ/N khuyến_học/N nhà_trường/N để/E giúp/V Hiếu/Np mua/V sách_vở/N đồ_dùng/N học_tập/V
+Thành_tích/N học_tập/V của/E Hiếu/Np là/V đoạt/V nhiều/A giải_thưởng/N cấp/N huyện/N cấp/N tỉnh/N môn/N hoá_học/N và/CC môn/N toán/N
+Đạt/N số/N điểm/N tuyệt_đối/A 3030/M điểm/N của/E ba/N môn/N thi/V khối/N B/Np là/V thành_quả/N phần_thưởng/N xứng_đáng/N dành/V cho/E Hiếu/Np cậu/N học_trò/N nghèo/A khuyết_tật/N luôn/R có/V ý_chí/N nghị_lực/N vươn/V lên/R
+Cánh/N cửa/N Trường/N ĐH/N Y/Np dược/V TPHCM/Np đã/R mở/V đón/V Hiếu/Np
+Ước_mơ/N trở_thành/V bác/N sĩ/N đa_khoa/N của/E Hiếu/Np đang/R dần/R trở_thành/V hiện_thực/N
+Hiếu/N chia_sẻ/V về/E kế_hoạch/N của/E mình/N sau/E khi/N biết/V điểm/N thi/V THPT/Np quốc_gia/N Kết_quả/N hôm_nay/N em/N dành/V tặng/V bố_mẹ/N người_thân/N trong/E gia_đình/N và/CC các/L thầy/N cô_giáo/N Trường/N THPT/Np Yên_Định/Np I/N nơi/N chắp_cánh/V cho/V ước_mơ/N hoài_bão/N của/E em/N suốt/A những/L năm/N qua/V
+Em/N biết/V các/L thầy/N cô_giáo/N rất/R thương/V em/N không/R bao_giờ/N lấy/V tiền/N học/V thêm/V của/N em/N
+Hiểu/V cho/V biết/V sau/E khi/N nhận/V bằng/N tốt_nghiệp/V THPT/Np khoảng/A ngày/N 207/M sẽ/N vào/V TPHCM/Np để/E tìm/V việc_làm/N thêm/V phụ_giúp/N bố_mẹ/N lấy/V tiền/N nhập_học/N và/CC chờ/V đến/E ngày/N nhập_học/N Trường/N ĐH/N Y/Np dược/V TPHCM/Np
+Còn/C bà/N Lưu_Thị_Châm/Np ngồi/V nhẩm/N tính/V với/E những/L lo_toan/N phía/N trước/A khi/N lại/R phải/V chạy_vạy/V vay_mượn/N anh_em/N họ_hàng/N một_vài/L triệu/M đồng/Nu cho/V con_trai/N trước/E khi/N vào/V TPHCM/Np nhập_học/V
+Khoản/N nợ/N ngân_hàng/N 30/M triệu/N đồng/N mà/C nhiều/A năm/N nay/P gia_đình/N tôi/P chưa/R trả/V được/R
+Bây_giờ/N Hiếu/Np đỗ/V ĐH/N gia_đình/N tính/V bán/V con/N trâu/N đi/V lấy/V tiền/N cho/V em/N nó/P nhập_học/V rồi/C mua/V cho/N con_trai/N chiếc/Nc xe_đạp/N để/E Hiếu/Np còn/R chạy/V đi/V làm/V thêm/V
+Nhưng_Hiếu_động/N viên/N bố_mẹ/N đừng/V bán/V trâu/N nên/C để/V lại/R vì/E trâu/N còn/V giúp/V gia_đình/N làm/V năm/N sào/N ruộng/N nước/N còn/R có/V gạo/N ăn/V bà/N Châm/Np buồn_rầu/V chia_sẻ/V

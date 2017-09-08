@@ -1,0 +1,7 @@
+Bắt/V xe_tải/N vận_chuyển/V hơn/R 7000/M quả/N pháo/N lậu/A 
+Thanh_Hóa/Np Vào_khoảng/N 3h30/M ’/Nu sáng/N ngày/N 30/3/M tại/E Km/Np 309/M QL1A/Np thuộc/V địa_bàn/N xã/N Triệu_Lộc/Np huyện/N Hậu_Lộc/Np tỉnh/N Thanh_Hóa/Np Tổ/N tuần_tra/V kiểm_soát/V giao_thông/N Trạm/N CSGT/Np Quảng_Xương/Np PC67/Np Công_an/N tỉnh/N Thanh_Hóa/Np do/E Thiếu_tá/N Nguyễn_Hữu_Nam/Np Phó/Z trạm_trưởng/N làm/V tổ_trưởng/N làm/V nhiệm_vụ/N tuần_tra/V kiểm_soát/V giao_thông/N 
+Tổ/N công_tác/V tiến_hành/V kiểm_tra/V xe/N ô_tô/N tải/N mang/V BKS/Np 89C/M 061.60/M do/E Trần_Việt_Nam/Np SN/Np 1975/M )/Nu trú/V tại/E xã/N Vân_Du/Np huyện/N Ân_Thi/Np tỉnh/N Hưng_Yên/Np điều_khiển/V 
+Qua/E quá_trình/N kiểm_tra/V tổ/N công_tác/N phát_hiện/V trên/E xe/N vận_chuyển/V 7200/M quả/N pháo/N lậu/A do/E nước_ngoài/N sản_xuất/V 
+Theo/E lái_xe/N khai/V nhận/V ban_đầu/N số/N pháo/N trên/E được/V chở/V từ/E Hưng_Yên/Np đi/V Đà_Nẵng/Np 
+Phía_Trạm/Np CSGT/Np Quảng_Xương/Np đã/R hoàn_tất/V các/L thủ_tục/N bàn_giao/V số/N hàng_hóa/N nói/V trên/E cho/E các/L cơ_quan_chức_năng/N xử_lý/V theo/E thẩm_quyền/N 
+Duy_Tuyên/Np 

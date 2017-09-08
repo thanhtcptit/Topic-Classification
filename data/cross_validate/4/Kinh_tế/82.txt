@@ -1,0 +1,17 @@
+Ghế_nóng/N Hội_đồng/N quản_trị/V Sacombank/Np vẫn/R là/V bí_mật/A
+Sacombank/N dự_kiến/V lợi_nhuận/N 2017/M đạt/N 585/M tỉ/M đồng/Nu và/N thành_lập/N công_ty/N tài_chính/N nhưng/C vấn_đề/N nóng/N nhất_là/N ai/P sẽ/R ngồi/V ghế/N Hội_đồng/N quản_trị/V HĐQT/N lại/R vẫn/R còn/V khá/R bí_mật/A
+Hội_đồng/N quản_trị/N Ngân_hàng/N Sài_Gòn_Thương/Np tín/V Sacombank/Np vừa/R công_bố/V nội_dung/N dự_thảo/V tài_liệu/N họp/V Đại_hội/N đồng/N cổ_đông/N thường_niên/N năm/N 2015/M 2016/M nhằm/N chuẩn_bị/V cho/V đại_hội/N cổ_đông/N chính_thức/A dự_kiến/V diễn/V ra/R vào/V ngày/N 306/M tới/N
+Tuy_nhiên/C tài_liệu/N này/P chưa/R đề_cập/V đến/E vấn_đề/N mà/C cổ_đông/N quan_tâm/V nhất_là/N danh_sách/N ứng/N viên/N Hội_đồng/N quản_trị/V và/CC Ban/N kiểm_soát/V Sacombank/Np nhiệm_kì/N 20172022/M đặc_biệt/N ai/P sẽ/R thay_thế/V ông/N Nguyễn_Đức_Hưởng/Np ở/E vị_trí/N ứng_viên/N Hội_đồng/N quản_trị/V
+Trước/E đó/P Sacombank/Np đã/R công_bố/V danh_sách/N 11/M ứng_viên/N Hội_đồng/N quản_trị/V và/CC ban/N kiểm_soát/V nhưng/N mới_đây/N ông/N Nguyễn_Đức_Hưởng/Np hiện/N là/V chủ_tịch/N Hội_đồng/N quản_trị/V LienVietPostBank/N và/CC bà/N Nguyễn_Thị_Bích_Hồng/Np Tổng/N giám_đốc/N Chứng_khoán/N Liên_Việt/Np rút/V khỏi/V danh_sách/N ứng_viên/N
+Theo/E tài/N liệu_trình/N đại_hội/N cổ_đông/N dự_kiến/V năm/N 2017/M tổng/N tài_sản/N của/E Sacombank/Np sẽ/R tăng/V từ/E 332000/M tỉ/M đồng/Nu lên/V 384600/M tỉ/M đồng/Nu dư_nợ/N tín_dụng/N ở/E mức/N 277000/M tỉ/M đồng/Nu
+Theo/E tài_liệu/N đại_hội/N cổ_đông/N cuối/N năm/N 2016/M tổng/N dư_nợ/N tín_dụng/N của/E Sacombank/Np là/V gần/A 238000/M tỉ/M đồng/Nu tỉ_lệ/N nợ_xấu/A khoảng/N 681/M tương_đương/N 16200/M tỉ/M đồng/Nu
+Số_dư/N dự_phòng/V rủi_ro/N tín_dụng/N đạt/V khoảng/N 5300/M tỉ/M đồng/Nu
+Sacombank/N đặt/V mục_tiêu/N năm/N nay/P sẽ/R đạt/V lợi_nhuận/N trước/N thuế/N 585/M tỉ/M đồng/Nu tăng/N khá/R mạnh/A so/V với/E con/N số/N 155/M tỉ/M đồng/Nu của/E năm/N 2016/M
+Do/E lợi_nhuận/N giảm/A nên/C thù_lao/V và/N chi_phí/N hoạt_động/V cho/V Hội_đồng/N quản_trị/V và/CC ban/N kiểm_soát/V của/E Sacombank/Np cũng/R giảm/V theo/V
+Năm/N 2015/M đại_hội_đồng/N cổ_đông/N bất_thường/A Sacombank/Np thông_qua/V mức/N 40/M tỉ/M đồng/Nu trong/E đó/P chi/V thực_tế/N là/V 399/M tỉ/M đồng/Nu
+Năm/N 2016/M Sacombank/Np trình/V mức/N bằng/N 50/M của/N năm/M 2015/M là/V 20/M tỉ/M đồng/Nu và/N năm/N 2017/M con_số/N này/P chỉ/R còn/V 18/M tỉ/M đồng/Nu
+Ngoài_ra/C tại/E đại_hội/N cổ_đông/N năm/N nay/P Sacombank/Np sẽ/R trình/V cổ_đông/N xác_nhận/V lại/R chủ_trương/V thành_lập/V các/L công_ty/N hoạt_động/V trong/E các/L lĩnh_vực/N chính/N trong/E giai_đoạn/N năm/N 20172020/M
+Theo/E đó/P ngân_hàng/N dự_kiến/V thành_lập/V công_ty/N tài_chính/N dưới/N hình_thức/N Công_ty/N TNHH/Np Một/M thành_viên/N trực_thuộc/V Sacombank/Np với/E chức_năng/N hoạt_động/N bao_gồm/V cả/P nghiệp_vụ/N bao/V thanh_toán/N tín_dụng/N tiêu_dùng/V cho/V thuê/V tài_chính/N thẻ/N tín/V dụng/N
+Một/M phương_án/N khác/A là/V Sacombank/Np sẽ/R chuyển_đổi/V hoặc/N sáp_nhập/V hoạt_động/N của/E Công_ty/N cho/V thuê/V tài_chính/N Sacombank_Leasing/Np hiện_hữu/V thành/N Công_ty/N tài_chính/N với/E mô_hình/N hoạt_động/V tổng_hợp/N
+Dự_kiến/N vốn_điều_lệ/N của/E công_ty/N này/P là/V 500/M tỉ/M đồng/Nu
+Trước/E đó/P Sacombank/Np đã/R hai/M lần/N hoãn/V đại_hội_đồng/N cổ_đông/N với/E lí_do/N công_tác/N chuẩn_bị/V nhân_sự/N hội_đồng_quản_trị/N ban/N kiểm_soát/V nhiệm_kì/N 20172021/M và/N một_số/N tài_liệu/N chưa/R hoàn_tất/V

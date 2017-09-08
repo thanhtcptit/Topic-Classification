@@ -1,0 +1,43 @@
+Chung_kết/N Cuộc/N đua/V số/N cuộc_thi/N của/E 8/M đại_học/N hàng_đầu/N
+Để/E chuẩn_bị/V cho/E trận/N chung_kết/N các/L thành_viên/N trong/E đội/N cho_biết/V họ/P chỉ/R dám/V ngủ/V mỗi/L ngày/N khoảng/A 4-5/M tiếng/Nu và/CC câu_chuyện/N lúc_nào/N cũng/R chỉ/R xoay/V quanh/N vấn_đề/N tối_ưu/A các/L thuật_toán/N cho/V xe/N
+Không_chỉ/C vậy/P cả/P nhóm/N phải/V vừa/R làm_việc/V vừa_phải/V tự/P khắc_phục/V vấn_đề/N bài_vở/N
+Tôi/P kỳ_vọng/V trong/E thời_gian/N không/R xa/A xe/N không/R người/N lái/V sẽ/R chạy/V trên/E đường_phố/N Việt_Nam/Np Nguyễn_Duy_Hưng/Np đội_trưởng/N của/E Techcolor/Np nói/V
+Theo/E Hưng/Np xe/N không/R người/N lái/V là/V mô_hình/N tuyệt_vời/A cho/E cả/P xe/N bus/V và/CC xe/N cá_nhân/N giúp/V giảm_thiểu/V tai_nạn/N giao_thông/N và/CC tình_trạng/N tắc/V đường/N ở/E Việt_Nam/Np
+Tại/E PTIT/Np những/L ngày/N đầu/N gian_khó/A chưa/R có/V phần/N sân/N cố_định/N để/E tập_dượt/V cho/E xe/N đồng_thời/R phần/N giải_thuật/N cũng/R còn/V khá/R sơ_sài/A các/L sinh_viên/N đã/R nghĩ/V ra/R cách/N rẻ/A nhất/A và/CC cơ_động/N nhất_là/X giấy_vệ_sinh/N
+Hì_hục/V dán/V giấy/N cả/P buổi/N để/E có/V được/R những/L đường_cong/N mềm_mại/A cho/E xe/N chạy/V cả/P nhóm/N lại/R bị/V bảo_vệ/V nhắc/V phải/V tháo/V bỏ/V hiện_trường/N trước/E khi/N ra/V về/V đề_phòng/V trời/N mưa/V
+Thế_rồi/C tụi/Nc em/N cũng/R xin_phép/V được/R một/M góc/N nhỏ/A và/CC dùng/V sơn/V vẽ/V cho/E xe/N chạy/V sinh_viên/N Nguyễn_Văn_Tiến/Np chia_sẻ/V
+Thành_viên/N này/P cũng/R cho/V rằng/C cuộc_thi/N là/V cơ_hội/N vàng/N để/E được/V tiếp_cận/V và/CC học_hỏi/V kinh_nghiệm/N về/E những/L công_nghệ/N mới/A nhất/A như/C xử_lý/V ảnh/N học/V máy/N công_nghệ/N nhúng/V tham_gia/V vào/E một/M dự_án/N thật_sự/A với/E cường_độ/N làm_việc/V cao/A và/CC phần_thưởng/N hấp_dẫn/V
+Tuy_vậy/C Tiến/Np cũng/R thẳng_thắn/V nhận_định/N xe/N không/R người/N lái/V khó/A đi/V vào/E đời_sống/N ở/E Việt_Nam/Np do/E tình_trạng/N giao_thông/N hiện_tại/N thì/C người/N lái/V còn/R khó/A huống_chi/V đến/E máy/N
+Qua/E các/L màn/N thể_hiện/V trước/A xe/N của/E nhóm/N có/V khả_năng/N chạy/V mượt/A xử_lý/V vật/N cản/V tinh_tế/A bằng/E cách/N giảm_tốc/V tránh/V mà/C không/R hề/V lẹm/V vào/E vạch/N làn_đường/N
+Kết_quả/N này/P không/R phải/V quá_trình/N ngày_một_ngày_hai/N của/E nhóm/N sinh_viên/N áo/N lính/N
+Luyện_tập/V hăng_say/A năm/N chàng_trai/N cũng/R từng/R gặp/V những/L chuyện/N hết_hồn/N như/C xe/N bị/V vỡ/V gãy/V tứ_tung/N phải/V cầu_cứu/V ban/N tổ_chức/V hay/C bị/V nhốt/V lại/R trong/E trường/N do/E mải/V làm/V quá/R giờ/N mà/C quên/V không/R báo/N với/E bảo_vệ/N
+Tụi/N em/N nhờ/V các/L thầy/N các/L anh/N khóa/V trên/E giảng_giải/N về/E board/N mạch/N vi_xử_lý/N Adruino/Np Jetson/Np TK1/M
+Ngay/T cả/P cảm_biến/N siêu_âm/N Sonar/Np cũng/R chưa/R hiểu_biết/V gì/P luôn/R động/V tới/E cái/N gì/P là/V lại/R phải/V học/V về/E cái/Nc đó/P sinh_viên/N Trần_Minh_Phúc/Np nói/V
+Quá_trình/N tập_luyện/V khá/R gian_nan/A
+Cả/P đội/N bàn_thảo/N viết/V code/N tại/E phòng/N giảng_viên/N ở/E tầng/N 7/M sau/E đó/P bê/V thiết_bị/N xuống/V nhà/N để/E xe/N của/E trường/N lúc/N này/P đã/R vắng_tanh/V chỉ/R còn/V bác/N bảo_vệ/V trông_coi/V
+Hành_lý/N mang/V theo/R còn/R có/V một/M túi/N đựng/V đầy/A vải/N
+Đó/P là/V những/L dải/N làn_đường/N được/V các/L sinh_viên/N tự/P chế/V để/E dải/N xuống/V sàn/N khi/N cho/V xe/N chạy/V
+Ngán/V nhất_là/X do/E ở/E nhà/N để/E xe/N không/R có/V màn_hình/N ổ/N điện/N nên/C mỗi/L lần/N không/R A thuộc/V bài/N V từng/R dòng/N lệnh/N phải/V gõ/V qua/R bàn_phím/N xách/V theo/V là/V tụi/Nc em/N lại/R chạy/V lên/R phòng/N thầy_giáo/N để/E ngó/V rồi/C xuống/V làm/V tiếp/R
+Mỗi/L lần/N xe/N chạy/V không/R đúng/A ý/N cũng/R vậy/P cả/P đội/N lại/R kéo/V nhau/N lên/V phòng/N
+Đi/V tập/V xe/N đua/V mà_còn/C hơn/R đi/V tập_thể/N hình/N sinh_viên/N Lê_Phương_Khanh/Np nói/V
+Vì_vậy/C CDIO/Np đã/R tìm_tòi/V sâu/A về/E mảng/N giải_thuật/V cùng/A việc/N tận_dụng/V ưu_thế/A phần_cứng/N của/E đội/N để/E tối_ưu/A cho/E xe/N đua/V
+Xe/N đua/V của/E đội/N chạy/V với/E tốc_độ/N cao/A mà/C vẫn/R mượt_mà/A khi/N bẻ_lái/V ở/E những/L khúc/N cua/N một/M trong/E những/L ưu_điểm/N vượt_trội/V so/V với/E các/L đội/N thi/V khác/A
+Tự_tin/V về/E phần_cứng/N nhưng/C CDIO/Np lại/R là/V đội/N tàn_phá/V xe/N nhất/A
+Chiếc/Nc xe/N mô_hình/N đã/R vài/L lần/N tanh_bành/V khói_lửa/N khi/N các/L thành_viên/N liều_mình/V cho/E xe/N chạy/V với/E tốc_độ/N cao/A thử/V với/E vật/N cản/V
+Ba/M trên/E bốn/M thanh/N cầu/N của/E xe/N đã/R bị/V bể/V cả/P đội/N phải/V đi/V mượn/V máy_in/N 3D/Np để/E in/V các/L chi_tiết/N này/P và/CC ráp/V lại/R xe/N trưởng/N nhóm/N Võ_Duy_Công/Np cho_biết/V
+Cũng/R nhờ/V bị/V gãy/V xe/N tận_dụng/V máy_in/N 3D/Np các/L thành_viên/N trong/E đội/N đã/R tự/P thiết_kế/V thêm/R các/L chi_tiết/N để/E giúp/V xe/N vững_chắc/A hơn/A
+Một/M trong/E những/L chiến_thuật/N của/E LHU/Np Racing/Np 304/M là/V bám_càng/V thật/R sát/A với/E Ban/N tổ_chức/V
+Bất_kể/R điều/N gì/P được/V BTC/Np tiết_lộ/V cũng/R được/V cả/P đội/N săm_soi/N và/CC nghĩ/V cách/N biến/V thành/V mô_hình/N để/E tập_luyện/V
+Đây/P là/V đội/N thi/V đầu_tiên/A làm/V xong/R mô_hình/N dốc/N cầu/N của/E BTC/Np đưa/V ra/R để/E sớm/A cho/E xe/N tập_luyện/V
+Đến/E nay/N trên/N sa/V hình/N của/E tại/E trường/N chiếc/Nc xe/N mô_hình/N của/E đội/N chạy/V mượt/A và/CC có/V khả_năng/N tránh/V vật/N cản/V tuy/C chưa/R được/V chính_xác/A tuyệt_đối/A
+Cả/P đội/N đang/R tích_cực/A luyện_tập/V leo/V dốc/N chui/V hầm/N và/CC tinh_chỉnh/V phần/N code/V cho/E việc/N nhận_biết/V vật/N cản/V
+Hai/M tuần/N trước/E chung_kết/N xe/N của/E BKAKids/Np vẫn/R di_chuyển/V với/E vận_tốc/N rùa/N bò/N dù/E tiêu_chí/N xác_định/V thắng/V thua/V của/E cuộc_thi/N là/V tốc_độ/N
+Thế_nhưng/C đội/N thi/V này/P lại/R có/V một/M vũ_khí/N bí_mật/A mà/C chưa/R đội/N nào/P có/V đó/P là/V sử_dụng/V kỹ_thuật/N học/V máy/N và/CC trí_tuệ_nhân_tạo/X trong/E giải_thuật/N
+Vì/E năm/N thành_viên/N học/V khác/A lớp/N khác/A khoa/N khác/A khóa/N BKAKids/Np gặp/V trở_ngại/N lớn/A trong/E việc/N tập_hợp/V
+Cả/P nhóm/N chỉ/R có_thể/A sắp_xếp/V cùng/A làm_việc/V vào/E cuối/N tuần/N mà/C đôi_khi/R vẫn/R bị/V khuyết/V thành_viên/N  /M Đại_diện/N của/E BKAKids/Np cho_biết/V kỳ/N nghỉ/V lễ/N 30/4/M vừa_qua/X là/V dịp/N hiếm/A có/V cả/P đội/N có/V thời_gian/N chấn_chỉnh/V
+Chúng_em/N không/R dám/V về/V quê/N nhốt/V nhau/N trong/E phòng/N để/E tập_trung/V cho/E cuộc_thi/N một/M thành_viên/N cho_biết/V
+Tại/E vòng/N sơ_khảo/V xe/N của/E đội/N không/R tỏ/V ra/R nổi_trội/A ngay/T ở/E phần/N thi/V đầu/N khá/R lầm_lì/A nhưng/C lại/R nhận/V được/R điểm_số/N cao/A nhất/A từ/E Ban/N giám_khảo/V và/CC được/V đánh_giá/V là/C đội/N có/V kiến_thức/N tốt/A nhất/R
+Alpha_One/Np là/V đội/N thi/V để/V lại/R nhiều/A ấn_tượng/N từ/E vòng/N Sơ_khảo/V không_chỉ/R bởi/E điểm_số/N tốt/A độ/N lệch/A chuẩn/N thấp/A nhất/A ở/E phần/N xử_lý/V ảnh/N mà_còn/C vì/E sự/Nc kiên_định/A quyết_liệt/A của/E các/L sinh_viên/N trong/E phần/N hỏi_đáp/N và/CC sự/Nc nhanh_nhạy/V ở/E phần/N thi/V lập_trình/V
+Hiện_tại/N quái/V xế/N không/R người/N lái/V của/E Alpha_One/Np đã/R chạy/V khá/R mượt_mà/A ở/E mặt_đường/N bằng_phẳng/A nhưng/C thử_thách/N vượt/V cầu/N và/CC chui/V hầm/N vẫn/R còn/V nhiều/A lỗi/N
+Chính/T vì_thế/C cả/P đội/N đang/R dồn/V sức/N cho/E mấy/L ngày/N cuối/A ngày/N nghiền_ngẫm/V tài_liệu/N để/E tìm/V thuật_toán/N tối_ưu/A
+Đợt/N nghỉ/V lễ/N dài/A ngày/N vừa_qua/V dù/C nhiều/A sinh_viên/N quê/N ở/E xa/A sinh_viên/N năm/N nhất/R nhớ/V nhà/N nhưng/C năm/N thành_viên/N quyết_tâm/V ở/V lại/R Hòa_Lạc/Np để/E chăm/V xe/N

@@ -1,0 +1,13 @@
+​/N Công_cụ/V kiểm_tra/V mã/N độc/A Wanna_Cry/Np
+Công_ty/N an_ninh/N mạng/N Vnist/Np cũng/R phát_triển/V công_cụ/N miễn_phí/V trên/E website/N vnist/N
+vn/N cho/V phép/N dò/V quét/V lỗ_hổng/N MS17/M 010/M trong/E các/L dải/N mạng/N để/E phát_hiện/V các/L máy_tính/N chưa/R được/V khắc_phục/V cập_nhật/V bản/N vá/V
+Việc/N này/P giúp/V các/L quản_trị/N có_thể/R nhanh_chóng/A kiểm_tra/V sự/N an_toàn/A của/E các/L máy_tính/N trong/E hệ_thống/N mạng/N đối_với/N lỗ_hổng/N MS17/M 010/M từ/E đó/P có/V phương_án/N cập_nhật/V bản/N vá/V hoặc/N phòng_chống/V tốt/A hơn/R
+Trước/E đó/P mã/N độc/A tống_tiền/N Wanna_Crypt/Np chỉ/R trong/E vài/L giờ/N đã/R lây_nhiễm/V hơn/A 100/M nghìn/N máy_tính/N trên/N thế_giới/N
+Ghi_nhận/N bước/V đầu_từ/V hệ_thống/N giám_sát/N virus/N của/N Bkav/Np từ/E sáng/N 135/M đã/R có/V những/L trường_hợp/N lây_nhiễm/N mã/N độc/A này/P tại/N Việt_Nam/Np
+Con_số/N lây_nhiễm/V được/R dự_báo/V sẽ/R tăng/V mạnh/A trong/E tuần/N này/P với/E số_lượng/N lớn/A máy_tính/N được/V bật/V lên/R khi/N mọi/M người/N đi/V làm/V trở_lại/V
+Wanna_Crypt/Np có/V khả_năng/N quét/V toàn_bộ/N các/L máy_tính/N trong/E cùng/N mạng/N để/V tìm_kiếm/V và/N lây/V trực_tiếp/A vào/E các/L máy/N có/V chứa/V lỗ_hổng/N EternalBlue/N mà/C không/R cần/V người_dùng/V phải/V thao_tác/V trực_tiếp/A với/E tập_tin/N đính/N kèm/V hay/C đường_dẫn/V độc_hại/N
+Vì_vậy/C chỉ/R cần/V một/M máy_tính/N trong/E cơ_quan/N doanh_nghiệp/N bị/V nhiễm/V mã/V độc/A toàn_bộ/N các/L máy_tính/N khác/A trong/E mạng/N sẽ/R có/V nguy_cơ/N bị/V mã/V độc/A tấn_công/V mã_hoá/N dữ_liệu/N
+Theo/E nhận_định/N của/E các/L chuyên_gia/N Bkav/Np Wanna_Crypt/Np có_thể/A xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A vì/N vừa/R lây_lan/V nhanh/N vừa/R có/V tính/N phá_hoại/V nặng_nề/A
+Kiểu/N lây_nhiễm/N của/E mã/N độc/A tuy/C không/R mới/A nhưng/C cho/V thấy/V xu_hướng/N tận_dụng/V các/L lỗ_hổng/N mới/A để/E tấn_công/V kiếm/V tiền/N sẽ/R còn/V được/V hacker/N sử_dụng/V nhiều/A trong/E thời_gian/N tới/V đặc_biệt/A là/V các/L lỗ_hổng/N của/N hệ_điều_hành/N
+Sau/E khi/N quét/V bằng/N tool/N nếu/C phát_hiện/V máy_tính/N có/V lỗ_hổng/N người_dùng/N cần/V sao_chép/V toàn_bộ/N dữ_liệu/N quan_trọng/A trên/E máy/N cập_nhật/V bản/N vá/V cho/V hệ_điều_hành/N bằng/E cách/N vào/V Windows_Update/Np →/V Check/Np for/V updates/N để/E kiểm_tra/V các/L bản/N vá/V mới/A nhất/R
+Để/E phòng_ngừa/V nguy_cơ/N lây_nhiễm/V mã/N độc/A các/L chuyên_gia/N khuyến_cáo/N người_dùng/N mở/V các/L tập_tin/N văn_bản/N nhận/V từ/E Internet/N trong/E môi_trường/N cách_ly/N Safe_Run/Np và/CC cài/V phần_mềm/N diệt/V virus/N thường_trực/V trên/E máy_tính/N để/E được/V bảo_vệ/V tự_động/N

@@ -1,0 +1,16 @@
+Có_thể/R điều_khiển/V trái_cây/N chín/V theo/V ý_muốn/N
+Cây_cối/N có/V khả_năng/N quang_hợp/V nhờ/E các/L lục/V lạp/V trong/E tế_bào/N
+Tốc_độ/N quang_hợp/A của/E lục/V lạp/N quyết_định/V thời_gian/N chín/V của/E trái_cây/N
+Khi/N trái/N chín/M cây/N sản_xuất/V các/L chất/N tạo/V màu/N khiến/V vỏ/N trái/N có/V màu_sắc/N khác_biệt/A so/V với/E khi/N chưa/R chín/V
+Trong/E một/M bài/N trên/E tạp_chí/N Science/Np các/L nhà_khoa_học/N của/E Đại_học/N Leicester/Np tại/E Anh/N tuyên_bố/V họ/P đã/R tìm/V ra/R cơ_chế/N tác_động/V tới/E tốc_độ/N chín/V của/E quả/N
+Họ/P phát_hiện/V một/M gene/N điều_khiển/V quá_trình/N quang_hợp/V trong/E lục/V lạp/N
+Bằng/Np cách/V gây/V đột_biến/N gene/N này/P nhóm/N nghiên_cứu/V có_thể/R thay_đổi/V tốc_độ/N phát_triển/V của/E tế_bào/N thực_vật/N và/CC điều_khiển/V quá_trình/N sản_xuất/V sắc_tố/N màu/N sáng/N trong/E trái/N
+Giáo_sư/N Douglas_Kell/Np giám_đốc/N điều_hành/V Hội_đồng/N Nghiên_cứu/V Công_nghệ/N Sinh_học/N và/CC Các/L ngành/N sinh_vật/N Anh/N cho_biết/V quá_trình/N sinh_trưởng/V của/E thực_vật/N có_thể/R xảy_ra/V rất/R nhanh/A nhờ/V kỹ_thuật/N biến_đổi/V gene/N
+Nông_dân/N có_thể/R thu_hoạch/V trái_cây/N và/CC rau/N vài/L ngày_sau/N khi/N trồng/V ông/N khẳng_định/V
+Nhóm/N nghiên_cứu/V của/E Đại_học/N Leicester/Np đã/R đăng_ký/V bản_quyền/N đối_với/E kỹ_thuật/N mới/A của/E họ/P đồng_thời/R đang/R thử_nghiệm/V nó/P trên/E những/L cây/Nc cà_chua/N ớt/N cảnh/N cam/N quýt/N
+Họ/P khẳng_định/V kỹ_thuật/N mới/R sẽ/R giúp/V nông_dân/N tăng/V hoặc/CC giảm/V tốc_độ/N chín/V của/E cây_trồng/N để/E tránh/V những/L giai_đoạn/N thời_tiết/N bất_thường/A
+Chẳng_hạn/X họ/P có_thể/R kích_thích/V trái/N chín/V nhanh/A trước/E khi/N bão/N lũ/N ập/V tới/R
+Ngoài_ra/C nông_dân/N có_thể/R điều_khiển/V để/E trái/N chín/M trước/E hoặc/CC sau/E giai_đoạn/N cao_điểm/N của/E mùa_vụ/N nhờ/V đó/P họ/P sẽ/R thu/V được/R lợi_nhuận/N cao/A hơn/A
+Chúng_tôi/P đang/R thử_nghiệm/V kỹ_thuật/N trên/E cà_chua/N
+Vì_thế/C tôi/P nghĩ/V rằng/C trong/E vòng/N một/M năm/N chúng_tôi/P sẽ/R biết/V kỹ_thuật/N phát_huy/V tác_dụng/N đúng/A như/C lý_thuyết/N hay/C không/R
+Nếu/C mọi/L việc/N diễn/V ra/R theo/E đúng/A kỳ_vọng/V của/E chúng_tôi/P kỹ_thuật/N mới/R sẽ/R là/V một/M thành_tựu/N mang/V tính/N đột_phá/V trong/E nông_nghiệp/N giáo_sư/N Paul_Jarvis/Np trưởng/Z nhóm/N nghiên_cứu/V phát_biểu/V

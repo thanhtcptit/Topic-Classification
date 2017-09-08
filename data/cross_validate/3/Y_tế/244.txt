@@ -1,0 +1,2 @@
+Khởi_động/N 10000/M bước/N chân/N Thay_đổi/V cuộc_sống/N
+Sáng/N 145/M hơn/N 5000/M người/N đã/R cùng/A tham_gia/V đi/V bộ/N phát_động/N chương_trình/N 10000/M bước/N chân/N Thay_đổi/V cuộc_sống/N diễn/V ra/R tại/E khu_vực/N xung_quanh/N toà/N nhà/N Vinamilk_Tower/Np đường/N Tân_Trào/Np PT/Np ân/V Phú/Np Q7/Np TPHCM/Np

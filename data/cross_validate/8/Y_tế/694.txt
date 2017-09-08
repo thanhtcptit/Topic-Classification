@@ -1,0 +1,11 @@
+Người/Nc công_nhân/N bị/V cọc/N nhồi/V bê_tông/N ép_bụng/A gây/V vỡ/V tá_tràng/N
+Bệnh_nhân/N nhập_viện/V trong/E tình_trạng/N đau/V bu/V ̣/N ng/V dư/A ̃/M dô/Nu ̣/M i/N gô/V ̀/M ng/N cư/V ́/N ng/V
+Bác_sĩ/N kiểm_tra/V phát_hiện/V bệnh_nhân/N bị/V viêm/V phúc_mạc/A toàn_thể/L do/E vơ/V ̃/N ta/P ̣/V ng/V rỗng/N sau/E chấn_thương/N bụng/N kín/A  /M Bệnh_nhân/N được/V hồi_sức/V tích_cực/A sau/E đó/P mổ/V cấp_cứu/V  /EOS
+Bác_sĩ/N Mai_Ho/Np ́/V a/N Trươ/Np ̉/V ng/N khoa/N Ngoa/Np ̣/M i/N Tô/Np ̉/V ng/V qua/E ́/M t/N Bệnh_viện/N Quận_Thủ_Đức/Np /V TP_HCM/Np /V cho_biết/V quá_trình/N phẫu_thuật/V ghi_nhận/V  /M bụng/N bệnh_nhân/N có/V nhiều/A dịch/N đục/A tập_trung/V ở/E dưới/E gan/N ngay/T góc/N phải/V của/E đại_tràng/N
+Xung_quanh/N tá_tràng/V phù/N mọng/V màu/N tím/A xanh/A có/V nhiều/A dịch/N mật/A lẫn/C máu/N bầm/A tím/A tá_tràng/A bị/V dập/V đứt/V đôi/M đoạn/N chỗ/N nối/V đâ/V ̀/N u/A tu/V ̣/A y/P bị/V dập/V nát/A
+Các/L bác_sĩ/N đã/R tiến_hành/V rửa/V hút/V sạch/A dịch/N ổ_bụng/A phẫu_tích/N cắt/V lọc/V tổ_chức/N dập/V nát/A khâu/N ki/N ́/V n/N phần/N gãy/V
+Hiện/N bệnh_nhân/N đã/R ổn_định/V và/CC sẽ/R xuất_viện/V trong/E vài/L ngày/N tới/V  /M Đây/P là/V trường_hợp/N chấn_thương/V bu/V ̣/M ng/N ki/N ́/M n/N rất/R nặng/A được/V phẫu_thuật/V thành_công/V tại/E bệnh_viện/N
+Nơi/N này/P từng/R mổ/V nhiều/A trường_hợp/N chấn_thương/V vơ/V ̃/M gan/N la/V ́/N ch/V tu/V ̣/M y/N ruô/V ̣/M t/N cơ/N hoa/N ̀/M nh/Nu
+Vỡ/V tá_tràng/N là/V một/M bệnh_lý/N ít/A gặp/V trong/E chấn_thương/N bụng/N kín/A với/E tỷ_lệ/N khoảng/N 3-5/M %/Nu
+Trước_đây/N việc/N chẩn_đoán/V sớm/A khá/R khó_khăn/A hiện/N đã/R cải_thiện/V đáng_kể/A
+Do/E tính_chất/N phức_tạp/A của/E thương_tổn/N tỷ_lệ/N biến_chứng/V sau/N mổ/V lên/R đến/E hơn/A 46%/M tỷ_lệ/N tử_vong/V gần/A 13%/M

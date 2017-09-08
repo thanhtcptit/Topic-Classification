@@ -1,0 +1,14 @@
+Phổ/V điểm/N công_bố/V lần/N ba/M liệu/V có/V đúng/A 
+Tuy_nhiên/C theo/V quan_sát/V bằng/E mắt/N thường/A với/E cách/N tính_toán/V số_học/N đơn_thuần/A tôi/P thấy/V kết_quả/N số_liệu/N phổ/V điểm/N lần/N thứ/N thứ/N nhất/M (/Nu công_bố/V chiều/N ngày/N 23/7/M lần/N thứ/N 2/M (/Nu công_bố/V ngày/N 24/7/M sau/E khi/N đã/R có/V sự/N điều_chỉnh/V môn/N Văn/Np và/CC Toán/Np với/E lần/N thứ_ba/N này/P chiều/N ngày/N 26/7/M có/V sự/N lệch/A pha/V trong/E đó/P đáng/V chú_ý/V nhất_là/X số_liệu/N các/L thí_sinh/N bị/V điểm/N liệt/A dưới/E 1,0/M điểm/N dính/V điểm/N 0/M ở/E các/L môn/N thi/V đã/R bị/V tụt/V xuống/R mà/C không/R hiểu/V nguyên_nhân/N vì_sao/X cơ_sở/N nào/P có/V sự/Nc thay_đổi/V như_thế/X 
+Liệu/V đây/P có/V phải/V là/V con_số/N chính_xác/A là/C lần/N công_bố/V cuối_cùng/A phổ/V điểm/N kết_quả/N thi/V đại_học/N năm/N 2015/M hay/C không/R 
+Cụ_thể/A ở/E môn/N Văn/Np Ở/E phổ/V điểm/N lần/N 1/M có/V 935/M thí_sinh/N bị/V điểm/N liệt/A nhưng/C lần/N này/P chỉ/R còn/V 492/M thí_sinh/N trong/E đó/P lần/N 1/M có/V 423/M điểm/N 0/M thì/C lần/N này/P chỉ/R còn/V 186/M điểm/N 0/M 
+ /M  /N Trong/E khi/N đó/P môn/N Sử/Np lần/N 1/M có/V 1.163/M thí_sinh/N dính/V điểm/N 0/M lần/N này/P chỉ/R còn/V 1.111/M điểm/N 0/M trong/E đó/P lần/N 1/M có/V là/V 442/M thí_sinh/N nhưng/C đến/E lần/N ba_chỉ/N còn/V 258/M điểm/N 0/M 
+Lần/N thứ/N nhất/M có/V 11/M thí_sinh/N đạt/V điểm/N 10/M sao/P đến/E lần/N này/P chỉ/R còn/V 10/M thí_sinh/N 
+Ở/E môn/N Địa/N lần/N 1/M có/V 557/M thí_sinh/N bị/V điểm/N liệt/A thì/C đến/E lần/N này/P chỉ/R còn/V 375/M thí_sinh/N trong/E đó/P lần/N 1/M có/V 329/M điểm/N 0/M thì/C lần/N ba_chỉ/N còn/V 165/M điểm/N 0/M 
+Đó/P mới/R chỉ/R là/V thống_kê/V và/CC so_sánh/V ở/E 3/M môn/N khối/N C/N Văn/Np Sử/Np và/CC Địa/Np còn/R những/L môn/N khác/A thì_sao/X 
+Trong/E tính_toán/V các/L số_liệu/N chi_tiết/A với/E số_lượng/N lớn/A thực_hiện/V trong/E thời_gian/N nắn/V có_thể/R có/V sự/Nc nhầm_lẫn/V do/E lỗi/N kỹ_thuật/N 
+Nhưng/C điều/N mà/C có_thể/R tôi/P chưa/R hiểu/V vì_sao/X có/V sự/Nc khác_nhau/A về/E số_liệu/N bảng/N Tổng_hợp/Np kết_quả/N thi/V THPT/Np quốc_gia/N đối_với/E các/L thí_sinh/N tại/E các/L cụm/N thi/V đăng_ký/V lấy/V kết_quả/N để/E tuyển_sinh/V vào/E đại_học/N cao_đẳng/N năm/N 2015/M 
+Để/E tránh/V sự/Nc hiểu/V nhầm/V hoài_nghi/V trong/E dư_luận/N xã_hội/N và/CC tâm_lý/N lo_lắng/V hoang_mang/V của/E các/L thí_sinh/N phụ_huynh/N đề_nghị/V các/L cơ_quan_chức_năng/N của/E Bộ/N GD&/Np ĐT/Np phải/V lý_giải/V công_khai/A trên/E các/L phương_tiện/N truyền_thông/N 
+ /M (/N Ths/Np 
+Trần_Trung_Hiếu/Np GV/Np Trường/N THPT/Np chuyên/A Phan_Bội_Châu/Np Nghệ_An/Np 
+ /M 

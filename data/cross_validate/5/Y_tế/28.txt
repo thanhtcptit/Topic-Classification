@@ -1,0 +1,22 @@
+​/N Cân_bằng/N dinh_dưỡng/N cho/V học_sinh/N tiểu_học/N
+Hơn/A 330/M thầy/N cô/N hiệu_trưởng/N hiệu/N phó/N cán_bộ/N phụ_trách/V công_tác/N bán_trú/N đại_diện/V các/L công_ty/N cung_cấp/V thức_ăn/N sẵn/N ở/V tỉnh/N Bình_Dương/Np đã/R tham_gia/V buổi/N tập_huấn/N sử_dụng/V phần_mềm/N Xây_dựng/V thực_đơn/N cân_bằng/N dinh_dưỡng/N sáng/N 286/M
+Hội_nghị/N triển_khai/V phần_mềm/N do/E Sở/N GDĐT/N Bình_Dương/Np phối_hợp/V với/E Công_ty/N Ajinomoto_Việt_Nam/Np tổ_chức/V dành/V cho/R 93/M trường/N tiểu_học/N có/V tổ_chức/N bữa/N ăn/V bán_trú/N trên/E địa_bàn/N tỉnh/N
+Đảm_bảo/V dinh_dưỡng/N cho/V bữa/N ăn/V bán_trú/N
+Đây/P là/V phần_mềm/N thuộc/V dự_án/N Bữa/N ăn/V học_đường/N do/E Công_ty/N Ajinomoto_Việt_Nam/Np khởi_xướng/V và/CC cùng/A Viện_Dinh_dưỡng/N quốc_gia/N Bộ/N Y/Np tế/V Bộ/N GDĐT/N triển_khai/V thực_hiện/V
+Phần_mềm/N cung_cấp/V cho/E nhà_trường/N một/N ngân_hàng/N thực_đơn/N phong_phú/N gồm/V 120/M thực_đơn/N sẵn/N có/V với/N trên/N 360/M món/N ăn_không/N lặp/V lại/R cho/V bữa/N trưa/N đã/R được/V cân_bằng/N dinh_dưỡng/N theo/V nhu_cầu/N lứa/N tuổi/N đa_dạng/A và/N ngon_miệng/N
+được/V phân_chia/V theo/V 3/M khu_vực/N miền/N bắc/N trung/N và/CC nam/N
+Đồng_thời/N phần_mềm/N có/V tính_năng/N giúp/V các/L trường/N tạo/V thực_đơn/N mới/A bằng/V cách/N kết_hợp/V các/L món/N ăn/V có/V sẵn/A trong/E ngân_hàng/N thực_đơn/N hoặc/N bằng/E các/L nguyên_liệu/N tự/N chọn/V phù_hợp/V với/E từng/N địa_phương/N
+kiểm_tra/V tính/N dinh_dưỡng/N của/E các/L thực_đơn/N nhà_trường/N hiện/N đang/R sử_dụng/V giúp/V nhà_trường/N tính_toán/V và/N quản_lí/N chi_phí/N bữa/N ăn/V của/N học_sinh/N
+Phát_biểu/V tại/E hội_nghị/N bà/N Nguyễn_Phương_Dung/Np phó/N giám_đốc/N Sở/N GDĐT/N Bình_Dương/Np cho/V biết/V Hiện/N nhiều/A nơi/N còn/R bị/V hạn_chế/V về/V kiến_thức/N dinh_dưỡng/N thiếu/V kinh_nghiệm/N xây_dựng/V thực_đơn/N sao/N cho/V vừa/A đáp_ứng/V nhu_cầu/N dinh_dưỡng/N vừa/R phù_hợp/V với/E chi_phí/N hàng/N tháng/N
+Công_tác/N tổ_chức/N bữa/N ăn/V cho/E học_sinh/N các/L trường/N tiểu_học/N bán_trú/N trên/E cả/N nước/N nói_chung/N và/CC địa_bàn/N tỉnh/N Bình_Dương/Np nói_riêng/N còn/V gặp/V nhiều/A khó_khăn/N
+Bà/Nc Dung/Np cũng/R cho/V biết/V thêm/R Nhằm/Np đảm_bảo/V thực_đơn/N cân_bằng/N dinh_dưỡng/N trong/E các/L bữa/N ăn/V của/N nhà_trường/N Sở/N đã/R chỉ_đạo/V các/L phòng/N GDĐT/N các/L trường/N tiểu_học/N bán_trú/N triển_khai/V phần_mềm/N đến/V bữa/N ăn/V các/L trường/N
+Từ/E tháng/N 82017/M Sở/N sẽ/R phối_hợp/V với/E đơn_vị/N cung_cấp/V phần_mềm/N tập_huấn/N sử_dụng/V phần_mềm/N cho/V lãnh_đạo/N cũng/R như/C bếp/N trưởng/N của/E từng/N trường/N tiểu_học/N có/V lớp/N ăn/V bán_trú/A sử_dụng/V phần_mềm/N này/P hiệu_quả/N và/CC thuần_thục/V
+Tạo/V thói_quen/N ăn_uống/V lành_mạnh/N
+Trong/E phần_mềm/N có/V hướng_dẫn/N xây_dựng/V thực_đơn/N lẫn/N cách_thức/N chế_biến/V các/L món/N ăn/V
+Điều/N này/P vừa/R đảm_bảo/V chất_lượng/N vừa/R đảm_bảo/V an_toàn/N vệ_sinh/V thực_phẩm/N giúp/V cải_thiện/N dinh_dưỡng/N và/CC sức_khoẻ/N cho/V các/L em/N học_sinh/N một_cách/N toàn_diện/A –/N ông/N Trương_Đình_Bắc/Np phó/N cục_trưởng/N Cục/N Y/Np tế/N dự_phòng/V Bộ/N Y/Np tế/V cho/V biết/V
+Trước/E đó/P tháng/N 122016/M Bộ/N GDĐT/M Bộ/N Y/Np tế/V và/CC Công_ty/N Ajinomoto_Việt_Nam/Np đã/R phối_hợp/V tổ_chức/V hội_nghị/N triển_khai/V phần_mềm/N Xây_dựng/V thực_đơn/N cân_bằng/N dinh_dưỡng/N cho/V Sở/N GDĐT/N các/L tỉnh_thành/N trên/N quy_mô/N toàn_quốc/N
+Phần_mềm/N được/R cung_cấp/V hoàn_toàn/A miễn_phí/V trên/E website/N của/E dự_án/N wwwbuaanhocduongcomvn/N
+Mỗi/M trường/N tiểu_học/N bán_trú/N đăng_kí/V một/M tài_khoản/N để/E sử_dụng/V đầy_đủ/A các/L chức_năng/N trong/N phần_mềm/N
+TPHCM/Np Đà_Nẵng/Np Hải_Phòng/Np Hà_Nội/Np Lạng_Sơn/Np
+là/V những/L tỉnh_thành/N tiên_phong/N đã/R áp_dụng/V hiệu_quả/N phần_mềm/N để/E nâng/V chất/N bữa/N ăn/V bán_trú/N cho/V học_sinh/N tiểu_học/N
+Cùng/A với/E phần_mềm/N trên/E dự_án/N Bữa/N ăn/V học_đường/N cũng/R triển_khai/V áp_phích/N minh_hoạ/N thực_phẩm/N 3/M phút/Nu thay_đổi/V nhận_thức/N cho/E các/L trường/N tiểu_học/N bán_trú/N nhằm/V giáo_dục/V kiến_thức/N dinh_dưỡng/N thực_phẩm/N cho/V học_sinh/N giúp/V các/L em/N hình/N thành_sự/N yêu/V thích/N đối_với/N thực_phẩm/N từ/E đó/P tạo/V thói_quen/N ăn_uống/V lành_mạnh/N

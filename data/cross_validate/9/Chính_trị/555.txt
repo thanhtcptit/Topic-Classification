@@ -1,0 +1,29 @@
+Vì_sao/X một_số/L nạn_nhân/N tai_nạn/N máy_bay/N thoát/V được/R lưỡi/N hái/V tử_thần/N
+Vụ/N tai_nạn/N máy_bay/N Colombia/Np hôm/N 28/11/M khiến/V 71/M người/N thiệt_mạng/V và/CC chỉ/R 6/M người/N sống_sót/V
+Sự/N chênh_lệch/A lớn/A giữa/E số/N người/N sống_sót/V và/CC thiệt_mạng/V đặt/V ra/R câu_hỏi/N làm/V thế_nào/P một_số/L người/N có_thể/A thoát/V chết/V trong/E thảm_họa/N khủng_khiếp/A như_vậy/X
+Tai_nạn/N máy_bay/N đặc_biệt/A là/C những/L vụ/N liên_quan/V đến/E máy_bay_phản_lực/N đang/R ngày_càng/X hiếm/A
+Theo/E Hiệp/Np hội/N Vận_tải/V Hàng_không/N Quốc_tế/N trong/E năm/N 2015/M cứ/R 3/M 1/M triệu/M chuyến/N bay/V mới/R xảy_ra/V một/M vụ/N tai_nạn/N
+Đó/P là/V một/M thành_tựu/N ngoạn_mục/A cho/E một/M ngành/N công_nghiệp/N có/V tuổi_đời/N chưa/R đầy/A một/M thế_kỷ/N và/CC liên_quan/V đến/E việc/N vận_chuyển/V người_ở/N tốc_độ/N cao/A có_thể/A trong/E môi_trường/N khắc_nghiệt/V
+Nhưng/C khi/N một/M tai_nạn/N xảy_ra/V yếu_tố/N nào/P xác_định/V rằng/C một_số/L hành_khách/N sống_sót/A trong/E khi/N nhiều/A người/N khác/A trên/E cùng/A một/M chuyến/N bay/V thì/C không/R Graham_Braithwaite/V giáo_sư/N về/E an_toàn/N và/CC điều_tra/V tai_nạn/N tại/E Đại_học/N Cranfield/Np viết/V trên/E Conversation/Np rằng/C yếu_tố/N đầu_tiên/A là/V liệu/V một/M tai_nạn/N có/V được/R coi/V là/C có_thể/R sống_sót/V không/R
+Tai_nạn/N không_thể/R sống_sót/V thường/R là/V các/L trường_hợp/N hoàn_toàn/A mất/V kiểm_soát/V hoặc/CC rơi/V ở/E tốc_độ/N cao/A
+Chiếc/Nc máy_bay/N Air_France/Np rơi/V xuống/R Đại_Tây_Dương/Np năm/N 2009/M là/V một/M tai_nạn/N mất/V kiểm_soát/V trong/E khi/N bay/V mà/C không/R ai/P có_thể/A sống_sót/V vì/E lao/V rất/R mạnh/A xuống/V biển/N
+Ngược_lại/C trong/E vụ/N tai_nạn/N của/E máy/N DC10/Np United_Airlines/Np vào/E năm/N 1989/M tuy/C động_cơ/N ở/E phần/N đuôi/N bị/V hỏng/V dẫn/V đến/E mất/V kiểm_soát/V điều_khiển/V bay/V phi_hành_đoàn/N đã/R xử_lý/V tốt/A khi/N lái/V máy_bay/N chỉ/R với/E lực/N đẩy/N của/E động_cơ/N giúp/V 185/M trong/E 296/M người/N trên/E khoang/N sống_sót/N
+Tai_nạn/N đột_ngột/A xảy_ra/V trong/E giai_đoạn/N máy_bay/N đang/R ở/V độ/N cao/A và/CC tốc_độ/N ổn_định/A thường/R ít/A có_thể/R sống_sót/A hơn/R vì/E tổ/N bay/V thường/R không/R nhận_thức/V được/R vấn_đề/N sự_cố/N xảy_ra/V ở/E tốc_độ/N cao/A và/CC phi_hành_đoàn/N cũng_như/C hành_khách/N không/R chuẩn_bị/V tâm_lý/N trước/E khi/N rơi/V
+Những/L trường_hợp/N này/P thường/R hiếm/A có/V người/N sống_sót/V và/CC nguyên_nhân/N một_số/L người/N thoát/V chết/V có_thể/R là/V do/E may_mắn/A chẳng_hạn/X như/C rơi/V vào/E cây/Nc  /N Điều/N đó/P từng/R xảy_ra/V khi/N 4/M người/N sống_sót/V sau/E tai_nạn/N năm/N 1985/M của/E chiếc/Nc JAL/Np Boeing/Np 747/M làm/V chết/V 520/M người/N khi/N phi_cơ/N đâm/V vào/E sườn/N núi/N
+Hội_đồng/N An_toàn/A Giao_thông/N Vận_tải/V châu/N Âu/Np ước_tính/V 90%/M các/L vụ/N tai_nạn/N máy_bay/N là/V có_thể/A sống_sót/V
+Tỷ_lệ/N cao/A này/P là/V do/E những/L cải_tiến/V khoa_học/N trong/E việc_làm/N cho/E cấu_trúc/N máy_bay/N có_thể/R đối_phó/V với/E va_chạm/V tốt/A hơn/R do/E cải_tiến/V về/E môi_trường/N buồng_lái/N và/CC đào_tạo/V phi_hành_đoàn/N
+Chất_liệu/N được/V sử_dụng/V hiện_nay/N ít/A dễ/A cháy/V
+Những/L chiếc/Nc ghế/N có_thể/A chịu/V va_chạm/V tốt/A hơn/R  /M Lối_thoát/N hiểm/A được/R đánh_dấu/V rõ_ràng/A hơn/R
+Hệ_thống/N chữa_cháy/V hiệu_quả/N hơn/A và/CC không_gian/N xung_quanh/N lối_thoát/N hiểm/A được/R thiết_kế/V tốt/A hơn/R để/E hành_khách/N có_thể/R sơ_tán/V nhanh/A
+Những/L phát_triển/N này/P đều/R dựa/V trên/E việc/N điều_tra/V các/L vụ/N tai_nạn/N trước/E đó/P và/CC nỗ_lực/V cải_thiện/V tiêu_chuẩn/N của/E những/L nhà/N quản_lý/V an_toàn/A và/CC các/L nhà_sản_xuất/N
+Tuy_nhiên/C các/L yếu_tố/N ảnh_hưởng/V đến/E khả_năng/N sống_sót/V rất/R nhiều/A và/CC đa_dạng/A
+Trong/E các/L vụ/N tai_nạn/N mà/C tổ/N bay/V và/CC hành_khách/N đã/R sẵn_sàng/V tâm_lý/N việc/N sử_dụng/V dây/N an_toàn/A cùng/C việc/N áp_dụng/V vị_trí/N chuẩn_bị/V va_đập/V phù_hợp/V được/R cho/V là/C có/V tác_động/N lớn/A đến/E khả_năng/N sống_sót/V  /M Erwin_Tumiri/Np thành_viên/N phi_hành_đoàn/N sống_sót/V vụ/N tai_nạn/N hàng_không/N ở/E Colombia/Np hôm/N 28/11/M nói/V rằng/C anh/N thoát/V chết/V nhờ/V ngồi/V theo/E tư_thế/N bào_thai/N
+Những/L người/N lắng_nghe/V các/L thông_báo/N an_toàn/A và/CC chú_ý/V đến/E lối_thoát/N hiểm/A gần/A nhất/R chẳng_hạn/X bằng/E cách/N đếm/V số/N hàng/N ghế/N phía/N trước/A hoặc/CC phía/N sau/N họ/P có/V nhiều/A khả_năng/N thoát/V ra/R được/R khỏi/V máy_bay/N bốc/V cháy/V
+Cơ_hội/N sống_sót/A của/E họ/P cũng/R được/V tăng/V lên/R bởi/E các/L hướng_dẫn/V quyết_đoán/N của/E tổ/N bay/V
+Việc/N ngồi/V gần/A lối_thoát/N hiểm/A cũng/R là/V lợi_thế/N mặc_dù/C những/L người/N ngồi/V ở/E vị_trí/N này/P cần/V phải/V sẵn_sàng/A hành_động/V nhanh_chóng/A để/E tránh/V bị/V xô_đẩy/V bởi/E những/L người/N khác/A cố_gắng/V thoát/V ra/R
+Các/L yếu_tố/N bên/N ngoài/N cũng/R có/V tác_động/N lớn/A
+Có/V những/L quy_tắc/N nghiêm_ngặt/A ở/E sân_bay/N về/V tháo_gỡ/V chướng_ngại_vật/N nhằm/V đảm_bảo/V đội_ngũ/N cứu_hỏa/N có_thể/R tiếp_cận/V bất_cứ/R phần_nào/L ở/E phi_trường/N trong/E vòng/N ba/M phút/Nu sau/E khi/N tai_nạn/N xảy_ra/V
+Điều/N này/P giúp/V tăng/V đáng_kể/A số_lượng/N người/N đã/R sống_sót/V qua/R va_chạm/V nhưng/C vẫn/R có/V nguy_cơ/N mất_mạng/V khi/N máy_bay/N bốc/V cháy/V
+Trên_hết/N tất_cả/P hành_khách/N đều/R nên/C cảnh_giác/V  /A Theo/E Boeing/Np trong/E giai_đoạn/N 2006/M đến/E 2015/M 66%/M vụ/N tai_nạn/N máy_bay/N chết/V người/N xảy_ra/V khi/N phi_cơ/N còn/R ở/V trên/E mặt_đất/N trong/E thời_gian/N cất_cánh/V hoặc/CC trong/E quá_trình/N tiếp_cận/V cuối_cùng/A và/CC hạ_cánh/V
+Vì_vậy/C người/N đi/V máy_bay/N nên/C chú_ý/V đi/V sẵn/A giày/N mặc/V quần_áo/N thoải_mái/A và/CC tập_trung/V lắng_nghe/V hướng_dẫn/V của/E tổ/N bay/V
+Kết_quả/N là/V họ/P sẽ/R phục_vụ/V bạn/N chu_đáo/A hơn/A và/CC trong/E trường_hợp/N xấu/A việc/N đó/P cũng/R có_thể/R tạo/V ra/R sự/Nc khác_biệt/A lớn/A thậm_chí/R cứu_mạng/V bạn/N giáo_sư/N  /N Braithwaite/Np viết/V

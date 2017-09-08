@@ -1,0 +1,10 @@
+Không_gian/N đa/N sắc/N của/E festival/N Đờn/Np ca/V tài_tử/N quốc_gia/N lần/N 2/M
+Festival_Đờn/Np ca/V tài_tử/N  /M quốc_gia/N lần/N thứ_hai/N Bình_Dương/N năm/N 2017/M đã/R kết_thúc/V với/E đêm/N bế_mạc/N  /A mang/V đậm/A dấu_ấn/N của/E N M báu_vật/N đất/N phương/N Nam/Np V N
+Trong_suốt/A quá_trình/N tổ_chức/V festival/N nhiều/A hoạt_động/N bảo_tồn/V và/CC quảng_bá/V bộ_môn/N nghệ_thuật/N đờn/V ca/N tài_tử/N đã/R diễn/V ra/R
+Ngoài/E đờn/N ca/N tài_tử/N khách/N mời/V còn/R có/V dịp/N trải_nghiệm/V ẩm_thực/V đặc_trưng/A của/E 21/M tỉnh/N thành/V
+Mỗi/L tỉnh/N được/V trang_trí/V khác_nhau/A cố_gắng/V trưng_bày/V các/L đặc_sản/N của/E địa_phương/N theo/E phong_cách/N riêng/A
+Ban/N tổ_chức/V còn/R tổ_chức/V cuộc/N tranh/V tài/N giữa/E các/L câu_lạc_bộ/N đờn/V ca/N tài_tử/N ở/E khắp/A cả/P nước/N
+861/M tác_phẩm/N của/E tác_giả/N trong/E và/CC ngoài/N tỉnh/N được/V gửi/V về/E tham_gia/V đặc_biệt/A là/C 21/M tỉnh/N thành/V có/V phong_trào/N đờn/V ca/N tài_tử/N phát_triển/V ở/E phía/N Nam/Np
+529/M tác_phẩm/N xuất_sắc/A được/R ban/N tổ_chức/V tuyển_chọn/V vào/E vòng/N chấm/V chung_khảo/V với/E sự/Nc thẩm_định/V của/E các/L nghệ_sĩ/N đến/V từ/E Học_viện/N Âm_nhạc/N TP_HCM/Np  /EOS
+Nội_dung/N của/E các/L tác_phẩm/N tập_trung/V vào/E chủ_đề/N về/E quê_hương/N đất_nước/N con_người/N trong/E lao_động/N xây_dựng/V và/CC bảo_vệ/V tổ_quốc/N ca_ngợi/V những/L thành_tựu/N về/E kinh_tế/N xã_hội/N đã/R đạt/V được/R trong/E thời_kỳ/N mới/R và/CC hội_nhập/V
+Ngoài_ra/C các/L tác_phẩm/N còn/R kêu_gọi/V vận_động/V toàn/R dân/N đoàn_kết/V xây_dựng/V nông_thôn/N mới/R đô_thị/N văn_minh/N phản_ảnh/V đất/N và/CC người/N Nam_bộ/Np với/E đờn/N ca/N tài_tử/N

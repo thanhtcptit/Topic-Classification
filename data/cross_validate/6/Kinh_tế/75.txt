@@ -1,0 +1,14 @@
+Ngân_hàng/N Nhà_nước/N mạnh_tay/V mua/V giá/N USD/Np lên/V
+Ngày/N 236/M tỉ_giá/N trung_tâm/N tiếp_tục/V được/V Ngân_hàng/N Nhà_nước/N duy_trì/V ở/V mức/N cao/A 22432/M đồngUSD/N
+Với/E mức/N này/P giá/N mua/V USD/N cao/A nhất/A mà/C các/L ngân_hàng/N được/V phép/V ấn_định/V lên/V đến/R 23105/M đồngUSD/N
+Một/M diễn_biến/N mới/A là/V Ngân_hàng/N Nhà_nước/N đã/R tăng_giá/V mua/V USD/Np thêm/R 50/M đồng/Nu lên/V mức/N 22725/M đồngUSD/N
+So/V với/E mức/N giá/N mua/V USD/Np phổ_biến/V tại/E các/L ngân_hàng/N 22660/M đồngUSD/N mức/N giá/N mua/V USD/Np do/E Sở/N giao_dịch/N Ngân_hàng/N Nhà_nước/N niêm_yết/N đang/R cao/A hơn/A khoảng/N 65/M đồngUSD/N
+Đây/P là/V lần/N thứ_ba/N kể/V từ/E đầu/N năm/N 2017/M Ngân_hàng/N Nhà_nước/N tăng_giá/V mua/V USD/Np sau/E hai/M lần/N tăng/V tổng_cộng/N 100/M đồngUSD/N vào/E tháng/N 1/M và/N tháng/N 4/M
+Theo/E các/L ngân_hàng/N động_thái/N tăng_giá/V mua/V USD/N của/E Ngân_hàng/N Nhà_nước/N nhằm/V nhiều/A mục_tiêu/N kích_thích/V doanh_nghiệp/N bán/V USD/Np tăng/V dự_trữ/N ngoại_hối/N
+Đây/P cũng/R là/V biện_pháp/N nhằm/V tăng/V cung/N tiền/N VND/N nhằm/V hạ/V nhiệt/N lãi_suất/N trên/N thị_trường/N
+Vừa_qua/N Cục/N Dự_trữ/N Liên_Bang_Mỹ/Np FED/Np đã/R tăng/V lãi_suất/N USD/Np thêm/V 025/M lần/N thứ/N 2/M trong/E năm/N 2017/M
+Việc/N FED/Np liên_tục/A thắt/V chặt/A tiền_tệ/N thời_gian/N qua/R có_thể/R tạo/V ra/R áp_lực/N tích_luỹ/V lên/R tỉ_giá/N trong/E nước/N đặc_biệt/A trong/E tháng/N 11/M và/N tháng/N 12/M năm/N nay/P thời_điểm/N cận_kề/V với/E phiên/N họp/N lãi_suất/N cuối_cùng/A của/E FED/Np trong/E 2017/M cộng_hưởng/N với/E nhu_cầu/N USD/Np trong/E nước/N thường/R cao/A trong/E thời_điểm/N này/P
+Do_vậy/C đây/P cũng/R là/V động_thái/N chuẩn_bị/V của/E Ngân_hàng/N Nhà_nước/N nhằm/V sẵn_sàng/V nguồn/N cung/N ngoại_tệ/N khi/N cần_thiết/V để/E ổn_định/V thị_trường/N
+Cuối/A ngày/N 236/M giá/N vàng/N thế_giới/N tăng/V nhẹ/A lên/V mức/N 12573/M USDounce/N quy_đổi/N tương_đương/V 345/M triệu/N đồnglượng/N
+Giá/N vàng/N miếng/N SJC/Np bán/V ra/R ở/V mức/N 3647/M triệu/M đồnglượng/N
+So/V với/E giá/N vàng/N thế_giới/N quy_đổi/N giá/N vàng/N trong/E nước/N đang/R cao/A hơn/A 197/M triệu/N đồnglượng/N

@@ -1,0 +1,47 @@
+Bệnh_nhân/N bị/V tai_biến/V chạy/V thận/N M Tôi/P khó/A thở/V xin/V rút/V máy/N kịp/A nên/C thoát/V chết/V M
+Bà/N Rấm/Np bắt_đầu/V chạy/V thận/N nhân_tạo/A từ/E tháng/N 11/2015/M mỗi/M tuần/N 3/M lần/N đến/V viện/N lọc/V máu/N
+Sáng/N 29/5/M bà/N Rấm/Np chạy/V ca/N đầu_tiên/A lúc/N 7h/M
+Chung/A buồng/N với/E bà/N Rấm/Np còn/R có/V 4/M bệnh_nhân/N khác/A
+Chạy/V thận/N được/V một/M lát/N thì/C bà/N bắt_đầu/V thấy/V tức/E ngực/N khó/A thở/V đau/V bụng/N âm_ỉ/A tay_chân/N bị/V tê/A rã_rời/A
+Lúc/N đấy/P tôi/P vội/A nói/V với/E bác_sĩ/N về/E cảm_giác/N khó_chịu/A của/E mình/P thì/C được/V bác_sĩ/N rút/V máy/N rồi/C sau/E đó/P bất_tỉnh/A
+Rất/R may/A được/V cấp_cứu/V ngay/R nên/C tôi/P sống_sót/V ”/A bà/N Rấm/Np nhớ/V lại/R
+Bà/N Vân/Np 54/M tuổi/N cũng/R gặp/V tình_trạng/N như/C bà/N Rấm/Np
+Sau/E 12/M tiếng/N rơi/V vào/E tình_trạng/N hôn_mê/V bà/N Vân/Np tỉnh/N dậy/V vẫn/R không/R tin/V mình/P có_thể/R sống/V
+Khi/N đó/P bà/N mới/R chạy/V thận/N khoảng/A 45/M phút/Nu thì/C bắt_đầu/V cảm_thấy/V ngứa_tai/A lưỡi/N cổ_họng/N rồi/C ngứa/V lan/V ra/R toàn_thân/N  /M “/N Chưa/R
+kịp/A hiểu/V chuyện/N gì/P thì/C tôi/P nôn/V thốc/N nôn/V tháo/V sau/E đó/P hôn_mê/V ”/M người/Nc phụ_nữ/N vẫn/R còn/R rất/R mệt_mỏi/A sau/E tai_biến/N nên/C chỉ/R có_thể/A thều_thào/V chia_sẻ/V
+Còn/C ông/Nc Thiều/Np 44/M tuổi/N cũng/R nói/V một_cách/N yếu_ớt/A “/M Tôi/P sống/V rồi/R khỏe/A rồi/R ”/V
+Sáng/N 29/5/M khi/N mới/R chạy/V thận/N được/V khoảng/A một/M giờ/N thì/C bắt_đầu/V thấy/V dấu_hiệu/N bất_thường/A
+“/M Lúc/N đầu/N gia_đình/N cũng/R rất/R sợ/V nhưng/C nhận/V được/R sự/N chăm_sóc/V nhiệt_tình/A của/E bác_sĩ/N chồng/N tôi/P qua/V cơn/N nguy_kịch/A nên/C cả/P nhà/N yên_tâm/A hơn/R nhiều/A ”/N vợ/N ông/N Thiều/Np nói/V
+Ông/Nc Thiều/Np đã/R chạy/V thận/N nhân_tạo/A được/V 3/M năm/N  /EOS
+Là/V một/M trong/E số/N 10/M bệnh_nhân/N được/V chuyển/V đi/V ngay/R trong/E đêm/N 29/5/M về/E Bệnh_viện/N Bạch_Mai/Np /V Hà_Nội/Np /A chị/N Lan/Np 29/M tuổi/N cho_biết/V hiện/N chị/N thấy/V bình_thường/A
+“/M Lúc/N đó/P thực_sự/A tôi/P cũng/R không/R hiểu/V chuyện/N gì/P xảy_ra/V
+Bây_giờ/P khi/N mọi/L chuyện/N đã/R qua/V biết/V có/V 7/M người/N đã/R chết/V tôi/P thấy/V mình/P thực_sự/A may_mắn/A ”/A Lan/Np nói/V
+Cô_gái/N đã/R chạy/V thận/N được/V 4/M năm/N mỗi/M tuần/N chạy/V định_kỳ/N 3/M lần/N
+Trong/E đêm/N 29/5/M các/L chuyến/N xe/N cứu_thương/V lần_lượt/R hụ/V còi/N chạy/V đi/V rồi/C chạy/V về/R để/E đưa/V 12/M bệnh_nhân/N bị/V tai_biến/V về/E Bệnh_viện/N Bạch_Mai/Np chạy/V thận/N nhân_tạo/A tiếp_tục/V
+Chỉ/R cách/V nơi/N xe/N cứu_thương/V ra_vào/V vài/L trăm/M mét/Nu là/V nhà_xác/N bệnh_viện/N  /V Nửa/M
+đêm/N khu/N nhà_xác/N vẫn/R sáng/A đèn/N
+Bên/N trong/E các/L chuyên_gia/N tiến_hành/V khám_nghiệm/V tử_thi/N các/L bệnh_nhân/N
+Ngay/T ngoài/E cửa/N lực_lượng/N công_an/N chăng/R dây/N bảo_vệ/V không/R cho/E người/N không/R có/V nhiệm_vụ/N ra_vào/V
+Đối_diện/V đó/P thân_nhân/N các/L bệnh_nhân/N hướng/N ánh/N mắt/N về/E phía/N nhà_xác/N đợi/V nhận/V thi_hài/N sau/E khi/N được/V giám_định/V pháp_y/N
+Trong/E màn/N đêm/N yên_tĩnh/A thỉnh_thoảng/R vang/V lên_tiếng/V khóc/V khẽ/A tiếng/N sụt_sùi/A
+Có/V nhiều/A người/N lặng_lẽ/A
+Mái_tóc/N rối_bời/A người/Nc phụ_nữ/N tầm/N hơn/A 50/M tuổi/N ngồi/V dưới/E gốc/N cây/Nc mắt/N đã/R đỏ_hoe/A khóc/V không/R thành/V tiếng/N thi_thoảng/R lại/R nấc/V lên/R vì/E thương/V con/N đang/R nằm/V trong/E nhà_xác/N
+Bà/N đã/R đợi/V gần_như/R cả/P ngày/N mà/C chưa_thể/R đưa/V con/N về/E
+“/M Sáng/N nay/P khi/N đi/V chạy/V thận/N con/N vẫn/R bình_thường/A còn/C nhắn_tin/V bán/V hàng/N online/V không/R ngờ/V giờ/N này/P đã/R mất/V ”/M người_mẹ/N sụt_sùi/A nói/V
+Sợ/V bà/N gục/V ngã/N người/N cháu/N khuyên/V bà/N về/V nhà/N nghỉ_ngơi/V “/N Nửa/M tiếng/Nu nữa/R mới/R xong/V cô/N về/V nhà/N đi/V ngày_mai/N còn/V nhiều/A việc/N ngồi/V khóc_lóc/V ở/E đây/P cũng/R không/R được/V việc_gì/V
+Về/V đi/V rồi/C cháu/N đưa/V em/N về/V ”/N
+Người_mẹ/N khóc/V nấc/V lên/R thành/V tiếng/N khi/N người/N cháu/N đỡ/V mình/P đứng_dậy/V
+Bước/V chân/N liêu_xiêu/A người/Nc phụ_nữ/N rời/V đi/V nghiêng_ngả/V
+Cách/V đó/P không/R xa/A một/M cụ/N ông/N cũng/R đang/R ngóng/V người_thân/N bùi_ngùi/A chia_sẻ/V “/M Không/R chạy/V thận/N cũng/R chết/V mà/C chữa/V cũng/R chết/V nói_chung/X là/C cái/Nc số/N thì/C cũng/R phải/V đành/V chấp_nhận/V
+Nhưng/C thực_sự/A đó/P là/V cái/Nc chết/V oan_uổng/A chết/V hết_sức/R đột_ngột/A mà/C không_thể/R hiểu/V vì_sao/X ”/M
+Ngồi/V mỏi/V chân/N cụ/N ông/N lại/R đứng_dậy/V thở_dài/V
+Có/V mẹ/N không/R may/A tử_vong/N trong/E ca/N tai_biến/V anh/Nc Thanh/Np cũng/R không/R khỏi/V bàng_hoàng/A trước/E sự/Nc ra_đi/V quá/R đột_ngột/A của/E mẹ/N
+“/M Sáng/N 29/5/M mẹ/N tôi/P vẫn/R đi_lại/V bình_thường/A ”/M anh/Nc Thanh/Np đau_buồn/A nói/V  /M Mẹ/N anh/N đã/R chạy/V thận/N được/V 7/M năm/N tại/E bệnh_viện/N mỗi/L tuần/N đều_đặn/A 3/M lần/N và/CC chưa/R bao_giờ/P có_điều/X gì/P bất_thường/A xảy_ra/V
+Lúc/N này/P gia_đình/N anh/N chỉ/R mong_muốn/V sớm/A đưa/V thi_hài/N của/E mẹ/N về/V nhà/N làm/V đám_tang/V
+Trong/E ca/N chạy/V thận/N đầu_tiên/A sáng/N 29/5/M 18/M người/N đang/R chạy/V thận/N bỗng_dưng/R có/V biểu_hiện/N nghi/V sốc/N phản_vệ/V
+7/M người/N đã/R không_thể/R qua/V khỏi/R một/M nữ/N bệnh_nhân/N đang/R trong/E tình_trạng/N nguy_kịch/A 10/M người/N đã/R được/V chuyển/V về/E Bệnh_viện/N Bạch_Mai/Np ngay/T trong/E đêm/N
+Bệnh_viện/N đa_khoa/N Hòa_Bình/Np phối_hợp/V với/E cơ_quan/N công_an/N niêm_phong/V máy_móc/N trang_thiết_bị/N và/CC thuốc_men/N tại/E Khoa_Thận/Np nhân_tạo/A để/E điều_tra/V
+Hiện_Khoa_Thận/Np nhân_tạo/A đã/R tạm/A dừng/V tiếp_nhận/V bệnh_nhân/N
+Nguyên_nhân/N gây/V tai_biến/N đang/R được/V điều_tra/V
+Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình_Trương_Quý_Dương/Np gửi/V lời/N xin_lỗi/V các/L bệnh_nhân/N và/CC gia_đình/N
+Bộ/N Y_tế/N đánh_giá/V đây/P là/V ca/N tai_biến/V y_khoa/N nghiêm_trọng/A nhất/R trong/E nhiều/A năm/N qua/V

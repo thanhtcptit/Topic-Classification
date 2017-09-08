@@ -1,0 +1,34 @@
+Cảnh_báo/N dịch/V viêm/N não/N Nhật_Bản/Np
+Hằng/Np năm/N số/N trẻ/N mắc/V viêm/N não/N Nhật_Bản/Np thường/R gia_tăng/V vào/E tháng/N 69/M hằng/N năm/N ở/V khu_vực/N phía/N Bắc/Np
+Tại_Bệnh_viện/N Nhi/Np T/Np
+Ư/N trẻ/N mắc/V viêm/N não/N tăng/V rất/R mạnh/A trong/E tháng/N 6/M có/V 21/M trẻ/N viêm/N não/N Nhật_Bản/Np đã/R vào/V viện/N điều_trị/V từ/E đầu/N tháng/N 6/M đến/N nay/N
+Trẻ/N mắc/V bệnh/N đến/V từ/E nhiều/A tỉnh_thành/N phía/N Bắc/Np với/E dấu_hiệu/N chung/V trước/E khi/N vào/V viện/N là/V sốt/N cao/A dùng/V thuốc/N hạ/V sốt/N không/R hiệu_quả/N trẻ/A hôn/V mê_hoặc/A liệt/N đa_số/N các/L trẻ/N trên/A 5/M tuổi/N
+Cẩn_trọng/N trẻ/N bị/V liệt/N do/E viêm/N não/N Nhật_Bản/Np
+Theo/E Văn_phòng/N tiêm_chủng/N mở_rộng/V miền/N Bắc/Np từ/E đầu/N năm/N đến/V nay/P Chương_trình/N tiêm_chủng/N mở_rộng/N quốc_gia/N đã/R triển_khai/V chiến_dịch/N tiêm/N vét/N và/CC tiêm/V bổ_sung/V văcxin/N ngừa/N viêm/N não/N Nhật_Bản/Np tại/E các/L tỉnh/N nguy_cơ/N cao/N
+Viêm/N não/N Nhật_Bản/Np là/V bệnh/N có/V văcxin/N phòng/N từ/E năm/N 2015/M đã/R triển_khai/V tiêm/V trong/E tiêm_chủng/N thường_xuyên/N tại/E xã_phường/N trước/N đó/P tiêm/V ngừa/N theo/V chiến_dịch/N mà/C vì_sao/N vẫn/R có/V trẻ/N mắc/V bệnh/N
+Một/M chuyên_gia/N về/V tiêm_chủng/N cho_hay/V trước/N 2015/M chỉ/N tiêm_chủng/V kiểu/N xôi/N đỗ/V nghĩa_là/N nơi/N có/V nơi/N không/R nếu/C tỉ_lệ/N tiêm_chủng/V ở/V các/L vùng/N có/V triển_khai/V tiêm/N ngừa/N đạt/V 8090/M thì/C số/N trẻ/A chưa/R có/V miễn_dịch/N vẫn/R rất/R lớn/A đặc_biệt/A là/C nhóm/N trẻ/N trên/A 5/M tuổi/N thời_điểm/N các/L cháu/N đến/V lịch/N tiêm_chủng/V văcxin/N ngừa/N viêm/N não/N Nhật_Bản/Np thì/C văcxin/N này/P chưa/R được/V đưa/V vào/R tiêm_chủng/V thường_xuyên/A
+Bên_cạnh/N viêm/N não/N Nhật_Bản/Np một_thể/V viêm/N não/N khác/A có/V tỉ_lệ/N mắc/N khá/N cao/A là/V viêm/N não/N do/N virút/V với/E 150/M cháu/N mắc/V bệnh/N ghi_nhận/V từ/E đầu/N 2017/M riêng/N tại/E khu_vực/N phía/N Bắc/Np
+Nhưng/C theo/V ông/N Nguyễn_Văn_Lâm/Np trưởng/N khoa/N truyền_nhiễm/N Bệnh_viện/N Nhi/Np T/Np
+Ư/N viêm/N não/N Nhật_Bản/Np có/V tỉ_lệ/N tử_vong/N hoặc/N để/V lại/R di_chứng/N cao/A hơn/R tới/V 14/M các/N cháu/N mắc/V bệnh/N trong/N đó/P các/L di_chứng/N thường/R gặp/V là/V liệt/N rối_loạn/V tâm_thần/N
+Không/R được/V lơ_là/N tiêm_chủng/N diệt/V muỗi/N
+Thông_tin/N từ/E Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np gần/A đây/P bệnh_viện/N cũng/R tiếp_nhận/V cấp_cứu/V điều_trị/V cho/E nhiều/A trẻ_em/N mắc/V bệnh/N viêm/N não/N số/N trẻ/N mắc/V bệnh/N tập_trung/V từ/E 710/M tuổi/N
+Trong/E đó/P hầu_hết/A các/L trường_hợp/N không/R tiêm/V văcxin/N phòng_bệnh/N hoặc/N không/R tiêm/V nhắc/N mũi/N thứ/N 3/M
+Tính/V chung/A từ/E đầu/N năm/N 2017/M đến/N nay/P số/N ca/N viêm/V não/N nhập_viện/N đã/R trên/V 30/M trường_hợp/N
+Cao_điểm/N mùa/N dịch/V viêm/N não/N hằng/R năm/N thường/R từ/E tháng/N 68/M
+Đây/P là/V lúc/N thời_tiết/N nóng/A ẩm/N mưa/V nhiều/A thuận_lợi/N cho/V các/L loại/N virút/N gây/V bệnh/N phát_triển/N
+Bác/N sĩ/N CK/Np II/M Hà_Anh_Tuấn/Np trưởng/N khoa/N hồi_sức/N tích_cực/N chống/V độc/N Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np cho/V biết/V viêm/N não/N là/V bệnh/N nhiễm_khuẩn/N cấp_tính/N hệ/N thần_kinh_trung_ương/N chủ_yếu/A do/E virút/N gây/V ra/R
+Có/V 3/M loại/N virút/N thường/R gây/V viêm/N não/N ở/E trẻ_em/N là/V viêm/N não/N Nhật_Bản/Np Enterovirus/Np Herpes/Np simplex/V
+Bệnh/N có_thể/A lây/V qua/V đường/N muỗi/N đốt/V viêm/N não/N Nhật_Bản/Np đường/N hô_hấp/N Herpes/Np hoặc/N đường/N tiêu_hoá/N Enterovirus/Np
+Vì_vậy/C biện_pháp/N phòng_bệnh/N hiệu_quả/N nhất_là/N phòng_ngừa/N muỗi/N đốt/V và/N tiêm/V văcxin/N phòng_bệnh/N viêm/N não/N Nhật_Bản/Np B/Np và/CC não/N mô/N cầu/N
+Tiêm/N ngừa/N viêm/N não/N phải/V tiêm/V đủ/A 3/M mũi/N lúc/N trẻ/A 1/M tuổi/N sau/N 2/M tuần/N và/CC nhắc/V lại/R sau/E 5/M năm/N
+Nếu/C không/R tiêm/V nhắc/V lại/R thì/C xem/V như/C trẻ/N không/R có/V miễn_dịch/N
+Riêng/T đối_với/N viêm/N não/N Nhật_Bản/Np lây/V do/E muỗi/N đốt/V muỗi/N gây/V bệnh/N khác/A với/E muỗi/N sốt_xuất_huyết/N là/V loại/N muỗi/N sống/V bên/N ngoài/N ruộng/N hoặc/N gần/A các/L khu_vực/N chăn_nuôi/V heo/N
+Nên/C biện_pháp/N phòng_bệnh/V quan_trọng/A là/V diệt/N muỗi/N đề_phòng/N muỗi/N đốt/V
+Người_ta/N coi/V viêm/N não/N Nhật_Bản/Np là/V một/M căn_bệnh/N đáng/V sợ/V khi/N vào/V dịp/N hè/N nếu/C con/Nc bạn/N bị/V muỗi/N mang/V mầm/N bệnh/N đốt/V trong/E khi/N cháu/N chưa/R được/V tiêm/V ngừa/N và/CC chưa/V có/V kháng_thể/N phòng_bệnh/N cháu/N có_thể/A liệt/N không/R nói/V trở_lại/V được/R hoặc/N nói/V ngọng/N rối_loạn/V về/V vận_động/V trí_tuệ/N và/CC thay_đổi/V hoàn_toàn/A về/V tương_lai/N
+Tại_Bệnh_viện/N Nhi/Np T/Np
+Ư/N chúng_tôi/P đã/R gặp/V cháu/N bé/N 10/M tuổi/N bị/V viêm/N não/N Nhật_Bản/Np cổ/N cháu/N yếu/N tới/V mức/N không/R đỡ/V được/R đầu/N cháu/N không/R nói/V được/R dù/N rất/R muốn/V tháng/N 5/M vừa_qua/N cháu/N vừa/R học/V xong/V lớp/N 4/M
+Hãy/R đưa/V con/N bạn/N đi/V tiêm_chủng/V đúng/A lịch/N và/CC hãy/R tiêm/V bổ_sung/N nếu/C cháu/N chưa/R được/V tiêm/V đủ/A mũi/N để/E phòng/V căn_bệnh/N không/R mới/A nhưng/C rất/R đáng/V sợ/V này/N
+Theo/E bác_sĩ/N CK/Np II/N Hà_Anh_Tuấn/Np bệnh/N viêm/N não/N nói_chung/N thường/R không/R có/V triệu_chứng/N phân_biệt/N lúc/N mới/R phát/V bệnh/N người_bệnh/N thường/A sốt/V cao/A đột_ngột/A liên_tục/V đau_đầu/N buồn_nôn/N nôn/V ói/N
+Cần/V đến/V bệnh_viện/N ngay/N khi/N sốt/V liên_tục/A ở/E ngày/N thứ/N 2/M
+Bệnh/N viêm/N não/N không/R có/V thuốc/N đặc_trị/N chỉ/R điều_trị/V triệu_chứng/N người_bệnh/N thường/A rơi/V vào/V tình_trạng/N suy/V hô_hấp/N thở/V máy/N
+Việc/N xác_định/V loại/N viêm/N não/N nào/N cũng/R khó_khăn/A và/CC mất/V thời_gian/N gửi/V mẫu/N lên/E Viện_Pasteur/Np điều_trị/V rất/R gian_nan/A bệnh/N có/V tỉ_lệ/N tử_vong/N cao/A đồng_thời/N để/V lại/R rất/R nhiều/A di_chứng/N nặng_nề/A

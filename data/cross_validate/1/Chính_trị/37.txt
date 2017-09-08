@@ -1,0 +1,32 @@
+Người/Nc dân/N TPHCM/Np có_thể/A báo/V tin/N kẹt/V xe/N qua/V điện_thoại/N
+Từ/E hôm_nay/N 37/M TPHCM/Np chính_thức/A tiếp_nhận/V thông_tin/V phản_ánh/N kẹt/V xe/N tai_nạn/N đường/N hư/A cống/N bể/V ống/N cấp_nước/N vỡ/V
+từ/E ứng_dụng/N bản_đồ/N giao/V thông_số/N
+Theo/E đó/P người_dùng/N có_thể/R đăng_tải/V phản_ánh/V bằng/E hình_ảnh/N trực_tiếp/A từ/E thiết_bị/N di_động/V xem/V danh_sách/N các/L phản_ánh/N kèm/V nội_dung/N và/CC thời_gian/N cập_nhật/V
+Ngoài_ra/C người_dùng/N còn/R có_thể/R thấy/V được/R thông_tin/V phản_hồi/V từ/E phía/N đơn_vị/N quản_lí/N
+Trong/E trường_hợp/N không_thể/A kết/V nối_mạng/N phản_ánh/V sẽ/R được/V lưu/V lại/R offline/V trên/N máy/N
+Đến/E khi/N có/V kết/N nối_mạng/N người_dùng/V dễ_dàng/A gửi/V lại/R từ/E danh_sách/N các/L phản_ánh/N của/N mình/N
+Tính_năng/N này/P được/V cập_nhật/V tại/E phiên_bản/N 320/M của/N ứng_dụng/N TTGT/Np Tp_Hồ_Chí_Minh/Np có_mặt/V trên/E cả/P Google_Play/Np và/CC iTunes/M
+Hướng_dẫn/V sử_dụng/V tính_năng/N Phản_ánh/V
+Bạn/N có_thể/N chụp/V hình/N trực_tiếp/A hoặc/N chọn/V 1/M ảnh/N trong/N thư_viện/N
+Với/E mỗi/M phản_ánh/N bạn/N chọn/V được/R tối_đa/N là/V 5/M ảnh/N
+Bạn/N có_thể/A bỏ_qua/N bước/V này/N nếu/C không/R muốn/V chia_sẻ/V hình_ảnh/N tuy_nhiên/N việc/N cung_cấp/V hình_ảnh/N sẽ/R hỗ_trợ/V cho/E đơn_vị/N quản_lí/N dễ_dàng/A hơn/R trong/E việc/N giải_quyết/V
+Bằng/E việc/N chọn/V loại/N phản_ánh/N chính_xác/A đơn_vị/N quản_lí/N sẽ/R dễ_dàng/A hơn/R trong/E việc/N đưa/V ra/R kế_hoạch/N cũng/R như/A hướng/N giải_quyết/V phản_ánh/N
+Bạn_điền/N tiêu_đề/N và/CC vị_trí/N của/N phản_ánh/N
+với/E vị_trí/N bạn/N có_thể/A điền/N địa_chỉ/N hoặc/N chọn/V trực_tiếp/A trên/N bản_đồ/N
+Thông_tin/N bạn_điền/A càng/R chính_xác/A thì/C đơn_vị/N quản_lí/V sẽ/R càng/R dễ_dàng/A hơn/R trong/E việc/N xử_lí/V phản_ánh/N
+Bạn_điền/V vào/V thông_tin/N cá_nhân/N gồm/V tên/N số/N điện_thoại/N email/V nếu/N có/V
+hệ_thống/N hỗ_trợ/V bạn/N lưu/V lại/R thông_tin/V sau/A lần/N nhập/V đầu_tiên/N
+Nếu/C bạn/N không/R tiện/V chia_sẻ/V thông_tin/N cá_nhân/N có_thể/N chọn/V Ẩn_danh/N khi/N đó/P thông_tin/N của/E bạn/N sẽ/R không/R được/V hiển_thị/V
+Người_dùng/N có_thể/A xem/V danh_sách/N các/L phản_ánh/N kèm/V nội_dung/N và/CC thời_gian/N cập_nhật/V tại/E mục/N Tất_cả/N
+Ngoài_ra/C bạn/N còn/R có_thể/R thấy/V được/R thông_tin/V phản_hồi/V từ/E phía/N đơn_vị/N quản_lí/N
+Để/E xem/V những/L phản_ánh/N của/E mình/N thì/C chọn/V vào/R mục/N Đóng_góp/V của/N tôi/P
+Các/L trạng_thái/N của/E 1/M phản_ánh/N
+Chờ/V được/R duyệt/V Phản_ánh/V mới/A tạo/V
+Chờ/V xử_lí/N Phản_ánh/V đã/R được/V kiểm_duyệt/V nội_dung/N và/CC chuyển/V sang/V các/L đơn_vị/N có/V liên_quan/V để/V xử_lí/V
+Đang/R xử_lí/V Phản_ánh/N đang/R trong/E quá_trình/N xử_lí/N và/CC được/V cập_nhật/V tình_trạng/N bởi/E đơn_vị/N quản_lí/N
+Đã/R xử_lí/V Phản_ánh/V được/R xử_lí/V thành_công/V
+Không/R được/V duyệt/V Phản_ánh/N không/R được/V duyệt/V nội_dung/N
+Ứng_dụng/N này/P cũng/R hỗ_trợ/V cung_cấp/V các/L thông/N khác/A như/A vị_trí/N bãi/N đỗ/V xe/N trong/E các/L toà/N nhà/N trung_tâm/N thương_mại/N 59/M toà/N nhà/N có/V tầng/N hầm/N 114/M nhà_vệ_sinh/N công_cộng/N 165/M trạm/N xăng/N 1496/M trạm/N Y/Np tế/V bệnh_viện/N các/L công_trình/N có/V rào/N chắn/V
+trên/E địa_bàn/N thành_phố/N
+Từ/E khi/N đưa/V vào/R hoạt_động/V từ/E 1912017/M đến/E hết/V tháng/N 6/M bản_đồ/N giao/V thông_số/N đã/R có/V 4950000/M lượt/N người/N truy_cập/V
+Theo/E đó/P người/N dân/N có_thể/V lựa_chọn/V lộ_trình/N đi/V lại/R hợp_lí/V tránh/V đi/V qua/R các/L khu_vực/N đang/N xảy/V ra/R ùn_tắc/V giao_thông/N khi/N xem/V trực_tiếp/N 394/M camera/N

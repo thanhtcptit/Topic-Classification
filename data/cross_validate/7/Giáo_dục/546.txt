@@ -1,0 +1,16 @@
+Đại_học/N Hà_Nội/Np tuyển_sinh/V ngành/N kế_toán/N ứng_dụng/V
+Trường_Đại/Np học/V Hà_Nội/Np thành_lập/V từ/E năm/N 1959/M với/E tên/N gọi/V ban_đầu/N là/C trường/N Đại_học/N Ngoại_ngữ/N
+Trường/N đào_tạo/V ngoại_ngữ/N ở/E cả/P ba/M cấp_độ/N cử_nhân/N thạc_sĩ/N và/CC tiến_sĩ/N
+Bên_cạnh/N đó/P là/V đào_tạo/V chính_quy/A 6/M chương_trình/N cử_nhân/N chuyên_ngành/N hoàn_toàn/A bằng/E tiếng/N Anh/Np  /EOS
+Trường/N đã/R ký/V thỏa_thuận/N hợp_tác/V trực_tiếp/A với/E trường/N Đại_học/N Oxford_Brookes/Np /V Anh/N quốc/V /N
+Chương_trình/N Cử_nhân/N Kế_toán/N Ứng_dụng/Np hiện/N đã/R rút/V ngắn/A thời_gian/N đào_tạo/V còn/R 3/M năm/N
+Sinh_viên/N tốt_nghiệp/V chương_trình/N sẽ/R nhận/V 2/M văn_bằng/N là/V Cử_nhân/N của/E Đại_học/N Oxford_Brookes/Np /V Anh/N quốc/V /V và/CC bằng/E Nâng/V cao/A Kế_toán/N và/CC Kinh_doanh/V /N Diploma/Np in/V Advanced_Accounting/Np and/CC Business/Np /V do/E Hiệp_hội/N Kế_toán/N Công_chứng/N Anh/N /V ACCA/Np /V cấp/N
+Sinh_viên/N theo/V học/V chương_trình/N sau/E khi/N kết_thúc/V kỳ/N dự_bị/A tiếng/N Anh/N trong/E 6/M tháng/N sẽ/R học/V tiếp/V lên/R chuyên_ngành/N về/E tài_chính/N kế_toán/N kiểm_toán/V trong/E 2,5/M năm/N
+Riêng/T năm/N cuối/N sinh_viên/N được/R lựa_chọn/V học/V tại/E trường/N hoặc/CC chuyển_tiếp/V theo/V học/V tại/E Đại_học/N Sunway/Np /V Malaysia/Np /V với/E mức/N học_phí/N không/R đổi/V
+Song_song/A với/E việc/N đào_tạo/V trường/N Đại_học/N Hà_Nội/Np cũng/R thường_xuyên/A tổ_chức/V các/L hoạt_động/N ngoại_khóa/A như/C dã_ngoại/A teambuilding/N chương_trình/N giao_lưu/V văn_hóa/N quốc_tế/A hoạt_động/N thiện/A nguyện/V hay/C trải_nghiệm/V tại/E các/L hãng/N kiểm_toán/V quốc_tế/N tại/E Việt_Nam/Np
+để/E trang_bị/V các/L kỹ_năng/N mềm/A cần_thiết/A cho/E sinh_viên/N
+Thông_tin/N từ_trường/N Đại_học/N Hà_Nội/Np cho_biết/V nhà_trường/N sẽ/R kết_nối/V doanh_nghiệp/N tới/E sinh_viên/N với/E việc/N đảm_bảo/V cơ_hội/N việc_làm/N tại/E Big5/M kiểm_toán/N thế_giới/N tại/E Malaysia/Np
+Chương_trình/N xét/V tuyển/V qua/R 2/M vòng/N gồm/V hồ_sơ/N và/CC phỏng_vấn/V
+Thời_gian/N nộp/V hồ_sơ/N xét/V tuyển/V chia/V làm/V 3/M đợt/N gồm/V đợt/N 1/M đến/E ngày/N 8/8/M đợt/N 2/M đến/E ngày/N 11/9/M và/CC đợt/N 3/M đến/E ngày/N 12/10/M  /EOS
+Để/E dự_tuyển/V thí_sinh/N cần/V chuẩn_bị/V đơn/N xin/V học/V theo/E mẫu/N học_bạ/N THPT/Np dịch_thuật/V công_chứng/N bằng/E tốt_nghiệp/V THPT/Np dịch_thuật/N công_chứng/N hoặc/CC chứng_nhận/V tốt_nghiệp/V tạm_thời/A nếu/C chưa/R được/V nhận/V bằng/E
+Ngoài_ra/C yêu_cầu/V hồ_sơ/N còn/R có/V chứng_minh/N nhân_dân/N hoặc/CC hộ_chiếu/N dịch_thuật/V công_chứng/N sơ_yếu/N lý_lịch/N theo/E mẫu/N có/V xác_nhận/V của/E địa_phương/N chứng_nhận/V tiếng/N Anh/Np /V nếu/C có/V /M công_chứng/N giấy/N khám/V sức_khỏe/N trong/E 6/M tháng/N và/CC 2/M ảnh/N 4x6/M

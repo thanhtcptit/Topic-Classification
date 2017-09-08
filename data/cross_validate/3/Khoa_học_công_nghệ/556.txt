@@ -1,0 +1,27 @@
+Xương/N nhân_tạo/A từ/E tế_bào/N lợn/N có_thể/A cấy_ghép/V cho/E người/N
+Theo/E các/L nhà_nghiên_cứu/N ở/E đại_học/N Columbia/Np tại/E New_York_Mỹ/Np phần/N xương/N được/R chỉnh_sửa/V thiết_kế/N đã/R được/V sử_dụng/V vào/E việc/N sửa_chữa/V thành/V công_hàm/N dưới/E có/V cấu_tạo/N phức_tạp/A của/E lợn/N mở_đường/V cho/E việc/N tái_tạo/V xương/N ở/E những/L nơi/N khác/A trong/E cơ_thể/N người/N
+Xương/N thường/R có/V hình_dạng/N phức_tạp/A gây/V khó_khăn/A cho/E việc/N tìm_kiếm/V những/L phần/N thay_thế/V phù_hợp/V ở/E những/L bệnh_nhân/N có/V xương/N bị/V tổn_thương/V do/E tai_nạn/N bệnh_tật/N hoặc/CC dị_tật/N bẩm_sinh/N theo/V Live_Science/Np
+Mặc_dù/C bác_sĩ/N phẫu_thuật/V có_thể/R thay_thế/V phần/N xương/N bị/V mất/V bằng/E titan/N nhưng/C bản_thân/N phần/N cấy_ghép/N nhân_tạo/A này/P lại/R thiếu/V tủy/N xương/N thành_phần/N đóng/V nhiều/A vai_trò/N quan_trọng/A trong/E cơ_thể/N chẳng_hạn/X như/C tạo/V ra/R các/L tế_bào/N hồng_cầu/N và/CC bạch_cầu/N
+Bệnh_nhân/N có_thể/A ghép/V xương/N hiến/V tặng/V nhưng/C điều/N đó/P cũng/R đặt/V ra/R các/L vấn_đề/N khác/A chẳng_hạn/X như/C tăng/V nguy_cơ/N đào_thải/V
+Ngoài_ra/C các/L bác_sĩ/N có_thể/R lấy/V xương/N từ/E một/M phần/N khác/A của/E cơ_thể/N bệnh_nhân/N và/CC ghép/V nó/P vào/V nơi/N cần_thiết/A nhưng/C điều/N này/P lại/R gây/V ra/R tổn_thương/N tại/E vùng/N bị/V lấy/V xương/N khiến/V người_bệnh/N đau_đớn/A
+Các/L nhà_khoa_học/N hy_vọng/V sẽ/R tái_tạo/V thành_công/V xương/N trong/E phòng_thí_nghiệm/N
+Họ/P tập_trung/V vào/E các/L đơn_vị/N Ramus/Np condyle/V một/M bộ_phận/N của/E hàm/N dưới/E gắn/V với/E hộp/N sọ/N ở/E khu_vực/N gần/A tai/N và/CC là/V xương/N chịu/V lực/N chính/A của/E vùng/N mặt/N
+Họ/P đã/R thử_nghiệm/V trên/E lợn/N Yucatán/Np vì/E cấu_tạo/N và/CC cơ_chế/N hoạt_động/V hàm/N của/E chúng/P khá/R giống/A với/E con_người/N
+Đầu_tiên/N các/L nhà_nghiên_cứu/N tách/V một/M khúc/N lớn/A từ/E xương/N đùi/N bò/N và/CC tẩy/V hết/V các/L tế_bào/N bằng/E enzyme/N và/CC chất/N tẩy_rửa/N
+Sau/E đó/P họ/P đẽo/V những/L khối/N xương/N đã/R mất/V tế_bào/N này/P sao/T cho/E nó/P vừa/R khít/A với/E phần/N Ramus/Np condyle/V đã/R tách/V bỏ/V từ/E lợn/N rồi/C  /V cấy/V vào/E giàn/N xương/N các/L tế_bào/N gốc/N lấy/V từ/E mỡ/N lợn/N
+Cuối_cùng/A họ/P đặt/V chúng/P trong/E các/L lò/N phản_ứng/V sinh_học/N để/E các/L tế_bào/N gốc/N này/P được/R cung_cấp/V oxy/N và/CC chất/N dinh_dưỡng/N  /M Sau/E ba/M tuần/N các/L tế_bào/N gốc/N phát_triển/V thành/V xương_sống/N chưa/R trưởng_thành/V
+Mẫu/N xương/N được/V tạo/V thành/V bởi/E các/L tế_bào/N của/E bên/N được/R tiếp_nhận/V kỹ_sư/N sinh_học/N Gordana_Vunjak_Novakovic/Np tác_giả/N cấp/N cao/A của/E công_trình/N nghiên_cứu/V cho_biết/V
+Nếu/C cách/N ghép/V xương/N này/P được/R sử_dụng/V trong/E điều_trị/V chúng/P có_thể/R được/V tái_tạo/V từ/E những/L địa_điểm/N cách/V xa/A nơi/N tiến_hành/V cấy_ghép/N
+Để/E xem/V các/L phần/N cấy_ghép/N của/E họ/P sẽ/R phát_triển/V thế_nào/P trong/E điều_kiện/N như_vậy/X Vunjak_Novakovic/Np và/CC các/L đồng_nghiệp/N đã/R chế_tạo/V xương/N và/CC cấy_ghép/V tại/E hai/M địa_điểm/N cách/V nhau/N hơn/A 1/M 200/M dặm/N 1/M 930/M km/Nu đó/P là/V thành_phố/N New_York/Np và/CC Baton_Rouge/Np bang/V Louisiana/Np
+Các/L tế_bào/N mỡ/N đã/R được/V tách/V từ/E lợn/N và/CC vận_chuyển/V đến/V cho/E các/L chuyên_gia/N và/CC các/L phần/N cấy_ghép/V cùng_với/C các/L lò/N phản_ứng/V sinh_học/N để/E duy_trì/V chúng/P được/V vận_chuyển/V quay/V trở_lại/V phòng_thí_nghiệm/N lớn/A
+6/M tháng/N sau/N phẫu_thuật/V những/L phần/N cấy_ghép/N đã/R kết_hợp/V thành_công/V vào/E cơ_thể/N vật_chủ/N và/CC tái_tạo/N xương/N mà/C không/R có/V bất_kỳ/R biến_chứng/N nào/P
+Điều/N bất_ngờ/A là/V các/L phần/N xương/N được/V tạo/V ra/R trong/E phòng_thí_nghiệm/N sau/E khi/N cấy_ghép/V đã/R dần/R được/V thay_thế/V bởi/E xương/N mới/R được/V hình_thành/V từ/E chính/T cơ_thể/N Vunjak_Novakovic/Np cho_biết/V
+Điều/N này/P cho/V thấy/V phần/N xương/N được/V cấy_ghép/V đã/R trở_thành/V một/M phần/N tự_nhiên/A của/E xương/N gốc/N
+Vunjak_Novakovic/Np lưu_ý/V rằng/C chất_lượng/N của/E các/L mô/P tái_sinh/V đã/R vượt/V qua/R các/L phương_pháp/N trước_đây/N
+Hơn_nữa/C giàn/N xương/N cho_phép/V hình_thành/V xương/N mà/C không/R cần/V sử_dụng/V các/L hóa_chất/N đắt/A tiền/N như/C các/L phương_pháp/N trước_đây/N thường/R phụ_thuộc/V vào/E
+Đây/P là/V một/M bước_tiến/N rất/R thú_vị/A trong/E việc/N cải_thiện/V y_học/N tái_tạo/V cho/E bệnh_nhân/N bị/V dị_tật/N vùng/N sọ/N và/CC mặt/N
+Chúng_tôi/P hy_vọng/V sẽ/R thử_nghiệm/V lâm_sàng/N trong/E vài/L năm/N tới/T ông/N nói/V
+Các/L thử_nghiệm/V cấy_ghép/V xương/N lâm_sàng/N sẽ/R được/V tiến_hành/V thông_qua/V công_ty/N của/E Vunjak_Novakovic/Np mang/V tên/N epi/N Bone/Np
+Được/V nghiên_cứu/V một/M công_nghệ/N tiên_tiến/A và/CC có/V khả_năng/N trở_thành/V một/M phần/N của/E tương_lai/N là/V một/M điều/N vô_cùng/R hấp_dẫn/A và/CC tràn_đầy/A cảm_hứng/V tác_giả/N chính/A của/E nghiên_cứu/N này/P Sarindr_Bhumiratana/Np nghiên_cứu_sinh/N sau/N tiến_sĩ/N tại/E Đại_học/N Columbia/Np kiêm/V giám_đốc/N khoa_học/N tại/E epi/N Bone/Np nói/V
+Các/L nhà_khoa_học/N đang/R thử_nghiệm/V thêm/V vào/E một/M lớp/N sụn/V lên/R phần/N cấy_ghép/V xương_sống/N để/E mô_phỏng/V xương/N tự_nhiên/N  /M tốt/A hơn/R
+Sụn/Np là/V một/M lớp/N mô/P mỏng/A và/CC linh_hoạt/A mà/C nằm/V ở/E đầu/N của/E hầu_hết/L các/L xương/N của/E chúng_ta/P giúp/V giảm/V ma_sát/V khi/N chuyển_động/V Vunjak_Novakovic/Np cho_biết/V  /M Công_trình/N được/V công_bố/V trên/E tạp_chí/N Science_Translational_Medicine/Np hôm/N 15/6/M

@@ -1,0 +1,15 @@
+Máy_in/N tích_hợp/N tường/N lửa/N bảo_vệ/N dữ/A li/N ​/A ệu/N
+Theo_Ponemon_Institute/Np
+Máy_in/N là/V một/M mục_tiêu/N có_thể/A bị/V khai_thác/V tấn/N công/N trong/E khâu/N bảo_mật/V tổng_thể/N của/E mạng/N doanh_nghiệp/N với/E thông_tin/N tài_liệu/N quan_trọng/A
+Các/L dòng/N máy_in/N doanh_nghiệp/N đã/R có/V các/L cơ_chế/N phân_cấp/V tài_khoản/N mã_hoá/N dữ_liệu/N bảo_mật/V sinh_trắc_học/N qua/V nhận_dạng/N dấu/N vân/N tay/N
+Và/C nay/N HP/Np bổ_sung/V thêm/V ba/M tính_năng/N tối/N ưu/N bảo_mật/V cho/E máy_in/N trong/E doanh_nghiệp/N gồm/V
+SureStart/N HP/Np đem/V tính_năng/N bảo_vệ/V BIOS/Np từ/E khâu/N khởi/V động/V máy/N trên/N máy_tính_xách_tay/N HP/Np Elite/Np vào/V máy_in/N
+SureStart/N phát_hiện/V và/CC tự/N phục_hồi/V lại/R nguyên_trạng/A khi/N nhận/V thấy/R có/V dấu_hiệu/N tấn/N công/N độc_hại/A vào/V BIOS/Np máy/N in/V HP/Np LaserJet/V Enterprise/Np
+Whitelist/N danh/N sách_trắng/N chứa/V đựng/V danh_sách/N các/L phần/N mềm/N điều_khiển/V thiết_bị/N firmware/N của/E bên/N thứ/N ba/M được/V HP/Np chứng_thực/V phù_hợp/V với/N máy_in/N
+Runtime/N Intrusion_Detection/Np phát_hiện/V xâm_nhập/V trong/E thời_gian_thực/N realtime/N hoạt/N động/N như/A một/M tường/N lửa/N firewall/N của/E máy_in/N theo_dõi/V các/L tấn_công/N độc_hại/N vào/V máy_in/N khi/N nó/P đang/R hoạt_động/V
+Tính_năng/N này/P do/E HP/Np hợp_tác/V phát_triển/V cùng/N công_ty/N bảo_mật/V các/L thiết_bị/N nhúng/N Red_Balloon/Np do/E ĐH/N Columbia/Np sáng_lập/V
+Những/L tính_năng/N mới/A trên/N được/V đồng_bộ/N trên/E tất_cả/N các/L máy/N in/V HP/Np Laser_Enterprise/Np và/CC Officjet_Enterprise/Np X/Np với/E công_nghệ/N PageWide/N
+Bên_cạnh/N đó/P bản/N cập_nhật/V firmware/N mới/R sẽ/R đưa/V ba/M tính_năng/N này/P vào/E một_số/N dòng/N máy/N in/V HP/Np LaserJet/V Enterprise/Np đã/R được/V phân_phối/V từ/E tháng/N 42015/M
+Hai/M tính_năng/N thiết_lập/V danh/N sách_trắng/N và/CC Runtime/Np Instrusion_Detection/Np có_thể/V được/V thêm/V vào/E các/L dòng/N máy/N in/V HP/Np LaserJet/V và/CC Pagewide_Enterprise/Np ra_mắt/V từ/E năm/N 2011/M qua/N gói/N cập_nhật/V dịch/N vụ/N HP/Np FutureSmart/N firmware/N của/E HP/Np cho/V phép/N nâng_cấp/V các/L tính_năng/N mới/R trên/E các/L dòng/N máy_in/N HP/Np Enterprise/Np
+Ngoài/E ba/N tính_năng/N trên/N máy_in/N tiếp_tục/V hoà_nhập/V vào/E các/L chính_sách/N bảo_mật/V chung/A của/E doanh_nghiệp/N qua/N giải_pháp/N quản/N lí/V HP/Np JetAdvantage/V Security_Manager/Np bao/V gồm/N tự_động/N phục_hồi/N thiết_bị/N giúp/V dễ/N tìm/V thấy/V kết_nối/N và/CC quản_lí/V máy_in/N
+Các/L dòng/N máy_in/N mới/A trang_bị/V tính_năng/N bảo_mật/V in/V nhanh/A HP/Np LaserJet/V Enterprise/Np M506/M series/N HP/Np LaserJet/V Enterprise/Np MFP/Np M527/Np series/V và/CC HP/Np Color_Laser/Np Jet_Enterprise/Np MFP/Np M577/M series/N

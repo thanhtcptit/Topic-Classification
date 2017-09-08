@@ -1,0 +1,33 @@
+Ông/N Mai_Tiến_Dũng/Np Giảm/V 1%/M lãi/N vay/V sẽ/R có/V 50 0/M tỷ/N đầu_tư/V cho/E sản_xuất/V kinh_doanh/V
+Tại/E buổi/N làm_việc/V của/E Tổ/N công_tác/V Chính_phủ/N với/E Ngân_hàng/N Nhà_nước/N sáng/N 18/7/M Bộ_trưởng/N Chủ_nhiệm/N Văn_phòng/N Chính_phủ/N Mai_Tiến_Dũng/Np nhận_định/V điều_hành/V chính_sách/N tiền_tệ/N 6/M tháng/N qua/V của/E ngành/N ngân_hàng/N đã/R có/V sự/Nc chủ_động/V linh_hoạt/A lãi_suất/N cho/V vay/V ổn_định/A có/V thời_điểm/N đã/R giảm/V tỷ_giá/N ổn_định/V tăng/V tín_dụng/N hợp_lý/A
+Số_liệu/N của/E Ngân_hàng/N Nhà_nước/N cho/V thấy/V bình_quân/N lãi/V vay/V ngắn_hạn/N hiện/N ở/E mức/N 4-6/M %/Nu một/M năm/N lãi/V vay/V trung/N dài_hạn/A 9-11/M %/Nu một/M năm/N
+Tính_toán/V doanh_nghiệp/N phải/V có/V lãi_gộp/N ở/E mức/N 25-27/M %/N thì/C sau/E khi/N trừ/V các/L loại/Nc chi_phí/N mới/R có/V lãi/N  /M Lãi_suất/N cho/V vay/V với/E doanh_nghiệp/N vẫn/R cần/V giảm/V thêm/V phấn_đấu/V hạ/V tiếp/V 0,5/M 1%/M nữa/R ông/Nc Mai_Tiến_Dũng/Np nói/V  /EOS
+Ông/Nc đơn_cử/A với/E dư_nợ/N tín_dụng/N cả/P nước/N hiện/N trên/A 5/M triệu/M tỷ/Nu đồng/Nu nếu/C giảm/V lãi_suất/N 1%/M thì/C sẽ/R có/V khoảng/N 50 0/M tỷ/Nu đồng/N tái/A đầu_tư/V sản_xuất/V
+Với/E phương_thức/N đầu_tư/V 5/M đồng_vốn/N 1/M đồng/Nu lãi/N thì/C khoản/N lãi/V thu/V về/R dự_kiến/V khoảng/A 10 0/M tỷ/M đồng/Nu ngân_sách/N thu/V thêm/V 2 0/M tỷ/N đồng/N
+Chưa/R kể/V 10 0/M tỷ/N đồng/N quay/V trở_lại/V đầu_tư/V có_thể/R tạo/V ra/R 0,25%/M điểm/N tăng_trưởng/V GDP/Np  /A Hay/C với/E khoản/N nợ/N công/N hiện/N khoảng/A 1/M triệu/M tỷ/Nu đồng/Nu lãi_suất/N giảm/V 1%/M thì/C sẽ/R tiết_kiệm/V ngân_sách/N khoảng/A 10 0/M tỷ/Nu
+Đây/P là/V khoản/N tiền/N tốt/A tạo/V điều_kiện/N bù_đắp/V các/L khoản/N đầu_tư/V phát_triển/V
+Đề_nghị/V Thống_đốc/N chỉ_đạo/V các/L ngân_hàng/N thương_mại/N cố_gắng/V giảm/V lãi_suất/N quản_lý/V nợ/N xấu/A
+để/E minh_bạch/A tài_chính/N thanh/N khoản/N tạo/V điều_kiện/N cho/E kinh_tế/N phát_triển/V và/CC đưa/V nguồn/N tiền/N vào/E sản_xuất/N kinh_doanh/V Bộ_trưởng/N Dũng/Np nói/V đồng_thời/R nhấn_mạnh/V Thủ_tướng/N cũng/R yêu_cầu/V ngành/N ngân_hàng/N tăng_trưởng/V tín_dụng/N và/CC hạ/V lãi_suất/N cho/V vay/V
+Năm/N 2016/M có/V 110 0/M doanh_nghiệp/N thành_lập/V mới/R nhưng/C cũng/R có/V 93 0/M doanh_nghiệp/N khó_khăn/N phải/V ngừng/V hoạt_động/V đóng_cửa/V
+Doanh_nghiệp/N thành_lập/V nhiều/A nhưng/C đóng_cửa/V cũng/R không/R ít/A trong/E đó/P có/V yếu_tố/N liên_quan/V tới/E tiếp_cận/V vốn/N tín_dụng/N
+Vì_thế/C Ngân_hàng/N Nhà_nước/N cần/V có/V chính_sách/N giúp/V các/L doanh_nghiệp/N mới/R thành_lập/V khởi_nghiệp/V tiếp_cận/V được/R vốn/N  /EOS
+Nhắc/V lại/R lời/N của/E Thủ_tướng/N tại/E cuộc/N họp/V trực_tuyến/A Chính_phủ/N với/E các/L địa_phương/N tổ_chức/V cuối/N tháng/N 6/M vừa_qua/X  /V Bộ_trưởng/N Dũng/Np lưu_ý/V  /V tín_dụng/N tăng/V nhưng/C không/R nên/V N chảy/V V vào/E một_số/L đại_gia/N mà/C phải/V vào/V doanh_nghiệp/N khởi_nghiệp/V cơ_sở_hạ_tầng/N sản_xuất/V
+Nhiệm_vụ/N tiếp_theo/V Thủ_tướng/N yêu_cầu/V cơ_quan/N quản_lý/V tiền_tệ/N giải_trình/V là/V xử_lý/V nợ/N xấu/A
+Hiện_Nghị/Np quyết/V về/V xử_lý/V nợ/N xấu/A đã/R được/V Quốc_hội/N thông_qua/V và/CC sẽ/R có/V hiệu_lực/N từ/E 15/8/M tới/E
+Ngân_hàng/N Nhà_nước/N phải/V có/V giải_pháp/N hướng_dẫn/V các/L ngân_hàng/N thương_mại/N trong/E thu/N bán/V tài_sản/N đảm_bảo/V bán/V nợ/N xấu/A
+khi/N thời_hiệu/N của/E Nghị_quyết/N đã/R cận_kề/V  /EOS
+Ngoài_ra/C sở_hữu/V chéo/A trong/E hệ_thống/N ngân_hàng/N cũng/R là/V một/M trong/E những/L vấn_đề/N được/V lãnh_đạo/N Chính_phủ/N lưu_ý/V  /M Sau/E khi/N Thông_tư/N 36/M ra_đời/V sở_hữu/V chéo/A đã/R tốt/A hơn/R nhưng/C không/R phải/V không/R còn/R
+Ví_dụ/V trước/E thời_điểm/N Thông_tư/N 36/M có/V hiệu_lực/N Vietcombank/Np sở_hữu/V 9,8%/M cổ_phần/N MBB/Np 8,2%/M Eximbank/Np 5,26%/M SaigonBank/Np và/CC 4,6%/M OCB/Np thì/C hiện/N Vietcombank/Np vẫn/R đang/R nắm/V hơn/R 7,16%/M cổ_phần/N MBB/Np 8,19%/M Eximbank/Np 5,07%/M OCB/Np và/CC 4,3%/M Saigonbank/Np
+Cần/V tiếp_tục/V thực_hiện/V nghiêm_túc/A Thông_tư/N 36/M đây/P là/V giải_pháp/N căn_cơ/N
+Ngân_hàng/N Nhà_nước/N cũng/R cần/V sớm/A có/V chủ_trương/N huy_động/V nguồn_lực/N trong/E dân/N bởi/E nguồn_lực/N này/P rất/R lớn/A
+Thay_vì/V gửi/V lãi_suất/N USD/Np 0%/M có/V chính_sách/N huy_động/V nguồn_lực/N này/P để/E hoà/V vào/E huy_động/V khác/A phục_vụ/V đầu_tư/V
+Đây/P cũng/R là/V một/M trong/E số/N tiêu_chí/N để/E phấn_đấu/V hạ/V lãi_suất/N  /M Chúng_ta/P có/V chủ_trương/N chống/V đôla/N hoá/V nhưng/C trong/E điều_kiện/N có_thể/R kiểm_soát/V được/R thì/C cần/V huy_động/V ông/Nc Dũng/Np nhấn_mạnh/V  /EOS
+Cơ_quan/N quản_lý/V tiền_tệ/N cũng/R được/V yêu_cầu/V câ/V ̀/M n/N tiếp_tục/V quan_tâm/V tới/E một_số/L lĩnh_vực/N như/C vay/V vốn/N đóng/V tàu/N theo/V Nghị_định/N 67/M ở/E một_số/L địa_phương/N triển_khai/V gói/N tín_dụng/N 100 0/M tỷ/N đồng/N cho/E nông_nghiệp/N công_nghệ_cao/N với/E lãi_suất/N thấp/A hơn/A mức/N vay/V thông_thường/A  /EOS
+Liên_quan/V tới/E gói/N tín_dụng/N này/P ông/Nc Đào_Minh_Tú/Np –/M Phó/Z thống_đốc/N Ngân_hàng/N Nhà_nước/N giải_trình/V hiện/N đã/R có/V 7/M ngân_hàng/N cam_kết/V số/N vốn/N trên/E 100 0/M tỷ/N cho/V vay/V nông_nghiệp/N công_nghệ_cao/N
+Tuy_nhiên/C gói/N này/P hiện/N vẫn/R chưa/R triển_khai/V giải_ngân/A do/E còn/R một_số/L vấn_đề/N về/E thủ_tục/N pháp_lý/N của/E các/L địa_phương/N liên_quan/V tới/V đất_đai/N
+Cuối_cùng/A lưu_ý/V của/E Thủ_tướng/N với/E Ngân_hàng/N Nhà_nước/N là/V pha/V ̉/A i/N tăng/V cươ/N ̀/V ng/N bảo/V đa/N ̉/M m/Nu an/M toa/N ̀/A n/V thông_tin/N an/M toa/N ̀/V n/N cho/E người/N gửi/V tiền/N
+“/N Chúng_ta/P đang/R khuyến_khích/V người_dân/N thay_vì/V sử_dụng/V tiền_mặt/N thì/C sử_dụng/V các/L hình_thức/N khác/A nên/C việc/N bảo_đảm/V an/M toa/N ̀/A n/A là/V rất/R quan_trọng/A nếu_không/C sẽ/R ảnh_hưởng/V tới/E lòng/N tin/N ”/A Bộ_trưởng/N Mai_Tiến_Dũng/Np nói/V
+Nhắc/V lại/R mục_tiêu/N của/E Chính_phủ/N năm/N nay/P phải/V đạt/V tăng_trưởng/V GDP/Np 6,7%/M ông/Nc Dũng/Np nhấn_mạnh/V cần/V sự/Nc chủ_động/V đóng_góp/V nhiều/A hơn/A của/E hệ_thống/N ngân_hàng/N
+Báo_cáo/V của/E Văn_phòng/N Chính_phủ/N cũng/R cho/V thấy/V trong/E số/N 477/M nhiệm_vụ/N Ngân_hàng/N Nhà_nước/N được/V Chính_phủ/N Thủ_tướng/N giao/V thì/C hiện/N cơ_quan/N này/P đã/R hoàn_thành/V được/R 397/M nhiệm_vụ/N 80/M nhiệm_vụ/N chưa/R hoàn_thành/V trong/E đó/P quá/R hạn/N 5/M nhiệm_vụ/N  /EOS
+Thống_đốc/N Lê_Minh_Hưng/Np khẳng_định/V Ngân_hàng/N Nhà_nước/N sẽ/R chỉ_đạo/V quyết_liệt/A các/L ngân_hàng/N từ/E nay/N tới/E cuối/N năm/N góp_phần/V thực_hiện/V mục_tiêu/N tăng_trưởng/V GDP/Np 6,7%/M năm/N nay/P
+Với/E 5/M nhiệm_vụ/N quá/R hạn/N ông/N Hưng/Np nhìn_nhận/V đều/R là/V nhiệm_vụ/N có/V tính_chất/N phức_tạp/A trong/E đó/P 3/M nhiệm_vụ/N mật/A và/CC tối_mật/A

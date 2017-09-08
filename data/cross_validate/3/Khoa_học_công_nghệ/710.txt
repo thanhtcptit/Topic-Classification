@@ -1,0 +1,8 @@
+﻿/N Lò/Np phản_ứng/V cung_cấp/V năng_lượng/N vô_tận/A ở/E Đức/Np
+Nhóm/N nghiên_cứu/V quốc_tế/N xác_nhận/V lò/N phản_ứng/N tổng_hợp/V hạt_nhân/N mang/V tên/N Wendelstein/Np 7/M X_W7/M X/Np của/E Đức/Np có_thể/R tạo/V ra/R từ_trường/N 3D/M siêu/Z mạnh/A với/E tỷ_lệ/N sai_sót/N nhỏ/A hơn/A 1/M 100/M 000/M Business_Insider/Np hôm_nay/N đưa/V tin/N
+Theo/V như/C chúng_tôi/P biết/V đây/P là/V độ_chính_xác/N chưa/R từng/R có/V về/E mặt/N kỹ_thuật/N xây_dựng/V thiết_bị/N tổng_hợp/V cũng_như/C trong/E đo_lường/N cấu_trúc/V liên_kết/V từ/E nhóm/N nghiên_cứu/V viết/V  /N Từ_trường/N 3D/Np cho_phép/V lò/N phản_ứng/V tổng_hợp/V hạt_nhân/N có_thể/R kiểm_soát/V các/L hạt/N plasma/N mà/C không/R cần/V dòng_điện/V
+Nhờ/C vậy/P tính/N ổn_định/A của/E lò/N phản_ứng/V được/R nâng/V cao/A do/E nó/P có_thể/R tiếp_tục/V hoạt_động/V ngay/T cả/T khi/N dòng_điện/N trong/E nhà_máy/N bị/V gián_đoạn/V
+Từ_trường/N cũng/R là/V thứ/N duy_nhất/A có_thể/R giữ/V các/L hạt/N plasma/N nóng/A trong/E thời_gian/N đủ/A dài/A để/E phản_ứng/V tổng_hợp/V hạt_nhân/N diễn/V ra/R  /V Không/R giống/N phản_ứng/N phân_hạch/V nguyên_tử/N tức_là/V quá_trình/N tách/V hạt_nhân/N nguyên_tử/V thành/V neutron/N và/CC hạt_nhân/N nhỏ/A hơn/A trong/E các/L nhà_máy/N hiện_nay/N phản_ứng/N tổng_hợp/V hạt_nhân/N tạo/V ra/R nguồn/N năng_lượng/N lớn/A khi/N các/L nguyên_tử/N được/V hợp_nhất/V với/E nhau/N ở/E nhiệt_độ/N cực/A cao/A
+Ngoài_ra/C phản_ứng/N này/P cũng/R không/R tạo/V ra/R chất_thải/N phóng_xạ/V hoặc/CC các/L sản_phẩm/N phụ/V khác/A
+Đây/P là/V một/M trong/E những/L nguồn/N năng_lượng/N sạch/A nhiều/A triển_vọng/N nhất/A hiện_nay/N
+Nó/P có_thể/R cung_cấp/V cho/E nhân_loại/N nguồn/N năng_lượng/N vô_hạn/A tương_tự/A sức_mạnh/N của/E Mặt_Trời/Np

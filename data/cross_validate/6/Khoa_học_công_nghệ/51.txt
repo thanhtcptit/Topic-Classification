@@ -1,0 +1,12 @@
+Toyota/N ra_mắt/N robot/N làm/V hộ/V lí/N giúp/V người/N khuyết_tật/N
+Robot/N HSR/Np là/V một/M phần/N trong/E số/N các/L dự_án/N Toyota/Np đang/R triển_khai/V nhằm/V hỗ_trợ/V khả_năng/N vận_động/V di_chuyển/V cho/E những/L người/N bị/V khuyết_tật/N vận_động/V
+Hoạt_động/N của/E robot/N hỗ_trợ/V người/N khuyết_tật/N của/E Toyota/Np Nguồn/N Toyota/Np USAYoutube/V
+Đây/P cũng/R là/V robot/N đầu_tiên/A thuộc/V loại/N này/P được/V thử_nghiệm/V và/N công_bố/V
+Trong/E thời_gian/N thử_nghiệm/V robot/N HSR/Np đã/R phục_vụ/V như/A một/M hộ_lí/N đắc_lực/V cho/E ông/N Romulo/Np Romy/Np Carmago/Np cựu_chiến_binh/N từng/R bị_thương/V trong/E cuộc_chiến/N tại/E Afghanistan/Np và/CC bị/V liệt/N từ/E phần/N cổ/A trở/V xuống/V
+Đây/P cũng/R là/V robot/N đầu_tiên/A thuộc/V loại/N này/P được/V thử_nghiệm/V và/N công_bố/V
+Trong/E thời_gian/N thử_nghiệm/V robot/N HSR/Np đã/R phục_vụ/V như/A một/M hộ_lí/N đắc_lực/V cho/E ông/N Romulo/Np Romy/Np Carmago/Np cựu_chiến_binh/N từng/R bị_thương/V trong/E cuộc_chiến/N tại/E Afghanistan/Np và/CC bị/V liệt/N từ/E phần/N cổ/A trở/V xuống/V
+Robot/N HSR/Np có/V các/L bánh_xe/N di_chuyển/V và/CC những/L cảm_biến/N thị_giác/N nó/P cũng/R được/V trang_bị/V một/M cánh_tay/N có_thể/A làm/V giúp/V cho/E người/N cần/V được/V phục_vụ/V những/L việc/N như/C mở/V tay/N nắm/V cửa/N cầm/V nắm/V các/L vật/N
+Con/Nc robot/N này/P cũng/R có_thể/A thực_hiện/V các/L cuộc_gọi/N video/N và/CC HSR/Np cũng/R đã/R được/V sử_dụng/V trong/E các/L bệnh_viện/N Nhật_Bản/Np để/E giải_quyết/V nhu_cầu/N thiếu/V hộ_lí/N trong/E bối_cảnh/N dân_số/N già/A của/N Nhật/Np
+Việc/N phát_triển/V robot/N HSR/Np đã/R bắt_đầu_từ/V một/M thập_kỉ/N trước/E khi/N Toyota/Np khởi_động/V chương_trình/N Robot_Partner/Np của/N họ/N
+Kể/V từ/E đó/P tới/E nay/P công_ty/N này/P đã/R thử_nghiệm/V các/L robot/N trong/E nhiều/A ứng_dụng/N khác/A nhau/N trong/E đó/P có/V việc/N hỗ_trợ/V những/L người/N bị/V liệt/A có_thể/A đi_lại/V
+Năm/N 2015/M Toyota/Np thành_lập/V Viện/N nghiên_cứu/N Toyota/Np cho/V biết/V hãng/N đã/R đầu_tư/V vào/E đó/P 1/M tỉ/M USD/Nu trong/E vòng/N 5/M năm/N để/E hỗ_trợ/V phát_triển/V công_nghệ/N trí_tuệ_nhân_tạo/X và/N các/L giải_pháp/N vận_động/V khác/A trong/E đó/N có/V robot/N

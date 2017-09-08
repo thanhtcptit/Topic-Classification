@@ -1,0 +1,18 @@
+Gò_Vấp/N thêm/V 2/M trường/N giảng_dạy/V chương_trình/N tích_hợp/N
+Năm_học/N 20172018/M Gò_Vấp/Np sẽ/R có/V thêm/V 2/M trường/N giảng_dạy/V chương_trình/N tích_hợp/N là/V trường/N tiểu/N học/V Chi_Lăng/Np và/CC Phan_Chu_Trinh/Np
+UBND/Np quận/N Gò_Vấp/Np TPHCM/Np vừa/R công_bố/V kế_hoạch/N tuyển_sinh/V đầu/N cấp/N năm_học/N 20172018/M
+Theo/E đó/P bậc/N mầm_non/N sẽ/R tiếp_tục/V nhận/V trẻ/N từ/N 618/M tháng/N tuổi/N tại/E các/L trường/N mầm_non/N Hồng_Nhung/Np Hoa_Phượng_Đỏ/Np Tường_Vy/Np Anh/Np Đào/Np
+Từ/E 196/M trường/N mầm_non/N phát_đơn/N đăng_kí/N nhập_học/V cho/E học_sinh/N lớp/N Lá/N
+Ngày/N 17/M phát_đơn/N đăng_kí/N nhập_học/N học_sinh/N nhà_trẻ/N và/CC lớp/N mầm/N chồi/N
+Tuyển_sinh/N lớp/N 1/M
+Ngày/N 26/M 276/M UBND/Np phường/N gửi/V thư/N báo/N nhập_học/V lớp/N 1/M đến/V phụ_huynh/N
+Ngày/N 1/M đến/E 107/M các/L trường/N nhận/V hồ_sơ/N lớp/N 1/M
+Năm/N nay/P các/L trường/N tiểu_học/N Nguyễn_Thượng_Hiền/Np Võ_Thị_Sáu/Np Lê_Đức_Thọ/Np Chi_Lăng/Np Phan_Chu_Trinh/Np sẽ/R thực_hiện/V giảng_dạy/V chương_trình/N tích_hợp/N
+Trường/N tiểu_học/N Lê_Đức_Thọ/Np sẽ/R thực_hiện/V mô_hình/N trường/N tiên_tiến/A theo/V xu_thế/N hội_nhập/V khu_vực/N và/N quốc_tế/N
+Điều_kiện/N tuyển_sinh/N học_sinh/N có/V hộ_khẩu/N thường_trú/V hoặc/N có/V sổ/N tạm_trú/V ở/E khu_phố/N 12/M trên/N địa_bàn/N phường/N 15/M quận/N Gò_Vấp/Np
+Tuyển_sinh/N lớp/N 6/M
+Phân/N tuyến/N theo/V địa_bàn/N cư_trú/V
+Trong/E đó/P Trường/N THCS/Np Nguyễn_Du/Np sẽ/R nhận/V học_sinh/N tại/N phường/N 11/M thuộc/V các/L khu_phố/N 12345678910/M
+Trường/N THCS/Np Phan_Văn_Trị/Np sẽ/R thực_hiện/V mô_hình/N trường/N tiên_tiến/A theo/V xu_thế/N hội_nhập/V khu_vực/N và/N quốc_tế/N
+Điều_kiện/N tuyển_sinh/N học_sinh/N hoàn_thành/V chương_trình/N tiểu_học/N đã/R học/V chương_trình/N tiếng/N Anh/Np tăng_cường/V năm_học/N 20162017/M có/V điểm/N toàn/A năm/N từng/N kĩ_năng/N từ/E 6/M điểm/N trở/V lên/V và/N ở/V địa_bàn/N phường/N 7/M
+Từ/E 19/M đến/E 306/M các/L trường/N THCS/Np nhận/V hồ_sơ/N nhập_học/N vào/E lớp/N 6/M

@@ -1,0 +1,5 @@
+Nhân_viên/N cây_xăng/N tử_vong/V với/E nhiều/A vết/N cắt/V trên/E mặt/N
+Sáng/N 29/6/M nhân_viên/N cửa_hàng/N xăng_dầu/N ở/E  /N xã/N Ea_Nuôl/Np huyện/N Buôn_Đôn/Np Đăk_Lăk/Np  /V đến/E làm_việc/V phát_hiện/V  /N anh/N Nguyễn_Ngọc_Trung/Np /M 30/M tuổi/N /M  /Nu nằm/V bất_động/A trên/E nền/N nhà/N với/E nhiều/A vết/N máu/N mặt/N có/V nhiều/A vết/N cắt/V
+Theo/E nhân_viên/N này/P  /N Trung/Np làm_việc/V cho/E cửa_hàng/N xăng_dầu/N khoảng/A một/M tuần/N tối/N ngủ/V lại/R trông/V đồ_đạc/N
+Trước/E khi/N vào/V trong/N anh/N thấy/V cửa_hàng/N mở/V xe_máy/N của/E Trung/Np dựng/V bên/N ngoài/N chìa_khóa/N xe/N để/E trên/E bàn/N  /EOS
+Cảnh_sát/N đã/R khám_nghiệm/V hiện_trường/N điều_tra/V nguyên_nhân/N

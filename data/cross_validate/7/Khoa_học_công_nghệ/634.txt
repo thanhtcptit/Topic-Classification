@@ -1,0 +1,11 @@
+Công_nghệ/N in/V 3D/Np giúp/V con_người/N V bất_tử/A M
+Nghiên_cứu/V do/E các/L nhà_khoa_học/N Đại_học/N  /N Tel_Aviv/Np  /M Israel/Np thực_hiện/V bằng/E công_nghệ/N in/V 3D/M nhỏ/N tạo/V ra/R thiết_bị/N tương_thích/V sinh_học/N với/E con_người/N và/CC cấy_ghép/V vào/E cơ_thể/N
+Các/L thiết_bị/N này/P là/V một/M hệ_thống/N vi/V cơ/N điện_tử/N nhỏ/A có/V kích_thước/N không/R lớn/A hơn/R một/M milimet/Nu và/CC có_thể/R hỗ_trợ/V các/L hoạt_động/N bình_thường/A của/E con_người/N như/C một/M bộ_phận/N thật/A
+Theo/E truyền_thống/N những/L hệ_thống/N này/P được/V làm/V từ/E silicon/N kim_loại/N hoặc/CC gốm/N sứ/V  /M Gần/A đây/P  /M  /N tiến_sĩ/N Leeya_Engel/Np và/CC Jenny_Shklovsky/Np ở/E Đại_học/N Tel_Aviv/Np tìm/V ra/R một/M loại/Nc vật_liệu/N polymer/V mới/R từ/E công_ty/N ở/E Pháp/Np để/E áp_dụng/V cho/E công_nghệ/N in/V 3D/Np
+Từ/E đó/P các/L nhà_khoa_học/N tạo/V ra/R những/L bộ_phận/N giả/A theo/E hướng/N hoàn_toàn/A mới/R
+Các/L chuyên_gia/N cho_biết/V công_nghệ/N mới/R có_thể/A sẽ/R thay_đổi/V tất_cả/P trong/E đó/P việc/N tạo/V ra/R chân_tay/N giả/A hoạt_động/V hiệu_quả/N an_toàn/A và/CC thoải_mái/A hơn/R so/V với/E các/L vật_liệu/N truyền_thống/N
+Những/L bộ_phận/N giả/A được/V kết_hợp/V bởi/E nhiều/A bộ/N truyền/V động/N và/CC cảm_biến/N nhỏ/A tích_hợp/A
+Chân_tay/N giả/A được/V tạo/V ra/R từ/E công_nghệ/N mới/R có_thể/A thực_hiện/V nhiều/A nhiệm_vụ/N cùng/A lúc/N như/C công_nghệ/N được/V tích_hợp/V trong/E điện_thoại/N thông_minh/A và/CC máy_tính/N bảng/N
+Theo/E tiến_sĩ/N Engel/Np việc/N sử_dụng/V các/L vật_liệu/N mềm/A mới/R để/E làm/V thiết_bị/N hỗ_trợ/V hoạt_động/V của/E con_người/N có_thể/R vượt/V qua/R các/L giới_hạn/N của/E công_nghệ/N và/CC điều/N này/P như/C lắp/V Lego/Np cho/E người_lớn/N
+Nghiên_cứu/V trên/E được/R đánh_giá/V là/V một/M sự_kiện/N quan_trọng/A trong/E ngành/N công_nghiệp/N công_nghệ_cao/N và/CC một/M bước_tiến/N khổng_lồ/A trong/E lĩnh_vực/N điều_khiển_học/N của/E nhân_loại/N
+Trong/E tương_lai/N công_nghệ/N mới/R sẽ/R được/V mở_rộng/V nghiên_cứu/V để/E tiến/V tới/V thực_hiện/V nhiệm_vụ/N làm/V bất_tử/A con_người/N

@@ -1,0 +1,13 @@
+﻿/M Lớp/N mạ/N mới/R ngăn/V vi_khuẩn/V lây_nhiễm/V trên/E thiết_bị/N y_tế/N
+Joanna_Aizenberg/Np giảng_viên/N tại/E Viện/N nghiên_cứu/V Wyss/Np thuộc/V Đại_học/N Harvard_Mỹ/Np chế_tạo/V thành_công/V lớp/N mạ/N SLIPS/Np với/E độ/N bám/V dính/V rất/R thấp/A có_thể/R ngăn/V vi_khuẩn/V phát_triển/V trên/E dụng_cụ/N y_tế/N và/CC các/L thiết_bị/N khác/A UPI/Np hôm/N 1/M 11/M đưa/V tin/N
+Việc/N lây_nhiễm/V bệnh/N qua/E dụng_cụ/N là/V vấn_đề/N lớn/A trong/E y_tế/N tạo/V gánh/N nặng/A cho/E xã_hội/N với/E chi_phí/N hàng/R triệu/M USD/Nu để/E chăm_sóc/V sức_khỏe/N
+Thuốc/N kháng_sinh/N không_thể/R giải_quyết/V vấn_đề/N này/P
+Chúng_ta/P cần/V sử_dụng/V phương_pháp/N mới/A để/E giảm/V nguy_cơ/N lây_nhiễm/V
+Sản_phẩm/N mới/A này/P chính/T là/V một/M bước_tiến/N quan_trọng/A trong/E quá_trình/N nghiên_cứu/V tiến/V sỹ/N Elliot_Chaikof/Np bác/N sỹ/N phẫu_thuật/V chính/T tại/E Trung_tâm/N y_tế/N Beth_Israel_Deaconess_Boston_Mỹ/Np cho_biết/V
+Lớp/N mạ/V SLIPS/Np có_thể/R loại_bỏ/V nhiều/A tạp_chất/N và/CC sử_dụng/V trong/E nhiều/A điều_kiện/N môi_trường/N
+Kết_quả/N thử_nghiệm/V cho/V thấy/V nó/P có_thể/R giảm/V sự/Nc bám/V dính/V của/E vi_khuẩn/N với/E tỷ_lệ/N hơn/A 98%/M
+Chúng_tôi/P đang/R phát_triển/V SLIPS/Np cho/E nhiều/A ứng_dụng/N y_học/N bằng/E cách/N thử_nghiệm/V nó/P trên/E nhiều/A vật_liệu/N y_tế/N khác_nhau/A đảm_bảo/V độ/N bền_vững/A của/E lớp/N mạ/V và/CC kết_hợp/V đặc_tính/A không/R nhiễm/V bẩn/A của/E vật_liệu/N SLIPS/Np vào/E các/L điều_kiện/N môi_trường/N cụ_thể/A
+Ở/E đây/P chúng_tôi/P đã/R áp_dụng/V SLIPS/Np rất/R hiệu_quả/A vào/E chất_bôi_trơn/N y_tế/N cho/V thấy/V tiềm_năng/N lớn/A của/E nó/P trong/E việc/N tích_hợp/V vào/E các/L thiết_bị/N dễ/A bị/V vi_khuẩn/V tích_tụ/V và/CC lây_nhiễm/V Aizenberg/Np nói/V
+Nhóm/N nghiên_cứu/V cũng/R đã/R thử_nghiệm/V thực_tế/N bằng/E cách/N mạ/V SLIPS/Np vào/E lưới/N y_tế/N
+Một/M con/Nc chuột/N được/V cấy_ghép/V lớp/N lưới/N này/P rồi/C tiêm/V tụ/V cầu/N vàng/N nguyên_nhân/N phổ_biến/A gây/V ra/R nhiễm_khuẩn/A trong/E các/L loại/N tụ/V cầu/N
+Sau/E ba/M ngày/N kết_quả/N cho/V thấy/V có/V rất/R ít/A dấu_hiệu/N nhiễm_khuẩn/V ở/E lưới/N tỷ_lệ/N kiểm_soát/V lây_nhiễm/V là/V hơn/A 90%/M

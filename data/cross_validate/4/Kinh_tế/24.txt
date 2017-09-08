@@ -1,0 +1,7 @@
+Giá/N gas/N giảm/A 10000/M đồngbình/N từ/E đầu/N tháng/N 7/M
+Chiều/N 306/M một_số/N công_ty/N gas/N tại/E TPHCM/Np Saigon_Petro/Np Pacific_Petro/Np gas/N
+thông/N báo_giá/N gas/N bán_lẻ/V áp/N dụng/N từ/E ngày/N 172017/M giảm/N 10000/M đồngbình/N 12kg/M so/V với/E đầu/N tháng/N 62017/M
+Theo/E đó/P giá/N gas/N bán_lẻ/V trên/E thị_trường/N dao_động/N ở/V mức/N từ/E 278000/M đến/E 286000/M đồngbình/N
+Lý_giải/V nguyên_nhân/N giá/N gas/N giảm/V các/L công_ty/N cho/V biết/V trong/E tháng/N 72017/M giá/N gas/N thế_giới/N nhập_khẩu/V giảm/V 325/M USDtấn/N xuống/V mức/N 355/M USDtấn/N kéo_theo/V sự/N điều_chỉnh/V giá/N gas/N bán_lẻ/V trong/N nước/N
+Như/C vậy/P giá/N gas/N liên_tiếp/A giảm/V trong/E 4/M tháng/N gần/A đây/P với/E tổng/N mức/N giảm/A mức/N gần/A 70000/M đồng/Nu
+Riêng/T giá/N gas/N tháng/N 62017/M không/R điều_chỉnh/V do/E giá/N gas/N thế_giới/N giữ/V mức/N ổn_định/A

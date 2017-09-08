@@ -1,0 +1,9 @@
+Công_bố/V điểm/N thi/V vào/E lớp/N 10/M TPHCM/Np
+Xem/V điểm/N thi/V tại/E đây/P httpdiemthituoitrevnthcs2017html/N
+Chú/N thích/V hệ_thống/N xem/V điểm/N Môn/Np 1/M Văn/Np Môn/Np 2/M Ngoại/Np ngữ/N Môn/Np 3/M Toán/Np
+Theo/E Phòng_Khảo_thí/N và/CC kiểm_định/N chất_lượng/N giáo_dục/N Sở/N GDĐT/Np sau/E khi/N xem/V điểm/N thi/V các/L thí_sinh/N có_thể/R nộp/V đơn/N xin/V phúc_khảo/V bài/N thi/V từ/E ngày/N 126/M đến/N 146/M tại/E trường/N phổ_thông/N nơi/N các/L em/N đang/R học/V lớp/N 9/M không/N giới_hạn/V môn/N phúc_khảo/A và/CC thí_sinh/N không/R phải/A nộp/V lệ_phí/N
+Các/L trường/N THPT/Np sẽ/R nhận/V hồ_sơ/N nhập_học/N vào/E lớp/N 10/M chuyên/N từ/E ngày/N 13/M đến/V 196/M
+Sau/E thời_gian/N này/P nếu/C học_sinh/N không/R nộp/V hồ_sơ/N sẽ/R bị/V xoá/V tên/N trong/E danh_sách/N trúng_tuyển/N vào/V lớp/N chuyên/A và/CC tiếp_tục/V được/V xét/V tuyển/N vào/V lớp/N 10/M thường/N nếu/N đủ/V điểm/N
+Ngày/N 196/M Sở/N sẽ/R công_bố/V kết_quả/N chấm/V phúc_khảo/A
+Ngày/N 37/M Sở/N sẽ/R công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M và/N danh_sách/N học_sinh/N trúng_tuyển/V vào/E các/L trường/N THPT/Np
+HOÀNG/M HƯƠNG/N

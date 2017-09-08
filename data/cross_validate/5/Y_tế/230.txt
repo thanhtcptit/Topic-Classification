@@ -1,0 +1,21 @@
+Phẫu_thuật/V lấy/V khối_u/N hoá/N đá/N 2kg/M trong/E người/N bệnh_nhân/N
+Bệnh_viện/N đa_khoa/N tỉnh/N Quảng_Ninh/Np vừa/R phẫu_thuật/V thành_công/V cho/E một/M nữ/N bệnh_nhân/N có/V khối_u/N hoá/N đá/N nặng/A gần/A 2kg/M nằm/N trọn/A trong/N tử_cung/N
+Thông_tin/N từ/E bệnh_viện/N cho/V biết/V bệnh_nhân/N Trần_Thị_Ch/Np
+52/M tuổi/N nhập_viện/N hôm_qua/N 155/M trong/E tình_trạng/N buồn_nôn/A bụng/N đau/V nhiều/A nhất_là/N khu_vực/N mạn/N sườn/N trái/A và/N hạ_vị/V
+Sau/E khi/N thăm_khám/N và/CC làm/V các/L xét_nghiệm/N chụp/V cắt_lớp/N các/L bác/N sĩ/N đã/R phát_hiện/V bệnh_nhân/N có/V khối/N cản_quang/N kích_thước/N lớn/A 12x15/M cm/N chiếm/V toàn_bộ/N vùng/N tiểu/N khung/N
+Sau/E hội_chẩn/N bệnh_nhân/N được/V chẩn_đoán/V bị/V u/N tử_cung/N vôi_hoá/N phải/V phẫu_thuật/V cắt/V bỏ/V khối_u/N và/N tử_cung/N
+Ca/N mổ/V được/V tiến_hành/V trong/E ngày/N 155/M và/N kéo_dài/V gần/A 1/M giờ/Nu đồng_hồ/N
+Các/L bác_sĩ/N đã/R bóc/V tách/V thành_công/N khối_u/N tử_cung/N bị/V vôi_hoá/V nặng/A gần/A 2kg/M ra/V khỏi/V cơ_thể/N bệnh_nhân/N
+Bà/N Ch/Np
+cho/V biết/V bản_thân/N bà/N đã/R phát_hiện/V có/V dấu_hiệu/N u/N cứng/A ở/E vùng/N bụng_dưới/N từ/E 5/M năm/N trước/A nhưng/C do/C gia_đình/N khó_khăn/A nên/C lâu_nay/N không/R đến/V viện/N điều_trị/V được/R
+Bác/N sĩ/N Phạm_Việt_Hùng/Np trưởng/N khoa/N Ngoại_Bệnh_viện/N đa_khoa/N tỉnh/N Quảng_Ninh/Np cho/V biết/V trường_hợp/N của/E bà/N Ch/Np
+là/V hiện_tượng/N vôi/N hoá/V cơ/N tử_cung/N hiếm/A gặp/V
+Người_bệnh/N vào/V viện/N trong/N tình_trạng/N khối_u/A đã/R lớn/V chèn/V lấp/V hết/V toàn_bộ/N tử_cung/N làm/V tì/N đè/V niệu_quản/N gây/V ứ/N nước/N hai/M thận/N và/CC khiến/V bụng_dưới/N bị/V đau/V tức/V
+Đây/P là/V lần/N đầu_tiên/N chúng_tôi/N bóc/V tách/V khối_u/N vôi_hoá/N to/A và/CC rắn/N như/C vậy/P bác_sĩ/N Hùng/Np nói/V
+Cùng/A theo/V bác_sĩ/N Phạm_Việt_Hùng/Np với/E những/L người/N bị/V u_xơ/V tử_cung/N ở/E giai_đoạn/N đầu/N thường/R không/R phát_hiện/V ra/V do/E không/R có/V triệu_chứng/N gì/P cụ_thể/A
+Nhưng/C khi/N đã/R đến/V một/M giai_đoạn/N nhất_định/A trải/V qua/R các/L hiện_tượng/N thoái/N hoá/V dẫn/V đến/R khối/N u_xơ/N bị/V vôi/N hoá/N sẽ/R có/V một_số/N biểu_hiện/N rõ_rệt/A như/C khi/N sờ/N nắn/N có_thể/A cảm/V nhận/V được/R khối_u/V to/A gây/V cảm_giác/N đau/V luôn/R cảm_thấy/V buồn/V tiểu/N do/E khối_u/N ép/V vào/R bàng_quan/N đau/V vùng/N tử_cung/V vào/E các/L kì/N kinh_nguyệt/N sảy/N thai/N băng/V huyết/N
+U/N xơ/N tử_cung/N bị/V vôi_hoá/V là/V do/E các/L rối_loạn/N về/V bệnh/N mạch_máu/N trong/E khối_u/N hoặc/N do/E nhiễm_trùng/N hoặc/N ung_thư/N
+Vôi_hoá/N là/V giai_đoạn/N cuối/A khi/N quá_trình/N hoại_tử/V và/N thoái_hoá/N mỡ/N kết_thúc/V
+Cacbonat/N phosphat/N canxium/N lắng_đọng/N ở/E vùng/N trung_tâm/N và/CC giữa/N sợi/N cơ/N tử_cung/N canxi/N có_thể/A tích_tụ/V ở/E vùng/N giữa/N hoặc/N lan_toả/N khối_u/N thường/R có/V dạng/N tròn/A rắn_chắc/N
+Hiện_tượng/N vôi/N hoá/V cơ/N tử_cung/N thường/R ít/A gặp/V các/L khối/N u_xơ/N bị/V vôi_hoá/N thường/A là/V khối_u/N lành_tính/N
+Tuy/C không/R trực_tiếp/A dẫn/V đến/R tử_vong/V nhưng/C cũng/R gây/V không/R ít/A phiền_toái/N trong/E cuộc_sống/N hằng/R ngày/N gây/V tổn_hại/V đến/E sức/N khoẻ/N và/CC tạo/V ra/R nhiều/A khó_khăn/N trong/E việc/N sinh_nở/V

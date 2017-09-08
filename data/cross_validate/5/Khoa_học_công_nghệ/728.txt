@@ -1,0 +1,11 @@
+Bị/V biến_đổi/V gene/N muỗi/N không/R còn/V đốt/V người/N
+Muỗi/N tìm_kiếm/V mục_tiêu/N của/E chúng/P nhờ/V mùi/N cơ_thể/N thân_nhiệt/N và/CC khí/N carbon/N dioxide/N /V CO2/M /N mà/C động_vật/N thở/V ra/R
+Hai/M loài/N muỗi/N Anopheles/Np gambiae/V và/CC Aedes/Np aegypti/V  /A rất/R thích/V mùi/N cơ_thể/N người/N
+Bằng/Np cách/V hút/V máu/N người/N chúng/P truyền/V nhiều/A bệnh/N đáng_sợ/A như/C sốt_rét/N và/CC sốt_xuất_huyết/N
+Leslie_Vosshall/Np một/M nhà/N di_truyền/V thần_kinh/N của/E Đại_học/N The_Rockefeller/Np tại/E Mỹ/Np cùng/C các/L đồng_nghiệp/N nảy/V ra/R ý_tưởng/N ngăn_chặn/V muỗi/N đốt/V người/N bằng/E kỹ_thuật/N di_truyền/A
+Họ/P gây/V đột_biến/V một/M gene/N mang/V tên/N Orco/Np của/E hai/M loài/N muỗi/N Anopheles/Np gambiae/V và/CC Aedes/Np aegypti/V  /A để/E chúng/P mất/V khứu_giác/N
+Thử_nghiệm/V cho/E thấy/V những/L con/Nc muỗi/N đột_biến/V gene/N không_thể/R phát_hiện/V người/N bằng/E mùi/N cơ_thể/N và/CC thân_nhiệt/N
+Chúng/P chỉ/R có_thể/R phát_hiện/V mục_tiêu/N nhờ/V khí/N CO2/Np
+Ngay/T cả/P khi/N đó/P chúng/P cũng/R không/R còn/R thích/V mùi/N người/N hơn/A so/V với/E mùi/N của/E những/L loài/N động_vật/N khác/A Livescience/Np  /V đưa/V tin/N  /M Bằng/Np cách/V gây/V đột_biến/V một/M gene/N duy_nhất/A chúng_tôi/P có_thể/R khiến/V muỗi/N cảm_thấy/V bối_rối/A trong/E quá_trình/N tìm_kiếm/V người/N Vosshall/Np tuyên_bố/V
+Trong/E những/L nghiên_cứu/N tiếp_theo/V các/L chuyên_gia/N sẽ/R tìm_hiểu/V cơ_chế/N tác_động/V của/E gene/N Orco/Np đối_với/E các/L thụ/N thể/R mùi/N mà/C muỗi/N sử_dụng/V để/E phát_hiện/V mùi/N cơ_thể/N người/N
+Tạp_chí/N Nature/Np đã/R công_bố/V phát_hiện/V của/E Vosshall/Np và/CC các/L đồng_nghiệp/N

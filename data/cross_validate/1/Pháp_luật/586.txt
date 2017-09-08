@@ -1,0 +1,13 @@
+Cảnh_sát/N đón/V lõng/N hai/M kẻ/N vận_chuyển/V ma_túy/N chuyên_nghiệp/A
+Cục/N Cảnh/Np sát/A điều_tra/V tội_phạm/N về/V ma_túy/N /V C47/Np Bộ/N Công/N an/M /N vừa/R hoàn_tất/V kết_luận/N điều_tra/V đề_nghị/V truy_tố/V  /N Đinh_Thanh_Bằng/Np /M 56/M tuổi/N trú/V tại/E Lâm_Đồng/Np /M và/CC Cù_Quang_Tuyến/Np /M 44/M tuổi/N trú/V TP_HCM/Np /V về/E hành_vi/N mua_bán/V trái_phép/A chất/N ma_túy/N
+Theo/E tài_liệu/N điều_tra/V ngày/N 15/5/2016/M Bằng/Np và/CC Tuyến/N được/R “/V ông/N trùm/N ”/M tên/N Vinh/Np ở/E TP_HCM/Np giao/V 900/M triệu/M đồng/Nu cùng/A vé/N máy_bay/N để/E ra/V miền/N Bắc/Np mua/V ma_túy/N
+Hai/M tuần/N sau/A Bằng/Np có_mặt/V tại/E tỉnh/N Sơn_La/Np giao_dịch/V với/E một/M người/N Lào/Np từng/R bán/V ma_túy/N cho/E mình/P mua/V  /N 6/M bánh/N heroin/N và/CC một/M cây/N ma_túy/N
+Bằng/Np mua/V 5/M kg/Nu cá/N khô/A để/E ngụy_trang/V việc/N giấu/V 6/M bánh/N heroin/N trong/E bao_tải/N còn/R một/M cây/Nc heroin/N cho/V vào/E túi_xách/N
+Tất_cả/P hàng/N được/V gửi/V tại/E một/M xe_khách/N tuyến/N Sơn_La/Np Mỹ_Đình/Np
+Bằng/Np cho/V phụ/V xe/N số/N điện_thoại/N của/E người/N nhận/V /N chính/T là/V số/N của/E anh_ta/N /V và/CC hẹn/V nhận/V tại/E ngã/N ba/M Mãn_Đức/Np /M Hoà_Bình/Np /M
+Bằng/Np bắt/V taxi/N theo/E sau/N xe_khách/N còn/R Tuyến/N đóng/V vai/N hành_khách/N ngồi/V trên/E xe/N để/E theo_dõi/V gói/N hàng/N
+Theo/E tính_toán/V nếu/C dọc/A đường/N thấy/V công_an/N kiểm/V ta/P Tuyến/N sẽ/R gọi/V điện_thoại/N để/E Bằng_không/Np nhận/V tại/E Hòa_Bình/Np nữa/R
+Hôm/N đó/P Bằng/Np đã/R nhận/V hàng/R lên/V taxi/N đi/V cùng/A Tuyến/N về/E hướng/N Ninh_Bình/Np
+Tuy_nhiên/C sau/E quãng/N đường/N ngắn/A di_chuyển/V Bằng/Np Tuyến/N bị/V bắt/V  /EOS
+Theo/E lời/N khai/V của/E Bằng/Np và/CC Tuyến/N từ/E tháng/N 11/2015/M đến/E khi/N bị/V bắt/V cặp/N đôi/M đã/R vận_chuyển/V trót_lọt/A 4/M chuyến/N hàng/N với/E 17/M bánh/N heroin/N và/CC một/M cây/Nc heroin/N về/E TP_HCM/Np tiêu_thụ/V  /M Vinh/Np trả/V cho/E Bằng/Np tiền_công/N 10/M triệu/M đồng/Nu một/M bánh/N heroin/N Tuyến/N chỉ/R được/V trả/V bằng/E một_nửa/N
+Ông/N trùm/N tên/N Vinh/Np đang/R tiếp_tục/V bị/V truy_tìm/V

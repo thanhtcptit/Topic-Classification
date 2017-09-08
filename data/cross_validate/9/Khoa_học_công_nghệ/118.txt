@@ -1,0 +1,43 @@
+​/N Mã/Np độc/A tống_tiền/V bùng_phát/N đầu/N tuần/N sau/A
+Nga/N Ukraine/Np và/CC vùng/N lãnh_thổ/N Đài_Loan/Np Trung_Quốc/Np trở_thành/V mục_tiêu/N hàng_đầu/N hệ_thống/N y_tế/N của/E Anh/Np điêu_đứng/N
+chỉ/R là/V những/L thông_tin/N và/CC thiệt_hại/N ban_đầu/N trong/E vụ/N tấn_công/V mạng/N quy_mô/N chưa/R từng/R có/V xảy/V ra/R tối/N 125/M giờ/N VN/Np
+Trong/E khi/N danh_tính/N những/L kẻ/N tấn_công/V chưa/R được/V xác_định/V các/L nhà/N nghiên_cứu/V bảo_mật/V đã/R nhanh_chóng/A chỉ/V ra/R mã/V độc/A được/V sử_dụng/V ít_nhiều/N có/V dính_dáng/N tới/V Cơ_quan/N An_ninh/N quốc_gia/N Mỹ/Np NSA/Np và/CC gã/N khổng_lồ/A trong/E ngành/N phần_mềm/N Microsoft/Np
+Việt_Nam/Np thuộc/V Top/Np 20/M
+nạn_nhân/N
+Theo/E Reuters/Np chiêu_thức/N tấn_công/V của/E bọn/N tin_tặc/N lần/N này/P khá/A đơn_giản/A
+Chúng/P lừa/V nạn_nhân/N mở/V các/L tệp/N đính/N kèm/V có/V chứa/V sẵn/N mã/N độc/A tống_tiền/V ransomware/N dưới/N dạng/N hoá_đơn/N thư/N giới_thiệu/V việc_làm/N các/L cảnh_báo/N bảo_mật/V hay/C những/L tệp_tin/N có/V vẻ/N hợp_pháp/A khác/A
+Những/L ransomware/N này/P sau/E khi/N xâm_nhập/N máy_vi_tính/N của/E nạn_nhân/N sẽ/R chiếm/V quyền/N truy_cập/N mã_hoá/V các/L dữ_liệu/N trên/N máy_tính/N rồi/N tống_tiền/V nạn_nhân/N 300/M 600/M USD/Nu để/E lấy/V lại/R tài_liệu/N
+Nhiều/A người/N đã/R chấp_nhận/V trả/V tiền/N cho/E bọn/N tin_tặc/N để/V lấy/V lại/R quyền/N truy_cập/V có/V trường_hợp/N sử_dụng/V tiền/N ảo/N Bitcoin/Np
+Ông/N Vikram_Thakur/Np trưởng/N bộ_phận/N nghiên_cứu/V Công_ty/N phần_mềm/N an_ninh/N Symantec/Np nhận_định/V với/E Reuters/Np rằng/C có/V rất/R ít/A công_ty/N tại/V Mỹ/Np bị/V ảnh_hưởng/V vì/E mục_tiêu/N chính/A của/E bọn/N tin_tặc/N là/V các/L nước/N châu/N Âu/Np
+Tại/E châu/N Á/Np ngày/N 135/M nhiều/N quốc_gia/N thông_báo/V không/R có/V đợt/N tấn_công/V diện/N rộng/A nào/P song/N cho/V biết/V đang/R rà_soát/V và/N kiểm_tra/V toàn_diện/N quy_mô/N tấn_công/V lẫn/V mức_độ/N thiệt_hại/N
+Chiều/N 135/M trao_đổi/N với/E Tuổi_Trẻ/Np đại_diện/N Hãng/Np bảo_mật/V Kaspersky_Lab/Np cho/V biết/V họ/P đã/R phát_hiện/V và/N ngăn_chặn/V thành_công/V một/M số_lượng/N lớn/A các/L cuộc/N tấn_công/V từ/E mã/N độc/N tống_tiền/V và/N chúng/N được/V đặt/V thành/V những/L cái/Nc tên/N như/C TrojanRansomWin32Gendjd/N TrojanRansomWin32Scattertr/N TrojanRansomWin32Wannab/N TrojanRansomWin32Wannac/N TrojanRansomWin32Wannad/N
+Đặc_biệt/A Việt_Nam/Np nằm/V trong/E top/N 20/M quốc_gia/N vùng/N lãnh_thổ/N bị/V ảnh_hưởng/V nhiều/A nhất/A bên_cạnh/N Nga/Np Ukraine/Np Ấn_Độ/Np Đài_Loan/Np Kazakhstan/Np Luxembourg/Np Trung_Quốc/Np Romania/N
+Hiện_tại/N Kaspersky_Lab/Np đã/R ghi_nhận/V hơn/A 45000/M cuộc/N tấn_công/V của/E công_cụ/N ransomware/N WannaCry/N tại/E 74/M quốc_gia/N trên/E thế_giới/N chủ_yếu/A ở/V Nga/Np
+Số_lượng/N thực_tế/N có_thể/R cao/A hơn/R
+Cũng/R theo/V Kaspersky/Np những/L người/N thiết_kế/V WannaCry/N đã/R chuẩn_bị/V sẵn/A phần/N hỏi/V đáp/V bằng/E các/L ngôn_ngữ/N khác/A nhau/N bao_gồm/V tiếng/N Việt/Np Trung_Quốc/Np Đan_Mạch/Np Hà_Lan/Np Anh/Np Philippines/Np Pháp/Np Nhật/Np
+với/E những/L câu/N hỏi/V dạng/N như/C Tôi/P có_thể/A phục_hồi/V các/L tập_tin/N của/E mình/P không/R
+Tôi/P trả/V tiền/N như/C thế_nào/N
+Làm_sao/X để/V liên_hệ/V
+để/E trục_lợi/V những/L nạn_nhân/N của/E chiến_dịch/N tấn_công/N này/P
+NSA/Np biết/V nhưng/C không/R thèm/V báo/N
+Đại_diện/N Kaspersky/Np cũng/R cho/V biết/V họ/P đã/R cập_nhật/V dữ_liệu/N về/V các/L biến_thể/N của/E WannaCry/N vào/E thành_phần/N giám_sát/V hệ_thống/N System_Watcher/Np trong/E giải_pháp/N Kaspersky_Internet_Security/Np và/CC Kaspersky_Security/Np for/V Business/Np giúp/V tạo/V ra/R lá_chắn/V then_chốt/N bảo_vệ/V dữ_liệu/N của/E người_dùng/N trước/E sự/N tấn_công/V của/E WannaCry/N hay/C bất_kì/N phần_mềm/N tống_tiền/N nào/P
+Thành_phần/N System_Watcher/Np có/V khả_năng/N phục_hồi/V trạng_thái/N ban_đầu/N những/L thay_đổi/N được/V thực_hiện/V bởi/E phần_mềm/N tống_tiền/V trong/E trường_hợp/N một/M mẫu/N độc_hại/A đã/R vượt/V qua/V các/L lớp/N phòng_thủ/N khác/A
+Bên_cạnh/N đó/P các/L chuyên_gia/N của/E Kaspersky_Lab/Np hiện/N đang/R tiếp_tục/V làm_việc/V về/E khả_năng/N tạo/V ra/R một/M công_cụ/N giải_mã/N để/E giúp_đỡ/V các/L nạn_nhân/N
+Chúng_tôi/P sẽ/R cập_nhật/V khi/N công_cụ/N này/P sẵn_sàng/A hoặc/N cộng_đồng/N có_thể/A theo_dõi/V tại/E website/N của/E tổ_chức/N phi/N lợi_nhuận/N quốc_tế/A về/E phòng_chống/N mã/N độc/A tống_tiền/N wwwnomoreransomorg/N để/E tìm_kiếm/V công_cụ/N giải_mã/V phù_hợp/V đại_diện/N Kaspersky/Np trao_đổi/V với/N Tuổi_Trẻ/Np
+Theo/E các/L chuyên_gia/N và/CC công_ty/N bảo_mật/V tư_nhân/N lần/N này/P bọn/N tin_tặc/N sử_dụng/V một/M đoạn/N mã/N có/V tên/N Eternal_Blue/Np tạm/V dịch/N Màu/N xanh/A bất_diệt/A do/E một/M nhóm/N có/V tên/N Shadow_Brokers/Np đánh_cắp/V và/CC tung/V lên/R mạng/N hồi/N tháng/N trước/A để/E phát_triển/V mã/N độc/A mới/R thành/V một/M con/Nc sâu/N máy_tính/N có/V khả_năng/N tự/N lây_lan/V và/N phát_tán/N nguy_hiểm/A hơn/R trước/A
+Nhóm_Shadow_Brokers/Np khẳng_định/V Màu/N xanh/A bất_diệt/A là/V một/M trong/E những/L công_cụ/N chuyên_dùng/N để/E tấn_công/V mạng/N do/E NSA/Np phát_triển/V
+Đây/P là/V vụ/N tấn/N công_bằng/N mã/V độc/N ransomware/N lớn/A nhất/R ở/V quy_mô/N toàn_cầu/N mà/C cộng_đồng/N mạng/N thế_giới/N chưa/R từng/P được/R chứng_kiến/V chuyên_gia/N Rich_Barger/Np thuộc/V Công_ty/N bảo_mật/V Splunk/Np nhận_định/V với/N Reuters/Np
+Các/L bộ/N lọc/N thư/N rác/N của/N Mỹ/Np đã/R xác_định/V được/R loại/N Ransomware/Np mới/R và/CC gắn/V mác/N chúng/N là/V nguy_hiểm/N theo/V chuyên_gia/N Thakur/Np
+NSA/Np cũng/R lập_tức/R lên_tiếng/V xác_nhận/V đã/R biết/V đến/V sự/N tồn_tại/V của/E loại/N ransomware/N mới/R cũng/R như/A vụ/N tấn_công/V mạng/N nhắm/V vào/R châu/N Âu/Np khẳng_định/V sẵn_sàng/N chia_sẻ/V thông_tin/N hỗ_trợ/V kĩ_thuật/N cho/V các/L đối_tác/N trong/N và/CC ngoài/N nước/N
+Phía_Microsoft/Np cũng/R ngay_lập_tức/R đối_phó/V cập_nhật/N tính_năng/N phát_hiện/V và/CC bảo_vệ/V máy_tính/N khỏi/V mã/N độc/A mới/R ngay/R trong/E ngày/N 125/M giờ/N Mỹ/Np
+Trước/E đó/P hồi/N tháng/N 3/M tập_đoàn/N này/P đã/R cho/V vá/V lỗ_hổng/N trên/N hệ_điều_hành/N bảo_vệ/V khách/N hàng/N khỏi/V mã/N độc/A Màu/N xanh/A bất_diệt/A
+Mặc_dù/C Mỹ/Np không/R phải/A là/V mục_tiêu/N hàng_đầu/N trong/E vụ/N tấn_công/V mạng/N lần/N này/P song/N theo/V Reuters/Np nó/P đã/R thổi/V bùng/V thêm/R những/L căng_thẳng/N và/CC tranh_cãi/V về/V chuyện/N NSA/Np và/CC các/L cơ_quan/N an_ninh/N tình_báo/N khác/A của/E Mỹ/Np thường_xuyên/R tìm_tòi/V ra/V các/L lỗ_hổng/N bảo_mật/V rồi/C giấu/V nhẹm/N để/E tấn_công/V và/CC theo_dõi/V hơn/A là/V báo/N cho/V các/L công_ty/N bảo_mật/V phần_mềm/N sửa_chữa/V chúng/N
+Mã/N độc/A có_thể/A bùng_phát/V đầu/N tuần/N sau/A
+Ngay/T trong_sáng/N 135/M hệ_thống/N giám_sát/N virút/V của/E Công_ty/N an_ninh/N mạng/N Bkav/Np ghi_nhận/V đã/R có/V những/L trường_hợp/N lây_nhiễm/N mã/N độc/A này/P tại/N Việt_Nam/Np
+Con_số/N này/P có_thể/A tiếp_tục/V tăng/V vì/E đang/R là/V ngày/N nghỉ/V nhiều/A máy_tính/N có_thể/A không/R hoạt_động/V
+Virút/Np có_thể/A bùng_phát/V vào/E đầu/N tuần/N tới/V khi/N mọi/N người/N đi/V làm/V trở_lại/V
+Theo/E các/L chuyên_gia/N Bkav/Np đã/R lâu/A rồi/R mới/R lại/V xuất_hiện/V loại/N virút/N phát_tán/N rộng/A qua/E Internet/Np kết_hợp/V với/E khai_thác/N lỗ_hổng/N để/E lây/V trong/E mạng/N LAN/Np
+Các/L virút/N tương_tự/N trước/N đây/P chủ_yếu/A được/V hacker/N sử_dụng/V để/E ghi_điểm/V chứ/N không/R mang/V tính_chất/N phá_hoại/V kiếm/V tiền/N trực_tiếp/A
+WannaCry/N có_thể/A xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A
+Ông/Nc Vũ_Ngọc_Sơn/Np phó/Z chủ_tịch/N phụ_trách/V mảng/N chống/V mã/N độc/N Anti_Malware/Np của/E Bkav/Np cho/V biết/V Đúng/A như/C nhận_định/N cuối/A năm_ngoái/N của/E Bkav/Np năm/N 2017/M sẽ/R chứng_kiến/V sự/N bùng_nổ/V của/E mã/N độc/N tống_tiền/V ransomware/N do/N có_thể/A mang/V lại/R lợi_nhuận/V trực_tiếp/A khổng_lồ/N cho/V tin_tặc/N
+Kiểu/N lây_nhiễm/N của/E mã/N độc/N WannaCry/N tuy/N không/R mới/A nhưng/C cho/V thấy/V xu_hướng/N tận_dụng/V các/L lỗ_hổng/N mới/A để/E tấn_công/V kiếm/V tiền/N sẽ/R còn/V được/V hacker/N sử_dụng/V nhiều/A trong/E thời_gian/N tới/V đặc_biệt/A là/V các/L lỗ_hổng/N của/N hệ_điều_hành/N

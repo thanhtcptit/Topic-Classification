@@ -1,0 +1,33 @@
+Giẫm/V một/M cái/Nc gai/N bệnh_nhân/N tiểu_đường/N phải/V cưa/V chân/N
+Nữ/N bệnh_nhân/N 58/M tuổi/N ở/E Tiền_Giang/Np bị/V đái_tháo_đường/N lâu/A năm/N nhưng/C không/R điều_trị/V kiểm_soát/V đường_huyết/N tốt/A
+Bà/N có/V thói_quen/N đi/V chân_đất/N một/M lần/N vô_tình/A giẫm/V phải/V gai/N nhọn/A gây/V vết_thương/N nhỏ/A ở/E bàn_chân/N
+Nghĩ/V là/V vết/N loét/A bình_thường/A người/Nc phụ_nữ/N không/R đi/V khám/V mà/C tự/P mua/V thuốc/N bôi/V và/CC đắp/V lá/N
+Vết_thương/N ngày_càng/N nặng/A lan_rộng/V đến/E cổ_chân/N bà/N mới/R vào/V viện/N cấp_cứu/V trong/E tình_trạng/N nhiễm_trùng/V rất/R nặng/A
+Các/L bác_sĩ/N xác_định/V bệnh_nhân/N bị/V nhiễm_trùng/V máu/N buộc/V phải/V đoạn/N chi/V kết_hợp/V với/E điều_trị/V nội_khoa/N tích_cực/A để/E bảo_toàn/V tính_mạng/N
+Bác_sĩ/N Trần_Minh_Triết/Np Phân_khoa/N Nội_tiết/Np Bệnh_viện/N Đại_học/N Y_Dược/Np TP_HCM/Np khuyên/V bệnh_nhân/N đái_tháo_đường/N  /A không/R nên/V đi/V chân_đất/N ngay/T cả/T trong/E nhà/N để/E tránh/V tai_nạn/N nhỏ/A mà/C hệ_lụy/N lớn/A
+Trước/E khi/N mang/V giày/N cần/V xem/V có/V vật/N nhọn/A gì/P bên/N trong/N hay/C không/R cắt/V móng/N chân/N nên/C cắt/V ngang/A không/R cắt/V khóe/N tuyệt_đối/A không/R ngâm/V chân/N trong/E nước/N nóng/A hay/C nước/N muối/N
+Bệnh_nhân/N nên/V đến/V bác_sĩ/N chuyên_khoa/N ngay/T khi/N có/V bất_thường/A không/R nên/V tự_ý/A điều_trị/V vết_thương/N vì/E nguy_cơ/N nhiễm_trùng/V rất/R cao/A
+Bác_sĩ/N Triết/Np khuyến_cáo/N nhiều/A bệnh_nhân/N đái_tháo_đường/N bị/V biến_chứng/V phải/V đoạn/N chi/V  /A mà/C không/R do/E chấn_thương/N được/V gọi_là/X biến_chứng/V bàn_chân/N  /V đái_tháo_đường/N
+Ước_tính/V thế_giới/N cứ/R 20/M giây/N có/V một/M người/N bị/V đoạn/N chi/V do/E đái_tháo_đường/N
+Tình_trạng/N này/P làm/V gia_tăng/V chi_phí/N chăm_sóc/V và/CC điều_trị/V cho/E người_bệnh/N là/V gánh/N nặng/A về/E kinh_tế/N xã_hội/N  /EOS
+Các/L chuyên_gia/N khuyến_cáo/N đái_tháo_đường/N là/V bệnh/N mạn_tính/N không/R lây/V và/CC đang/R tăng/V nhanh/A trên/E toàn/N thế_giới/N
+Bệnh/N diễn_tiến/V âm_thầm/A và/CC dẫn/V đến/E các/L biến_chứng/N mạn_tính/V trong/E nhiều/A năm/N sau/E
+Theo/E số_liệu/N của/E Liên_đoàn/N Đái_tháo_đường/N Thế_giới/N /A IDF/Np /A năm/N 2015/M thế_giới/N có/V khoảng/A 415/M triệu/M người/N mắc/V bệnh/N đái_tháo_đường/N
+Ước_tính/V đến/E năm/N 2040/M trên/E thế_giới/N sẽ/R có/V 642/M triệu/M người/N bị/V bệnh/N này/P
+Tỷ_lệ/N biến_chứng/V bàn_chân/N đái_tháo_đường/N dao_động/V trong/E khoảng/N 1/M đến/E 10%/M tùy/V theo/E từng/R quốc_gia/N phổ_biến/V những/L nước_đang_phát_triển/N điều_kiện/N kinh_tế/N xã_hội/N kém/A có/V nơi/N lên/V đến/V 20%/M
+Trung_bình/A khoảng/N 50%/M người_bệnh/N có/V biến_chứng/N bàn_chân/N đái_tháo_đường/N cần/V phải/V nhập_viện/V và/CC 20%/M số/N đó/P cần/V phải/V đoạn/N chi/V
+Người_bệnh/N đái_tháo_đường/N lâu/A năm/N nếu_không/C được/R kiểm_soát/V tốt/A đường_huyết/N tăng/V cao/A thường_xuyên/A sẽ/R dẫn/V đến/E biến_chứng/N trên/E động_mạch/N ngoại/N biên/N và/CC thần_kinh_ngoại_biên/N
+Từ/E đó/P bàn_chân/N dễ/A bị/V tổn_thương/V và/CC nhiễm_trùng/V gây/V nên/C biến_chứng/V bàn_chân/N đái_tháo_đường/N bác_sĩ/N Triết/Np khuyến_cáo/N
+Gần/A đây/P các/L bác_sĩ/N Phân_khoa/N Nội_tiết/Np Bệnh_viện/N Đại_học/N Y_Dược/Np TPHCM/Np thường_xuyên/A tiếp_nhận/V nhiều/A người_bệnh/N bị/V biến_chứng/V bàn_chân/N đái_tháo_đường/N mà/C không/R biết/V một_số/L trường_hợp/N nhập_viện/V kịp_thời/A nên/C may_mắn/A không/R phải/V cưa/V chân/N
+Một/M nữ/N bệnh_nhân/N 65/M tuổi/N tại/E TP_HCM/Np bị/V đái_tháo_đường/V nhiều/A năm/N đã/R có/V biến_chứng/N thần_kinh_ngoại_biên/N
+Gần/A đây/P bà/N thường_xuyên/A cảm_thấy/V nóng/A rát/A 2/M bàn_chân/N và/CC như/C bị/V châm_chích/V
+Bệnh_nhân/N tự/P đi/V cắt/V lễ/N và/CC ngâm/V chân/N nước/N muối/N một/M thời_gian/N sau/E dẫn/V đến/E nhiễm_trùng/N 2/M chân/N lan_rộng/V mới/R nhập_viện/V điều_trị/V
+Bác_sĩ/N Triết/Np cho_biết/V bệnh_nhân/N trên/E rất/R may_mắn/A được/V đưa/V vào/E bệnh_viện/N kịp_thời/A
+Bà/N được/V điều_trị/V suốt/A 2/M tuần/N đến/E nay/P vết_thương/N đã/R lành/A hẳn/R
+Bác_sĩ/N nhấn_mạnh/V công_tác/N  /N chăm_sóc/V bàn_chân/N đái_tháo_đường/N phải/V được/V xem/V là/C một/M trong/E những/L vấn_đề/N quan_trọng/A bên_cạnh/N kiểm_soát/V đường_huyết/N và/CC các/L biến_chứng/N khác/A ở/E bệnh_nhân/N tiểu_đường/N
+Ngoài_ra/C người_bệnh/N cần/V được/V thăm_khám/V đánh_giá/V tầm/N soát/V biến_chứng/V định_kỳ/N bởi/E các/L bác_sĩ/N chuyên_khoa/N nội_tiết/N
+Để/E phòng_tránh/V biến_chứng/N trên/A bác_sĩ/N Triết/Np khuyên/V những/L người/N bị/V tiểu_đường/N cần/V biết/V cách/N tự/P chăm_sóc/V và/CC phát_hiện/V sớm/A bất_thường/A trên/E bàn_chân/N của/E mình/P
+Giữ/V chế_độ/N dinh_dưỡng/N và/CC tập_luyện/V thể_lực/N hợp_lý/A để/E giúp/V kiểm_soát/V đường_huyết/N ổn_định/V
+Cụ_thể/A cần/V rửa/V sạch/A và/CC quan_sát/V bàn_chân/N mình/P mỗi/M ngày_trước/N khi/N đi/V ngủ/V luôn/R mang/V giày_dép/N thích_hợp/A không/R đi/V chân_đất/N ngay/T cả/T khi/N đi/V trong/E nhà/N tuyệt_đối/A không/R ngâm/V chân/N trong/E nước/N nóng/A hay/C nước/N muối/N
+Sáng/N 23/7/M Bệnh_viện/N  /V Đại_học/N Y_Dược/Np TP_HCM/Np tổ_chức/V sinh_hoạt/V định_kỳ/N Câu_lạc_bộ/N người_bệnh/N đái_tháo_đường/N lần/N thứ_hai/N nhằm/V cập_nhật/V  /V nhiều/A kiến_thức/N mới/R giúp/V bệnh_nhân/N  /A sống/V khỏe_mạnh/A và/CC lạc_quan/A hơn/A đồng_thời/R có/V chế/V  /M độ/N dinh_dưỡng/N hợp_lý/A giúp/V ổn_định/V đường_huyết/N nâng/V cao/A chất_lượng/N cuộc_sống/N
+Điện_thoại/N đăng_ký/V tham_dự/V miễn_phí/V /M 028/M /N 3952/M 5449/M  /M 3952/M 5422/M

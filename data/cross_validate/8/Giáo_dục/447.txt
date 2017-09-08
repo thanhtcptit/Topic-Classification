@@ -1,0 +1,9 @@
+Phổ/V điểm/N thi/V THPT/Np quốc_gia/N khối/N A/Np A1/Np B/Np C/Np D/Np năm/N 2017/M 
+Theo/E phân_tích/V của/E Bộ/N GD&/Np ĐT/Np phổ/V điểm/N thi/V khối/N A/N năm/N nay/P phân_bố/V chuẩn/N khá/R đều/R hai/M bên/N giá_trị/N trung_bình/A 
+so/V với/E năm/N 2016/M điểm/N trung_bình/A phổ/V điểm/N năm/N 2017/M không/R khác_biệt/A gì/P nhiều/A (/N khoảng/N 18/M điểm/N )/A nhưng/C phổ/V điểm/N năm/N nay/P về/E phía/N điểm_cao/N thoải/A hơn/A năm_ngoái/N rất/R nhiều/A do_đó/C thuận_tiện/V cho/E các/L trường/N xây_dựng/V điểm_chuẩn/N vào/E các/L ngành/N khác_nhau/A 
+Phổ/V điểm/N khối/N B/N Điểm/N trung_bình/A không/R khác_biệt/A nhiều/A so/V với/E năm/N 2016/M (/Nu khoảng/N 17/M điểm/N )/A 
+Phổ/Np điểm/V phần/N nhỏ/A hơn/R 24/M điểm/N hơi/R dốc/A nhưng/C phần/N cao/A hơn/R 24/M điểm/N thoải/V nên/C các/L trường/N có/V điểm_chuẩn/N cao/A không/R khó/A xác_định/V điểm_chuẩn/N 
+Phổ/V điểm/N khối/N C/N Điểm/N trung_bình/A cao/A hơn/A năm/M 2016/M khoảng/N 1/M điểm/N đường_cong/N phân_bố/V chuẩn/N dốc/N đều/R thuận_lợi/A trong/E xác_định/V điểm/N trúng_tuyển/V vào/E các/L trường/N ĐH/Np 
+Phổ/V điểm/N khối/N D/Np Điểm/N trung_bình/A năm/N nay/P cao/A hơn/R năm_ngoái/N khoảng/N 2/M điểm/N nhánh/N phân_bố/V phổ/V điểm/N về/E phía/N điểm_cao/N dốc/N đều/R thuận_tiện/V trong/E việc/N xác_định/V điểm_chuẩn/V vào/E các/L trường/N ĐH/Np 
+Phổ/V điểm/N khối/N A1/M Điểm/N trung_bình/A năm/N 2017/M cao/A hơn/R điểm/N trung_bình/A năm/N 2016/M khoảng/N 2/M điểm/N đường_cong/N phân_bố/V chuẩn/N dốc/N đều/R phân_hóa/V tốt/A các/L trường/N thuận_lợi/N trong/E xác_định/V điểm_chuẩn/N 
+Phổ/V điểm/N Khối/Np A/N năm/N 2017/M Phổ/Np điểm/N Khối/Np B/N năm/N 2017/M Phổ/Np điểm/N Khối/Np C/N năm/N 2017/M Phổ/Np điểm/N Khối/Np D/Np năm/N 2017/M Phổ/Np điểm/N Khối/Np A1/M năm/N 2017/M Hồng_Hạnh/Np 

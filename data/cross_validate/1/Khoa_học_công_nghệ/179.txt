@@ -1,0 +1,47 @@
+Nhiều/A chọn_lựa/N smartphone/N tầm/N 3/M triệu/M đồng/Nu
+Các/L smartphone/N bên/N dưới/N cũng/N thuộc/V nhóm/N smartphone/V hai/M SIM/Np
+Microsoft_Lumia/Np 640/M Lumia/Np 540/M và/N 430/M hai/M SIM/Np
+Khác/A với/E Lumia/Np 640/M XL/Np giá/N vượt/V 4/M triệu/M đồng/Nu dòng/N Lumia/Np 640/M có_giá/N bán_lẻ/V 3690000/M VNĐ/N thuộc/V phân/N khúc/N smartphone/N màn_hình/N lớn/A 5/M inch/N độ_phân_giải/N HD/Np 720p/M cấu_hình/N cạnh_tranh/V gồm/V chip/N bốn/N nhân/N Qualcomm_Snapdragon/Np 400/M 12GHz/N RAM/Np 1GB/M bộ_nhớ_trong/N 8GB/M hỗ_trợ/N thẻ/N nhớ/V lên/R tối_đa/A 128GB/M
+Máy/N có/V camera/N 8MP/N và/CC pin/N 2500/M mAh/N
+Nhóm/N smartphone/N dùng/V Windows_Phone/Np 81/M của/N Microsoft/Np ra_mắt/V vừa_qua/N còn/R có/V Lumia/Np 540/M 3490000/M VNĐ/N và/CC Lumia/Np 430/M 1599000/M VNĐ/M
+So/V với/E Lumia/Np 640/M Lumia/Np 540/M cũng/R có/V màn_hình/N HD/Np 5/M inch/N nhưng/C chip/N xử_lí/N dùng/V Snapdragon/Np 200/M RAM/Np 1GB/M và/N 8GB/M bộ_nhớ_trong/N
+Tuy_nhiên/C camera/N trước/N của/E Lumia/Np 540/M có/V cảm_biến/N 5MP/M tham_gia/N nhóm/N smartphone/N selfie/N bên_cạnh/N camera/N sau/A 8MP/M
+Em/N út/A Lumia/Np 430/M phù_hợp/N cho/V người_dùng/N mới/A chuyển/V từ/E điện_thoại_di_động/N phổ_thông/N sang/V điện_thoại_thông_minh/X giá/N rẻ/A chip/N hai/M nhân/N 1GB/M RAM/Np và/CC 8GB/M bộ_nhớ_trong/N
+Và_Lumia/Np 430/M cũng/N thuộc/V nhóm/N smartphone/V hai/M SIM/Np như/C hai/M đàn_anh/N trên/N
+LG/Np Magna/Np
+Là/V một/M đại_diện/N mới/A của/E LG/Np trong/E phân/N khúc/N bình_dân/A tầm/N trung/N Magna/Np tạo/V được/R dấu_ấn/N qua/V thiết_kế/V ốp/N lưng/N cong/A và/CC kiểu_dáng/N mặt/N trước/A giống/A dòng/N smartphone/N cao/A cấp/N LG/N G3/Np ra_mắt/V năm/N 2014/M
+Cũng/R thuộc/V nhóm/N smartphone/N màn_hình/N 5/M inch/N và/CC smartphone/N selfie/N LG/Np Magna/Np có/V camera/N trước/N 5MP/N và/CC camera/N sau/N 8MP/M ống_kính/N f24/M ra_lệnh/N chụp/V ảnh/N qua/R cử_chỉ/V bàn_tay/N
+Cấu_hình/N LG/Np Magna/Np gồm/V chip/N xử_lí/N bốn/N nhân/N MediaTek/N MT6582/N 13GHz/N 1GB/N RAM/Np và/CC 8GB/N bộ_nhớ/N hỗ_trợ/V thẻ/N nhớ/V microSD/N
+Magna/N thừa_hưởng/V một_số/N tính_năng/N từ/E các/L phiên_bản/N cao_cấp/A của/E LG/Np như/C bảo_mật/V Knock_Code/Np bộ_gõ/V tiếng/N Việt_Smart_Keyboard/Np Grand_View/Np
+Máy/N hỗ_trợ/V hai/M SIM/Np có_giá/N bán_lẻ/V tham_khảo/N 3990000/M VNĐ/N
+Ngoài_Magna/Np LG/Np còn/R có/V L70/M Dual/Np cũng/R là/V smartphone/N hai/M SIM/Np giá/N 2990000/M VNĐ/N
+HTC/Np Desire/Np 326G/M
+Cùng/A thuộc/V nhóm/N smartphone/N 2/M SIM/Np HTC/Np Desire/Np 326G/M có_giá/N bán_lẻ/V ở/E mức/N 2690000/M VNĐ/M
+HTC/Np Desire/Np 326G/Np có/V màn_hình/N 45/M inch/N độ_phân_giải/N 854/M x/N 480/M pixel/N dùng/V chip/N bốn/N nhân/N 12GHz/M RAM/Np 1GB/M và/N bộ_nhớ_trong/N 8GB/M
+Máy/N có/V camera/N 8MP/M cảm_biến/N BSI/Np và/CC camera/N sau/A 2MP/M
+Pin/N 2000/M mAh/N
+HTC/Np tích_hợp/V giao_diện/N Sense/Np trên/E nền/N Android/Np cho/V Desire/Np 326G/N cùng/A ứng_dụng/N tin_tức/N tổng_hợp/V BlinkFeed/N
+Bộ/N đội/N 2/M SIM/Np Wiko_Ridge/Np và/CC Ridge_Fab/Np
+Wiko/N đưa/V các/L dòng/N smartphone/N giới_thiệu/V tại/E Đại_hội/N Di_động/N Toàn_cầu/N MWC/Np 2015/M về/V VN/Np gồm/V Ridge/Np và/CC Ridge_Fab/Np có_giá/N lần_lượt/N 3799000/M VNĐ/N và/CC 3999000/M VNĐ/N
+Cả/P hai/M đều/R có/V camera/N trước/N 5MP/N tham_gia/V nhóm/N smartphone/N selfie/V chụp/V góc/N rộng/A 87/M độ/N và/CC camera/N sau/N 13MP/M dùng/N Android/Np 44/M Kitkat/Np
+Ridge_Fab/Np là/V smartphone/N màn_hình/N HD/Np lớn/V 55/M inch/N phablet/N dùng/V chip/N bốn/N nhân/N Snapdragon/Np 410/M 12GHz/N RAM/Np 2GB/M bộ_nhớ_trong/N 16GB/M và/N pin/N 2820/M mAh/N
+Riêng_Ridge/Np màn_hình/N 5/M inch/N dùng/V chip/N tám/N nhân/N MediaTek/N 6592/M 14GHz/N 2GB/M RAM/Np và/CC 16/M GB/Np bộ_nhớ/V pin/N 2400/M mAh/N
+Ridge_Fab/Np và/CC Ridge/Np là/V smartphone/N 2/M SIM/Np
+Oppo_Neo/Np 5/M và/N Joy/Np 3/M
+Neo/N 5/M có/V màn_hình/N 45/M inch/N 480/M x/N 854/M camera/N sau/N 8MP/N và/CC camera/N trước/N 2MP/M
+Máy/N dùng/V chip/N xử_lí/N bốn/N nhân/N 13GHz/N trên/N nền/N Android/Np 44/M KitKat/N và/CC ColorOS/V 201/M
+Bộ/N nhớ/V RAM/Np 1GB/N và/CC bộ_nhớ_trong/N 8GB/N hỗ_trợ/V thẻ/N nhớ/V
+Neo/Np 5/M giá/N bán_lẻ/V tham/N khảo/N 3690000/M VNĐ/N
+Oppo_Joy/Np 3/M giá/N bán_lẻ/V 3190000/M VNĐ/N có/V cùng/A kích_cỡ/N màn_hình/N 45/M inch/N chip/N xử_lí/N và/CC RAM/Np
+Tuy_nhiên/C bộ_nhớ_trong/N giảm/A còn/R 4GB/M cảm/N biến/N camera/N chính/A giảm/N còn/V 5MP/M
+Cả_Neo/Np 5/M và/N Joy/Np 3/M đều/N là/V smartphone/N 2/M SIM/Np 2/M sóng/N
+Mobiistar/N LAI/Np Y/Np
+Là/V em_út/N cá_tính/N nhất/A trong/A dòng/N bộ/N ba/N KIM/Np Series/Np được/V Mobiistar/Np giới_thiệu/V trong/E tháng/N 5/M Lai/Np Y/Np có/V thiết_kế/N kim_loại/N với/E lớp/N vỏ/N nhôm/N có_thể/A khắc/V hình/N hoạ_tiết/N tuỳ_ý/N
+Lai/N Y/Np là/V một/M đại_diện/N có/V mức/N giá_cạnh_tranh/N với/E cấu_hình/N gồm/V chip/N xử_lí/N bốn/N nhân/N MediaTek/N MT6582/M 13GHz/N
+Máy/N có/V màn_hình/N 5/M inch/N độ_phân_giải/N HD/Np 720p/M
+Ưu_điểm/N của/E Lai/Np Y/Np nằm/V ở/E camera/N 8MP/N cảm_biến/N Sony_Exmor/Np R/Np cùng/A camera/N phụ/V 5MP/N
+Lai/N Y/Np cũng/R hỗ_trợ/V hai/M SIM/Np hai/M sóng/N pin/N 2000/M mAh/N
+Asus_Zenfone/Np C/Np
+Phiên_bản/N smartphone/N giá/N rẻ/A của/E Asus/Np giảm/V 200/M ngàn/N từ/E 2390000/M VNĐ/N còn/V 2190000/M VNĐ/Nu
+Có/V thiết_kế/N giống/N với/E Zenfone/Np 4/M dòng/N Zenfone/Np C/Np có/V kích_cỡ/N màn_hình/N 45/M inch/N màn_hình/N chưa/R đạt/V HD/Np ở/E mức/N 854/M x/N 480/M pixel/N dùng/V chip/N hai/M nhân/N Intel_Atom/Np Z2520/M 12GHz/N 1GB/M RAM/Np và/CC 8GB/M bộ_nhớ_trong/N
+Camera/N chính/A 5MP/N pin/N 2100/M mAh/N và/CC chạy/V trên/E nền/N Android/Np 40/M Ice_Cream_Sandwich/Np

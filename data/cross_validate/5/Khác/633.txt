@@ -1,0 +1,21 @@
+Phân_biệt/V ảnh/N chụp/V bằng/E smartphone/N và/CC DSLR/Np
+Florian_Kainz/Np hiện/N là/V kỹ_sư/N phần_mềm/N Google/Np từng/R làm_việc/V tại/E Industrial_Light/Np &/CC Magic/Np
+Sau/E khi/N chia_sẻ/V ảnh/N chụp/V đêm/N bằng/E máy_ảnh/N DSLR/Np chuyên_nghiệp/A các/L đồng_nghiệp/N đã/R thách/V ông/Nc  /Np có_thể/R chụp/V được/R ảnh/N tương_tự/A bằng/E smartphone/N  /M Kainz/Np phát_triển/V một/M ứng_dụng/N Android/Np có_thể/R can_thiệp/V vào/E các/L thiết_lập/V thông_số/N trên/E camera/N như/C thời_gian/N phơi/V sáng/N ISO/Np khoảng_cách/N lấy/V nét/N
+Sau/E đó/P ông/N đặt/V điện_thoại/N Google_Pixel/Np và/CC Nexus/Np 6P/M lên/E chạc/N ba/M /N tripod/N /A rồi/C chụp/V và/CC dùng/V phần_mềm/N xử_lý/V hậu_kỳ/N để/E cho/V ra_đời/V những/L bức/Nc ảnh/N đáng/V kinh_ngạc/V
+Hiện/N ứng_dụng/A này/P chưa/R được/V công_bố/V nhưng/C có_thể/R các/L thế_hệ/N điện_thoại/N tiếp_theo/V của/E Google/Np sẽ/R có/V khả_năng/N chụp/V ảnh/N thiếu/A sáng/N ấn_tượng/N
+Hãy/R xem/V những/L bức/Nc ảnh/N dưới/E đây/P và/CC cho/V biết_đâu/R là/V ảnh/N chụp/V từ/E điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np
+Ảnh/N điện_thoại/N A/N
+Ảnh/N DSLR/Np B/Np

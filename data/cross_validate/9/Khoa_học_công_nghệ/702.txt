@@ -1,0 +1,10 @@
+﻿/M NASA/Np tiết_lộ/V ý_tưởng/N xây/V nhà_băng/N trên/E sao/P Hỏa/Np
+Các/L nhà_khoa_học/N thuộc/V Trung_tâm/N nghiên_cứu/V Langley/Np của/E NASA/Np vừa/R tiết_lộ/V ý_tưởng/N xây/V nhà_băng/N trên/E sao/P Hỏa_Nature_World_News/Np hôm/N 2/M 1/M đưa/V tin/N
+Nhà_băng/N là/V những/L ngôi/Nc nhà/N mái/N vòm/N được/V bơm/V phồng/A và/CC bao_phủ/A bởi/E lớp/N băng/N dày/A để/E làm/V nơi/N sinh_hoạt/N làm_việc/V cho/E các/L phi_hành_gia/N  /A Mục_tiêu/N chính/A của/E ý_tưởng/N là/V nhằm/V bảo_vệ/V phi_hành_đoàn/N trước/E các/L bức_xạ/N năng_lượng/N cao/A chẳng_hạn/X như/C tia_vũ_trụ/N xuyên/V qua/E bầu/N khí_quyển/N sao/P Hỏa/Np
+Tia_vũ_trụ/N có_thể/R phá_hủy/V tế_bào/N gia_tăng/V nguy_cơ/N mắc/V các/L vấn_đề/N sức_khỏe/N như/C ung_thư/N hay/C bệnh/N bức_xạ/N cấp_tính/V  /N Các/L vật_liệu/N chế_tạo/V nhà_băng/N phải/V chịu/V được/R môi_trường/N khắc_nghiệt/V trên/E sao/P Hỏa/Np bao_gồm/V tia_cực_tím/N bức_xạ/V cũng_như/C các/L cơn/Nc bão/N bụi/N trong/E nhiều/A năm/N Sheila_Ann_Thibeault/Np nhà_nghiên_cứu/N tới/V từ/E Trung_tâm/N nghiên_cứu/V Langley/Np chia_sẻ/V
+Lớp/N băng/N giàu/A hydro/N có_thể/A làm/V lá_chắn/N ngăn/V những/L tia/Nc này/P
+Vì_thế/C nó/P trở_thành/V tấm/N phủ/V tuyệt_vời/A giúp/V bảo_vệ/V các/L phi_hành_gia/N
+Ngoài_ra/C nhà_băng/N sẽ/R nhẹ/A hơn/R nhiều/A so/V với/E các/L ý_tưởng/N nhà_ở/N khác/A cần/V phải/V xây_dựng/V trên/E Trái_Đất/N trước/E khi/N phóng/V lên/R hành_tinh/N Đỏ/Np
+Theo/E nhóm/N nghiên_cứu/V nhà_băng/N với/E phần/N khung/N nhẹ/A dễ/A lắp_ráp/V và/CC có_thể/R sử_dụng/V vật_liệu/N nước/N có/V sẵn/A của/E hành_tinh/N là/V giải_pháp/N hoàn_hảo/A cho/E nhà_ở/N trên/E sao/P Hỏa/Np  /V Ý_tưởng/N xây_dựng/V nhà_băng/N trên/E sao/P Hỏa/Np có/V rất/R nhiều/A ưu_điểm/N
+Nó/P nhẹ/A và/CC có_thể/A vận_chuyển/V lắp_ráp/V bằng/E robot/N đơn_giản/A
+Ngôi/Nc nhà/N cũng/R sẽ/R được/V đổ/V đầy/A nước/N trước/E khi/N phi_hành_đoàn/N tới/E nhóm/N nghiên_cứu/V cho_biết/V

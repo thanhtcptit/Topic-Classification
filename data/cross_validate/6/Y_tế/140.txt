@@ -1,0 +1,9 @@
+Ngừng/V hoạt_động/N đơn_vị/N thận/N nhân_tạo/A Bệnh_viện/N Vũ_Anh/Np
+Đây/P là/V yêu_cầu/N của/E Sở/N Y/Np tế/V TPHCM/Np đối_với/N Bệnh_viện/N quốc_tế/N Vũ_Anh/Np trong/E văn_bản/N khẩn/N ngày/N 26/M gửi/V đến/V bệnh_viện/N này/P
+Theo/E Sở/N Y/Np tế/N TP/Np việc/N tạm/V ngưng/V hoạt_động/N Đơn_vị/N Thận/Np nhân_tạo/A Bệnh_viện/N quốc_tế/N Vũ_Anh/Np là/V do/E bệnh_viện/N này/P đã/R thay_đổi/V toàn_bộ/N nhân_sự/N bác_sĩ/N làm_việc/V tại/E Đơn_vị/N thận/N nhân_tạo/A cần/V được/V thẩm_định/V lại/R năng_lực/N chuyên_môn/A để/E thực_hiện/V kĩ_thuật/N thận/N nhân_tạo/A
+Sở/N Y/Np tế/N TP/Np sẽ/R tổ_chức/V kiểm_tra/V thẩm_định/N thực_tế/N các/L điều_kiện/N thực_hiện/V kĩ_thuật/N thận/N nhân_tạo/A của/E bệnh_viện/N để/E có/V cơ_sở/N cho/V phép/N Đơn_vị/N thận/N nhân_tạo/A hoạt_động/V trở_lại/V
+Trong/E thời_gian/N chờ/V thẩm_định/V để/E đảm_bảo/V an_toàn/A cho/V người_bệnh/N Sở/N Y/Np tế/V yêu_cầu/V Bệnh_viện/N quốc_tế/N Vũ_Anh/Np ngưng/V ngay/N hoạt_động/N của/E Đơn_vị/N thận/N nhân_tạo/A tại/V bệnh_viện/N
+Đồng_thời/N khẩn_trương/V báo_cáo/V số_lượng/N tình_hình/N người_bệnh/N đang/R được/V chạy/V thận/N nhân_tạo/A tại/E bệnh_viện/N để/E sở/N chuyển/V điều_trị/N tiếp_tục/V tại/E các/L bệnh_viện/N khác/A
+Rà_soát/N củng_cố/N quy_trình/N kĩ_thuật/N lọc/V máu/N thận/N nhân_tạo/A
+Sở/N Y/Np tế/V TPHCM/Np vừa/R chỉ_đạo/V các/L bệnh_viện/N trực_thuộc/V trên/E địa_bàn/N TP/Np tăng_cường/V hoạt_động/V chất_lượng/N đảm_bảo/V an_toàn/A người_bệnh/N trong/E việc/N thực_hiện/V kĩ_thuật/N lọc/V máu/N thận/N nhân_tạo/A tại/V bệnh_viện/N
+Giám_đốc/N các/L bệnh_viện/N phải/V giám_sát/V chặt_chẽ/A việc/N tuân_thủ/V của/E nhân_viên/N y_tế/N đối_với/N quy_định/N chuyên_môn/N quy_trình/N kĩ_thuật/N lọc/V máu/N thận/N nhân_tạo/A đang/R áp_dụng/V tại/E bệnh_viện/N nhằm/N đảm_bảo/V an_toàn/A cho/E người_bệnh/N hạn_chế/N tối_đa/A các/L sự_cố/N tai_biến/N

@@ -1,0 +1,17 @@
+M Vườn_ươm/N Tài_năng/N A của/E GS/Np Ngô_Bảo_Châu/Np nhận/V 1 0/M cuốn/N sách/N
+Lễ/N thành_lập/V tủ_sách/A 1 0/M cuốn/Nc tại/E Vườn_ươm/N Tài_năng/N Talinpa/Np của/E Giáo_sư/N Ngô_Bảo_Châu/Np diễn/V ra/R đầu/N tháng/N 7/M
+Sự_kiện/N có/V Giáo_sư/N Ngô_Huy_Cẩn/Np và/CC Phó_Giáo/Np sư/N Tiến_sĩ/N Trần_Lưu_Vân_Hiền/Np /M cha_mẹ/N của/E Giáo_sư/N Ngô_Bảo_Châu/Np /V cùng/A nhiều/A nhà_văn/N như/C Hoàng_Minh_Tường/Np Nguyễn_Bắc_Sơn/Np Dương_Hướng/Np thầy/N Đàm_Hiếu_Chiến/Np giáo_viên/N dạy/V Toán/Np của/E Ngô_Bảo_Châu/Np ở/E trường/N Trưng_Vương/Np đồng_nghiệp/N tại/E Viện_Toán/Np của/E Giáo_sư/N Ngô_Bảo_Châu/Np
+góp_mặt/V
+Talinpa/Np vốn/R là/V nơi/N tiếp_đón/V các/L đội_tuyển/N học_sinh/N dự/V thi/V quốc_tế/N của/E Việt_Nam/Np các/L đồng_nghiệp/N và/CC đối_tác/N của/E Giáo_sư/N Ngô_Bảo_Châu/Np tại/E Viện_Toán/Np cao_cấp/A
+VICC/Np mang/V đến/R Thư_viện/N Talinpa/Np những/L đầu_sách/N giá_trị/N thuộc/V nhiều/A lĩnh_vực/N như/C Những/L kẻ/N xuất_chúng/V của/E Malcolm_Gladwell/Np Catalonia/Np Tình_yêu/N của/E tôi/P của/E George_Orwell/Np Hồi_ký/N chiến_tranh/N của/E Charles/Np de/V Gaulle/Np Vạch/V ranh_giới/N bộ/N sách/N Góc/N nhìn/V sử/N Việt/Np UFO/Np Vật_thể/Np bay/V không/R xác_định/V Kinh_tế_học/N hài_hước/N bộ/N truyện/N giả_tưởng/V Trò_chơi/N vương_quyền/A /M Games/Np of/E Thrones/Np /M
+Phó_Giáo/Np sư/N Trần_Lưu_Vân_Hiền/Np bày_tỏ/V Để/E huy_động/V theo/E hình_thức/N tài_trợ/V từ/E các/L mạnh_thường_quân/N thì/C không/R khó/A vì/E có/V nhiều/A N đại_gia/N M muốn/V ủng_hộ/V
+Nhưng_Châu/Np lại/R muốn/V Talinpa/Np tự/P tổ_chức/V các/L hoạt_động/N một_cách/N hợp_lý/A và/CC ý_nghĩa/N tận_dụng/V các/L nguồn_lực/N để/E tự/P cung_cấp/V tài_chính/N cho/E các/L hoạt_động/N xã_hội/N ”/A
+Phó_Giáo/Np sư/N Hiền/Np cũng/R chia_sẻ/V Giáo_sư/N Ngô_Bảo_Châu/Np yêu_thích/V sách/N đến_nỗi/X đi/V đến/V bất_cứ/R nơi/N nào/P trên/E thế_giới/N ông/N cũng/R “/V lạc/V ”/A trong/E những/L hiệu/N sách/N
+Nhà_riêng/N ở/E Hà_Nội/Np cũng/R được/V ông/N bày_biện/V như/C một/M hiệu/N sách/N
+Vườn_ươm/N tài_năng/N của/E Giáo_sư/N Ngô_Bảo_Châu/Np là/V một/M tổ_chức/N phi/N lợi_nhuận/N hoạt_động/V trong/E lĩnh_vực/N giáo_dục/N
+Nơi/N đây/P hỗ_trợ/V tổ_chức/V các/L khóa/N bồi_dưỡng/V học_sinh/N năng_khiếu/A khám_phá/V khoa_học/N và/CC nghệ_thuật/N trau_dồi/V kỹ_năng/N học_tập/V và/CC nghiên_cứu/V khoa_học/N
+Giáo_sư/N Châu/Np quyết_định/V sử_dụng/V tòa/N biệt_thự/N ở/E bán_đảo/N Tuần_Châu/Np quà/N tặng/V của/E ông/Nc Đào_Hồng_Tuyển/Np để/E phục_vụ/V các/L hoạt_động/N có/V ý_nghĩa/N xã_hội/N
+Thư_viện/N trong/E Talinpa/Np có/V sức/N chứa/V 3 0/M cuốn/N sách/N
+Lễ/N tặng/V 1 0/M cuốn/Nc sách/N là/V sự_kiện/N đầu_tiên/A trong/E chương_trình/N 1/M triệu/N cuốn/Nc sách/N do/E Trung_tâm/N Hợp_tác/V Trí_tuệ/N Việt_Nam/Np /V VICC/Np /V khởi_xướng/V nằm/V trong/E khuôn_khổ/N dự_án/N khuyến/N đọc/V Cùng/A đọc/V sách/N /V Let/Np ’/V s/N Read/Np /M
+Chương_trình/N được/V thành_lập/V như/C một/M nỗ_lực/N của/E VICC/Np để/E mang/V sách/N đến/E khắp/A tỉnh_thành/N thông_qua/V kêu_gọi/V tài_trợ/V và/CC quyên_góp/V để/E tặng/V sách/N cho/E các/L tổ_chức/N câu_lạc_bộ/N thư_viện/N lớn_nhỏ/A trên/E cả/P nước/N
+VICC/Np và/CC Talinpa/Np cùng/C chung/V ý_tưởng/N xây_dựng/V thư_viện/N dành/V cho/E cộng_đồng/N và/CC huy_động/V nguồn/N sách/N xã_hội_hóa/V để/E mở_cửa/V miễn_phí/V cho/E mọi/L đối_tượng/N độc_giả/N

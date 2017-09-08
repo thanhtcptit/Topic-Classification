@@ -1,0 +1,21 @@
+Cách/V bố_mẹ/N quản_lý/V con/N xem/V phim_ảnh/N
+Những/L năm/N gần/A đây/P việc/N cho/V trẻ_em/N tiếp_cận/V và/CC sử_dụng/V thiết_bị/N công_nghệ/N nhằm/V kết_nối/V với/E thế_giới/N bên/N ngoài/N được/R cảnh_báo/V khá/R nhiều/A
+Nguyên_nhân/N là/V do/E cha_mẹ/N không/R giám_sát/V được/R thời_gian/N và/CC  /N kiểm_soát/V nội_dung/N mà/C các/L bé/N xem/V
+Các/L chương_trình/N trực_tuyến/A giống/A như/C thế_giới/N ảo/A chứa_đựng/V không/R ít/A những/L thông_tin/N khiến/V trẻ/N lệch_lạc/V học/V  /A theo/E  /N hoặc/CC suy_nghĩ/V sai/A với/E thực_tế/N  /EOS
+Làm/V thế_nào/P để/E trẻ/A tiếp_cận/V an_toàn/A và/CC tránh/V xa/A các/L nội_dung/N số_không/V an_toàn/A là/V điều/N  /A trăn_trở/V của/E nhiều/A cha_mẹ/N
+Trên/E các/L diễn_đàn/N nuôi_dạy/V con_cái/N không/R khó/A bắt_gặp/V những/L câu_hỏi/N lời/N than_phiền/V của/E phụ_huynh/N về/E việc/N  /V quản_lý/V con/N xem/V phim_ảnh/N
+Chị/N Lan_Anh/Np /V Hoàn_Kiếm/Np Hà_Nội/Np /A kể/V Các/L kênh/N nước_ngoài/N có/V nhiều/A thông_tin/N bổ_ích/A song/C lại/R giới_hạn/V ngôn_ngữ/N và/CC video/N Việt/Np hóa/V
+Các/L trang/N phim/N dành/V cho/E thiếu_nhi/N khác/A lại/R chèn/V quá/R nhiều/A quảng_cáo/N không/R dành/V cho/E trẻ_em/N nếu/C bé/N tò_mò/V nhấn/V vào/V xem/V sẽ/R ảnh_hưởng/V xấu/A đến/E tâm_sinh_lý/N
+Đối_với/E mình/P việc/N kiểm_soát/V nội_dung/N còn/R khó_khăn/A vì/E thao_tác/V kiểm_tra/V lịch_sử/N truy_cập/V khá/R phức_tạp/A
+Các/L ứng_dụng/N phim_ảnh/N thuần/A Việt/Np tích_hợp/V chế_độ/N hẹn/V giờ/N chế_độ/N khóa/N trẻ_em/N
+như/C POPS/Np Kids/Np TV/Np là/V một/M lựa_chọn/V phù_hợp/V
+Ứng_dụng/N được/V thiết_kế/V dựa/V trên/E nhu_cầu/N của/E trẻ_em/N Việt_Nam/Np
+Nội_dung/N được/V chọn_lọc/V kỹ_càng/A bởi/E đội_ngũ/N biên_tập_viên/N kinh_nghiệm/N giúp/V các/L bé/N tiếp_cận/V với/E môi_trường/N giáo/N trí/V lành_mạnh/A và/CC an_toàn/A
+Ưu_điểm/N của/E ứng_dụng/N này/P chính/T là/V phần_mềm/N quản_lý/V trẻ/N nhỏ/A
+Chế_độ/N hẹn/V giờ/N giúp/V thiết_lập/V thời_gian/N tối_đa/A bé/N được/V phép/N xem/V video/N
+Chế_độ/N khóa/N trẻ_em/N để/E giới_hạn/V phạm_vi/N truy_cập/V ứng_dụng/V
+Các/L phần/N lịch_sử/N xem/V danh_sách/N video/N yêu_thích/V chức_năng/N tìm_kiếm/V
+cũng/R khá/R hữu_ích/A
+Kho/Np ứng_dụng/V chứa/V nhiều/A video/N ca_nhạc/V thiếu_nhi/N clip/N hướng_dẫn/V vẽ/V tranh/N Siêu_nhân/N bút_chì/N clip/N kể/V chuyện/N dân_gian/N Gối/Np ôm/V kể/V chuyện/N chuyên_mục/N Đất_sét/N biến_hình/N Món/Nc quà/N bí_ẩn/A
+Ngoài_ra/C còn/R có/V chương_trình/N ca_nhạc/V thiếu_nhi/N Mầm/Np chồi/V lá/N với/E nhiều/A hình_thức/N thể_hiện/V mới_lạ/N
+Các/L chương_trình/N Việt/Np hóa/V từ/E nước_ngoài/N với/E  /M các/L nhân_vật/N hoạt_hình/N nổi_tiếng/A cũng/R sẽ/R  /V được/R lồng_ghép/V

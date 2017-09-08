@@ -1,0 +1,10 @@
+​/N Apple/Np phát_hành/V bản/N vá/V lỗi/N cho/E Mac/Np iPhone/M Apple_Watch/Np Apple/Np TV/Np
+Theo/E thông_báo/N từ/E Apple/Np bản/N cập_nhật/V vá/V tổng_cộng/N 67/M lỗ_hổng/N bảo_mật/V khuyến_cáo/N người_dùng/N cài_đặt/N ngay/N kèm/V nâng_cấp/N iTunes/N 1261/M Windows/Np và/CC iCloud/N 621/M Windows/Np
+Trong/E số/N các/L lỗ_hổng/N bảo_mật/V có/V một_số/N lỗi/N có_thể/A bị/V tin_tặc/N khai_thác/V tấn_công/V từ/V xa/N
+Người_dùng/N iPhone/N iPad/N và/CC iPod/N Touch/Np cũng/R cần/V cập_nhật/V ngay/A khi/N có_thể/A iOS/V 1032/M để/E ngăn_chặn/V 41/M lỗi/N bảo_mật/V trong/E đó/N có/V 22/M lỗi/N nguy_hiểm/N có_thể/R tiếp_tay/V tin_tặc/N tấn/N công/N iPhone/N hay/C thiết_bị/N di_động/N của/E mình/N thậm_chí/N chiếm_giữ/V với/E quyền_hạn/N cao/A nhất/A
+Để/E cập_nhật/V iPhoneiPad/N iPod/N Touch/Np bạn/N vào/V Settings/Np Thiết/Np lậpCài/Np đặt/V General/Np Software_Update/Np
+Đối_với/N người_dùng/N Mac/Np bản/N cập_nhật/V khắc_phục/V một_số/N lỗi/N và/CC vá/V lỗ_hổng/N bảo_mật/V tuỳ_thuộc/N phiên_bản/N macOS/N là/V Sierra/Np El_Capitan/Np hay/C Yosemite/Np tham_khảo/V tại/V đây/P
+Phiên_bản/N hệ_điều_hành/N mới/A nhất_là/N macOS/N Sierra/Np có/V đến/R 37/M lỗ_hổng/N bảo_mật/V bao_gồm/V cả/P lỗ_hổng/N cho/V phép/N tin_tặc/N đánh_cắp/V các/L thông_tin/N kết/V nối_mạng/N WiFi/N
+Để/E cập_nhật/V cho/V Mac/Np mở/V App_Store/Np Updates/Np hoặc/N tải/N và/CC cài_đặt/N offline/V bản/N cập_nhật/V tại/E đây/P cho/V macOS/N Sierra/Np tải/N tại/E đây/P cho/V OS/Np X_El_Capitan/Np và/CC tải/N cho/V OS/Np X_Yosemite/Np
+Với/E đồng_hồ/N thông_minh/N smartwatch/N Apple_Watch/Np cập_nhật/V watchOS/N 322/M bằng/N cách/N mở/V ứng_dụng/N Apple_Watch/Np trên/E iPhone/N My_Watch/Np General/Np Software_Update/Np để/E vá/V 12/M lỗ_hổng/N bảo_mật/V
+Trên_Apple/Np TV/Np cũng/R tồn_tại/V 23/M lỗi/N vào/V Settings/Np System/Np Update_Software/Np để/E tải/N bản/N cập_nhật/V trực_tiếp/A tvOS/V 1021/M

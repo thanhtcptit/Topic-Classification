@@ -1,0 +1,17 @@
+Giảm/N cholesterol/N bằng/E cách/N tiêm/V vắc/N xin/V
+Các/L nhà/N nghiên_cứu/V tại/E Đại_học/N Y/Np khoa/N Áo/Np vừa/R thực_hiện/V thử_nghiệm/V lâm_sàng/V một/M loại/N vắc/N xin/V giúp/V giảm/V lượng/N cholesterol/N trong/E máu/N và/CC phòng_ngừa/V bệnh/N tim_mạch/N
+Sau/E khi/N thí_nghiệm/V trên/E chuột/N nhóm/N nghiên_cứu/V đã/R tiếp_tục/V thử_nghiệm/V điều_trị/N trên/N 72/M tình_nguyện/N viên/N và/CC sẽ/R hoàn_thành/V quá_trình/N này/P vào/E cuối/N năm/N
+Ngoài/E uống/V thuốc/N giờ_đây/N bệnh_nhân/N có/V thêm/V sự/N lựa_chọn/V là/V tiêm/N vắc/N xin/V để/V giảm/V nguy_cơ/N đột_quỵ/V đau/V thắt/N ngực/N hoặc/N đau/V tim/N
+Loại/N vắcxin/N này/P giúp/V hệ_miễn_dịch/N tấn_công/V PCSK9/Np loại/N protein/N làm/V tích_tụ/N cholesterol/N LDL/Np cholesterol/N xấu/A trong/A máu/N
+Các/L nhà/N nghiên_cứu/V dự_tính/N bệnh_nhân/N có_thể/A tiêm/V nhắc/V lại/R mỗi/L năm/N để/E tăng/V khả_năng/N miễn_dịch/V
+Theo/E tiến_sĩ/N Guenther_Staffler/Np và/CC các/L đồng_sự/N tại/E Tổ_chức/N Nghiên_cứu/V Khoa_học/N ứng_dụng/N Hà_Lan/Np họ/P sẽ/R cần/V thêm/V vài/L năm/N nữa/R để/V kiểm_tra/V xem/V phương_thức/N này/P có/V thực_sự/N an_toàn/A và/CC hiệu_quả/N cho/V tất_cả/N bệnh_nhân/N hay/A không/R
+Ngoài_ra/C nhóm/N cũng/R nghiên_cứu/V liệu/V chữa/V bệnh/N bằng/E vắc/N xin/V có/V làm/V tăng/V nguy_cơ/N mắc/V bệnh/N tiểu_đường/N
+Ở/E chuột/N thí_nghiệm/V giúp/V giảm/V lượng/N cholesterol/N LDL/Np xuống/V 50/M trong/E vòng/N 12/M tháng/N đồng_thời/N còn/R có/V khả_năng/N chống/V lại/R sự/N tích_tụ/V các/L chất_béo/N trong/N động_mạch/N
+Cholesterol/Np là/V chất_béo/N có/V trong/N máu/N
+Tất_cả/P chúng_ta/P đều/R cần/V có/V cholesterol/N
+Tuy_nhiên/C quá/V nhiều/A cholesterol/N xấu/A LDL/Np sẽ/R làm/V tăng/V nguy_cơ/N mắc/V bệnh/N tim_mạch/N
+Trong/E khi/N đó/P cholesterol/N tốt/A HDL/Np giúp/V vận_chuyển/V cholesterol/V ra/V khỏi/V mạch_máu/N và/CC trở/V về/V gan/N
+Dự_kiến/N nhóm/N nghiên_cứu/V sẽ/R cho/V sản_xuất/V loại/N vắc/N vin/N này/P trong/E vòng/N sáu/M năm/N tới/V
+AFFiRis/N công_ty/N công_nghệ_sinh_học/X Áo/Np tham_gia/V nghiên_cứu/V này/N cho/V biết/V kế_hoạch/N của/E họ/P sẽ/R là/V thu/V từ/E 1000/M bảng/N Anh/Np đến/V 2000/M bảng/N Anh/Np khoảng/A 29/M triệu/N đến/V 58/M triệu/N cho/V mỗi/M lần/N tiêm/V
+Từ/E đây/P đến/E đó/P các/L nhà/Nc khoa_học/N nhấn_mạnh/N tầm/N quan_trọng/A của/E việc/N duy_trì/V lối/N sống/V khoẻ_mạnh/A để/E không/R cần/V phải/V dựa/V vào/R bất_kì/N loại/N thuốc/N nào/P
+Ăn_uống/N không/R lành_mạnh/A uống/V nhiều/A chất/N có/V cồn/N hút/V thuốc/N và/CC không/R tập_thể_dục/V sẽ/R làm/V tăng/V nồng_độ/N cholesterol/N trong/A máu/N

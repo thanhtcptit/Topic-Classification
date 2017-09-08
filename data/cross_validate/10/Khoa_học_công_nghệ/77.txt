@@ -1,0 +1,10 @@
+Cận/N cảnh/N Moto/Np 360/M vàng/N hồng/N có/V mặt/N tại/N VN/Np
+Moto/N 360/M 2015/M vẫn/N giữ/V thiết/N kế/N đồng_hồ/N mặt/N tròn/A như/C thế_hệ/N đầu_tiên/A 2014/M mang/N dáng_dấp/N của/E một/M chiếc/Nc đồng_hồ/N truyền_thống/A hơn/R là/V đồng_hồ/N thông_minh/A smartwatch/N
+Phiên_bản/N 2015/M có/V thiết_kế/N nhìn/V sang_trọng/A hơn/R dây/N đeo/V dễ_dàng/N tháo/V rời/N và/CC thay_thế/V qua/R một/M khớp/N nối/V và/CC có/V phiên_bản/N dây/N nhỏ/A cho/E người/N có/V cổ_tay/N nhỏ/A hai/M kích_cỡ/N 42mm/N và/CC 46mm/M
+Mặt/N lưng/N đồng_hồ/N tích_hợp/N cảm/V biến/N đo/V nhịp/N tim/N theo_dõi/V nhịp/N tim/N theo/V vận/N động/N của/E cơ_thể/N như/C tập_thể_dục/V chơi/V thể_thao/N
+Một/M ưu/N điểm/N khác/A là/V sử_dụng/V với/E đế/N sạc/N không/R dây/N tương_tự/A Samsung_Galaxy_Gear/Np S2/Np chỉ/R cần/V đặt/V Moto/Np 360/M 2015/M lên/N đế/N sạc/N và/CC chờ/V đầy/A pin/N
+Phiên_bản/N Moto/Np 360/M 2015/M dây/N đeo/V 42mm/N có/V pin/N 300/M mAh/N dây/N 46mm/N pin/N 320/M mAh/N
+Moto/N 360/M 2015/M dùng/N hệ/N điều_hành/V Android_Wear/Np tương_thích/V và/CC đồng_bộ/N dữ_liệu/N với/E cả/P điện/N thoại/N Android/Np lẫn/V iPhone/N
+Đồng_hồ/N Moto/Np 360/M 2015/M dùng/N chip/N xử_lí/N Qualcomm_Snapdragon/Np 400/M bốn/N nhân/N 12GHz/M Adreno/Np 305/M bộ_nhớ_trong/N 4GB/M và/N bộ_nhớ/N RAM/Np 512MB/M
+Hỗ_trợ/V kết_nối/N Bluetooth/Np 40/M LE/Np kết_nối/V WiFi/N 80211b/M g/N thông/V qua/N điện/N thoại/N đồng_bộ/N
+Một_số/N hình/N ảnh/N thực/N tế/N Moto/Np 360/M 2015/M vàng/N hồng/N cho/V nữ/N tại/N VN/Np

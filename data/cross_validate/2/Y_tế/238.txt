@@ -1,0 +1,6 @@
+Dư/N ̃/N liê/N ̣/N u/N bảo_hiểm/N y/N tế/V 24/M triệu/N hộ/N gia_đình/N Viê/Np ̣/V t/N Nam/Np
+Bộ/N cơ_sở_dữ_liệu/N của/E hơn/N 24/M triệu/M hộ/N gia_đình/N VN/Np đã/R được/V Bảo_hiểm/V xã_hội/N VN/Np chuyển/V cho/V Bộ/N Y/Np tế/V ngày/N 155/M
+Bộ/N cơ_sở_dữ_liệu/X na/N ̀/N y/N bao_gồm/V trên/N 928/M triệu/N bản/N ghi/V tương_đương/V mỗi/N cá_nhân/N một/M bản/N ghi/V với/E các/L thông_tin/N về/V số/N chứng_minh_thư/N nơi/N khai_sinh/V địa_chỉ/N cư_trú/V mã/N định_danh/N mã/N hộ/N gia_đình/N đã/R tham_gia/V bảo_hiểm_y_tế/X hay/N chưa/R
+Chuyển_giao/N cơ_sở_dữ_liệu/X với/E những/L thông_tin/N lần/N đầu_tiên/A được/V cập_nhật/V chính_xác/A tỉ_lệ/N người/N tham_gia/V gia/N bảo_hiểm_y_tế/X số/N người/N chưa/R có/V thẻ/N bảo_hiểm_y_tế/X hiện_nay/N hình_thức/N tham_gia/V bảo_hiểm/V
+với/E kì_vọng/N để/E ngành/N y_tế/N chăm_sóc/V sức_khoẻ/N người/N dân/N tốt/A hơn/R theo/V chủ_trương/N mỗi/M người/N dân/N đều/R có/V cán_bộ/N y_tế/N chăm_sóc/V sức_khoẻ/N
+Tại/E lễ/N chuyển_giao/V bộ/N cơ_sở_dữ_liệu/N Phó/N TGĐ/N Bảo_hiểm/V xã_hội/N VN/Np Phạm_Lương_Sơn/Np cho/V biết/V đây/P là/V một/M trong/N sáu/M bộ/N cơ_sở_dữ_liệu/N và/CC là/V bộ/N dữ_liệu/N đầu_tiên/A được/V chuyển_giao/V giữa/N các/L bộ/N ngành/N tiến/V tới/R sẽ/R liên_thông/V các/L bộ/N cơ_sở_dữ_liệu/N quốc_gia/N về/V dân_cư/N về/V an_sinh/N xã/N hội/N

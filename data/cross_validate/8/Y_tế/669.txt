@@ -1,0 +1,28 @@
+10/M đất_nước/N trả/V lương/N bác_sĩ/N cao/A nhất/A thế_giới/N
+Tại_Đan_Mạch/Np bác_sĩ/N trung_bình/A kiếm/V được/R 91 0-109 0/M USD/Nu mỗi/M năm/N
+Đây/P là/V một/M trong/E số_ít/N quốc_gia/N mà/C lương/N bác_sĩ/N đa_khoa/V cao/A hơn/R bác_sĩ/N chuyên_khoa/N
+Thuộc/V top/N đất_nước/N đáng/V sống/V nhất/A Thuỵ_Sĩ/Np trả/V bác_sĩ/N khoản/N lương/N từ/E 116 0/M đến/E 130 0/M USD/Nu mỗi/M năm/N
+Ở/E Ireland/Np thu_nhập/N bác_sĩ/N đa_khoa/A vào_khoảng/X 90 0/M USD/Nu còn/V bác_sĩ/N chuyên_khoa/N không/R dưới/A 143 0/M
+USD/Np
+Trên/E thực_tế/N các/L bác_sĩ/N chuyên_khoa/N làm/V cả/P ở/E bệnh_viện/N công/N lẫn/C phòng_khám/N tư/N và/CC có/V quyền/N yêu_cầu/V bệnh_nhân/N trả/V thêm/V 200/M USD/Nu cho/E mỗi/L 10-20/M phút/Nu tư_vấn/V nên/C dễ_dàng/A kiếm/V được/R hơn/R 143 0/M USD/Nu
+Ngoài/E cảnh/N đẹp/A và/CC thức_ăn/N ngon/A Pháp/Np còn/R thuộc/V top/N các/L nước/N trả/V lương/N cao/A nhất/R cho/V bác_sĩ/N
+Mỗi/L năm/N bác_sĩ/N chuyên_khoa/N Pháp/Np thu_nhập/N trung_bình/A 149 0/M USD/Nu
+Con_số/N này/P đối_với/E bác_sĩ/N đa_khoa/A là/V 92 0/M USD/Nu
+Các/L bệnh_viện/N ở/E Anh/N thường_xuyên/A rơi/V vào/E tình_trạng/N thiếu/V nhân_công/N khiến/V đội_ngũ/N y_bác_sĩ/N liên_tục/A làm_việc/V quá_sức/A
+Tại/E xứ_sở/N sương_mù/N lương/N bác_sĩ/N chuyên_khoa/N ở/E mức/N 150 0/M USD/Nu còn/V lương/N bác_sĩ/N đa_khoa/A khoảng/A 118 0/M USD/Nu
+Anh/N cũng/R là/V quốc_gia/N hỗ_trợ/V tài_chính/N nhiều/A nhất/R cho/E sinh_viên/N y/Np  /M Canada/Np nằm/V ở/E giữa/N danh_sách/N các/L nước/N trả/V lương/N bác_sĩ/N cao/A nhất/A với/E trung_bình/A 161 0/M USD/Nu cho/E bác_sĩ/N chuyên_khoa/N và/CC 107 0/M USD/Nu cho/E bác_sĩ/N đa_khoa/V
+Tuy_nhiên/C đất_nước/N này/P vẫn/R đối_mặt/V với/E tình_trạng/N thiếu_hụt/V đội_ngũ/N y_tế/N do/E nhiều/A bác_sĩ/N bỏ/V đến/E Mỹ/Np  /EOS
+Đất_nước/N được/V mệnh_danh/V trái_tim/N của/E châu/N Âu/Np trả/V bác_sĩ/N chuyên_khoa/N 188 0/M USD/Nu mỗi/M năm/N
+Tuy_nhiên/C lương/N bác_sĩ/N đa_khoa/A chỉ/R tầm/N 61 0/M USD/Nu
+So/V với/E các/L nước/N khác/A ở/E lục_địa/N già/A bác_sĩ/N Bỉ/Np phải/V làm_việc/V nhiều/A nhất/R với/E trung_bình/A 51/M tiếng/N một/M tuần/N  /EOS
+Bác_sĩ/N Mỹ/Np liên_tục/A phàn_nàn/V về/E mức/N lương/N song/C trên/E thực_tế/N xứ/N cờ/N hoa/N trả/V lương/N bác_sĩ/N khá/R hậu_hĩnh/A
+Một/M bác_sĩ/N chuyên_khoa/N ở/E Mỹ/Np có_thể/R kiếm/V tới/R 230 0/M USD/Nu mỗi/M năm/N trong/E khi/N bác_sĩ/N đa_khoa/V được/V trả/V 161 0/M
+Đáng/V tiếc/V giới/N chuyên_môn/N dự_báo/V 15/M năm/N nữa/T Mỹ/Np sẽ/R thiếu_hụt/V bác_sĩ/N một_cách/N nặng_nề/A do/E chi_phí/N hành_nghề/V cao/A cùng/A mức/N hoàn/V phí/N bảo_hiểm/N thấp/A
+Thêm/V vào/E đó/P các/L bác_sĩ/N cũng/R lo_lắng/V bị/V kiện_tụng/V nếu/C mắc/V phải/V sai_sót/N
+Mức/N lương/N của/E bác_sĩ/N Australia/Np dao_động/V khoảng/A 91 0/M USD/Nu /A đối_với/E bác_sĩ/N đa_khoa/V /N và/CC 247 0/M USD/Nu /A đối_với/E bác_sĩ/N chuyên_khoa/N /M
+Thu_nhập/N hấp_dẫn/V chính/T là/V lý_do/N nhiều/A bác_sĩ/N Anh/N chuyển/V đến/E Australia/Np sinh_sống/V
+Đặc_biệt/A trình_độ/N tay_nghề/N của/E đội_ngũ/N y_tế/N đất_nước/N chuột_túi/V được/R đánh_giá/V rất/R cao/A nhờ/V chủ_trương/N tập_trung/V vào/E học_tập/V giảng_dạy/V
+Bác_sĩ/N ở/E Australia/Np luôn/R dành/V thời_gian/N tiếp_thu/V kỹ_thuật/N mới/A cũng_như/C truyền_đạt/V kinh_nghiệm/N cho/E đồng_nghiệp/N đi_sau/N
+Đứng/V đầu/N danh_sách/N các/L quốc_gia/N trả/V nhiều/A tiền/N nhất/A cho/E bác_sĩ/N Hà_Lan/Np được/V coi/V như/C nơi/N làm_việc/V trong/E mơ/V của/E sinh_viên/N y_khoa/N
+Bên_cạnh/N mức/N lương/N 117 0-253 0/M USD/Nu mỗi/M năm/N bác_sĩ/N Hà_Lan/Np hiếm/A khi/N phải/V tăng/V ca/N và/CC thường/R được/V nghỉ/V lễ/N
+Ngoài_ra/C chính_sách/N y_tế/N cho_phép/V người_dân/N dễ_dàng/A tiếp_cận/V với/E bác_sĩ/N nên/C giảm/V tối_đa/A thời_gian/N chờ_đợi/V cũng_như/C áp_lực/N

@@ -1,0 +1,14 @@
+Công_nghệ/N biến/V nước/N thành/V lửa/N
+Về/V cơ_bản/A đây/P là/V phương_pháp/N sử_dụng/V nước/N để/E tạo/V ra/R lửa/N với/E một/M hệ_thống/N điện_phân/N được/V thiết_kế/V để/E sử_dụng/V các/L nguồn/N cung_cấp/V điện/N và/CC nước/N
+Khi/N đó/P nước/N sẽ/R được/V tách/V thành_khí/N hydro/N và/CC oxy/N rồi/C đưa/V vào/E một/M ngọn/Nc đuốc/N và/CC tạo/V thành/V lửa/N
+Theo/E Euronews/Np ngọn/Nc lửa/N được/V tạo/V ra/R từ/E hệ_thống/N mát/A hơn/A và/CC dễ/A xử_lý/V hơn/R so/V với/E các/L ngọn/N lửa/N nóng/A được/R tạo/V thành/V từ/E khí/N oxy/N với/E propan/N hoặc/CC acetylene/N  /N có_thể/A được/V sử_dụng/V trong/E hàn_xì/N hoặc/CC các/L ứng_dụng/N công_nghiệp/N cần/V đến/V lửa/N khác/A  /EOS
+Theo/E chuyên_gia/N nghiên_cứu/V Andrew_Ellis/Np thuộc/V công_ty/N  /V ITM /Np Power/Np Anh/N đội_ngũ/N các/L chuyên_gia/N hóa_học/N đã/R nghiên_cứu/V công_thức/N màng/N ngăn/V mới/R có_thể/R làm/V tăng/V hiệu_suất/N của/E điện_phân/N tiến_hành/V nhiều/A thử_nghiệm/V với/E chất_xúc_tác/N cố_gắng/V làm/V giảm/V số_lượng/N platinum/N và/CC thay_thế/V bằng/E các/L vật_liệu/N rẻ/A hơn/A
+Nhờ/E đó/P công_nghệ/N này/P có_thể/R giảm/V chi_phí/N cho/E hệ_thống/N điện_phân/N hơn/A nhiều/A so/V với/E các/L phương_pháp/N truyền_thống/N  /EOS
+Rory_Olney/Np chuyên_gia/N tư_vấn/V về/E công_nghiệp/N hàn_xì/N cho_biết/V ngọn/Nc lửa/N này/P nhẹ/A hơn/R so/V với/E ngọn/Nc lửa/N được/V tạo/V thành/V từ/E khí/N oxy/N và/CC acetylene/N
+Sức/N nóng/A ở/E đỉnh/N ngọn/N đuốc/N cũng/R không/R quá/R mạnh/A do_đó/C ánh_sáng/N phát/V ra/R từ/E ngọn/N lửa/N cũng/R không/R gây/V nguy_hiểm/N cho/E mắt/N
+Một/M trong/E những/L lợi_ích/N của/E hệ_thống/N mới_đó/N là/V ngọn/N đuốc/N sinh_ra/V lửa/N luôn/R lạnh/A và/CC không/R bị/V nóng/A trong/E quá_trình/N sử_dụng/V vì/E lửa/N được/V sinh_ra/V và/CC bốc/V cháy/V bên/N ngoài/N ngọn/N đuốc/N
+Ngọn/N lửa/N sẽ/R duy_trì/V trạng_thái/N lạnh/A kể_cả/C sau/E khi/N ngừng/V sử_dụng/V do_đó/C có_thể/R đặt/V ở/E bất_cứ/R nơi/N nào/P theo/V ý_muốn/N
+Việc/N sử_dụng/V acetylene/N để/E tạo/V ra/R lửa/N theo/E phương_pháp/N thông_thường/A đã/R bị/V cấm/V ở/E những/L nơi/N dễ/A rò_rỉ/V khí/N vì/E dễ/A gây/V nguy_hiểm/A và/CC bất_tiện/A
+Các/L ngọn/N lửa/N nóng/A được/R tạo/V ra/R theo/E cách/N này/P cũng/R yêu_cầu/V phải/V cẩn_thận/A khi/N tiếp_xúc/V với/E các/L kim_loại/N nhạy_cảm/A như/C nhôm/N
+So/V với/E khí_đốt/N từ/E acetylene/N phương_pháp/N này/P rẻ/A hơn/R gấp/V 20/M lần/N vì/E hạn_chế/V được/V các/L chi_phí/N liên_quan/V đến/E việc/N tích_trữ/V khí_đốt/N chi_phí/N bảo_hiểm/N và/CC vận_chuyển/V
+Các/L doanh_nghiệp/N vừa/R và/CC nhỏ/A sẽ/R tận_dụng/V được/R những/L ưu_thế/A này/P khi/N công_nghệ/N được/V thương_mại_hóa/V trong/E tương_lai/N gần/A

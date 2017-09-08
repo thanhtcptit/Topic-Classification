@@ -1,0 +1,22 @@
+iPhone/N 4S/N 55/M S/Np có/V nên/N cập_nhật/V iOS/N 91/M
+Người_dùng/N iOS/V một_số/N quốc_gia/N như/C Anh/Np và/CC Úc/Np bắt_đầu/V có/V ứng_dụng/N Apple_News/Np
+Tạo/V được/R luồng/N trao_đổi/V và/CC hứng_thú/N cho/V người_dùng/V iPhone/N hay/C iPad/M khi/N cập_nhật/V là/V bộ/N 150/M biểu_tượng/N cảm_xúc/N emojis/N bao_gồm/V bộ/N emojis/N Unicode/Np 70/M và/N 80/M bổ_sung/N cho/V bộ_gõ/N bàn_phím/N ảo/N
+Trên/E iPhone/N 66/M S/Np sau/E khi/N cập_nhật/V iOS/N 91/M có/V thêm/V tuỳ/N chọn/V tắtmở/N hiển_thị/N hình_ảnh/N trong/E danh_bạ/N Contact_Photos/Np
+Vào/V phần/N Settings/Np Messages/Np Show_Contact_Photos/Np
+Mặc_định/N có/V mở/V
+Philip_Schiller/Np Phó/Z chủ_tịch/N cấp/N cao/A toàn_cầu/N phụ_trách/V Tiếp_thị/N của/N Apple/Np
+iPhone/N 4S/N 55/M S/Np nâng_cấp/V iOS/N 91/M được/V không/N
+iOS/N 91/M tương_thích/N với/E tất_cả/N các/L dòng/N thiết_bị/N chạy/V đươc/N iOS/N 9/M gồm/N iPhone/M 4S/N iPhone/M 5/M và/N 5C/M iPhone/N 6/M và/N iPhone/N 6/M Plus/Np iPod/M Touch/Np thế_hệ/N thứ/N 5/M iPad/N 2/M iPad/N thế_hệ/N thứ_ba/N và/CC thứ_tư/N iPad/N Air/Np iPad/N Air/Np 2/M iPad/Nu Mini/Np iPad/N Mini/Np 2/M và/N iPad/M Mini/Np 3/M
+Các/L tính_năng/N mới/A trong/E iOS/N 9/M sẽ/N bị/V hạn_chế/V trên/E các/L thiết_bị/N cũ/A
+Cập_nhật/V iOS/N 9/M iPhone/Nu và/N iPad/N lợi/N gì/P
+Đối_với/N điện_thoại/N iPhone/N hai/M dòng/N iPhone/M 6/M và/N iPhone/M 6S/N là/V mục_tiêu/N chính/A cho/V bản/N cập_nhật/V iOS/N 9/M và/N 91/M này/N
+Do/E đó/P các/L đời/N iPhone/M cũ/N cần/V cân_nhắc/V trước/E khi/N nâng_cấp/V
+Có/V nên/N nâng_cấp/V iOS/N 9/M cho/N iPhone/M 4S/N
+|/N Cách/V gỡ/V iOS/N 9/M về/N iOS/N 8/M trên/N iPhone/M 4S/N
+Trong/E thử_nghiệm/N nâng_cấp/V iOS/N 91/M cho/N iPhone/M 5C/N của/E trang/N ExtremeTech/N gặp/V nhiều/A khó_chịu/N không/R xuất_phát/V từ/E lỗi/N mà/E do/E những/L thay_đổi/N về/V kích_cỡ/N giao_diện/N trong/E iOS/N 9/M
+Theo/E Extreme_Tech/Np khó_chịu/N đầu_tiên/A là/V bộ_gõ/N bàn_phím/N ảo/A với/E tính_năng/N dự_đoán/N từ/E đang/N gõ/V nhưng/C hiển_thị/N kí_tự/N được/V gõ/V rất/R chậm/A tắt/N tính_năng/N Predictive/Np này/P trong/E phần/N Settings/Np General/Np Keyboards/Np
+Lưu_ý/V sao/P lưu/V toàn_bộ/N dữ_liệu/N quan_trọng/A lưu_trữ/V trên/N thiết_bị/N trước/E khi/N nâng_cấp/V
+Trên/E diễn_đàn/N hỗ_trợ/N của/E Apple/Np thành/N viên/N Pradeep1984/N và/CC Tim_Pentreath/Np phản_ánh/V tình_trạng/N ngốn/V pin/N quá/R nhanh/A của/E iOS/N 91/M trên/N iPhone/M 4S/N
+Về/V cơ_bản/A nếu/C iPhone/N 4S/N đã/R nâng_cấp/V iOS/N 9/M thì/N nên/N cập_nhật/V iOS/N 91/M hoặc/N iOS/V 902/M
+Nếu/C vẫn/R dùng/V iOS/N 841/M thì/C xem_xét/N có/V cần/V một_số/N cải_tiến/N của/E iOS/N 9/M hay/N không/R
+Trang/N công_nghệ/N chuyên/A thiết_bị/N Apple_Redmon/Np Pie/Np có/V thử_nghiệm/N thực/N tế/N cụ_thể/A hai/M dòng/N iPhone/M 4S/N và/CC iPhone/N 55/M S/Np trên/E iOS/N 91/M so_sánh/N khi/N chạy/V trên/E phiên_bản/N iOS/N 841/M iOS/N 902/M với/N iOS/N 91/M

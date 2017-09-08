@@ -1,0 +1,8 @@
+Toàn_bộ/N trường/N THCS/Np Q1/Np 0/M dạy/N chương_trình/N tiếng/N Anh/Np tăng/V cường/N
+Theo/E đó/P các/L trường/N sẽ/R tiếp_nhận/V học_sinh/N vào/V lớp/N tiếng/N Anh/Np tăng_cường/V nếu/N đạt/V 1/M trong/E những/L điều_kiện/N sau/N học/N sinh_học/N lớp/N tiếng/N Anh/Np tăng_cường/V ở/V bậc/N tiểu_học/N có/V điểm/N kiểm_tra/V học_kì/N 2/M lớp/N 5/M của/E từng/N kĩ_năng/N đạt/V từ/E 6/M điểm/N trở/V lên/R
+Học_sinh/N có/V chứng_chỉ/N Cambridge_Flyers/Np đạt/V từ/E 10/M khiên/N trở/V lên/R
+Học_sinh/N có/V chứng_chỉ/N TOEFL/Np Primary_Step/Np 2/M đạt/N từ/N 3/M huy_hiệu/N trở/V lên/R
+Ngoài_ra/C Trường/N THCS/Np Nguyễn_Văn_Tố/Np còn/R tuyển/V 2/M lớp/N 6/M chương_trình/N tiếng/N Anh/Np tích_hợp/V
+Ngày/N 127/M các/L trường/N THCS/Np sẽ/R nhận/V hồ_sơ/N nhập_học/N vào/E lớp/N 6/M
+Ngày/N 157/M công_bố/N danh_sách/N học_sinh/N lớp/N 6/M năm_học/N 20172018/M
+HHG/Np

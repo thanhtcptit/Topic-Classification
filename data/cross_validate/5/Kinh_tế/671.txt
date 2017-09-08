@@ -1,0 +1,19 @@
+Cổ_phiếu/N hai/M N ông/N lớn/A M ngành/N bia/N nổi/V sóng/N
+Phiên/N giao_dịch/V hôm_qua/N /V 17/7/M /N chỉ_số/N VN-Index/Np của/E Sở_giao_dịch/Np chứng_khoán/V TP_HCM/Np /V HOSE/Np /V giảm/V 8,7/M điểm/N tương_đương/V 1,12%/M còn/C chỉ_số/N HNX-Index/Np giảm/V gần/A 1,9%/M
+Hầu_hết/L các/L cổ_phiếu/N thuộc/V nhóm/N có/V vốn/N hóa/V lớn/A /M blue-chip/N /A các/L cổ_phiếu/N thuộc/V nhóm/N dẫn_dắt/V thị_trường/N trong/E giai_đoạn/N vừa_qua/V đều/R giảm/V
+Tuy_nhiên/C đi/V ngược/A xu_hướng/N này/P cổ_phiếu/N của/E hai/M tổng_công_ty/N bia/N lớn/A nhất/A cả/P nước/N đều/R tăng/V mạnh/A
+Cổ_phiếu/N SAB/Np của/E Tổng_công_ty/N Bia/Np Rượu/Np Nước/N giải_khát/N Sài_Gòn/Np /V Sabeco/Np /V tăng/V gần/A 4%/M lên/R 219 0/M đồng/Nu trong/E khi/N cổ/N phếu/N BHN/Np của/E Tổng_công_ty/N Bia/Np Rượu/Np Nước/N giải_khát/N Hà_Nội/Np /A Habeco/Np /M tăng/V kịch/N trần/N biên_độ/N 7%/M lên/R 82 0/M đồng/Nu
+Đà/N tăng/V tiếp_tục/V được/V củng_cố/V khi/N mở_cửa/V thị_trường/N sáng/N nay/P cổ_phiếu/N BHN/Np tiếp_tục/V tăng/V trần/N 7%/M lên/V hơn/R 88 0/M đồng/Nu trong/E khi/N cổ_phiếu/V SAB/Np vượt/V mốc/N 220 0/M đồng/Nu
+Theo/E nhận_định/N từ/E các/L công_ty/N chứng_khoán/V đà/N tăng/V mạnh/A của/E 2/M cổ_phiếu/N SAB/Np và/CC BHN/Np xuất_phát/V từ/E thông_tin/N mới/R được/V Bộ/N Công_Thương/N công_bố/V
+Theo/E đó/P các/L doanh_nghiệp/N này/P dự_kiến/V sẽ/R trình/V phương_án/N thoái/V vốn/N Nhà_nước/N ngay/T trong/E tháng/N 7/M và/CC khi/N được/V Bộ/N Công_Thương/Np phê_duyệt/V quá_trình/N thoái/V vốn/N sẽ/R được/V thực_hiện/V trong/E năm/N nay/P
+Cuối/N tháng/N 8/2016/M Thủ_tướng/N chỉ_đạo/V Bộ/N Công_Thương/Np phải/V thực_hiện/V các/L bước/N để/E thoái/V vốn/N tại/E hai/M doanh_nghiệp/N này/P đồng_thời/C đưa/V Habeco/Np và/CC Sabeco/Np lên/V sàn/N  /EOS
+Theo/E phương_án/N dự_kiến/V khi/N đó/P toàn_bộ/L vốn/N nhà_nước/N tại/E Habeco/Np khoảng/A 9 0/M tỷ/N đồng/N /V gần/A 82%/M vốn_điều_lệ/N /N sẽ/R được/V thoái/V vốn/N trong/E năm/N 2016/M  /M Còn/C lộ_trình/N thoái/V vốn/N tại/E Sabeco/Np sẽ/R được/V chia/V làm/V 2/M đợt/N
+Đợt/N một/M thoái/N 53,6%/M vốn_điều_lệ/N tương_đương/V 24 0/M tỷ/N đồng/N trong/E năm/N 2016/M và/CC đợt/N 2/M sẽ/R thoái/V tiếp/R phần/N còn/V lại/R khoảng/A 16 0/M tỷ/M đồng/Nu trong/E năm/N 2017/M
+Ngay/T sau/E khi/N niêm_yết/V trong/E 9/M phiên/N giao_dịch/V đầu_tiên/A cổ_phiếu/N SAB/Np đã/R tăng/V một_mạch/N từ/E 110 0/M đồng/Nu lên/V 225 0/M đồng/Nu
+Còn/C cổ_phiếu/N BHN/Np tăng/V gần/A 4/M lần/N từ/E mức/N giá/N chào/V sàn/N 39 0/M đồng/Nu lên/V gần/A 145 0/M đồng/Nu và/CC tiếp_tục/V tăng/V lên/R mức/N kỷ_lục/N 225 0/M đồng/Nu
+Đã/R có/V thời_điểm/N thị_giá/V cổ_phiếu/N của/E Habeco/Np còn/R cao/A hơn/A Sabeco/Np
+Tuy_vậy/C sau/E màn/N chào/V sàn/N ấn_tượng/N cả/P hai/M cổ_phiếu/N ngành/N bia/N đã/R đồng_loạt/R điều_chỉnh/V sâu/A
+Cổ_phiếu/N BHN/Np giảm/V chỉ/R còn/V một_phần_ba/N so/V với/E mức/N đỉnh/N giao_dịch/V quanh/N ngưỡng/N 70 0/M 80 0/M đồng/Nu
+Trong/E khi/N đó/P cổ_phiếu/N SAB/Np của/E Sabeco/Np lùi/V về/E quanh/N ngưỡng/N 185 0/M 190 0/M đồng/Nu
+Các/L chuyên_gia/N cho/V rằng/C đà/N tăng/V ngay/T sau/E khi/N bộ/N đôi/M cổ_phiếu/N ngành/N bia/N lên/V sàn/N được/V hỗ_trợ/V bởi/E thông_tin/N thoái/V vốn/N nhà_đầu_tư/N kỳ_vọng/V việc/N thoái/V vốn/N sẽ/R được/V thực_hiện/V ngay/R sau/N đó/P
+Tuy_nhiên/C khi/N lộ_trình/N ban_đầu/N vẫn/R dừng/V ở/E phương_án/N và/CC thông_tin/N thoái/V vốn/N sau/E đó/P dần/R chìm/V xuống/R khiến/V nhà_đầu_tư/N trên/E thị_trường/N không/R còn/V quá/R kỳ_vọng/V đến/E hai/M cổ_phiếu/N này/P

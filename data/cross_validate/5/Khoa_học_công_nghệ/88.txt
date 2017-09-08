@@ -1,0 +1,11 @@
+Tablet/N lai/A laptop/N Pixel/Np C/Np chính/A hãng/N Google/Np ra_mắt/V
+Tablet/N 2/M trong/E 1/M dần/N thay/V laptop/N trong/N công_sở/N
+Không/R như/A các/L sản_phẩm/N dòng/N Nexus/Np của/E Google/Np sản_xuất/V bởi/E đối_tác/N OEM/Np như/C LG/Np HTC/Np Samsung/Np hay/C Huawei/Np Pixel/Np C/Np do/E chính/T Google/Np thiết_kế/V và/CC có/V tỉ_lệ/N tự/N sản_xuất/V rất/R cao/A
+Đây/P là/V một/M điểm/N mới/A vì/E hiện/N chưa/R có/V thông_tin/N về/V cơ_sở/N sản_xuất/N của/N Google/Np
+Pixel/N C/Np có/V lớp/N vỏ/N nhôm/V mặt/N sau/N có/V đèn/N bốn/M màu/N đặc_trưng/N từ/E logo/N Google/Np gồm/V xanh/N dương/N đỏ/A vàng/A và/CC xanh/A lá/N cây/N
+Có_thể/A gõ/V hai/M lần/N vào/E mặt/N lưng/N để/E bật/V những/L đèn/N này/P và/N xem/V lượng/N pin/N còn/V lại/R mỗi/N đèn/N tương_đương/N 25/M pin/N
+Màn_hình/N Pixel/Np C/Np độ_phân_giải/N 2560/M x/N 1800/M đưa/N nó/P vào/V nhóm/N tablet/N màn_hình/N thể_hiện/V độ/N nét/N cao/A nhất/A hiện_nay/N với/E mật_độ/N điểm_ảnh/N 308ppi/N vượt/V hơn/R cả/P Surface/Np lẫn/V iPad/N
+Ngoài_ra/C màn_hình/N có/V một/M tỉ_lệ/N mới/A 1/M 1414/M thay_vì/N tỉ_lệ/N màn_hình/N 16/M 9/M hay/N 4/M 3/M phổ_biến/N hiện_nay/N
+Bàn_phím/N vật_lí/N được/V giới_thiệu/V kèm/V Pixel/Np C/Np có_giá/N đỡ/V được/R ở/V nhiều/A vị_trí/N đồng_thời/N là/V vỏ/N che_chắn/N khi/N gập/V lại/V
+Giá/N bán_lẻ/V bàn_phím/N là/V 150/M USD/Nu trong/E khi/N giá/N máy/N Pixel/Np C/Np là/V 499/M USD/Nu tương_đương/N 112/M triệu/N đồng/N cho/V cấu_hình/N 32GB/N bộ_nhớ_trong/N và/CC 599/M USD/Nu cho/V 64GB/N
+Thông_số/N cấu_hình/N tham_khảo/N của/E tablet/N Google_Pixel/Np C/Np

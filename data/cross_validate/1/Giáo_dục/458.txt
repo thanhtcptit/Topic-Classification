@@ -1,0 +1,10 @@
+TPHCM/Np Có/V 2/M thí_sinh/N đạt/V 3/M điểm/N 10/M 
+Trong/E đó/P hai/M môn/N có/V điểm/N 10/M cao/A nhất_là/X Hóa_học/N và/CC Ngoại_ngữ/N 
+Cụ_thể/A môn/N Ngoại_ngữ/N có/V đến/V 214/M bài/N đạt/V điểm/N 10/M và/CC môn/N Hóa/Np có/V 139/M điểm/N 10/M tuyệt_đối/A 
+Môn_Toán/Np có/V 19/M bài/N thi/V điểm/N 10/M môn/N Sinh/Np có/V 56/M điểm/N 10/M Giáo_dục/N công_dân/N có/V 15/M điểm/N 10/M Vật_lý/N có/V 4/M điểm/N 10/M và/CC môn/N Sử/Np có/V 1/M điểm/N 10/M duy_nhất/A 
+Riêng/T môn/N Văn/Np có/V 7/M bài/N thi/V đạt/V điểm_cao/N nhất_là/X 9/M điểm/N không/R có/V bài/N thi/V nào/P đạt/V điểm/N 10/M 
+Đặc_biệt/A TPHCM/Np có/V 2/M thí_sinh/N đạt/V 3/M điểm/N 10/M ở/E các/L môn/N Toán/Np Hoá/Np Sinh/Np là/V thí_sinh/N Phạm_Hữu_Triết/Np SBD/Np 02011486/M và/CC thí_sinh/N Nguyễn_Trung_Duy_Anh/Np SBD/Np 02039943/M )/Nu 
+Ngoài_ra/C thí_sinh/N duy_nhất/A TPHCM/Np đạt/V điểm/N 10/M môn/N Sử/Np là/V Nguyễn_Hữu_Cường/Np SBD/Np 02068159/M )/Nu 
+TPHCM/Np có/V hơn/R 450/M bài/N thi/V đạt/V điểm/N 10/M 
+Trong/E ảnh/N Học_sinh/N TPHCM/Np vui_vẻ/A sau/E khi/N hoàn_thành/V kỳ/N thi/V 
+Lê_Phương/Np 

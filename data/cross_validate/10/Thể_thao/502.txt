@@ -1,0 +1,53 @@
+Quang_Liêm/Np có/V chiến_thắng/N đầu_tay/A ở/E giải/N Siêu/Np đại/V kiện_tướng/N
+Sau/E ba/M ván/N đầu_tiên/A toàn/R hòa/V Lê_Quang_Liêm/Np /V 2 6/M /N rồi/C cũng/R được/V hưởng/V niềm_vui/N chiến_thắng/V tại/E giải/N cờ_vua/N Siêu/Np đại/V kiện_tướng/N lần/N thứ/N tám/M tại/E Đam_Châu/Np Trung_Quốc/Np
+Malakhov/Np lựa_chọn/V khai_cuộc/V Italy/Np để/E đối_đầu/V với/E Quang_Liêm/Np nhưng/C đại/V kiện_tướng/N người/N Nga/Np đành/V chịu/V khuất_phục/V bởi/E những/L nước/N cờ/N tài_tình/A của/E kỳ_thủ/N số_một/N Việt_Nam/Np
+Vốn/N được/V đánh_giá/V rất/R cao/A về/E chiến_thuật/N Quang_Liêm/Np đã/R tận_dụng/V sở_trường/N để/E dần_dần/R chiếm_lĩnh/V thế/P cờ/N dù/C anh/N chỉ/R cầm_quân/V đen/A
+Dần/R biến/V sự/Nc nhỉnh/A hơn/A về/E thế_trận/N thành/V ưu_thế/A về/E quân_số/N Quang_Liêm/Np buộc/V Malakhov/Np phải/V đổi/V thiệt/A chất/N ở/E 22 e5/Np Nxe5/Np
+Từ/E đây/P đại/V kiện_tướng/N người/N TP_HCM/Np càng/R tỏ/V ra/R chắc_chắn/A trong/E lối/N chơi/V
+Ưu_thế/A của/E Quang_Liêm/Np biến/V thành/V một/M chiến_thắng/N rõ_ràng/A sau/A 35 4/M
+Đây/P là/V nước/N cờ/N tự/P xóa/V tan/V mọi/L hy_vọng/N gỡ_gạc/V điểm_số/N cho/E kỳ_thủ/N 36/M tuổi/N người/N Nga/Np
+Hậu/N trắng/A rời/V khỏi/R vị_trí/N phòng_thủ/V ở/E hàng/N một/M tạo/V điều_kiện/N cho/E 35/M …/N Rb1/Np Quang_Liêm/Np uy_hiếp/V trực_tiếp/A thành/V của/E Malakhov/Np
+Trắng/A chỉ/R có_thể/A chống_đỡ/V cho_đến/E nước/N 38/M trước/E khi/N đầu_hàng/V vì/E không/R tránh/V khỏi/V cảnh_bị/N mất/V hậu/A
+Chiến_thắng/N này/P giúp/V Quang_Liêm/Np nâng/V cao/A mạch/N bất/V bại/V ở/E thể_loại/N cờ/N tiêu_chuẩn/N lên/R 48/M trận/N
+Quan_trọng/A hơn/A anh/N còn/R có/V thêm/V 5/M điểm/N elo/V ở/E bảng/N thứ_bậc/N trực_tuyến/A để/E sở_hữu/V 2 3/M elo/N và/CC vươn/V lên/R đứng/V thứ/N 27/M thế_giới/N
+Tính/V riêng/A ở/E giải/N cờ_vua/N Siêu/Np đại/V kiện_tướng/N tại/E Đam_Châu/Np lần/N này/P Quang_Liêm/Np cũng/R vươn/V lên/R đứng/V thứ_hai/N với/E 2,5/M điểm/N bằng/E với/E Yu_Yangyi/Np /M 2 9/M /N và/CC Ding_Liren/Np /V 2 3/M /N
+Người/N đang/R dẫn_đầu/V giải/N vẫn/R là/V kỳ_thủ/N trẻ/A Wei_Yi/Np /V 2 8/M /N với/E ba/M điểm/N
+Ở/E lượt/N đấu/V ngày_mai/N Quang_Liêm/Np sẽ/R trở_lại/V cầm_quân/V trắng/A đối_đầu/V đại/V kiện_tướng/N người/N Đức_Arkadij_Naiditsch/Np /V 2 0/M /N
+Kết_quả/N ván/N bốn/M Vassily_Ivanchuk/Np ½/M ½/M Ruslan_Ponomariov_Ding_Liren/Np ½/M ½/M  /Nu Wei_Yi_Yu_Yangyi/Np 1/M 0/M Lu_Shanglei_Vladimir_Malakhov/Np 0/M 1/M Lê_Quang_Liêm_Arkadij_Naiditsch/Np ½/M ½/M Wang_Hao_Biên/Np bản/N ván/N đấu/V Vladimir_Malakhov/Np vs/V Lê_Quang_Liêm/Np 1/M
+e4/M e5/N 2/M
+Nf3/M Nc6/N 3/M
+Bc4/M Bc5/N 4/M
+O/M O_Nf/Np 6/M 5/M
+d3/M O/Np O/Np 6/M
+h3/M h6/N 7/M
+Re1/M d6/N 8/M
+c3/M a5/N 9/M
+a4/M Re8/N 10/M
+Nbd2/M Be6/N 11/M
+Bb5/M Bd7/N 12/M
+Nc4/M Ne7/N 13/M
+Bxd7/M Qxd7/N 14/M
+Be3/M Bxe3/N 15/M
+Rxe3/M Ng6/N 16/M
+Qb3/M b6/N 17/M
+Rae1/M Rad8/N 18/M
+Qd1/M Qe6/N 19/M
+Nfd2/M d5/N 20/M
+exd5/M Nxd5/N 21/M
+Re4/M f5/N 22/M
+Rxe5/M Nxe5/N 23/M
+Nxe5/M Nf4/N 24/M
+Ndf3/M c5/N 25/M
+h4/M Qd5/N 26/M
+Qd2/M Nh5/N 27/M
+d4/M cxd4/N 28/M
+cxd4/M Nf6/N 29/M
+b4/M Ne4/N 30/M
+Qb2/M Rc8/N 31/M
+bxa5/M bxa5/N 32/M
+h5/M Rb8/N 33/M
+Qc1/M Qa2/N 34/M
+Rf1/M Rec8/N 35/M
+Qf4/M Rb1/N 36/M
+Nh2/M Nd2/N 37/M
+Ng6/M Nxf1/N 38/M

@@ -1,0 +1,28 @@
+Đại_gia/N Việt/Np M so_găng/N N giành/V thị_phần/N căn_hộ/N cao_cấp/A với/E khối/N ngoại/N
+Công_ty/N DKRA/Np vừa/R công_bố/V báo_cáo/V 6/M tháng/N đầu/N năm/N về/E thị_trường/N căn_hộ/N cao_cấp/A TP_HCM/Np với/E điểm/N nhấn/V là/V cuộc/N so_găng/V quyết_liệt/A giữa/E 2/M nhóm/Nc chủ/N đầu_tư/V trong/E nước/N và/CC nước_ngoài/N
+Đây/P là/V phân/N khúc/N có_giá/A bán/V từ/E 2 0/M USD/Nu mỗi/M m/Nu 2/M trở_lên/A xét/V về/E giá/N chỉ/R xếp/V sau/E căn_hộ/N hạng/N sang/V và/CC siêu/Z sang/V  /EOS
+Nửa/M năm/N qua/V nguồn/N cung/N thị_phần/N căn_hộ/N cao_cấp/A của/E khối/N nội/N và/CC ngoại/N bám/V đuổi/V sát/A nhau/N chênh_lệch/A gần_như/R không/R đáng_kể/V
+Rổ/N hàng_hóa/N đôi/M bên/N lần_lượt/R tung/V ra/R 1 3/M 1 2/M căn/Nc
+Lượng/N tiêu_thụ/V chung_cư/N cao_cấp/A của/E khối/N nội/N có/V phần/N nhỉnh/A hơn/A bán/V trên/E 1 0/M căn/Nc nhờ/V có/V nhiều/A chương_trình/N khuyến_mãi/V
+Khối/N ngoại/N ghi_nhận/V 1 0/M giao_dịch/N thành_công/V sức_mua/N chỉ/R thấp/A hơn/R các/L doanh_nghiệp/N trong/E nước/N khoảng/N 8%/M  /M Diễn_biến/V thanh/N khoản/N của/E khối/N nội/N và/CC khối/N ngoại/N cũng/R có/V sự/Nc phân_hóa/V trong/E nửa/L năm/N qua/V
+Cụ_thể/A khối/N ngoại/N bán/V hàng/N hiệu_quả/N ngay/T từ/E lần/N đầu/N tung/V hàng/N ra/V thị_trường/N nhưng/C ít/A dùng/V các/L chương_trình/N khuyến_mãi/V kích_cầu/N
+Trong/E khi/N đó/P khối/N nội/N lại/R bán/V tốt/A trong/E những/L đợt/N bán/V hàng/N có/V phương_án/N kích_cầu/A như/C rút/V thăm/V trúng/V thưởng/V vàng/N ôtô/N hàng/N nội_thất/N
+Các/L chủ/N đầu_tư/V ngoại/N tại/E TP_HCM/Np hiện_nay/N gồm/V có/V Đài_Loan/Np Singapore/Np Hong_Kong/Np
+đều/R có/V nguồn/N vốn/N ổn_định/A cộng/V thêm/V thế/P mạnh/A huy_động/V vốn/N từ/E các/L quỹ/N đầu_tư/V quốc_tế/N
+Với/E tiềm_lực/N tài_chính/N mạnh/A các/L đơn_vị/N này/P có_thể/R xây/V dự_án/N mà/C không/R bị/V ảnh/N hướng/V bởi/E việc/N huy_động/V vốn/N từ/E khách_hàng/N
+Ngoài_ra/C khối/N ngoại/N còn/R có/V bề_dày/N kinh_nghiệm/N phát_triển/V bất_động_sản/N đầu_tư/V bài_bản/A và/CC đặc_biệt/A có_thể/R làm/V ra/R sản_phẩm/N tốt/A bằng/E hoặc/CC hơn/A cả/T quảng_cáo/N
+Nhóm/N doanh_nghiệp/N bất_động_sản/N Việt_Nam/Np tham_gia/V phát_triển/V các/L dự_án/N cao_cấp/A tại/E TP_HCM/Np rơi/V vào/E những/L công_ty/N có/V thương_hiệu/N lớn/A đã/R niêm_yết/V trên/E sàn/N chứng_khoán/V hoặc/CC có/V sự/Nc hậu_thuẫn/V từ/E các/L đối_tác/N chiến_lược/N thậm_chí/R là/V quỹ/N đầu_tư/V quốc_tế/N /V mua/V cổ_phần/N trái_phiếu/N chuyển_đổi/V /N
+Thế/T mạnh/A của/E nhóm/N doanh_nghiệp/N trong/E nước/N là/V tiếp_cận/V quỹ/N đất/N hiệu_quả/N nhờ/V am_hiểu/V chính_sách/N nắm/V rõ/A thủ_tục/N pháp_lý/N
+DKRA/Np đánh_giá/V cuộc/N đua/V của/E hai/M khối/N nội/N –/N ngoại/N đang/R khiến/V thị_trường/N căn_hộ/N cao_cấp/A TP_HCM/Np phân_hóa/V ngày_càng/N mạnh_mẽ/A giúp/V rổ/N hàng_hóa/N trở_nên/V phong_phú/A đa_dạng/A hơn/R
+Căn_hộ/N cao_cấp/A của/E khối/N nội/N thường/R có/V vị_trí/N đắc_địa/N trong/E khi/N sản_phẩm/N của/E khối/N ngoại/N tọa_lạc/V ở/E những/L khu_vực/N đầy/A tiềm_năng/N cảnh_quan/N đẹp/A thiết_kế/V độc_đáo/A
+Đơn_vị/N này/P đưa/V ra/R 5/M yếu_tố/N quan_trọng/A đóng/V vai_trò/N quyết_định/V sự/Nc thành_bại/V của/E doanh_nghiệp/N ở/E phân/N khúc/N này/P
+Đó/P là/V nguồn/N vốn/N mạnh/A nhiều/A kinh_nghiệm/N phát_triển/V dự_án/N thiết_kế/V kiến_trúc/N độc_đáo/A chính_sách/N bán/V hàng/N hiệu_quả/N và/CC minh_bạch/A trong/E quản_lý/V
+Các/L nhà_phát_triển/N bất_động_sản/N nước_ngoài/N có/V ưu_thế/A khá/R toàn_diện/A nhưng/C còn/V khiếm_khuyết/N ở/E kênh/N phân_phối/V còn/R khối/N nội/N lại/R thường/R gặp/V vấn_đề/N về/E việc/N thu_xếp/V dòng/N vốn/N dài_hạn/A còn/R gặp/V một_số/L hạn_chế/V về/E minh_bạch/A trong/E quản_lý/V
+Tuy_nhiên/C trong/E nửa/N đầu/N năm/N 2017/M nhiều/A đại_gia/N Việt/Np đã/R liên_kết/V với/E quỹ/N đầu_tư/V ngoại/A để/E huy_động/V vốn/N rẻ/A niêm_yết/V để/E tiếp_cận/V vốn/N từ/E thị_trường_chứng_khoán/N dễ/A hơn/R
+Khối/N nội/N có_thể/A lôi_kéo/V đối_tác/N nước_ngoài/N để/E phát_triển/V dự_án/N dựa/V trên/E thế/P mạnh/A quỹ/N đất/N dồi_dào/A
+Tổng_giám_đốc/N DKRA/Np Phạm_Lâm/Np đánh_giá/V cuộc/N đua/V giữa/E khối/N nội/N và/CC khối/N ngoại/N trên/E thị_trường/N căn_hộ/N cao_cấp/A vẫn/R đang/R ở/V giai_đoạn/N gay_cấn/A nhưng/C theo/V chiều_hướng/N tích_cực/A
+Theo/E ông/Nc Lâm/Np điều/N thú_vị/A ở/E cuộc/N so_găng/N này/P là/V cục_diện/V ngày_càng/X trở_nên/V cân_bằng/A hơn/R
+Trong/E những/L năm/N 2015/M trở_về/V trước/E thị_phần/N căn_hộ/N cao_cấp/A của/E các/L doanh_nghiệp/N Việt_Nam/Np có/V phần/N lép_vế/A so/V với/E khối/N ngoại/N
+Thế_nhưng/C hiện_nay/N ranh_giới/N phân_biệt/V dự_án/N của/E nhà_đầu_tư/N nội/N ngoại/N không/R còn/V nhiều/A
+Thậm_chí/R xu_hướng/N giao_thoa/V liên_kết/V hợp_tác/V giữa/E khối/N nội/N và/CC khối/N ngoại/N càng/R thúc_đẩy/V phân/N khúc/N căn_hộ/N cao_cấp/A phát_triển/V toàn_diện/A hơn/R
+Cuộc/N đua/V chưa/R phân_định/V thắng/V thua/V và/CC các/L đối_thủ/N vẫn/R đang/R hào_hứng/A tiến/V về/E phía/N trước/A nhưng/C một/M thực_tế/N rõ_ràng/A nhất_là/X đằng/N sau/E sự/Nc cạnh_tranh/V này/P người/N thắng/V chính/T là/V khách_hàng/N ông/Nc Lâm/Np nói/V

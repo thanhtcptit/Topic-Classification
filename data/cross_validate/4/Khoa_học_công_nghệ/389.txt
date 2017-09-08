@@ -1,0 +1,28 @@
+Quán_quân/N Nhân_tài/N Đất_Việt/Np 2016/M là/V khởi_đầu/V quan_trọng/A của/E chúng_tôi/P 
+Thủ_lĩnh/N Giải/N nhất/A công_nghệ_thông_tin/N Là/V giải_thưởng/N quan_trọng/A khép/V lại/R đêm/N trao/V giải/N Nhân_tài/N Đất_Việt/Np NTĐV/Np năm/N 2016/M diễn/V ra/R tối_qua/A 19/11/M Giải/N nhất/A Công_nghệ_thông_tin/N CNTT/Np hệ_thống/N Triển_vọng/N trị_giá/V 100/M triệu/M đồng/Nu đã/R được/V ông/Nc Nguyễn_Thiện_Nhân/Np Ủy_viên/N Bộ/N Chính/T trị/V Chủ_tịch/N Mặt_trận/N Tổ_quốc/N Việt_Nam/Np và/CC ông/Nc Trương_Minh_Tuấn/Np Bộ_trưởng/N Bộ/N Thông/Np tin/V và/CC Truyền_thông/N trao/V cho/E nhóm/N tác_giả/N Công_ty/N CP/Np Công_nghệ/N chọn_lọc/V thông_tin/N InfoRe/Np )/A 
+Vượt/V qua/R nhiều/A ứng_viên/N nặng_ký/N sản_phẩm/N Hệ_thống/N phân_tích/V ngữ_nghĩa/N và/CC quản_trị/V tương_tác/V mạng/N xã_hội/N SMCC/Np )/A đã/R giành/V chiến_thắng/N đoạt/V một/M trong/E hai/M giải/N nhất/R thuộc/V lĩnh_vực/N CNTT/Np 
+Đây/P là/V hệ_thống/N phân_tích/V thống_kê/V thông_tin/N trên/E mạng/N xã_hội/N có/V đầy_đủ/A chức_năng/N của/E một/M hệ_thống/N phần_mềm/N dịch_vụ/N SaaS/Np Software/Np as/V a/N Service/Np hệ_thống/N sử_dụng/V các/L kỹ_thuật/N Deep_Learning/Np tiên_tiến/A để/E xử_lý_văn_bản/X tiếng/N Việt/Np 
+Bên/N lề/N sự_kiện/N Lê_Công_Thành/Np trưởng/Z nhóm/N đạt/V giải/N đã/R có/V những/L chia_sẻ/V cởi_mở/V với/E phóng_viên/N Dân_Trí/Np Chào_Lê_Công_Thành/Np cảm_xúc/N của/E bạn/N sau/E khi/N sản_phẩm/N SMCC/Np của/E InfoRe/Np đoạt/V giải/N cao/A nhất/A trong/E lĩnh_vực/N CNTT/Np tại/E Nhân_tài/N Đất_Việt/Np 2016/M như_thế_nào/X 
+Một/M cảm_xúc/N bùng_nổ/V rất/R khó/A diễn_đạt/V 
+Rất/R nhiều/A nhóm/N được/V xướng/V tên/N trước/E đó/P và/CC chưa/R thấy/V tên/N nhóm/N mình/P đâu/T 
+Đến/E cuối_cùng/A khi/N Ban/N tổ_chức/V xướng/V tên/N nhóm/N thì/C chúng_tôi/P đã/R không_thể/R kiềm_chế/V được/R cảm_xúc/N của/E mình/P chỉ/R biết/V hò_reo/N vui_sướng/V thôi/T 
+Các/L bạn/N đến/V với/E NTĐV/Np như_thế_nào/X 
+Ban_đầu/N chúng_tôi/P đã/R không/R dám/V đăng_ký/V tham_gia/V vì/E đây/P là/V một/M giải_thưởng/N rất/R lớn/A 
+Tuy_nhiên/C sau/E khi/N đọc/V thông_tin/N trên/E báo/N thấy/V rằng/C Ban/N Tổ/N chức/N đã/R gia_hạn/V thời_gian/N đăng_ký/V và/CC với/E một/M động_lực/N nào_đó/P chúng_tôi/P đã/R gấp_rút/A làm/V hồ_sơ/N và/CC đăng_ký/V tham_dự/V 
+Rất/R may_mắn/A chúng_tôi/P đã/R lọt/V vào/E vòng/N chung_khảo/N và/CC sau/N rất/R nhiều/A nỗ_lực/N thì/C chúng_tôi/P đã/R thuyết_phục/V được/R Ban/N giám_khảo/V để/E gặt_hái/V thành_quả/N như/C đêm/N nay/P 
+Tham_gia/V NTĐV/Np 2016/M các/L bạn/N cảm_thấy/V mình/P gặt_hái/V được/R nhiều/A nhất_là/X gì/P Điều/N chúng_tôi/P giành/V được/R nhiều/A nhất/R có_lẽ/R là/V sự/Nc giao_lưu/V gặp_gỡ/V với/E các/L nhóm/N tài_năng/N khác/A 
+Đồng_thời/R chúng_tôi/P cũng/R nhận/V được/R rất/R nhiều/A đóng/V ý/N về/E sản_phẩm/N của/E chuyên_gia/N đầu/N ngành/N và/CC của/E ban/N giám_khảo/N 
+Chúng_tôi/P cũng/R được/V trao_đổi/V và/CC học_hỏi/V nhiều/A hơn/R về/E công_nghệ/N 
+Ngoài_ra/C với/E giải/N Nhất/A CNTT/Np vừa/R đạt/V được/R chúng_tôi/P hy_vọng/V đây/P không_chỉ/R là/V bệ/N đỡ/V về/E truyền_thông/N mà_còn/C hỗ_trợ/V chúng_tôi/P thuận_lợi/V hơn/R trên/E con/Nc đường/N khởi_nghiệp/V 
+Điều/N mà/C các/L bạn/N cảm_thấy/V hài_lòng/V nhất/R về/E sản_phẩm/N của/E mình/P là/V điều/N gì/P 
+Thực_ra/X chúng_tôi/P chưa/R hề/V hài_lòng/V với/E sản_phẩm/N của/E mình/P bởi/E nó/P vẫn/R còn/R rất/R nhiều/A thứ/N để/E cải_tiến/V để/E phát_triển/V 
+Đây/P sẽ/R là/V bước/N khởi_đầu/V rất/R quan_trọng/A để/E chúng_tôi/P có/V nhiều/A cơ_hội/N phát_triển/V hơn_nữa/R trong/E tương_lai/N 
+SMCC/Np có/V gặp/V nhiều/A khó_khăn/N khi/N đối_mặt/V với/E một/M kho_tàng/N tiếng/N Việt/Np đầy/A phong_phú/A và/CC phức_tạp/A 
+Do/E tiếng/N Việt/Np rất/R khó/A xử_lý/V và/CC nền_tảng/V xử_lý/V tiếng/N Việt/Np của/E chúng_tôi/P lúc/N mới/R bắt_đầu/V còn/R rất/R manh_nha/V và/CC rất/R yếu/A nên/C phải/V làm/V rất/R nhiều/A bài_toán/N khác_nhau/A 
+Đó/P cũng/R chính/T là/V lý_do/N mà/C chúng_tôi/P mất/V khoảng/N thời_gian/N từ/E 2012/M đến/E tận/E cuối/N năm/N 2015/M mới/R sẵn_sàng/A để/E gọi_vốn/V để/E biến/V công_nghệ/N đó/P thành/V một/M sản_phẩm/N tốt/A 
+Các/L bạn/N có/V định/V mở_rộng/V sang/E những/L ngôn_ngữ/N khác/A ngoài/E tiếng/N Việt/Np 
+Chúng_tôi/P hiện/N đang/R thực_hiện/V với/E tiếng/N Anh/Np và/CC nghiên_cứu/V một_số/L ngôn_ngữ/N khác/A của/E các/L nước/N trong/E khu_vực/N để/E có_thể/R cung_cấp/V sản_phẩm/N này/P ra/V thị_trường/N Đông_Nam/Np Á/Np 
+Bạn/N đánh_giá/V như_thế_nào/X về/E nhu_cầu/N với/E sản_phẩm/N của/E các/L bạn/N trong/E bối_cảnh/N không/R ít/A doanh_nghiệp/N tập_đoàn/N lớn/A gặp/V khủng_hoảng/N truyền_thông/N thời_gian/N vừa_qua/X 
+Tôi/P nghĩ/V xử_lý/V khủng_hoảng/N truyền_thông/N là/V một/M nhu_cầu/N rất/R lớn/A của/E các/L doanh_nghiệp/N hiện_nay/N vì/E hiện_tại/N các/L thông_tin/N trên/E internet/N hiện/N rất/R khó/A quản_lý/V và/CC rất/R khó/A xác_định/V nguồn/N tin/N cũng_như/C chất_lượng/N thông_tin/N 
+Tuy_nhiên/C sản_phẩm/N của/E chúng_tôi/P không_chỉ/C phục_vụ/V cho/E việc/N xử_lý/V khủng_hoảng/N truyền_thông/N mà/C nó/P còn/R có/V rất/R nhiều/A những/L hướng/N ứng_dụng/N khác/A 
+Ví_dụ/V SMCC/Np có_thể/R được/V sử_dụng/V để/E chăm_sóc/V khách_hàng/N để/E làm/V thương_mại/N phân_tích/V nhu_cầu/N người/N tiêu_dùng/V )/A có_thể/A sử_dụng/V để/E theo_dõi/V xu_hướng/N trên/E internet/N để/E sản_xuất/V nội_dung/N …/M (/N còn/V tiếp/V Bích_Diệp/Np 

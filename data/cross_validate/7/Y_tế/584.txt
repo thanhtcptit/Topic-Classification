@@ -1,0 +1,25 @@
+Bộ/N Y_tế/N Tăng/Np đầu_tư/V tuyến/N dưới/N để/E thu_hút/V bệnh_nhân/N
+Ngày/N 20/5/M Đoàn/N khảo_sát/V của/E Ban/N chỉ_đạo/V Nhà_nước/N do/E Phó_Thủ/Np tướng/N Vương_Đình_Huệ/Np đã/R làm_việc/V với/E Bộ/N Y_tế/N về/E việc/N xây_dựng/V đề_án/N đổi_mới/V cơ_chế/N quản_lý/V cơ_chế/N tài_chính/N tổ_chức/V hệ_thống/N các/L đơn_vị/N sự_nghiệp/N công_lập/V
+Phó_Thủ/Np tướng/N quan_tâm/V đến/E 3/M vấn_đề/N lớn/A Số_lượng/N đơn_vị/N sự_nghiệp/N y_tế/N công/N ở/E các/L tuyến/N còn/R nhiều/A đặc_biệt/A hệ_thống/N y_tế/N dự_phòng/V quá/R chồng_chéo/A quá/R đông/A mô_hình/N quản_lý/V tự_chủ/V tại/E các/L bệnh_viện/N xã_hội_hóa/V  /EOS
+Bộ_trưởng/N Y_tế/N Nguyễn_Thị_Kim_Tiến/Np cho_biết/V hệ_thống/N y_tế/N hiện/N có/V quá/R nhiều/A đầu_mối/N nên/C ngành/N đang/R tiến_hành/V sáp_nhập/V các/L trung_tâm/N y_tế/N thành/V Trung_tâm/N kiểm_soát/V dịch_bệnh/N
+Có/V tỉnh/N đến/V 13/M trung_tâm/N riêng/A TP/Np Hà_Nội/Np từ/E 9/M trung_tâm/N gộp/V thành/V 2/M
+Cả/P nước/N hiện/N có/V 700/M trung_tâm/N hiện/N mới/R sáp_nhập/V được/R một_nửa/N giảm/V được/R 300/M đầu_mối/N và/CC giảm/V 1 0/M cán_bộ/N quản_lý/V
+Bộ/N Y_tế/N sẽ/R tiếp_tục/V rà_soát/V tinh_giảm/A đầu_mối/N giảm/V đơn_vị/N sự_nghiệp/N do/E Bộ/N quản_lý/V  /M Cả/P
+nước/N có/V đến/T hơn/A 13 0/M cơ_sở/N y_tế/N trung_ương/N 83/M có/V 913/M ở/E cấp/N tỉnh/N gần/A 1 0/M ở/E huyện/N hơn/R 11 0/M ở/E cấp/N xã/N  /EOS
+Thứ_trưởng/N Y_tế/N Trương_Quốc_Cường/Np cũng/R chỉ/R ra/V thực_tế/N khi/N hệ_thống/N y_tế/N của/E nước/N ta/P phân/V theo/E tuyến/N bệnh_nhân/N nào/P cũng/R muốn/V lên/V tuyến/N cao/A nhất/A
+Lý_do/N vì/E chuyên_môn/N tuyến/N dưới/E chưa/R đạt/V yêu_cầu/N
+Số/N giường_bệnh/N trên/E đầu/N dân/N ở/E mức/N trung_bình/A trên/E thế_giới/N số/N giường/N ở/E tuyến/N dưới/N chiếm/V đến/E 70%/M tuyến/N trung_ương/N chỉ/R có/V 35 0/M giường/N luôn/R quá_tải/A
+“/M Việc/N đầu_tư/V cho/E tuyến/N dưới/E hiện/N chưa/R thực_sự/A hiệu_quả/N số/N giường/N rất/R nhiều/A nhưng/C dân/N không/R ở/V có/V trạm/N y_tế/N xã/N cả/P ngày/N chỉ/R 3-4/M bệnh_nhân/N ”/A Thứ_trưởng/N Cường/Np nói/V
+Bên_cạnh/N đó/P các/L bệnh_viện/N đang/R tồn_tại/V tình_trạng/N công/N tư/N lẫn_lộn/V  /M Phó/Z
+Thủ_tướng/N Vương_Đình_Huệ/Np nhấn_mạnh/V “/M Bệnh_viện/N mà/C dân/N tin_tưởng/V thì/C 2-3/M bệnh_nhân/N một/M giường/N vẫn/R nằm/V viện/N không/R nằm/V ghép/V thì/C dân/N không/R tin/V chất_lượng/N ”/A
+Lý_giải/V vấn_đề/N này/P Thứ_trưởng/N Y_tế/N Phạm_Lê_Tuấn/Np cho_biết/V 70%/M nhu_cầu/N chăm_sóc/V ban_đầu/N có_thể/R giải_quyết/V được/R tại/E y_tế/N cơ_sở/N
+Tuyến/N dưới/N hiện_nay/N yếu/A cần/V được/V nâng/V cao/A chất_lượng/N quan_tâm/V xây_dựng/V đầu_tư/V  /M Thứ_trưởng/N Tuấn/Np tin/V rằng/C “/A Nếu/C đầu_tư/V cho/E tuyến/N dưới/E thì/C sẽ/R tiết_kiệm/V rất/R nhiều/A còn/C đầu_tư/V vào/E bệnh_viện/N thì/C bệnh_nhân/N tiếp_tục/V hút/V về/E bệnh_viện/N kể_cả/C trường_hợp/N không/R cần_thiết/A điều_trị/V ở/E tuyến/N tr/N ”/M
+Bộ/N Y_tế/N đang/R nghiên_cứu/V 18/M cơ_sở/N y_tế/N được/V xã_hội_hóa/V
+Các/L bệnh_viện/N được/V đầu_tư/V máy_móc/N hiện_đại/A phương_tiện/N kỹ_thuật/N cao/A dân/N được/V hưởng_thụ/V
+Mặt/N hạn_chế/V là/V có/V nơi/N lạm_dụng/V  /M Phó/Z
+Thủ_tướng/N Vương_Đình_Huệ/Np cho/V rằng/C hiện_nay/N việc/N tự_chủ/V về/E tài_chính/N và/CC thực_hiện/V xã_hội_hóa/V các/L dịch_vụ/N y_tế/N đang/R diễn/V ra/R mạnh_mẽ/A tại/E tuyến/N trung_ương/N tạo/V nên/C sự/Nc cạnh_tranh/V để/E nâng/V cao/A chất_lượng/N nhưng/C cũng/R còn/V tình_trạng/N lẫn_lộn/V công/N tư/N
+Trong/E khi/N đó/P tuyến/N dưới/N lại/R thiếu/V sự/Nc đầu_tư/V về/E trang_thiết_bị/N và/CC nhân_lực/N nên/C thiếu/V sự/N cạnh_tranh/V và/CC vắng/V bệnh_nhân/N
+Phó_Thủ/Np tướng/N đề_nghị/N Bộ/N Y_tế/N xem_xét/V đánh_giá/V kỹ/A chức_năng/N của/E trạm/N y_tế/N xã/N trung_tâm/N y_tế/N phòng_khám/N tăng_cường/V năng_lực/N để/E sử_dụng/V triệt_để/A đề_xuất/V các/L giải_pháp/N có/V bước/N đột_phá/V
+Mục_tiêu/N cuối_cùng/A là/C nâng/V cao/A chất_lượng/N đáp_ứng/V nhu_cầu/N chăm_sóc/V sức_khỏe/N của/E nhân_dân/N
+Bộ/N Y_tế/N kiến_nghị/V Chính_phủ/N cho_phép/V được/R tiếp_tục/V thực_hiện/V chủ_trương/N xã_hội_hóa/V thực_hiện/V cơ_chế/N kết_hợp/V công/N tư/N về/E nhân_lực/N thống_nhất/V trong/E cả/P nước/N việc/N quản_lý/V theo/V ngành/N ở/E địa_phương/N
+Theo/E đó/P Sở/N Y_tế/N quản_lý/V thống_nhất/N trên/E địa_bàn/N cả/P chuyên_môn/N nhân_lực/N và/CC tài_chính/N

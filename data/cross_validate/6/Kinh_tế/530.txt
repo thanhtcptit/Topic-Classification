@@ -1,0 +1,12 @@
+Người_nhà/N Phó_chủ_tịch/N VPBank/Np đăng_ký/V mua/V gần/A 4 0/M tỷ/Nu đồng/N cổ_phiếu/N
+Ngân_hàng/N TMCP/Np Việt_Nam_Thịnh_Vượng/Np /M VPBank/Np /M vừa/R công_bố/V thông_tin/N giao_dịch/V của/E nhà_đầu_tư/N nội_bộ/N có/V liên_quan/V đến/E ông/Nc Lô_Bằng_Giang/Np Phó_chủ_tịch/N Hội_đồng_quản_trị/N ngân_hàng/N
+Theo/E đó/P ba/M nhà_đầu_tư/N có/V liên_quan/V đã/R đăng_ký/V mua/V hơn/R 110/M triệu/N cổ_phiếu/V VPBank/Np với/E mục_đích/N giao_dịch/V trong/E công_bố/V thông_tin/N là/V nhận/V chuyển/V quyền_sở_hữu/N cổ_phần/N
+Các/L giao_dịch/N cùng/A được/V thực_hiện/V trong/E thời_gian/N từ/E 7/7/M đến/E 7/8/2017/M
+Trước/E giao_dịch/N các/L nhà_đầu_tư/N này/P đều/R không/R sở_hữu/V bất_kỳ/R cổ_phiếu/N nào/P của/E VPBank/Np
+Theo/E báo_cáo/N quản_trị/V của/E VPBank/Np ông/Nc Lô_Bằng_Giang/Np hiện/N cũng/R đang/R sở_hữu/V hơn/A 1,4/M triệu/M cổ_phiếu/N của/E ngân_hàng/N tương_đương/V 0,13%/M
+Nếu/C các/L giao_dịch/N trên/E được/V thực_hiện/V thành_công/N ông/N Giang/Np và/CC người_nhà/N sẽ/R sở_hữu/V hơn/R 8,5%/M vốn/N của/E VPBank/Np  /EOS
+Thị_trường/N OTC/Np gần/A đây/P cũng/R chứng_kiến/V hàng_loạt/N thương_vụ/N giao_dịch/V cổ_phiếu/N ngân_hàng/N trị_giá/V hàng/R nghìn/M tỷ/Nu
+Ngay/T trước/E VPBank/Np cuối/N tháng/N 6/2017/M Công_ty_cổ_phần/N Him_Lam/Np đã/R chuyển_nhượng/V gần/A 97/M triệu/N cổ_phiếu/V tương_đương/V 14,98%/M vốn_điều_lệ/N của/E Ngân_hàng/N Bưu_điện/N Liên_Việt/Np /V LienVietPostBank/Np /V
+Hoạt_động/V thoái/N vốn/N của/E Him_Lam/Np được/V thực_hiện/V cùng/A thời_điểm/N nhiều/A nhân_sự/N cấp/N cao/A của/E ngân_hàng/N và/CC người/N có/V liên_quan/V liên_tục/A đăng_ký/V mua/V vào/R cổ_phiếu/N
+Cùng/A thời_gian/N đó/P Ngân_hàng/N Hàng_Hải/Np /M Maritime_Bank/Np /M cũng/R đã/R chuyển_nhượng/V hơn/R 81/M triệu/N cổ_phiếu/N MBB/Np của/E Ngân_hàng/N Quân_Đội/Np tương_đương/V 4,75%/M vốn/N cho/E Công_ty/N CP/Np Phát_triển/V Hà_Nam/Np
+Nếu/C tính/V theo/E mức/N giá/N 22 0/M đồng/Nu mỗi/L cổ_phiếu/N MBB/Np cuối/N phiên/N giao_dịch/V 29/6/M ước_tính/V Maritime_Bank/Np đã/R thu/V về/R hơn/R 1 0/M tỷ/N đồng/N

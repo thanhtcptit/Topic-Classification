@@ -1,0 +1,13 @@
+Tủ_sách/N đầu_độc/A cả/P gia_đình/N ở/V Trung_Quốc/Np
+Hai/M vợ_chồng/N cùng/A một/M cậu/N con_trai/N sống/V tại/E tỉnh/N Giang_Tô_Trung_Quốc/Np bắt_đầu/V bị/V  /V ho/V và/CC viêm/V mũi/N dị_ứng/N nặng/A từ/E cuối/N năm_ngoái/N
+Cả/P gia_đình/N đã/R tốn/V hơn/R 1/M 000/M USD/Nu đi/V khám/V khắp_nơi/N nhưng/C các/L bác_sĩ/N không/R tìm/V ra/R được/V nguyên_nhân/N chính_xác/A gây/V bệnh/N
+Sau/E khi/N tìm_hiểu/V và/CC tra_cứu/V thông_tin/N hai/M vợ_chồng/N nghi_ngờ/V không_khí/N trong/E căn_hộ/N có/V vấn_đề/N
+Họ/P đề_nghị/V nhà_chức_trách/N tiến_hành/V kiểm_tra/V và/CC rất/R bất_ngờ/A khi/N phát_hiện/V ra/V rằng/C thủ_phạm/N chính/T là/V  /N hàng/R chục/M nghìn/N cuốn/V sách/N chất/V đầy/A trong/E căn_hộ/N của/E họ/P  /V South_China_Morning_Post/Np  /V dẫn/V đài_truyền_hình/N địa_phương/N cho_biết/V hôm/N 7/7/M
+Kết_quả/N xét_nghiệm/V cho/E thấy/V hàm_lượng/N  /M formaldehyde/N trong/E căn_hộ/N vượt/V quá/R ngưỡng/N cho_phép/V thậm_chí/R còn/R gây/V nguy_hiểm/A đến/E tính_mạng/N  /M Nồng_độ/N  /V formaldehyde/N trong/E phòng/N ngủ/V là/V 0/M 1/M mgm/N vượt/V quá/R mức/N cho_phép/V  /M 0/M 08/M  /N mgm/V  /A trên/E một/M mét_vuông/Nu diện_tích/N theo/E quy_chuẩn/N của/E Bộ/N Y_tế/N Trung_Quốc/Np
+Nồng_độ/N hóa_chất/N này/P trên/E giá/N sách/N còn/V lên/V tới/V 0/M 26/M mgm/Nu
+Khí/N  /V formaldehyde/N không/R màu/N nhưng/C có/V mùi/N mạnh/A xuất_hiện/V trong/E mực/N in/V dùng/V trên/E sách_báo/N và/CC tạp_chí/N  /V Formaldehyde/Np  /V được/R sử_dụng/V rộng_rãi/A trong/E công_nghiệp/N dệt/V nhựa/N chất_dẻo/N giấy_sơn/V và/CC xây_dựng/V  /N Khí/N formaldehyde/N có_thể/A gây/V bỏng/A mũi/N bỏng/A mắt/N hệ/N hô_hấp/N gây/V hắt_hơi/N đau/V cổ/N co/V rút/V thanh_quản/N viêm/V phế_quản/N và/CC viêm/N phổi/N hoặc/CC viêm/N da/N và/CC dị_ứng/N da/N
+Theo/E Tổ/N chức/N Y_tế/N Thế_giới/N  /V hóa_chất/N này/P  /V nguy_hiểm/A nhất/R với/E con_người/N khi/N tiếp_xúc/V qua/E đường/N hô_hấp/N
+Hai/M vợ_chồng/N cho_biết/V họ/P rất/R thích/V đọc/V sách/N và/CC mỗi/M tháng/N họ/P đặt/V mua/V sách/N qua/E mạng/N 3/M 4/M lần/N
+Hiện_tại/N số/N sách/N tích_trữ/V trong/E căn_hộ/N đã/R lên/V tới/V hàng/R chục/M nghìn/N cuốn/V
+Các/L bác_sĩ/N khuyên/V gia_đình/N này/P gom/V hết/V sách/N vào/E một/M căn/Nc phòng/N và/CC cải_thiện/V hệ_thống/N thông/V gió/N
+Nhiều/A người/N dùng/V mạng/N cho/V rằng/C họ/P nên/V bán/V hết/V chỗ/N sách/N đó/P đi/V

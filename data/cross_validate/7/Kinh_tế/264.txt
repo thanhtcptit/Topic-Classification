@@ -1,0 +1,19 @@
+Hậu_Giang/Np báo_cáo/V Thủ_tướng/N vụ/N Nhà_máy/N giấy/N Trung_Quốc/Np bức_tử/V sông/N Hậu/Np 
+Báo_cáo/V của/E UBND/Np tỉnh/N Hậu_Giang/Np gửi/V Thủ_tướng/N Chính_phủ/N Báo_cáo/V do/E ông/Nc Trương_Cảnh_Tuyên/Np Phó_Chủ/Np tịch/V UBND/Np tỉnh/N Hậu_Giang/Np ký/V nêu/V Dự_án/N nhà_máy/N giấy/N Lee/Np &/CC Man/Np được/V triển_khai/V xây_dựng/V tại/E cụm/N công_nghiệp/N tập_trung/V xã/N Phú_Hữu/Np A/Np huyện/N Châu_Thành/Np tỉnh/N Hậu_Giang/Np 
+Dự_án/N đã/R được/V Bộ/N Tài_Nguyên_Môi/Np trường/N TNMT/Np tổ_chức/N thẩm_định/V báo_cáo/V đánh_giá/N tác_động/V môi_trường/N (/N ĐTM/Np vào/E ngày/N 27/7/2008/M và/CC được/V Chủ_tịch/N UBND/Np tỉnh/N phê_duyệt/V sau/E đó/P 
+Hiện_nay/N dự_án/N đã/R xây_dựng_cơ_bản/V hoàn_chỉnh/A và/CC dự_kiến/V đến/E tháng/N 8/2016/M đi/V vào/V vận_hành/V thử_nghiệm/V 
+Riêng/T về/E tiến_độ/N xây_dựng/V hệ_thống/N xử_lý/V nước_thải/N phía/N dự_án/N đã/R xây_dựng/V xong/R phần/N thô/A các/L bể/V xử_lý/V đang/R tiến_hành/V lắp_đặt/V thiết_bị/N và/CC đường_ống/N 
+Dự_kiến/V cuối/N tháng/N 7/M tới/V sẽ/R hoàn_thành/V thử_nghiệm/V 
+Báo_cáo/V cũng/R nêu/V rõ/A mặc_dù/C đã/R được/V Bộ/N TNMT/Np cấp/V giấy_phép/N xả/V thải/V vào/E nguồn/N nước/N với/E lưu_lượng/N xả/V lớn/A nhất/R 50.000/M m3/ngày/N đêm/N nhưng/C Công_ty/N TNHH/Np Giấy_Lee/Np &/CC Man_Việt_Nam/Np chỉ/R xây_dựng/V nhà_máy/N xử_lý/V nước_thải/N với/E công_suất/N 20.000/M m3/ngày/N đêm/N 
+Về/V nguyên_nhân/N giảm/V công_suất/N đối_với/E nhà_máy/N xử_lý/V nước_thải/N phía/N công_ty/N cho/V rằng/C quy_trình/N công_nghệ/N sản_xuất/V hiện_đại/A nước_thải/N phát_sinh/V ít/A hơn/R so/V với/E báo_cáo/N ĐTM/Np được/V phê_duyệt/V trước/E đó/P 
+Dự_kiến/V nhà_máy/N Lee/Np &/CC Man/Np sẽ/R chạy/V thử_nghiệm/V vào/E tháng/N 8/2016/M Đối_với/E việc/N sử_dụng/V xút/N NaOH/Np theo/V báo_cáo/V ĐTM/Np thì/C nhà_máy/N sản_xuất/V giấy/N không/R sử_dụng/V xút/N 
+Tuy_nhiên/C trong/E công_đoạn/N sản_xuất/V có/V sử_dụng/V xút/N để/E xử_lý/V nước_thải/N với/E liều_lượng/N cao/A nhất/A khoảng/N 1/M tấn/ngày/Nu 
+Phó_Chủ/Np tịch/V UBND/Np tỉnh/N Hậu_Giang/Np ông/N Trương_Cảnh_Tuyên/Np cho/V rằng/C căn_cứ/N các/L quy_định/N của/E Chính_phủ/N thời_gian/N qua/V tỉnh/N Hậu_Giang/Np đã/R yêu_cầu/V phía/N công_ty/N xử_lý/V tốt/A về/E vấn_đề/N môi_trường/N trong/E giai_đoạn/N vận_hành/V 
+Riêng/T về/E phía/N công_ty/N cũng/R có/V cam_kết/N xử_lý/V triệt_để/A các/L chất/N gây/V ô_nhiễm/V đảm_bảo/V đạt/V tiêu_chuẩn/N A/N trước/E khi/N thải/V ra/R môi_trường/N 
+Thực_hiện/V giám_sát/V quan_trắc/V nước_thải/N tự_động/A 24/24/M giờ/Nu và/CC kết_nối/V trực_tiếp/A về/E Sở/N TNMT/Np tỉnh/N Hậu_Giang/Np 
+Như_Dân/Np trí/V đã/R thông_tin/V dự_án/N được/V khởi_công/V tháng/N 8/2007/M dự_kiến/V hoàn_thành/V sau/E 14/M tháng/N 
+Tuy_nhiên/C do/E nhiều/A nguyên_nhân/N đến/E nay/P dự_án/N vẫn/R chưa/R đi/V vào/E hoạt_động/N 
+Dự_án/N gồm/V 2/M hạng_mục/N chính/T Nhà_máy/N sản_xuất/V bột_giấy/N tẩy/N trắng/A công_suất/N 330.000/M tấn/năm/N và/CC nhà_máy/N sản_xuất/V giấy/N cứng/A bao_bì/N cao_cấp/A công_suất/N 420.000/M tấn/năm/N 
+Theo/E các/L nhà_khoa_học/N công_nghiệp/N giấy/N được/V xếp/V vào/E loại/N gây/V ô_nhiễm/V hơn/A cả/T công_nghiệp/N khai_khoáng/V đặc_biệt/A là/C sử_dụng/V nhiều/A chất/N tẩy/N độc_hại/A trong/E quá_trình/N sản_xuất/V và/CC việc/N tái_chế/V giấy/N càng/R thải/V ra/R nhiều/A chất_độc/N hại/V 
+Lo_ngại/V trước/E thực_tế/N này/P Hiệp_hội/N Chế_biến/V và/CC xuất_khẩu/V thủy_sản/N Việt_Nam/Np đã/R gửi/V văn_bản/N đến/E Bộ/N NN&/Np PTNT/Np và/CC Thủ_tướng/N Chính_phủ/N 
+Phạm_Tâm/Np 

@@ -1,0 +1,42 @@
+iOS/N 11/M hé/N lộ/V các/L tính_năng/N mới/A iPhone/M 8/M
+Tại/E sự_kiện/N thường_niên/N Apple/Np WWDC/Np 2017/M diễn/V ra/R rạng/A sáng/N 66/M giờ/N Việt_Nam/Np phiên_bản/V hệ_điều_hành/N thiết_bị/N di_động/N iOS/N 11/M chính_thức/N được/V Apple/Np giới_thiệu/V với/E các/L tính_năng/N mới/A và/N thay_đổi/V
+Trong/E đó/P một_số/L hé/N lộ/V về/R thân_phận/N iPhone/N 8/M tên/N tạm/N gọi/V chưa/R chính_thức/A về/V thế_hệ/N kế_tiếp/V iPhone/M 7/M
+Điều/N đầu_tiên/A cần/V biết/V và/N không/R phải/A là/V điều/N Apple/Np công_bố/V tại/E WWDC/Np 2017/M đó/P là/V các/L ứng_dụng/N 32/M bit/N cho/V iOS/N đã/R không/R còn/V được/V xuất_hiện/V trong/E phần/N kết_quả/N tìm_kiếm/V trên/E chợ/N ứng_dụng/N Apple_App_Store/Np
+Phiên_bản/N thử_nghiệm/V iOS/N 103/M đã/R có/V cảnh_báo/V người_dùng/N khi/N họ/P mở/V một/M ứng_dụng/N trên/E nền/N 32/M bit/N cho/V biết/V ứng_dụng/N này/P cần/V được/V cập_nhật/V mới/R từ/E nhà/N phát_triển/V hoặc/N nó/P sẽ/R không/R hoạt_động/V đối_với/N iOS/N mới/A
+Apple/N đi/V bước_đi/N đầu_tiên/A để/V chuyển_đổi/V từ/E 32/M bit/N sang/V 64/M bit/N trên/N di_động/V vào/E tháng/N 92013/M với/N chip/N xử_lí/N Apple/Np A7/Np ra_mắt/V cùng/A đời/N iPhone/N 5s/N và/CC iPad/M Air/Np
+Đó/P là/V thời_điểm/N các/L ứng_dụng/N 64/M bit/N lần/N đầu_tiên/A có_mặt/V trên/N hệ_điều_hành/N di_động/N iOS/N và/CC nó/P sẽ/R là/V xu_hướng/N bắt_buộc/V trong/E thời_gian/N tới/V
+Đối_với/C các/L nhà/N phát_triển/V ứng_dụng/N Apple/Np đã/R buộc/V họ/P xây_dựng/V ứng_dụng/N của/E mình/N hoặc/N cập_nhật/V chúng/N lên/V 64/M bit/N từ/E tháng/N 62015/M
+Xem/V Chip/Np 64/M bit/N cho/V điện_thoại_thông_minh/N có/V lợi/N gì/P
+Giám_đốc/N điều_hành/V CEO/Np Apple_Tim_Cook/Np chia_sẻ/V tại/E WWDC/Np 2017/M
+iOS/N là/V hệ_điều_hành/N di_động/V cho/E iPhone/N iPad/N và/CC iPod/M Touch/Np
+Người_dùng/N không/R nên/V cài_đặt/V những/L phiên_bản/N thử_nghiệm/V vì/E chúng/N chưa/R hoàn_thiện/V còn/V nhiều/A lỗi/N phát_sinh/V ảnh_hưởng/V đến/R thiết_bị/N
+Đối_với/N iPhone/N trước/N đời/N iPhone/N 7/M hay/N 6s/M cập_nhật/N iOS/N mới/A nhất/R có_thể/R làm/V chậm/N máy/N một_số/N lỗi/N không/R tương_thích/V
+tương_tự/A những/L trường_hợp/N trước/E đây/P khi/N Apple/Np phát_hành/V iOS/N mới/A
+Một_số/N điểm/N nhấn/N của/E iOS/N 11/M được/V giới_thiệu/V tại/E Apple/Np WWDC/Np 2017/M
+AR/Np Kit/Np một/M đối_trọng/N với/E Metal/Np 2/M đưa/N thực_tế/N ảo/N VR/Np trong/E macOS/N High_Sierra/Np AR/Np Kit/Np tối_ưu/N công_nghệ/N tăng_cường/V thực_tế/N AR/Np trên/E thiết_bị/N di_động/N của/E Apple/Np gồm/V iPhone/N và/N iPad/N
+Trò_chơi/N giả/V lập/V AR/Np đã/R từng/R cho/V cả/P thế_giới/N hình_dung/V về/V mức_độ/N thú_vị/N và/CC ứng_dụng/N của/E nó/P là/V Pokémon_Go/Np sẽ/R sớm/V có/V nhiều/A đối_thủ/N
+Ứng_dụng/N nhắn_tin/V Messages/Np có/V khả_năng/N đồng_bộ/A hoá/N tin_nhắn/V qua/V iCloud/N giữa/N các/L thiết_bị/N
+Apple_Pay/Np hỗ_trợ/V P2P/N điều/N này/P đồng_nghĩa/N người_dùng/N iMessage/Np có_thể/R gửi/V tiền/N qua_lại/V cho/V nhau/N từ/E trong/N ứng_dụng/N Messages/Np
+Một/M cuộc_chiến/N mới/A với/E Facebook/Np Paypal_Google/Np và/CC Samsung/Np trên/E mặt_trận/N thanh_toán/N di_động/N
+Trợ_lí/N kĩ_thuật_số/N Siri/Np không/R nhiều/A cải_tiến/N cho/V thư_kí/N ảo/N Siri/Np ngoài/N diện_mạo/N mới/A và/CC nhiều/A giọng/N phát_âm/N tự_nhiên/A hơn/R cho/V cả/T giọng/N nam/N lẫn/N nữ/N
+Apple/N dùng/V công_nghệ/N máy/N họcsâu/V deep/N learning/V cho/R phần/N giọng/N của/E Siri/Np để/E nghe/V tự_nhiên/A hơn/R
+Siri/Np có_thể/R chuyển_ngữ/V từ/E tiếng/N Anh/Np sang/V tiếng/N Trung/Np Pháp/Np Đức/Np Ý/Np
+Nó/P hồi_đáp/V được/R nhiều/A câu/N hỏi/V cùng/A lúc/N
+Các/L nhà/N phát_triển/V bên/N thứ_ba/N có_thể/N dùng/V SiriKit/N để/E tích_hợp/V Siri/Np vào/E các/L ứng_dụng/N của/E mình/N dễ_dàng/A hơn/R
+Camera/N cập_nhật/V chuẩn/N nén/V H2/Np 65/M HEVC/Np từ/E H2/Np 64/M cho/E hình_ảnh/N và/CC video/N cải_thiện/V chế_độ/N chụp/V ảnh/N chân_dung/N Portrait_Mode/Np bằng/E việc/N hỗ_trợ/V chụp/N khi/N thiếu/V sáng/N bổ_sung/V một/M API/Np Depth/Np gia_tăng/V độ/N sâu/A hình_ảnh/N cho/E các/L lập_trình_viên/N theo/V đó/P các/L ứng_dụng/N chụp/V ảnh/N trên/N iPhone/N sẽ/R sớm/A có/V tính_năng/N gia_giảm/N này/P
+Đáng/V chú_ý/V ảnh/N chụp/V JPEG/Np bị/V thay_thế/V bằng/E dạng/N HIVC/Np mới/R
+Control_Center/Np ai/P dùng/V iPhone/N cũng/R sẽ/R thấy/V tiện/A với/E thay_đổi/N này/N của/E phần/N trung_tâm/N điều_khiển/V
+Sắp_xếp/N gọn/A hơn/R trực_quan/A hơn/R mà/C không/R cần/V lướt/V qua_lại/V giữa/E hai/M trang/N vì/E phần/N điều_khiển/V nhanh/A nhạc/N đang/R phát/V cũng/R được/V đưa/V vào/E trang/N một/M
+Màn_hình/N khoá/N Lock/Np screen/V giờ_đây/N đã/R được/V kết_hợp/V vào/V chung/V một/M màn_hình/N với/E bảng/N thông_báo/V notifications/N
+Live_Photos/Np chức_năng/N chụp/V ảnh/N động/N ngắn/A giờ_đây/N cho/V ra/V các/L ảnh/N như/C ảnh/N GIF/Np hay/R ứng_dụng/V Instagram_Boomerang/Np các/L ảnh/N động/N chuyển_động/N lặp/V lại/V liên_tục/A
+Apple_Maps/Np cải_thiện/V phần/N chỉ/R đường/N đi/V và/N tốc_độ/N giới_hạn/V của/N làn_đường/N
+Apple/N tiếp_tục/V bổ_sung/V chi_tiết/N hình_ảnh/N cho/V bản_đồ/N số/N Apple_Maps/Np với/E các/L cửa/N ra/V vào/V ở/E những/L trung_tâm/N mua_sắm/V lớn/A và/CC các/L sân_bay/N hiện/N chỉ/R có/V nội_dung/N cho/V Anh/Np quốc/V
+Lái_xe/N an_toàn/A phần/N Do/E not/N disturb/N while/N driving/N thể_hiện/V đúng/A việc/N đừng/V làm_phiền/V khi/N tôi/P đang/R lái_xe/V nó/N nhận_biết/V người_dùng/N đang/R lái_xe/V khoá/N các/L thông_báo/N hoặc/N tự_động/A phản_hồi/V
+AirPlay/N 2/M gia_tăng/N số_lượng/N phòng/N nhạc/N cho/V iOS/N tích_hợp/N Apple_Music/Np và/CC Apple/Np TV/Np
+Ứng_dụng/N Apple_Music/Np thêm/V các/L tính_năng/N chia_sẻ/V mạng_xã_hội/N và/CC cho/V phép/N điều_chỉnh/V các/L loa/N ở/V nhiều/A phòng/N
+Ứng_dụng/N Photos/Np có/V phần/N video/N chân_dung/N trong/E Kỷ_niệm/N memories/N cho/V phép/N hiệu_chỉnh/A độ/N dài/A của/E Live_Photos/Np hoặc/N thêm/V vài/L hiệu_ứng/N mới/A
+Chợ/N ứng_dụng/N Apple_App_Store/Np mới/R tối_ưu/A khả_năng/N tìm_kiếm/V với/E thiết_kế/N thẻ/N card/V và/N tab/N như/C Games/Np trò_chơi/N Today/Np hôm_nay/N
+Tính_năng/N dành/V riêng/A cho/E máy_tính_bảng/N tablet/N iPad/N ứng_dụng/N quản_lí/N tập_tin/V có/V thêm/V khả_năng/N kéo/V thả/V dragdrop/N trong/N và/CC giữa/N các/L ứng_dụng/N
+Điều/N này/P giúp/V iPad/N trở_nên/V tiện_lợi/A như/C Mac/Np
+Phần/N đế/N dock/V mới/R phần/N thay_đổi/V ứng_dụng/N mới/A và/CC bàn_phím/N ảo/N được/V cải_tiến/V
+Bản/N iOS/N 11/M hoàn_thiện/N sẽ/R ra_mắt/V cùng/A iPhone/M 8/M hoặc/N iPhone/M 7s/N tên/N gọi/V chưa/R chính_thức/A của/E thế_hệ/N kế_tiếp/V iPhone/N 7/M vào/E tháng/N 9/M

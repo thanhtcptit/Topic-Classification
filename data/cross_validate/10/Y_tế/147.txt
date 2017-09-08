@@ -1,0 +1,9 @@
+Khoanh/V vùng/N nguyên_nhân/N vụ/N tai_biến/N chạy/V thận/N ở/V Hoà_Bình/Np
+Bệnh_viện/N đa_khoa/N Hoà_Bình/Np hôm_nay/N 16/M cho/V biết/V các/L cơ_quan_chức_năng/N đều/R đã/R vào_cuộc/V để/E làm/V rõ/A nguyên_nhân/N vụ/N tai_biến/N y_khoa/N nghiêm_trọng/A làm/V 7/M người/N tử_vong/A khi/N đang/R chạy/V thận/N hôm/N 295/M
+Theo/E thông_tin/N này/P cơ_quan/N công_an/N đã/R làm_việc/V với/E các/L cán_bộ/N có/V liên_quan/V trong/E vụ_việc/N cũng/N như/C làm_việc/V với/E các/L chuyên_gia/N về/V chạy/V thận/N nhân_tạo/A trong/E đó/N có/V chuyên_gia/N của/E Bệnh_viện/N Bạch_Mai/Np Hà_Nội/Np
+Có/V các/L tình_huống/N có_thể/R dẫn/V đến/R tai_biến/A này/P như/C nguyên/N nhân_từ/N quả/N lọc/V dịch/N lọc/V
+Về/V quả/N lọc/V 13/M trong/E số/N 18/M bệnh_nhân/N đã/R dùng/V quả/N lọc/V mới/A nhưng/C cũng/R gặp/V các/L triệu_chứng/N tương_tự/A như/C tất_cả/P các/L bệnh_nhân/N trong/E ca/N là/V nôn/N tiêu_chảy/V một_số/N bị/V ngất/V
+Về/V dịch/N lọc/V lô/N dịch/N lọc/N sử_dụng/V cho/E 18/M bệnh_nhân/N này/P cũng/R đã/R được/V sử_dụng/V cho/V ca/N chạy/V trước/N đó/P
+Riêng/T nước/N sử_dụng/V để/E chạy/V thận/N thì/C theo/V hồ_sơ/N bệnh_viện/N hệ_thống/N nước/N đã/R được/V bảo_trì/V một/M ngày_trước/N khi/N xảy/V ra/R tai_biến/V khiến/V 7/M trong/E số/N 18/M bệnh_nhân/N đang/R chạy/V thận/N nhân_tạo/A tử_vong/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np một/M thành_viên/N tham_gia/V hội_đồng/N chuyên_môn/N cho/V biết/V do/C đây/P là/V vụ_việc/N phức_tạp/A nên/C hội_đồng/N sẽ/R xem_xét/V kĩ_lưỡng/V trước/E khi/N công_bố/V nguyên_nhân/N
+Theo/V dự_kiến/N khoa/N Thận/Np nhân_tạo/A Bệnh_viện/N đa_khoa/N Hoà_Bình/Np nơi/N xảy/V ra/R vụ/N tai_biến/N sẽ/R được/V khắc_phục/V và/N đi/V vào/V hoạt_động/V trở_lại/V trong/E khoảng/N 10/M ngày/N tới/V

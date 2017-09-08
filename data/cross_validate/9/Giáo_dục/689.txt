@@ -1,0 +1,11 @@
+Trường/N duy_nhất/A của/E ĐHQG_TP_HCM/Np tuyển_sinh/V bằng/E kiểm_tra/V năng_lực/N
+Ngày/N 14/4/M PGS /Np Hồ_Thanh_Phong/Np /M Hiệu_trưởng/N trường/N Đại_học/N Quốc_tế/N /N cho_biết/V từ/E kỳ/N tuyển_sinh/V năm/N nay/P trường/N chọn/V tuyển_sinh/V theo/E 4/M phương_thức/N kết_hợp/V với/E các/L chỉ_tiêu/N cụ_thể/A
+Trong/E đó/P trường/N dành/V 35%/M chỉ_tiêu/N tuyển_sinh/V bằng/E kết_quả/N kỳ/N thi/V kiểm_tra/V năng_lực/N 50%/M sử_dụng/V kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N còn/V lại/R xét/V tuyển/V thẳng/A học_sinh/N giỏi/A và/CC học_sinh/N trường/N chuyên/A năng_khiếu/N
+Thí_sinh/N dự/V kiểm_tra/V năng_lực/N thi/V 2/M môn/N bắt_buộc/V là/V Toán_học/N /V hàm_lượng/N 70%/M toán/N 30%/M logic/N /A và/CC môn/N tự/P chọn/V /Nc Lý/Np Hóa/Np Sinh/Np tiếng/N Anh/N /A
+Đề/Np thi/V bao_gồm/V kiến_thức/N của/E các/L môn_học/N trong/E chương_trình/N THPT/Np
+Tổng/N điểm/N của/E kỳ/N kiểm_tra/V năng_lực/N là/V 100/M
+Các/L câu/N trả_lời/V đúng/A được/R tính/V điểm/N các/L câu/N trả_lời/V sai/A không/R bị/V trừ/V điểm/N
+Thí_sinh/N chỉ/R cần/V vượt/V qua/R kì/N thi/V tốt_nghiệp/V THPT/Np quốc_gia/N và/CC đủ/A điểm_chuẩn/N trong/E kỳ/N thi/V kiểm_tra/V năng_lực/N sẽ/R trúng_tuyển/V vào/E trường/N mà/C không/R cần/V tham_gia/V thêm/V các/L phương_thức/N xét/V tuyển/V khác/A ông/Nc Phong/Np nói/V
+Trước/E đó/P trường/N tổ_chức/V thi/V thử/V kiểm_tra/V năng_lực/N với/E khoảng/N 1 0/M học_sinh/N 12/M tham_dự/V
+Kết_quả/N điểm/N trung_bình/A các/L bài/N kiểm_tra/V của/E mỗi/L học_sinh/N khá/R tốt/A đạt/V 60-70/M điểm/N
+Năm/N nay/P trường/N Đại_học/N Quốc_tế/N tuyển/V 1 0/M chỉ_tiêu/N các/L ngành/N đào_tạo/V do/E trường/N cấp/N bằng/A và/CC 780/M chỉ_tiêu/N đào_tạo/V liên_kết/V với/E nước_ngoài/N với/E 2/M ngành/N mới/R Ngôn_ngữ/N Anh/N và/CC Kỹ_thuật/N môi_trường/N

@@ -1,0 +1,4 @@
+​/N 4/M thí_sinh/N Thanh_Hoá/Np đạt/V 3030/M điểm/N môn/N thi/V xét/V tuyển/N ĐH/N
+Cụ_thể/N các/L thí_sinh/N đạt/V điểm/N 3030/M điểm/N là/V học_sinh/N của/E Trường/N THPT/Np Quảng_Xương/Np I/N huyện/N Quảng_Xương/Np Trường_Trường/Np THPT/Np Thiệu_Hoá/Np huyện/N Thiệu_Hoá/Np Trường/Np THPT/Np Bỉm_Sơn/Np thị_xã/N Bỉm_Sơn/Np và/CC Trường/Np THPT/Np Yên_Định/Np I/N huyện/N Yên_Định/Np
+Qua/E thống_kê/N chưa/R đầy_đủ/A đến/E sáng/N 67/M tỉnh/N Thanh_Hoá/Np có/V hơn/A 400/M điểm/N 10/M theo/N môn/N của/E các/L thí_sinh/N tham_dự/V kì/N thi/V THPT/Np quốc_gia/N năm/N 2017/M
+HÀ/M ĐỒNG/Nu

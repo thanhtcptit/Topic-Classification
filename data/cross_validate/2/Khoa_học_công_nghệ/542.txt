@@ -1,0 +1,18 @@
+﻿/N Dùng/V tia_hồng_ngoại/N xác_định/V giới_tính/N trứng/N gà/N
+Mỗi/L năm/N có/V khoảng/A 300/M triệu/M gà/N con/N đực/A bị/V giết/V ngay/R khi/N vừa/R nở/V tại/E trang_trại/N ấp/N trứng/N còn/R trên/A toàn_cầu/N ước_lượng/V khoảng/N 7/M tỷ/Nu con/N
+Đây/P được/V xem/V như/C quá_trình/N chọn_lọc/V của/E ngành/N chăn_nuôi/V ưu_tiên/V cho/E gà/N mái/N có/V khả_năng/N đẻ/V trứng/N thải_loại/A những/L con/Nc sức_khỏe/N yếu/A
+Gà/N trống/A con/N bị/V xem/V như/C vô_dụng/V vì/E không_thể/R đẻ/V trứng/N chậm/A tăng_trưởng/V không/R cho/V nhiều/A thịt/N khi/N nuôi/V trong/E môi_trường/N công_nghiệp/N
+Điều/N này/P khiến/V Matt/Np O’/Np Hayer/Np chủ/N trang_trại/N Vital_Farms/Np tại/E vùng/N Austin/Np bang/V Texas_Mỹ/Np cảm_thấy/V sốc/N vì/E ông/N đang/R xây_dựng/V mô_hình/N nuôi/V gà/N quy_mô/N lớn/A ngay/T trên/E đồng_cỏ/N giúp/V chúng/P thoải_mái/A đi/V dạo/V hưởng/V nhiều/A tiêu_chuẩn/N phúc_lợi/V
+O’/Np Hayer/Np đã/R liên_hệ/V với/E nhiều/A trại/N ấp/N trứng/N khác/A để/E tìm/V cách/N cứu/V gà/N con/N nhưng/C không/R nhận/V được/R bất_kỳ/A sự/N hưởng_ứng/V nào/P
+Vì_vậy/C ông/N chuyển/V sang/V tìm/V giải_pháp/N bằng/E nền_tảng/N công_nghệ/N
+Kết_quả/N O’/Np Hayer/Np đã/R phát_triển/V công_nghệ/N TeraEgg/Np sử_dụng/V ánh_sáng/N hồng_ngoại/N kết_hợp/V cùng/A thuật_toán/N phức_tạp/N cho_phép/V phân_tích/V các/L dấu_hiệu/N về/V giới_tính/N và/CC sinh_sản/V ngay/T từ/E giai_đoạn/N đầu/N phát_triển/V phôi/N
+Nhờ/V vậy/P các/L trang_trại/N có_thể/R loại_bỏ/V trứng/N giống/N đực/A hay/C khả_năng/N vô_sinh/V cao/A trước/E khi/N đưa/V vào/E lò/N ấp/N
+Những/L quả/Nc trứng/N này/P sẽ/R được/V đưa/V ngược/A ra/V thị_trường/N bán/V cho/E người_dân/N sử_dụng/V bình_thường/A
+Điều/N này/P mang/V đến/E nhiều/A lợi_ích/N từ/E đảm_bảo/V quyền_lợi/N cho/E động_vật/N tối_ưu_hóa/V sản_xuất/V cho_đến/E giảm_thiểu/V chất_thải/N thực_phẩm/N
+Chúng_tôi/P đang/R hợp_tác/V với/E công_ty/N công_nghệ_cao/N Novatrans/Np của/E Israel/Np thành_lập/V công_ty_con/N Ovabrite/Np để/E có_thể/R thương_mại_hóa/V TeraEgg/Np vào/E cuối/N năm/N 2017/M ông/N O’/Np Hayer/Np chia_sẻ/V
+Paul_Shapiro_Phó/Np chủ_tịch/N chính_sách/N Hội_Nhân/Np đạo/N Mỹ/Np cho/V rằng/C TeraEgg/Np là/V một/M công_nghệ/N hứa_hẹn/V giúp/V hàng/R triệu/M con/Nc vật/N tránh/V được/V số_phận/N khủng_khiếp/A
+Ông/Nc Shapiro/Np cho_biết/V thêm/V Hiệp_hội/N các/L nhà_sản_xuất/N trứng/N chiếm/V 95%/M trang_trại/N nuôi/V gà/N trên/E toàn_quốc/N đã/R quyết_định/V sẽ/R sử_dụng/V công_nghệ/N này/P khi/N nó/P hoàn_thiện/V kỹ_thuật/N và/CC khả_thi/V về/E mặt/N kinh_tế/N nhằm/V kết_thúc/V việc/N tiêu_hủy/V gà/N con/N vào/E năm/N 2020/M
+TeraEgg/Np không/R phải/V là/V công_nghệ/N duy_nhất/A được/V phát_triển/V nhằm/V ngăn_chặn/V việc/N tàn_sát/V gà/N con/N
+Đơn_cử/V như/C công_ty/N Egg_Farmers/Np of/E Ontario/Np hợp_tác/V cùng/A giáo_sư/N Michael_Ngadi/Np thuộc/V đại_học/N McGill/Np  /V University/Np nghiên_cứu/V kỹ_thuật/N xác_định/V giới_tính/N phôi/N dự_kiến/V sẽ/R ra_mắt/V vào/E cuối/N năm/N nay/P
+Chính_phủ/N Đức/Np cũng/R tài_trợ/V một/M dự_án/N nghiên_cứu/V công_nghệ/N tương_tự/A
+Hay/C một/M công_ty/N khởi_nghiệp/V ở/E Hà_Lan/Np đang/R bắt_tay/V vào/E dự_án/N In_Vovo/Np với/E tham_vọng/N nếu/C thành_công/V sẽ/R cứu/V hơn/R 3/M tỷ/Nu gà/N trống/A con/N trên/N toàn_cầu/N

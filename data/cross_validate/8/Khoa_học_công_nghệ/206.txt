@@ -1,0 +1,46 @@
+Hé/N lộ/N công_cụ/N bảo/V vệ/N Facebook/Np từ/E b/N ​/N ên/V trong/N
+Khi/N có/V tầm_vóc/N của/E một/M người/N khổng_lồ/A bạn/N nghiễm/N nhiên/N trở_thành/V mục_tiêu/N tấn_công/V của/E kẻ/N xấu/A
+Tuỳ/N theo/V hoàn/N cảnh/N điều/N này/P có_thể/A đúng/A hoặc/N không/R song/N lại/R tuyệt_đối/A đúng/A với/E Facebook/Np –/N mạng_xã_hội/N lớn/A nhất/A thế_giới/N với/E hơn/A một/M tỉ/N người_dùng/N thường/A xuyên/V và/N có/V thời_điểm/N đạt/V đến/R 1/M tỉ/N người_dùng/V trong/E một/M ngày/N tháng/N 82015/M theo/V Forbes/Np
+Nói/V vậy/P để/V thấy/V yếu_tố/N an_ninh/A và/CC bảo_mật/V được/R Facebook/Np xem/V trọng/N với/N ưu_tiên/N cao/A nhất/A đến/T mức/N nào/P
+Và/C bài/N viết/V Blog_Công_nghệ/N Nhịp_Sống_Số/Np trích/V lược/N từ/E trang/N tin_tức/N công/N nghệ/N Business_Insider/Np cho/V ta/P biết/V thêm/V về/E một/M công_cụ/N quan/N trọng/V được/R sử_dụng/V bởi/E đội_ngũ/N chịu/V trách_nhiệm/N bảo_vệ/V an_toàn/N cho/V hệ_thống/N mạng/N xã/N hội/N Facebook/Np
+Đội_ngũ/N
+chờ/V cuộc_gọi/N
+Kỹ_sư/N phần_mềm/N và/CC an_ninh/N của/E Facebook_Ted_Reed/Np cho/V biết/V mục_tiêu/N của/E công_ty/N là/V làm_sao/N để/E yếu_tố/N an_ninh/A trở_thành/V một/M phần/N trong/E dòng/N công_việc/N
+Sẽ/R thật/A lí_tưởng/A nếu/C nhà/N lập_trình/N nào/P tại/E Facebook/Np cũng/R tìm/V đến/R anh/N mỗi/M khi/N họ/N nhận/V được/R một/M lá/N thư_điện_tử/N đáng/V ngờ/V
+Nhưng/C điều/N tuyệt/A nhất/A vẫn/R cứ/R là/V làm_sao/X để/E không/R ai/P nhận/V được/R những/L lá/N thư/N như/C vậy/P
+Chúng_tôi/N nhận/V lãnh/N trọng_trách/N này/P trên/E vai/N Reed/Np nói/V
+Tại_Facebook/Np theo/V lời/N kể/V của/E Reed/Np có/V hẳn/A một/M đội/N nhóm/N bảo_mật/V với/E nhiệm_vụ/N duy/N nhất_là/N ngồi/V chờ/V một/M cuộc_gọi/N thông_báo/V phát_sinh/V vấn_đề/N
+Xem/V Facebook/Np DDos/V ư/N
+Chuyện/N nhỏ/A
+Khi/N một/M nhà/N lập_trình/N đánh_dấu/V một/M đoạn/N mã/N nào/P đó/P mà/C họ/P đang/R thực_hiện/V ở/E mức/N cần/V xem_xét/V trong/E hệ_thống/N công_cụ/N giám_sát/V dự_án/N của/E Facebook/Np một/M kĩ_sư/N an_ninh/N sẽ/R tức_tốc/V kiểm_tra/V lại/R đoạn/V mã/V ngay/R khi/N có_thể/A
+Theo/E nghĩa/N tích_cực/A hơn/R đội/N nhóm/N bảo_mật/V của/E Facebook/Np luôn/R nỗ_lực/V bảo_vệ/V cơ_sở_hạ_tầng/N trọng_yếu/A đảm_bảo/V rằng/C những/L dữ_liệu/N mà/C các/L nhà/N lập_trình/N đang/R sử_dụng/V được/R an_toàn/V tối_đa/N
+Mục_tiêu/N của/E đội/N nhóm/N này/P là/V khiến/V cho/E toàn_bộ/N công_đoạn/N bảo_vệ/N ngầm/N diễn/V ra/R mà/C các/L đồng_nghiệp/N của/E họ/P là/V các/L kĩ_sư/N lập/V trình/N không/R hay_biết/V
+Và/C vì_thế/N theo/V Reed/Np đội/N nhóm/N an_ninh/A cũng/R phải/V xây_dựng/V mối/N quan_hệ/N tốt/A với/E các/L kĩ_sư/N lập_trình/N
+Thông_thường/A một/M nhân_viên/N trong/E đội/N nhóm/N bảo_mật/V sẽ/R gia_nhập/V một/M nhóm/N phụ/N trách/N dự_án/N phần_mềm/N của/E Facebook/Np rồi/C đóng/V quân/N luôn/R tại/V đó/P
+Facebook/Np rất/R khuyến_khích/V cách/N làm_việc/V uyển_chuyển/A đa/N đội/N nhóm/N như/C thế/P này/P và/CC các/L chuyên_gia/N bảo_mật/N của/E họ/P cũng/R thế/P
+Chúng_tôi/N có/V 200/M người/N đang/R phụ_trách/V bảo_mật/V cho/V hệ_thống/N mạng/N lẫn/V các/L sản_phẩm/N và/CC thường/R tuyển_dụng/V thêm/V như/C 49/M vị_trí/N mới/A trong/E năm/N nay/N
+Và/C do/C tính/N nhất_thời/N của/E các/L kĩ_sư/N an_ninh/N mạng/N nên/V việc/N tự_động_hoá/N bảo_mật/V như/C công_cụ/N osquery/N là/V một/M phương_thức/N khai_thác/V hiệu_quả/N các/L nguồn_lực/N
+Ted_Reed/Np trả_lời/V phỏng_vấn/V Wall_Street_Journal/Np
+Điều_phối/V bằng/N phần_mềm/N
+Một_cách/N nữa/R để/E đội/V nhóm/N bảo_mật/V của/E Facebook/Np lấy_lòng/V những/L kĩ/N sư/N lập_trình/N đồng_nghiệp/N là/V tặng/V họ/N thứ/N không/R bao_giờ/P là/V đủ/A dữ_liệu/N
+Lý_do/N Reed/Np trở_thành/V người/N nổi_tiếng/A bên/N trong/N Facebook/Np đến/V từ/E việc/N anh/N lãnh_đạo/V dự_án/N phát_triển/V công_cụ/N mang/V tên/N gọi/V Osquery/Np –/V một/M phần_mềm/N thông_minh/A quét/V toàn_bộ/N các/L máy_tính/N trong/E mạng_lưới/N nội_bộ/N của/E Facebook/Np và/CC lập/V thư_mục/N cho/V mọi/N ngóc_ngách/N bên/N trong/N chúng/N từ/E thư_mục/N nào/P đang/R có/V trong/E ổ_cứng/N cho/E đến/V những/L chương_trình/N nào/P đang/R chạy/V ngầm/A
+Tất_cả/N dữ_liệu/N này/P được/V lưu/V trong/E một/M cơ_sở_dữ_liệu/N SQL/Np
+Ở/V tầng/N cơ_bản/A nhất/A Osquery/Np biết/V được/R khi/N nào/P thì/N có_điều/N gì/P đó/P lạ/A lạ/V không/R đúng/A
+Chẳng_hạn/N nếu/C một/M máy_chủ/N bên/N trong/N Facebook/Np đang/R chạy/V gấp/V 500/M lần/N khả_năng/N thông_thường/A của/E nó/P có_nghĩa/N đang/R có_điều/N bất_thường/A xảy/V ra/R
+Điều/N này/P đồng_nghĩa/V hoặc/N bạn/N viết/V sai/A đoạn/N mã/N hoặc/N ai/P đó/P đã/R làm/V thế/N Reed/Np phân_tích/V
+Chưa/R hết/V khi/N xảy/V ra/V một/M vụ/N đánh_cắp/N dữ_liệu/N lớn/A tại/E một/M doanh_nghiệp/N tầm_cỡ/N như/C Target/Np hay/N Experian/Np đội/N nhóm/N bảo_mật/V sẽ/R nghiên_cứu/V thật/R kĩ/A trường_hợp/N đó/P và/N dùng/V Osquery/Np để/E đảm_bảo/V hệ_thống/N của/E công_ty/N không/R tồn_tại/V những/L lỗ_hổng/N tương_tự/A
+Mã_nguồn/N mở/V
+Với/E một/M phần_mềm/N mạnh_mẽ/A như/C Osquery/Np việc/N giữ/V kín/N mọi/L thông_tin/N về/V nó/P sẽ/R được/V xem/V như/C lẽ/N thường/A tại/E nhiều/A doanh/N nghiệp/N nhưng/C ngạc_nhiên/V thay/V Facebook/Np thì/C không/R
+Reed/Np đã/R thuyết_phục/V được/V ban/N lãnh_đạo/V Facebook/Np công_bố/V mã_nguồn/N của/E Osquery/Np với/C thế_giới/N bên/N ngoài/N –/N đồng_nghĩa/A với/E việc/N giới/N lập_trình/N trên/N toàn/N thế_giới/N có_thể/A nhìn/V vào/R mã_nguồn/N của/E Osquery/Np và/CC đóng_góp/V ngược_lại/N cho/V chính/A phần_mềm/N này/P
+Tham_khảo/V thông_tin/N về/V dự/V án/N Osquery/Np từ/V thư_viện/N nguồn/N mở/V GitHub/N
+Giới/N lập_trình/N từ/E những/L công_ty/N Internet/Np lớn/V bắt/V đầu/N sử_dụng/V Osquery/Np và/CC đóng_góp/V những/L dữ_liệu/N của/E chính/N họ/N vào/V bên/N trong/N phần_mềm/N này/P
+Ngược_lại/N Reed/Np cùng/A đội/N nhóm/N của/E anh/N luôn/R cập_nhật/V Osquery/N thường_xuyên/A nhất/R có_thể/A như/C một_cách/N đóng_góp/V ngược_lại/N cho/E những/L người/N đang/R sử_dụng/V mã_nguồn/N của/E nó/N trên/E toàn/N thế_giới/N
+Bảo_mật/V cho/E công_cụ/N bảo_mật/V
+Câu/N hỏi/V quan_trọng/A ở/E đây/P là/V Osquery/Np đã/R bao_giờ/N bị/V tấn_công/V chưa/R
+Tôi/P không/R biết/V Reed/Np trả_lời/V
+Tôi/P chỉ/R là/V người/N xây_dựng/V nên/R công_cụ/N này/P thôi/T còn/V vấn_đề/N an_ninh/N của/E nó/P lại/R thuộc/V đội/N nhóm/N khác/A
+Mọi/L chuyện/N đều/R ổn/A
+Theo/E Reed/Np đôi_khi/N anh/N chứng_kiến/V đội/N nhóm/N bảo_mật/V của/E Facebook/Np nhận/V được/R một/M thư_điện_tử/N email/V rồi/R họ/N khẩn_trương/V chạy/V khỏi/V bàn/N làm_việc/V cá_nhân/N để/V gặp/V nhau/N trong/E một/M phòng/N họp/V lớn/A
+Nhưng/C khi/N Reed/Np nhìn/V vào/R thì/C hoá_ra/N họ/N đang/R hẹn/V nhau/N
+chơi/V game/N StarCraft/N
+Và/C khi/N Reed/Np hỏi/V chuyện/N gì/P đang/R xảy/V ra/R vậy/P họ/P chỉ/R xua/V tay/N đuổi/V anh/N đi/V bằng/E câu/N nói/V Đừng/R lo/V mọi/L chuyện/N đều/R ổn/A

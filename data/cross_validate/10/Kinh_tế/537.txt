@@ -1,0 +1,11 @@
+Xác_định/V trách_nhiệm/N xử_lý/V 12/M dự_án/N thua_lỗ/V nghìn/N tỷ/V
+Văn_phòng/N Chính_phủ/N vừa/R có/V thông_báo/N kết_luận/N của/E Phó/Z thủ_tướng/N Vương_Đình_Huệ/Np Trưởng_ban/N chỉ_đạo/V xử_lý/V các/L tồn_tại/V yếu_kém/V của/E một_số/L dự_án/N và/CC doanh_nghiệp/N chậm/A tiến_độ/N kém/A hiệu_quả/N thuộc/V ngành/N Công_Thương/Np
+Theo/E đó/P Phó/Z thủ_tướng/N yêu_cầu/V lãnh_đạo/N các/L tập_đoàn/N có/V dự_án/N thua_lỗ/V chỉ_đạo/V phân_công/V và/CC xác_định/V rõ/A trách_nhiệm/N từng/R đơn_vị/N người/N đứng/V đầu/N trong/E việc/N xử_lý/V các/L dự_án/N  /EOS
+Sau/E gần/A một/M năm_12/N dự_án/N ngành/N Công_Thương/Np được/V điểm_danh/V  /V một_số/L đơn_vị/N đã/R khẩn_trương/V khắc_phục/V thua_lỗ/V có/V chuyển_biến/V trong/E sản_xuất/N kinh_doanh/V
+Đơn_cử/V sau/E thời_gian/N cơ_cấu/N lại/R 4/M nhà_máy/N sản_xuất/V đạm/N phân_bón/N của/E Tập_đoàn/N Hoá_chất/N Việt_Nam/Np /M Vinachem/Np /M đã/R khởi_động/V lại/R sản_xuất/V hoạt_động/V được/R 70-80/M %/N công_suất/N thiết_kế/V
+Hay/C như/C Nhà_máy/N gang_thép/V Việt_Trung/Np đã/R ghi_nhận/V lãi/N 67/M tỷ/Nu đồng/N trong/E 6/M tháng/N đầu/N năm/N
+Tuy_nhiên/C vẫn/R còn/V một_số/L dự_án/N trì_trệ/A chuyển_biến/V rất/R chậm/A như/C các/L dự_án/N thuộc/V Tập_đoàn/N Dầu_khí/N Việt_Nam/Np /V PetroVietnam/Np /M gồm/V Nhà_máy/N sản_xuất/V xơ/N sợi/N Đình_Vũ/Np /V PVTex/Np /V và/CC nhà_máy/N đóng/V tàu/N Dung_Quất/Np
+Việc/N chậm_trễ/A trong/E xử_lý/V các/L dự_án/N thua_lỗ/V trực_thuộc/V cũng/R được/R Phó/Z thủ_tướng/N nêu/V phê_bình/V PetroVietnam/Np tại/E cuộc/N họp/V cách/V đây/P một/M tuần/N  /EOS
+Do_đó/C Trưởng_ban/N chỉ_đạo/V yêu_cầu/V lãnh_đạo/N PetroVietnam/Np thành_lập/V tổ/N công_tác/N phân_công/V  /M nhiệm_vụ/N cụ_thể/A và/CC đặt/V ra/R lộ_trình/N thời_hạn/N rõ_ràng/A giải_pháp/N để/E tháo_gỡ/V khó_khăn/N vướng_mắc/V cho/E số/N dự_án/N này/P
+Phó/Z thủ_tướng/N cũng/R yêu_cầu/V  /N Bộ/N Công_Thương/Np trình/V Thủ_tướng/N ban_hành/V Quyết_định/V phê_duyệt/V đề_án/N xử_lý/V 12/M dự_án/N doanh_nghiệp/N chậm/A tiến_độ/N kém/A hiệu_quả/N trước/E ngày/N 25/7/M  /EOS
+Ông/N cũng/R yêu_cầu/V Kiểm_toán/N Nhà_nước/N Bộ/N Công/N an/M Thanh_tra/N Chính_phủ/N sớm/A hoàn_thành/V việc/N kiểm_toán/V điều_tra/V thanh_tra/V tại/E 12/M dự_án/N doanh_nghiệp/N theo/V kế_hoạch/N

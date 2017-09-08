@@ -1,0 +1,13 @@
+USD/Np lên/V giá/N vàng/N cũng/R quay/V đầu/N tăng/V
+Ngày/N hôm_nay/N 276/M Ngân_hàng/N Nhà_nước/N tăng/V tỉ_giá/N trung_tâm/N thêm/V 5/M đồng/Nu lên/V mức/N 22436/M đồngUSD/N đưa/V trần/N giá/N USD/Np mà/C các/L ngân_hàng/N được/V phép/V mua_bán/V lên/V mức/N 23109/M đồngUSD/N
+Ggiá/N bán/V USD/Np tại/E các/L ngân_hàng/N tiếp_tục/V nhích/V lên/R
+Ba/M ngân_hàng/N lớn/A là/V Vietinbank/Np Vietcombank/Np và/CC ACB/Np cùng/A niêm/N yết_giá/N bán/V USD/Np ở/E mức/N 22775/M đồngUSD/N
+Trong/E khi/N đó/P Ngân_hàng/N Eximbank/Np niêm/V yết_giá/N bán/V USD/Np ở/V mức/N cao/A hơn/R 22780/M đồngUSD/N
+Giá/N mua/V USD/Np tiền_mặt/V dao/N động_từ/V 2268022705/M đồngUSD/N
+Từ/E ngày/N 196/M đến/N nay/P Sở/N Giao_dịch/N Ngân_hàng/N Nhà_nước/N vẫn/R giữa/N nguyên/A giá/N mua/V vào/R là/V 22725/M đồngUSD/N
+Mức/N giá/N mua/V USD/Np tại/E Ngân_hàng/N Nhà_nước/N hiện/N đang/R cao/A hơn/A giá/N thu_mua/N của/E các/L ngân_hàng/N thương_mại/N từ/E 25/M đến/E 45/M đồngUSD/N
+Theo/E các/L chuyên_gia/N động_thái/N này/P cho/V thấy/V Ngân_hàng/N Nhà_nước/N phát/V tín_hiệu/N về/V việc/N sẵn_sàng/V mua/V vào/R nhằm/N tăng/V dự_trữ/N ngoại_hối/N
+Trong/E một/M diễn_biến/N khác/A sau/E khi/N giảm/V mạnh/A vào/V hôm_qua/N giá/N vàng/N thế_giới/N đã/R tăng/V trở_lại/V vào/E hôm_nay/N 276/M lên/N mức/N 12512/M USDounce/N
+Quy_đổi/V theo/V tỉ_giá/N niêm_yết/N tại/E ngân_hàng/N tương_đương/V 3436/M triệu/N đồnglượng/N
+Giá/N vàng/N miếng/N SJC/Np tăng/V 30000/M đồnglượng/N lên/V mức/N 3638/M triệu/M đồnglượng/N
+So/V với/E giá/N vàng/N thế_giới/N quy_đổi/N giá/N vàng/N trong/E nước/N đang/R cao/A hơn/A 202/M triệu/N đồnglượng/N

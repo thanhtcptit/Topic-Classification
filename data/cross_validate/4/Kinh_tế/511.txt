@@ -1,0 +1,20 @@
+Lộc_Trời/Np chào/V sàn/N giá/N 55 0/M đồng/Nu một/M cổ_phiếu/N
+Sở/N Giao/V dịch/N Chứng_khoán/N Hà_Nội/Np vừa/R quyết_định/V chấp_thuận/V đăng_ký/V giao_dịch/V 67,1/M triệu/N cổ_phiếu/N của/E Tập_đoàn/N Lộc_Trời/Np trên/E UpCOM/Np với/E mã/N LTG/Np
+Giá/N tham_chiếu/A trong/E phiên/N giao_dịch/V đầu_tiên/A /M ngày/N 24/7/M /N là/V 55 0/M đồng/Nu một/M cổ_phiếu/N đưa/V vốn/N hoá/V thị_trường/N của/E doanh_nghiệp/N vào_khoảng/X 3 0/M tỷ/N đồng/N
+Tập_đoàn/N Lộc_Trời/Np tiền_thân/N là/V Công_ty_cổ_phần/N Bảo_vệ/V thực_vật/N An_Giang/Np với/E vốn/N đầu_tư/V ban_đầu/N 750/M triệu/M đồng/Nu từng/R được/V biết/V đến/R là/V doanh_nghiệp/N có/V tỷ_suất/N lợi_nhuận/N cao/A hàng_đầu/N trong/E nhóm/N ngành/N nông_nghiệp/N
+Tính_từ/N thời_điểm/N chuyển/V sang/V hoạt_động/V theo/E mô_hình/N doanh_nghiệp/N cổ_phần/N vào/E năm/N 2004/M đến/E nay/P công_ty/N trải/V qua/R 6/M lần/N tăng/V vốn_điều_lệ/N từ/E 150/M tỷ/N đồng/N lên/V hơn/R 671/M tỷ/N đồng/N
+Hiện/N nhà_đầu_tư/N trong/E nước/N nắm/V giữ/V 37,58/M triệu/N cổ_phiếu/V tương_ứng/V 55,96%/M vốn_điều_lệ/N của/E công_ty/N
+Trong/E đó/P UBND/Np tỉnh/N An_Giang/Np nắm/V giữ/V 24,15%/M
+Phần/N còn/V lại/R thuộc/V sở_hữu/V của/E 5/M quỹ/N đầu_tư/V nước_ngoài/N
+Mảng/N kinh_doanh/V chính/T đóng_góp/V khoảng/N 60%/M vào/E tổng/N doanh_thu/N của/E tập_đoàn/N là/V thuốc/N bảo_vệ/V thực_vật/N và/CC dinh_dưỡng/N cây_trồng/N
+Đây/P cũng/R là/V mảng/N kinh_doanh/V có/V biên/N lợi_nhuận/N gộp/V cao/A nhất/A trong/E năm/N 2016/M
+Hiện/N Lộc_Trời/Np nắm/V giữ/V 20%/M thị_phần/N thuốc/N bảo_vệ/V thực_vật/N nội_địa/N và/CC kế_hoạch/N tăng/V lên/R 30%/M trong/E vòng/N 5/M năm/N tới/V
+Từ/E 2010/M tập_đoàn/N dần/R hoàn_thiện/V chuỗi/Nc giá_trị/N sản_xuất/V nông_nghiệp/N từ/E khâu/N nghiên_cứu/V đến/E sản_xuất/N tiêu_thụ/V thông_qua/V việc/N mở_rộng/V sang/V lĩnh_vực/N chế_biến/V và/CC kinh_doanh/V lúa_gạo/A cà_phê/N …/A theo/E mô_hình/N liên_kết/V dọc/A
+Tuy_nhiên/C do/E sức_ép/N cạnh_tranh/V ngày_càng/R lớn/A nên/C mảng/N kinh_doanh/V này/P chưa/R mang/V lại/R kết_quả/N như/C kỳ_vọng/V khi/N mới/R có/V khả_năng/N hoà_vốn/V
+Năm/N 2016/M là/V năm/N đầu_tiên/A doanh_thu/N của/E tập_đoàn/N sụt_giảm/V sau/E 10/M năm/N liên_tiếp/A tăng_trưởng/V bình_quân/N 22,8%/M một/M năm/N
+Cụ_thể/A doanh_thu/N thuần/A về/V bán/V hàng/N đạt/V 7 3/M tỷ/N đồng/N giảm/V nhẹ/A so/V với/E năm/N trước/E
+Bù/V lại/R lợi_nhuận/N sau/E thuế/N vẫn/R duy_trì/V mức/N tăng_trưởng/V ổn_định/A hơn/R 9%/M đạt/V 348/M tỷ/N đồng/N
+Tại/E thời_điểm/N cuối/N năm/N tổng/N nợ/N phải/V trả/V của/E tập_đoàn/N là/V 3 3/M tỷ/N đồng/N trong/E đó/P nợ/N ngắn_hạn/V chiếm/V gần/A 97%/M
+Năm/N nay/P tập_đoàn/N đặt/V kế_hoạch/N doanh_thu/N tăng/V lên/R 8 7/M tỷ/N đồng/N nhờ/V đẩy_mạnh/V kinh_doanh/V tại/E thị_trường/N nội_địa/N và/CC giải_phóng/V nhanh/A hàng/N tồn_kho/N cũ/A
+Lợi_nhuận/N sau/E thuế/N dự_báo/V cũng/R tăng/V mạnh/A đến/E 32%/M đạt/V mức/N 460/M tỷ/N đồng/N
+Tính/V đến/E hết/V quý/N II/M tập_đoàn/N đã/R hoàn_thành/V gần/A 49%/M kế_hoạch/N doanh_thu/N và/CC 38%/M kế_hoạch/N lợi_nhuận/N

@@ -1,0 +1,43 @@
+Các/L địa_phương/N sẵn_sàng/A cho/E kỳ/N thi/V THPT/Np quốc_gia/N
+Hà_Nội/Np rà_soát/V kỹ/A hồ_sơ/N đăng_ký/V dự/V thi/V Là/V địa_phương/N có/V số/N thí_sinh/N dự/V thi/V THPT/Np quốc_gia/N đông/A nhất/A cả/P nước/N xấp_xỉ/A 73 0/M
+Hà_Nội/Np phối_hợp/V với/E 12/M đại_học/N tổ_chức/V thi/V
+Toàn/Np thành_phố/N có/V 112/M điểm/N thi/V với/E hơn/R 3 0/M phòng/N
+Số/N cán_bộ/N giảng_viên/N giáo_viên/N tham_gia/V coi/V thi/V hơn/R 7 0/M trong/E đó/P một_nửa/N là/V giảng_viên/N đại_học/N
+Ngoài_ra/C còn/R có/V 1 0/M nhân_viên/N an_ninh/N trật_tự/N viên/N phục_vụ/V tại/E các/L điểm/N thi/V
+Do/E lượng/N đề/N thi_trắc_nghiệm/V rất/R lớn/A /V khoảng/A 77 0/M đề/N tự/P luận/V 400 0/M đề/N thi_trắc_nghiệm/N /A Sở/N Giáo/Np dục/V đã/R thuê/V Đại_học/N Bách_khoa/N in/V sao/P đề/N thi/V
+Đến/E tối_qua/N công_tác/N in/V sao/P hoàn_tất/V sáng/N nay/P đề/V được/R chuyển/V tới/E điểm/N thi/V
+Công_tác/N đảm_bảo/V an_ninh/N cho/E kỳ/N thi/V được/V thành_phố/N đặc_biệt/A chú_trọng/V
+Phòng_An/Np ninh/V chính_trị/N nội_bộ/N Công_an/N Hà_Nội/Np đã/R phối_hợp/V với/E Hội_đồng/N tuyển_sinh/V các/L cụm/N rà_soát/A kiểm_tra/V hồ_sơ/N đăng_ký/V dự/V thi/V nhằm/V phát_hiện/V những/L biểu_hiện/N nghi_vấn/V làm/V giả/A hồ_sơ/N với/E mục_đích/N thi/V kèm/V thi/V hộ/N làm/V giả/A giấy/N chứng_nhận/V ưu_tiên/A để/E cộng/V điểm/N
+Lực_lượng/N Cảnh_sát/N cơ_động/N tiếp_tục/V được/V giao/V nhiệm_vụ/N bảo_vệ/V đề/N thi/V
+Tại/E một_số/L địa_điểm/N thi/V nằm/V gần/A khu/N dân_cư/N để/E tránh/V lộ/N đề/N lực_lượng/N an_ninh/N đã/R tham_mưu/V với/E nhà_trường/N dán/V kín/A ô/N cửa_kính/N
+Phòng_Cảnh/Np sát/A giao_thông/N đường_bộ/N đường_sắt/N cũng/R cắt_cử/V lực_lượng/N để/E đảm_bảo/V an_toàn/N giao_thông/N tại/E các/L điểm/N thi/V không/R để/V xảy_ra/V ùn_tắc/V làm/V thí_sinh/N muộn/A giờ/N  /EOS
+Đà_Nẵng/Np cấm/V xe/N ben/N ở/E tuyến/N đường/N trung_tâm/N Sáng/N 20/6/M Sở/N Giáo/Np dục/V Đà_Nẵng/Np làm_việc/V với/E các/L trưởng/N điểm/N thi/V
+Ông/Nc Nguyễn_Đình_Vĩnh/Np Giám_đốc/N Sở/N cho_biết/V đến/E nay/P công_tác/N đề/N thi/V vẫn/R đảm_bảo/V an_toàn/A những/L công_việc/N liên_quan/V đến/E kỳ/N thi/V được/V chuẩn_bị/V kỹ_lưỡng/A
+Thành_phố/N cấm/V xe/N ben/N tại/E các/L tuyến/N đường/N trung_tâm/A trong/E thời_gian/N diễn/V ra/R kỳ/N thi/V để/E đảm_bảo/V việc/N đi_lại/V cho/E học_sinh/N và/CC phụ_huynh/N
+Theo/E ông/Nc Vĩnh/Np Đà_Nẵng/Np thuận_lợi/A hơn/R nhiều/A tỉnh_thành/N vì/E số_lượng/N thí_sinh/N chỉ/R 11 0/M
+25/M điểm/N thi/V  /N hầu_hết/R nằm/V ở/E thành_phố/N thuận_tiện/V việc/N đi_lại/V
+Riêng/T 19/M thí_sinh/N Cơ_Tu/Np sẽ/R được/V bố_trí/V thi/V tại/E trường/N THPT/Np Phạm_Phú_Thứ/Np /M Hòa_Vang/Np /M điểm/N thi/V xa/A nhất/R cách/V trung_tâm/N TP/Np Đà_Nẵng/Np khoảng/A 25/M km/Nu
+Giáo_viên/N sẽ/R từ/E trung_tâm/N thành_phố/N mang/V đề/N lên/V điểm/N thi/V này/P để/E mở/V niêm_phong/N phát/V cho/E thí_sinh/N làm/V bài/N sau/E đó/P thu/V bài/N và/CC về/V lại/R ngay/T trong/E ngày/N không/R ở/V lại/R ông/N nói/V thêm/V
+Trước/E kỳ/N thi/V THPT/Np quốc_gia/N thành_phố/N đã/R tổ_chức/V thi/V thử/V để/E tổng/N rà_soát/V rút/V kinh_nghiệm/N  /EOS
+Bây_giờ/P chỉ/R còn/V lại/R nội_bộ/N các/L điểm/N thi/V
+Chúng_tôi/P lo/V một_số/L thí_sinh/N tự_do/A chỉ/R làm/V bài/N môn/N 1/M với/E môn/N 3/M trong/E bài/N thi/V tổ_hợp/N
+Việc/N phát/V đề/N cho/E đúng/A mã/N các/L bài/N thi/V phải/V hết_sức/R thận_trọng/A ông/Nc Vĩnh/Np nói/V và/CC cho_biết/V đã/R lưu_ý/V trưởng/N điểm/N thi/V phải/V bình_tĩnh/A để/E xử_lý/V tình_huống/N bất_trắc/A có_thể/R xảy_ra/V
+Nghệ_An/Np huy_động/V 2 0/M cán_bộ/N coi/V thi/V giám_sát/V Ông/N Nguyễn_Trọng_Hoàn/Np Chánh_văn_phòng/N Sở/N Giáo/Np dục/V Nghệ_An/Np cho_biết/V đến/E chiều/N 20/6/M việc/N vận_chuyển/V hơn/R 202 0/M đề/N thi/V từ/E nơi/N in/V sao/P đến/E điểm/N thi/V đã/R hoàn_tất/V đảm_bảo/V an_toàn/N tuyệt_đối/A
+Với/E hơn/A 30 0/M thí_sinh/N dự/V thi/V Sở/N Giáo/N dục/V bố_trí/V 61/M điểm/N thi/V với/E hơn/R 1 0/M phòng/N
+Hơn/A 2 0/M cán_bộ/N coi/V thi/V hơn/R 200/M cán_bộ/N giám_sát/V được/V huy_động/V
+Trong/E số/N này/P có/V khoảng/N 1 0/M giám_thị/N từ/E 9/M trường/N đại_học/N cao_đẳng/N phối_hợp/V tổ_chức/V thi/V  /M Có/V hơn/R 620/M công_an/N bảo_vệ/V tham_gia/V làm/V công_tác/N an_ninh/N cho/E kỳ/N thi/V
+Ngoài/E công_an/N có/V hơn/A 400/M cán_bộ/N nhân_viên/N y_tế/N được/V huy_động/V phục_vụ/V kỳ/N thi/V
+Sở/N Y_tế/N được/V giao/V nhiệm_vụ/N chủ_động/V nhân_lực/N vật_tư/N thiết_yếu/A và/CC cơ_số/N thuốc/N phù_hợp/V để/E đáp_ứng/V kịp_thời/A các/L yêu_cầu/N chữa_trị/V chăm_sóc/V sức_khỏe/N cho/E cán_bộ/N giáo_viên/N và/CC thí_sinh/N  /EOS
+Kinh_phí/N dự_tính/V tổ_chức/V cho/E kỳ/N thi/V năm/N nay/P tại/E Nghệ_An/Np khoảng/A 10/M tỷ/M đồng/Nu
+Thừa_Thiên_Huế/Np bố_trí/V điểm/N thi/V ở/E nơi/N giao_thông/N thuận_tiện/N  /M Chiều/N 20/6/M TS/N Phạm_Văn_Hùng/Np Giám_đốc/N Sở/N Giáo/Np dục/V Thừa_Thiên_Huế/Np cho_biết/V công_tác/V chuẩn_bị/V cho/E hơn/R 13 0/M thí_sinh/N toàn/R tỉnh/N dự/V thi/V THPT/Np quốc_gia/N đã/R cơ_bản/A hoàn_thành/V  /M Sở/N đã/R nghiên_cứu/V các/L điểm/N trường/N thuận_lợi/N không/R xảy_ra/V tình_trạng/N kẹt/V xe/N thành_lập/V 32/M điểm/N thi/V với/E hơn/R 550/M phòng/N
+Hơn/A 2 0/M cán_bộ/N coi/V thi/V bảo_vệ/V y_tế/N công_an/N được/V huy_động/V  /M Trong/E các/L khâu/N chuẩn_bị/V kỳ/N thi/V năm/N nay/P tôi/P lo/V nhất/R việc/N sao/P in/V đề/N thi/V sao/P cho/E chính_xác/A an_toàn/A không/R phai/V chữ/N
+Để/E tránh/V việc/N sai_sót/N trong/E việc/N nhân/V sao/N đề/N thi/V chúng_tôi/P đã/R cử/V 35/M cán_bộ/N phụ_trách/V 10/M chiến_sĩ/N công_an/N bảo_vệ/V vòng/N ngoài/E
+Tôi/P cũng/R mong/V thời_tiết/N thuận_lợi/A để/E các/L em/N có/V tâm_lý/N thoải_mái/A ông/Nc Hùng/Np nói/V
+Hà_Tĩnh/Np tự_tin/V kỳ/N thi/V diễn/V ra/R an_toàn/A đúng/A quy_chế/N Thầy_Nguyễn_Quốc_Anh/Np Phó_giám_đốc/N Sở/N Giáo/Np dục/V Hà_Tĩnh/Np cho_biết/V đến/E chiều_qua/N việc/N vận_chuyển/V hàng/N trăm_nghìn/N đề/N đến/V 34/M điểm/N thi/V đã/R hoàn_tất/V
+Phòng/N cất_giữ/V đề/N thi/V tại/E các/L điểm/N sẽ/R có/V 2/M cán_bộ/N công_an/N phối_hợp/V với/E trưởng/N điểm/N thi/V trông_coi/V đảm_bảo/V an_toàn/N tuyệt_đối/A
+Kỳ/N thi/V THPT/Np quốc_gia/N năm/N nay/P toàn/R tỉnh/N Hà_Tĩnh/Np có/V 16 0/M thí_sinh/N dự/V thi/V
+Khoảng/N 2 0/M cán_bộ/N giáo_viên/N được/V cử/V làm/V nhiệm_vụ/N coi/V thi/V hơn/R 400/M công_an/N 34/M bác_sĩ/N cũng/R được/V bố_trí/V hỗ_trợ/V
+Dự_kiến/V tổng/N kinh_phí/N cho/E kỳ/N thi/V THPT/Np quốc_gia/N khoảng/A 6/M tỷ/Nu đồng/N gồm/V chi_phí/N coi/V thi/V chấm/V thi/V công_tác_phí/N cho/E các/L trường/N đại_học/N tham_gia/V làm/V nhiệm_vụ/N
+Đối_với/E giáo_viên/N làm/V nhiệm_vụ/N coi/V thi/V thuộc/V biên_chế/N của/E các/L trường/N THPT/Np trên/E địa_bàn/N nhà_trường/N sẽ/R phải/V tự_túc/V kinh_phí/N
+Tới/V nay/P việc/N phối_hợp/V coi/V thi/V kế_hoạch/N chấm/V thi/N cơ_bản/A tốt/A
+Hà_Tĩnh/Np tự_tin/V kỳ/N thi/V diễn/V ra/R an_toàn/A đúng/A quy_chế/N Phó_giám_đốc/N Sở/N Giáo/Np dục/V Hà_Tĩnh/Np nói/V

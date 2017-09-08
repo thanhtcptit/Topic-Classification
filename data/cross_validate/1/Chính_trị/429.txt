@@ -1,0 +1,15 @@
+Thủ_tướng/N Làm/V nhà_ở/N xã_hội/N lợi_ích/N người_dân/N phải/V trên_hết/N 
+Thủ_tướng/N trò_chuyện/V với/E người_dân/N khu_đô_thị/N Đặng_Xá/Np 
+Sau/E khi/N tham_quan/V khu_đô_thị/N trao_đổi/V với/E người_dân/N sinh_sống/V ở/E đây/P Thủ_tướng/N bày_tỏ/V hài_lòng/V về/E công_tác/N quy_hoạch/V thiết_kế/V nhất_là/X việc/N hạ_tầng/N xã_hội/N của/E khu/N được/V đầu_tư/V đồng_bộ/A gồm/V trường_học/N nhà_trẻ/N khu/N thể_thao/N khu/N dịch_vụ/N cây_xanh/N cảnh_quan/N bãi/N đỗ/V xe/N tạo/V môi_trường/N xanh/A sạch/A nâng/V cao/A đời_sống/N của/E cư_dân/N Khu_đô_thị/N hiện/N có/V khoảng/A 10.000/M nhân_khẩu/N 
+Thủ_tướng/N đánh_giá/V cao/A sự/Nc chỉ_đạo/V của/E Bộ/N Xây/V dựng/V UBND_TP/Np 
+Hà_Nội/Np nỗ_lực/N của/E chủ/N đầu_tư/V trong/E việc/N triển_khai/V dự_án/N nhà_ở/N xã_hội/N này/P nhanh_chóng/A chất_lượng/N tốt/A giá_cả/N phù_hợp/V 
+Có/V được/R kết_quả/N này/P theo/E Thủ_tướng/N là/C do/E đặt/V lợi_ích/N của/E người_dân/N lên/E trên_hết/N chứ/C không/R phải/V lợi_nhuận/V nhưng/C vẫn/R bảo_đảm/V tính/V hiệu_quả/N 
+Thủ_tướng/N coi/V đây/P là/V mô_hình/N tốt/A có_thể/A nêu/V ra/R tại/E hội_nghị/N toàn_quốc/N về/E nhà_ở/N xã_hội/N sẽ/R được/V tổ_chức/V vào/E ngày_mai/N 7/12/M để/E từ/E mô_hình/N này/P đúc_rút/V bài_học/N kinh_nghiệm/N nhân/N rộng/A trên/E cả/P nước/N 
+Cơ_chế/N chính_sách/N dành/V nguồn_lực/N như_thế_nào/X vị_trí/N thiết_kế/V nhà_ở/N ra_sao/X tỉ_lệ/N giữa/N nhà_ở/N xã_hội/N nhà/N thương_mại/N nhà/N cho/V thuê/V bao_nhiêu/P Thủ_tướng/N đặt/V vấn_đề/N và/CC cho/V rằng/C có_thể/R tìm/V ra/R câu/N trả_lời/V từ/E những/L mô_hình/N thực_tiễn/N như/C Khu_đô_thị/N Đặng_Xá/Np này/P 
+Thủ_tướng/N hoan_nghênh/V việc/N thiết_kế/V khu_đô_thị/N nhà_ở/N xã_hội/N vẫn/R có/V đầy_đủ/A không_gian/N xanh/A công_cộng/A cho/E người_dân/N 
+Báo_cáo/V với/E Thủ_tướng/N lãnh_đạo/N Tổng_công_ty/N Viglacera/Np chủ/N đầu_tư/V Khu_đô_thị/N cho_biết/V sự/Nc hỗ_trợ/V của/E Nhà_nước/N đã/R giúp/V giảm/V giá_thành/N nhà_ở/N xã_hội/N 
+Đặc_biệt/A khi/N Chính_phủ/N dành/V gói/N hỗ_trợ/V tín_dụng/N 30.000/M tỷ/N đồng/N với/E lãi_suất/N ưu_đãi/V cho/E doanh_nghiệp/N phát_triển/V nhà_ở/N xã_hội/N và/CC người_dân/N vay/V để/E mua/V thuê/V thuê_mua/V nhà_ở/N xã_hội/N nhà_ở/N thương_mại/N giá/N thấp/A đã/R đem/V lại/R hiệu_quả/N tích_cực/A 
+Ở/E Khu_Đặng_Xá/Np giá/N bán/V là/C 9,8/M triệu/M đồng/Nu //X m2/Nu với/E tổng/N giá_trị/N căn_hộ/N từ/E 540-690/M triệu/M đồng/Nu 
+Khu_Đặng_Xá/Np 2/M cũng/R đã/R được/V triển_khai/V với/E giá/N khoảng/A 9/M triệu/M đồng/Nu //X m2/Nu 
+Hiện_nay/N Khu_đô_thị/N Đặng_Xá/Np và/CC Đặng_Xá/Np 2/M có/V tổng_số/N 3.483/M căn_hộ/N nhà_ở/N xã_hội/N 
+P/Np T/Np 

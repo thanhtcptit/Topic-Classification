@@ -1,0 +1,50 @@
+Hệ_thống/N có/V gì/N đâu/R ai/P tấn_công/V làm_gì/N
+Phần/N 02/M Hệ_thống/N của/E chúng_tôi/P có/V gì/N đâu/R ai/P tấn_công/V làm_gì/N
+Tại_sao/N các/L tổ_chức/N không/R đầu_tư/V nhiều/A hơn/R cho/V ứng_phó/N sự_cố/N để/E có_thể/R phát_hiện/V và/N ứng_phó/N nhanh/A các/L tấn_công/N nhắm/V vào/E tổ_chức/N mình/N
+Trước/E khi/N trả_lời/V câu/N hỏi/V này/P tôi/P muốn/V nói/V qua/R một_chút/N về/V góc/N nhìn/V của/E kẻ/N xâm_nhập/V để/V mọi/N người/N thấy/V sự/N cần_thiết/A của/E ứng_phó/N sự_cố/N và/CC nếu/C chúng_ta/P làm/V tốt/A công_việc/N này/P thì/C giảm_thiểu/V rất/R nhiều/A thiệt_hại/N cho/V tổ_chức/V mình/P khi/N sự_cố/N xảy/V ra/R
+Các/L công_việc/N trong/E thực_tế/N của/E kẻ/N tấn_công/V thường/N bắt_đầu/V sau/E khi/N đã/R thiết_lập/V được/R vị_trí/N của/E mình/N trên/E hệ_thống/N mục_tiêu/N
+Từ/E việc/N tìm_hiểu/V về/E môi_trường/N tiến_hành/V lây_lan/N mở_rộng/V phạm_vi/N tiếp_cận/V sang/V các/L hệ_thống/N khác/A leo_thang/V đặc_quyền/N chiếm/V quyền_hạn/A trở_thành/V người/N quản_trị/V Admin/Np và/CC đánh_cắp/V dữ_liệu/N
+Đây/P là/V công_việc/N mất/V nhiều/A thời_gian/N mới/A có_thể/V đạt/V được/R mục_đích/N đôi_khi/N tính/V bằng/E tuần/N hoặc/N thậm_chí/N hàng/N tháng/N
+Điển_hình/N như/A vụ/N chuỗi/N siêu_thị/N bán_lẻ/V Target/Np Mỹ/Np bị/V tấn_công/V bởi/E mã/N độc/A BlackPOS/N dẫn/V đến/R việc/N hơn/R 70/M triệu/N thông_tin/N tài_khoản/N người_dùng/N bị/V thất_thoát/V
+Bằng/Np cách/N sử_dụng/V kĩ_thuật/N RAM/Np scarping/V để/E phân_tích/V bộ_nhớ/N tiến_trình/N trên/N thiết_bị_đầu_cuối/N của/E hệ_thống/N thanh_toán/N bán_lẻ/V POS/Np trước/E khi/N dữ_liệu/N được/V mã_hoá/N
+Điều/N này/P cho/V phép/N kẻ/N tấn_công/V trích/V xuất/N dữ_liệu/N từ/E bộ_nhớ/N khi/N dữ_liệu/N đang/R trong/E quá_trình/N xử_lí/N của/E thiết_bị_đầu_cuối/N trước/E khi/N được/V truyền/V thông_qua/V mạng/N
+Không_chỉ/N Target/Np mà/C phần_lớn/N các/L cuộc/N tấn_công/V vào/E hệ_thống/N POS/Np đòi_hỏi/V cần/V nhiều/A thời_gian/N để/E thu_thập/V dữ_liệu/N lúc/N này/P mã/V độc/A được/V sử_dụng/V phải/V đảm_bảo/V được_việc/N cư_trú/V thời_gian/N dài/A trên/E thiết_bị_đầu_cuối/X đã/R xâm_nhập/V
+Không/R giống/A như/C đánh_cắp/N cơ_sở_dữ_liệu/X khi/N hàng/N triệu/N bản/N ghi/V được/R truy_cập/V đánh_cắp/V dữ_liệu/N trên/E hệ_thống/N POS/Np đòi_hỏi/V kẻ/N tấn_công/V phải/V chờ_đợi/V tới/V khi/N giao_dịch/V diễn/V ra/R và/N thu_thập/V dữ_liệu/N theo/V thời_gian_thực/N mỗi/L khi/N một/M thẻ_tín_dụng/N được/V sử_dụng/V
+Chính/T vì_thế/C việc/N phát_hiện/V ra/V sớm/N các/L dấu_hiệu/N của/E việc/N hệ_thống/N bị/V thoả_hiệp/V và/N ứng_phó/V một_cách/N nhanh_chóng/A và/CC chính_xác/N sẽ/R giúp/V các/L tổ_chức/N giảm_thiểu/N thiệt_hại/A và/CC các/L chi_phí/N phục_hồi/N
+Quay/V lại/R vấn_đề/N Tại_sao/N các/L tổ_chức/N không/R đầu_tư/V nhiều/A hơn/R cho/V ứng_phó/N sự_cố/N
+Với/E câu/N hỏi/V trên/E câu/N trả_lời/V tôi/N nhận/V được/R ở/V nhiều/A tổ_chức/N khá/A mơ_hồ/A kiểu/N như/A Hệ_thống/N của/E chúng_tôi/P có/V gì/N đâu/R ai/P tấn_công/V làm_gì/N hay/C Hệ_thống/N của/E chúng_tôi/P rất/R an_toàn/A được/V trang_bị/V nhiều/A thiết_bị/N bảo_mật/V hiện_đại/A nhất/A nên/N IR/Np ứng_phó/V sự_cố/N thấy/V chưa/R cần_thiết/V
+Đây/P là/V những/L suy_nghĩ/N rất/A sai_lầm/A
+Giám_đốc/N điều_hành/V CEO/Np của/E Cisco_John/Np chambers/V từng/N ví_von/N Có/V hai/M dạng/N công_ty/N một/N là/V những/L công_ty/N đã/R bị/V hack/V và/N còn/V lại/V là/V những/L công_ty/N chưa/R biết/V mình/P đã/R bị/V hack/V
+Thế/T nên/C chúng_ta/N nên/C bỏ/V suy_nghĩ/N nếu/C chúng_ta/N bị/V tấn_công/V có/V nghĩa_là/N có/V hoặc/N không/R mà/N hãy/R suy_nghĩ/V là/V khi/N nào/P thì/N điều/N đó/P diễn/V ra/R
+Lấy/V ví_dụ/N về/V cuộc_chiến/N sinh_tồn/V nơi/N hoang_dã/N chúng_ta/N thấy/V khi/N sư_tử/N săn/V mồi/N thì/C những/L con/Nc ngựa/N yếu/A nhất/A và/CC chậm/A nhất/R so/V với/E những/L con/Nc còn/V lại/V sẽ/R là/V mục_tiêu/N và/CC bị/V ăn/V thịt/N
+Trong/E an_toàn/N thông_tin/N cũng/R thế/P chừng/N nào/P mà/C hệ_thống/N của/E chúng_ta/N yếu/A hơn/R so/V với/E những/L tổ_chức/N còn/V lại/R thì/C chúng_ta/P vẫn/R là/V mục_tiêu/N ưa_thích/V
+Việc/N tấn_công/V đôi/N khi_không/N nhằm/V vào/E dữ_liệu/N hay/N tài_sản/N mà/E chúng_ta/N đang/R có/V đơn_giản/A công_việc/N đó/P chỉ/R là/V một/M thú_vui/N hay/N sử_dụng/V hệ_thống/N tấn_công/V làm/V nơi/N phát_tán/V mã/N độc/A hoặc/N sử_dụng/V những/L hệ_thống/N đó/P để/E làm/V bàn_đạp/N tấn_công/V các/L hệ_thống/N của/E những/L tổ_chức/N khác/A
+Trong/E thực_tế/N các/L khâu/N kiểm_tra/V độ/N an_toàn/A Pentest/Np và/CC Audit/Np cho/V rất/R nhiều/A cơ_quan/N doanh_nghiệp/N trong/N và/CC ngoài/N nước/N với/E hàng/R trăm/M ứng_dụng/N thiết_bị/N và/CC hệ_thống/N chúng_tôi/P đều/R phát_hiện/V ra/V lỗi/N tất_cả/N những/L lỗ_hổng/N ở/V đây/P không/R phải/A dạng/N zero/N day/V chưa/R có/V bản/N vá/V lỗi/N mà/C phần_lớn/N thuộc/V top/N 10/M OWASP/Np và/CC các/L sai_sót/N trong/E cấu_hình/N các/L thiết_bị/N một_số/N lỗi/N nghiêm_trọng/A như/C shellshock/N Jboss/Np CVE/Np 20100738/M Padding_Oracle/Np
+vẫn/R chưa/R được/V khắc_phục/V
+Những/L thiết_bị/N đình_đám/N như/C F5/Np SourceFire/V hay/N của/E nhiều/A hãng/N lớn/A khác/A
+sau/E khi/N được/V đưa/V vào/R triển_khai/V thì/C vẫn/R giữ/V nguyên/A hiện_trạng/N như/C ban_đầu/N trước/E khi/N được/V bàn_giao/V hoặc/N chỉ/R mới/R được/V tối_ưu/N không/R đáng_kể/V tất_cả/N các/L cấu_hình/N gần/A như/C được/V thiết/N lập_là/N mặc_định/N default/N
+Nhiều/A thiết_bị/N dễ_dàng/A đạt/V được/R quyền/N quản_trị/V thông_qua/N tấn_công/V từ_điển/N rà/V tự_động/N mật_khẩu/V theo/V danh_bạ/N từ/N
+Do/E đó/P tư_duy/N Hệ_thống/N chúng_tôi/N đã/R an_toàn/V vì/E chúng_tôi/P có/V những/L thiết_bị/N bảo_mật/N tuyệt_vời/A cần/V được/R thay_đổi/V
+Không/R có/V quy_trình/N công_cụ/N và/CC những/L kĩ_sư/N lành_nghề/N
+Ngoài/E hai/M câu/N trả_lời/V chủ/N quan/N trên/N thì/N vấn_đề/N tài_chính/N và/CC nhân_lực/N cũng/R là/V một/M trong/E những/L thách_thức/N lớn/A cho/E các/L tổ_chức/N khi/N duy_trì/V một/N đội_ngũ/N để/E ứng_phó/V sự_cố/N 247/M
+Xem/V An_ninh/N mạng/N tại/E VN/Np chạy/V theo/R ISO/Np thiết/V b/N ​/N ị/N
+Hiện_tại/N nhiều/A tổ_chức/N phát_hiện/V ra/V các/L sự_cố/N của/E mình/N thông_qua/V hệ_thống/N phần_mềm/N diệt/V virus/N hay/C cảnh_báo/V từ/E thiết_bị/N IDS/Np tường/N lửa/N và/CC thường/R thì/C những/L cảnh_báo/N ít/A được/V phân_tích/V chuyên_sâu/N bởi_vì/N họ/P không/R có/V một/M đội_ngũ/N kĩ_sư/N lành_nghề/N để/E đáp_ứng/V những/L yêu_cầu/N đó/P
+Thông_thường/A các/L cảnh_báo/N được/V đưa/V ra/R nhưng/C không/R đánh_giá/V hết/V được/R mức_độ/N nghiêm_trọng/A nếu_như/N sự_cố/N đó/P xảy/V ra/V
+Chưa/R nói/V đến/E việc/N rất/R rất/R nhiều/A thiết_bị/N như/C IDS/Np và/CC Firewall/Np đang/R được/V cấu_hình/V sai/N cảnh_báo/N nhầm/V dẫn/V đến/R hạn_chế/V trong/E việc/N phát_hiện/V sự_cố/N
+Bên_cạnh/V những/L thiết_bị/N bảo_mật/V các/L tổ_chức/N cũng/R phát_hiện/V sự_cố/N của/E mình/N thông_qua/V các/L báo_cáo/N của/E đội_ngũ/N đánh_giá/N bảo_mật/V ở/V công_ty/N ngoài/A khi/N họ/P phát_hiện/V có/V dấu_hiệu/N xâm_nhập/V vào/E tổ_chức/N hay/C những/L thông_báo/N từ/E kẻ/Nc tấn_công/V hoặc/N người_dùng/N cuối/A khi/N họ/P thấy/V mạng/N trong/E công_ty/N bất_thường/A
+Nhiều/A đơn_vị/N thậm_chí/N không/R phát_hiện/V rằng/E hệ_thống/N thiết_bị/N của/E mình/N đã/R và/N đang/R bị/V thâm_nhập/V
+Đã/R đến/V lúc/N chúng_ta/N đầu_tư/V nhiều/A hơn/R cho/V Ứng_phó/N sự_cố/N IR/Np Incident_Response/Np cần/V lựa_chọn/V quy_trình/N phương_pháp/N công_cụ/N kết_hợp/V với/E những/L chuyên_viên/N lành_nghề/N để/E có_thể/V xử_lí/N phản_hồi/V nhanh/A các/L cuộc/N tấn_công/V vào/E tổ_chức/N mình/N
+Để/E làm/V được/R điều/V trên/E trước_hết/N chúng_ta/N cần/V một/M đội_ngũ/N những/L kĩ_sư/N lành_nghề/V một/M quy_trình/N tốt/A để/E ứng_phó/V sự_cố/N
+Quy_trình/N này/P phải/V xuyên/V suốt/A từ/E việc/N Chuẩn_bị/V cho/E đến/V tiến_hành/N Phát_hiện/V và/CC Phân_tích/V Thực_hiện/V các/L biện_pháp/N ngăn_chặn/V loại_bỏ/N phục_hồi/N cũng/R như/A những/L hoạt_động/N cần_thiết/A sau/A sự_cố/N
+Công_việc/N cuối_cùng/A của/E quy_trình/N ứng_phó/N sự_cố/N là/V hoạt_động/N sau/A sự_cố/N
+Đây/P là/V một/M phần/N quan_trọng/A trong/E quá_trình/N xử/V lí_sự/V cố/V nhằm/V rút/V ra/V các/L bài_học/N kinh_nghiệm/N về/V toàn_bộ/N cuộc/N ứng_phó/V sự_cố/N
+Sau/E khi/N sự_cố/N đã/R xảy/V ra/R chúng_ta/N cần/V phải/V giải_quyết/V được/R các/L câu/N hỏi/V như/A Chính_xác/A điều/N gì/P đã/R xảy/V ra/R
+vào/V thời_gian/N nào/P
+Nhân_viên/N và/CC các/L quản_lí/N thực_hiện/V giải_quyết/V vụ_việc/N có/V tốt/A không/R
+Những/L điều/N gì/P mà/C nhân_viên/N và/CC các/L quản_lí/N nên/C làm/V khi/N có/V sự_cố/N xảy/V ra/R
+Làm/V thế_nào/N để/E chia_sẻ/V thông_tin/N với/E các/L tổ_chức/N khác/A
+Các/L hành_động/N để/E ngăn_chặn/V sự_cố/N tương_tự/A trong/E tương_lai/N là/V gì/P
+Các/L dấu_hiệu/N về/V sự_cố/N tương_tự/A là/V gì/P
+Những/L công_cụ/N hay/N nguồn_lực/N nào/P cần_thiết/A để/E giải_quyết/V nhanh/A sự_cố/N trong/N tương_lai/N
+Tổ_chức/N nên/C thực_hiện/V các/L buổi/N nói_chuyện/V giữa/N các/L bên/N liên_quan/V và/N rút/V ra/R các/L bài_học/N kinh_nghiệm/N cần_thiết/A để/E đảm_bảo/V sự_cố/N tương_tự/A sẽ/R không/R xảy/V ra/V
+Buổi/N nói_chuyện/V như/N thế/P này/P sẽ/R chỉ/V ra/V được/R cách_thức/V phối_hợp/V giữa/N các/L bên/N liên_quan/V khi/N có/V sự_cố/N xảy/V ra/R

@@ -1,0 +1,12 @@
+Bộ/N Chính/Np trị/V phân_công/V nhiệm_vụ/N 19/M thành_viên/N
+Ngày/N 4/2/M Tổng_bí_thư/N Nguyễn_Phú_Trọng/Np thay_mặt/V Bộ/N Chính/T trị/V ký/V quyết_định/V về/E việc/N phân_công/V Ủy_viên/N Bộ/N Chính/T trị/V Ủy_viên/N Ban/N Bí/Np thư/N khóa/N XII/Np
+Theo/E đó/P ông/N Đinh_Thế_Huynh/Np giữ/V vị_trí/N Thường_trực/V Ban/N Bí/A thư/N
+Ông/Nc Phạm_Minh_Chính/Np làm/V Trưởng_ban/N Tổ_chức/N Trung_ương/N
+Ông/Nc Võ_Văn_Thưởng/Np làm/V Trưởng_ban/N Tuyên_giáo/N bà/N Trương_Thị_Mai/Np giữ/V chức/N Trưởng_ban/N Dân_vận/N ông/N Hoàng_Trung_Hải/Np làm/V Bí_thư/N Thành_ủy/N Hà_Nội/Np ông/N Đinh_La_Thăng/Np làm/V Bí_thư/N Thành_ủy/N thành_phố/N Hồ_Chí_Minh/Np ông/Nc Nguyễn_Văn_Nên/Np giữ/V chức/N Chánh_văn_phòng/N Trung_ương/N Đảng/Np
+Bộ/N Chính/Np trị/V phân_công/V một_số/L Ủy_viên/N Bộ/N Chính/Np trị/V tham_gia/V Ban/N Bí/Np thư/N gồm/V ông/N Nguyễn_Phú_Trọng_Tổng/Np bí_thư/N ông/N Đinh_Thế_Huynh_Thường/Np trực/V Ban/N Bí/Np thư/N ông/N Trần_Quốc_Vượng_Chủ/Np nhiệm/V Ủy_ban/N Kiểm_tra/V ông/N Phạm_Minh_Chính_Trưởng/Np ban/N Tổ_chức/N Trung_ương/N ông/N Võ_Văn_Thưởng_Trưởng/Np ban/N Tuyên_giáo/N và/CC bà/N Trương_Thị_Mai_Trưởng/Np ban/N Dân_vận/N nâng/V tổng_số/N thành_viên/N Ban/N Bí/Np thư/N lên/V 9/M người/N
+Trước/E đó/P Hội_nghị/N lần/N thứ/N nhất/M Ban/N Chấp/Np hành/V Trung_ương/N khoá/N XII/Np đã/R bầu/V ba/M người/N vào/V Ban/N Bí/Np thư/N gồm/V các/L ông/N Lương_Cường_Nguyễn_Văn_Nên_Nguyễn_Hòa_Bình/Np
+Sau/E khi/N có/V phân_công/V của/E Bộ/N Chính/Np trị/V xét/V đề_nghị/N của/E Văn_phòng/N Chính_phủ/N Thủ_tướng/N Nguyễn_Tấn_Dũng/Np đã/R điều_chỉnh/V phân_công/V công_tác/V với/E một_số/L thành_viên/N Chính_phủ/N
+ /N Theo/V đó/P Phó/Z thủ_tướng/N Hoàng_Trung_Hải/Np thôi/V phụ_trách/V các/L lĩnh_vực/N công_tác/N được/V phân_công/V để/E nhận/V nhiệm_vụ/N mới/R là/V Bí_thư/N Thành_ủy/N Hà_Nội/Np
+Các/L lĩnh_vực/N công_tác/V do/E Phó/Z thủ_tướng/N Hoàng_Trung_Hải/Np phụ_trách/V trước_đây/N được/V giao/V Phó/Z thủ_tướng/N Nguyễn_Xuân_Phúc/Np tiếp_nhận/V và/CC phụ_trách/V
+ /M Bộ_trưởng/N Giao_thông/N Vận_tải/V Đinh_La_Thăng/Np giao/V lại/R việc/N điều_hành/V công_tác/N của/E Bộ/N này/P cho/E Thứ_trưởng/N Nguyễn_Hồng_Trường/Np để/E nhận/V nhiệm_vụ/N Bí_thư/N Thành_ủy/N TP_HCM/Np
+Bộ_trưởng/N Chủ_nhiệm/N Văn_phòng/N Chính_phủ/N Nguyễn_Văn_Nên/Np cũng/R giao/V việc/N phụ_trách/V điều_hành/V công_tác/N của/E Văn_phòng/N Chính_phủ/N cho/E Phó/Z chủ_nhiệm/N Nguyễn_Khắc_Định/Np để/E nhận/V nhiệm_vụ/N mới/R là/V Bí_thư/N Trung_ương/N Đảng_Chánh/Np văn_phòng/N Trung_ương/N Đảng/Np

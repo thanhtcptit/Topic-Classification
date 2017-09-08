@@ -1,0 +1,17 @@
+﻿/M Phương_pháp/N kích/V điện/N giúp/V hồi_sinh/V người/N sống/V thực_vật/N
+Tiến_sĩ/N Steven_Laureys/Np và/CC các/L cộng_sự/N tại/E Đại_học/N Liège_Bỉ/Np vừa/R thành_công/V trong/E việc/N giúp/V các/L bệnh_nhân/N hôn_mê/V sâu/A ở/E trạng_thái/N sống/V thực_vật/N có_thể/A tỉnh/N lại/R và/CC giao_tiếp/V trong/E nhiều/A ngày/N nhờ/V phương_pháp/N kích_thích/V điện/N vào/E não/N  /V theo/E  /N New_Scientist/Np
+Những/L người/N bị/V tổn_thương/V não/N nghiêm_trọng/A thường/R rơi/V vào/E trạng_thái/N hôn_mê/V
+Họ/P sẽ/R rơi/V vào/E  /N tình_trạng/N sống/V thực_vật/N  /A khi/N xuất_hiện/V dấu_hiệu/N hưng_phấn/V thần_kinh/N nhưng/C không/R có/V nhận_thức/V
+Nếu/C người_bệnh/N thể_hiện/V một_số/L biểu_hiện/N nhận_thức/V nhưng/C không_thể/R giao_tiếp/V thì/C được/V xếp/V vào/E tình_trạng/N ý_thức/V tối_thiểu/A MCS/Np
+Từ/E năm/N 2014/M tiến_sĩ/N Laureys/Np đã/R tiến_hành/V các/L thí_nghiệm/N dùng/V luồng/N điện/N nhẹ/A kích_thích/V não/N bộ/N các/L bệnh_nhân/N bị/V hôn_mê/V và/CC thu/V được/R kết_quả/N khả_quan/A khi/N  /V 13/M người_ở/N trạng_thái/N MCS/Np và/CC hai/M người/N sống/V thực_vật/N thể_hiện/V dấu_hiệu/N của/E ý_thức/N như/C cử_động/V tay/N hoặc/CC chớp_mắt/V theo/V hiệu_lệnh/N
+Hai/M người/N trong/E số/N đó/P thậm_chí/R còn/R trả_lời/V được/R các/L câu_hỏi/N trong/E 2/M giờ/Nu liền/R bằng/E cử_động/N cơ_thể/N trước/E khi/N chìm/V tiếp/V vào/V hôn_mê/V
+Nhận/V thấy/V tiềm_năng/N của/E phương_pháp/N này/P tiến_sĩ/N Laureys/Np mới_đây/X quyết_định/V thực_hiện/V thí_nghiệm/V mới/R trên/E  /N 16/M người/N bị/V tổn_thương/V não/N và/CC đã/R bị/V hôn_mê/V ít_nhất/X ba_tháng/V trước/E đó/P
+Những/L người/N tham_gia/V thử_nghiệm/V được/R kích_thích/V bằng/E dòng_điện/N xuyên/V não/N TDCS/Np  /A 20/M phút/Nu ngày/N trong/E 5/M ngày/N liên_tiếp/A
+TDCS/Np kích_thích/V thẳng/A vào/E vỏ_não/N trước/E trán/N khu_vực/N liên_quan/V tới/E các/L chức_năng/N nhận_thức/V cao_cấp/A như/C ý_thức/N
+Sau/E ngày/N thứ/N 5/M 9/M trong/E số/N 16/M người/N tham_gia/V cho/V thấy/V những/L cải_thiện/V rõ_rệt/N ý_thức/V với/E xung_quanh/N  /M Họ/P có_thể/R đáp_ứng/V mệnh_lệnh/N nhận_dạng/V vật_thể/N và/CC tự/P vận_động/V trong/E ít_nhất/A một/M tuần/N sau/E ngày/N kích_thích/V não/N cuối_cùng/A
+Hai/M trong/E số/N những/L người/N tham_gia/V thậm_chí/R còn/R có_thể/A giao_tiếp/V với/E người/N xung_quanh/N
+Họ/P không_thể/R nói/V bình_thường/A nhưng/C đủ/A khả_năng/N trả_lời/V chính_xác/A những/L câu_hỏi/N có/V không/R bằng/E cách/N cử_động/A lưỡi/N hoặc/CC chân/N
+Nhóm/N nghiên_cứu/V cho_biết/V kết_quả/N đủ/A tốt/A để/E xem_xét/V ứng_dụng/V cho/E bệnh_nhân/N điều_trị/V tại/E nhà/N
+Thiết_bị/N kích_thích/N có/V giá_thành/N tương_đối/A rẻ/A và/CC dễ/A sử_dụng/V
+Tuy_nhiên/C vẫn/R cần/V nhiều/A thử_nghiệm/V trước/E khi/N phương_pháp/N này/P được/R áp_dụng/V vào/E thực_tế/N
+Nhóm/N thử_nghiệm/V chưa/R phát_hiện/V phản_ứng/N phụ/V của/E phương_pháp/N nhưng/C tính/N an_toàn/A và/CC hiệu_quả/N của/E thiết_bị/N này/P vẫn/R cần/V kiểm_chứng/V trong/E dài_hạn/A

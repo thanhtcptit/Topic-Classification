@@ -1,0 +1,14 @@
+Người/Nc đàn_ông/N tử_vong/V sau/E khi/N uống/V cồn/N y_tế/N pha/V rượu/N
+Ca/N bệnh/N này/P được/V Bệnh_viện/N Bạch_Mai/Np báo_cáo/V Cục/N Quản/Np lý/N Dược/Np Cục/N Quản/Np lý/N khám/V chữa/V bệnh/N Bộ/N Y_tế/N ngày/N 12/7/M
+Bệnh_nhân/N được/V gia_đình/N đưa/V vào/E cấp_cứu/V tại/E Trung_tâm/N Chống/V độc/A Bệnh_viện/N Bạch_Mai/Np ngày/N 20/6/M trong/E tình_trạng/N nguy_kịch/A hôn_mê/V co_giật/V tổn_thương/V não/N sốc/N toan/V chuyển_hóa/V nặng/A
+Kết_quả/N xét_nghiệm/V máu/N cho/V thấy/V nồng_độ/N methanol/N 321,76/M mg/dL/N cao/A gấp/V 16/M lần/N mức/N cho_phép/V
+Bệnh_nhân/N tử_vong/V ngày/N 24/6/M do/E  /N ngộ_độc/V methanol/N nặng/A xuất_huyết/V não/N
+Theo/E người_nhà/N bệnh_nhân/N nghiện/V rượu/N và/CC đã/R mua/V cồn/N y_tế/N về/V để/E pha/V thành/V rượu/N uống/V
+Đây/P là/V loại/Nc cồn/N 90/M độ/N chai/N 500/M ml/N trên/E nhãn/N ghi/V ethanol/N
+Tuy_nhiên/C xét_nghiệm/V dung_dịch/N còn/V lại/R trong/E chai/N cồn/N bệnh_nhân/N đã/R dùng/V cho/E thấy/V nồng_độ/N methanol/N 88%/M không/R tìm/V thấy/V ethanol/N
+Từ/E trường_hợp/N này/P các/L bác_sĩ/N Bệnh_viện/N Bạch_Mai/Np đề_nghị/V cơ_quan_chức_năng/N kiểm_tra/V lại/R việc/N dùng/V methanol/N trong/E các/L sản_phẩm/N cồn/N sát_trùng/A và/CC có/V biện_pháp/N kiểm_soát/V thành_phần/N này/P
+Nhãn_mác/N các/L chai/N lọ/N cồn/N sát_trùng/N cần/V ghi/V rõ/A thông_tin/N về/E hàm_lượng/N ethanol/N và/CC methanol/N
+Trường_hợp/N cồn/N có/V thành_phần/N methanol/N thì/C nhãn/N cần/V phải/V ghi/V rõ/A “/N chứa/V cồn/N công_nghiệp/N methanol/N không/R được/V uống/V ”/M
+Ngoài_ra/C có_thể/R thêm/V chất_chỉ_thị/N màu/N /A khác/A với/E màu/N của/E cồn/N công_nghiệp/N /V vào/E chai/N cồn/N sát_trùng/A để/E người_dân/N không/R nhầm_lẫn/V và/CC biết/V nguy_cơ/N ngộ_độc/V
+Theo/E thạc_sĩ/N Nguyễn_Trung_Nguyên/Np Phụ_trách/V Trung_tâm/N Chống/V độc/A Bệnh_viện/N Bạch_Mai/Np tình_trạng/N ngộ_độc/V methanol/N có/V xu_hướng/N tăng/V gần/A đây/P  /M Từ/E đầu/N năm/N đến/E nay/P Trung_tâm/N tiếp_nhận/V 4/M bệnh_nhân/N ngộ_độc/V methanol/N do/E uống/V cồn/N y_tế/N trong/E đó/P một/M người/N tử_vong/A một/M bị/V di_chứng/N não/N 2/M đã/R hồi_phục/V /M  /M Ngoài/N
+nguyên_nhân/N uống/V phải/V loại/Nc rượu/N không/R rõ/A nguồn_gốc/N còn/R có/V những/L người/N uống/V cồn/N y_tế/N pha/V thay/V rượu/N do/E nghiện/V rượu/N thiếu/V rượu/N để/E uống/V hoặc/CC hiểu/V nhầm/V cồn/N y_tế/N an_toàn/A

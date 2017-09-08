@@ -1,0 +1,10 @@
+18/M điểm/N trúng_tuyển/V ngành/N Y/N đa_khoa/N Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N
+Chiều/N 13/8/M Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N Hà_Nội/Np thông_báo/V điểm/N trúng_tuyển/V
+Theo/E đó/P các/L ngành/N khối/N Kinh_tế/N Công_nghệ/N lấy/V 15/M điểm/N áp_dụng/V cho/E tất_cả/P tổ_hợp/N môn/N xét/V tuyển/V của/E trường/N
+Ngành/N Kiến/Np trúc/N Thiết/Np công_nghiệp/N Thiết_kế/V đồ_họa/N Thiết_kế/V nội_thất/N lấy/V 15/M điểm/N với/E môn/N năng_khiếu/N nhân/N hệ_số/N 2/M
+Riêng/T ngành/N Y/N đa_khoa/N và/CC Dược_học/N lấy/V 18/M điểm/N áp_dụng/V cho/E các/L tổ_hợp/N môn/N xét/V tuyển/V  /N Toán/Np Lý/Np Hóa/Np Toán/Np Hóa/Np Sinh/Np và/CC Toán/Np Lý/Np Sinh/Np  /EOS
+Hồi/N tháng/N 6/M Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N Hà_Nội/Np thông_báo/V tuyển/V 400/M sinh_viên/N hệ/N đại_học/N chính_quy/N ngành/N Y/N đa_khoa/A /A 200/M chỉ_tiêu/N /A và/CC Dược_học/N /A 200/M chỉ_tiêu/N /A  /EOS
+Ngoài_ra/C thí_sinh/N trúng_tuyển/V bằng/E hình_thức/N xét/V tuyển/V học_bạ/N có/V tổng/N điểm/N trung_bình/A chung/A cả/P năm_3/N môn/N lớp/N 12/M là/V 18/M áp_dụng/V cho/E tất_cả/P tổ_hợp/N môn/N xét/V tuyển/V vào/E các/L ngành/N
+Lý_giải/V việc/N tuyển_sinh/V năm/N 2016/M dù/E trước/N đó/P bị/V dư_luận/N phản_ứng/V ông/Nc Vũ_Văn_Hóa/Np Phó/Z hiệu_trưởng/N nhà_trường/N cho_biết/V Bộ/N Giáo/Np dục/V đã/R có/V quyết_định/N 5738/M ngày/N 19/11/2015/M về/E việc/N cho_phép/V Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N đào_tạo/V trình_độ/N đại_học/N cho/E ngành/N Y/N đa_khoa/N và/CC Dược_học/N
+Trong/E mùa/N tuyển_sinh/V năm/N 2015/M Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N Hà_Nội/Np là/V một/M trong/E số/N trường/N khó/A tuyển_sinh/V
+Ở/E đợt/N xét/V tuyển/V thứ_hai/N trường/N còn/V chỉ_tiêu/N tuyển_sinh/V cao/A nhất/A cả/P nước/N với/E hơn/A 4 0/M cho/E hệ/N đại_học/N và/CC 450/M cho/E hệ/N cao_đẳng/A

@@ -1,0 +1,9 @@
+Bắt/V 6/M đối_tượng/N trong/E đường_dây/N trộm_cắp/V tiêu_thụ/V xe_máy/N 
+Cà_Mau/Np Thông_tin/N ban_đầu/N từ/E cơ_quan_chức_năng/N qua/E thời_gian/N điều_tra/V xác_minh/V đêm/N 8/7/M Công_an/N huyện/N Trần_Văn_Thời/Np đã/R bắt/V quả_tang/R 2/M đối_tượng/N đang/R thực_hiện/V hành_vi/N trộm_cắp/V xe_máy/N và/CC thu_giữ/V 2/M chiếc/Nc xe_máy/N tang_vật/N 
+Tại/E cơ_quan/N công_an/N 2/M đối_tượng/N khai/V tên/N là/V Hồ_Kỳ_Anh/Np SN/Np 2001/M )/Nu và/CC Võ_Văn_Lâm/Np SN/Np 1993/M cùng/C ngụ/V ấp/N Rạch_Ruộng/Np B/Np xã/N Khánh_Lộc/Np huyện/N Trần_Văn_Thời/Np 
+Qua/E khai_thác/V nhanh/A 2/M đối_tượng/N trên/A rạng/A sáng/N ngày/N 9/7/M công_an/N tiếp_tục/V bắt/V thêm/R 2/M đối_tượng/N liên_quan/V là/V Dương_Công_Định/Np SN/Np 1988/M và/CC Huỳnh_Chí_Thoại/Np SN/Np 1997/M cùng/A ngụ/V xã/N Khánh_Lộc/Np 
+Tiếp/V đó/P công_an/N bắt/V 2/M đối_tượng/N tiêu_thụ/V tài_sản/N trộm_cắp/N là/V Nguyễn_Văn_Chọn/Np SN/Np 1984/M ngụ/V thị_trấn/N Sông_Đốc/Np huyện/N Trần_Văn_Thời/Np và/CC Nguyễn_Văn_Tiều/Np SN/Np 1994/M ngụ/V xã/N Khánh_Lộc/Np 
+Làm_việc/V ban_đầu/N với/E cơ_quan/N công_an/N các/L đối_tượng/N đã/R khai/V nhận/V nhóm/N của/E mình/P đã/R thực_hiện/V trên/E 10/M vụ/N trộm_cắp/V xe_máy/N trên/E địa_bàn/N huyện/N Trần_Văn_Thời/Np 
+Một/M cán_bộ/N có/V trách_nhiệm/N thông_tin/N khi/N tiến_hành/V khám_xét/V nơi/N ở/E của/E các/L đối_tượng/N lực_lượng/N làm/V nhiệm_vụ/N đã/R thu_giữ/V 11/M chiếc/Nc xe_máy/N được/V xác_định/V là/V xe/N gian/N cùng/A nhiều/A tang_vật/N liên_quan/V có/V giá_trị/N phục_vụ/V điều_tra/V 
+Hiện/N cơ_quan/N công_an/N đang/R tiếp_tục/V điều_tra/V làm/V rõ/A vụ_việc/N 
+Tuấn_Thanh/Np 

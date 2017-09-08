@@ -1,0 +1,50 @@
+Số/N thí_sinh/V sơ_tuyển/V vào/E trường/N quân_đội/N cao/A gấp/V nhiều/A lần/N chỉ_tiêu/N
+Đại_tá/N Vũ_Xuân_Tiến/Np Trưởng_ban/N thư_ký/N Ban/N tuyển_sinh/V quân_sự/N Bộ/N Quốc_Phòng/Np trả_lời/V thắc_mắc/N của/E thí_sinh/N liên_quan/V đến/E xét/V tuyển/V đại_học/N 2017/M tại/E ngày/N hội/N tư_vấn/V xét/V tuyển/V tổ_chức/V hôm/N 8/7/M ở/E Hà_Nội/Np
+Số/N hồ_sơ/N đăng_ký/V vào/E Học_viện/N Quân_y/Np Học_viện/N Kỹ_thuật/N quân_sự/N năm/N nay/P là/V bao_nhiêu/P tỷ_lệ/N chọi/V thế_nào/X
+ /M Đối_với/C Học_viện/N Quân_y/Np năm/N nay/P có/V khoảng/N 2 0/M hồ_sơ/N đăng_ký/V sơ_tuyển/A trong/E khi/N chỉ_tiêu/N là/V 238/M  /M Số/N hồ_sơ/N đăng_ký/V sơ_tuyển/V vào/E Học_viện/N Kỹ_thuật/N quân_sự/N là/V 3 0/M chỉ_tiêu/N là/V 488/M
+Như_vậy/C tỷ_lệ/N chọi/V là/V 1/7/M 5/M  /EOS
+Đây/P là/V tỷ_lệ/N chọi/V lúc/N xét/V đăng_ký/V sơ_tuyển/V
+Sau/E khi/N biết/V kết_quả/N thi/V  /V có_lẽ/R chỉ/R những/L em/N có/V điểm/N khá/R cao/A mới/R đăng_ký/V xét/V tuyển/V số/N còn/V lại/R sẽ/R điều_chỉnh/V nguyện_vọng/N tỷ_lệ/N chọi/V vì_thế/C giảm/V xuống/R
+ /N Về/V điểm/N các/L em/N có_thể/R tham_khảo/V điểm_chuẩn/N của/E các/L năm/N trước/E
+Kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N năm/N nay/P như/C các/L em/N thấy/V có/V hiện_tượng/N tăng/V nhẹ/A thì/C điểm_chuẩn/V chúng_tôi/P nghĩ/V không_thể/R thấp/A hơn/R chỉ/R bằng/E hoặc/CC cao/A hơn/A năm/N trước/E
+ /M Tỷ_lệ/N chọi/V của/E trường/N Sĩ_quan/N Lục_quân/Np 1/M Học_viện/N Hậu_cần/N năm/N nay/P thế_nào/P
+Nếu/C em/N đỗ/V trường/N Sĩ_quan/N Lục_quân/Np thì/C trường/N hay/C Bộ/N Giáo/N dục/N và/CC Đào_tạo/N sẽ/R phân_khoa/V
+Năm/N nay/P trường/N Sĩ_quan/N Lục_quân/Np 1/M có/V 3 4/M hồ_sơ/N đăng_ký/V sơ_tuyển/N chỉ_tiêu/N là/V 686/M
+Nếu/C trúng_tuyển/V vào/E trường/N Sĩ_quan/N Lục_quân/Np 1/M sau/E 6/M tháng/N học/V học_viên/N sẽ/R được/V phân_khoa/V
+Trường/N có/V một_số/L khoa/N như/C bộ_binh/N trinh_sát/N đặc_nhiệm/A trinh_sát/V cơ_giới/N
+Học_viện/N học/V khoa/N nào/P sẽ/R do/E nhà_trường/N phân/N căn_cứ/N vào/V điểm/N thi/V và/CC kết_quả/N học_tập/V học_kỳ/N 1/M
+Học_viện/N Hậu_cần/N năm/N nay/P có/V 2 0/M hồ_sơ/N đăng_ký/V sơ_tuyển/V trường/N nhận/V /N chưa/R tính/V tuyển/V thẳng/A /A là/V 484/M chỉ_tiêu/N
+Khối/N A/Np và/CC khối/N A1/Np lấy/V chung/A một/M mức/N điểm/N
+Mỗi/M năm/N các/L trường/N quân_đội/N tuyển_chọn/V khoảng/N 50/M sinh_viên/N tham_gia/V học/V ngành/N công_an/N
+Vậy/P tiêu_chí/N được/V đăng_ký/V học/V ngành/N công_an/N như_thế_nào/X
+Các/L trường/N quân_đội/N chúng_tôi/P hàng/R năm/M có/V khoảng/N 200/M chỉ_tiêu/N sinh_viên/N cử/V đi/V học/V nước_ngoài/N như/C Austrailia/Np Nga/Np Séc/Np Nhật_Bản/Np những/L nước/N có/V nền/N quân_sự/N tốt/A
+Đồng_thời/R chúng_tôi/P cũng/R tuyển_chọn/V gửi/V sinh_viên/N tới/E một_số/L trường/N dân_sự/N mà/C trường/N quân_đội/N không/R đào_tạo/V được/R như/C một_số/L ngành/N trong/E các/L đại_học/N Xây_dựng/V Khoa_học/N Xã_hội/N và/CC Nhân_văn/N Ngoại_thương/N Ngân_hàng/N hoặc/CC một_số/L trường/N thuộc/V Bộ/N Công/Np an/M như/C Học_viên/N An_ninh/N Học_viện/N Cảnh_sát/N …/A Chúng_tôi/P đã/R công_bố/V chỉ_tiêu/N này/P trên/E cổng/N thông_tin/N điện_tử/N của/E Bộ/N Quốc/Np phòng/V
+Chỉ_tiêu/N này/P được/V giao/V cho/E từng/P nhà_trường/N
+Ví_dụ/V em/N muốn/V học_tập/V ở/E ngành/N Công_an/N thì_phải/V học/V trường/N Sĩ_quan/N Lục_quân/Np 1/M
+Đến/E khi/N nhập_học/V trường/N sẽ/R căn_cứ/V vào/E điểm_chuẩn/N của/E các/L trường/N định/V gửi/V đến/E học_tập/V để/E lựa_chọn/V và/CC các/L em/N phải/V đăng_ký/V thì/C nhà_trường/N mới/R cử/V đi/V
+Trường_hợp/N thiếu/V chỉ_tiêu/N trường/N mới/R tính/V đến/E việc/N vận_động/V sinh_viên/N
+Nếu/C em/N có/V nguyện_vọng/N sang/V công_tác/N ngành/N công_an/N có/V được/R không/R
+Tất_nhiên/A là/V không/R
+Nếu/C em/N đã/R là/V người/N của/E quân_đội/N gửi/V đi/V do/E hợp_tác/V đào_tạo/V giữa/N Bộ/N Công/N an/M và/CC Bộ/N Quốc/Np phòng/N sau/E khi/N học/V xong/R em/N sẽ/R quay/V về/R Bộ/N Quốc/Np phòng/V và/CC được/V Bộ/N Quốc/Np phòng/N phong/V quân_hàm/N sĩ_quan/N Quân_đội/N nhân_dân/N Việt_Nam/Np và/CC công_tác/N trong/E quân_đội/N
+Em/N đăng_ký/V sơ_tuyển/V vào/E các/L trường/N quân_đội/N quy_trình/N xét/V tuyển/V sẽ/R thế_nào/X
+Thí_sinh/Np đã/R đăng_ký/V sơ_tuyển/V vào/E trường/N nào/P thì/C bây_giờ/P đăng_ký/V xét/V tuyển/V vào/E trường/N đó/P
+Các/L em/N không/R được/V đổi/V trường/N đổi/V ngành/N xét/V tuyển/V
+Ví_dụ/V em/N đăng_ký/V vào/E trường/N Sĩ_quan/N Lục_quân/Np thì/C sẽ/R phải/V xét/V tuyển/V vào/E trường/N đó/P
+Nếu/C em/N muốn/V chuyển/V nguyện_vọng/N xét/V tuyển/V từ_trường/N Tăng/Np thiết_giáp/N sang/V trường/N Sĩ_quan/N Lục_quân/Np thì/C không/R được/V
+Vì/E đăng_ký/V sơ_tuyển/V ở/E mỗi/L trường/N là/V khác_nhau/A
+Chúng_tôi/P đã/R công_bố/V ngay/T từ/E đầu/N trên/E phương_tiện/N truyền_thông/N là/V thí_sinh/N sẽ/R đăng_ký/V xét/V tuyển/V đúng/A với/E những/L ngành/N mình/P đã/R sơ_tuyển/V
+ /M Em/N đăng_ký/V nguyện_vọng/N 1/M vào/E trường/N quân_đội/N khối/N A01/Np nhưng/C em/N còn/R đăng_ký/V nguyện_vọng/N 2/M vào/E trường/N khác/A thì/C điểm/N của/E em/N sẽ/R được/V xét/V như_thế_nào/X
+Hệ/N quân_sự/N em/N chỉ/R được/V đăng_ký/V một/M nguyện_vọng/N với/E một/M tổ_hợp/N xét/V tuyển/V
+Năm/N 2017/M phần/N đăng_ký/V xét/V tuyển/V xảy_ra/V một_số/L điều/N cần/V lưu_ý/V
+Thứ/N nhất/A có/V rất/R nhiều/A em/N không/R đăng_ký/V sơ_tuyển/V vào/E trường/N quân_đội/N nhưng/C lại/R đăng_ký/V xét/V tuyển/V vào/E hệ/N quân_sự/N của/E trường/N quân_đội/N
+Như_vậy/C các/L trường/N không/R chấp_nhận/V nguyện_vọng/N này/P và/CC các/L em/N không/R được/V xét/V tuyển/V  /EOS
+Thứ_hai/N có/V một_số/L em/N đã/R đăng_ký/V sơ_tuyển/V vào/E trường/N quân_đội/N nhưng/C lại/R không/R đăng_ký/V xét/V tuyển/V
+Trường_hợp/N này/P cũng/R không/R được/V chấp_nhận/V vì/E đăng_ký/V sơ_tuyển/N mới/R là/V sơ_tuyển/V về/E tiêu_chuẩn/N sức_khoẻ/N phẩm_chất/N chính_trị/N …/M Muốn/V được/V vào/V trường/N các/L em/N phải/V đăng_ký/V xét/V tuyển/V như/C Bộ/N Giáo/N dục/N và/CC Đào_tạo/N quy_định/N là/V nguyện_vọng/N 1/M  /M Thứ_ba/N một_số/L em/N đăng_ký/V sơ_tuyển/A nhưng/C lại/R đăng_ký/V xét/V tuyển/V nguyện_vọng/N 2/M 3/M
+Chúng_tôi/P đề_nghị/V các/L em/N điều_chỉnh/V về/E nguyện_vọng/N 1/M nếu/C để/E nguyện_vọng/N 2/M 3/M thì/C các/L trường/N sẽ/R không/R chấp_nhận/V đơn/N xét/V tuyển/V
+Em/N muốn/V tìm_hiểu/V môi_trường/N quân_đội/N để/E đăng_ký/V xét/V tuyển/V đặc_biệt/A đối_với/E bác_sĩ/N quân_y/N Khi/N trúng_tuyển/V các/L em/N sẽ/R nhận/V được/R giấy/N nhập_ngũ/V của/E quân_đội/N và/CC được/V quân_đội/N đảm_bảo/V ăn/V ngủ/V nghỉ/V quá_trình/N học_tập/V
+Bác_sĩ/N quân_y/N phải/V học_tập/V 6/M năm/N rưỡi/M và/CC được/V bảo_đảm/V toàn_bộ/L phần/N nuôi_dưỡng/V cũng_như/C học_tập/V
+Sinh_viên/N không/R phải/V đóng_góp/V thêm/V bất_cứ/R kinh_phí/N gì/P
+Mỗi/L năm/N các/L em/N sẽ/R được/V nghỉ/V Tết/N và/CC nghỉ_phép/V /N nghỉ/V chính_thức/A /M
+Khi/N ra/V trường/N các/L em/N sẽ/R được/V phong/V quân_hàm/N sĩ_quan/N
+Bộ/N Quốc_Phòng/Np sẽ/R điều_động/V các/L em/N về/V công_tác/V tại/E những/L cơ_sở/N quân_y/N trên/E cả/P nước/N
+Theo/E luật/N Sĩ_quan/N quân_đội/N nhân_dân/N Việt_Nam/Np các/L em/N học/V xong/V ra/R trường/N được/V phong/V quân_hàm/N thiếu_úy/N nếu/C học/V khá/R được/V khen_thưởng/V hay_là/C Đảng_viên/N hoàn_thành/V tốt/A nhiệm_vụ/N thì/C được/R phong/V quân_hàm/N trung_úy/N có/V trường_hợp/N được/V phong/V thượng_úy/N

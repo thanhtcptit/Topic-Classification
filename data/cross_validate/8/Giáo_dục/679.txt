@@ -1,0 +1,19 @@
+Điểm_sàn/V đại_học/N là/V 15,5/M cho/E tất_cả/P khối/N
+10h/M ngày/N 12/7/M kết_thúc/V cuộc/N họp/V của/E Hội_đồng/N điểm_sàn/N Bộ/N Giáo/N dục/N và/CC Đào_tạo/N đã/R họp_báo/V công_bố/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N /M điểm_sàn/N /V
+Thứ_trưởng/N Bùi_Văn_Ga/Np thông_báo/V điểm_sàn/N xét/V tuyển/V đại_học/N năm/N 2017/M là/V 15,5/M ở/E tất_cả/P khối/N cao/A hơn/R 2/M năm/N trước/E 0,5/M và/CC cao/A nhất/A kể/V từ/E khi/N thực_hiện/V thi/V 3/M chung/A /V chung/A đề/N chung/V đợt/N và/CC chung/V kết_quả/N thi/V /V tới/E nay/P
+Điểm_sàn/N là/V tổng/N điểm/N 3/M môn/N mỗi/L khối/N thi/V chưa/R nhân/V hệ_số/N chưa/R ưu_tiên/V được/V xác_định/V dựa/V trên/E phổ/N điểm/N của/E thí_sinh/N chỉ_tiêu/N tuyển_sinh/V đặc_điểm/N vùng_miền/N  /M Thí_sinh/N có/V điểm/N các/L khối/N thi/V từ/E 15,5/M trở_lên/A có_thể/R tham_gia/V xét/V tuyển/V vào/E 140/M trường/N sử_dụng/V kết_quả/N thi/V THPT/Np quốc_gia/N và/CC 182/M trường/N vừa/R sử_dụng/V kết_quả/N thi/V THPT/Np quốc_gia/N vừa/R áp_dụng/V phương_thức/N khác/A  /EOS
+Theo/E thống_kê/V của/E Bộ/N Giáo/N dục/V với/E mức/N điểm_sàn/N 15,5/M có/V trên/N 535 0/M thí_sinh/N đủ/A tiêu_chuẩn/N xét/V tuyển/V đại_học/N gấp/V 1,61/M lần/N chỉ_tiêu/N tuyển_sinh/V
+Khoảng/N 100 0/M em/N dưới/E điểm_sàn/N sẽ/R không/R đủ/A điều_kiện/N xét/V tuyển/V vào/E các/L đại_học/N sử_dụng/V kết_quả/N thi/V THPT/Np quốc_gia/N
+Trong/E đợt/N xét/V tuyển/V đầu_tiên/A có/V 85/M trường/N đạt/V chỉ_tiêu/N 100%/M 66/M trường/N đạt/V 80/M 99%/M và/CC 83/M trường/N đạt/V 40-79/M %/N  /A Tuy/C
+nhiên/N theo/E Thứ_trưởng/N Ga/Np hệ_số/N dôi_dư/N 1,61/M không/R có_nghĩa/V các/L trường/N tuyển/V đủ/A chỉ_tiêu/N do/E thí_sinh/N trúng_tuyển/V nhưng/C không/R nhập_học/V có/V điểm_cao/N nhưng/C không/R trúng/V vào/E ngành/N //X trường/N yêu_thích/V nên/C không/R xét/V tuyển/V hoặc/CC nhiều/A trường/N //X ngành/N có/V số/N thí_sinh/N đăng_ký/V thấp/A so/V với/E chỉ_tiêu/N
+Kết_thúc/V xét/V tuyển/V đợt/N 1/M /M ngày/N 1/8/M /N các/L trường/N còn/R thiếu/A chỉ_tiêu/N tiếp_tục/V xét/V đợt/N bổ_sung/V
+Thí_sinh/N dưới/E điểm_sàn/N có_thể/R xét/V tuyển/V bằng/E học_bạ/N hoặc/CC dự/V kỳ/N thi/V riêng/A do/E trường/N đại_học/N tổ_chức/V
+Theo/E quy_định/N các/L trường/N có_thể/R tuyển_sinh/V nhiều/A đợt/N trong/E năm/N theo/V đề_án/N đã/R công_bố/V  /EOS
+Kỳ/N thi/V 2017/M cả/P nước/N có/V hơn/A 865 0/M thí_sinh/N /V giảm/V hơn/R 27 0/M so/V với/E năm/N trước/E /N dự/V thi/V THPT/Np quốc_gia/N để/E xét/V tốt_nghiệp/V và/CC xét/V tuyển/V đại_học/N cao_đẳng/N sư_phạm/V
+Hơn/A 643 0/M /Nu 75%/M /N thí_sinh/N thi/V để/E lấy/V kết_quả/N xét/V tuyển/V đại_học/N
+Trong/E khi/N đó/P chỉ_tiêu/N của/E các/L trường/N đại_học/N cao_đẳng/N sư_phạm/V cả/P nước/N là/V hơn/A 392 0/M /Nu giảm/V 30 0/M so/V với/E năm/N trước/A /M
+Với/E hình_thức/N thi_trắc_nghiệm/V /N trừ/V Ngữ_văn/N /A đề/N chỉ/R tập_trung/V vào/E chương_trình/N lớp/N 12/M nên/C phổ/V điểm/N 9/M môn/N thi/V năm/N nay/P cao/A hơn/R trước/E
+Cả/P nước/N có/V  /A hơn/R 4 0/M điểm/N 10/M các/L môn/N cao/A gấp/V gần/A 60/M lần/N
+Vì_thế/C điểm_sàn/N 15,5/M tăng/V 0,5/M so/V với/E 2/M năm/N trước/N được/V cho/V là/V phù_hợp/V
+2017/M  /N sẽ/R là/V năm/N cuối_cùng/A Bộ/N đưa/V ra/R điểm_sàn/V chung/A cho/E các/L trường/N
+Từ/E năm/N 2018/M các/L đại_học/N tự/P quyết_định/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N của/E mình/P

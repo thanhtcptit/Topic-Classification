@@ -1,0 +1,11 @@
+Thiếu/V ngủ/V có_thể/R khiến/V não/N M tự/P ăn/V N
+Theo/E Telegraph/Np công_trình/N trên/N được/V đăng_tải/V trên/E tờ/N Journal/Np of/E Neuroscience/Np xoay/V quanh/N hai/M loại/N tế_bào/N thần_kinh/N là/V tế_bào/N sao/N và/CC tế_bào/N vi/N đệm/V thần_kinh/N  /EOS
+Tế_bào/N sao/P loại_bỏ/V các/L khớp/N thần_kinh/N /M synapses/N /N hỏng_hóc/A không/R cần_thiết/A còn/C tế_bào/N vi/N đệm/V thần_kinh/N thực_hiện/V nhiệm_vụ/N này/P đối_với/E các/L tế_bào/N hư/V tổn/N
+Cả/P tế_bào/N sao/P lẫn/C tế_bào/N vi/N đệm/V thần_kinh/N đều/R hoạt_động/V trong/E giấc_ngủ/N đóng/V vai_trò/N then_chốt/V trong/E việc/N sửa_chữa/V não/N lúc/N cuối/A ngày/N
+Ở/E chuột/N thiếu/V ngủ/V các/L nhà_khoa_học/N phát_hiện/V tế_bào/N sao/P tăng/V gấp/V đôi/M hoạt_động/N
+Lần/N đầu_tiên/A chúng_tôi/P chứng_kiến/V các/L phần/N của/E khớp/N thần_kinh/N bị/V tế_bào/N sao/P ăn/V mất/V theo/V đúng/A nghĩa_đen/N nhà_nghiên_cứu/N Michele_Bellesi/Np thuộc/V nhóm/N tác_giả/N cho_biết/V
+Hiện_tượng/N này/P chưa/R hẳn/R mang/V ý_nghĩa/N tiêu_cực/A bởi/E chủ_yếu/A các/L tế_bào/N sao/P vẫn/R chỉ/R tác_động/V lên/R các/L khớp/N thần_kinh/N hay/C sử_dụng/V nhất/R
+Chúng/P giống/A như/C món/N đồ/N cũ/A cần/V được/V chú_ý/V và/CC làm/V sạch/A nhiều/A hơn/A Bellesi/Np giải_thích/V
+Tuy_nhiên/C nó/P có_thể/R thúc_đẩy/V hoạt_động/N của/E tế_bào/N vi/N đệm/V thần_kinh/N vốn/N bị/V cho/V là/V liên_quan/V đến/E bệnh/N Alzheimer/Np
+Hiện/N các/L nhà_khoa_học/N chưa_thể/R kết_luận/V não/N người/N thiếu/A ngủ/V cũng/R rơi/V vào/E tình_trạng/N tương_tự/A não/N chuột/N thiếu/V ngủ/V hay/C chỉ/R cần/V nghỉ_ngơi/V tốt/A là/C có_thể/A đảo_ngược/V hệ_quả/N
+Trong/E thời_gian/N tới/V nhóm/V tác_giả/N sẽ/R tiếp_tục/V nghiên_cứu/V để/E đưa/V ra/R kết_luận/N

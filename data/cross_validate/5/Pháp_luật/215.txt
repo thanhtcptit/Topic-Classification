@@ -1,0 +1,26 @@
+Để/V lộ/V người/N tố_cáo/V chủ_tịch/N Đồng_Tháp/Np phạm_luật/V nghiêm_trọng/N
+Theo/E Luật/N tố_cáo/V việc/N chủ_tịch/N UBND/Np tỉnh/N Đồng_Tháp_Nguyễn_Văn_Dương/Np kí/V quyết_định/N thụ_lí/V công_khai/A tên/N người/N tố/V cáo/N đã/R vi_phạm/V những/L điều/N cấm/V và/CC quy_định/N về/V bảo_mật/V thông_tin/N người/N tố_cáo/V
+Vụ_việc/N ông/N Nguyễn_Văn_Dương/Np chủ_tịch/N UBND/Np tỉnh/N Đồng_Tháp/Np sau/E khi/N nhận/V đơn/N tố_cáo/V của/E người/N dân/N đã/R công_khai/V họ/N tên/N địa_chỉ/N
+của/E người/N tố_cáo/V đặt/V ra/R câu_chuyện/N pháp_lí/V về/E các/L biện_pháp/N bảo_vệ/V người/N tố_cáo/V trong/E đó/N quy_định/N về/V bảo_mật/V thông_tin/N của/E người/N tố_cáo/V trách_nhiệm/N bảo_vệ/V người/N tố_cáo/V
+Cấm/N tiết_lộ/V danh_tính/N
+Theo/E luật_gia/N Phạm_Văn_Chung/Np Luật/Np tố_cáo/V quy_định/N rất/R chặt_chẽ/A chi_tiết/A vấn_đề/N thông_tin/V người/N tố_cáo/V như/C nghiêm_cấm/N tiết_lộ/V thông_tin/N người/N tố_cáo/V trách_nhiệm/N bảo_mật/V thông_tin/N về/V người/N tố_cáo/V
+Tại/E điểm/N a/N khoản/N 1/M điều/N 20/M của/E Luật/Np tố_cáo/V khi/N nhận/V được/R tố_cáo/V thuộc/V thẩm_quyền/N giải_quyết/V của/E mình/N thì/C trong/E thời_hạn/N 10/M ngày/N kể/V từ/E ngày/N nhận/V được/R đơn/N tố_cáo/V người/N có/V thẩm_quyền/N phải/V kiểm_tra/V xác_minh/N họ/N tên/N địa_chỉ/N người/N tố_cáo/V và/N quyết_định/V việc/N thụ_lí/V hoặc/N không/R thụ_lí/V giải_quyết/V tố_cáo/N đồng_thời/N thông_báo/V cho/E người/N tố_cáo/V biết/V lí_do/V việc/N không/R thụ_lí/V
+Trường_hợp/N phải/V kiểm_tra/V xác_minh/V tại/E nhiều/A địa_điểm/N thì/C thời_hạn/N kiểm_tra/V xác_minh/N có_thể/A dài/A hơn/R nhưng/C không/R quá/V 15/M ngày/N
+Về/E việc/N bảo_mật/V thông_tin/N người/N tố_cáo/V tại/E khoản/N 3/M điều/N 8/M của/E Luật/Np tố_cáo/V quy_định/N nghiêm_cấm/N hành_vi/N tiết_lộ/V họ/N tên/N địa_chỉ/N bút_tích/N của/E người/N tố_cáo/V và/CC những/L thông_tin/N khác/A có_thể/A làm/V lộ/V danh_tính/N người/N tố_cáo/V
+Điều/N 36/M của/E luật/N này/P cũng/R quy_định/N trách_nhiệm/N bảo_mật/V thông_tin/N Cơ_quan/N tổ_chức/V cá_nhân/N có/V thẩm_quyền/N khi/N tiếp_nhận/N tố_cáo/V giải_quyết/N tố_cáo/V sử_dụng/V thông_tin/N tài_liệu/N do/E người/N tố_cáo/V cung_cấp/V có/V trách_nhiệm/N giữ/V bí_mật/N họ/N tên/N địa_chỉ/N bút_tích/N và/CC các/L thông_tin/N cá_nhân/N khác/A của/E người/N tố_cáo/V
+Đồng_thời/R phải/V áp_dụng/V biện_pháp/N cần_thiết/A theo/V thẩm_quyền/N hoặc/N đề_nghị/V cơ_quan/N tổ_chức/V có/V thẩm_quyền/N có/V biện_pháp/N giữ/V bí_mật/N thông_tin/N và/CC bảo/V vệ/V cho/E người/N tố_cáo/V
+Chiếu/N theo/V các/L quy_định/N trên/N có_thể/N khẳng_định/V việc/N tiết_lộ/V danh_tính/N người/N tố_cáo/V đã/R vi_phạm/V những/L điều/N cấm/V và/N quy_định/N của/E pháp_luật/N về/V bảo_mật/V thông_tin/N người/N tố_cáo/V luật_gia/N Chung/Np nói/V
+Không/R nắm/V quy_định/N pháp_luật/N
+Thực_tế/N đã/R có/V nhiều/A trường_hợp/N người/Nc tố_cáo/N bị/V mua_chuộc/V đe_doạ/N khủng_bố/V trù_dập/V thậm_chí/N thực_hiện/V các/L hành_vi/N xâm_hại/V danh_dự/N nhân_phẩm/N sức_khoẻ/N tính_mạng/N của/E họ/N và/CC gia_đình/N
+Do/E đó/P Luật/Np tố_cáo/V đã/R đưa/V ra/R quy_định/N về/V các/L biện_pháp/N bảo_vệ/V người/N tố_cáo/V trong/E đó/N quy_định/N về/V bảo_mật/V thông_tin/N của/E người/N tố_cáo/V trách_nhiệm/N bảo_vệ/V người/N tố_cáo/V
+Trong/E vụ_việc/N chủ_tịch/N UBND/Np tỉnh/N Đồng_Tháp/Np tiết_lộ/V thông_tin/N người/N tố_cáo/V ngay/T tại/E quyết_định/N thụ_lí/V giải_quyết/V đơn/N tố_cáo/V của/E công_dân/N và/CC gửi/V đến/R rất/R nhiều/A nơi/N trong/N tỉnh/N đăng/V cả/N trên/N cổng/N thông_tin/N điện_tử/N tỉnh/N là/V vi_phạm/N nghiêm_trọng/A Luật/Np tố_cáo/V một/M luật_sư/N của/E Đoàn/Np luật_sư/N TPHCM/Np nêu/V quan_điểm/N
+Phân_tích/V về/V nguồn_gốc/N quyết_định/N này/P luật_gia/N Chung/Np cho/V rằng/N có/V khả_năng/N những/L người/N có/V trách_nhiệm/N trong/E việc/N xử_lí/V giải_quyết/V đơn/N thư/N tố_cáo/V không/R nắm/V được/R quy_định/N pháp_luật/N về/V tố_cáo/V nên/N đã/R dẫn/V đến/V sự_cố/N vi_phạm/V quy_định/N pháp_luật/N như/A trên/N
+Gửi/V luôn/R tên_tuổi/N người/N tố_cáo/V cho/V người/N bị/V tố_cáo/V
+Ngày/N 1222017/M ông/N VV/Np
+gửi/V đơn/N đến/V UBND/Np tỉnh/N Đồng_Tháp/Np tố_cáo/V một_số/N lãnh_đạo/N TP/Np Cao_Lãnh/Np có/V dấu_hiệu/N tiêu_cực/A liên_quan/V đến/E dự_án/N nâng_cấp/V đô_thị/N TP/Np Cao_Lãnh/Np
+Hơn/A một/M tháng/N sau/A ông/N Đ/Np
+nhận/V được/R thông_báo/N của/E UBND/Np tỉnh/N Đồng_Tháp/Np cho/V biết/V chủ_tịch/N UBND/Np tỉnh/N đã/R ban_hành/V quyết_định/N thụ_lí/A giải_quyết/V nội_dung/N tố_cáo/V của/E ông/N Đ/Np
+Trong/E quyết_định/N này/P chủ_tịch/N UBND/Np tỉnh/N đã/R công_khai/V họ/N tên/N địa_chỉ/N của/E ông/N Đ/Np
+và/N gửi/V đến/E một_số/N cơ_quan_chức_năng/N đối_tượng/N bị/V tố_cáo/V
+Trao_đổi/V với/E Tuổi_Trẻ/N ông/N Nguyễn_Văn_Dương/Np chủ_tịch/N UBND/Np tỉnh/N Đồng_Tháp/Np thừa_nhận/V có/V sơ_sót/N trong/E việc/N kí/V quyết_định/N thụ_lí/V đơn/N tố_cáo/V đồng_thời/N khẳng_định/V việc/N để/V lộ/V thông_tin/N người/N tố_cáo/V là/V trái/N quy_định/N pháp_luật/N
+Ông/Nc Phạm_Tấn_Xiếu/Np chánh_văn_phòng/V UBND/Np tỉnh/N Đồng_Tháp/Np cho/V biết/V tỉnh/N đang/R thực_hiện/V quy_trình/N huỷ/N quyết_định/V trên/N

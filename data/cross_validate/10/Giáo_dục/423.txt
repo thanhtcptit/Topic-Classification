@@ -1,0 +1,19 @@
+Công_bố/V 14/M đề/N thi/V thử_nghiệm/V kỳ/N thi/V THPT/Np quốc_gia/N 2017/M 
+Ngoài_ra/C Bộ/N GD/Np ĐT/Np tiếp_tục/V triển_khai/V xây_dựng/V bộ/N đề/N thi/V thử_nghiệm/V theo/E 5/M bài/N thi/V để/E công_bố/V rộng_rãi/A ngay/T sau/E khi/N học_sinh/N lớp/N 12/M hoàn_thành/V chương_trình/N năm_học/N 2016-2017/M (/N dự_kiến/V giữa/E tháng/N 5/2017/M )/Nu giúp/V các/L cơ_sở/N giáo_dục/N và/CC thí_sinh/N tập_dượt/V làm_quen/V với/E định_dạng/N đề/N thi/V và/CC phương_thức/N thi/V theo/E bài/N để/E tiếp_tục/V ôn_luyện/V chuẩn_bị/V thi/V 
+Đề/Np thi/V thử_nghiệm/V sẽ/R giúp/V các/L học_sinh/N khối/N 12/M định_hình/V dễ/A hơn/R về/E hướng/N ra/V đề/N THPT/Np quốc_gia/N năm/N 2017/M 
+ảnh/N minh_họa/V Ma_trận/N đề/N thi/V kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2017/M đã/R được/V xây_dựng/V phù_hợp/V với/E hình_thức/N thi/V theo/E bài/N đã/R công_bố/V trong/E Phương_án/N thi/V theo/V hướng/N tiếp_tục/V thực_hiện/V đánh_giá/V năng_lực/N người/N học/V tăng/V mức/N yêu_cầu/V vận_dụng/V kiến_thức/N các/L câu_hỏi/N mở/V giảm/V yêu_cầu/N thuộc_lòng/V ghi_nhớ/V máy_móc/N hay/C trả_lời/V theo/E khuôn_mẫu/N có/V sẵn/A đảm_bảo/V phân_hoá/N kết_quả/N thi/V để/E vừa/R đáp_ứng/V yêu_cầu/N xét/V công_nhận/V tốt_nghiệp/V THPT/Np vừa/R dùng/V để/E xét/V tuyển_sinh/V ĐH/Np CĐ/Np 
+Căn_cứ/N ma_trận/V đề/N thi/V Bộ/N GD/Np ĐT/Np xây_dựng/V các/L đề/N minh_họa/V làm/V cơ_sở/N cho/E giáo_viên/N và/CC học_sinh/N tham_khảo/V trong/E dạy_học/N và/CC ôn_tập/V chuẩn_bị/V cho/E kỳ/N thi/V 
+Trước/E đó/P ngày/N 6/10/2016/M Bộ/N đã/R công_bố/V 14/M đề/N thi/V minh_họa/V của/E các/L môn/N thi/V năm/N 2017/M và/CC được/V dư_luận/N xã_hội/N đánh_giá/V tích_cực/A về/E nội_dung/N về/E phương_thức/N thi_trắc_nghiệm/V khách_quan/A cũng_như/C ý_nghĩa/N tác_động/V đối_với/E việc/N chuẩn_bị/V tổ_chức/V kỳ/N thi/V 
+14/M đề/N thi/V minh_họa/V xem/V dưới/E đây/P 1/M 
+Môn_Giáo/Np dục/V Công_dân/N 2/M Môn/Np tiếng/N Nhật/Np 3/M 
+Môn/N tiếng/N Đức/Np 4/M 
+Môn/N tiếng/N Trung/Np 5/M 
+Môn/N tiếng/N Pháp/Np 6/M 
+Môn/N tiếng/N Nga/Np 7/M 
+Môn/N tiếng/N Anh/Np 8/M 
+Môn_Địa/Np lý/N 9/M 
+Môn_Lịch/N sử/N 10/M 
+Môn_Ngữ/Np văn/N 11/M 
+Môn_Sinh/Np học/V 12/M Môn_Hóa/Np học/V 13/M 
+Môn_Vật/Np lý/N 14/M 
+Môn_Toán_Hồng_Hạnh/X 

@@ -1,0 +1,15 @@
+Bác_sĩ/N phải/V khâu/N 5/M mũi/N vì/E bị/V người/N lạ/A ném/V máy/N đo/V huyết_áp/N vào/E đầu/N 
+Sự_việc/N xảy_ra/V sáng/N ngày/N 12/7/M khi/N bác_sĩ/N vừa/R sơ_cứu/V 2/M vết_thương/N cho/E bệnh_nhân/N 
+Thời_điểm/N đó/P có/V một/M nhóm/N 5-6/M người/N đưa/V một/M bệnh_nhân/N vào/E khám/V với/E vết_thương/N ở/E cánh_tay/N khuỷu/N tay_trái/N 
+BS/Np Nguyễn_Văn_Long/Np là/V người/N tiếp_nhận/V bệnh_nhân/N xử_lý/V vết_thương/N nhỏ/A ở/E cánh_tay/N khuỷu/N tay_trái/N của/E bệnh_nhân/N 
+Sau/E khi/N xử_lý/V xong/V hai/M vết_thương/N này/P BS/Np Long/Np đang/R đánh/V máy_in/N giấy/N cho/E bệnh_nhân/N đi/V chụp/V thì/C bất_ngờ/A bị/V một/M người/N cầm/V máy/N đo/V huyết_áp/N ném/V vào/E đầu/N 
+Bác_sĩ/N Nguyễn_Văn_Long/Np Khoa_Ngoại/Np BV/Np Đa_khoa/Np Việt_Yên/Np Bắc_Giang/Np bất_ngờ/A bị/V một/M người/N ném/V thẳng/A máy/N đo/V huyết_áp/N vào/E đầu/N dẫn/V đến/R phải/V khâu/N 5/M mũi/N 
+Chiếc/Nc máy/N đo/V huyết_áp/N với/E phần/N đồng_hồ/N cứng/A đập/V thẳng/A vào/E đầu/N khiến/V BS/Np Long/Np bị/V chảy_máu/V đầu/N phải/V khâu/N 5/M mũi/N đồng_thời/R có/V biểu_hiện/N nhức/V mắt/N mờ/A mắt/N 
+BS/Np Long/Np cho_biết/V khi/N vào/V viện/N người/N này/P biểu_hiện/V có/V hơi/N men/V nói/V linh_tinh/A rồi/C có_thể/R họ/P không/R hiểu/V lời/N giải_thích/V của/E nhân_viên/N y_tế/N nên/C không/R làm_chủ/V được/R hành_vi/N của/E mình/P 
+Trước/E sự_việc/N này/P BS/Np Chu_Văn_Tám/Np Giám_đốc/N Bệnh_viện/N Đa_khoa/Np huyện/N Việt_Yên/Np Bắc_Giang/Np cho_biết/V ngay/R trong_sáng/A 12/7/M sau/E buổi/N giao/V sáng/N Ban/N giám_đốc/N nhận/V được/R tin/N bác_sĩ/N Long/Np bị/V tấn_công/V chảy_máu/V đầu/N 
+Đánh_giá/V sự_việc/N rất/R nghiêm_trọng/A BV/Np đã/R nhờ/V công_an/N phối_hợp/V xác_minh/V vụ_việc/N 
+Tuy_nhiên/C ngay/T sau/E khi/N ném/V máy/N đo/V huyết_áp/N vào/E đầu/N bác_sĩ/N đối_tượng/N đã/R bỏ/V trốn/V và/CC công_an/N đang/R tiến/V xác_minh/V 
+Hiện/N cũng/R chưa/R xác_minh/V được/R người/N đánh/V bác_sĩ/N có/V phải/A là/C người_nhà/N bệnh_nhân/N 
+Bệnh_viện/N sẽ/R theo_dõi/V tình_trạng/N BS/Np Long/Np dự_kiến/V BS/Np Long/Np sẽ/R đã/R được/V chuyển/V xuống/R Bệnh_viện/N Mắt_Trung/Np ương/V để/E kiểm_tra/V vì/E thấy/V nhức/V mắt/N cảm_giác/N có/V màng/N mờ/A ở/E mắt/N 
+Bệnh_nhân/N được/V đưa/V vào/R sau/E khi/N khâu/N xử_lý/V vết_thương/N kê/V đơn/N đã/R được/V xuất_viện/V 
+Tú_Anh/Np 

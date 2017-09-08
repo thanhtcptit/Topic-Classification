@@ -1,0 +1,13 @@
+Truyền_hình/N số/N mặt_đất/N vẫn/R phải/V dùng/V anten/N
+Việc/N có/V cần/V sử_dụng/V anten/N hay/C không/R sử_dụng/V anten/N như/C thế_nào/N phụ_thuộc/V vào/E cường_độ/N tín_hiệu/N của/E từng/N điểm/N
+Ở/E điểm/N có/V cường_độ/N phát_sóng/V tín_hiệu/N mạnh/A thì/C có_thể/A chỉ/R cần/V anten/V trong/N nhà/N
+Ở/E nơi/N có/V cường_độ/N phát_sóng/V tín_hiệu/N yếu/N thì/C cần/V phải/V lắp/V anten/N ngoài_trời/N
+Ở/E những/L khu_vực/N bị/V che_khuất/N thậm_chí/R phải/V dùng/V anten/N ngoài_trời/N đặt/V ở/E những/L vị_trí/N rất/R cao/A mới/R bắt/V được/V tín_hiệu/N truyền_hình/N số/N
+Ông/Nc Hoan/Np cũng/R lưu/V ý/N điều_kiện/N thu/N sóng/N của/E truyền_hình/N số/N sẽ/R khó/A hơn/R sóng/N analog/N
+Nếu_như/N sóng/N analog/N có/V yếu/N hay/C chập_chờn/N TV/Np vẫn/R bắt/V được/V tín_hiệu/N và/CC vẫn/R xem/V được/R tuy/C chất_lượng/N không/R tốt/A
+Nhưng/C đối_với/N tín/N hiệu_số/N nếu/N tín_hiệu/N yếu/N không/R bắt/V được/R là/V sẽ/R hoàn_toàn/A không/R xem/V được/R
+Cường_độ/N tín_hiệu/N và/CC vùng/N phủ_sóng/N của/E truyền_hình/N số/N cũng/R tương_tự/A như/A truyền_hình/N tương_tự/A mặt_đất/N trước/N đây/P
+Khu_vực/N nào/P đã/R có/V tín_hiệu/N truyền_hình/N tương_tự/A mắt/N đất/N yếu/A thì/C nhiều/A khả_năng/N tín_hiệu/N truyền_hình/N số/N cũng/R kém/A Ông/N Hoan/Np giải_thích/V Tuy/N vùng/N phủ_sóng/N truyền_hình/N số/N đã/R rộng/A hơn/A phủ_sóng/N tương_tự/A mặt_đất/N nhưng/C vẫn/R có/V những/L khu_vực/N sóng/N yếu/N khu_vực/N bị/V che_khuất/V tín_hiệu/N kém/A ảnh_hưởng/V đến/E chất_lượng/N thu/N chưa/R khắc_phục/V được/R
+Ông/Nc Hoan/Np cho/V biết/V Đề_án/N số_hoá/N truyền_hình/N và/CC Sở/N TT/Np amp/V
+TT/Np các/L địa_phương/N đang/R tiếp_nhận/V các/L thông_tin/N phản_hồi/N của/E người/N dân/N về/V những/L vấn_đề/N kĩ_thuật/V nảy_sinh/N sau/E khi/N chuyển_đổi/N
+Sau/E khi/N triển_khai/V một/M thời_gian/N chúng_tôi/N sẽ/R yêu_cầu/V các/L nhà/Nc cung_cấp/N dịch_vụ/N truyền_hình/N số/N khảo_sát/V nhu_cầu/N và/CC tập_hợp/N đề_xuất/N của/E người/Nc dân/N để/E xử_lí/V các/L vấn_đề/N kĩ_thuật/N này/P

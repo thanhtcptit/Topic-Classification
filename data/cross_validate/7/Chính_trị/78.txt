@@ -1,0 +1,17 @@
+Mưa_lũ/N làm/V 2/M người/N chết/V mất_tích/V thiệt_hại/A hơn/R 56/M tỉ/M đồng/Nu
+Thông_tin/N từ/E Văn_phòng/N Ban/N chỉ_đạo/V Trung_ương/N về/V Phòng_chống/V thiên_tai/N ngày/N 17/M cho/V biết/V đợt/N mưa/V lớn/A diện/N rộng/A ở/E miền/N Bắc/Np vừa_qua/N đã/R làm/V 1/M người/N chết/V 1/M người/N mất_tích/V 4/M người/N bị_thương/V
+Tổng/N thiệt_hại/N về/V vật_chất/N ước_tính/V 56866/M tỉ/M đồng/Nu
+Cụ_thể/N người/N bị/V thiệt_mạng/V là/V anh/N Nùng/Np A_Đại/Np 23/M tuổi/N ở/E thôn/N Mè_Nắng/Np xã/N Xín_Cái/Np huyện/N Mèo_Vạc/Np tỉnh/N Hà_Giang/Np do/N đi/V qua/R khe/N bị/V đá/V lăn/V vào/E hồi/N 6g/M ngày/N 306/M
+Trước/E đó/P tại/E Hà_Giang/Np cũng/R có/V 1/M người/N mất_tích/V là/V ông/N Giàng_Mí_Nô/Np 41/M tuổi/N ở/E thôn/N Pả_Vi_Hạ/Np xã/N Pả_Vi/Np huyện/N Mèo_Vạc/Np bị/V nước/N cuốn/V trôi/V cả/P người/N và/CC xe/N khi/N đi/V qua/R địa_phận/N thôn/N Chấu/Np xã/N Xín_Cái/Np
+Ngoài_ra/C có/V 4/M người/N bị_thương/V do/N sét/N đánh/V gồm/V chị/N Phàn_Thị_Xuân/Np 26/M tuổi/N và/CC hai/M con/N Phàn_Thị_Xuyên/Np 4/M tuổi/N Phàn_Văn_Vân/Np 3/M tuổi/N tại/E thôn/N Phiêng_Lang/Np xã/N Khuôn_Lùng/Np huyện/N Xín_Mần/Np
+bà/N Vàng_Thị_Dính/Np tại/E thôn/N Sảng_Chải/Np B/Np xã/N Lũng_Pù/Np huyện/N Mèo_Vạc/Np
+Về/V nhà/N ở/V mưa_lũ/N làm/V sập/V đổ/N hư_hỏng/N hoàn_toàn/A 4/M nhà/N
+làm/V sạt/N hư_hỏng/N 214/M nhà/N ở/V Hà_Giang/Np Bắc_Kạn/Np Tuyên_Quang/Np Thái_Nguyên/Np Phú_Thọ/Np
+Có/V 579/M nhà/N bị/V ngập/V 27/M nhà/N phải/V di_dời/V khỏi/V nơi/N nguy_hiểm/N
+Mưa_lũ/N cũng/R làm/V thiệt_hại/A 1533/M ha/N lúa/N 10665/M ha/N hoa_màu/N 78/M ha/N thuỷ_sản/N
+gần/A 9000/M m/Nu kênh/N mương/N 12/M đập/N tạm/N thuỷ_lợi/V và/CC 23/M công_trình/N thuỷ_lợi/N khác/A bị/V sạt/V hư_hỏng/N
+Đường/N giao_thông/N bị/V sạt_lở/V 121916/M m3/Nu hư_hỏng/N 6/M cầu/N
+Theo/E Trung_tâm/N Dự_báo/N Khí_tượng/N thuỷ_văn/V Trung_ương/N từ/E ngày/N 26/M đến/N 306/M do/N ảnh_hưởng/N của/E rãnh/N áp_thấp/N kết_hợp/V với/E hội_tụ/N gió/N trên/N cao/A nên/C ở/E các/L tỉnh/N Bắc_Bộ/Np đã/R có/V mưa/N mưa/N vừa/N vùng/V núi/N và/CC trung_du/N có/V mưa/N to/A đến/V rất/R to/A và/CC rải_rác/A có/V dông/N
+Tổng_lượng/N mưa/V từ/E 1g/M ngày/N 26/M 6/M đến/E 13g/M ngày/N 306/M ở/E vùng/N núi/N và/CC trung_du/N Bắc_Bộ/Np phổ_biến/V 100180/M mm/N một_số/N nơi/N có/V tổng_lượng/N mưa/N lớn/A hơn/R 200mm/M như/N Tam_Đường/Np Lai_Châu/Np 289mm/Np Thổ_Bình/Np Tuyên_Quang/Np 249mm/Np Bắc_Quang/Np Hà_Giang/Np 519mm/M
+Mưa/N lớn/A khiến/V trên/N sông/N Lô/Np Thao/Np đã/R xuất_hiện/V một/M đợt/N lũ/N với/E biên_độ/N lũ/N lên/V từ/E 2m/M 4/M m/Nu
+Dự_báo/V từ/E ngày/N 17/M mưa/N ở/E miền/N Bắc/Np giảm/V dần/R do/E ảnh_hưởng/N rãnh/N thấp/A và/CC hội_tụ/V gió/N trên/N cao/A suy_yếu/N

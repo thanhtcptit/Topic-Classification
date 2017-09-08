@@ -1,0 +1,5 @@
+100/M bệnh_viện/N ở/E Cà_Mau/Np vi_phạm/V về/V môi_trường/N
+Cục/N trưởng/N Cục/N Quản_lí/N Môi_trường/N y_tế/N Bộ/N Y/Np tế/N Nguyễn_Thị_Liên_Hương/Np hôm_nay/N 37/M đã/R có/V yêu_cầu/N Sở/N Y/Np tế/N Cà_Mau/Np kiểm_tra/V làm/V rõ/A thông_tin/N 100/M bệnh_viện/N và/CC trung_tâm/N y_tế/N của/E tỉnh/N này/P vi_phạm/V về/R môi_trường/N
+Bà/Nc Hương/Np cũng/R yêu_cầu/V báo_cáo/V gửi/V về/V Bộ/N Y/Np tế/V trước/E trưa/N ngày/N 57/M
+Theo/E thông_tin/N từ/E báo_chí/N mà/N Bộ/N Y/Np tế/V trích_dẫn/V qua/V kiểm_tra/V công_tác/N bảo_vệ/V môi_trường/N tại/E Cà_Mau/Np cơ_quan_chức_năng/N phát_hiện/V 100/M bệnh_viện/N trung_tâm/N y_tế/N chưa/R được/V xác_nhận/V hoàn_thành/V công_trình/N bảo_vệ/V môi_trường/N nhiều/A bệnh_viện/N chưa/R hoàn_thành/V đấu/V nối/V hoàn_thiện/V hệ_thống/N thu_gom/V nước_thải/N lò/N đốt/V rác_thải/N y_tế/N bị/V hư_hỏng/N xuống_cấp/V gây/V ô_nhiễm/V môi_trường/N trong/E quá_trình/N vận_hành/V
+Ngoài_ra/C có/V đến/R 910/M mẫu/N khí_thải/N lấy/V từ/E cơ_sở/N y_tế/N không/R đạt/V yêu_cầu/N

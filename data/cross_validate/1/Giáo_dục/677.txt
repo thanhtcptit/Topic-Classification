@@ -1,0 +1,12 @@
+Nhiều/A địa_phương/N sẽ/R công_bố/V điểm/N thi/V THPT/Np quốc_gia/N trước/A 7/7/M
+Ngày/N 30/6/M Thứ_trưởng/N Giáo_dục/N và/CC Đào_tạo/N Bùi_Văn_Ga/Np cho_biết/V điểm/N thi/V THPT/Np quốc_gia/N và/CC ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N /M điểm_sàn/N /A có_thể/R được/V công_bố/V sớm/A hơn/R kế_hoạch/N ban_đầu/N
+Theo/E lịch_trình/N ngày/N 7/7/M là/V hạn/N cuối/A các/L Sở/N Giáo/N dục/V công_bố/V điểm/N thi/V
+Tuy_nhiên/C địa_phương/N nào/P chấm/V xong/R sớm/A có_thể/A gửi/V kết_quả/N lên/E Bộ/N để/E đối_sánh/V
+Nếu/C chuẩn/N rồi/C thì/C công_bố/V trước/A chứ/C không/R phải/V đợi/V đến/E ngày/N 7/7/M ông/Nc Ga/Np nói/V
+Sau/E khi/N các/L địa_phương/N gửi/V dữ_liệu/N điểm/N thi/V THPT/Np quốc_gia/N về/E Bộ/N sẽ/R mất/V 3-4/M ngày/N để/E Bộ_xử_lý/Np phân_tích/V kết_quả/N
+Dự_kiến/V hội_đồng/N điểm_sàn/V sẽ/R họp/V vào/E ngày/N 11-12/M //X 7/M và/CC công_bố/V điểm_sàn/A phổ/V điểm/N ngay/T sau/N đó/P Thứ_trưởng/N Ga/N cho_biết/V
+Từ/E ngày/N 15/7/M thí_sinh/N cả/P nước/N có_thể/R bắt_đầu/V điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V đại_học/N
+Kết_quả/N trúng_tuyển/V đại_học/N cao_đẳng/N sư_phạm/V đợt/N 1/M sẽ/R được/V các/L trường/N công_bố/V trước/E 17h/M ngày/N 1/8/M
+Ngày/N 22-24/M //X 6/M khoảng/N 860 0/M thí_sinh/N cả/P nước/N thi/V THPT/Np quốc_gia/N với/E mục_tiêu/N xét/V tốt_nghiệp/V và/CC xét/V tuyển/V vào/V đại_học/N
+Thí_sinh/N làm/V 5/M bài/N thi/V gồm/V Toán/Np Văn/Np Ngoại_ngữ/N và/CC một/M trong/E hai/M bài/N tổ_hợp/N tự/P chọn/V là/C Khoa_học_tự_nhiên/N /V Lý/Np Hóa/Np Sinh/V /A hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Trừ_Văn/Np các/L môn/N thi/V còn/V lại/R đều/R là/V trắc_nghiệm/V

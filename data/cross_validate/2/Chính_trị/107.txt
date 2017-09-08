@@ -1,0 +1,16 @@
+Hà_Nội/Np thử_nghiệm/V xe_buýt/N du_lịch/N 2/M tầng/N mui/N trần/A
+Sáng/N 306/M Tổng/N công_ty/N Vận_tải/V Hà_Nội/Np Transerco/Np phối_hợp/V Công_ty/N Cổ_phần/N ô_tô/N Trường_Hải/Np thử_nghiệm/V xe_buýt/N 2/M tầng/N mui/N trần/A phục_vụ/V du_lịch/N
+Buổi/N chạy/V thử_nghiệm/V có/V sự/N tham_gia/V của/E lãnh_đạo/N UBND/Np TP/Np Hà_Nội/Np cùng/C các/L sở/N ngành/N liên_quan/V
+Xe_buýt/N 2/M tầng/N được/V thử_nghiệm/V lần/N đầu_tiên/A trên/E một_số/N tuyến/N phố/N khu_vực/N hồ/N Hoàn_Kiếm/Np được/V thiết_kế/V theo/V tiêu_chuẩn/N châu/N Âu/Np sử_dụng/V động_cơ/N Hino/Np của/E Nhật_Bản/Np có/V mui/N trần/A như/C xe_du_lịch/N tại/E các/L đô_thị/N hiện_đại/A trên/E thế_giới/N thích_hợp/N cho/V khách/N tham_quan/V ngắm/V cảnh/N
+Tầng/N 1/M của/E xe/N có/V 16/M chỗ/N ngồi/V trong/E đó/N có/V 2/M vị_trí/N dành/V cho/E người/N khuyết_tật/N
+Tầng/N 2/M không/R có/V mui/N với/E 42/M ghế_ngồi/N
+Trên/E xe/N lắp_đặt/V wifi/V miễn_phí/V hệ_thống/N màn_hình/N hướng/V dẫn_điểm/N dừng/V và/N giới_thiệu/V danh_lam_thắng_cảnh/X
+âm_thanh/N kết_nối/N tự_động/A thông_báo/V các/L điểm/N dừng/V tích_hợp/N hệ_thống/N GPS/Np giới_thiệu/V về/E lịch_sử/N văn_hoá/N các/L địa_danh/N du_lịch/V bằng/E nhiều/A ngôn_ngữ/N khác/A nhau/N
+Ngoài/E ra/N còn/R có/V một_số/N tiện_ích/N phục_vụ/V du_khách/N như/C tủ_lạnh/N quầy/N bar/N mini/N
+Theo/E lãnh_đạo/N Transerco/Np tuyến/N buýt/N City/Np tour/N phục_vụ/V du_khách/N tham_quan/V Hà_Nội/Np với/E chất_lượng/N dịch_vụ/N cao_cấp/A
+Lộ_trình/N tuyến/N kết_nối/N hợp_lí/N thuận_tiện/A giữa/N các/L điểm/N tham/V quan/N và/CC các/L di_tích/N lịch_sử/N danh_lam_thắng_cảnh/N của/E Hà_Nội/Np để/E quảng_bá/V và/CC phát_triển/V du_lịch/N
+Tuyến/N buýt/N dự_kiến/V khai_thác/V theo/E lộ_trình/N Hồ_Hoàn_Kiếm/Np Lê_Thái_Tổ/Np Tràng_Thi/Np Điện_Biên_Phủ/Np Độc_Lập/Np Hoàng_Văn_Thụ/Np Hùng_Vương/Np Thuỵ_Khuê/Np Mai_Xuân_Thưởng/Np Phan_Đình_Phùng/Np Hoàng_Diệu/Np Lê_Hồng_Phong/Np Hùng_Vương/Np Nguyễn_Thái_Học/Np Cửa_Nam/Np Phan_Bội_Châu/Np Lý_Thường_Kiệt/Np Phan_Chu_Trinh/Np Nhà_hát/V lớn/A Tràng_Tiền/Np Đinh_Tiên_Hoàng/Np Hồ/Np Hoàn_Kiếm/Np
+Dự_kiến/V tuyến/N buýt/N City/Np tour/N sẽ/R hoạt_động/V với/E tần_suất/N 30/M phútlượt/N từ/E 9h/M đến/E 17h/M hàng/N ngày/N
+Tại/E buổi/N thử_nghiệm/N sáng/N 306/M những/N khách/N mời/V đi/V xe/N đều/R bày_tỏ/V sự/N thích_thú/V khi/N lần/N đầu/A được/V đi/V xe_buýt/N 2/M tầng/N mui/N trần/A để/E ngắm/V cảnh/N Hà_Nội/Np
+Ông/Nc Nguyễn_Thế_Hùng/Np Phó_Chủ_tịch/N UBND/Np TP/Np Hà_Nội/Np đánh_giá/V cao/A việc/N sử_dụng/V xe_buýt/N 2/M tầng/N phục_vụ/V du_khách/N tham_quan/V Hà_Nội/Np
+Tuy_nhiên/C ông/Nc Hùng/Np đề_nghị/V phải/V cân_nhắc/V số_lượng/N xe/N đưa/V vào/R khai_thác/V tính_toán/V lộ_trình/N hoạt_động/V phù_hợp/N không/R ảnh_hưởng/V tới/E phương_tiện/N giao_thông/N khác/A cũng/R như/A đảm_bảo/V an_toàn/A

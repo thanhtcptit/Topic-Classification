@@ -1,0 +1,14 @@
+Những/L trợ_lí/N đắc_lực/V trên/N smartphone/N cho/V người/N đi/V xe_buýt/N
+Ứng_dụng/N di_động/N này/P do/E nhóm/Nc sinh_viên/N Trường/N ĐH/N Khoa_học/N tự_nhiên/N TPHCM/Np trưởng/A nhóm/N là/V Lê_Yên_Thanh/Np thiết_kế/V
+Sản_phẩm/N lần/N đầu/A xuất_hiện/V trên/E Windows_Phone/Np và/CC đã/R đoạt/V giải/N nhất/A cuộc/N thi/V tin_học/N trẻ/N TPHCM/Np năm/N 2013/M
+Sau/E đó/P phiên_bản/N BusMap/N dành/V cho/E Android/Np được/V Lê_Yên_Thanh/Np thiết_kế/V đã/R đạt/V thêm/V những/L giải_thưởng/N khác/A như/C giải/N sáng_tạo/N trẻ/N toàn_quốc/N giải/N nhất/A cuộc/N thi/V sáng_tạo/V ứng_dụng/N di_động/N toàn_quốc/N 2013/M
+Sau/E đó/P ứng_dụng/V được/V chuyển_giao/V cho/R Trung_tâm/N Quản_lí/N và/CC điều_hành/V vận_tải/V hành_khách/N công_cộng/N thuộc/V Sở/N GTVT/Np TPHCM/Np
+BusMap/N còn/V có/V phiên_bản/N dành/V cho/R người_dùng/A đi/V xe_buýt/N tại/E Hà_Nội/Np với/E tên/N gọi/V BusMapHN/N
+Phiên_bản/N này/P cũng/R có/V các/L tính_năng/N như/C tra_cứu/N thông_tin/V các/L tuyến/N xe_buýt/N xem/V trực_quan/N tuyến/N xe_buýt/N trên/E bản_đồ/N tìm_kiếm/V lộ_trình/N đi/V tối_ưu/A tìm/V trạm/N dừng/V
+Hiện/N phiên_bản/N này/P vẫn/R đang/R tiếp_nhận/V góp_ý/V từ/E người/N sử_dụng/V để/E hoàn_thiện/V các/L tính_năng/N
+Ngoài_ra/C người_dùng/N tại/E Hà_Nội/Np cũng/R có_thể/A sử_dụng/V ứng_dụng/N Tìm_Buýt/Np do/E Tổng/N công_ty/N Vận_tải/V Hà_Nội/Np Transerco/Np cung_cấp/V
+Ngoài/E các/L chức_năng/N cơ_bản/A như/C tìm/V đường/N đi/V thông_tin/N xe/N sắp/R đến/V điểm/N dừng/V điểm/N bán/V vé/N ứng_dụng/N còn/V kết_nối/V với/E tổng_đài/N trực_tuyến/N tất_cả/N các/L ngày/N trong/E tuần/N để/V hỗ_trợ/V người/N đi/V xe_buýt/N
+Một/M ứng_dụng/N khác/A có/V tên/N là/C EasyBus/N cũng/R có/V khá/R nhiều/A tính_năng/N hữu_ích/A cho/V người/N đi/V xe_buýt/N ở/E hai/M thành_phố/N lớn/A là/V Hà_Nội/Np và/CC TPHCM/Np
+Ngoài/E các/L chức_năng/N chung/V EasyBus/N còn/R cung_cấp/V thông_tin/N giá/N vé/N thời_gian/N hoạt/V động/N
+Đặc_biệt/A ứng_dụng/N hoạt_động/V ngay/R cả/P khi/N người_dùng/V không/R kết_nối/V Internet/N
+EasyBus/N hiện/N có/V cả/N trên/N hệ_điều_hành/N Android/Np và/CC Windows_Phone/Np

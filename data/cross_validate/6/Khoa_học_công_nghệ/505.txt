@@ -1,0 +1,19 @@
+Bộ_nhớ/N nguyên_tử/A lưu/V tất_cả/P sách/N trên/E thế_giới/N trong/E một/M con/N tem/N
+Theo/E BBC/Np đây/P là/V công_trình/N của/E nhóm/N nghiên_cứu/V do/E tiến_sĩ/N Sander_Otte_Đại/Np học/V Kỹ_thuật/N Delft/Np dẫn_đầu/V
+Với/E mỗi/M bit/N dữ_liệu/N được/V đại_diện/V bởi/E vị_trí/N của/E một/M nguyên_tử/N Clo/Np duy_nhất/A nhóm/N nghiên_cứu/V đã/R đạt/V mật_độ/N lưu_trữ/V 500/M terabit/N mỗi/L inch/N vuông/A khoảng/A 6/M 5/M cm/Nu vuông/A cho/E mật_độ/N thông_tin/N lưu_trữ/V lớn/A gấp/V hai/M tới/E ba/M lần/N công_nghệ/N ổ_cứng/V flash/N hiện_nay/N
+Về/V lý_thuyết/N mật_độ/N này/P cho_phép/V lưu_trữ/V tất_cả/P các/L cuốn/Nc sách/N được/V con_người/N viết/V ra/R từ/E trước/N tới/E nay/N trong/E một/M con/Nc tem/N Otte/Np cho_biết/V
+Nói/V cách/N khác/A toàn_bộ/L nội_dung/N của/E thư_viện/N Quốc_hội/N Mỹ/Np có_thể/R được/V lưu_trữ/V trong/E một/M khối/N lập_phương/V kích_thước/N 0/M 1/M mm/Nu
+Các/L nhà_nghiên_cứu/N đã/R sử_dụng/V một/M kính_hiển_vi/N quét/V xuyên/V hầm/N STM/Np với/E một/M đầu/N kim/N bén/V nhọn/A dò/V từng/R nguyên_tử/N một/M trên/E bề_mặt/N
+Họ/P sẽ/R sắp_xếp/V các/L nguyên_tử/N theo/E cách/N mà/C Otte/Np so_sánh/V với/E trò_chơi/N xếp/V hình/N trượt/V
+Mỗi/L bit/N dữ_liệu/N gồm/V hai/M vị_trí/N trên/E bề_mặt/N các/L nguyên_tử/N đồng/N và/CC mỗi/L nguyên_tử/N Clo/Np có_thể/R trượt/V qua_lại/V giữa/E hai/M vị_trí/N này/P ông/N cho_biết/V
+Nếu/C nguyên_tử/V Clo/Np ở/E vị_trí/N bên/N trên/A tức_là/V bên/N dưới/N nó/P có/V một/M lỗ/N trống/A chúng_tôi/P quy_định/N bit/N đó/P là/V 1/M
+Ngược_lại/C khi/N Clo/Np ở/E phía/N dưới/N bên/N trên/N lỗ/N trống/A sẽ/R là/V bit/N 0/M
+Do/E các/L nguyên_tử/N Clo/Np bao/V quanh/N lẫn/V nhau/N trừ/V các/L vị_trí/N gần/A lỗ/N trống/A chúng/P sẽ/R giữ/V nhau/N cố_định/V
+Vì/E lý_do/N này/P nhóm/N nghiên_cứu/V tin/V rằng/C phương_pháp/N của/E họ/P ổn_định/A hơn/R cách/N dùng/V các/L nguyên_tử/N liên_kết/V lỏng_lẻo/A phù_hợp/V hơn/R cho/E các/L ứng_dụng/N lưu_trữ/V dữ_liệu/N thực_tế/N
+Nhóm/N đã/R chứng_minh/V bằng/E cách/N lưu/V bài/N giảng/N nổi_tiếng/A Có/V rất/R nhiều/A phòng/N phía/N dưới/N của/E nhà_vật_lý/N Richard_Feynman/Np lên/V một/M vùng/N rộng/A 100/M nanomet/Nu
+Tuy_nhiên/C dù/C tương_lai/N rất/R hứa_hẹn/V nó/P vẫn/R chưa/R thể_nhân/V rộng/A
+Quá_trình/N lưu_trữ/V đòi_hỏi/V thực_hiện/V ở/E nhiệt_độ/N rất/R thấp/A âm/A 196/M độ/N C/N và/CC tốc_độ/N ghi/V và/CC đọc/V đơn/N trình/V vẫn/R còn/R chậm/A với/E thời_gian/N tính/V bằng/E phút/N
+Trong/E một/M bài/N báo/N công_bố/V về/E cùng/N chủ_đề/N này/P trên/E tạp_chí/N Nature_Nanotechnology/Np hôm/N 18/7/M nhà_nghiên_cứu/N Steven_Erwin/Np của/E Phòng_thí_nghiệm/Np Nghiên_cứu/V Hải_quân/N ở/E Washington/Np DC/Np cũng/R thừa_nhận/V những/L hạn_chế/V này/P
+Tuy_nhiên/C  /N tiến_sĩ/N Otte/Np vẫn/R lạc_quan/A về/E công_nghệ/N này/P
+Đạt/Np được/V thành_công/V ban_đầu/N này/P chúng_tôi/P chắc_chắn/V đã/R tiến/V được/R một/M bước/N dài/A ông/Nc Otte/Np nói/V
+Điều/N quan_trọng/A là/V nhận/V ra/R ý_nghĩa/N của/E thành_tựu/N này/P –/V một/M thiết_bị/N nhớ/V chức_năng/N mật_độ/N cao/A ở/E quy_mô/N nguyên_tử/N ít_nhất/A cũng/R sẽ/R kích_thích/V trí_tưởng/N tượng/N của/E chúng_tôi/P tới/E các/L cột/N mốc/N sau_này/N ông/Nc Erwin/Np nhận_định/V

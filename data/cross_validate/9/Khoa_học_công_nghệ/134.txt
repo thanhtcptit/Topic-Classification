@@ -1,0 +1,19 @@
+​/N 75000/M máy_tính/N tại/E Việt_Nam/Np nhiễm/V mã/N độc/A giả_mạo/A văn_bản/N
+W32FakeDocWorm/N có/V cơ_chế/N phát_tán/V rất/R tinh_vi/A virus/N này/P tìm/V các/L tập_tin/N văn_bản/N Word/Np có/V đuôi/N
+doc/N
+docx/N Excel/Np
+xls/N
+xlsx/N PowerPoint/N
+ppt/N
+pptx/N hay/V PDF/Np
+pdf/N trên/E các/L ổ_đĩa/N USB/Np giấu/V các/L tập_tin/N này/P đi/V sau/N đó/P sinh/V ra/V các/L tập_tin/N giả_mạo/N chứa/V mã/N độc/A để/E thay_thế/V vào/R
+Tập_tin/N giả_mạo/N có/V tên/N và/CC biểu_tượng/N icon/N giống_hệt/V các/L tập_tin/N văn/N bản_gốc/A khiến/V người/N sử_dụng/V rất/R khó/A phát_hiện/V
+Khi/N người_dùng/N mở/V các/L tập_tin/N giả_mạo/N vẫn/R đọc/V được/R nội_dung/N gốc/N của/E văn_bản/N nhưng/C đồng_thời/N cũng/R kích_hoạt/V cả/P mã/N độc/A của/E virus/N nhờ/V đó/P virus/N có_thể/A tiếp_tục/V lây_lan/V từ/E USB/Np sang/V máy_tính/N khác/A
+Virus/N sau/E khi/N lây_nhiễm/V vào/R máy_tính/N sẽ/R liên_tục/V kết_nối/V và/N gửi/V dữ_liệu/N đánh_cắp/V được/R lên/V máy_chủ/N điều_khiển/N C/Np amp/V
+C/N server/N có/V tên_miền/N wxanalyt/N
+ru/N
+Ngoài_ra/C mã/N độc/A cũng/R có/V khả_năng/N tải/N thêm/V và/CC thực_thi/V các/L mã/N độc/N khác/A về/V máy_tính/N
+Sự/Nc phát_tán/V mạnh/A của/E virus/N W32FakeDocWorm/N đang/R là/V một/M nguy_cơ/N rất/R lớn/A đối_với/E người/N sử_dụng/V máy_tính/N tại/N Việt_Nam/Np
+Cũng/R theo/V nghiên_cứu/V của/E Bkav/Np tỉ_lệ/N USB/Np bị/V nhiễm/V virus/N hiện/N vẫn/R ở/V mức/N rất/R cao/A 83/M
+Các/L chuyên_gia/N của/E Bkav/Np cũng/R khuyến_cáo/N người_dùng/V nên/V cài/N thường_trực/N phần_mềm/N diệt/V virus/N để/E được/V bảo_vệ/V tự_động/N
+Tuyệt_đối/A không/R mở/V trực_tiếp/A các/L tập_tin/N từ/E USB/Np kể_cả/N tập_tin/N có/V biểu_tượng/N là/V tập_tin/N văn_bản/N nếu/C chưa/R được/V quét/V virus/N

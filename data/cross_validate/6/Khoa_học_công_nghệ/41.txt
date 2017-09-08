@@ -1,0 +1,16 @@
+BlackBerry/N miễn_phí/V tính_năng/N cao_cấp/A trong/N BBM/Np
+Năm/N 2014/M BlackBerry/N giới_thiệu/V thêm/V tính_năng/N Retract/Np và/CC Timer/Np trong/E BBM/Np mang/V đến/R khả_năng/N quản_lí/V và/CC bảo_vệ/V nội_dung/N thông_tin/V trao_đổi/N riêng_tư/N
+Tuy_nhiên/C người_dùng/N phải/V trả/V 1/M USDtháng/N phí/N sử/N dụng/V các/L tính_năng/N cao_cấp/A này/P trong/N BBM/Np
+Retract/Np là/V tính_năng/N xoá/N nội_dung/N chat/V bao_gồm/N văn_bản/N và/CC hình_ảnh/N dù/N chúng/N đã/R được/V gửi/V đến/R người/N nhận/V
+Timer/Np là/V tính_năng/N giống/N với/E cách/N hoạt_động/N của/E ứng_dụng/N nhắn_tin/N Snapchat/Np đang/R rất/R phổ_biến/A nó/P cho/V phép/N người/N gửi/V chỉ_định/N khoảng/N thời_gian/N người/N nhận/V có_thể/R xem/V nội_dung/N
+Ví_dụ/N người_dùng/N gửi/V đi/V tin_nhắn/V có/V hình_ảnh/N riêng_tư/N và/CC chỉ/R muốn/V người/N nhận/V xem/V nó/N trong/E bao_lâu/N hay/C bao_nhiêu/N lần/N thì/C ảnh/N đó/P tự/P xoá/V
+Người/N nhận/V không_thể/R xem_lại/V được/R nữa/R
+Cuộc_chiến/N của/E các/L ứng_dụng/N nhắn_tin/N di_động/V đang/R được/V dẫn_đầu/V bởi/E hai/M đại_diện/N của/E Facebook/Np gồm/V WhatsApp/N vượt/V mốc/N 1/M tỉ/N người_dùng/N mỗi/M tháng/N và/CC Facebook_Messenger/Np vào_khoảng/N 800/M triệu/N người_dùng/N
+Một/M ứng_dụng/N tin_nhắn/N mới/A nổi/V Telegram/Np có/V tốc_độ/N tăng_trưởng/V rất/R nhanh/A đã/R vượt/V mốc/N 100/M triệu/N người_dùng/N
+Theo/E công_bố/N ngày/N 44/M trên/N website/N BlackBerry/N công_ty/N cho/V biết/V người_dùng/N BBM/Np trên/E điện_thoại/N Android/Np BlackBerry/V và/CC iOS/N bắt_đầu/V được/V dùng/V miễn_phí/N không/R giới_hạn/V hai/M tính_năng/N Retract/Np và/CC Timer/Np
+BlackBerry/N cho/V biết/V hệ_thống/N sẽ/R áp_dụng/V cơ_chế/N miễn_phí/V từ/E hôm_nay/N nên/C nếu/C người_dùng/N BBM/Np chưa/R thấy/V được/R kích_hoạt/V miễn_phí/V hãy/R làm/V các/L bước/N sau/A
+Trên/E điện_thoại/N dùng/V BlackBerry/N 10/M truy_cập/N BlackBerry/V World/Np vào/V My_World/Np chọn/V Subscriptions/Np và/CC nhấn/V Cancel/Np để/E huỷ/V đăng_kí/N
+Trên/E điện_thoại/N Android/Np vào/V Google_Play_Store/Np nhấn/V vào/E biểu_tượng/N Menu/Np ở/V bên/N trái/A vào/E My_Account/Np Tài_khoản/N của/E tôi/P vào/V tiếp/R phần/N Subscriptions/Np Đăng_kí/V rồi/C huỷ_bỏ/V Cancel/Np
+Người_dùng/N iPhone/N iOS/N không/R cần/V làm_gì/N gói/N đăng_kí/N sẽ/R tự_động/A đươc/V huỷ_bỏ/N
+Ngoài_Retract/Np và/CC Timer/Np người_dùng/V có_thể/V truy_xuất/V đến/R hai/M tính_năng/N Private_Chat/Np tán_gẫu/V riêng_tư/N và/CC Edit/Np hiệu_chỉnh/V
+Private_Chat/Np giúp/V ẩn_danh/V khi/N trò_chuyện/V bằng/E cách/N loại_bỏ/V tên/N và/CC ảnh/N đại_diện/V avatar/N khỏi/V cửa_sổ/N tán_gẫu/N còn/R Edit/Np cho/V phép/N hiệu_chỉnh/A nội_dung/N tin_nhắn/V thậm_chí/N khi/N chúng/N đã/R được/V gửi/V đi/V

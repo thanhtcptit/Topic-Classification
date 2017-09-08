@@ -1,0 +1,42 @@
+Có/V không/R kịch/N bản/N ứng_phó/V với/E tấn/N công/N mạng/N
+Một/M bài/N viết/V từ/E chuyên_viên/N Lê_Công_Phú/Np chia_sẻ/V đúc/N kết_từ/A những/L kinh_nghiệm/N thực_tế/A về/V nguy_cơ/N và/CC sự/N chuẩn_bị/V ứng/V phó/N bài_bản/N rất/R cần_thiết/V trong/E mỗi/M doanh_nghiệp/N cơ_quan/N tổ_chức/V về/V an_toàn/N thông_tin/N
+Trước_hết/N chúng_ta/N phải/V thừa_nhận/V với/E nhau/N rằng/C những/L năm/N gần/A đây/P các/L tổ_chức/N doanh_nghiệp/N bắt_đầu/V có/V ý_thức/N hơn/A trong/E việc/N đầu_tư/V cho/E ATTT/Np ít_nhiều/A thì/C hệ_thống/N phòng_thủ/N của/E chúng_ta/P đang/R trở_nên/V mạnh/A hơn/R được/V đầu_tư/V trang_bị/V nhiều/A giải_pháp/N công_nghệ/N bảo_mật/V tiên_tiến/N
+Nhưng/C ở/V bên/N kia/P chiến_tuyến/N khác/A các/L cuộc/N tấn_công/V chống/V lại/R các/L hệ_thống/N máy_tính/N sẽ/R ngày_càng/X phức_tạp/V gia_tăng/V về/V tần_suất/N và/CC mức_độ/N tinh_vi/A
+Khi/N việc/N phòng_thủ/V thất_bại/V những/L gì/N còn/V lại/V của/E an_toàn/N thông_tin/N chỉ/R có_thể/A là/V xử_lí/N ứng_phó/N
+Nói/V cách/N khác/A xử_lí/A phản_hồi/V là/V tuyến/N phòng_thủ/N cuối_cùng/A của/E an_toàn/N thông_tin/N
+Những/L vụ/N an_toàn/A thông_tin/N lớn/A tại/E VN/Np những/L năm/N gần/A đây/P như/C VCCORP/Np Vietnam_Airlines/Np hay/C rộng/A hơn/A trên/E thế_giới/N như/C Sony_Picture/Np eBay/N Target/Np hay/V HackingTeam/V một/M công_ty/N chuyên/A cung_cấp/V vũ_khí/N tấn_công/V mạng/N bị/V tấn_công/V thâm_nhập/V dữ_liệu/N hay/C những/L báo_cáo/N về/V sự/N gia_tăng/V các/L cuộc/N tấn_công/V APT/Np cho/V thấy/V những/L hệ_thống/N phòng_thủ/N tưởng/V như/A rất/R kiên_cố/A cuối_cùng/A cũng/R thất_bại/V
+Rõ_ràng/N kẻ/N tấn_công/V đang/R ngày_càng/X trở_nên/V tinh_nhuệ/A và/N khó/A lường/V hơn/A được/V trang_bị/V và/N hậu_thuẫn/V chống/V lưng/N bởi/E những/L tổ_chức/N có/V tiềm_lực/N mục_tiêu/N nhắm/V đến/R vẫn/R là/V những/L dữ_liệu/N có/V giá_trị/N như/C thông_tin/N tình_báo/N sở_hữu_trí_tuệ/N kinh_doanh/V
+Bất_cứ/R tổ_chức/N nào/P cũng/R có_thể/A là/V mục_tiêu/N tiếp_theo/V
+Lúc/N này/P khả_năng/N ứng/V phó/N của/E một/M tổ_chức/N đối_với/E các/L sự_cố/N mà/C mình/P gặp/V phải/V sẽ/R tạo/V nên/V sự/N khác_biệt/A so/V với/E những/L phần/N còn/V lại/V
+Trước/E khi/N đi/V vào/E chi_tiết/N tôi/P muốn/V kể/V một_vài/N câu_chuyện/N về/E vấn_đề/N xử_lí/V ứng/N phó/N các/L sự_cố/N an_toàn/N thông_tin/N sự_cố/N tại/E Việt_Nam/Np mà/C tôi/P từng/R tham_gia/V
+Câu_chuyện/N đầu_tiên/N diễn/V ra/R vào/V tháng/N 82014/M khi/N tôi/P tham_gia/V điều_tra/V truy/N vết/N Forensic/Np cho/V một/M máy_chủ/N bị/V tấn_công/V kẻ/N tấn_công/V khi/N đã/R khai_thác/V thành_công/V lỗ_hổng/N tải/N dữ_liệu/N File/Np upload/N của/E một/M website/N có/V được/R quyền/N điều_khiển/V máy_chủ/N cung_cấp/V dịch_vụ/N sau/N đó/P tiến_hành/V Deface/Np 1/M một/M loạt/N các/L site/N trên/N máy_chủ/N đấy/N
+Từ/E những/L thông_tin/N có/V được/R từ/E phía/N nhà/N cung_cấp/V dịch_vụ/N theo/V họ/N thì/C vấn_đề/N này/P sẽ/R được/V đội_ngũ/N kĩ_thuật/N của/E họ/P giải_quyết/V êm_đẹp/A bằng/E việc/N khôi_phục/V lại/R dữ_liệu/N mới/A nhất/R mà/N trước/E đó/P họ/N đã/R cập_nhật/V
+Tất_nhiên/A dữ_liệu/N đó/P sạch/A hay/C không/R nó/P lại/R nằm/V ngoài/E khả_năng/N của/N họ/P
+May_mắn/A là/V trên/N hệ_thống/N của/E họ/P lưu_trữ/V website/N của/E một_số/N cơ_quan/N quan_trọng/A nên/C nhóm/N của/E tôi/P mới/R có/V cơ_hội/N tiếp_cận/V
+Nhiệm_vụ/N của/E chúng_tôi/P là/V điều_tra/V tìm/V ra/R thông_tin/N về/V cuộc/N tấn_công/V càng/R nhiều/A càng/R tốt/A
+Câu_chuyện/N thứ_hai/N diễn/V ra/R vào/V tháng/N 102014/M một/M trong/E những/L tổ_chức/N hoạt_động/V trong/E lĩnh_vực/N Internet/Np và/CC truyền_thông/N tại/E Việt_Nam/Np bị/V tấn_công/V gây/V thiệt_hại/N lớn/A về/E uy_tín/N lẫn/N tài_chính/N cho/E đơn_vị/N này/P
+Chúng_tôi/N nhận/V được/R yêu_cầu/V hỗ_trợ/V mục_tiêu/N cuối_cùng/A vẫn/R là/V tìm/V ra/R thủ_phạm/N tấn_công/V tuy/N nhiện/N ở/E vụ/N này/P không_chỉ/N chúng_tôi/P mà/C ngay/T cả/T một_số/L đơn_vị/N khác/A tham_gia/V ứng_phó/N đều/R không/R được/V tiếp_cận/V nhiều/A đến/E hệ_thống/N của/E khách/N hàng/N bởi_vì/N nhiều/A lí_do/N
+Hai/M câu_chuyện/N trên/E đều/R có/V một/M điểm/N chung/A đó/P là/V khả_năng/N xử_lí/V và/CC ứng/N phó/N của/E họ/P rất/R yếu/A
+Họ/P không/R có/V quy_trình/N công_cụ/N cũng/R như/A một/M đội_ngũ/N lành_nghề/N để/E đáp_ứng/V những/L công_việc/N trên/N
+Ở/E vụ/N thứ/N nhất/M trong/N quá_trình/N phân_tích/V các/L bản/N ghi/V sự_kiện/N chúng_tôi/P tìm/V thấy/V nhiều/A bằng_chứng/N cho/V thấy/V kẻ/N tấn_công/V đã/R thực_hiện/V quá_trình/N Cover_Track/Np
+Chính/T vì_thế/C chúng_tôi/N cần/V những/L bản/N ghi/V từ/E hệ_thống/N quản_lí/N bản/N ghi/V log/N tập_trung/V của/E nhà/N cung_cấp/V dịch_vụ/N để/E phân_tích/V rõ/A hơn/R
+Tuy_nhiên/C thật/R đáng/V tiếc/V khi/N một/M nhà/N cung_cấp/V dịch_vụ/N Hosting/Np lưu_trữ/V web/N mà_lại/N không/R xây_dựng/V một/M hệ_thống/N như/C vậy/P
+Ở/E vụ/N thứ_hai/N lúc/N chúng_tôi/N trao_đổi/V thông_tin/N với/E khách/N hàng/N thì/C phần_lớn/N các/L máy/N bị/V tấn_công/V đều/R đã/R được/V tắt/V nguồn/N và/CC niêm_phong/N để/V tiến_hành/V Dead/Np analysis/V phân_tích/V thô/N
+Đây/P là/V một_cách/N làm/V thiếu/A sót/N bởi_vì/N những/L chứng_cứ/N liên_quan/V đến/E kẻ/N tấn_công/V như/C dữ_liệu/N trong/E bộ_nhớ/N tạm/N RAM/Np dữ_liệu/N mạng/N các/L truy/N cập/N
+vô_tình/N bị/V phá_huỷ/V xoá/N dấu_vết/N giúp/V kẻ/N tấn_công/V
+Trong/E vụ/N thứ_hai/N nạn_nhân/N chỉ/R cung_cấp/V cho/E chúng_tôi/N mẫu_mã/N độc/A để/E phân_tích/V câu_chuyện/N vui/A nhưng/C kết_thúc/V chỉ/R có/V thế/N
+Tất_nhiên/A là/V công_cụ/N tìm/V diệt/N mã/N độc/A sau/N đó/P đã/R ra_đời/V và/N làm/V sạch/A đáng_kể/N hệ_thống/N của/E khách/N hàng/N
+Ở/E hai/M câu_chuyện/N trên/E cái/N mà/N chúng_tôi/N cần/V nhất_là/N dữ_liệu/N càng/R nhiều/A càng/R tin_cậy/V càng/R tốt/A
+Chúng_tôi/N cần/V tiếp_cận/V và/N thu_thập/N càng/R nhiều/A thông_tin/N về/V hệ_thống/N để/E xây_dựng/V lộ/N trình/N phục_vụ/V cho/V việc/N phân_tích/V
+Trong/E xử_lí/N phản_hồi/V thì/C Forensics/Np được/V xem/V là/V một/M trong/E những/L phần/N quan_trọng/A nhất/A và/CC một/M trong/E những/L phần/N quan_trọng/A nhất/A trong/E Forensics/Np chính/T là/V dữ_liệu/N để/V phân_tích/V
+Ở/E hai/M trường_hợp/N trên/E chúng_tôi/P đều/R không/R có/V những/L thứ/N chúng_tôi/N cần/V
+Hai/M câu_chuyện/N ở/E hai/M tổ/N chức/N nhưng/C cũng/R là/V câu_chuyện/N của/E rất/R rất/R nhiều/A công_ty/N cơ_quan/N khác/A mà/C tôi/P có/V cơ_hội/N làm_việc/V
+Tất_cả/L những/L sự_cố/N đều/R thực_hiện/V sau/E khi/N việc_đã_rồi/N có/V nghĩa_là/N họ/P không/R có/V các/L quy_trình/N cụ_thể/A để/E thu_thập/V lưu_trữ/N cũng/R như/C bảo_vệ/V những/L dữ_liệu/N cần_thiết/A phục_vụ/V cho/E những/L công_việc/N ứng_phó/A sự/N cố/V sau_này/N
+Công_việc/N của/E những/L đơn_vị/N cá_nhân/N tham_gia/V xử_lí/N sự_cố/N gặp/V rất/R nhiều/A khó_khăn/N vì/N dữ_liệu/N bị/V phá_huỷ/N không/R đủ/V dữ_liệu/N để/V phân_tích/V
+Lướt/V qua/E những/L báo_cáo/N an_ninh/N mạng/N gần/A đây/N của/E Trustwave/Np hay/C Mandiant/Np cho/V biết/V các/L tổ_chức/N phải/V mất/V rất/R nhiều/A thời_gian/N để/E phát_hiện/V sự/N xâm_nhập/V vào/E hệ_thống/N mạng/N của/N mình/N
+Trích_Báo/Np cáo/V Trustwave_Global_Security_Report/Np và/CC Mandiant/Np MTrend_Report/V
+Khi/N mà/C chúng_ta/P đang/R cần/V một/M phương_pháp/N để/E phản_ứng/V nhanh/A với/E các/L sự_cố/N thì/C hiện_tại/N những/L gì/P tôi/P quan_sát/V được/R phần_lớn/N công_việc/N ứng_phó/A sự_cố/N trong/E các/L tổ_chức/N tại/E Việt_Nam/Np vẫn/R đang/R bỏ/V ngõ/N
+Nhiều/A tổ_chức/N và/CC công_ty/N lớn/A trên/E thế_giới/N họ/N duy_trì/V một/M đội/N phản_ứng/N sự_cố/N sẵn_sàng/A 247/M để/E đối_phó/V với/E các/L sự_cố/N tiềm_năng/N có_thể/A xảy/V ra/R với/E đơn_vị/N mình/N
+Trong/E khi/N ở/V Việt_Nam/Np khi/N nhắc/V đến/R ứng_phó/N sự_cố/N đồng_nghĩa/A với/E việc/N nhắc/V đến/R những/L cái/N tên/N nhờ_vả/N quen_thuộc/A như/C VNCERT/Np hay/V CMC/Np hay/V BKAV/Np
+Phần/N 02/M Hệ_thống/N của/E chúng_tôi/P có/V gì/N đâu/R ai/P tấn_công/V làm_gì/N
+1/M Deface/Np chiếm/V quyền/N điều_khiển/N website/N và/CC thay_đổi/V giao_diện/N trang_web/N sang/V nội_dung/N tuỳ_ý/V

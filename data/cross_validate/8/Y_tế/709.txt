@@ -1,0 +1,28 @@
+Lý_do/N khiến/V bệnh_nhân/N đái_tháo_đường/N dễ/A gặp/V biến_chứng/N
+Trong/E hướng_dẫn/V quốc_gia/N về/V chẩn_đoán/V và/CC điều_trị/V bệnh/N đái_tháo_đường/N các/L chỉ_số/N cần/V kiểm_soát/V gồm/V đường_huyết/N huyết_áp/N cân/N nặng/A HbA1c/Np cholesterol/N toàn_phần/N …/M Văn_bản/N cũng/R đề_cập/V cách/N lựa_chọn/V phối_hợp/V thuốc/N dựa/V trên/E bối_cảnh/N tình_trạng/N cụ_thể/A của/E người_bệnh/N
+Để/E quản_lý/V đái_tháo_đường/N cần/V kết_hợp/V nhiều/A biện_pháp/N như/C thực_hiện/V lối/N sống/V lành_mạnh/A năng/R cao/A nhận_thức/V tự/P chăm_sóc/V cho/E người_bệnh/N sàng_lọc/V thường_xuyên/A để/E phát_hiện/V sớm/A và/CC điều_trị/V biến_chứng/N
+Phó_giáo_sư/N Tiến_sĩ/N Nguyễn_Khoa_Diệu_Vân/Np Trưởng/Np khoa/N Nội_tiết/Np Đái_tháo_đường/Np Bệnh_viện/N Bạch_Mai/Np cho_biết/V Hiện/N bệnh_viện/N đang/R quản_lý/V hơn/A 2 0/M bệnh_nhân/N tiểu_đường/N ngoại_trú/N và/CC trên/E 100/M người/N nội_trú/N
+Insulin/Np là/V liệu_pháp/N điều_trị/V bắt_buộc/V và/CC hiệu_quả/N khi/N bệnh/N đái_tháo_đường/N tiến_triển/V
+Tuy_nhiên/C trên/E thực_tế/N việc/N điều_trị/V bằng/E insulin/N hiện/N gặp/V không/R ít/A khó_khăn/N
+Bệnh_nhân/N tuân_thủ/V kém/A do/E tâm_lý/N sợ/V hạ/V đường_huyết/N sợ/V tiêm/V dẫn/V đến/E hiệu_quả/N điều_trị/V thấp/A
+Các/L biến_chứng/N đái_tháo_đường/N thường/R nặng_nề/A chiếm/V phần_lớn/N chi_phí/N điều_trị/V
+Biến_chứng/N tim_mạch/N /M tăng/V huyết_áp/N đột_quỵ/V suy/V tim/N …/M /N là/V nguyên_nhân/N gây/V tử_vong/V thường/R gặp/V nhất/R
+Biến_chứng/N thận/N dẫn/V đến/E suy/V thận/N giai_đoạn/N cuối/N phải/V thay/V hoặc/CC lọc/V thận/N
+Biến_chứng/N võng_mạc/N làm/V giảm/V thị_lực/N và/CC gây/V mù_lòa/N
+Bác_sĩ/N có_thể/A chỉ_định/V cắt/V cụt/A chi/V nếu/C gặp/V biến_chứng/N thần_kinh/N
+Do/E các/L biến_chứng/N này/P bệnh_nhân/N đái_tháo_đường/N có/V nguy_cơ/N tỷ/V vong/N gấp/V đôi/M so/V với/E người/N bình_thường/A
+Nguy_cơ/N tàn_tật/A và/CC tử_vong/A do/E đái_tháo_đường/N hiện/N ở/E mức/N cao/A
+Trên/E thế_giới/N năm/N 2015/M có/V 415/M triệu/M người/N mắc/V bệnh/N đái_tháo_đường/N chi_phí/N điều_trị/V bệnh/N và/CC biến_chứng/V 673/M tỷ/N USD/Np
+Số/N bệnh_nhân/N dự_báo/V sẽ/R tăng/V 55%/M vào/E năm/N 2040/M đẩy/V chi_phí/N y_tế/N toàn_cầu/N cho/E đái_tháo_đường/N lên/V đến/E 802/M tỷ/N USD/Np
+Tại_Việt_Nam/Np bệnh/N có/V xu_hướng/N gia_tăng/V và/CC ngày_càng/X trẻ_hoá/V
+Theo/E số_liệu/N của/E Liên_đoàn/N đái_tháo_đường/N thế_giới/N /A IDF/Np /A năm/N 2015/M có/V 3,5/M triệu/M người/N mắc/V bệnh/N chiếm/V 6%/M người/N trưởng_thành/V trong/E độ/N tuổi/N 20-79/M
+Con_số/N này/P dự_báo/V sẽ/R tăng/V lên/R 6,1/M triệu/M người/N vào/E năm/N 2040/M
+Chi_phí/N y_tế/N trên/E đầu/N người/N là/V 162,7/M USD/Nu
+Phát_hiện/V sớm/A giúp/V người_bệnh/N tiết_kiệm/V chi_phí/N điều_trị/V và/CC hạn_chế/V thấp/A nhất/A biến_chứng/V
+Song/Np  /V theo/E số_liệu/N của/E Bộ/N Y_tế/N  /N chỉ/R có/V 31%/M được/R chẩn_đoán/V phần_lớn/N thăm_khám/V khi/N đã/R ở/V giai_đoạn/N muộn/A
+Đặc_biệt/A có/V đến/V 64%/M bệnh_nhân/N không/R kiểm_soát/V tốt/A căn_bệnh/N đái_tháo_đường/N của/E bản_thân/N
+Các/L phương_pháp/N hiện_nay/N chủ_yếu/A tập_trung/V kiểm_soát/V đường_huyết/N cho/E bệnh_nhân/N
+Giảm/V 1%/M HbA1c/Np /M chỉ_số/N đường_huyết/N trung_bình/A trong/E 2-3/M tháng/N /M sẽ/R giúp/V giảm/V các/L biến_chứng/N dài_hạn/A
+Insulin/Np là/V một/M trong/E những/L giải_pháp/N kiểm_soát/V đường_huyết/N hiệu_quả/N
+Tuy_nhiên/C một/M trong/E những/L thách_thức/N của/E bác_sĩ/N hiện_nay/N là/V tăng/V tuân_thủ/V điều_trị/V cho/E bệnh_nhân/N bằng/E cách/N giảm/V nỗi/N lo/V hạ/V đường_huyết/N sợ/V tiêm/V nhiều/A lần/N
+Ngoài_ra/C để/E giúp/V bệnh_nhân/N tuân_thủ/V điều_trị/V với/E insulin/N cần/V có/V giải_pháp/N kiểm_soát/V tốt/A đường_huyết/N ít/A hạ/V đường_huyết/A với/E phác_đồ/N đơn_giản/A hơn/R

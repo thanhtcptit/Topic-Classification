@@ -1,0 +1,32 @@
+Ứng_dụng/N hữu_ích/A hướng_dẫn/V đọc/V và/CC học/V tiếng/N Anh/Np cho/E trẻ_em/N 
+Sản_phẩm/N CNTT/Np vào/E Chung_khảo/N NTĐV/Np 2015/M Theo/E nhiều/A nghiên_cứu/N khoa_học/N cho/E thấy/V bộ_não/N của/E trẻ/N phát_triển/V mạnh_mẽ/A nhất_là/X giai_đoạn/N từ/E 0/M đến/E 6/M tuổi/N 
+Từ/E lúc/N thụ_thai/V các/L tế_bào/N thần_kinh/N của/E não/N phát_triển/V nhanh/A hơn/R bất_kỳ/R tế_bào/N nào/P khác/A trong/E cơ_thể/N của/E trẻ/N 
+Tốc_độ/N phát_triển/V này/P của/E não/N vẫn/R được/V duy_trì/V tới/E năm_6/M tuổi/N 
+Do_vậy/C giai_đoạn/N từ/E 0/M 6/M tuổi/N là/V giai_đoạn/N trẻ/A có/V khả_năng/N học_tập/V tốt/A nhất/R khả_năng/N nhớ/V liên_tưởng/N …/A là/V vô_hạn/A nó/P cũng/R quyết_định/V sự/Nc hình_thành/V về/E tính_cách/N và/CC năng_lực/N của/E trẻ/N 
+Monkey_Junior/Np Learn/Np to/A read/V là/V ứng_dụng/N di_động/V được/V ra_đời/V nhằm/V giúp/V các/L bé/N học/V ngoại_ngữ/N và/CC học/V đọc/V 
+Chương_trình/N có_thể/R áp_dụng/V với/E các/L bé/N từ/E 4/M 5/M tháng/N tuổi/N cho_đến/E các/L bé/N mẫu_giáo/N và/CC tiểu_học/N 
+Monkey_Junior/Np được/V phát_triển/V với/E nội_dung/N tính_năng/N phù_hợp/V với/E các/L bé/N từ/E 0/M 6/M tuổi/N 
+Monkey_Junior/Np là/V một/M hệ_thống/N các/L bài_học/N hiệu_quả/N và/CC toàn_diện/A với/E tổng_cộng/N trên/E 1200/M bài_học/N cho/E mỗi/L ngôn_ngữ/N dạy/V trẻ/N mới/R sinh/V trẻ/A đang/R độ/N tuổi/N tập/V đi/V hoặc/CC trẻ/A mẫu_giáo/N học/V đọc/V và/CC học/V ngoại_ngữ/N bằng/E cách/N áp_dụng/V những/L phương_pháp/N học_tập/V dành/V cho/E trẻ/N của/E những/L chuyên_gia/N hàng_đầu/N thế_giới/N trong/E lĩnh_vực/N giáo_dục/N sớm/A 
+ /M Nội_dung/N của/E chương_trình/N được/V chia/V thành/V ba/M cấp_độ/N khác_nhau/A gồm/V có/V mức_độ/N Dễ/Np mức_độ/N Trung_bình/A và/CC mức_độ/N Nâng/V cao/A 
+Ở/E mức_độ/N Dễ/Np dạy/V trẻ/A cách/N đọc/V những/L từ/E đơn_lẻ/A 
+Mức_độ/N Trung_bình/A dạy/V trẻ/A cách/N đọc/V những/L câu/N đơn_giản/A và/CC ở/E mức_độ/N Nâng/V cao/A dạy/V trẻ/A cách/N đọc/V những/L câu/N phức_tạp/A về/E mặt/N từ_vựng/V và/CC ngữ_pháp/V )/A 
+Mỗi/L bài_học/N có/V thời_lượng/N ngắn/A từ/E 5-7/M phút/Nu có/V những/L tương_tác/N đơn_giản/A nhưng/C hấp_dẫn/V cuốn_hút/V người/N dùng/V 
+Giao_diện/N của/E ứng_dụng/N ngộ/V ngĩnh/N nhiều/A màu_sắc/N phù_hợp/V cho/E trẻ/N với/E nội_dung/N đồ_sộ/A đa_dạng/A nhưng/C có/V chọn_lọc/V cho/E lứa/N tuổi/N sẽ/R giúp/V bé/N không_chỉ/C học/V đọc/V học/V ngoại_ngữ/N mà_còn/C học/V các/L kiến_thức/N cơ_bản/A đi/V kèm/V 
+Mỗi/L lần/N học/V bé/N chỉ/R cần/V bấm/V nút/N Play/Np để/E bắt_đầu/V và/CC quẹt/N tay/N để/E sang/V phần/N nội_dung/N mới/A của/E cùng/A bài_học/N 
+Mỗi/L bài_học/N kéo_dài/V khoảng/A từ/E 5-7/M phút/Nu và/CC khi/N bé/N học/V xong/R một/M bài_học/N thì/C chương_trình/N tự_động/A nhảy/V sang/E bài_học/N tiếp_theo/V cho/E bé/N 
+Điều/N này/P hoàn_toàn/A phù_hợp/V với/E đối_tượng/N trẻ/A từ/E 0/M đến/E 6/M tuổi/N 
+Ngoài_ra/C đối_với/E các/L bậc/N phụ_huynh/N ứng_dụng/N cũng/R giúp_việc/V dạy/V bé/N trở_nên/V đơn_giản/A hơn/R 
+Các/L bố_mẹ/N không/R cần/V phải/V lên/V kế_hoạch/N và/CC chuẩn_bị/V nội_dung/N hàng/R ngày/N 
+Tất_cả/P các/L nội_dung/N bài_học/N đã/R được/V chuẩn_bị/V và/CC phân_bổ/V một_cách/N khoa_học/A bởi/E các/L chuyên_gia/N 
+Ứng_dụng/V học/V tiếng/N anh/N này/P bao_gồm/V hàng/R trăm/M chủ_đề/N đọc/V khác_nhau/A cho/E trẻ_em/N từ/E những/L đồ_vật/N ở/E nhà/N hình_dạng/N bộ_phận/N cơ_thể/N đồ_chơi/N các/L hành_động/N trái_cây/N và/CC rau_quả/V đến/E động_vật/N hoang_dã/A côn_trùng/N thiên_nhiên/N giao_thông/N các/L ngành_nghề/N các/L doanh_nghiệp/N và/CC khoa_học/N cùng/A hơn/R 100/M quy_tắc/N phát_âm/V khác_nhau/A 
+Đặc_biệt/A để/E dạy/V phát_âm/V tiếng/N anh/N hiểu/V quả/N cho/E bé/N chúng_tôi/P tuyển_chọn/V 3/M giọng/N đọc/V bản_xứ/N và/CC các/L giọng/N đọc/V được/R luân_phiên/V trong_suốt/A khoá/N học/V 
+Đấy/P cũng/R là/V cách/N bé/N luyện/V nghe/V tiếng/N Anh/N hiệu_quả/N 
+Ngoài/E những/L bài_học/N ứng_dụng/N còn/R giúp/V trẻ/N tiếp_cận/V các/L nội_dung/N thông_qua/V những/L trò_chơi/N với/E cấp_độ/N kho/N khác_nhau/A sẽ/R tăng_cường/V kinh_nghiệm/N học/V của/E trẻ/N 
+Các/L trò_chơi/N cũng/R được/V điều_chỉnh/V và/CC tùy/V biến/V theo/E quá_trình/N tiến_bộ/N của/E cá_nhân/N 
+Trong/E tương_lai/N nhóm/N tác_giả/N hy_vọng/V sẽ/R kết_hợp/V ứng_dụng/V với/E các/L tổ_chức/N trường_học/N mầm_non/A để/E đưa/V sản_phẩm/N vào/E giáo_trình/N học/V của/E học_sinh/N mầm_non/N đồng_thời/R mở_rộng/V tính/N cộng_đồng/N của/E sản_phẩm/N bằng/E việc/N tiếp_cận/V các/L khu_vực/N vùng_cao/N vùng_sâu/N vùng_xa/N để/E đưa/V sản_phẩm/N tới/E các/L trường_học/N giúp/V trẻ_em/N khu_vực/N có/V hoàn_cảnh/N khó_khăn/A có/V cơ_hội/N được/V tiếp_cận/V và/CC học_tập/V theo/E phương_pháp/N hiệu_quả/N và/CC toàn_diện/A 
+Những/L ưu_điểm/N và/CC tính/N thiết_thực/A đã/R giúp/V Monkey_Junior/Np trở_thành/V một/M trong/E năm/N sản_phẩm/N Công_nghệ_thông_tin/N ứng_dụng/V trên/E di_động/N lọt/V vào/E vòng/N Chung_khảo/N của/E Giải_thưởng/N Nhân_tài/N Đất_Việt/Np năm/N nay/P để/E cùng/A các/L sản_phẩm/N khác/A tranh/V tài/N vào/E ngày/N 18/11/M tới/E đây/P 
+Người/N dùng/V có_thể/R download/V phiên_bản/N ứng_dụng/V dành/V cho/E Android/Np tại/E đây/P  /M hoặc/CC tại/E đây/P  /M (/Nu tương_thích/A Android/Np 2.3/M trở_lên/A 
+Với/E người/N dùng/V i/N OS/Np có_thể/R download/V ứng_dụng/V tại/E đây/P  /M (/Nu tương_thích/V i/N OS/Np 5.1.1/M trở_lên/A 
+Video/Np giới_thiệu/V về/E ứng_dụng/N Monkey_Junior/Np  /M Lễ/N trao/V giải/N Giải_thưởng/N Nhân_tài/N Đất_Việt/Np 2015/M sẽ/R được/V truyền_hình/N trực_tiếp/A trên/E kênh/N VTV2/Np Đài/Np THVN/Np vào/E 20h00/M ngày/N 20/11/2015/M và/CC được/V truyền_hình/N trực_tuyến/A trên/E báo/N Điện_tử/N Dân_trí/N và/CC Báo_Điện/Np tử/V VnMedia/Np 
+Thông_tin/N chi_tiết/N về/E Giải_thưởng/N Nhân_tài/N Đất_Việt/Np được/V đăng_tải/V đầy_đủ/A trên/E Website/N chính_thức/A của/E Giải_thưởng/N www/N nhantaidatviet.vnn.vn/V trên/E Báo_điện_tử/N Dân_trí/N www.dantri.com.vn/N và/CC trên/E trang/N tin/N VNMedia/Np http/V //X //X vnmedia.vn/V )/A 
+T.Thủy/Np 

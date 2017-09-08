@@ -1,0 +1,13 @@
+Máy_gia_tốc/N Lớn/Np phát_hiện/V hạt/N vật_chất/N mới/R
+Các/L nhà_khoa_học/N tại/E Tổ_chức/N Nghiên_cứu/V Hạt_nhân/N châu/N Âu/Np CERN/Np thông_báo/V Máy_gia_tốc/N hạt/N lớn/A  /V LHC/Np /V  /N cuối_cùng/A đã/R phát_hiện/V một/M loại/Nc hạt/N mới/R nặng/A gấp/V 4/M lần/N proton/N
+Họ/P gọi/V đó/P là/V hạt/N hạ/V nguyên_tử/A Xi/Np cc/Nu +/M +/N được/V cấu_tạo/N bởi/E hai/M hạt/Nc quark/N nặng/A Techtime/Np hôm/N 7/7/M đưa/V tin/N
+Giới/N vật_lý/N từ/E lâu/A đã/R đặt/V ra/R giả_thuyết/V rằng/C sự/Nc kết_hợp/V hạt/N như_vậy/X tồn_tại/V trong/E tự_nhiên/N nhưng/C không/R đưa/V ra/R được/V bằng_chứng/N thuyết_phục/V cho_đến/E bây_giờ/P
+Chúng_tôi/P phát_hiện/V 313/M tương_tác/N của/E các/L hạt/N trong/E dữ_liệu/N thu_thập/V vào/E năm/N 2016/M và/CC 113/M tương_tác/N trong/E dữ_liệu/N thu_thập/V năm/N 2012/M
+Quan_sát/V của/E chúng_tôi/P có/V tính/N thống_kê/V cao/A và/CC hoàn_toàn/A thực_tế/N Patrick_Spradlin/Np thành_viên/N của/E nhóm/N nghiên_cứu/V cho_biết/V
+Hạt_Xi/M cc/Nu +/M +/N tồn_tại/V trong/E thời_gian/N rất/R ngắn/A nên/C chỉ/R được/V xác_định/V thông_qua/V những/L dấu_vết/N còn/R sót/V lại/R hoặc/CC các/L hạt/N mà/C nó/P bị/V phá/V vỡ/V tạo/V thành/V
+Khám_phá/V hạt/N Xi/Np cc/Nu +/M +/N là/V một/M bước_tiến/N quan_trọng/A để/E các/L nhà_khoa_học/N hiểu/V rõ/A hơn/R về/E cách_thức/N vận_hành/V của/E thế_giới/N xung_quanh/N
+Việc/N tìm/V ra/R hạt/N baryon/N có/V khối_lượng/N gấp/V đôi/M hạt/N quark/N nặng/A thu_hút/V được/R sự/Nc chú_ý/V của/E các/L nhà_khoa_học/N
+Nó/P cung_cấp/V công_cụ/N độc_đáo/A để/E tìm_hiểu/V thêm/V về/E động_lực_học/N lượng_tử/V cũng_như/C nâng/V cao/A tính/N chuẩn_xác/A của/E các/L lý_thuyết/N vật_lý/N trong/E tương_lai/N Giovanni_Passaleva/Np  /V phát_ngôn_viên/N về/E thí_nghiệm/N LHCb/Np của/E CERN/Np nói/V
+Máy_Gia/Np tốc/V Hạt/N lớn/A  /V LHC/Np là/V máy_gia_tốc/N hạt/N lớn/A nhất/R và/CC cung_cấp/V gia_tốc/N mạnh/A nhất/A thế_giới/N do/E CERN/Np xây_dựng/V
+LHC/Np nằm/V trong/E một/M đường_hầm/N hình_tròn/N có/V chu_vi/N 27/M km/Nu tại/E biên_giới/N  /M Pháp/Np và/CC Thụy_Sĩ/Np
+LHC/Np được/V thiết_kế/V để/E thực_hiện/V nhiều/A thí_nghiệm/N va_chạm/V trực_diện/V ở/E tốc_độ/N cao/A giữa/E các/L hạt/N proton/N

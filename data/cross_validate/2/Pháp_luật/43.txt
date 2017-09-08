@@ -1,0 +1,20 @@
+Công_ty/N cáp/N treo/V Vũng_Tàu/Np phải/V bồi_thường/V cho/E khách/N hơn/A 81/M triệu/N
+Va/V vào/E con/N lươn/N khi/N chơi/V trò_chơi/N tại/E Khu/N du_lịch/N Hồ_Mây/Np Vũng_Tàu/Np và/CC bị/V đứt_ruột/V phải/V nhập_viện/V anh/N Phạm_Minh_Luân/Np khởi_kiện/V yêu/V cầu/N Công_ty/N cáp/V treo/V Vũng_Tàu/Np bồi_thường/V
+Ngày/N 286/M TAND/Np TP/Np Vũng_Tàu/Np đưa/V vụ/N án/N yêu_cầu/N bồi_thường/V thiệt_hại/A về/E sức_khoẻ/N tinh_thần/N giữa/N nguyên_đơn/N là/V anh/N Phạm_Minh_Luân/Np 25/M tuổi/N ngụ/N Cần_Thơ/Np và/CC bị_đơn/N là/V Công_ty/N cổ_phần/N du_lịch/N cáp/V treo/V Vũng_Tàu/Np chủ/N Khu/N du_lịch/V Hồ_Mây/Np Núi_Lớn/Np TPV/Np ũng/V Tàu/Np ra/V xét_xử/V
+Kết_quả/N toà/N tuyên/V buộc/V Công_ty/N cổ_phần/N cáp/N treo/V phải/V bồi_thường/V hơn/R 81/M triệu/M đồng/Nu cho/V anh/N Luân/Np
+Tại/E phiên_toà/N ngày/N 286/M anh/N Luân/Np và/CC vợ/N người/N có/V quyền_lợi/N nghĩa_vụ/N liên_quan/V không/R ra/V toà/N mà/C uỷ_quyền/V cho/V anh/N Nguyễn_Chung_Hiếu/Np
+Theo/E đơn/N khởi_kiện/V ngày/N 2282015/M anh/Nc Luân/Np cùng/A một/M nhóm/N bạn/N từ/E TPHCM/Np xuống/V Hồ_Mây/Np chơi/V
+Chiều/N cùng/A ngày/N khi/N anh/N Luân/Np tham_gia/V chơi/V trò_chơi/N đua/V xe/N thể_thao/N F1/Np đến/V vòng/N thứ_ba/N thì/C xe/N va/V vào/E con/N lươn/N làm/V vùng/N bụng/N anh/N đập/V vào/V vô_lăng/N anh/N đứt_ruột/V phải/V nhập_viện/V điều_trị/N
+Sau/E vụ/N việc/N anh/N Luân/Np yêu_cầu/V Công_ty/N cổ_phần/N du_lịch/N cáp/V treo/V Vũng_Tàu/Np phải/V bồi_thường/V thiệt_hại/A vật_chất/N tổn_thất/N tinh_thần/N với/E số/N tiền/N 363/M triệu/M đồng/Nu
+Tuy_nhiên/C công_ty/N này/P chỉ/R đồng_ý/V hỗ_trợ/V nên/N anh/N Luân/Np khởi_kiện/V ra/V toà/N
+Tại/E phiên/N xử/V phía/N đại_diện/N hợp_pháp/A theo/V uỷ_quyền/N của/E anh/Nc Luân/Np cho/V rằng/E tai_nạn/N xảy/V ra/R hoàn_toàn/A do/E lỗi/N thiết_kế/V đường/N đua/V lỗi/N do/E xe/N đua/V thiết_kế/V không/R đúng/A kĩ_thuật/N
+Tuy/C có/V trang_bị/N áo_giáp/N nhưng/C chất_lượng/N áo/N kém/A mỏng/N không_thể/A bảo_vệ/V vùng/N bụng/N người/N chơi/V khi/N bị/V va_chạm/V trực/V tiếp/V
+Luật_sư/N phía/N anh/N Luân/Np còn/R cho/V rằng/C trò_chơi/N đua/V xe/N F1/Np không/R nằm/V trong/E quy_hoạch/N của/E dự/N án/N Khu/N du/N lịch/N Hồ_Mây/Np
+Trong/E khi/N đó/P phía/N bị_đơn/N cho/V rằng/E tai_nạn/N xảy/V ra/R là/V do/E lỗi/N hoàn_toàn/A của/E anh/N Luân/Np vì/E trước/E khi/N tham_gia/V trò_chơi/N đã/R uống/V rượu_bia/N
+Mặc_dù/C nhân_viên/N khu/N du_lịch/N yêu_cầu/V anh/N Luân/Np không/R nên/V chơi/V nhưng/C anh/N khẳng_định/V mình/P vẫn/R đủ/V tỉnh_táo/N để/V tham_gia/V
+Sau/E khi/N nghe/V các/L bên/N trình_bày/N xem_xét/V các/L chứng_cứ/N cũng/R như/C quá_trình/N xác_minh/V thực_tế/N và/CC tính_toán/V Hội_đồng/N xét_xử/V chấp_nhận/V số/N tiền/N thiệt_hại/N anh/N Luân/Np yêu_cầu/V bồi_thường/V là/V hơn/A 90/M triệu/M đồng/Nu
+Hội_đồng/N xét/V xử/N nhận/V định/V lỗi/N dẫn/V đến/R tai_nạn/V từ/E hai/M phía/N
+Cụ_thể/N công_ty/N cáp/N treo/V phải/V có/V trách_nhiệm/N đảm_bảo/V an_toàn/A tuyệt_đối/A cho/E người/N chơi/V
+Việc/N công_ty/N cho/V rằng/C không/R có/V lỗi/N trong/E vụ/N tai_nạn/N là/V không/N đúng/A
+Ngược_lại/N lỗi/N cũng/R một/M phần/N do/E anh/N Luân/Np vì/E đây/P là/V trò_chơi/N hoàn_toàn/A tự_nguyện/V và/N anh/Nc Luân/Np đã/R không/R tuân_thủ/V nội_quy/N vì/N đã/R sử_dụng/V rượu_bia/N trước/E khi/N tham_gia/V
+Toà/N xác/N định/V lỗi/N thuộc/N phía/N bị_đơn/N là/V 90/M nguyên_đơn/N 10/M tuyên/N buộc/V Công_ty/N cổ_phần/N du_lịch/N cáp/V treo/V Vũng_Tàu/Np phải/V bồi_thường/V cho/V anh/N Luân/Np số/N tiền/N hơn/R 81/M triệu/M đồng/Nu

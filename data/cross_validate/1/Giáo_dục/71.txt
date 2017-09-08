@@ -1,0 +1,3 @@
+Bài/N giải/N môn/N tiếng/N Anh/Np THPT/Np Quốc_gia/N 2017/M mã_đề/N 402/M
+Nhóm/N giáo_viên/N Đỗ_Lê_Nhã_Trúc/Np Phạm_Thị_Ngọc_Hân/Np Nguyễn_Đức_Huy/Np Nhâm_Thế_Sơn/Np Nguyễn_Nhật_Quang/Np và/CC Lý_Duy_Nguyễn/Np Ngân/Np hàng/N đề/N thi/V www/N
+789vn/M thực_hiện/N

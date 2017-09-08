@@ -1,0 +1,15 @@
+Đại_sứ/N quốc_tế/N về/V bệnh/N động_kinh/N đến/V Việt_Nam/Np
+Giáo_sư/N Pierre_Jallon/Np Đại_sứ/N quốc_tế/N về/V bệnh/N động_kinh/N của/E Hội/N chống/V động_kinh/N Quốc_tế/N trực_tiếp/A thăm_khám/V bệnh_nhân/N tại/E  /N Trung_tâm/N Phẫu_thuật/V thần_kinh/N khoa/N Nội/Np Hồi_sức/V Thần_kinh/N  /M Trong/E 8/M người/N được/V khám/V vào/E sáng/N 20/6/M giáo_sư/N Pierre_Jallon/Np cho_biết/V 2/M bệnh_nhân/N có/V khả_năng/N phẫu_thuật/V số/N còn/V lại/R tiếp_tục/V dùng/V thuốc/N hoặc/CC thay_đổi/V thuốc/N  /EOS
+Động_kinh/N là/V một/M bệnh_lý/N phức_tạp/A biểu_hiện/V điển_hình/N là/V các/L cơn/Nc co_giật/N sùi/V bọt/N mép/N …/M Bệnh/N có/V nhiều/A thể/R khác_nhau/A có_khi/N là/V cơn/N vắng/A ý_thức/N rối_loạn/V cảm_giác/N hành_động/N bất_thường/A hoặc/CC những/L cơn/Nc cười/V vô_ý_thức/A
+Theo/E chuyên_gia/N này/P điều_trị/V bệnh/N bằng/E cách/N dùng/V thuốc/N vẫn/R là/V chủ_yếu/A
+Khi/N phẫu_thuật/V hiệu_quả/N như_thế/X tùy_thuộc/V vào/E tổn_thương/N thực_thể/N
+Trường_hợp/N động_kinh/N có/V nguyên_nhân/N trên/E não/N phẫu_thuật/V có_thể/R đạt/V hiệu_quả/N 70/M thậm_chí/R là/V 100%/M nếu/C tổn_thương/V nhiều/A vị_trí/N không/R có/V nguyên_nhân/N thì/C hiệu_quả/N có_thể/R chỉ/V 40%/M
+Vì_thế/C các/L bác_sĩ/N thường/R cân_nhắc/V rất/R nhiều/A khi/N chỉ_định/V phẫu_thuật/V cho/E bệnh_nhân/N
+Tiến_sĩ/N Nguyễn_Anh_Tuấn/Np Trưởng/Np khoa/N Nội/Np Hồi_sức/V Thần_kinh/N Bệnh_viện/N Việt_Đức/Np cho_biết/V 70%/M trường_hợp/N động_kinh/N có_thể/R kiểm_soát/V được/R cơn/N giật/V bằng/E thuốc/N
+Khó_khăn/A là/C với/E 30%/M trường_hợp/N kháng/V thuốc/N tức/C dùng/V thuốc/N không/R có/V tác_dụng/N
+Khi/N ấy/P bác_sĩ/N sẽ/R đổi/V thuốc/N áp_dụng/V các/L biện_pháp/N khác/A kèm/V theo/V như/C phẫu_thuật/V thay_đổi/V chế_độ/N ăn/V …/A Bác_sĩ/N khuyên/V người_bệnh/N cần/V đi/V khám/V đúng/A chuyên_khoa/N để/E được/V chẩn_đoán/V điều_trị/V kịp_thời/A
+Đa_số/L trường_hợp/N phải/V điều_trị/V lâu_dài/A uống/V thuốc/N dai_dẳng/V …/A vì_thế/C bệnh_nhân/N cần/V tuân_thủ/V đúng/A hướng_dẫn/V của/E bác_sĩ/N tái/A khám/V theo/V lịch/N
+“/M Hiện_nay/N nhiều/A người/N thấy/V uống/V thuốc/N mãi/R không/R khỏi/V chuyển/V sang/V uống/V thuốc/N đông_y/N không/R rõ/A nguồn_gốc/N nên/C bệnh/N càng/R trầm_trọng/V
+Các/L phương_pháp/N điều_trị/V không/R chính_thống/A này/P không/R giúp/V kiểm_soát/V cơn/N giật/V mà_còn/C khiến/V tần_suất/N cơn/N xuất_hiện/V nhiều/A hơn/R ”/M tiến_sĩ/N Tuấn/Np nhấn_mạnh/V
+Ước_tính/V tại/E Việt_Nam/Np có/V khoảng/N 500 0/M đến/E một_triệu/M người/N mắc/V bệnh/N động_kinh/N
+Tại_Bệnh/Np viện/N Việt_Đức/Np có/V khoảng/N 100-150/M bệnh_nhân/N khám/V mỗi/M tháng/N

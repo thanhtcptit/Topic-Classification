@@ -1,0 +1,32 @@
+​/N 20/M điểm/N được/V dự_tuyển/V vào/V Trường/N THCS/Np Nguyễn_Du/Np Q1/Np
+Tuyển_sinh/N lớp/N 1/M
+Theo/E đó/P Trường/N tiểu_học/N Đinh_Tiên_Hoàng/Np sẽ/R nhận/V học_sinh/N nhập/V hộ_khẩu/N năm/N 2011/M tại/N P/Np
+Đa_Kao/Np giấy_khai_sinh/N lập/V tại/N P/Np
+Đa_Kao/Np
+Trường/N tiểu_học/N Nguyễn_Bỉnh_Khiêm/Np sẽ/R nhận/V học_sinh/N khu_phố/N 1/M 2/M và/N 4/M P/Np
+Bến_Nghé/Np
+Năm_học/N 2017/M 2018/M các/L trường/N tiểu_học/N sau/N sẽ/R tuyển_sinh/V chương_trình/N Dạy/V và/N học/V các/L môn/N Toán/Np Khoa_học/N và/CC tiếng/N Anh/Np tích_hợp/V chương_trình/N Anh/Np và/CC Việt_Nam/Np Đinh_Tiên_Hoàng/Np Nguyễn_Bỉnh_Khiêm/Np Hoà_Bình/Np Lê_Ngọc_Hân/Np Trần_Hưng_Đạo/Np Lương_Thế_Vinh/Np Nguyễn_Thái_Học/Np Nguyễn_Thái_Bình/Np Nguyễn_Huệ/Np và/CC Kết_Đoàn/Np
+Trường_Tiểu_học/N Nguyễn_Thái_Học/Np xét/V tuyển/V theo/V Đề_án/N trường/N tiên_tiến/A theo/V xu_thế/N hội_nhập/V khu_vực/N và/CC quốc_tế/N tuyển_sinh/V cả/N quận/N không/R theo/V địa_bàn/N phân/N tuyến/N
+Các/L trường/N tiểu_học/N sẽ/R nhận/V hồ_sơ/N theo/V Giấy/N gọi/V đi/V học/V lớp/N 1/M từ/E ngày/N 37/M đến/V 77/M
+Tuyển_sinh/N lớp/N 1/M diện/N ngoài/N tuyến/N
+Học_sinh/N Q1/Np có/V giấy/N gọi/V đi/V học/V lớp/N 1/M nhưng/N có/V nguyện_vọng/N được/V học/V ở/E các/L trường/N tiểu_học/N khác/A của/E Q1/Np có_thể/A nộp/V hồ_sơ/N để/E xin/V xét/V tuyển/N
+Tuy_nhiên/C học_sinh/N vẫn/R phải/V thực_hiện/V đầy_đủ/A thủ_tục/N nhập_học/N đúng/A tuyến/N trong/E khi/N chờ/V kết_quả/N xét_duyệt/V của/E trường/N ngoài/N tuyến/N
+Trường/N tiểu_học/N sẽ/R phát/V và/N nhận/V hồ_sơ/N diện/N ngoài/A tuyến/N từ/E ngày/N 117/M đến/V 147/M
+Thành_phần/N hồ_sơ/N Đơn/N đề_nghị/V xét/V tuyển/V theo/V mẫu/N được/V phát/V hành_tại/N trường/N bản_sao/N Giấy/N gọi/V đi/V học/V lớp/N 1/M bản_sao/N hộ_khẩu/N hoặc/N tạm_trú/V dài_hạn/N bản_sao/N hộ_khẩu/N ở/V Tỉnh/N nếu/N thuộc/V diện/N tạm_trú/V dài_hạn/N các/L giấy_tờ/N liên_quan/V xác_nhận/N lí_do/N ghi/V trong/E đơn/N đề_nghị/V
+Công_bố/V kết_quả/N xét/V tuyển/N ngày/N 317/M
+Tuyển_sinh/N lớp/N 6/M
+Tất_cả/N học_sinh/N hoàn_thành/V chương_trình/N tiểu_học/N tại/E các/L trường/N tiểu_học/N công_lập/N Q1/Np đều/R được/V phân/V tuyến/N vào/E lớp/N 6/M công_lập/N
+Trong/E đó/P Trường/N THCS/Np Nguyễn_Du/Np sẽ/R tuyển/V học_sinh/N ở/V P/Np
+Bến_Thành_đạt/N từ/E 20/M điểm/N trở/V lên/R
+Tuyển_sinh/N lớp/N 6/M diện/N ngoài/N tuyến/N
+Học_sinh/N có/V hộ_khẩu/N hoặc/N tạm_trú/V dài_hạn/N tại/E Q1/Np nhưng/C không/R học/V lớp/N 5/M ở/E các/L trường/N tiểu_học/N công_lập/N Q/Np
+học_sinh/N có/V Giấy_báo/N đi/V học/V lớp/N 6/M tại/E Q1/Np nhưng/C có/V nguyện_vọng/N được/V học/V ở/E các/L trường/N THCS/Np khác/A của/E Q1/Np có_thể/A nộp/V đơn/N đề_nghị/V xét/V tuyển/N
+Tuy_nhiên/C học_sinh/N vẫn/R phải/V thực_hiện/V đầy_đủ/A thủ_tục/N nhập_học/N đúng/A tuyến/N trong/E khi/N chờ/V kết_quả/N xét_duyệt/V của/E trường/N ngoài/N tuyến/N
+Điều_kiện/N nộp/V đơn/N đề_nghị/V xét/V tuyển/N Học_sinh/N có/V tổng/N điểm/N kiểm_tra/V định_kì/N cuối/N học_kì/N II/N lớp/N 5/M của/E 2/M môn/N Tiếng_Việt/Np và/CC Toán/Np đạt/V 20/M điểm/N đối_với/N trường/N THCS/Np Nguyễn_Du/Np THCS/Np Huỳnh_Khương_Ninh/Np và/CC 19/M điểm/N trở/V lên/V các/L trường/N THCS/Np còn/V lại/V
+Học_sinh/N lớp/N 5/M của/E các/L trường/N tiểu_học/N công_lập/N Q1/Np sẽ/R nhận/V Giấy_báo/N nhập_học/N lớp/N 6/M tại/E trường/N tiểu_học/N đã/R học/V học/V từ/E ngày/N 266/M đến/E hết/V 286/M
+nhận/V hồ_sơ/N nhập_học/N từ/E ngày/N 266/M đến/V 286/M
+Trường/N THCS/Np sẽ/R phát/V và/N nhận/V hồ_sơ/N diện/N ngoài/A tuyến/N vào/V ngày/N từ/E ngày/N 296/M đến/V 17/M
+Thành_phần/N hồ_sơ/N Đơn/N đề_nghị/V xét/V tuyển/V theo/V mẫu/N được/V phát/V hành_tại/N trường/N bản_sao/N Giấy_báo/N đi/V học/V lớp/N 6/M nếu/C là/V học_sinh/N Quận/Np 1/M bản_sao/N giấy/N xác_nhận/V điểm/N xét/V tuyển/N lớp/N 6/M nếu/C là/V học_sinh/N tiểu_học/N tại/E các/L trường/N nơi/N khác/A bản_sao/N học_bạ/N Tiểu_học/N bản_sao/N giấy/N xác_nhận/V hoàn_thành/V cấp/N tiểu_học/N bản_sao/N hộ_khẩu/N hoặc/N tạm_trú/V dài_hạn/N bản_sao/N hộ_khẩu/N ở/V Tỉnh/N nếu/N thuộc/V diện/N tạm_trú/V dài_hạn/N bản_sao/N giấy/N chứng_nhận/V thành_tích/N học_tập/V nghệ_thuật/N thể_dục/N thể_thao/N
+cấp/N Quận/N trở/V lên/V các/L giấy_tờ/N liên_quan/V xác_nhận/N lí_do/N ghi/V trong/E đơn/N đề_nghị/V
+Công_bố/V kết_quả/N xét/V tuyển/N ngày/N 157/M
+HOÀNG/M HƯƠNG/N

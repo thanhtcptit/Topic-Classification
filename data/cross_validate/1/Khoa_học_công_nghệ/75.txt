@@ -1,0 +1,11 @@
+HP/Np tung/V smartphone/N có_thể/A xài/V như/C xài/V máy_tính/N
+HP/Np Elite/Np X3/Np có/V màn_hình/N kích_cỡ/N 59/M inch/N màn_hình/N AMOLED/Np 2560/M x/N 1440/M pixel/N hai/M khe/N SIM/Np
+HP/Np hợp_tác/V với/E hãng/N âm_thanh/N danh_tiếng/A Bang/Np amp/V
+Olufsen/N cho/V công_nghệ/N loa/N kép/N ở/E mặt/N trước/A máy/N
+Camera/N sau/N 16MP/N và/CC camera/N trước/N 8MP/M
+Elite/N X3/Np thuộc/V nhóm/N smartphone/N cao_cấp/A hiện_nay/N với/E các/L thông_số/N cấu_hình/N gồm/V chip/N xử_lí/N bốn/N nhân/N Snapdragon/Np 820/M mới/A nhất/A của/E Qualcomm/Np tốc_độ/N xung/V nhịp/N 215GHz/N RAM/Np 4GB/M bộ_nhớ_trong/N 64GB/M và/N khe/N cắm/V thẻ/N nhớ/V microSD/N
+HP/Np không/R đột_nhiên/V muốn/V cạnh_tranh/V với/E các/L hãng/N điện_thoại/N như/C Samsung/Np LG/Np hay/V Apple/Np
+Elite/N X3/Np hướng/V tới/E môi_trường/N doanh_nghiệp/N nơi/N các/L quản_trị/N viên/N công_nghệ/N thường_xuyên/A đau_đầu/V với/E việc/N quản_lí/V các/L loại/N thiết_bị/N cầm/V tay/N dùng/V những/L nền_tảng/N hệ_điều_hành/N khác/A nhau/N của/E nhân_viên/N công_ty/N
+Thị_phần/N điện_thoại/N dùng/V Windows/Np tụt/V giảm/V 50/M trong/E Quý/N 4/M năm/N 2015/M so/V với/E cùng/N kì/N 2014/M
+Cụ_thể/N điện_thoại/N Windows/Np chỉ/V chiếm/V 11/M thị_phần/N điện_thoại_thông_minh/N smartphone/N Q4/Np 2015/M so/V với/E 22/M Q4/Np 2014/M
+Doanh_số/N điện_thoại/N Lumia/Np của/E Microsoft/Np giảm/V 57/M còn/N 45/M triệu/N chiếc/N so/V với/E 105/M triệu/N chiếc/N bán/V ra/R cùng/A kì/N năm/N 2014/M

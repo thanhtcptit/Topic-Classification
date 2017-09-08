@@ -1,0 +1,11 @@
+Gần/A 7000/M trangcổng/N thông_tin/N điện_tử/N VN/Np bị/V tấn_công/V năm/N 2016/M
+Đó/P là/V nhận_định/N của/E Trung_tướng/N Hoàng_Phước_Thuận/Np cục_trưởng/N Cục/N an_ninh/N mạng/N Bộ/N Công_an/N tại/E hội_thảo/N triển_lãm/N quốc_gia/N về/V An_ninh/N mảo/N mật/N 2017/M Security_World/Np 2017/M với/N chủ_đề/N Bảo_đảm/V an_ninh/N mạng/N an_ninh/N thông_tin/N trong/E thời_kì/N cách_mạng_công_nghiệp/X lần/N thứ/N 4/M diễn/V ra/R tại/E Hà_Nội/Np ngày/N 44/M
+Theo/E trung_tướng/N Hoàng_Phước_Thuận/Np trong/E cuộc/N cách_mạng_công_nghiệp/X lần/N thứ_tư/V không_gian/N mạng/N phức_hợp/N đã/R tác_động/V sâu_sắc/A đến/V mọi/N mặt/N của/E đời_sống/N xã_hội/N Việt_Nam/Np
+Bên_cạnh/N những/L ưu_điểm/N sự/N phát_triển/V của/E không_gian/N mạng/N cũng/R mang/V đến/R những/L nguy_cơ/N thách_thức/V mới/A
+Mỗi/L năm/N có/V hàng/R ngàn/N trang/N mạng/N của/E nước/N ra/R bị/V tin_tặc/N tấn_công/V chính/N sửa/V chèn/N thêm/V nội_dung/N cài/V mã/N độc/A trong/E đó/N có/V hàng/R trăm/M trang/N tên_miền/N gov/N
+vn/N của/E các/L cơ_quan/N nhà_nước/N
+Riêng/T năm/N 2016/M có/V tới/V gần/A 7000/M trangcổng/N thông_tin/N điện_tử/N của/E Việt_Nam/Np bị/V tấn_công/V
+Nhiều/A thiết_bị/N kết_nối/N internet/N tồn_tại/V lỗ_hổng/N bảo_mật/V dẫn/V đến/R nguy_cơ/N tin_tặc/N khai_thác/V chiếm_đoạt/N sử_dụng/V làm/V bàn_đạp/N cho/E các/L cuộc/N tấn_công/V mạng/N thế_giới/N
+Các/L cổng/N thông_tin/N điện_tử/N website/N hệ_thống/N mạng/N thông_tin/V chưa/R được/V xây_dựng/V theo/V một/M tiêu_chuẩn/N thống_nhất/V thiếu/V sự/N kiểm_định/V về/R an_ninh/N thông_tin/N an_ninh/N mạng/N Cục/N trưởng/N Cục/N An_ninh/N mạng/N nhấn_mạnh/V yếu_tố/N con_người/N nhất_là/N tâm_lí/N chủ_quan/N
+Các/L phần_mềm/N phần_cứng/N tồn_tại/V lỗi/N bảo_mật/V nhưng/C chưa/R được/V khắc_phục/V kịp_thời/N
+Đa_số/N người_dùng/A còn/V chưa/R thực_hiện/V nghiêm_túc/A các/L qui_chuẩn/N qui_định/V về/V đảm_bảo/V an_toàn/N an_ninh/N thông_tin/N mạng/N hạn_chế/V về/V kiến_thức/N kĩ_năng/N nhất_là/N kĩ_năng/N xử_lí/N các/L tình_huống/N xâm_phạm/N đến/V an_ninh/N quốc_gia/N ông/N Thuận/Np nói/V thêm/V

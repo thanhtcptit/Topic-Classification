@@ -1,0 +1,8 @@
+​/N Ứng_dụng/N gọi/V xe/N giá/N rẻ/A cho/V thành_phố/N nhỏ_lẻ/N
+Không_chỉ/N tận_dụng/V sự/N kết_hợp/V giữa/E hai/M ứng_dụng/N đình_đám/N của/E nhà/N đầu_tư/V quốc_tế/N hiện_nay/N là/V Uber/Np và/CC Grab/Np TNET/Np còn/R có/V thế/N mạnh/N am_hiểu/N địa_phương/N để/E tự_tin/V đưa/V ứng_dụng/N này/P có_mặt/V trên/E các/L tỉnh_thành/N nhỏ_lẻ/N
+Hiện/N TNET/Np đang/R được/V triển_khai/V tại/E Hà_Nội/Np và/CC Hưng_Yên/Np
+Nguyễn_Văn_Sang/Np cho/V biết/V sau/E khi/N phủ/V các/L tỉnh_thành/N ở/E phía/N Bắc/Np TNET/Np sẽ/R Nam/Np tiến/V với/E điểm/N đến/V là/C TP/Np HCM/Np trong/E vài/N tháng/N tới/V
+Với/E khách/N hàng/N TNET/Np hiện/N đang/R có/V 8/M hạng/N xe/N dịch_vụ/N từ/E bình_dân/N đến/E cao_cấp/N gồm/V xe/N mô_tô/N xe_ôm/V xe_hơi/N và/N taxi/N
+TNET/Np có/V điểm/N nhấn/N đáng/V chú_ý/V là/V dịch_vụ/N xe/N taxi/N truyền_thống/A với/E giá/N rẻ/A hơn/A đặt/V xe/N trực_tiếp/A với/V tổng_đài/N
+Theo/E anh/N Sang/Np giá/N dịch_vụ/N taxi/N của/E các/L hãng/N như/C Mai_Linh/Np Vinasun/Np Long_Biên/Np Mỹ_Đình/Np
+trên/E TNET/Np rẻ/A hơn/A giá/N chính/A hãng/N tới/V 20/M

@@ -1,0 +1,39 @@
+Ăn/V nhạt/N giảm/V nhiều/A bệnh/N
+Tỉ_lệ/N người/N mắc/V tăng/V huyết_áp/N ở/V VN/Np tăng/V rất/R nhanh/A do/E có/V thói_quen/N ăn/V rất/R mặn/A
+Ăn/V mặn/A gây/V đủ/A thứ/N bệnh/N cần/V thay_đổi/V chế_độ/N ăn/V ra/V sao/N để/E tránh/V bệnh/N
+Theo/E bà/N Nguyễn_Thị_Lâm/Np Viện_Dinh_dưỡng/N quốc_gia/N người/N VN/Np ăn/V quá/R mặn/A và/CC đây/P là/V một/M trong/E những/L nguyên_nhân/N chính/A làm/V gia_tăng/N tăng/V huyết_áp/N
+Chỉ/R nên/V ăn/V dưới/N 5/M gam/N muốingày/N
+Theo/E ông/N Trần_Quốc_Bảo/Np Cục/N Y/Np tế/N dự_phòng/V Bộ/N Y/Np tế/V khuyến_cáo/N của/E Tổ_chức/N Y/Np tế/V thế_giới/N là/V mỗi/M người/N chỉ/R nên/V ăn/V dưới/N 5/M gam/N muốingày/N
+Tuy_nhiên/C theo/V khảo_sát/V ở/E VN/Np bình_quân/A mỗi/M người/N đang/R ăn/V gần/A gấp/V đôi/N lượng/N muối/N 94/M gam/N muốingày/N
+Lượng/N muối/N này/P được/V tính_từ/V toàn_bộ/N các/L thức_ăn/N có/V chứa/N muối/N như/C thức_ăn/N nhanh/N bột_ngọt/V canh/N đồ/N chấm/V đồ/N xào/N gói/V gia_vị/N trong/N mì_ăn_liền/N
+Bà/N Nguyễn_Thị_Lâm/Np cho_hay/V ăn/V nhiều/A muối/N khiến/V gia_tăng/N giữ/V nước/N trong/E tế_bào/N gây/N co/V mạch/N dẫn/V đến/R tăng/V huyết_áp/N
+Thống_kê/V cho/V thấy/V những/L vùng/N ăn/V mặn/A có/V tỉ_lệ/N người/N tăng/V huyết_áp_cao/N hơn/R cụ_thể/A qua/V khảo_sát/V được/R Viện_Dinh_dưỡng/N quốc_gia/N thực_hiện/V người/N dân/N vùng_biển/N Nghệ_An/Np Thanh_Hoá/Np Thừa_Thiên/Np Huế/Np
+ăn/V mặn/A hơn/A ở/E Hà_Nội/Np và/CC tỉ_lệ/N người/N trưởng_thành/V mắc/N tăng/V huyết_áp/N cũng/R cao/A hơn/R
+Phải/V tập/V ăn/V nhạt/A hơn/R bà/N Lâm/Np nói/V
+Theo/E bà/N Lâm/Np người/N đã/R bị/V huyết_áp_cao/N nên/C ăn/V nhạt/A hơn/A bằng/E cách/N khi/N ăn/V sáng/N bằng/E món/N nước/N phở/N bún/N mì/N thì/C chỉ/R ăn/V phần/N cái/N đừng/V uống/V hết/N cả/N tô/N nước_dùng/A như/C vậy/P sẽ/R hạn_chế/V lượng/N muối/N bột_ngọt/V trong/N nước/N
+Khi/N nấu/V mì_ăn_liền/N chỉ/R nên/V dùng/V 13/M gói/N gia_vị/N cho/V mỗi/N tô/N mì/N độ/N mặn/A như/C vậy/P vừa_phải/N nhạt/A hơn/R dùng/V cả_gói/N gia_vị/N
+Khi/N chấm/V các/L món/N luộc/V chỉ/R chấm/V vừa/R đủ/A không/R chấm/V quá/R nhiều/A hay/C chấm/V đẫm/N món/N ăn/V
+Nên/C sử_dụng/V nhiều/A món/N trộn/V có/V vị/N chua_cay/N mặn/A ngọt/A vừa/R dễ/A ăn/V lại/R vừa/R giảm/V được/V các/L thực_phẩm/N cần/V giảm/V trong/E món/N ăn/V như/A muối/N đường/N
+Người/N chưa/R bị/V tăng/V huyết_áp/N cũng_nên/N áp_dụng/V nguyên_tắc/N dưới/N 5/M gam/Nu muốingười/N ngày/N nên/C tập/N thói_quen/N này/P cộng/V với/N tích_cực/N vận_động/V rèn_luyện/N thể_lực/V sẽ/R giảm/V được/V nguy_cơ/N giảm/V được/R bệnh/N tăng/V huyết_áp/N thông_qua/V lối/N sống/V bà/N Lâm/Np cho_hay/V
+Giảm/V ăn/V muối/N sẽ/R giảm/V bệnh/N tim_mạch/N bệnh/N gout/N
+Theo/E bà/N Nguyễn_Thị_Lâm/Np tăng/V huyết_áp/N thường/R đi/V kèm/V với/C các/L rối_loạn/N dinh_dưỡng/N và/CC chuyển_hoá/V là/V yếu_tố/N nguy_cơ/N chính/A của/E tai_biến/N mạch_máu/N não/N bệnh/N mạch/N vành/N
+Một_số/N quốc_gia/N đã/R nghiên_cứu/V để/E chuyển/V sang/V sử_dụng/V loại/N muối/N kali/N thay_thế/N muối/N natri/N loại/N muối/N liên_quan/V đến/E bệnh_lí/N tăng/V huyết_áp/N nhưng/C ở/V VN/Np thì/C yếu_tố/N này/P chưa/R được/V chú_ý/V đến/R nhiều/A
+Bà/N Lâm/Np cho/V rằng/C nếu/C không/R sớm/V thay_đổi/V chế_độ/N ăn/V không/R nhanh_chóng/A giảm/V muối/N giảm/V bột_ngọt/N khi/N chế_biến/V thực_phẩm/N tăng_cường/V vận_động/V
+thì/C nguy_cơ/N bệnh/N do/N ăn/V mặn/N sẽ/R ngày_càng/X trầm_trọng/V
+Một/M nghiên_cứu/N mới_đây/N thuộc/V Đại_học/N Minnesota/Np Hoa_Kỳ/Np cho/V thấy/V 71/M lượng/N muối/N tiêu_thụ/V do/E ăn_ở/V bên/N ngoài/N và/CC chỉ/R 5/M từ/E các/L hủ/N muối/N tại/V nhà/N
+Có/V 450/M người/N tuổi/N 1874/M mỗi/N nhóm/N 150/M người/N từ/E một/M trong/E ba/M vùng/N địa_lí/N thuộc/V Hoa_Kỳ/Np được/V hỏi/V về/E lượng/N muối/N tiêu_thụ/V đã/R dùng/V trong/E 24/M giờ/N 4/M lần/N trong/E 11/M ngày/N
+Khi/N muối_ăn/V được/R thêm/V vào/R ở/V nhà/N họ/P được/V yêu_cầu/V gửi/V mẫu/N lượng/N muối/N tương_đương/V qua/V đường/N bưu_điện/N đến/V các/L nhà/N nghiên_cứu/V
+Kết_quả/N cho/V thấy/V lượng/N muối/N thêm/V vào/R thức_ăn/N bên/N ngoài/N gia_đình/N vẫn/R góp/V phần_lớn/N nhất/N vào/V lượng/N muối/N toàn_phần/N dung_nạp/N
+Những/L người/N trẻ/A có/V tỉ_lệ/N dùng/V muối/N từ/E nguồn/N bên/N ngoài/N cao/A hơn/A những/L người/N lớn_tuổi/A
+Mức/N tiêu_thụ/V muối/N hằng/R ngày/N ở/V nghiên_cứu/N này/P cho/V ra/V mức/N tiêu_thụ/V trung_bình/A là/V cao/A hơn/R 50/M so/N với/E mức/N khuyến_cáo/N
+Ngoài_ra/C một/M nghiên_cứu/N khác/A cũng/R chứng_minh/V được_việc/N ăn/V giảm/V muối/N và/CC thịt/N đỏ/A tăng/V rau/N quả/N sẽ/R giúp/V ngừa/V bệnh/N gout/N
+Nghiên_cứu/N này/P của/E Bệnh_viện/N Đa_khoa/N Massachusetts/Np Bệnh_viện/N Phụ_nữ/N Brigham/Np Hoa_Kỳ/Np và/CC Trung_tâm/N Nghiên_cứu/V bệnh/N khớp/N Canada/Np
+Hơn/A 44000/M nhân_viên/N y_tế/N nam_giới/N 4075/M tuổi/N tham_gia/V nghiên_cứu/V theo_dõi/V sức_khoẻ/N
+Các/L thành_viên/N được/V theo_dõi/V trong/E 26/M năm/N và/CC hoàn_tất/V khảo_sát/V về/V chế_độ/N ăn/V của/E họ/P tình_trạng/N sức_khoẻ/N mỗi/N 4/M năm/N
+Chế_độ/N ăn/V áp_dụng/N gần/A giống/N chế_độ/N ăn/V cho/E mục_tiêu/N ngừng/N cao/A huyết_áp/N nhiều/A rau/N quả/N sữa/N ít/A béo/N ít/A muối/N ít/A thịt/N đỏ/A và/CC chất_béo/N bão_hoà/N
+Trong/E quá_trình/N theo_dõi/V 1731/M nam_giới/N bị/V gout/V những/L người/N có/V chế_độ/N ăn/V tương_tự/A chế_độ/N ăn/V trị/N cao/A huyết_áp/N giảm/V nguy_cơ/N bệnh/N gout/N giảm/V 32/M những/L người/N có/V chế_độ/N ăn/V nhiều/A thịt/N đỏ/A thực_phẩm/N chế_biến/V và/CC nhiều/A chất/N đường/N có/V nguy_cơ/N tăng/V cao/A 42/M bị/V bệnh/N gout/N
+40/M Đó/P là/V tỉ_lệ/N số/N người/N mắc/V tăng/V huyết_áp/N trong/E 5500/M người/N được/V khảo_sát/V 2564/M tuổi/N năm/N 2016/M
+Tỉ_lệ/N người/N mắc/V tăng/V huyết_áp/N ở/V VN/Np tăng/V rất/R nhanh/A 117/M năm/N 1992/M lên/V đến/R 251/M năm/N 2008/M
+Nguồn/N Viện_Dinh_dưỡng/N quốc_gia/N
+Cơ_quan/N Quản_lí/V thực_phẩm/N và/CC thuốc/N Hoa_Kỳ/Np FDA/Np đề_nghị/V những/L nhà/N sản_xuất/V thực_phẩm/N hạ/N thấp/A mức/N muối/N trong/E các/L sản_phẩm/N
+Viện_Nghiên_cứu/N y_học/N Hoa_Kỳ/Np đã/R khẳng_định/V các/L nhà/N sản_xuất/V chế_biến/V giảm/V dần/R lượng/N muối/N trên/E toàn_quốc/N là/V cách/N tốt/A nhất/A làm/V giảm/V nguy_cơ/N bệnh/N cao/A huyết_áp/N bệnh/N mạch/N vành/N nhồi/V máu/N cơ/N tim/N và/CC đột_quỵ/N

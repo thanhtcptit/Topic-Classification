@@ -1,0 +1,14 @@
+﻿/M Xe/N thiết_giáp/N tự/P khôi_phục/V hình_dạng/N sau/E khi/N dính/V mìn/N
+Các/L kỹ_sư/N của/E công_ty/N BAE/Np Systems_Anh/Np đang/R chế_tạo/V một/M hệ_thống/N treo/V mới/R bằng/E titan/N có_thể/A uốn/V cong/A và/CC chịu/V sức_ép/N từ/E các/L thiết_bị/N nổ/V tự/P chế/V IED/Np Express/Np hôm/N 21/11/M đưa/V tin/N
+Xe/N chiến_đấu/V hiện_nay/N và/CC người/N ngồi/V bên/N trong/N thường/R được/V trang_bị/V lớp/N giáp/V bảo_vệ/V trước/E các/L vụ/N nổ/V
+Tuy_nhiên/C các/L nhà_nghiên_cứu/N cho/V rằng/C hệ_thống/N treo/V của/E xe/N vẫn/R dễ/A bị/V hư_hại/V bởi/E tác_động/N mạnh/A của/E chất_nổ/N khiến/V chiếc/Nc xe/N mất/V khả_năng/N cơ_động/N phải/V chờ/V đơn_vị/N khác/A đến/V giải_cứu/V
+Vì_thế/C các/L kỹ_sư/N đang/R nghiên_cứu/V loại/N hợp_kim/N nhớ/V hình/N giúp/V hệ_thống/N treo/V có_thể/R khôi_phục/V hình_dáng/N sau/E khi/N chịu/V sức_ép/N từ/E vụ/N nổ/V
+Hợp_kim/N nhớ/V hình/N có/V khả_năng/N ghi_nhớ/V hình_dạng/N ban_đầu/N của/E nó/P được/V hải_quân/N Mỹ/Np tạo/V ra/R trong/E những/L năm/N 1960/M nhưng/C đây/P là/V lần/N đầu_tiên/A nó/P được/V sử_dụng/V để/E chế_tạo/V toàn_bộ/L hệ_thống/N treo/V
+Bằng/E cách/N sử_dụng/V kim_loại/N nhớ/V hình/N các/L kỹ_sư/N có_thể/A loại_bỏ/V hoàn_toàn/A nhíp/N xe/N trong/E hệ_thống/N treo/V
+Kim_loại/N nhớ/V hình/N có_thể/R tạo/V ra/R cuộc/N thay_đổi/V thực_sự/A cho/E xe/N chiến_đấu/V tham_gia/V hành_quân/V
+Khả_năng/N thích_ứng/V với/E các/L tình_huống/N đa_dạng/A là/V điều/N rất/R quan_trọng/A để/E duy_trì/V hiệu_quả/N chiến_đấu/V
+Việc/N sử_dụng/V titan/N có_thể/A uốn/V cong/A sẽ/R cung_cấp/V cho/E lực_lượng_vũ_trang/N sự/Nc linh_hoạt/A và/CC khả_năng/N sinh_tồn/V cần_thiết/A để/E hoàn_thành/V nhiệm_vụ/N trong/E các/L khu_vực/N khó_khăn/N Marcus_Potter/Np tới/V từ/E công_ty/N BAE/Np Systems_Land/Np cho_biết/V
+Một/M mẫu/N thử_nghiệm/V của/E hệ_thống/N treo/V đã/R trải/V qua/R 5/M cuộc/N thử_nghiệm/V thuốc_nổ/N với/E độ/N mạnh/A tăng/V dần/R
+Theo/E các/L kỹ_sư/N kết_quả/N thử_nghiệm/V cho/V thấy/V khả_năng/N phục_hồi/V lớn/A chống/V lại/R sức_ép/N từ/E các/L vụ/N nổ/V của/E nó/P
+Nhóm/N nghiên_cứu/V đang/R kiểm_tra/V khả_năng/N thích_ứng/V với/E xe/N chiến_đấu/V của/E hệ_thống/N treo/V bằng/E kim_loại/N nhớ/V hình/N
+Nếu/C thành_công/V hợp_kim/A titan/N có_thể/A uốn/V cong/A sẽ/R là/V một/M phần/N của/E các/L hoạt_động/N quân_sự/N trong/E 10/M năm/N tới/V

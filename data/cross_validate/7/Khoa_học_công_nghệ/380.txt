@@ -1,0 +1,30 @@
+Cách/V phát_hiện/V lỗi/N cảm_ứng/V trên/E Galaxy_Note/Np 7/M 
+Ngay/T sau/E bài/N viết/V Ác_mộng/N lỗi/N pin/N chưa/R qua/V Samsung_Galaxy_Note/Np 7/M lại/R bị/V tố/V lỗi/N loạn/V cảm_ứng/N phản_ánh/V về/E vấn_đề/N lỗi/N cảm_ứng/V trên/E Galaxy_Note/Np 7/M mà/C người/N dùng/V gặp/V phải/V Dân_trí/N tiếp_tục/V nhận/V được/R một_số/L phản_ánh/V của/E người/N dùng/V cho_biết/V họ/P cũng/R đang/R bị/V gặp/V phải/V tình_trạng/N lỗi/N cảm_ứng/N tương_tự/A như/C trường_hợp/N mà/C báo/N Dân_trí/Np đã/R phản_ánh/V 
+Ngày/N 4/9/M Dân_trí/N cũng/R đã/R thực_hiện/V một/M cuộc/N khảo_sát/V nhanh/A trong/E ngày/N trên/E chuyên_mục/N Sức_mạnh/N số/N để/E người/N dùng/V sở_hữu/V Galaxy_Note/Np 7/M có_thể/R nêu/V vấn_đề/N họ/P đang/R gặp/V phải/A với/E chiếc/Nc smartphone/N này/P 
+Khảo_sát/V đã/R có/V được/V gần/A 500/M ý_kiến/N của/E bạn_đọc/N 
+Đáng/V chú_ý/V tỉ_lệ/N người/N dùng/V báo/N lỗi/N loạn/V cảm_ứng/N là/V cao/A nhất/A chiếm/V đến/E 29,26%/M xếp/V thứ_hai/N là/V số/N người/N dùng/V bị/V lỗi/N tự/P khởi_động/V lại/R chiếm/V 22,85%/M và/CC chỉ/R có/V 12,22%/M người/N dùng/V cho_biết/V máy/N của/E họ/P không/R gặp/V phải/V lỗi/N nào/P 
+Để/E giúp/V bạn_đọc/N xác_định/V chính_xác/A lỗi/N liên_quan/V đến/E cảm_ứng/N của/E Galaxy_Note/Np 7/M Dân_trí/N đã/R tổng_hợp/V nhanh/A một_số/L phương_pháp/N để/E bạn_đọc/N có_thể/A kiểm_tra/V trên/E máy/N của/E mình/P 
+Mời/V bạn_đọc/N cùng/A thực_hiện/V Kiểm_tra/V bằng/E thao_tác/V sử_dụng/V bình_thường/A trên/E máy/N Một/M thành_viên/N trên/E diễn_đàn/N công_nghệ/N lớn/A ở/E Việt_Nam/Np có/V máy/N bị/V lỗi/N cảm_ứng/V đã/R hướng_dẫn/V cách/V kiểm_tra/V thông_qua/V việc/N thao_tác/V với/E các/L ứng_dụng/N trên/E máy/N như/C sau/N 1/M 
+Hãy/R sử_dụng/V những/L ứng_dụng/N cần/V chức_năng/N zoom/V bằng/E nhiều/A ngón/N như/C Bản_đồ/N hoặc/CC Ảnh/Np 
+Khi/N zoom/V liên_tục/A và/CC di_chuyển/V ngón_tay/N nhiều/A trên/E màn_hình/N cảm_ứng/N sẽ/R phát_hiện/V ra/R lỗi/N biểu_hiện/V cảm_ứng/N không/R như/A mong_muốn/V 
+2/M 
+Sử_dụng/V phần_mềm/N ghi/V note/A như/C Google_Keep/Np hay/C đơn_giản/A là/V Nhắn_tin/V tập_trung/V gõ/V 1/M đoạn/N văn_bản/N cỡ/N 30-100/M từ/E liên_tục/A 
+Nếu/C tỷ_lệ/N bị/V lỗi/N gõ/V thiếu/A ký_tự/N cao/A hơn/R nhiều/A so/V với/E khi/N bạn/N gõ/V trên/E máy/N khác/A nghĩa_là/X máy/N nhận/V cảm_ứng/N bị/V lỗi/N 
+Kiểm_tra/V bằng/E phần_mềm/N ẩn/V tích_hợp/V sẵn/A của/E Samsung_Samsung/Np có/V tích_hợp/N các/L lệnh/N ẩn/V trên/E máy/N điện_thoại/N để/E giúp/V kiểm_tra/V các/L tính_năng/N của/E thiết_bị/N 
+Người/N dùng/V truy_cập/V vào/E giao_diện/N gọi/V điện_thoại/N và/CC bấm/V lệnh/N */N #/A 0/M */Nu #/M 
+Máy/N sẽ/R hiện/V ra/R các/L chức_năng/N để/E người/N dùng/V kiểm_tra/V như/C hình/N dưới/N 
+Hãy/R nhấp/V vào/E nút/N Touch/Np để/E kiểm_tra/V cảm_ứng/N và/CC sau/N đó/P vẽ/V theo/E đường/N vẽ/V để/E xem/V máy/N có/V nhận/V chính_xác/A cảm_ứng/N từ/E ngón_tay/N và/CC quá_trình/N vẽ/V có/V mượt_mà/A hay/C không/R 
+Nếu/C đường/N vẽ/V bị/V đứt_đoạn/V hay/C chạy/V không/R mượt_mà/A khi/N kéo/V ngón_tay/N thì/C nhiều/A khả_năng/N máy/N của/E bạn/N bị/V lỗi/N cảm_ứng/V 
+Người/N dùng/V cũng/R có_thể/R kiểm_tra/V các/L tính_năng/N khác/A như/C Red/Np Green/Np Blue/Np để/E kiểm_tra/V màu_sắc/N và/CC màn_hình/N xem/V máy/N có/V điểm/N chết/V hay/C không/R 
+Trong/E menu/N ẩn/V để/E kiểm_tra/V thiết_bị/N này/P người/N dùng/V cũng/R có_thể/R kiểm_tra/V thêm/V các/L tính_năng/N khác/A như/C Receiver/Np để/E kiểm_tra/V loa/N thoại/N nếu/C phát/V ra/R tiếng/N kêu/V sẽ/R là/V tốt/A hay/C kiểm_tra/V rung/V ở/E menu/N Vibration/Np hay/C các/L cảm_biến/N ở/E mục/N Sensor/Np bàn_phím/N ở/E Sub/Np key/V 
+Kiểm_tra/V bằng/E phần_mềm/N của/E bên/N thứ_ba/N Riêng/T với/E việc/N kiểm_tra/V cảm_ứng/N người/N dùng/V cũng_nên/N thử/V thêm/V với/E các/L phần_mềm/N của/E bên/N thứ/N 3/M để/E đảm_bảo/V việc/N kiểm_tra/V chắc_chắn/A hơn/R 
+Người/N dùng/V có_thể/R tải/N ứng_dụng/V Multitouch_Visible_Test/Np tải/N tại/E đây/P được/R cung_cấp/V miễn_phí/V trên/E Google_Play/Np hoặc/CC các/L phần_mềm/N kiểm_tra/V cảm_ứng/N khác/A 
+Sau/E khi/N tải/N hãy/R thử/V chạm/V từ/E 1/M ngón/N rồi/C đến/V 2/M ngón_tay/N và/CC lần_lượt/R 10/M ngón/N trên/E màn_hình/N đồng_thời/R di_chuyển/V theo/E chiều/N dọc/A chiều/N ngang/A để/E kiểm_tra/V khả_năng/N phản_hồi/V cảm_ứng/V có/V lỗi/N ở/E điểm/N nào_hay/A không/R 
+Mỗi/L ngón_tay/N chạm/V vào/E màn_hình/N sẽ/R hiện/V một/M hình_tròn/N có/V màu_sắc/N khác_nhau/A 
+Hãy/R đảm_bảo/V rằng/C cảm_ứng/N của/E máy/N phản_hồi/V tốt/A các/L hình_tròn/N tương_ứng/V với/E các/L ngón_tay/N chạm/V vào/E màn_hình/N di_chuyển/V mượt_mà/A tọa_độ/N ở/E phía/N trên/N nhảy/V số/N theo/V di_chuyển/V của/E ngón_tay/N và/CC không/R xảy_ra/V lỗi/N nào/P khi/N kiểm_tra/V trên/E ứng_dụng/N này/P 
+Nếu_không/N máy/N của/E bạn/N nhiều/A khả_năng/N dính/V lỗi/N liên_quan/V đến/E cảm_ứng/N 
+Bạn/N có_thể/A chọn/V nhiều/A mục/N 
+Bình_chọn/V của/E bạn/N sẽ/R được/V công_khai/V 
+Bạn_đọc/N sở_hữu/V Samsung_Galaxy_Note/Np 7/M gặp/V lỗi/N có_thể/A gửi/V thông_tin/N cụ_thể/A và/CC hình_ảnh/N video/N về/V địa_chỉ/N email/V congnghe@dantri.com.vn/N 
+Trân_trọng/V cảm_ơn/V 
+Gia_Hưng/Np Gia_Khoa/Np 

@@ -1,0 +1,31 @@
+​/N Bảo_mật/V máy_in/N để/E bảo_vệ/V mạng/N doanh_nghiệp/N
+Theo/E Viện_Ponemon/Np 60/M các/L tổ_chức/N doanh_nghiệp/N trong/E diện/N khảo_sát/N nói/V rằng/N họ/N đã/R từng/R hứng_chịu/V những/L tổn_thất/N do/N tin_tặc/N gây/V ra/R thông_qua/V máy_in/N nối_mạng/N kém/A an_toàn/A 17/M trong/E số/N đó/P thậm_chí/R còn/V không/R biết/V về/E các/L sự_cố/N an_ninh/N mạng/N
+Dù/C nguy_cơ/N từ/E những/L chiếc/Nc máy_in/N kém/A an_toàn/N ngày_càng/N gia_tăng/V nhưng/C chỉ/R có/V hơn/A một/M nửa/N số/N doanh_nghiệp/N 59/M cho/V rằng/N bảo_mật/V máy_in/N có/V vai_trò/N quan_trọng/A với/E hoạt_động/N kinh_doanh/V của/N họ/N
+Hầu_hết/X các/L chính_sách/N an_ninh/N thông_tin/N doanh_nghiệp/N không/R tính/V tới/V máy_in/N
+40/M trong/E số/N các/L lãnh_đạo/N CNTT/Np đưa/V ra/R quyết_sách/N chỉ/R tập_trung/V vào/E an_ninh/N bảo_mật/N chung_chung/N
+Và/C sự/Nc thiếu/V sát_sao/N này/P có_thể/R dẫn/V tới/V các/L vụ/N tấn_công/V nghiêm_trọng/N từ/E bên/N ngoài/N và/CC ngay/N bên/N trong/N doanh_nghiệp/N
+Doanh_nghiệp/N cần/V làm_gì/N
+Trước/E thực_trạng/N trên/N hãng/N HP/Np đã/R đưa/V ra/R khuyến_nghị/V một_số/N bước/V đánh_giá/V cơ_bản/A để/E kiện_toàn/V hệ_thống/N bảo_mật/V doanh_nghiệp/N
+Theo/E HP/Np trước_hết/N cần/V đánh_giá/V lại/R chính_sách/N bảo_mật/V hiện/N có/V trong/N đó/N bao_gồm/V cả/P bảo_mật/N máy_in/N đồng_thời/N xem_xét/V toàn_bộ/N cấu/N phần/N liên_quan/V để/E từ/E đó/P xác_định/V quy_mô/N cũng/R như/A tính_chất/N của/E công_tác/N bảo_đảm/N an_ninh/N thông_tin/N doanh_nghiệp/N
+Cần/V đánh_giá/V kĩ_lưỡng/A tất_cả/N các/L thiết_bị/N được/V kết_nối/V vào/R mạng/N từ/E những/L thiết_bị/N tưởng_chừng/N vô_thưởng_vô_phạt/X như/C máy/N bán/V hàng/N tự_động/A máy/N pha/V café/V nối_mạng/N đến/V máy_tính/N và/N máy_in/N
+Tiếp/V đến/E rà_soát/N những/L lỗ_hổng/N ẩn/V trong/N hệ_thống/N
+Với/E máy_in/N nối_mạng/N quản_trị/N viên/N cần/V xác_định/V xem/V máy_in/N đó/P được/V sử_dụng/V như/N thế_nào/N
+Chẳng_hạn/N ai/P sử_dụng/V máy_in/N đó/P đặc_biệt/A những/L người/N chịu/V trách_nhiệm/N in/V tài_liệu/N quan_trọng/A
+người_quản_lí/N có/V khả_năng/N theo_dõi/V xem/V ai/N đã/R scan/V hay/V fax/N từ/E máy_in/N đa/N chức_năng/N hay/C không/R
+máy_in/N có/V cho/V phép/N in/V từ/E thiết_bị/N di_động/N hay/C không/R có/V khả_năng/N các/L tài_liệu/N in/V quan_trọng/A vô_tình/N bị/V bỏ/V quên/V ở/E khay/N máy_in/N và/CC rơi/V vào/V tay/N người/N khác/A hay/C không/R
+Cuối_cùng/A nhưng/C không/R kém/A phần/N quan_trọng/A cần/V ý_thức/V rằng/C bảo_mật/N máy_in/N không_chỉ/N là/V cấu_hình/N máy/N in_như/V thế_nào/N cho/E an_toàn/N mà_còn/N phải/V kiểm_soát/V các/L dữ_liệu/N truyền/V tới/R và/N gửi/V đi/V từ/E máy_in/N
+Ngay/T cả/P tài_liệu/N nhạy_cảm/A in/V ra/R cũng/R cần/V có/V cơ_chế/N quản_lí/N kiểm_soát/V chặt_chẽ/N
+Lợi_ích/N từ/E bảo_mật/N máy_in/N
+Theo/E nhận_định/N của/E tập_đoàn/N IDC/Np nếu/C có_thể/V áp_dụng/V các/L biện_pháp/N tăng_cường/V an_ninh/N an_toàn/A cho/V máy_in/N các/L lợi_ích/N mang/V lại/R là/V rất/N lớn2/M
+Đó/P là/V các/L giá_trị/N về/V kinh_doanh/V hiệu_quả/N hoạt_động/N của/E đội_ngũ/N CNTT/Np và/CC tiết_kiệm/V chi_phí/N vận_hành/V cho/V doanh_nghiệp/N
+Những/L doanh_nghiệp/N này/P có_thể/A giảm/V tới/V 6/M lần/N các/L vụ/N xâm_phạm/N dữ_liệu/N liên_quan/V tới/E máy_in/N đồng_thời/N giảm/V một/M nửa/N thời_gian/N hỗ_trợ/V cho/E việc/N in_ấn/V và/N tiết_kiệm/N trung_bình/A 15/M chi_phí/N cho/V giấy/N in/V và/N mực/N in/N
+Lựa_chọn/V thương_hiệu/N máy_in/N có/V độ/N bảo_mật/V cao/A là/V rất/N quan_trọng/A
+Máy_in/N cần/V có/V khả_năng/N phát_hiện/V đe_doạ/N từ/E bên/N ngoài/N chống/V đánh_cắp/N thông_tin/N tài_liệu/N nhạy_cảm/A với/E phần_mềm/N chỉ/N cho/V phép/N cài_đặt/N firmware/V hợp_lệ/N
+Đồng_thời/N máy_in/N cần/V có/V khả_năng/N đơn_giản_hoá/N quá_trình/N cài_đặt/V nhưng/C vẫn/R đảm_bảo/V an_toàn/A thông_tin/N ở/E mức/N cao/A nhất/A
+Có_thể/A tìm/V thấy/V những/L tính_năng/N cao_cấp/A đó/P trong/E các/L mẫu/N máy_in/N của/E HP/Np như/A HP/Np PageWide/V Enterprise_Color/Np 556dn/M HP/Np LaserJet/V Enterprise/Np M506/M dn/N hoặc/N HP/Np Color_Laser/Np Jet_Pro/Np MFP/Np M477/M fdw/N
+Những/L máy_in/N này/P đều/R được/V trang_bị/V các/L công_nghệ/N và/CC dịch_vụ/N bảo_mật/V như/C HP/Np JetAdvantage/V Security_Manager/Np HP/Np Printing_Security_Advisory_Services/Np HP/Np Managed_Print_Services/Np HP/Np MPS/Np và/CC HP/Np Access_Control/Np
+Nếu_như/N HP/Np JetAdvantage/V Security_Manager/Np giúp/V dễ_dàng/A thiết_lập/V chính_sách/N bảo_mật/V tổng_thể/N thì/C HP/Np Printing_Security_Advisory_Services/Np cho/V phép/N đánh_giá/N xây_dựng/V chiến_lược/N in_ấn/V bảo_mật/V toàn_diện/A để/E từ/E đó/P đề_xuất/V các/L giải_pháp/N tối_ưu/A cho/V doanh_nghiệp/N
+Trong/E khi/N đó/P HP/Np Managed_Print_Services/Np kết_hợp/V với/E HP/Np Access_Control/Np giúp/V đảm_bảo/V an_toàn/A cho/E công_tác/N in_ấn/N
+Các/L tác_vụ/N in/V sẽ/R được/V mã_hoá/V và/N chỉ/R có/V những/L người_dùng/N được/V xác_thực/N mới/R có/V quyền/N tiếp_cận/V tài_liệu/N
+Thậm_chí/N người_dùng/N cần/V phải/V có/V thẻ/N ID/Np mới/R thực_hiện/V được/R lệnh/V in/V và/N lấy/V tài_liệu/N đã/R in/V
+Để/E biết/V thêm/V chi_tiết/N về/V bảo_mật/V in/N ấn/N HP/Np vui_lòng/V truy_cập/N tại/E đây/P hoặc/N gọi/V đến/E tổng_đài/N hỗ_trợ/V 1800/M 58/M 88/M 68/M 247/M miễn_phí/N

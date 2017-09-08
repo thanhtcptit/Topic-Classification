@@ -1,0 +1,53 @@
+​/N Kết_quả/N tuyển/V thẳng/A bốn/M trường/N thành_viên/N ĐHQG/Np TPHCM/Np
+Năm/N nay/P các/L trường/N thành_viên/N ĐHQG/Np TPHCM/Np xét/V tuyển/N hệ/N đại_học/N chính_quy/N diện/N xét/N tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/N của/E Bộ/N GDĐT/Np và/CC diện/N ưu_tiên/A xét/V tuyển/V theo/E quy_định/N của/E ĐHQG/N TPHCM/Np
+Trong/E đó/P diện/N ưu_tiên/V xét/V tuyển/V theo/E quy_định/N của/E ĐHQG/N TPHCM/Np gồm/V học_sinh/N các/L trường/N THPT/Np chuyên/V năng_khiếu/V các/L trường/N đại_học/N tỉnh_thành/N trên/N toàn_quốc/N học_sinh/N các/L trường/N THPT/Np thuộc/V nhóm/N trường/N có/V điểm/N trung_bình/A kết_quả/N thi/V THPT/Np quốc_gia/N cao/A nhất/A năm/N 2015/M 2016/M
+Diện/N xét/N tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/N của/E Bộ/N GDĐT/N gồm/V các/L thí_sinh/N đạt/V giải/N học_sinh/N giỏi/N quốc_gia/N giải/N khoa_học_kĩ_thuật/X quốc_gia/N
+Hiện_Trường/N ĐH/N Khoa_học/N tự_nhiên/A ĐHQG/M TPHCM/Np chỉ/R mới/R công_bố/V kết_quả/N xét/V tuyển/V diện/N ưu_tiên/A xét/V tuyển/V theo/E quy_định/N của/E ĐHQG/N TPHCM/Np
+Riêng/T kết_quả/N xét/N tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/N của/E Bộ/N GDĐT/Np sẽ/R được/V trường/N công_bố/V sau/E khi/N có/V kết_quả/N kì/N thi/V THPT/Np quốc_gia/N năm/N 2017/M
+Theo/E đó/P năm/N 2017/M tổng/N chỉ_tiêu/N của/E tuyển_sinh/N của/E Trường/N ĐH/N Khoa_học/N tự_nhiên/A ĐHQG/M TPHCM/Np là/V 3140/M
+Tổng_số/N thí_sinh/N trúng_tuyển/V theo/V diện/N ưu_tiên/N xét/V tuyển/N của/E ĐHQG/N TPHCM/Np là/V 552/M thí_sinh/N
+Các/L ngành/N có/V số_lượng/N trúng_tuyển/V cao/N diện/N ưu_tiên/V xét/V tuyển/V theo/E quy_định/N của/E ĐHQG/N TPHCM/Np như/C nhóm/N ngành/N máy_tính/N và/CC công_nghệ_thông_tin/N hoá_học/N công_nghệ_sinh_học/X toán_học/N sinh_học/N
+Top/Np 20/M trường/N có/V số_lượng/N trúng/V truyển/N theo/V phương_án/N tuyển_sinh/N của/E ĐHQG/N TPHCM/Np
+STT/Np
+Trường/N THPT/Np
+Số_lượng/N
+THPT/Np chuyên/A Lê_Hồng_Phong/Np Thành_phố/N Hồ_Chí_Minh/Np
+Phổ_thông/N Năng_khiếu/N Thành_phố/N Hồ_Chí_Minh/Np
+THPT/Np Gia_Định/Np Thành_phố/N Hồ_Chí_Minh/Np
+THPT/Np Chuyên_Thoại_Ngọc_Hầu/Np Tỉnh_An_Giang/Np
+THPT/Np chuyên/V Nguyễn_Quang_Diêu/Np Tỉnh_Đồng_Tháp/Np
+THPT/Np Chuyên_Bến_Tre/Np Tỉnh_Bến_Tre/Np
+THPT/Np chuyên/V Nguyễn_Đình_Chiểu/Np Tỉnh_Đồng_Tháp/Np
+THPT/Np chuyên/V Nguyễn_Bỉnh_Khiêm/Np Tỉnh_Vĩnh_Long/Np
+THPT/Np Chuyên_Tiền_Giang/Np Tỉnh_Tiền_Giang/Np
+THPT/Np Nguyễn_Thượng_Hiền/Np Thành_phố/N Hồ_Chí_Minh/Np
+THPT/Np Chuyên_Nguyễn_Thiện_Thành/Np Tỉnh_Trà_Vinh/Np
+THPT/Np Chuyên_Trần_Hưng_Đạo/Np Tỉnh_Bình_Thuận/Np
+THPT/Np Chuyên_Lương_Thế_Vinh/Np Tỉnh_Đồng_Nai/Np
+THPT/Np Chuyên_Lương_Văn_Chánh/Np Tỉnh_Phú_Yên/Np
+THPT/Np Nguyễn_Công_Trứ/Np Thành_phố/N Hồ_Chí_Minh/Np
+THPT/Np chuyên/V Long_An/Np Tỉnh_Long_An/Np
+THPT/Np Chuyên_Thủ_Khoa_Nghĩa/Np Tỉnh_An_Giang/Np
+THPT/Np Chuyên_Lê_Quí_Đôn/Np Tỉnh_Bà_RịaVũng_Tàu/X
+THPT/Np chuyên/A Trần_Đại_Nghĩa/Np Thành_phố/N Hồ_Chí_Minh/Np
+Trường/Np THPT/Np chuyên/V Lê_Khiết/Np Tỉnh_Quảng_Ngãi/Np
+Thí_sinh/N trúng_tuyển/N phải/V xác_nhận/V nhập_học/N từ/E ngày/N 77/M đến/E hết/V ngày/N 1272017/M theo/V hai/M hình_thức/N nộp/V trực_tiếp/V tại/E phòng/N đào_tạo/V Trường/N ĐH/N Khoa_học/N tự_nhiên/A 227/M Nguyễn_Văn_Cừ/Np P4/Np Q5/Np TPHCM/Np trong/E giờ_hành_chính/N các/L ngày/N trong/N tuần/N từ/E thứ/N 2/M đến/E thứ/N 6/M sáng/N 8h/M 10/M h45/Nu chiều/N 13h30/M 16/M h15/M
+hoặc/N nộp/V qua/V đường/N bưu_điện/N
+Sau/E thời_gian/N trên/A các/L thí_sinh/N không/R xác_nhận/V nhập_học/N sẽ/R không/R được/V nhập_học/V
+Thí_sinh/N tra_cứu/V kết_quả/N ưu_tiên/A xét/V tuyển/N Trường/N ĐH/N Khoa_học/N tự_nhiên/N tại/N đây/P
+Theo/E kết_quả/N xét/N tuyển/N của/E Trường/N ĐH/N Công_nghệ/N thông_tin/N ĐHQG/N TPHCM/Np có/V 194/M thí_sinh/N được/V tuyển/V thẳng/A
+Trong/E đó/P 170/M thí_sinh/N trúng_tuyển/N theo/V phương_án/N tuyển_sinh/N của/E ĐHQG/N TPHCM/Np và/CC 24/M thí_sinh/N diện/N xét/N tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/N của/E Bộ/N GDĐT/N
+Thí_sinh/N trúng_tuyển/N phải/V xác_nhận/V nhập_học/N bằng/E cách/N gửi/V bản_chính/N Giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N 2017/M hoặc/N bản_chính/N Giấy/N chứng_nhận/V đạt/V giải/N đến/V phòng/N đào/V tạo/V Trường/N ĐH/N Công_nghệ/N thông_tin/N ĐHQG/N TPHCM/Np PL/Np inh/V Trung/Np QT/Np hủ/V Đức/Np TPHCM/Np trước/A 17h/M ngày/N 207/M
+Bên_cạnh/N đó/P Trường/N ĐH/N Công_nghệ/N thông_tin/N cũng/R tuyển/V thẳng/A năm/N thí/N sinh/V trúng_tuyển/N diện/N tuyển/V thẳng/A huyện/N nghèo/A
+Các/L thí_sinh/N này/P sẽ/R học/V bổ_túc/V kiến_thức/N 1/M năm/N tại/E Trường_Dự_bị/N Đại_học/N TP/Np
+HCM/Np trước/E khi/N vào/V học/V chính_thức/A
+Thí_sinh/V xem/V danh_sách/N trúng_tuyển/V thẳng/A vào/E Trường/N ĐH/N Công_nghệ/N thông_tin/N ĐHQG/N TPHCM/Np tại/V đây/P
+TS/N Phạm_Tấn_Hạ/Np phó/N hiệu_trưởng/N Trường/N ĐH/N Khoa_học/N xã_hội/N và/CC nhân_văn/N ĐHQG/N TPHCM/Np cho/V biết/V tổng_số/N thí_sinh/N được/V tuyển/V thẳng/A vào/E trường/N năm/N nay/P là/V 360/M
+Trong/E đó/P 320/M thí_sinh/N trúng_tuyển/N theo/V phương_án/N tuyển_sinh/N của/E ĐH/Np Quốc_gia/N TPHCM/Np và/CC 40/M thí_sinh/N thuộc/V diện/N xét/N tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/N của/E Bộ/N GDĐT/N
+Thí_sinh/N trúng_tuyển/N phải/V xác_nhận/V nhập_học/N bằng/E cách/N gửi/V bản_chính/N giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N 2017/M đến/E phòng/N đào_tạo/V Trường/N ĐH/N Khoa_học/N xã_hội/N và/CC nhân_văn/N số/N 1012/M Đinh_Tiên_Hoàng/Np PB/Np ến/V Nghé/Np Q1/Np TPHCM/Np
+Sau/E 17h/M ngày/N 207/M thí_sinh/N không/R xác_nhận/V sẽ/R không/R được/V nhập_học/V
+Thí_sinh/N tra_cứu/V kết_quả/N xét/N tuyển/V thẳng/A vào/E Trường/N ĐH/Np KHoa/N học/V xã_hội/N và/CC nhân_văn/N tại/V đây/P
+Trường/N ĐH/N Kinh_tế/N luật/N ĐHQG/M TPHCM/Np cũng/R đã/R công_bố/V kết_quả/N xét/V tuyển/V thẳng/A
+Thí_sinh/N tra_cứu/V kết_quả/N xét/N tuyển/V thẳng/A vào/E Trường/N ĐH/N Kinh_tế/N luật/N tại/V đây/P
+Thí_sinh/N trúng_tuyển/N phải/V xác_nhận/V nhập_học/N bằng/E cách/N nộp/V bảng/N chính/A phiếu/N báo/N kết_quả/N thi/V THPT/Np quốc_gia/N năm/N 2017/M cho/N trường/N trước/E ngày/N 207/M
+TRẦN/M HUỲNH/N

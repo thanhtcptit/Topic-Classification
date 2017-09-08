@@ -1,0 +1,30 @@
+Chứng_khoán/N biến_động/V ngày/N đầu/N tuần/N
+Bước/V sang/V phiên/N chiều/N các/L chỉ_số/N trên/E hai/M sàn/N giao_dịch/V đã/R được/V cải_thiện/V
+Lúc/N 14h20/M rổ/N VN30/Np quay/V đầu/N tăng/V gần/A một/M điểm/N đưa/V chỉ_số/N này/P lên/V mức/N 613,2/M điểm/N
+Các/L mã/N KBC/Np KDC/Np FPT/Np HSG/Np PVD/Np đã/R quay/V đầu/N tăng/V quanh/N mức/N 300-600/M đồng/Nu một/M cổ_phiếu/N
+Nhóm/N cổ_phiếu/N dẫn_dắt/V thị_trường/N như/C VNM/Np VIC/Np HAG/Np VCB/Np BVH/Np chỉ/R giảm/V nhẹ/A có/V mã/N đứng/V yên/A và/CC quay/V đầu/N bật/V xanh/A
+Kết/Np phiên/N chỉ_số/N Vn-Index/Np lội/V ngược/A dòng/N tăng/V 0,5/M lên/E 621,27/M điểm/N
+Nhóm/N cổ_phiếu/N bảo_hiểm/N sắt_thép/V công_nghệ/N đã/R có/V chuyển_biến/V tích_cực/A đi/V lên/V quanh/N mức/N 300-700/M đồng/Nu một/M cổ_phiếu/N giúp/V sàn/N HOSE/Np có/V 79/M mã/N tăng/V điểm/N
+Tổng_số/N lượng/N giao_dịch/V chốt/V phiên/N đạt/V 107,9/M triệu/N cổ_phiếu/V tương_đương/V 2 7/M tỷ/N đồng/N
+ /N Không/R bứt_phá/V ngoạn_mục/A như/C Vn-Index/Np tại/E sàn/N Hà_Nội/Np HNX-Index/Np chỉ/R nhích/V lên/R nhẹ/A và/CC mất/V gần/A một/M điểm/N đứng/V ở/E mức/N 83,53/M điểm/N
+Tổng/N khối_lượng/N giao_dịch/V trên/E HNX/Np đạt/V 47,7/M triệu/N cổ_phiếu/V tương_đương/V 545,6/M tỷ/N đồng/N
+Mở_cửa/V phiên/N sáng/N nay/P chưa/R đầy/A 30/M phút/Nu chỉ_số/N Vn-Index/Np đã/R giảm/V 6,55/M điểm/N kéo/V chỉ_số/N này/P về/E mức/N 614,22/M điểm/N
+Không/R dừng/V lại/R ở/E đó/P đến/E gần/A 10h/M chỉ_số/N này/P giảm/V tiếp/V và/CC mất/V hơn/R 12/M điểm/N  /EOS
+Trên/E sàn/N HOSE/Np rổ/N VN30/Np nhuộm/V đỏ/A nếu/C đầu/N phiên/N duy_nhất/A một/M mã/N là/V NT2/Np tăng_giá/V thì/C chỉ/R sau/E thời_gian/N ngắn/A mã/N này/P cũng/R quay/V đầu/N giảm/V điểm/N
+Các/L cổ_phiếu/N dẫn_dắt/V thị_trường/N như/C VNM/Np VIC/Np BVH/Np VCB/Np HAG/Np
+giảm/V quanh/N mức/N 200-3 0/M đồng/Nu một/M cổ_phiếu/N
+Toàn/Np sàn/N TP_HCM/Np có/V 186/M mã/N giảm_giá/A 22/M mã/N đứng/V yên/A và/CC 27/M mã/N giảm/V điểm/N  /EOS
+Tại/E sàn/N Hà_Nội/Np HNX-Index/Np cũng/R giảm/V gần/A một/M điểm/N kéo/V chỉ_số/N này/P về/E mốc/N 82,66/M điểm/N
+Toàn/Np sàn/N có/V 111/M mã/N giảm/V điểm/N 232/M mã/N đứng/V yên/A và/CC 35/M mã/N tăng/V
+Rổ/N HNX30/Np cũng/R chỉ/R có/V 3/M mã/N tăng_giá/V quanh/N mức/N 300-400/M đồng/Nu một/M cổ_phiếu/N
+Theo/E các/L chuyên_gia/N chứng_khoán/A sở_dĩ/C phiên/N đầu/N tuần/N chứng_khoán/V tiếp_tục/V giảm/V mạnh/A là/V vì/E thông_tin/N Anh/N rời/V EU/Np khiến/V nhiều/A nhà_đầu_tư/N hoang_mang/V và/CC tiếp_tục/V bán_tháo/V cổ_phiếu/N
+Trong/E đó/P các/L doanh_nghiệp/N xuất_khẩu/V của/E Việt_Nam/Np vào/E thị_trường/N EU/Np sẽ/R gặp/V khó_khăn/A hơn/A trong/E đó/P phải/V kể/V đến/E nhóm/N cổ_phiếu/N ngành/N dệt_may/V da/N giày/N thủy_sản/N
+Ngoài_ra/C sự/Nc bất_ổn/A tại/E thị_trường/N châu/N Âu/Np cũng/R sẽ/R kéo_theo/V các/L bất_ổn/A trên/E các/L thị_trường/N tài_chính/N toàn_cầu/N và/CC Việt_Nam/Np cũng/R nằm/V trong/E số/N đó/P
+Đồng/V bảng/N Anh/N đang/R mất_giá/V nên/C một_số/L công_ty/N đang/R có/V dư_nợ/N ngoại_tệ/N sẽ/R bị/V tác_động/V nhưng/C tích_cực/A hay/C tiêu_cực/A thì/C còn/R tùy/V vào/E từng/P trường_hợp/N cụ_thể/A
+Hiện/N chứng_khoán/N Việt_Nam/Np trong/E phiên/N sáng/N nay/P rơi/V vào/E đà/N bán_tháo/V nhưng/C đà/N giảm/V sẽ/R chậm/A lại/R khi/N lực/N cầu/N bắt/V đáy/N tăng/V lên/R
+Tới/V hơn/R 10h/M chỉ_số/N Vn-Index/Np trở_lại/V mức/N giảm/V 7/M điểm/N và/CC đang/R có/V xu_hướng/N tăng/V trở_lại/V
+Kết/Np phiên/V giao_dịch/V sáng/N nay/P chỉ_số/N Vn-Index/Np mất/V 7,50/M điểm/N xuống/V 613,24/M điểm/N
+Tổng_số/N lượng/N giao_dịch/V trên/E sàn/N HOSE/Np đạt/V 60,8/M triệu/N cổ_phiếu/V tương_đương/V giá_trị/N 1 2/M tỷ/N đồng/N
+Trong/E rổ/N VN30/Np chỉ/R có/V duy_nhất/A cổ_phiếu/N KBC/Np tăng/V điểm/N
+Còn/C tại/E sàn/N Hà_Nội/Np kết/V phiên/N HNX-Index/Np mất/V hơn/R một/M điểm/N xuống/V 82,53/M điểm/N
+Tổng_số/N lượng/N giao_dịch/V trên/E HNX/Np đạt/V 24,2/M triệu/N cổ_phiếu/V tương_đương/V giá_trị/N 294/M tỷ/N đồng/N

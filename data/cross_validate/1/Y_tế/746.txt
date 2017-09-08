@@ -1,0 +1,14 @@
+Bộ/N Y_tế/N yêu_cầu/V truy_cứu/V trách_nhiệm/N bố/N bệnh_nhi/V bắt/V bác_sĩ/N quỳ/V xin_lỗi/V
+Cục_trưởng/N Quản_lý/V Khám/V chữa/V bệnh/N Lương_Ngọc_Khuê/Np yêu_cầu/V Giám_đốc/N Bệnh_viện/N Thể_thao/N Việt_Nam/Np động_viên/V điều_trị/V phục_hồi/V sức_khỏe/N và/CC tâm_lý/N cho/E bác_sĩ/N Phạm_Đình_Vinh/Np người/N vừa/R bị/V bố/N một/M bệnh_nhi/N hành_hung/V bắt/V quỳ/V xin_lỗi/V
+Bệnh_viện/N cũng/R phối_hợp/V với/E cơ_quan/N công_an/N điều_tra/V làm/V rõ/A để/E truy_cứu/V trách_nhiệm/N đối_với/E nhóm/N người/N hành_hung/V
+Để/E tránh/V sự_việc/N tương_tự/A bệnh_viện/N phải/V chấn_chỉnh/V công_tác/N an_ninh/N trật_tự/N bảo_đảm/V an_toàn/A cho/E nhân_viên/N y_tế/N người_bệnh/N và/CC thân_nhân/N bệnh_nhân/N trong/E bệnh_viện/N
+Kết_quả/N thực_hiện/V báo_cáo/V về/E Cục/N trước/E ngày/N 26/6/M
+Ngày/N 16/6/M bác_sĩ/N Vinh/Np công_tác/V ở/E khoa/N Y_học/N Cổ_truyền/A Bệnh_viện/N Thể_thao/N Việt_Nam/Np bị/V 2/M người/N hành_hung/V
+Nguyên_nhân/N bắt_nguồn/V từ/E ngày/N 30/5/M một/M gia_đình/N ở/E Từ_Liêm/Np đưa/V bé/N trai/N 5/M tuổi/Nu đến/E bệnh_viện/N khám/V do/E té/V ngã/N
+Bác_sĩ/N Vinh/Np khám/V chỉ_định/V chụp/V 2/M phim/N X-quang/Np nhưng/C không/R phát_hiện/V biểu_hiện/N gì/P đặc_biệt/A ngoài/E vết/N tấy/A đỏ/A sưng/A đau/V
+Tuy_nhiên/C 3/M ngày_sau/N tái/A khám/V một/M bác_sĩ/N khác/A phát_hiện/V có/V vết/N rạn/V ở/E xương/N bệnh_nhi/N nên/C khuyên/V đưa/V đến/E Bệnh_viện/N Nhi_Trung/Np ương/V bó/V bột/N
+Bố/N bệnh_nhi/V nhắn_tin/V đe_dọa/V bác_sĩ/N Vinh/Np mặc_dù/C anh/N đã/R xin_lỗi/V sau/E đó/P chặn/V đánh/V rồi/C bắt/V quỳ/V xin_lỗi/V  /EOS
+Công_an/N quận/N Nam_Từ_Liêm/Np /V Hà_Nội/Np /A đã/R tạm/A giữ/V một/M kẻ/N hành_hung/V về/E hành_vi/N gây_rối/V trật_tự/N công_cộng/N củng_cố/V hồ_sơ/N xử_lý/V thêm/V về/E hành_vi/N cố_ý/V gây/V thương_tích/N và/CC làm_nhục/V người/N khác/A
+Kẻ/N hành_hung/V còn/V lại/R đang/R bị/V truy_tìm/V  /EOS
+Bác_sĩ/N Vinh/Np đang/R điều_trị/V tại/E Bệnh_viện/N 198/M trên/E mặt/N có/V vết/N sưng/A nề/V ở/E cung/N mày/P phải/V xây_xát/V thái_dương/N trái/A sưng/A 2/M cẳng_tay/N CT/Np scanner/V sọ/N não/N không/R phát_hiện/V tổn_thương/N nội/N sọ/N
+Hiện/N bác_sĩ/N tê/A bì/V toàn_bộ/L tay/N buồn_nôn/A choáng_váng/A do/C bị/V va_đập/V mạnh/A vùng/N đầu/N nên/C não/N bị/V chấn_động/V

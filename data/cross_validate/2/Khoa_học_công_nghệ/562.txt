@@ -1,0 +1,11 @@
+﻿/M Phần_mềm/N xác_định/V cơn/N đau/V của/E vật_nuôi/N
+Các/L nhà_nghiên_cứu/N tại/E Đại_học/N Cambridge_Anh/Np phát_triển/V phần_mềm/N nhận_diện/V khuôn_mặt/N có/V khả_năng/N xác_định/V cấp_độ/N cơn/N đau/V của/E cừu/N  /N SPFES/Np  /V giúp_việc/V đánh_giá/V  /M tình_trạng/N sức_khỏe/N vật_nuôi/N  /A dễ_dàng/A hơn/A Engadget/Np ngày/N 2/M 6/M đưa/V tin/N
+Theo/E nghiên_cứu/N này/P khi/N cừu/N bị/V đau/V có/V 5/M đặc_điểm/N chính/T diễn/V ra/R trên/E mặt/N gồm/V  /M mắt/N khép/V nhỏ/A má/N căng/V tai/N cụp/V về/E phía/N trước/N môi/N kéo/V xuống/R ra/E phía/N sau/N lỗ/N mũi/N chuyển/V từ/E hình/N chữ/N U/Np sang/V hình/N chữ/N V/N
+Dựa/V trên/E các/L kỹ_thuật/N nhận_diện/V khuôn_mặt/N người/N các/L nhà_khoa_học/N  /V do/E giáo_sư/N Peter_Robinson/Np dẫn_đầu/V lập_trình/N phần_mềm/N nhận_diện/V biểu_hiện/V trên/E mặt/N cừu/N
+Darwin/Np từng/R tranh_luận/V con_người/N và/CC nhiều/A loài/N vật_thể/N hiện/N cảm_xúc/N qua/E những/L hành_vi/N rất/R giống/A nhau/N Robinson/Np nói/V
+Chúng_tôi/P cho/V rằng/C sẽ/R có/V điểm/N chung/A giữa/E việc/N nghiên_cứu/V khuôn_mặt/N người/N với/E động_vật/N
+Phương_pháp/N tiếp_cận/V đa_cấp/V độ/N bắt_đầu/V bằng/E việc/N nhận_diện/V mặt/N cừu/V định_vị/V điểm/N tiêu_chuẩn_hóa/V và/CC rút/V ra/R các/L đặc_điểm/N của/E cơn/N đau/V nghiên_cứu/V cho_biết/V
+Mỗi/L đặc_điểm/N trên/E khuôn_mặt/N cừu/V được/R gắn/V với/E một/M cấp_độ/N đau/V nhất_định/R
+Sử_dụng/V gần/A 500/M tấm/Nc ảnh/N cừu/V được/V các/L bác_sĩ/N thú_y/N thu_thập/V phần_mềm/N  /N có_thể/A phân_biệt/V 9/M loại/Nc mặt/N cừu/A và/CC ước_tính/V cấp_độ/N cơn/N đau/V tương_ứng/V với/E độ_chính_xác/N 67%/M
+Các/L nhà_khoa_học/N tin/V rằng/C có_thể/R tăng/V độ_chính_xác/N bằng/E cách/N bổ_sung/V dữ_liệu/N
+Kết_quả/N nghiên_cứu/V được/R công_bố/V ngày/N 1/6/M tại/E Hội_nghị/N Quốc_tế/N IEEE/Np lần/N thứ/N 12/M về/E Nhận_diện/V Tự_động/A Cử_chỉ/N và/CC Khuôn_mặt/N ở/E Washington_Mỹ/Np  /V Nghiên_cứu/N này/P có_thể/R mở/V ra/R tương_lai/N hỗ_trợ/V bác_sĩ/N thú_y/N chẩn_đoán/V và/CC điều_trị/V cho/E nhiều/A loài/N động_vật/N khác/A như/C chuột/N thỏ/N ngựa/N

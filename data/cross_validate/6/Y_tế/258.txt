@@ -1,0 +1,10 @@
+Sản_phụ/N nặng/A 102kg/M sinh/V con/N nặng/A 6,5/M kg/Nu 
+Sáng/N 19/9/M trao_đổi/V với/E PV/Np Dân_trí/N Bác_sĩ/N Võ_Thôi/Np –/V Trưởng_Khoa/Np sản/V bệnh_viện/N đa_khoa/N khu_vực/N Quảng_Nam/Np thị_trấn/N Vĩnh_Điện/Np huyện/N Điện_Bàn/Np Quảng_Nam/Np cho_biết/V sản_phụ/N này/P tên/N Trần_Thị_Bông/Np SN/Np 1976/M là/V vợ/N của/E anh/N Trần_Thanh_Bình/Np SN/Np 1976/M trú/V xã/N Bình_Giang/Np Thăng_Bình/Np Quảng_Nam/Np 
+Theo/E thông_tin/N chị/N Bông/Np nhập_viện/V lúc/N 15h/M ngày/N 17/9/M và/CC được/V bác_sĩ/N chẩn_đoán/V thai/N lần/N 4/M chuyển_dạ/V ngôi/Nc đầu/N tiền/N sản_giật/V bệnh_nhân/N chỉ_định/V mổ/V lấy/V thai/N 
+Đến/V 21h/M cùng/A ngày/N kíp/N mổ/V do/E bác_sĩ/N Thân_Thị_Kim/Np –/V Phó_Giám/Np đốc/V bệnh_viện/N phụ_trách/V được/V tiến_hành/V và/CC cháu/N trai/N được/V mổ/V an_toàn/A với/E cân/N nặng/A 6,5/M kg/Nu 
+Theo/E bác_sĩ/N Thôi/V cho_biết/V trước/E khi/N mổ/V sản_phụ/N Bông/Np cân/V nặng/A 102kg/M 
+Trao_đổi/V với/E PV/Np Dân_trí/N chị/N Trần_Thị_Bông/Np cho_biết/V đây/P là/V đứa/N con_thứ/N 4/M của/E mình/P 
+Trước/E đó/P 3/M lần/N sinh/V đều/R là/V con_gái/N và/CC nặng/A từ/E 4-4/M 2kg/M 
+Bác_sĩ/N Thôi/V cho_biết/V đây/P là/V trường_hợp/N đầu_tiên/A bé/N sơ_sinh/A nặng/A 6,5/M kg/Nu được/V sinh_ra/V ở/E bệnh_viện/N 
+Hiện_tại/N sức_khỏe/N 2/M mẹ_con/N chị/N Bông/Np bình_thường/A dự_kiến/V ngày/N 24/9/M sản_phụ/N sẽ/R được/V xuất_viện/V 
+Công_Bính/N 

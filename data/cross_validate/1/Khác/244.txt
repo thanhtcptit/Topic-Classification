@@ -1,0 +1,14 @@
+Cổ_động/N văn_hoá/N giao/V thông_qua/N bộ/N tranh/N vẽ/V dí_dỏm/N
+Một/M nhóm/N 8/M bạn/N trẻ/N đã/R thực_hiện/V bộ/N tranh/N An_toàn/A giao_thông/N Hạnh_phúc/N của/E mọi/N nhà/N rất/R ngộ_nghĩnh/A
+Bộ/N tranh/N hưởng_ứng/N phong_trào/N xung_kích/N của/E Đoàn/Np TNCS/Np Hồ_Chí_Minh/Np trong/E tham_gia/N đảm_bảo/V trật_tự/N an_toàn/A giao_thông/N góp_phần/N cải_thiện/V tình_trạng/N ùn_tắc/V giao_thông/N và/CC xây_dựng/V văn_hoá/N giao_thông/N trong/N thanh_thiếu_niên/N
+Bộ/N tranh/N gồm/V 12/M bức/N với/E các/L thông_điệp/N nhằm/V giáo_dục/N ý_thức/N xây_dựng/V văn_hoá/N giao_thông/N
+Mở_đầu/N bộ/N tranh/N bằng/E hình_ảnh/N nhiều/A chiếc/N mũ_bảo_hiểm/N các/L tác_giả/N trẻ/N mong_muốn/V đó/P là/V khẩu_hiệu/N Chúng_ta/N hãy/R hành_động/V đúng/A để/E bảo_vệ/V tính_mạng/N cho/V bản_thân/N cho/E gia_đình/N và/CC cũng/R là/V cho/V xã_hội/N
+Cùng/A nhiều/A tình_huống/N vi_phạm/V giao_thông/N trong/N thành_phố/N hiện_nay/N được/V tái_hiện/V trong/E các/L bức/N tranh/N phản_ánh/N thực_trạng/N như/C Lề_đường/N là/V dành/V cho/E người/N đi/V bộ/N
+hay/C khẩu_hiệu/N quen_thuộc/A Đã/R uống/V rượu/N bia/N thì/C không/R lái_xe/V mà/C không/R phải/A ai/P cũng/R nắm/V các/L thông_tin/N quy_định/N
+Chỉ/R với/E nồng_độ/N cồn/N ở/E mức/N 005mg/N l/N khí/N thở/V người/N sử_dụng/V rượu_bia/N đã/R bị/V giảm_sút/V suy_nghĩ/V và/N bị/V kích_động/V nhẹ/A
+Nếu/C nồng_độ/N 02mg/N l/N khí/N thở/V người/N điều_khiển/V phương_tiện/N tham_gia/V giao_thông/N dễ/N bị/V ức_chế/V giận_dữ/N đi_lại/V loạng_choạng/A
+Nếu/C ở/E các/L mức_độ/N cao/A hơn/R người/N uống/V có_thể/N không/R tự_chủ/V được/R hành_vi/N cá_nhân/A và/CC có_thể/R tự/N gây/V tai_nạn/N cho/E bản_thân/N hoặc/N gây/V thương_tích/N cho/E những/L người/N tham_gia/V giao_thông/N khác/A
+Hạn_chế/N dùng/V xe/N cá_nhân/N tận_dụng/V các/L phương_tiện/N công_cộng/N di_chuyển/V trong/E thành_phố/N cũng/R là/V một/M trong/E những/L lựa_chọn/N của/E Văn_hoá/N giao_thông/N
+Bức/Np tranh/V với/E thông_điệp/N Đi/V xe_buýt/N không/R lo/V nắng/N chẳng/R sợ/V mưa/N nhằm/V vận_động/V khuyến_khích/V người/N dân/N sử_dụng/V phương_tiện/N giao_thông/N công_cộng/A để/E di_chuyển/V hằng/R ngày/N
+Việc/N sử_dụng/V xe_buýt/N hằng/R ngày/N vừa/R tiết_kiệm/V chi_phí/N giảm/V ùn_tắc/V giao_thông/N hạn_chế/V căng_thẳng/A hạn_chế/V tác_động/V bên/N ngoài/N
+Tính/V đến/E nay/N TPHCM/Np đã/R duy_trì/V khoảng/N 136/M tuyến/N xe_buýt/N trong/E đó/N có/V 105/M tuyến/N có/V trợ_giá/N cùng/A 2786/M xe/N đang/R sử_dụng/V

@@ -1,0 +1,7 @@
+Phòng_khám/N bị/V nghi/V lạm_dụng/V bảo_hiểm_y_tế/X
+Ngày/N 22/5/M Bảo_hiểm_xã_hội/N Việt_Nam/Np đã/R yêu_cầu/V Bảo_hiểm_xã_hội/X Bình_Phước/Np tạm/A dừng/V hợp_đồng/N khám/V chữa/V bệnh/N bảo_hiểm_y_tế/X với/E phòng_khám/N đa_khoa/N Tâm_Đức/Np để/E cơ_quan_chức_năng/N kiểm_tra/V
+Người/N có/V thẻ/N bảo_hiểm/V khám/V chữa/V bệnh/N tại/E đây/P được/R hướng_dẫn/V chuyển/V đến/E các/L cơ_sở/N tuyến/N huyện/N tuyến/N xã/N
+Theo/E Bảo/Np hiểm/A xã_hội/N Việt_Nam/Np phòng_khám/N này/P  /A không/R có/V bác_sĩ/N ngoại_khoa/N nhưng/C vẫn/R đề_nghị/V thanh_toán/V bảo_hiểm/N cho/E các/L ca/N khám/V ngoại/N do/E bác_sĩ/N đa_khoa/V thực_hiện/V
+Phòng_khám/N cũng/R được/V cho/V là/C vi_phạm/V quy_định/N khi/N dùng/V y_sĩ/N đa_khoa/V khám/V chữa/V bệnh/N y_học/N cổ_truyền/A
+Bác_sĩ/N chỉ/R đăng_ký/V khám/V chữa/V bệnh/N ngoài/E giờ/N nhưng/C lại/R làm_việc/V trong/E giờ_hành_chính/N
+Bảo_hiểm_xã_hội/X cho/V rằng/C phòng/N  /A khám/V này/P không/R được/V cấp/V phép/N hoạt_động/V chuyên_khoa/N phục_hồi/V chức_năng/N nhưng/C Sở/N Y_tế/N vẫn/R phê_duyệt/V có/V dấu_hiệu/N lạm_dụng/V bảo_hiểm_y_tế/X

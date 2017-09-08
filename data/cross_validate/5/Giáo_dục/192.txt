@@ -1,0 +1,11 @@
+Học_sinh/N sinh_viên/N có_thể/A vay/V tối_đa/N đến/V 15/M triệu/N đồngtháng/V
+Đó/P là/V tinh_thần/N quyết_định/N của/E Thủ_tướng/N Chính_phủ/N về/V việc/N điều_chỉnh/V mức/N cho/V vay/V đối_với/N học_sinh/N sinh_viên/N vừa/R được/V ban_hành/V
+Theo/E đó/P xét/N đề_nghị/N của/E Bộ/N Tài_chính/N Thủ_tướng/N Chính_phủ/N đã/R quyết_định/V nâng/V mức/N cho/V vay/V tối_đa/A đối_với/N học_sinh/N sinh/V viên/N lên/V 15/M triệu/N đồngtháng/N học_sinh/N sinh_viên/N
+Như/C vậy/P so/V với/E mức/N hiện_hành/N được/V áp_dụng/V từ/E tháng/N 12016/M tối_đa/N 125/M triệu/N đồngtháng/N học_sinh/N sinh_viên/N mức/N cho/V vay/V tối_đa/A đối_với/N học_sinh/N sinh/V viên/N tăng/V thêm/R 250000/M đồngtháng/N
+Thủ_tướng/N Chính_phủ/N yêu_cầu/V Bộ/N Kế_hoạch/N và/CC Đầu_tư/V cân_đối/N bố_trí/N cấp/V đủ/A nguồn/N vốn/N cấp/V bù/N chênh_lệch/A lãi_suất/N và/CC phí/N quản_lí/V cho/E Ngân_hàng/N Chính_sách/N xã_hội/N theo/V quy_định/N
+Ngân_hàng/N Chính_sách/N xã_hội/N có/V trách_nhiệm/N thực_hiện/V cho/V vay/V giám_sát/N thu/V hồi/N nợ/N vay/V theo/R quy_định/N của/E pháp_luật/N hiện_hành/N
+Quyết_định/N có/V hiệu_lực/N thi_hành/V từ/E ngày/N 156/M và/N áp_dụng/V đối_với/E các/L khoản/N giải_ngân/N mới/A kể/V từ/E khi/N Quyết_định/N này/P có/V hiệu_lực/N thi_hành/V
+Tính/V đến/E nay/N sau/N gần/A 10/M năm/N thực_hiện/V chính_sách/N tín_dụng/N đối_với/N học_sinh/N sinh_viên/N hàng/N triệu/N lượt/N học_sinh/N sinh/V viên/N được/V vay/V vốn/N từ/E chương_trình/N này/P
+Chính_sách/N tín_dụng/N đối_với/N học_sinh/N sinh/V viên/N được/V áp_dụng/V để/E hỗ_trợ/V cho/R học_sinh/N sinh/V viên/N có/V hoàn_cảnh/N khó_khăn/A góp_phần/V trang_trải/V chi_phí/N cho/E việc/N học_tập/V sinh_hoạt/N của/E học_sinh/N sinh_viên/N trong/E thời_gian/N theo/V học/V tại/E trường/N bao_gồm/V tiền/N học_phí/N
+chi_phí/N mua_sắm/V sách_vở/N phương_tiện/N học_tập/V chi_phí/N ăn/V ở/V đi_lại/N
+Đối_tượng/N được/V vay/V vốn/N là/V học_sinh/N sinh/V viên/N có/V hoàn_cảnh/N khó_khăn/A theo/V học/V tại/E các/L trường/N đại_học/N hoặc/N tương_đương/V đại_học/N cao_đẳng/N trung_cấp/N chuyên_nghiệp/A và/CC tại/E các/L cơ_sở/N đào_tạo/V nghề/N

@@ -1,0 +1,9 @@
+TP/Np
+Nam_Định/Np điều_tra/V nhóm/N côn_đồ/N chém/V người/N
+Công_an/N tỉnh/N Nam_Định/Np đang/R điều_tra/V vụ/N hàng/R chục/M người/N xông/V vào/R cửa_hàng/N tại/E thành_phố/N Nam_Định/Np đập/V phá/V và/N chém/N trọng_thương/A một/M người/N
+Nạn_nhân/N mất/V rất/R nhiều/A máu/N đang/R cấp_cứu/V tại/V Hà_Nội/Np
+Theo/E xác_minh/N bước_đầu/N khoảng/A 11h/M ngày/N 156/M tại/E cửa_hàng/N mĩ_phẩm/N trên/E đường/N Trần_Huy_Liệu/Np TP/Np Nam_Định/Np xảy/V ra/R vụ/N khoảng/N 10/M người/N mang/V theo/V dao/N kiếm/V tuýp/N sắt/N xông/V vào/R đập/V phá/V và/N chém/N trọng_thương/N anh/N Trần_Việt_Cường/Np 27/M tuổi/N trú/V tại/E đường/N Hùng_Vương/Np TP/Np Nam_Định/Np tỉnh/N Nam_Định/Np
+Anh/N Cường/Np được/V gia_đình/N đưa/V đi/V cấp_cứu/V tại/E Bệnh_viện/N đa_khoa/N tỉnh/N Nam_Định/Np nhưng/C do/C vết_thương/N quá/R nặng/A nên/C được/V chuyển/V đến/E Bệnh_viện/N Việt_Đức/Np Hà_Nội/Np
+Theo/E bác/N sĩ/N trực/V tại/E khoa/N cấp_cứu/V của/E bệnh_viện/N Việt_Đức/Np Cường/Np bị/V nhiều/A vết_thương/N hở/N ở/E phần_mềm/N có_thể/N đã/R bị/V đứt/V gân/N và/CC mất/V rất/R nhiều/A máu/N
+Từ/E khi/N tiếp_nhận/V bệnh_nhân/N các/L bác/N sĩ/N phải/V dùng/V thuốc/N cầm/V máu/N và/CC truyền/V hơn/N 1/M lít/Nu máu/N nhằm/V giữ/V tính_mạng/N cho/E anh/N Cường/Np
+Tại/E hiện_trường/N cửa_hàng/N bị/V các/L đối_tượng/N côn_đồ/N này/P đập/V phá/V tan_hoang/N mảnh/N kính/N vỡ/V văng/V khắp/A nhà/N vết/N máu/N chảy/V lênh_láng/N

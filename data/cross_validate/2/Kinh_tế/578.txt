@@ -1,0 +1,11 @@
+Vải_thiều/N Việt/Np bán/V 200 0/M đồng/Nu một/M kg/N tại/E Thái_Lan/Np
+Lô/N hàng/N vải_thiều/V Lục_Ngạn/N /V Bắc_Giang/Np /V đầu_tiên/A chính_thức/A được/V xuất_khẩu/V sang/E thị_trường/N Thái_Lan/Np kể/V từ/E ngày/N 30/6/M
+Đến/E ngày/N 3/7/M mặt_hàng/N này/P được/V trưng_bày/V lên/R quầy/N kệ/N của/E một_số/L chuỗi/Nc kinh_doanh/V bán_lẻ/V thực_phẩm/N của/E Central_Group/Np tại/E Bangkok/Np
+Tại/E đây/P mỗi/M kg/Nu vải_thiều/N niêm_yết/V giá/N 299/M baht/Nu tương_đương/V 200 0/M đồng/Nu  /EOS
+Ông/Nc Trần_Quang_Tấn/Np Giám_đốc/N Sở/N Công_Thương/Np tỉnh/N Bắc_Giang/Np cho_biết/V hiện/N vải_thiều/V Lục_Ngạn/N đã/R xuất_khẩu/V qua/E hơn/R 30/M nước/N trên/E thế_giới/N
+Trong/E đó/P Thái_Lan/Np là/V một/M trong/E 5/M nước/N xuất_khẩu/V quả/N vải/N lớn/A nhất/A thế_giới/N và/CC rất/R thành_công/V trong/E việc/N xây_dựng/V thương_hiệu/N cũng_như/C làm/V chứng_thực/V về/E marketing/N làm/V xuất_khẩu/V và/CC tiêu_thụ/V hàng/N nông_sản/N địa_phương/N
+Việc/N xuất_khẩu/V thành_công/V vải_thiều/N sang/V Thái_Lan/Np lần/N này/P tiếp_tục/V khẳng_định/V chất_lượng/N của/E vải_thiều/N Lục_Ngạn/N trên/E thị_trường/N quốc_tế/N đặc_biệt/A là/V với/E các/L thị_trường/N khó_tính/A khác/A như/C Mỹ/Np Australia/Np Nhật_Bản/Np ”/M ông/Nc Tấn/Np cho_hay/V  /EOS
+Theo/E Báo/N cáo/V của/E UBND/Np tỉnh/N Bắc_Giang/Np vải_thiều/V ra/R hoa/N muộn/A tỷ_lệ/V ra/R hoa/N và/CC đậu/V quả/N giảm/V 40%/M so/V với/E năm/N 2016/M
+Diện_tích/N trồng/V vải/N của/E Bắc_Giang/Np vẫn/R duy_trì/V gần/A 30 0/M ha/Nu
+Sản_lượng/N vải_thiều/V ước/V đạt/V 100 0/M tấn/Nu bằng/E 70%/M so/V với/E năm/N 2016/M trong/E đó/P đạt/V tiêu_chuẩn/N Viet/Np GAP/Np khoảng/A 40 0/M tấn/Nu Global/Np GAP/Np khoảng/A 1 0/M tấn/Nu
+Năm/N 2017/M dự_kiến/V tổng_sản_lượng/N vải_thiều/V Bắc_Giang/Np tiêu_thụ/V trong/E nước/N và/CC xuất_khẩu/V lần_lượt/R đạt/V khoảng/N 50 0/M tấn/Nu

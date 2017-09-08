@@ -1,0 +1,18 @@
+Ứng_dụng/V đi/V chung/A xe_máy/N của/E sinh_viên/N Đại_học/N FPT/Np
+Trong/E buổi/N bảo_vệ/V đồ_án/N tốt_nghiệp/V nhóm/N sinh_viên/N ngành/N Kỹ_thuật/N phần_mềm/N Đại_Học/Np FPT/Np đã/R ra_mắt/V ứng_dụng/V HolaBike/Np dành/V cho/E người/N đi/V xe_máy/N tìm/V người/N có/V nhu_cầu/N di_chuyển/V trên/E cùng/N lộ_trình/N để/E chia_sẻ/V chi_phí/N đi_lại/V
+Hình_thức/N di_chuyển/V tiết_kiệm/A này/P phổ_biến/V ở/E các/L nước/N phát_triển/V như/C mô_hình/N đi/V chung/A ôtô/N Covoiturage/Np ở/E Pháp/Np Bla_Bla_Car/Np ở/E châu/N Âu/Np hay/C ứng_dụng/N Ridewith/Np của/E Google/Np
+Việt_Nam/Np hiện/N cũng/R có/V một_số/L website/N với/E chức_năng/N tương_tự/A
+Đối_với/E ứng_dụng/N HolaBike/Np tài_xế/N /M người/N có/V xe_máy/N /V sẽ/R đăng/V lộ_trình/N nếu/C người/N dùng/V cảm_thấy/V phù_hợp/V thì/C có_thể/R đăng_ký/V đi/V chung/A
+Khác/A với/E các/L website/N ứng_dụng/N này/P được/V phát_triển/V trên/E nền_tảng/N di_động/V nên/C thân_thiện/A với/E người/N dùng/V dễ/A truy_cập/V và/CC dễ/A sử_dụng/V  /EOS
+HolaBike/Np đã/R tối_ưu_hóa/V việc/N đặt/V xe/N trực_tuyến/A giúp/V người/N có/V xe_máy/N đón/V khách/N ngay/T trong/E lúc/N xe/N đang/R chạy/V miễn_là/C lộ_trình/N của/E tài_xế/N và/CC khách_hàng/N có/V điểm/N tương_đồng/A
+Điều/N này/P giúp/V giảm/V chi_phí/N xăng/N xe/N giảm/V lượng/N xe/N lưu_thông/V trên/E đường/N giúp/V kết_nối/V bạn_bè/N
+Năm/N 2016/M ứng_dụng/V “/N Tìm/V bạn/N chung/A đường/N ”/M /N Pinbike/Np /M ra_đời/V cũng/R có/V chức_năng/N hỗ_trợ/V tương_tự/A
+Tuy_nhiên/C điểm/N mới/A của/E HolaBike/Np là/V giảm_thiểu/V hết_mức/A các/L thao_tác/V mà/C người/N dùng/V cần/V thực_hiện/V
+Sau/E khi/N nhập/V yêu_cầu/V điểm/N đến/V ứng_dụng/V sẽ/R tự_động/A xử_lý/V và/CC tìm_kiếm/V những/L lộ_trình/N gần/A nhất/A phù_hợp/V nhất/R trong/E quãng/N đường/N đã/R chọn/V tiết_kiệm/V được/V thời_gian/N cho/E người/N dùng/V
+Ngoài_ra/C hệ_thống/N của/E HolaBike/Np có_thể/R tự_động/A nhận_diện/V tọa_độ/N người/N có/V nhu_cầu/N đi/V nhờ/V xe/N và/CC gợi_ý/V các/L quãng/N đường/N có_thể/A di_chuyển/V từ/E tọa_độ/N đó/P mà/C chưa/R cần/V người/N dùng/V phải/V nhập/V điểm/N đến/E
+Đặc_biệt/A chi_phí/N người/N dùng/V phải/V trả/V cho/E tài_xế/N là/V rất/R thấp/A gần_như/R chỉ/R chia_sẻ/V tiền/N xăng/N cho/E bạn/N đi/V chung/A đường/N
+Để/E tạo/V ứng_dụng/N HolaBike/Np nhóm/Nc sinh_viên/N Đại_học/N FPT/Np đã/R sử_dụng/V những/L công_cụ/N như/C MySQL/Np Google/Np API…/Np cùng/C kiến_thức/N tích_lũy/V được/R trong/E quá_trình/N học/V dưới/E sự/Nc dẫn_dắt/N của/E giảng_viên/N hướng_dẫn/V thầy/N Nguyễn_Tất_Trung/Np
+Tìm/V ra/R vấn_đề/N mới/A và/CC cách/V giải_quyết/V không/R phải/V dễ_dàng/A tuy_nhiên/C các/L thành_viên/N có/V nhiều/A động_lực/N khi/N thực_hiện/V dự_án/N ý_nghĩa/N
+“/N Khó_khăn/A nhất/R vẫn/R là/V giai_đoạn/N tìm/V các/L thuật_toán/N phù_hợp/V để/E tối_ưu_hóa/V được/R lộ_trình/N cho/E người/N dùng/V quy_trình/N sử_dụng/V như_thế/X nào_là/V thân_thiện/A phù_hợp/A nhất/R ”/A thành_viên/N của/E nhóm/N đồ_án/N HolaBike/Np cho_biết/V
+Dự_định/V của/E nhóm/N là/V phát_triển/V cộng_đồng/N đi/V chung/V xe/N để/E vừa/R làm/V giảm/V số_lượng/N xe/N trên/E đường/N vừa/R tiết_kiệm/V chi_phí/N bảo_vệ/V môi_trường/N
+Trong/E phiên_bản/N mới/A nhất/A đang/R được/V hoàn_thiện/V người/N tham_gia/V sẽ/R phải/V xác_thực/A thông_tin/N để/E đảm_bảo/V an_toàn/A khi/N sử_dụng/V

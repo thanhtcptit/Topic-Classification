@@ -1,0 +1,6 @@
+Thẻ/N nhớ/V JetDrive/N Lite/Np dành/V cho/R người_dùng/A Macbook/Np
+Chip/N nhớ/V MLC/Np NAND/Np cho/V phép/N JetDrive/N Lite/Np đạt/V tốc_độ/N đọc/V và/N ghi/V lên/R tới/V 95MB/M s/N và/CC 60MB/N s/N mà/C không/R bị/V ảnh_hưởng/V bởi/E bất_kể/N kích_thước/N hay/C định/V dạng/N tập_tin/N
+Đặc_tính/N này/P đặc_biệt/A hữu_dụng/A cho/E các/L nhiếp_ảnh/N gia/N các/L biên_tập_viên/N video/N và/CC các/L hoạ_sĩ/N làm_việc/V với/E các/L khung/N hình/N có/V độ_phân_giải/N siêu/N cao/A
+JetDrive/N Lite/Np được/V Transcend/Np trang_bị/V sẵn/A công_nghệ/N ECC/Np mã/V sửa/V lỗi/N thông_minh/A tự_động/N sửa_chữa/V tất_cả/N những/L lỗi/N tiềm_tàng/N đe_doạ/V đến/R tài_liệu/N của/E người/N sử_dụng/V JetDrive/N Lite/Np ứng_dụng/V một/M thuật_toán/N cấp/N cao/A tinh_vi/A để/E hoạt_động/V một_cách/N ổn_định/A trong/E thời_gian/N dài/A
+Mặt_khác/C JetDrive/N Lite/Np sử_dụng/V một/M COB/Np chiponboard/N kĩ_thuật/N đặc_biệt/A đảm_bảo/V cho/E việc/N chống/V chịu/V tác/N động_từ/V bên/N ngoài/N như/C nước/N và/N bụi/N
+Với/E dung_lượng/N đáng_kể/N được/V bổ_sung/V JetDrive/N Lite/Np 128GB/Np có_thể/R chứa/V hơn/A 60000/M bức/N ảnh/N độ_phân_giải/N cao/A 32000/M bài/N hát/V MP3/Np 32/M giờ/Nu video/N FullHD/N hoặc/N gần/A như/C có/V khả_năng/N chứa/V vô_hạn/N các/L tài_liệu/N văn_bản/N

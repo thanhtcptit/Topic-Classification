@@ -1,0 +1,13 @@
+Việt_Nam/Np giành/V 2/M HCV/Np Olympic_Hóa/Np học/V Quốc_tế/N 2016/M 
+Cụ_thể/A hai/M học_sinh/N đoạt/V Huy_chương/N Vàng/Np là/V em/N Đinh_Quang_Hiếu/Np học/V lớp/N 11/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Khoa_học/N Tự_nhiên/A Đại_học/N Quốc_gia/Np Hà_Nội/Np và/CC em/N Nguyễn_Khánh_Duy/Np học/V lớp/N 12/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Lam_Sơn/Np tỉnh/N Thanh_Hóa/Np 
+Em_Nguyễn_Thành_Trung/Np học_sinh/N lớp/N 12/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Lê_Hồng_Phong/Np tỉnh/N Nam_Định/Np đoạt/V Huy_chương/N Bạc/Np 
+Olympic_Hoá/Np học/V Quốc_tế/N năm/N 2016/M lần/N thứ/N 48/M được/V tổ_chức/V ở/E Tbilisi/Np thủ_đô/N của/E Gruzia/Np có/V 75/M quốc_gia/N và/CC vùng/N lãnh_thổ/N tham_dự/V với/E tổng_số/N 280/M thí_sinh/N 
+Trong/E kỳ/N thi/V này/P đoàn/Nc Trung_Quốc/Np đoạt/V 4/M Huy_chương/N Vàng/Np 
+Các/L nước/N và/CC vùng/N lãnh_thổ/N còn/V lại/R gồm/V Nga/Np Rumani/Np Hàn_Quốc/Np Đài_Loan/Np cùng/C đoạt/V 3/M Huy_chương/N Vàng/Np 
+Việt_Nam/Np Thái_Lan/Np Sigapore/Np Ấn/V Độ/N và/CC Iran/Np cùng/C đoạt/V 2/M Huy_chương/N Vàng/Np 
+Điểm/N thi/V của/E các/L thí_sinh/N của/E Việt_Nam/Np đoạt/V Huy_chương/N đều/R xếp/V thứ_hạng/N cao/A trong/E cuộc_thi/N 
+Cụ_thể/A em/N Đinh_Quang_Hiếu/Np đạt/V 89,764/M điểm/N đứng/V thứ/N 7/280/M thí_sinh/N 
+Em_Nguyễn_Khánh_Duy/X đạt/V 86,116/M điểm/N đứng/V thứ/N 16/280/M thí_sinh/N 
+Em_Nguyễn_Thành_Trung/X đạt/V 79,212/M điểm/N đứng/V thứ/N 38/280/M thí_sinh/N 
+Riêng/T em/N Phạm_Đức_Minh/Np học_sinh/N lớp/N 11/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Hà_Nội/Np Amsterdam/Np thành_phố/N Hà_Nội/Np do/E bị/V ốm/V từ/E ngày/N thi/V thực_hành/V nên/C ảnh_hưởng/V không/R tốt/A về/E tâm_lí/N dẫn/V đến/E điểm/N thi/V chỉ/R đạt/V 43,68/M điểm/N 
+Mỹ_Hà/Np 

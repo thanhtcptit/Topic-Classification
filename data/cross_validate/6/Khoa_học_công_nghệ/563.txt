@@ -1,0 +1,20 @@
+Tuabin/Np gió/N cao/A gấp/A rưỡi/M tháp/N Eiffel/Np
+6/M viện/N lớn/A ở/E Mỹ/Np đứng/V đầu/N là/V Đại_học/N Virginia/Np đang/R hợp_tác/V phát_triển/V dự_án/N  /V tuabin/N gió/N cao/A 500/M m/Nu mang/V tên/N SUMR50/Np phá/V vỡ/V kỷ_lục/N tuabin/N gió/N lớn/A nhất/R thế_giới/N hiện_nay/N International_Business_Times/Np hôm/N 28/6/M đưa/V tin/N
+Trang_bị/V cánh_quạt/N dài/A 200/M m/Nu có_thể/R thay_đổi/V hình_dáng/N theo/E hướng/N gió/N  /A SUMR50/Np đạt/V  /N công_suất/N 50/M megawatt/N điện/N cao/A  /A hơn/R 10/M lần/N so/V với/E phần_lớn/N các/L hệ_thống/N hiện_nay/N chỉ/R sản_xuất/V 5/M 8/M megawatt/N tùy/V theo/V quy_mô/N
+Tuabin/Np gió/N càng/R lớn/A càng/R khai_thác/V được/R nhiều/A sức/N gió/N hơn/A khiến/V giá_thành/N sản_xuất/V điện/N càng/R rẻ/A hơn/R
+Độ/N cao_lớn/A cho_phép/V thu/V năng_lượng/N từ/E những/L cơn/Nc gió/N thổi/V nhanh/A hơn/R
+Ước_tính/V một/M tuabin/N gió/N lớn/A như/C SUMR50/Np có_thể/R cung_cấp/V điện/N cho/E 50/M 000/M hộ/N gia_đình/N với/E chỉ/R một/M vòng/N quay/V cánh_quạt/N
+Hiện_nay/N tuabin/N gió/N lớn/A nhất/A thế_giới/N đang/R vận_hành/V tên/N là/C MHI/Np Vestas/Np cao/A 195/M m/Nu và/CC có/V cánh_quạt/N dài/A 80/M m/Nu
+Tuabin/Np này/P được/V sử_dụng/V trong/E dự_án/N Burbo_Bank/Np của/E công_ty/N Dong_Energy/Np nằm/V ở/E  /N vịnh/N Liverpool/Np của/E  /N nước/N Anh/N
+Mỗi/L tuabin/N có/V công_suất/N 8/M megawatt/N có_thể/R cấp_điện/V cho/E một/M hộ/N gia_đình/N trong_suốt/A 29/M giờ/Nu
+SUMR50/M cũng/R hoạt_động/V được/R ngoài/E khơi/N với/E khả_năng/N thu/V những/L cơn/Nc gió/N mạnh/A từ/E đại_dương/N và/CC chống/V chịu/V giông_bão/N nhờ/V thiết_kế/V hình/N cột/N linh_hoạt/A có_thể/R uốn/V cong/A và/CC điều_chỉnh/V giống/A như/C cây_cọ/N
+Khi/N gió/N trở_nên/V quá/R mạnh/A để/E vận_hành/V bình_thường/A trên/E 80/M km/Nu //X h/V /M cánh_quạt/N tuabin/N được/V gập/V lại/R để/E tránh/V bị/V hư_hỏng/A
+Các/L nhà_nghiên_cứu/N hy_vọng/V thiết_kế/V tiên_tiến/A sẽ/R giúp/V công_trình/N trụ/N vững/A trước/E sức/N gió/N lên/R tới/V 285/M km/Nu //X h/N
+Những/L cây_cọ/N thực_sự/A cao/A nhưng/C có/V cấu_trúc/N siêu/Z nhẹ/A
+Nếu/C gió/N thổi/V mạnh/A thân/N cây/N có_thể/A uốn/V cong/A
+Chúng_tôi/P đang/R cố_gắng/V vận_dụng/V cơ_chế/N tương_tự/A để/E thiết_kế/V tuabin/N gió/N linh_hoạt/A giúp/V công_trình/N điều_chỉnh/V trước/E luồng/N gió/N Eric_Loth/Np chỉ_đạo/V dự_án/N cho_biết/V
+Xây_dựng/V công_trình/N lớn/A cỡ/N SUMR50/Np đặc_biệt/A ở/E giữa/N đại_dương/N không/R phải/V nhiệm_vụ/N dễ_dàng/A
+Để/E giải_quyết/V vấn_đề/N hậu_cần/N các/L nhà_nghiên_cứu/N nảy/V ra/R ý_tưởng/N cánh_quạt/V phân_đoạn/N cho_phép/V đội/N thi_công/V vận_chuyển/V và/CC lắp_ráp/V các/L phần/N riêng_biệt/N của/E cánh_quạt/N dài/A 200/M m/Nu
+Một/M mô_hình/N thử_nghiệm/V cỡ/N nhỏ/A của/E công_trình/N đang/R được/V chế_tạo/V để/E giúp/V đội/N thi_công/V lên/V phương_án/N xây_dựng/V
+Đây/P là/V một/M ý_tưởng/N rất/R mới/A do_đó/C không/R có/V gì/P đảm_bảo/V công_trình/N sẽ/R hoạt_động/V tốt/A
+Nhưng/C một/M công_trình/N như_vậy/X sẽ/R cách_mạng_hóa/V công_nghệ/N khai_thác/V phong/V năng/R ngoài/E khơi/N Loth/Np nói/V

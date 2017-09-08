@@ -1,0 +1,12 @@
+6/M tháng/N hơn/R 6000/M website/N của/E Việt_Nam/Np gặp/V sự_cố/N an_ninh/N mạng/N
+Trong/E đó/P có/V 1522/M website/N bị/V tấn_công/V Phishing/Np lừa_đảo/V 989/M websie/N bị/V tấn_công/V Deface/Np thay_đổi/V giao_diện/N và/CC 3792/M website/N bị/V cài/V Malware/Np mã/V độc/A
+Theo/E đánh_giá/N của/E ông/N Nguyễn_Khắc_Lịch/Np hiện_nay/N hacker/N tấn_công/V tinh_vi/A hơn/R tấn_công/V trên/E diện/N rộng/A có/V chủ_đích/N
+Mã/N độc/A được/V điều_khiển/V và/N thực_hiện/V theo/V kế_hoạch/N
+Mục_tiêu/N tấn_công/V an_toàn/N thông_tin/N cũng/R khác/A trước/E Hacker/Np không_chỉ/N đơn_thuần/N lấy/V cắp/N thông_tin/N cá_nhân/N mà_còn/N phá_huỷ/V thông_tin/N lợi_dụng/V thông_tin/N để/E phục_vụ/V mục_đích/N kinh_tế/N chính_trị/N tống_tiền/N
+Hacker/Np cũng/R không/R đơn_thuần/A theo/E cá_nhân/N mà_còn/N có/V tổ_chức/N thậm_chí/N có/V tài_trợ/V
+Đặc_biệt/A vấn_đề/N chiến_tranh/N mạng/N đã/R xuất_hiện/V
+Nếu/C lãnh_đạo/N cũng/R như/A chủ_quản/N của/E các/L hệ_thống/N công_nghệ_thông_tin/N tiếp_tục/V không/R coi_trọng/V tăng_cường/N nhận_thức/V cũng/R như/C đầu_tư/V cho/E an_toàn/N thông_tin/N thì/C Việt_Nam/Np vẫn/R sẽ/R tiếp_tục/V nằm/V trong/E top/N đầu/N thế_giới/N về/V mức_độ/N lây_nhiễm/V mã/N độc/A cũng/R như/C bị/V tấn_công/V nằm_vùng/N APT/Np ông/N Hà_Thế_Phương/Np Phó_tổng/V giám_đốc/N CMC/Np Infosec/Np nhận_định/V
+Theo/E ông/N Hà_Thế_Phương/Np an_toàn/V thông_tin/N đối_với/E mọi/L cá_nhân/N hay/C tổ_chức/V đều/N bắt_nguồn/V từ/N nhận_thức/V
+Tình_hình/N 6/M tháng/N đầu/N năm/N 2017/M tại/N Việt_Nam/Np không/R khả_quan/N mặc_dù/N có/V nhiều/A sự_vụ/N lớn/A về/E an_toàn/N thông_tin/N xảy/V ra/R các/L phương_tiện/N truyền_thông/N đều/R liên_tục/V cảnh_báo/V các/L cơ_quan_chức_năng/N liên_tục/A có/V công_văn/N nhắc_nhở/V
+Theo/E khảo_sát/N của/E CMC/Np các/L đơn_vị/N sở_hữu/V hệ_thống/N công_nghệ_thông_tin/N đa_số/N đều/R thực_hiện/V theo/E hình_thức/N đối_phó/V chứ/C không/R nhận_thức/V đúng/A về/V mức_độ/N nghiêm_trọng/N của/E hiện_trạng/N an_ninh/N an_toàn/N thông_tin/N tại/E đơn_vị/N mình/N
+Lỗ_hổng/N biết/V mà/C không/R vá/V đã/R nhiều/A nhưng/N sai_sót/N trong/N nhận_thức/N và/CC hiểu_biết/V về/V cách_thức/N sử_dụng/V Internet/Np lưu_trữ/V dữ_liệu/N hệ_thống/N an_toàn/N còn/V chiếm/V phần_nhiều/A hơn/R ông/Nc Phương/Np nhìn_nhận/V

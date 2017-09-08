@@ -1,0 +1,13 @@
+Tạo/V kim_cương/N ở/E nhiệt_độ/N phòng/N
+Phần_lớn/N kim_cương/N tự_nhiên/A hoặc/CC nhân_tạo/A hình_thành/V trong/E những/L điều_kiện/N đặc_biệt/A về/E nhiệt_độ/N và/CC áp_suất/N
+Tuy_nhiên/C các/L nhà_nghiên_cứu/N ở/E Đại_học/N North_Carolina/Np NCSU/Np Mỹ/Np phát_hiện/V một/M hình_thái/N cacbon/N giống/A như/C kim_cương/N có_thể/A ra_đời/V ở/E nhiệt_độ/N phòng/N UPI/Np hôm_qua/N đưa/V tin/N
+Chúng_tôi/P đã/R tạo/V ra/R dạng/N cứng/A thứ_ba/N của/E cacbon/N
+Nơi/N duy_nhất/A hình_thái/N này/P có_thể/R được/V tìm/V thấy/V trong/E tự_nhiên/N là/V ở/E lõi/N của/E một_số/L hành_tinh/N Jay_Narayan/Np nhà_khoa_học/N vật_liệu/N thuộc/V NCSU/Np cho_biết/V
+Nhóm/N nghiên_cứu/V gọi/V dạng/N cứng/A này/P là/V Q/Np cacbon/V
+Để/E tạo/V ra/R loại/N cacbon/N này/P các/L nhà_khoa_học/N phủ/V ngoài/E đá/N sapphire/N thủy_tinh/N hoặc/CC nhựa/N một/M lớp/N cacbon/N vô_định/V hình/N trong/E như/A pha_lê/N
+Sản_phẩm/N sau/N đó/P được/V bắn/V tia/Nc laser/N
+Thời_gian/N bắn/V chỉ/R kéo_dài/V 200/M nanosecond/N đủ/A để/E nhiệt_độ/N cacbon/N tăng/V trên/E 3/M 700/M độ/N C/N trước/E khi/N nguội/A đi/V nhanh_chóng/A trong/E khi/N nhiệt_độ/N và/CC áp_suất/V không_khí/N xung_quanh/N vẫn/R giữ/V nguyên/A
+Thành_quả/N cuối_cùng/A là/V một/M vật_liệu/N trong/E như/C pha_lê/N cứng/A hơn/R kim_cương/N thực_sự/A và/CC mang/V nhiều/A đặc_tính/N mới/R đa_dạng/V gần_như/R chưa/R được/V nghiên_cứu/V sâu/A
+Độ/N cứng/A của/E Q/Np cacbon/V và/CC tính/V sẵn_sàng/A giải_phóng/V electron/N khiến/V nó/P trở_thành/V vật_liệu/N tiềm_năng/N để/E phát_triển/V các/L công_nghệ/N chiếu/V điện_tử/N mới/R Narayan/Np giải_thích/V
+Theo/E nhóm/N nghiên_cứu/V Q/Np cacbon/N còn/R có/V tính/N ứng/V dựng/V cao/A ở/E lĩnh_vực/N phân_phối/V thuốc/N các/L quy_trình/N công_nghiệp/N sản_xuất/V cầu_dao/N và/CC thiết_bị/N điện/N đòi_hỏi/V khả_năng/N chịu_nhiệt/V tốt/A
+Quá_trình/N sản_xuất/V Q/Np cacbon/N có/V chi_phí/N tương_đối/A thấp/A nhưng/C các/L nhà_nghiên_cứu/N cho_biết/V họ/P cần/V kiểm_tra/V vật_liệu/N kỹ/A hơn/R trước/E khi/N dùng/V nó/P để/E thay_thế/V kim_cương/N

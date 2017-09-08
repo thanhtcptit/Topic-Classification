@@ -1,0 +1,2 @@
+Bệnh_viện/N Từ_Dũ/Np tiếp_nhận/V 13/M trường_hợp/N thai_phụ/N nhiễm/V vi_rút/N Zika/Np 
+Bệnh_viện/N Từ_Dũ/Np tiếp_nhận/V 13/M trường_hợp/N Thai_phụ/N đừng/R quá/R lo_lắng/V với/E dịch/N Zika_Vân_Sơn/Np Phạm_Nguyễn/Np 

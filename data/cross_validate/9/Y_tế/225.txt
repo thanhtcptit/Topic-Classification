@@ -1,0 +1,46 @@
+Đái_tháo/N đường/N từ/E tuổi/N lên/V
+10/M
+Các/L bác_sĩ/N cho/V biết/V có/V nhiều/A trẻ/N mới/A 1013/M tuổi/N đã/R mắc/V bệnh/N đái_tháo_đường/N ĐTĐ/N type/N 2/M loại/N bệnh/N có/V khuynh_hướng/N xuất_hiện/V ở/E người/N trẻ/A tuổi/N hơn/A do/E số/N trẻ_em/N bị/V thừa/V cân/N béo/N phì/N ngày_một/N gia_tăng/V
+Mới/R 10/M tuổi/N nhưng/C cháu/N gái/N TNPT/Np
+ngụ/N huyện/N Hóc_Môn/Np TPHCM/Np đã/R nặng/A tới/V 42kg/M
+Bà/N NTL/Np 42/M tuổi/N mẹ/N cháu/N T/Np kể/V điều_kiện/N kinh_tế/N gia_đình/N bà/N khó_khăn/A
+Lúc/N mang/V thai/N bà/N không/R bồi_bổ/V gì/N nhiều/A nhưng/C khi/N sinh/V ra/R cháu/N T/Np
+vẫn/R nặng/A 38kg/M
+Học/V lớp/N 4/M đã/R mắc/V bệnh/N
+Gần/A đây/P cháu/N T/Np
+bỗng/R bị/V sút_cân/V hay/V tỉnh_giấc/V vào/E ban_đêm/N chân/N cháu/N lạnh/A bàn_tay/N đổ/V nhiều/A mồ_hôi/N da/N cháu/N bị/V hăm/V nhưng/C bôi/N thuốc/N mãi/R không/R khỏi/V
+Bà/N T/Np
+nghi_ngờ/V con/N mắc/V bệnh/N ĐTĐ/Np nên/V đưa/V con/N đến/V Bệnh_viện/N Q1/Np 2/M khám/N và/CC đúng/A như/C bà/N nghi_ngờ/V bác_sĩ/N chẩn_đoán/N bé/N mắc/V bệnh/N ĐTĐ/Np
+Sau/E đó/P bệnh_viện/N này/P khuyên/V bà/N đưa/V con/N đến/V Bệnh_viện/N Nhi_Đồng/Np 1/M để/E được/V điều_trị/V
+Sau/E đó/P cháu/N T/Np
+được/V xác_định/V mắc/N ĐTĐ/N type/N 2/M và/N hiện/N đang/R được/V theo_dõi/V điều_trị/N định_kì/V tại/E Bệnh_viện/N Nhi_Đồng/Np 1/M
+Theo/E bà/N L/Np trong/E gia_đình/N bà/N nội/N cháu/N T/Np
+cũng/R mắc/V bệnh/N ĐTĐ/Np type/V 2/M
+Hiện/N cháu/N vẫn/R chưa/R thể/R kiểm_soát/V được/R mức/N đường_huyết/A lúc/N xuống/V quá/V lúc/N lại/R lên/V cao/A quá/R
+Khi/N cháu/N ở/V nhà/N gia_đình/N luôn/R hướng_dẫn/V cho/E cháu/N ăn_kiêng/N nhưng/C cả/P ngày/N cháu/N đi/V học/V ở/E trường/N ăn/V trưa/N tại/E trường/N nên/N khó/A kiêng_cữ/V được/R
+Cháu/N còn/R nhỏ/A nên/C vẫn/R theo/V các/L bạn/N ăn/V kẹo/N bánh/N
+Bác/N sĩ/N yêu_cầu/V gia_đình/N mỗi/M ngày/N cho/V cháu/N ăn/V 6/M bữa/N nhưng/C cháu/N đi/V học/V suốt/A điều_kiện/N gia_đình/N khó_khăn/A nên/C không/R theo/V được/V chế_độ/N ăn_uống/V này/N
+TSBS/Np Huỳnh_Thoại_Loan/Np trưởng/N khoa/N thận/N nội_tiết/N Bệnh_viện/N Nhi_Đồng/Np 1/M cho/V biết/V tại/E Bệnh_viện/N Nhi_Đồng/Np 1/M hiện/N có/V hơn/A 100/M trẻ/N mắc/V bệnh/N ĐTĐ/Np theo_dõi/V điều_trị/N định_kì/N trong/N đó/P số/N trẻ/N mắc/V bệnh/N ĐTĐ/Np type/V 2/M chiếm/N khoảng/A 10/M
+Thường/R bệnh/N ĐTĐ/Np type/N 2/M liên_quan/V đến/R di_truyền/V và/N dư/N cân/V
+Thực_tế/N cho/V thấy/V 80/M trẻ/N mắc/V bệnh/N ĐTĐ/Np type/V 2/M đang/N điều_trị/V tại/E Bệnh_viện/N Nhi_Đồng/Np 1/M bị/V dư/V cân/N và/CC có/V người/N trong/E gia_đình/N mắc/V bệnh/N ĐTĐ/Np type/V 2/M
+Tránh/N để/V trẻ/N bị/V dư/V cân/V
+Theo/E BS/Np CKI/Np Trần_Minh_Triết/Np khoa_nội/V tổng_hợp/V Bệnh_viện/N Đại_học/N Y/Np dược/V TPHCM/Np ĐTĐ/Np thường/R gặp/V ở/E những/L người/N trên/E 45/M tuổi/N yếu_tố/N nguy_cơ/N của/N ĐTĐ/N
+Tuy_nhiên/C gần/A đây/P nhiều/A ca/N ĐTĐ/M trẻ/N tuổi/N được/V phát_hiện/V nhiều/A hơn/R với/E những/L lí_do/N như/C tỉ_lệ/N thừa/N cân/V béo/N phì/N ngày_càng/N gia_tăng/V do/E thay_đổi/N lối/N sống/V ít/A vận_động/V ăn/V nhiều/A dầu_mỡ/N đồ/N ngọt/N thức_ăn/N nhanh/A
+tiêu_chuẩn/N chẩn_đoán/N ĐTĐ/N ngày_càng/N nới/V rộng/A hơn/R nhằm/N phát_hiện/V sớm/A các/L đối_tượng/N có/V yếu_tố/N nguy_cơ/N
+Ngoài_ra/C khoa_học/N ngày_càng/N phát_triển/V xét_nghiệm/V máu/N ngày_càng/N đơn_giản/A hơn/R để/E chẩn_đoán/V bệnh/N
+Những/L người_bệnh/N ĐTĐ/N type/N 2/M ở/E độ/N tuổi/N từ/E 2535/M cũng/R bắt_đầu/V tăng/V dần/R
+Đối_với/N người_bệnh/N trẻ/A bị/V ĐTĐ/N type/N 2/M vấn_đề/N kiểm_soát/V đường_huyết/N rất/R khó_khăn/A vì/E trẻ/N đang/R độ/V tuổi/N đi/V học/V dậy_thì/N nhu_cầu/N phát_triển/V cơ_thể/N cao/A nhận_thức/N chưa/R đủ/A chín_chắn/A chưa/R hiểu/V rõ/A về/E tầm/N quan_trọng/A của/E bệnh/N khó/A tuân_thủ/V một/M chế_độ/N dinh_dưỡng/N tập_luyện/N thể_lực/N hợp_lí/N
+Vai_trò/N của/E cha_mẹ/N đối_với/E những/L người_bệnh/N trẻ/A tuổi/N bị/V ĐTĐ/N rất/R quan_trọng/A phải/V luôn/R quan_tâm/V chăm_sóc/V về/V chế_độ/N dinh_dưỡng/N tập_luyện/N thể_lực/A theo_dõi/V đường_huyết/N và/CC tâm_lí/V cho/V người_bệnh/N
+Một/M điều/N khó_khăn/A nữa_là/N việc/N áp_dụng/V các/L nhóm/N thuốc/N điều_trị/V ĐTĐ/N ở/E trẻ_em/N còn/V rất/R hạn_chế/A không/R như/A người/N trưởng_thành/V hiện_tại/N có/V rất/R nhiều/A loại/N thuốc/N
+Theo/E BS/Np Minh_Triết/Np hiện_nay/N có/V bốn/M loại/N ĐTĐ/M đó/P là/V ĐTĐ/N type/N 1/M ĐTĐ/N type/N 2/M ĐTĐ/N thai/N kì/N và/CC ĐTĐ/N do/E nguyên_nhân/N khác/A trong/E đó/P ĐTĐ/M type/N 2/M chiếm/N đại_đa_số/N các/L trường_hợp/N hơn/R 90/M
+Nguy_cơ/N ĐTĐ/N type/N 2/M sẽ/N càng/R cao/A nếu/C trong/E gia_đình/N có/V nhiều/A người_thân/N bị/V ĐTĐ/N
+Bên_cạnh/N đó/P sự/N thay_đổi/V của/E môi_trường/N sống/V xã_hội/N ngày_càng/N phát_triển/V làm/V gia_tăng/N tỉ_lệ/N thừa/N cân/V béo/N phì/N do/E lối/N sống/V ít/A vận_động/N sử_dụng/V nhiều/A thức_ăn/N nhanh/A bánh/N ngọt/A nước_ngọt/N
+từ/E đó/P làm/V tỉ_lệ/N người_bệnh/N ĐTĐ/N type/N 2/M ngày_càng/N gia_tăng/V
+ĐTĐ/N thường/A diễn_tiến/V âm_thầm/A và/N dẫn/V đến/E các/L biến_chứng/N mãn_tính/N trong/E nhiều/A năm/N sau/A đó/P
+Tuy_nhiên/C ĐTĐ/N và/CC các/L biến_chứng/N hoàn_toàn/A có_thể/A phòng_ngừa/V được/V nếu/C có/V một/M chế_độ/N dinh_dưỡng/N tập_luyện/N thể_lực/N hợp_lí/N cũng/R như/A tuân/V theo/E sự/N hướng_dẫn/V điều_trị/N của/E các/L bác_sĩ/N
+Để/E phòng_ngừa/V và/CC phát_hiện/V sớm/N ĐTĐ/Np cần/V có/V một/M chế_độ/N dinh_dưỡng/N và/CC tập_luyện/V hợp_lí/N
+Giữ/V cho/E trẻ/N phát_triển/V bình_thường/A đủ/V dinh_dưỡng/N nhưng/C không/R nên/V quá/R thừa/A cân/V béo/N phì/V tập_luyện/N thể_thao/N điều_độ/N
+Và/C nếu/C phát_hiện/V có/V yếu_tố/N nguy_cơ/N thì/N nên/V được/R tầm/N soát/N sớm/A
+ĐTĐ/N là/V một/M bệnh/N mãn_tính/N không/R lây/V đang/R ngày_một/N gia_tăng/V trên/E toàn/N thế_giới/N
+Theo/E số_liệu/N ước_tính/N của/E Liên_đoàn/N ĐTĐ/N thế_giới/N IDF/Np tính/V đến/E năm/N 2015/M trên/N toàn/N thế_giới/N có/V khoảng/N 415/M triệu/N người/N mắc/V bệnh/N ĐTĐ/Np con_số/N này/P dự_kiến/V sẽ/R tăng/V lên/R mốc/N 642/M triệu/N người/N đến/V năm/N 2040/M
+Hiện_nay/N cứ/R 11/M người/N trưởng_thành/V sẽ/R có/V 1/M người/N bị/V ĐTĐ/N và/CC cứ/R mỗi/L 6/M giây/N trên/E thế_giới/N sẽ/R có/V 1/M người/N tử_vong/V do/N bệnh/N ĐTĐ/Np

@@ -1,0 +1,14 @@
+Ngày/N 21/6/M Hà_Nội/Np công_bố/V điểm/N thi/V vào/E lớp/N 10/M
+Theo/E kế_hoạch/N ngày/N 21/6/M  /N Sở/N Giáo/N dục/N và/CC Đào_tạo/N sẽ/R công_bố/V điểm/N thi/V vào/E lớp/N 10/M của/E thí_sinh/N
+Nếu/C thắc_mắc/V điểm/N thí_sinh/N làm/V đơn/N phúc_khảo/V nộp/V về/E Phòng/N giáo_dục/N hạn/N chót/N là/V ngày/N 28/6/M  /M Kết_quả/N phúc_khảo/N sẽ/R được/V thông_báo/V tới/E thí_sinh/N vào/E ngày/N 11/7/M
+Điểm_chuẩn/V vào/E lớp/N 10/M chuyên/A sẽ/R được/V Sở/N Giáo/Np dục/V công_bố/V vào/E ngày/N 26/6/M
+Một/M ngày_sau/N Sở/N sẽ/R công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M THPT/Np công_lập/V  /EOS
+Cách/V tính/V điểm/N vào/E lớp/N 10/M năm/N nay/P vẫn/R theo/V công_thức/N Trong/E đó/P điểm/N THCS/Np là/V tổng_số/N điểm/N tính/V theo/E kết_quả/N học_tập/V và/CC rèn_luyện/V của/E 4/M năm_học/N cấp/N THCS/Np nếu/C lưu_ban/V lớp/N nào/P thì/C lấy/V kết_quả/N năm_học/N lại/R của/E lớp/N đó/P
+Điểm/N tính/V theo/E kết_quả/N rèn_luyện/V và/CC học_tập/V mỗi/L năm_học/N ở/E cấp/N THCS/Np được/V tính/V như/C sau/N Hạnh_kiểm/N tốt/A và/CC học_lực/N giỏi/A là/V 5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N giỏi/A hoặc/CC hạnh/V điểm/N tốt/A và/CC học_lực/N khá/R là/V 4,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N khá/R là/V 4/M điểm/N Hạnh_kiểm/N trung_bình/A và/CC học_lực/N giỏi/A hoặc/CC hạnh_kiểm/N tốt/A và/CC học_lực/N trung_bình/A là/V 3,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N trung_bình/A hoặc/CC hạnh_kiểm/A trung_bình/A và/CC lực/N học/V khá/R là/V 3/M điểm/N
+Trường_hợp/N còn/V lại/R là/V 2,5/M điểm/N  /EOS
+Điểm/N thi/V là/V tổng/N điểm/N hai/M bài/N thi/V Ngữ_văn/N và/CC Toán/Np /A đã/R nhân/V hệ_số/N 2/M /Nu chấm/V theo/E thang/N 10/M điểm/N lẻ/A đến/V 0,25/M
+Chỉ/R học_sinh/N không/R vi_phạm/V quy_chế/N trong/E kỳ/N tuyển_sinh/V và/CC không/R có/V bài/N thi/N nào/P bị/V điểm/N 0/M mới/R được/V đưa/V vào/E diện/N xét/V tuyển/V  /EOS
+Điểm/N  /V cộng/V thêm/R là/V tổng/N của/E điểm/N ưu_tiên/V và/CC khuyến_khích/V tối_đa/A là/V 6/M
+/N Chi_tiết/A các/L trường_hợp/N được/V cộng/V điểm/N /V
+Trước/E đó/P ngày/N 9/6/M hơn/R 76 0/M sĩ_tử/N Hà_Nội/Np bước/V vào/E kỳ/N tuyển_sinh/V lớp/N 10/M THPT/Np với/E hai/M môn/N Toán/Np Ngữ_văn/N
+Ngày/N 10-11/M //X 6/M gần/A 7 0/M thí_sinh/N thi/V vào/E trường/N chuyên/A tiếp_tục/V làm/V bài/N môn/N tiếng/N Anh/N điều_kiện/N và/CC môn/N chuyên/A

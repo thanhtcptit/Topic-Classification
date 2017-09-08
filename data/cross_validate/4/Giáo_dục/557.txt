@@ -1,0 +1,11 @@
+Hầu_hết/L trường/N đã/R công_bố/V điểm_chuẩn/A
+Điểm_chuẩn/N là/V tổng/N điểm/N 3/M môn/N xét/V tuyển/V theo/V từng/R tổ_hợp/N trong/E đó/P có_thể/R có/V môn/N nhân/N hệ_số/N 2/M có/V hoặc/CC chưa/R có/V điểm/N cộng/V ưu_tiên/V tùy/V vào/E cách/N tính/V điểm/N của/E từng/P trường/N
+Một_số/L trường/N trong/E nhóm/N GX/Np tính/V điểm_chuẩn/A theo/E trung_bình_cộng/N của/E 3/M môn/N xét/V tuyển/V
+Thí_sinh/N phải/V đạt/V mức/N điểm/N này/P mới/R được/V nhập_học/V
+VnExpress/Np cập_nhật/V danh_sách/N các/L trường/N đã/R công_bố/V điểm_chuẩn/A >/M Xem_Danh/Np sách/N các/L trường/N đã/R công_bố/V điểm_chuẩn/A
+Đến/E hết/V ngày/N 13/8/M hơn/R 60/M trường/N đại_học/N đã/R công_bố/V điểm/N trúng_tuyển/V và/CC thông_báo/V thời_gian/N nhập_học/V cho/E thí_sinh/N
+Trong/E đó/P có/V các/L tên_tuổi/N như/C Đại_học/N Y_Hà_Nội/Np Đại_học/N Ngoại_thương/N Bách_khoa/N
+Nhóm/N 12/M trường/N GX/Np mở/V trang/N tra_cứu/V kết_quả/N trúng_tuyển/V vào/E các/L trường/N trong/E nhóm/N để/E thí_sinh/V tiện/A theo_dõi/V kết_quả/N
+Sau/E khi/N biết/V điểm/N trúng_tuyển/V thí_sinh/N bắt_đầu/V gửi/V Giấy/N chứng_nhận/V kết_quả/N thi/V cho/E trường/N trong/E thời_gian/N từ/E ngày/N 15/8/M đến/E 19/8/M để/E chắc_chắn/A là/V mình/P theo/V học/V
+Thí_sinh/N không/R nộp/V giấy/N đồng_nghĩa/V với/E việc/N từ_chối/V nhập_học/V
+Các/L đợt/N xét/V tuyển/V bổ_sung/V sẽ/R diễn/V ra/R sau/E thời_gian/N trên/E

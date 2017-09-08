@@ -1,0 +1,21 @@
+Hàng/R trăm/M công_nhân/N SAMHO/Np bị/V ngộ_độc/V tiếp_tục/V nhập_viện/V
+Trưa/N 37/M hàng/R trăm/M công_nhân/N Công_ty/N TNHH/Np An_Giang/Np SAMHO/Np tiếp_tục/V nhập_viện/V cấp_cứu/V ở/V Bệnh_viện/N Đa_khoa/N huyện/N Châu_Thành/Np với/E nhiều/A biểu_hiện/N tái/A ngộ_độc/V
+Ghi/N nhận/V tại/E Bệnh_viện/N Đa_khoa/N huyện/N Châu_Thành/Np lúc/N 12h/M hàng/R trăm/M công_nhân/N Công_ty/N TNHH/Np An_Giang/Np SAMHO/Np khu_công_nghiệp/N Bình_Hoà/Np huyện/N Châu_Thành/Np An_Giang/Np phải/V nhập_viện/V khẩn_cấp/V với/E nhiều/A triệu_chứng/N nôn/N ói/N đau_đầu/V chóng_mặt/N
+Do/E số_lượng/N quá/R đông/A nên/C nhiều/A công_nhân/N nằm/V la_liệt/N phía/N bên/N ngoài/N
+Bên/N trong/N các/L phòng_bệnh/N đều/R chật/A kín/A
+Mỗi/L giường/N đều/R có/V 2/M 3/M công_nhân/N đang/R được/V truyền/V nước/N biển/N và/CC cấp_cứu/V
+Chị/N Nguyễn_Thị_Kim_Em/Np công_nhân/N công_ty/N cho/V biết/V đã/R bị/V ngộ_độc/V thức_ăn/N ngày/N 17/M và/N được/V bệnh_viện/N cho/V về/V cuối/N ngày/N hôm/N đó/P
+Có/V người/N đến/V cuối/N ngày/N 27/M mới/R được/V về/V nhà/N nhưng/C đến/V sáng/N nay/N trở_lại/V làm_việc/N đã/R có/V nhiều/A biểu_hiện/N bất_thường/A
+Ban/N đầu/N tụi/N em/N nói/V mệt/N xin/V về/V nhưng/C công_ty/N không/N cho/V
+Đến/E khi/N thấy/V mấy/L bạn/N khác/A ngất_xỉu/V họ/P mới/R đưa/V đi/V bệnh/N viện/N chị/N Kim_Em/Np nói/V
+Theo/E Bác/N sĩ/N Nguyễn_Thị_Oanh/Np giám_đốc/V Bệnh_viện/N Đa_khoa/N huyện/N Châu_Thành/Np từ/E lúc/N 8h/M sáng/N 37/M đã/R có/V công_nhân/N tái/N ngộ_độc/V nhập_viện/N
+Cao_điểm/N từ/E 10h/M đến/E gần/A 13h/M số_lượng/N công_nhân/N nhập_viện/V ngày_càng/N tăng/V
+Đến/E thời_điểm/N này/P vẫn/R chưa/R thông/V kê/N được/R số/N công_nhân/N nhập_viện/N
+Đa_số/N có/V chung/A dấu_hiệu/N ngộ_độc/N là/V nôn/N ói/V chóng_mặt/V bác_sĩ/N Oanh/Np nói/V
+Trao_đổi/V với/E Tuổi_Trẻ/Np chiều/N cùng/A ngày/N ông/N Nguyễn_Thiện_Phú/Np chủ_tịch/N Liên_đoàn/N Lao/Np động/N tỉnh/N An_Giang/Np cho/V biết/V sẽ/R cho/V kiểm_tra/V lại/R thông_tin/V công_nhân/N tái/N ngộ_độc/V
+Nếu/C đúng/A sẽ/R làm_việc/V lại/V với/E công_ty/N SAMHO/Np
+Theo/E lí/N nếu/C công_nhân/N bị/V ngộ_độc/V phía/N công_ty/N phải/V cho/V họ/N nghỉ_ngơi/V để/E lấy/V lại/R sức_khoẻ/N làm_việc/V chứ/C không/R đi/V làm/V ngay/R ông/N nói/V
+Theo/E ông/N Từ_Quốc_Tuấn/Np giám_đốc/N Sở/N Y/Np tế/N An_Giang/Np đa_số/N công_nhân/N tái/N ngộ_độc/V đã/R nhập_viện/V và/N được/V cho/V về/V nhà/N trước/N đó/P
+Nhưng/C do/C người/N còn/R yếu/A nên/C giờ/N có/V biểu_hiện/N suy_nhược/V cơ_thể/N
+Bởi/C sau/N vụ/N ngộ_độc/V đến/E giờ/N công_ty/N ngưng/N cung_cấp/V thức_ăn/N và/CC công_nhân/N tự/N ăn/V riêng/A
+Trong/E một/M diễn_biến/N khác/A Sở/N Y/Np tế/V An_Giang/Np cho/V biết/V đã/R đình_chỉ/V hoạt_động/N đối_với/N cơ_sở/N cung_cấp/V thức_ăn/N cho/E công_ty/N SAMHO/Np gây/V ra/R vụ/N ngộ_độc/V 600/M công_nhân/N xảy/V ra/R vào/V trưa/N 17/M để/N chờ/V kết_quả/N điều_tra/V

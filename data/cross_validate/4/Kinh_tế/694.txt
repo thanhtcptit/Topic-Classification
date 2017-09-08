@@ -1,0 +1,13 @@
+Hai/M nhà_đầu_tư/N kiếm/V 5,7/M tỷ/N đồng/N trong/E vòng/N 13/M ngày/N
+Công_ty/N TIE/Np /V Mã/Np CK/Np TIE/Np /M vừa/R công_bố/V bà/N Phạm_Thị_Kim_Trâm/Np và/CC Huỳnh_Thị_Minh_Thư/Np không/R còn/R là/V cổ_đông/N lớn/A của/E công_ty/N
+Trước/E đó/P ngày/N 21/3/M mỗi/M người/N đã/R mua/V vào/E gần/A 1,44/M triệu/N cổ_phần/N /M 15%/M vốn_điều_lệ/N /A đến/E ngày/N 4/4/M cả/P hai/M nhà_đầu_tư/N đã/R bán/V ra/R toàn_bộ/L số/N cổ_phiếu/N
+Với/E thị_giá/N bán/V ra/R ngày/N 4/4/M khoảng/N 14 0/M đồng/Nu trong/E khi/N mua/V vào/R chỉ/R 12 0/M đồng/Nu hai/M nhà_đầu_tư/N đã/R bỏ_túi/V gần/A 5,7/M tỷ/Nu đồng/N chỉ/R sau/A 13/M ngày/N nắm/V giữ/V
+Gần/A đây/P giá/N cổ_phiếu/N TIE/Np tăng/V khá/R mạnh/A
+Tính/V chung/A từ/E đầu/N năm/N 2016/M đến/E nay/P cổ_phiếu/N này/P đã/R tăng/V khoảng/A 7 0/M đồng/Nu
+Đóng_cửa/V phiên/N ngày/N 8/4/M TIE/Np có_giá/A 17 0/M đồng/Nu
+Năm/N 2014/M công_ty/N có/V doanh_thu/N gần/A 300/M tỷ/Nu lợi_nhuận/N sau/E thuế/N 14/M tỷ/N đồng/N
+Mới_đây/X ông/Nc Trần_Thế_Vinh/Np sinh/V năm/N 1958/M tại/E Quảng_Nam/Np đã/R được/V bổ_nhiệm/V là/V Chủ_tịch/N HĐQT/Np công_ty/N
+Công_ty_cổ_phần/N TIE/Np khởi_nguồn/V từ/E Công_ty/N sản_xuất/V kinh_doanh/V Xuất_nhập_khẩu/N Điện/Np Điện_tử/N quận/N 10/M /Nu TP_HCM/Np /V được/R thành_lập/V năm/N 1990/M
+Hiện_nay/N TIE/Np đã/R gia_công/V và/CC là/V nhà/N phân_phối/V chính_thức/A của/E các/L sản_phẩm/N điện_tử/N công_nghệ_thông_tin/N cho/E một_số/L hãng/N công_nghệ/N hàng_đầu/N thế_giới/N  /EOS
+Công_ty/N đã/R từng/R ký/V hợp_đồng/N liên_doanh/V với/E Tập_đoàn/N Samsung_Electronics/Np để/E thành_lập/V Công_ty/N Điện_tử/N Samsung_Vina/Np
+Đến/E năm/N 2013/M công_ty/N đã/R chuyển_nhượng/V toàn_bộ/L 20%/M vốn/N cho/V Samsung_Electronics/Np

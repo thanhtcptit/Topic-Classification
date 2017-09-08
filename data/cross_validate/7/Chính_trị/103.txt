@@ -1,0 +1,23 @@
+Hai/M xe/N 16/M chỗ/N đấu/V đầu/N 2/M người/N chết/V 13/M người/N bị_thương/V
+Khoảng/N 12h/M trưa/N 306/M hai/M xe_khách/N 16/M chỗ/N đấu/V đầu/N nhau/N trên/E quốc_lộ/N 14/M đường/N Hồ_Chí_Minh/Np đoạn/Nc qua/N xã/N Đắk_Hring/Np huyện/N Đắk_Hà/Np Kon_Tum/Np
+Vụ/N tai_nạn/N làm/V 2/M người/N chết/V 13/M người/N bị_thương/V
+Trao_đổi/V với/E Tuổi_Trẻ_Online/Np lúc/N 15h/M chiều/N 306/M đại_tá/N Lê_Đình_Toàn/Np trưởng_phòng/N CSGT/Np Công_an/N tỉnh/N Kon_Tum/Np cho/V biết/V đã/R có/V một/M nạn_nhân/N tử_vong/V và/CC 13/M người/N được/V đưa/V đi/V cấp_cứu/V trong/E vụ/N tai_nạn/N trưa/N cùng/A ngày/N
+Hiện/N công/N an/N đang/R đo_đạc/V hiện_trường/N để/E điều_tra/V vụ_việc/N
+Cảnh_sát/N giao_thông/N cũng/R có_mặt/V để/E bảo_vệ/V hiện_trường/N điều_tiết/N giao_thông/N đưa/V những/L người/N bị/V nạn/N đi/V cấp_cứu/V
+Theo/V thông_tin/N ban_đầu/N lúc/N 12h/M trưa/N cùng/A ngày/N xe_khách/N 16/M chỗ/N chạy/V từ/E hướng/N thị_trấn/N Đắk_Tô/Np về/V TP/Np Kon_Tum/Np bất_ngờ/V tông/V trực_diện/N vào/V xe_khách/N cũng/R 16/M chỗ/N chạy/V hướng/N ngược_lại/N
+Cú/N tông/V cực/N mạnh/A làm/V một/M người/N tử_nạn/V tại_chỗ/A nhiều/A người/N bị_thương/V nặng/A la_hét/N cầu/N cứu/V
+Cả/P hai/M xe/N biến_dạng/V nặng/A
+Một/M cán_bộ/N có_mặt/V tại/N hiện_trường/N cho/V biết/V thêm/V nhiều/A nạn_nhân/N được/V đưa/V xuống/R Bệnh_viện/N Đa_khoa/N Kon_Tum/Np cấp_cứu/V trong/E tình_trạng/N nguy_kịch/N
+Chiều/N cùng/A ngày/N ông/N Nguyên_Xuân_Hướng/Np chánh_văn_phòng/N Ban/Np ATGT/Np tỉnh/N Kon_Tum/Np cho/V biết/V vừa/R có/V thêm/V 1/M nạn_nhân/N nam/N chưa/R rõ/A danh_tính/N trong/E vụ/N tai_nạn/N trưa/N nay/N tử_vong/N tại/V bệnh_viện/N
+Như/C vậy/P đến/E nay/P đã/R có/V 2/M người/N tử_vong/N
+Bệnh_viện/N đa_khoa/N tỉnh/N Kon_Tum/Np cho/V biết/V khoảng/N 14h45/M đơn_vị/N nhận/V tất_cả/N 12/M ca/N bệnh/N trong/N đó/N có/V em/N bé/N bị_thương/V nhẹ/N 1/M ca/N đang/R trong/E tình_trạng/N nguy_kịch/A còn/V lại/V hầu_hết/N là/V bị/V thương/V nặng/A và/N rất/R nặng/A ở/E vùng/N đầu/N chấn_thương/V sọ/N não/N gãy/V tay/N gãy/V cả/P hai/M chân/N chấn_thương/A vùng/N mặt/N bụng/N lưng/N
+Nhiều/A nạn_nhân/N nhập_viện/V trong/E tình_trạng/N hôn_mê/V và/N hoảng_loạn/N
+Ban/N ATGT/Np tỉnh/N Kon_Tum/Np đã/R có_mặt/V chỉ_đạo/V khắc_phục/V sau/N TNGT/Np
+Đoàn/Np công_tác/N cũng/R đi/V thăm_hỏi/V động_viên/V hỗ_trợ/V cho/E gia_đình/N nạn_nhân/N người/N chết/V 2/M triệu/M đồng/Nu và/N người/N bị_thương/V 1/M triệu/M đồng/Nu
+Huyện/N Đăk_Hà/Np cũng/R đã/R hỗ_trợ/V gia_đình/N người/N chết/V 54/M triệu/N đồng/N và/CC hỗ_trợ/V mỗi/M người/N bị_thương/V 1/M triệu/M đồng/Nu
+Sau/E khi/N vụ/N tai_nạn/N xảy/V ra/R ông/N Nguyễn_Đức_Tuy/Np Phó/Z chủ_tịch/N thường_trực/N UBND/Np tỉnh/N Kon_Tum/Np đã/R có_mặt/V tại/E hiện_trường/N chỉ_huy/V lực_lượng/N chức_năng/N đưa/V bệnh_nhân/N đi/V cấp/V cứu/V tại/E Trung_tâm/N y_tế/N huyện/N Đăk_Hà/Np và/CC Bệnh_viện/N Đa_khoa/N tỉnh/N Kon_Tum/Np
+Tại/E đây/N ông/N Tuy/N cũng/R chỉ_đạo/V lực_lượng/N chức_năng/N điều_tra/V làm/V rõ/A nguyên_nhân/N vụ/N tai_nạn/N giao_thông/N nghiêm_trọng/A này/P
+Hiện/N nguyên_nhân/N cụ_thể/A vụ_việc/N đang/R được/V cơ_quan/N công_an/N điều_tra/V làm/V rõ/A
+Một/M xe/N mất/V thiết_bị/N giám_sát/N hành_trình/N
+Ngay/T tại/E hiện_trường/N ông/N Nguyễn_Đức_Hương/Np trưởng/N Phòng_Quản_lí/N phương_tiện/N và/CC Người/Np lái/V Sở/N GTVT/Np tỉnh/N cho/V biết/V thời_điểm/N xảy/V ra/R tai_nạn/V theo/E trích/N xuất/V từ/E giám_sát/N hành_trình/N chiếc/Nc xe/N BKS/Np 82B00245/M chạy/V với/E tốc_độ/N 815km/M giờ/N
+Còn/C chiếc/Nc xe/N 82B00223/Np thì/C mất/V thiết_bị/N giám_sát/N hành_trình/N tại/E xã/N Đăk_Nông/Np huyện/N Ngọc_Hồi/Np

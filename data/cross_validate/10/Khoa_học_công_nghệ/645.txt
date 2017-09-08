@@ -1,0 +1,15 @@
+Vệ_tinh/N FPT/Np sắp/R bay/V lên/R vũ_trụ/N
+Phòng/N nghiên_cứu/V không_gian/N FSpace/Np Viện_Nghiên/Np cứu/V Công_nghệ/N FPT/Np ĐH_FPT/Np vệ_tinh/N F/Np 1/M đã/R vượt/V qua/R kỳ/N đánh_giá/V an_toàn/A bay/V đáp_ứng/V các/L tiêu_chuẩn/N kỹ_thuật/N của/E Cơ_quan/N Vũ_trụ/N Nhật_Bản/Np /V JAXA/Np /V và/CC được/V chính_thức/A chấp_nhận/V tham_gia/V chương_trình/N phóng/V vệ_tinh/N nhỏ/A do/E JAXA/Np và/CC NASA/Np phối_hợp/V tổ_chức/V
+Hiện/N F/Np 1/M đã/R được/V đưa/V đến/E Trung_tâm/N vũ_trụ/V Tsukuba/Np Nhật_Bản/Np để/E tập_kết/V cùng_với/C 4/M vệ_tinh/N nhỏ/A khác/A
+Nhân_viên/N kỹ_thuật/N chuẩn_bị/V đặt/V chúng/P lên/V thiết_bị/N phóng/V vệ_tinh/N nhỏ/A
+Sau/E đó/P tất_cả/P 5/M vệ_tinh/N sẽ/R được/V vận_chuyển/V đến/E Trung_tâm/N vũ_trụ/V Tanegashima/Np đảo/N Tanegashima/Np ở/E phía/N nam/N Nhật_Bản/Np
+Tại/E đây/P người_ta/P lắp/V chúng/P lên/V tàu/N vận_tải/V và/CC cuối_cùng/A đặt/V lên/R trên/E tên_lửa/N đẩy/V
+Theo/E kế_hoạch/N thời_điểm/N phóng/V tên_lửa/N bắt_đầu/V lúc/N 11h18/M sáng/N /M giờ/N Nhật_Bản/Np /V hay/C 9h18/M sáng/N /M giờ/N Hà_Nội/Np /M ngày/N 21/7/2012/M
+Hôm/N 25/6/M đài_truyền_hình/N NHK/Np General/Np TV/Np Nhật_Bản/Np phát_sóng/V một/M phóng_sự/N ngắn/A về/E chương_trình/N phóng/V vệ_tinh/N nhỏ/A tới/V Trạm_Không/Np gian/N Quốc_tế/N sắp/R tới/V
+Đây/P có_lẽ/R là/V những/L thước/Nc phim/N cuối_cùng/A của/E F/Np 1/M trước/E khi/N nó/P được/R lắp_ghép/V lên/R tên_lửa/N đẩy/V và/CC phóng/V vào/E quỹ_đạo/N Ông/N Vũ_Trọng_Thư/Np Trưởng_phòng/N FSpace/Np thuộc/V Đại_học/N FPT/Np cho_biết/V “/M Bên_cạnh/N việc/N từng/R bước/N làm_chủ/V công_nghệ/N vũ_trụ/A để/E hướng/V tới/E những/L ứng_dụng/N trong/E thực_tế/N nhóm/N FSpace/Np mong_muốn/V đem/V lại/R niềm/N hy_vọng/V vào/E tương_lai/N và/CC truyền_tải/N thông_điệp/N của/E tuổi_trẻ/N Việt_Nam/Np Không_gian/N vũ_trụ/N không/R còn/V quá/R xa_xôi/A chúng_ta/P có_thể/R làm/V được/R những/L điều/N tưởng/V như/C không_thể/R nếu_như/C có/V quyết_tâm/N /
+Vệ_tinh/N nhỏ/A F/Np 1/M có/V kích_thước/N 10x10x10/M cm/Nu và/CC nặng/A 1/M kg/Nu
+Nhóm/N FSpace/Np bắt_đầu/V nghiên_cứu/V và/CC chế_tạo/V nó/P từ/E cuối/N năm/N 2008/M với/E mục_tiêu/N là/V phải/V sống/V được/R trong/E không_gian/N và/CC phát/V tín_hiệu/N về/E trạm/N điều_khiển/V trái_đất/N chụp/V được/R ảnh/N độ_phân_giải/N thấp/A /A 640x480/M /N của/E trái_đất/N và/CC tốc_độ/N truyền/V dữ_liệu/N từ/E vệ_tinh/N đạt/V 1 0/M bit/giây/N  /EOS
+Trên/E thế_giới/N xu_hướng/N chế_tạo/V vệ_tinh/N nhỏ/A /A dưới/E 50kg/M /N đang/R phát_triển/V rất/R mạnh/A trong/E 10/M năm/N gần/A đây/P
+Ưu_điểm/N của/E loại/N vệ_tinh/N siêu/Z nhỏ/A là/V thời_gian/N chế_tạo/V ngắn/A chi_phí/N thấp/A và/CC càng/R phát_huy/V năng_lực/N khi/N sử_dụng/V cả/P một/M chùm/Nc vệ_tinh/N
+Tuy_nhiên/C với/E Việt_Nam/Np đây/P vẫn/R là/V lĩnh_vực/N rất/R mới/A
+Do_đó/C nhiều/A chuyên_gia/N trong/E ngành/N nhận_định/V nếu/C thành_công/V FPT/Np sẽ/R trở_thành/V doanh_nghiệp/N tư_nhân/N đầu_tiên/A trong/E nước/N chế_tạo/V thành_công/V vệ_tinh/N nhỏ/A góp_phần/V vào/E sự/N phát_triển/V của/E ngành/N khoa_học/N và/CC công_nghiệp/N vũ_trụ/N Việt_Nam/Np

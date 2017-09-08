@@ -1,0 +1,4 @@
+Máy_tính/N siêu/N nhỏ/A Raspberry_Pi_Zero/Np giá/N 120000/M VNĐ/N
+Giá/N 5/M USD/Nu mỗi/M chiếc/N đưa/V Raspberry_Pi_Zero/Np trở_thành/V máy_tính/N điện_toán/N rẻ/A nhất/A thế_giới/N kích_cỡ/N nhỏ/A nhất/A thế_giới/N 65/M x/N 30mm/M với/N cấu_hình/N cụ_thể/A gồm/V
+Raspberry_Pi_Zero/Np bắt_đầu/V được/V bán/V từ/N raspberrypi/N
+org/N

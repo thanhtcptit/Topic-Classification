@@ -1,0 +1,9 @@
+Nhân_viên/N Trung_tâm/N lưu/V ký/V chứng_khoán/V thu_nhập/N 24/M triệu/M đồng/Nu mỗi/M tháng/N
+Theo/E báo_cáo/N gửi/V Bộ/N Tài/N chính/T Bộ/N Kế/V hoạch/V &/CC Đầu_tư/V về/E chế_độ/N tiền_lương/N tiền/N thưởng/V của/E Trung_tâm/N Lưu/Np ký/V Chứng_khoán/N Việt_Nam/Np /V VSD/Np /V  /M mức/N tiền_lương/N bình_quân/A hàng/N tháng/N của/E nhân_viên/N tại/E đây/P trong/E năm/N 2015/M vào_khoảng/X 20,5/M triệu/M đồng/Nu và/CC thưởng/V 6,5/M triệu/M đồng/Nu
+Sau/E khi/N trừ/V các/L khoản/N thuế/N mỗi/L lao_động/N có/V  /M thu_nhập/N bình_quân/A là/V 24/M triệu/M đồng/Nu một/M người/N  /EOS
+Năm/N 2016/M đơn_vị/N này/P xây_dựng/V lương/N vẫn/R là/V 20,5/M triệu/M đồng/Nu nhưng/C chưa/R đề/V ra/R kế_hoạch/N thưởng/V
+Hiện_Trung/Np tâm/N Lưu/Np ký/V Chứng_khoán/N được/V  /M xếp_hạng/N Tổng_công_ty/N với/E 146/M lao_động/N  /EOS
+Báo_cáo/V cũng/R cho_biết/V với/E viên_chức/N quản_lý/V mức/N thu_nhập/N bình_quân/A năm/N 2015/M là/V 47,35/M triệu/M đồng/Nu mỗi/L tháng/N trong/E đó/P mức/N tiền_lương/N bình_quân/A là/V 41,57/M triệu/M đồng/Nu
+Hiện/N đơn_vị/N này/P có/V 7/M viên_chức/N quản_lý/V  /EOS
+Năm/N 2015/M VSD/Np đạt/V doanh_thu/N gần/A 368/M tỷ/N đồng/N lợi_nhuận/N trước/E thuế/N 234/M tỷ/N đồng/N tăng/V lần_lượt/R 11/M và/CC 15%/M so/V với/E năm/N trước/E
+Năm/N 2016/M đơn_vị/N đặt/V kế_hoạch/N  /V doanh_thu/N 373/M tỷ/N đồng/N và/CC lợi_nhuận/N trước/E thuế/N gần/A 224/M tỷ/N đồng/N

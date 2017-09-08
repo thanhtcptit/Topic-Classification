@@ -1,0 +1,8 @@
+Đạn/N định_vị/V theo_dõi/V tội_phạm/N
+Hệ_thống/N đạn/N định_vị/V GPS/Np được/V thiết_kế/V để/E sử_dụng/V trong/E các/L cuộc/N săn_đuổi/V tội_phạm/N với/E tốc_độ/N cao/A giúp/V cảnh_sát/N theo_dõi/V và/CC lần/V theo/E dấu_vết/N của/E tội_phạm/N mà/C vẫn/R đảm_bảo/V an_toàn/A tính_mạng/N
+Sau/E khi/N kích_hoạt/V hệ_thống/N hoạt_động/V bằng/E cách/N ấn/V nút/N gắn/V trên/E xe/N cảnh_sát/N một/M chiếc/Nc nắp/N nhỏ/A được/V bật/V mở/V làm/V viên/N đạn/N định_vị/V GPS/Np được/V phóng/V đi/V và/CC dính/V chặt/A vào/E chiếc/Nc xe/N đang/R được/V theo_dõi/V ở/E phía/N trước/A
+Khi/N đạn/N được/V gắn/V vào/E chiếc/Nc xe/N cảnh_sát/N có_thể/A dừng/V cuộc/N truy_bắt/V tội_phạm/N mà/C vẫn/R có_thể/A tiến_hành/V theo_dõi/V và/CC xác_định/V vị_trí/N của/E chúng/P  /M Đây/P là/V một/M thủ_thuật/N rất/R có_ích/A đối_với/E lực_lượng/N cảnh_sát/N
+Nhờ/V đó/P chúng_tôi/P có_thể/R tạo/V ra/R nhiều/A sự/N khác_biệt/A hơn/A trong/E các/L cuộc/N truy_bắt/V tội_phạm/N từ/E truy_đuổi/N giải_cứu/V các/L bé/N gái/N khỏi/V bọn/Nc buôn_người/N đến/E ngăn_chặn/V các/L tay_lái/N xe/N vi_phạm/V luật/N giao_thông/N BBC/Np dẫn/V lời/N Trevor_Fischbach/Np chủ_tịch/N StarChase/Np đơn_vị/N sản_xuất/V đạn/N định_vị/V GPS/Np cho_biết/V
+Hệ_thống/N đạn/N định_vị/V GPS/Np đã/R được/V trang_bị/V sử_dụng/V ở/E 4/M bang/N Iowa/Np Florida/Np Arizona/Np và/CC Colorado/Np  /M Chi_phí/N lắp_đặt/V hệ_thống/N đạn/N cho/E một/M chiếc/Nc xe/N cảnh_sát/N là/V 5 0/M USD/Nu mỗi/M viên/N đạn/N GPS/Np có_giá/A 500/M USD/Nu
+Theo/E Dave_Allen/Np giảng_viên/N Đại_học/N Leeds/Np Anh/N đây/P là/V một/M công_nghệ/N rất/R thú_vị/A và/CC hữu_ích/A
+Giá_thành/N của/E đạn/N định_vị/V cũng/R sẽ/R giảm/V đáng_kể/A và/CC chúng/P sẽ/R được/V sử_dụng/V phổ_biến/V trong/E tương_lai/N không/R xa/A

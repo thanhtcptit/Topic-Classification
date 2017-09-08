@@ -1,0 +1,12 @@
+48/M giờ/N để/E bố_mẹ/N em/N bé/N Anh/N chứng_minh/V con/N không/R cần/V rút/V thiết_bị/N sống/V
+Sau/E buổi/N điều_trần/V đầy/A cảm_xúc/N tại/E Tòa_án/N Tối_cao/A London/Np /A Anh/Nc /Np thẩm_phán/N Nicholas_Francis/Np quyết_định/V cho/V bố_mẹ/N em/N bé/N Charlie_Gard/Np thêm/V 48/M giờ/N để/E trình/V thêm/V thông_tin/N  /M Không/R có/V người/N còn/R sống/V nào/P không/R muốn/V cứu/V Charlie/Np AP/Np dẫn/V lời/N thẩm_phán/N Francis/Np
+Nếu/C họ/P đưa/V ra/R được/R những/L bằng_chứng/N mới/A tôi/P sẽ/R xem_xét/V
+Charlie/Np hiện/N 11/M tháng/N tuổi/N mắc/V chứng/N rối_loạn/V ty/N lạp/V thể/R gây/V suy_nhược/V cơ/N căn_bệnh/N cực/A hiếm/A chỉ/R có/V 16/M em/N bé/N trên/E thế_giới/N mắc/V phải/V
+Căn_bệnh/N ngăn_chặn/V ty/V thể/R tạo/V ra/R năng_lượng/N khiến/V bệnh_nhi/N mất/V thính_giác/N phụ_thuộc/V hoàn_toàn/A vào/E máy/N thở/V không_thể/R cầm_nắm/V đồ_vật/N và/CC liên_tục/A lên_cơn/V động_kinh/N
+Sau/E khi/N Bệnh_viện/N Great_Ormond_Street/Np xin_phép/V và/CC được/V tòa_án/N chấp_thuận/V rút/V thiết_bị/N hỗ_trợ/V sự/N sống/V vì/E lợi_ích/N của/E bệnh_nhi/N bố_mẹ/N Charlie/Np đã/R bày_tỏ/V mong_muốn/V đưa/V con/N đến/E Mỹ/Np để/E điều_trị/V bằng/E phương_pháp/N thử_nghiệm/V phân_tử/V nucleoside/N
+Nhờ/V vận_động/V quyên_góp/V gia_đình/N Gard/Np được/V cộng_đồng/N hỗ_trợ/V 1,3/M triệu/N bảng/N
+Tuy_nhiên/C đánh_giá/V hiệu_quả/N của/E phương_pháp/N phân_tử/V nucleoside/N còn/R mập_mờ/A và/CC nhiều/A khả_năng/N khiến/V bệnh_nhi/V thêm/V đau_đớn/A thẩm_phán/N Francis/Np đã/R tuyên_bố/V Charlie/Np không_thể/R đến/V Mỹ/Np
+Giờ_đây/P chỉ/R những/L bằng_chứng/N mới/A và/CC mạnh_mẽ/A mới/R đủ/A sức/N đảo_ngược/V phán_quyết/N ông/N đưa/V ra/R
+Đầu/N tháng/N 7/M  /M Đức_Giáo/Np hoàng/V Francis/Np và/CC Tổng_thống/N Mỹ_Donald_Trump/Np lên_tiếng/V về/E trường_hợp/N của/E Charlie/Np khiến/V dư_luận/N quốc_tế/N hướng/N về/E em/N nhỏ/A
+Chủ_tịch/N Bệnh_viện/N Bambino_Gesu/Np /M Vatican/Np /M đề_nghị/N giúp_đỡ/V bệnh_nhi/A 11/M tháng/N tuổi/N song/M Ngoại_trưởng/N Anh/N Boris_Johnson/Np chính_thức/A từ_chối/V vào/E ngày/N 5/7/M vì/E lý_do/N pháp_lý/N  /EOS
+Vụ_kiện/N sẽ/R tiếp_tục/V vào/E thứ_năm/N tới/V

@@ -1,0 +1,12 @@
+Nhiều/A nhân_viên/N y_tế/N không/R rửa/V tay/N đúng/A cách/N
+Không/R phải/V ai/P cũng/R chăm_chỉ/A rửa/V tay/N kể_cả/C nhân_viên/N y_tế/N
+Tại_Hội/Np nghị/V Các/L chuyên_gia/N Kiểm_soát/V Dịch_bệnh/V APIC/Np các/L nhà_khoa_học/N cho_biết/V rất/R nhiều/A bác_sĩ/N y_tá/N bỏ_qua/V bước/N vệ_sinh/V cơ_bản/A này/P
+Theo/E Men/V N s/N Health/Np nhóm/N nhà_nghiên_cứu/N đã/R quan_sát/V gần/A 4 0/M nhân_viên/N y_tế/N khi/N ra_vào/V phòng/N bệnh_nhân/N thời_điểm/N mà/C họ/P bắt_buộc/V phải/V rửa/V tay/N
+Tuy_nhiên/C 78%/M số/N này/P không/R rửa/V tay/N hoặc/CC rửa/V tay/N cẩu_thả/V
+Tổ_chức/N Y_tế/N Thế_giới/N /V WHO/Np /V quy_định/N rửa/V tay/N đúng/A cách/N là/V cho/E xà_phòng/N vào/E lòng/N bàn_tay/N rửa/V toàn_bộ/L bề_mặt/N tay_trong/N 15-20/M giây/Nu lau/V bằng/E khăn/N khô/A rồi/C dùng/V khăn/N khóa/N vòi_nước/N để/E tránh/V chạm/V lại/R vào/E chỗ/N bẩn/A  /EOS
+Lỗi/N nhân_viên/N y_tế/N thường/R mắc/V là/C chỉ/R cho/E xà_phòng/N vào/E lòng/N bàn_tay/N và/CC không/R dùng/V khăn/N khi/N khóa/V vòi_nước/N
+Đôi_khi/R họ/P còn/R không/R rửa/V tay/N chút/N nào/P  /EOS
+Các/L chuyên_gia/N nhận_định/V y_bác_sĩ/N biết/V rõ/A phải/V giữ/V bàn_tay/N sạch_sẽ/A nhưng/C căng_thẳng/A áp_lực/N khiến/V họ/P vô_tình/A quên/V công_đoạn/N này/P  /M Nghiên_cứu/N năm/N 2014/M của/E Đại_học/N Pennsylvania/Np phát_hiện/V nhân_viên/N y_tế/N rửa/V tay/N ít/A hơn/A nếu/C quá/R bận_rộn/A
+Trên/E thực_tế/N một/M bác_sĩ/N hoặc/CC y_tá/N đang/R gấp_rút/A cấp_cứu/V bệnh_nhân/N sẽ/R không/R ưu_tiên/V rửa/V tay/N
+Dù_sao/C đi_nữa/X y_bác_sĩ/N không/R rửa/V tay/N khiến/V nguy_cơ/N nhiễm_trùng/V của/E bệnh_nhân/N tăng/V cao/A
+Vì_thế/C bệnh_nhân/N đi/V khám/V cần/V mạnh_dạn/V đề_nghị/V nhân_viên/N y_tế/N nếu/C thấy/V họ/P vào/E phòng/N mà/C chưa/R rửa/V tay/N

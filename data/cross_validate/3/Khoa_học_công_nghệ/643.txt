@@ -1,0 +1,11 @@
+Cấy/V phân/N để/E tiêu_diệt/V vi_khuẩn/N kháng/V thuốc/N trong/E ruột/N
+Nghiên_cứu/V kiểm_tra/V vi_khuẩn/N Enterococcus/Np faecium/V VRE/Np kháng/V thuốc/N vancomycin/V và/CC vi_khuẩn/V Klebsiella/Np pneumonia/N K/Np
+pneumonia/N  /V kháng/V nhiều/A loại/N thuốc/N
+Các/L kết_quả/N được/V công_bố/V trên/E tạp_chí/N PLOS/Np Pathogens/Np  /M hôm/N 4/9/M
+Nhóm/N nghiên_cứu/V do/E Eric_Pamer/Np người/N đứng/V đầu/N khoa/N Bệnh/N truyền_nhiễm/A ở/E Trung_tâm/N Ung_thư/N Memorial_Sloan_Kettering/Np tại/E New_York_Mỹ/Np chỉ_đạo/V
+Các/L nhà_khoa_học/N phát_hiện/V các/L loại/N vi_khuẩn/N có_thể/A ở/E cùng/A một/M chỗ/N trong/E ruột/N nhưng/C việc/N cấy_ghép/V hệ/N sinh_vật/N đa_dạng/A có/V trong/E phân/N sẽ/R giúp/V loại_bỏ/V cả/P vi_khuẩn/N VRE/Np và/CC  /N K/Np
+pneumonia/V ra/R khỏi/V ruột/N
+Mark_Morrison_Trưởng/Np khoa/N Sinh_học/N vi_sinh/N và/CC Hệ/N gene/V cộng_đồng/N ở/E Đại_học/N Queensland_Australia/Np cho_biết/V nghiên_cứu/V hé/V lộ/V những/L hiểu_biết/N mới/A về/V cách/V các/L vi_khuẩn/N này/P xâm_nhập/V hệ/N tiêu_hóa/V
+Sử_dụng/V các/L loại/Nc vi_khuẩn/N đường/N ruột/N khác/A như/C một/M loại/Nc thuốc/N thông_qua/V cấy/V phân/N có_thể/R loại_bỏ/V hiệu_quả/N vi_khuẩn/V kháng/V thuốc/N kháng_sinh/N The_Conversation/Np hôm/N 4/9/M dẫn/V lời/N Giáo_sư/N Morrison/Np người/N tham_gia/V nghiên_cứu/V
+Những/L nghiên_cứu/N trước_đây/N phát_hiện/V lớp/N niêm_mạc/N giúp/V bảo_vệ/V đường/N ruột/A trước/E vi_khuẩn/N có_thể/R mỏng/A đi/V khi/N hệ/N vi_sinh_vật/N đường/N ruột/N không/R cân_bằng/A
+Theo/E Morrison/Np các/L nhà_khoa_học/N sẽ/R cần/V nghiên_cứu/V thêm/V trước/E khi/N áp_dụng/V kết_quả/N trên/E bệnh_nhân/N bị/V nhiễm_khuẩn/V ruột/N

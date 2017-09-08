@@ -1,0 +1,15 @@
+Bộ/N Giáo/Np dục/V cập_nhật/V lại/R đáp_án/N môn/N Lịch_sử/N
+Câu_hỏi/N số/N 22/M trong/E mã_đề/N 302/M môn/N Lịch_sử/N kỳ/N thi/V THPT/Np quốc_gia/N 2017/M hỏi/V Mỹ/Np chính_thức/A tiến_hành/V chiến_tranh_phá_hoại/N miền/N Bắc/Np lần/N thứ/N nhất/M trong/E khi/N thực_hiện/V chiến_lược/N chiến_tranh/N nào/P ở/E miền/N Nam_Việt_Nam/Np
+Đáp_án/N được/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V tối/N 24/6/M ngay/T sau/E kết_thúc/N kỳ/N thi/V là/V A/N Chiến_tranh_cục_bộ/X
+Tuy_nhiên/C một/M ngày_sau/N đáp_án/N ở/E câu_hỏi/N này/P đăng/V trên/E cổng/N thông_tin/N của/E Bộ/N lại/R là/V D/Np Chiến_tranh/N đặc_biệt/A
+Sự/N thay_đổi/V đó/P khiến/V nhiều/A người/N lo_lắng/V ảnh/N hướng/V đến/E kết_quả/N thi/V của/E thí_sinh/N  /EOS
+Trả_lời/V VnExpress/Np tối/N 26/6/M Cục_phó/N Quản_lý/V chất_lượng/N giáo_dục/N /A Bộ/N Giáo/N dục/N và/CC Đào_tạo/N /V Sái_Công_Hồng/Np cho_biết/V không/R có/V chuyện/N đổi/V đáp_án/N môn/N Lịch_sử/N so/V với/E ban_đầu/N
+Trưởng_ban/N đề/N thi/V THPT/Np quốc_gia/N 2017/M giải_thích/V đáp_án/V chính_thức/A các/L môn/N thi/V là/V bản/N cứng/A có/V chữ_ký/N của/E Tổ_trưởng/N tổ/N ra/V đề/N thi/V và/CC có/V ký/V duyệt/V của/E Chủ_tịch/N Hội_đồng/N ra/V đề/N thi/V
+Chiều_tối/N 24/6/M sau/E khi/N kết_thúc/V kỳ/N thi/V Hội_đồng/N ra/V đề/N in/V sao/P các/L đáp_án/N và/CC đóng_dấu/N treo/V để/E đảm_bảo/V tính/N pháp_lý/N của/E đáp_án/N khi/N chuyển/V tới/E hội_đồng/N thi/V địa_phương/N để/E tổ_chức/V chấm/N thi/V
+Khi/N cung_cấp/V bản/N mềm/A đáp_án/V bằng/E đĩa/N CD/Np cho/E các/L cơ_quan/N báo_chí/N rất/R có_thể/A do/E lỗi/N kỹ_thuật/N đáp_án/N bị/V nhảy/V từ/E D/Np sang/V A/Np
+Một/M số_đề/N thi/V được/R sao_chép/V cùng_với/C đáp_án/N của/E các/L môn/N thi/V trong/E cùng/N đĩa/N CD/Np này/P khi/N mở/V ra/R cũng/R bị/V mất/V ông/Nc Hồng/Np nói/V  /EOS
+Cục_phó/N Quản_lý/V chất_lượng/N giáo_dục/N cho/V rằng/C sự_cố/N lần/N này/P là/V kinh_nghiệm/N quý_báu/V cho/E những/L năm/N sau/E khi/N công_bố/V đáp_án/N chính_thức/A thì/C nên/C dùng/V bản_gốc/N có/V dấu/N đỏ/A của/E Bộ/N Giáo/Np dục/V để/E đảm_bảo/V tính/N pháp_lý/N và/CC tính/V chính_xác/A
+Ngày/N 22-24/M //X 6/M 860 0/M thí_sinh/N cả/P nước/N thi/V THPT/Np quốc_gia/N gồm/V 3/M môn/N Toán/Np Văn/Np Ngoại_ngữ/N và/CC một/M trong/E hai/M bài/N tổ_hợp/N Khoa_học_tự_nhiên/N /A Lý/Np Hóa/Np Sinh/Np /M hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Trừ_Văn/Np các/L môn/N còn/V lại/R đều/R thi_trắc_nghiệm/V
+Kết_thúc/V kỳ/N thi/V Bộ/N Giáo/N dục/V tổ_chức/V họp_báo/V đánh_giá/V kỳ/N thi/V diễn/V ra/R thành_công/V
+Nhiều/A năm/N sau/A phương_thức/N thi_trắc_nghiệm/V như/C 2017/M sẽ/R được/V duy_trì/V

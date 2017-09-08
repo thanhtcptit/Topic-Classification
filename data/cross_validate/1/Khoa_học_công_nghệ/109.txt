@@ -1,0 +1,7 @@
+Bí_mật/N moi/V tiền/N trên/N máy_tính/N của/E mã/N độc/A
+Adylkuzz/N có/V cách/N lây_nhiễm/V vào/E máy_tính/N tương_tự/A WannaCry/V qua/R lỗ_hổng/N bảo_mật/V EternalBlue/N trong/N Windows/Np
+Tuy_nhiên/C Adylkuzz/Np không/R tống_tiền/V kĩ_thuật_số/N Bitcoin/Np BTC/Np mà/C âm_thầm/A sử_dụng/V tài_nguyên/N của/E máy_tính/N nạn_nhân/N để/E đào/V tiền/N Monero/Np
+Máy_tính/N của/E nạn_nhân/N sẽ/R bị/V chậm/A đi/V do/E chia_sẻ/N tài_nguyên/N sức_mạnh/N hệ_thống/N theo/V chỉ_thị/N đào/V tiền/N của/E mã/N độc/A
+Kỹ_sư/N trưởng/N nhóm/N nghiên_cứu/V bảo_mật/V từ/E Proofpoint/Np ông/N Darien_Huss/Np cho/V biết/V Adylkuzz/Np đã/R âm_thầm/A lây_nhiễm/V vào/E hơn/N 150000/M máy_tính/N trên/A thế/N giới_từ/N ngày/N 25/M chưa/N bị/V phát_hiện/V mãi/R cho/E đến/E đầu/N tuần/N này/P
+Giới/N bảo_mật/V lo_ngại/N còn/V rất/R nhiều/A máy_tính/N Windows/Np chưa/R cập_nhật/V bản/N vá/V lỗi/N MS017/N 010/M đã/R được/V Microsoft/Np phát_hành/V vào/E Tháng/N 3/M
+Theo/E đó/P các/L loại/N mã/N độc/A như/C WannaCry/N hay/N Adylkuzz/Np vẫn/R có/V cơ_hội/N thâm_nhập/V dễ_dàng/A mà/C không/R cần/V một/M tương_tác/N nào/P tự/P nạn_nhân/N

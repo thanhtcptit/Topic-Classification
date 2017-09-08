@@ -1,0 +1,23 @@
+M Mưa/N V điểm/N 10/M ở/E kỳ/N thi/V THPT/Np quốc_gia/N
+Số_liệu/N điểm/N thi/V THPT/Np quốc_gia/N của/E 46/M tỉnh_thành/N đã/R công_bố/V cho/E thấy/V trừ/V Văn/Np số/N bài/N thi/V đạt/V điểm/N 10/M rất/R nhiều/A  /V Chỉ/R 5/M địa_phương/N như/C TP_HCM/Np Nam_Định/Np Thái_Bình/Np Nghệ_An/Np Phú_Thọ/Np Đà_Nẵng/Np số/N điểm/N 10/M lên/R tới/V 999/M
+Trong/E khi/N đó/P kỳ/N thi/V THPT/Np quốc_gia/N 2016/M cả/P nước/N có/V 69/M điểm/N tuyệt_đối/A ở/E 8/M môn/N thi/V  /EOS
+Môn/N có/V điểm/N 10/M nhiều/A nhất_là/X Hóa_học/N và/CC Ngoại_ngữ/N
+Chỉ/R TP_HCM/Np số/N điểm/N tuyệt_đối/A môn/N Ngoại_ngữ/N đã/R cao/A gấp/V 14/M lần/N cả/P nước/N năm/N trước/A với/E 214/M bài/N thi/V /M năm/N 2016/M cả/P nước/N có/V  /M 15/M điểm/N 10/M /N
+Môn_Hóa/Np học/V với/E 139/M điểm/N 10/M cũng/R cao/A gấp/V 9,2/M lần/N
+Cả/P hai/M mùa/N thi/V đều/R áp_dụng/V hình_thức/N trắc_nghiệm/V
+Ở/E môn/N Toán/Np riêng/A Nghệ_An/Np có/V 22/M thí_sinh/N được/V điểm/N 10/M trong/E khi/N cả/P nước/N năm/N trước/A chỉ/R có/V 8/M  /M Đây/P là/V năm/N đầu_tiên/A Bộ/N Giáo/N dục/N và/CC Đào_tạo/N tổ_chức/V thi_trắc_nghiệm/N Toán/Np  /EOS
+Môn_Sinh/Np học/V riêng/A TP_HCM/Np đã/R có/V lượng/N điểm/N tuyệt_đối/A cao/A gấp/V 11/M lần/N số/N của/E cả/P nước/N năm/N 2016/M /Nu 5/M thí_sinh/N /A với/E 56/M trường_hợp/N  /EOS
+Môn_Địa/Np lý/N năm/N trước/E cả/P nước/N có/V 9/M điểm/N 10/M thì/C nay/P chỉ/R bằng/E số/N điểm/N tuyệt_đối/A ở/E một/M tỉnh/N Thái_Bình/Np
+Tỉnh/N Nam_Định/Np có/V 22/M bài/N Phú_Thọ/Np 17/M bài/N điểm/N 10/M Địa_lý/N  /EOS
+Ngữ_văn/N là/V môn/N duy_nhất/A trong/E kỳ/N thi/V THPT/Np 2016/M không/R có/V điểm/N tuyệt_đối/A thì/C năm/N nay/P đã/R xuất_hiện/V một/M trường_hợp/N
+Các/L môn/N Lịch_sử/N Vật_lý/N Giáo_dục/N công_dân/N cũng/R rất/R nhiều/A điểm/N 10/M  /M Chia_sẻ/N sau/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M Thứ_trưởng/N Giáo_dục/N và/CC Đào_tạo/N Bùi_Văn_Ga/Np từng/R khẳng_định/V sẽ/R không/R có/V mưa/N điểm/N 10/M như/C những/L năm/N trước/A do/E cách/N lập/V ma_trận/N đề/V thi/V với/E những/L câu/N rất/R khó/A mà/C chỉ/R thí_sinh/V thật/R giỏi/A mới/R có_thể/R làm/V được/R
+Những/L người/N trong/E ban/N đề/N thi/V đều/R có/V kinh_nghiệm/N nhiều/A năm/N khi/N ra/V đề/N hoàn_toàn/A dự_đoán/N một/M câu_hỏi/N đưa/V ra/R trong/E đề/N thí_sinh/N ở/E mức_độ/N nào/P có_thể/R giải/V được/R
+Do_đó/C chúng_ta/P có_thể/R yên_tâm/V rằng/C sẽ/R không/R có/V mưa/N điểm/N 10/M như/C người_ta/P vẫn/R nói/V trong/E những/L năm/N trước_đây/N ông/Nc Ga/Np nói/V  /EOS
+Thứ_trưởng/N Ga/Np cũng/R khẳng_định/V điểm_sàn/V đại_học/N năm/N 2017/M không_thể/R thay_đổi/V đột_ngột/A so/V với/E mức/N 15/M điểm/N của/E năm/N trước/E
+Cụ_thể/A cụm/N thi/V  /V TP_HCM /Np có/V 453/M điểm/N 10/M
+Trong/E đó/P  /N Ngoại_ngữ/N chiếm/V số_lượng/N lớn/A nhất/R với/E 214/M Hóa_học/N đứng/V thứ_hai/N với/E 139/M Sinh_học/N  /M 56/M Toán/Np 19/M Giáo_dục/N công_dân/N 15/M Địa_lý/N 5/M Vật_lý/N 4/M Lịch_sử/N 1/M
+Tỉnh/N  /M Nam_Định/Np  /M có/V 128/M điểm/N 10/M gồm/V Hóa_học/N 46/M Ngoại_ngữ/N 29/M Địa_lý/N 22/M Sinh_học/N 13/M Toán/Np 8/M Lịch_sử/N và/CC Giáo_dục/N công_dân/N mỗi/M môn/N 5/M
+Thái_Bình/Np  /V có/V 126/M thí_sinh/N đạt/V điểm/N 10/M với/E Hóa_học/N 65/M Ngoại_ngữ/N 21/M Toán/Np 12/M Vật_lý/N và/CC Địa_Lý/Np đều/R có/V 9/M Sinh_học/N 7/M Lịch_sử/N 3/M
+Tỉnh/N  /M Nghệ_An/N  /N có/V 203/M điểm/N 10/M
+Trong/E đó/P Hóa_học/N 91/M Địa_lý/N 46/M Ngoại_ngữ/N 26/M Toán/Np 22/M Sinh_học/N 9/M Vật_lý/N 6/M Lịch_sử/N 5/M Giáo_dục/N công_dân/N 2/M  /M Phú_Thọ/Np  /M có/V  /M 62/M điểm/N 10/M
+Trong/E đó/P Hóa_học/N 21/M Địa_lý/N 17/M Ngoại_ngữ/N 12/M Giáo_dục/N công_dân/N 7/M Toán/Np 2/M

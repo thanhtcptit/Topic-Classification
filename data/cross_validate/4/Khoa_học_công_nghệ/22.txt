@@ -1,0 +1,17 @@
+Bắt_đầu/V đổi/V mã/N vùng/N điện_thoại/N cố_định/V
+Nhà/N mạng/N đã/R sẵn_sàng/A
+Trong/E số/N các/L nhà/N mạng/N VNPT/Np hiện/N đang/R có/V nhiều/A thuê_bao/N cố_định/A nhất/R do/E đó/P việc/N đổi/V mã/N vùng/N điện_thoại/N cố_định/V tác_động/V mạnh/A nhất/A đến/V khách/N hàng/N của/E nhà/N mạng/N này/P
+Số/N thuê_bao/N cố_định/A của/E VNPT/Np tại/E 59/M tỉnh/N thành_phố/N hiện_nay/N là/V 45/M triệu/N
+Đại_diện/N nhà/N mạng/N này/P cho/V biết/V công_việc/N đổi/V số/N diễn/V ra/R vào/V ban_đêm/N và/CC sẽ/R thực_hiện/V trong/E 2/M tiếng/N nên/V về/V cơ_bản/N sẽ/R không/R ảnh_hưởng/V đến/E dịch_vụ/N của/E khách/N hàng/N
+Nếu/C xảy/V ra/R bất_cứ/R một/M nguy_cơ/N nào/P ảnh_hưởng/V đến/E dịch_vụ/N thì/C VNPT/Np sẽ/R thực_hiện/V khôi_phục/V lại/R dịch_vụ/N như/C cũ/N để/E đảm_bảo/V sáng/N hôm/N sau/A khách/N hàng/N sử_dụng/V bình_thường/A
+Các/L phương_án/N kĩ_thuật/N của/E VNPT/Np đảm_bảo/V không/R ảnh_hưởng/V đến/E việc/N ghi/V cước/N và/CC tính/N cước/N của/E hệ_thống/N tổng_đài/N và/CC đáp_ứng/V khả_năng/N quay/V số/N song_song/N theo/V mã/N vùng/N cũ/A và/N mới/A
+Một/M nhà/N mạng/N khác/A cũng/R có/V lượng/N thuê_bao/N cố_định/A nhiều/A là/V Viettel/Np cũng/R cho/V biết/V đã/R thử_nghiệm/V việc/N đổi/V mã/N vùng/N điện_thoại/N cố_định/V trong/E nội/N mạng/N cũng/R như/A phối_hợp/V với/E các/L doanh_nghiệp/N viễn_thông/N thử_nghiệm/V việc/N chuyển_đổi/V định_tuyến/N cài/V âm/N thông_báo/V trong/E giai_đoạn/N 1/M
+Kết_quả/N thử_nghiệm/V đều/A thành_công/V và/N đảm_bảo/V sẵn_sàng/A cho/V việc/N thực_hiện/V chuyển_đổi/N theo/V đúng/A lộ_trình/N
+Các/L cuộc_gọi/N sẽ/R không/R bị/V ảnh_hưởng/V
+Trao_đổi/V với/E Tuổi_Trẻ/Np đại_diện/N VNPT/Np cho/V biết/V việc/N thay_đổi/V mã/N vùng/N điện_thoại/N sẽ/R không/R ảnh_hưởng/V nhiều/A tới/N việc/N thực_hiện/V cuộc_gọi/N các/L thuê_bao/N cố_định/A vì/E VNPT/Np đã/R tính_toán/V đến/V phương_án/N giữ/V số/N song_song/N trong/E 1/M tháng/N đầu/N để/E khách/N hàng/N nhận_biết/N và/CC làm_quen/V với/E việc/N đổi/V số/N
+Trong/E thời_gian/N này/P thuê_bao/N có_thể/R quay/V số/N đồng_thời/N theo/V mã/N vùng/N cũ/A và/N mới/A
+Trong/E 1/M tháng/N tiếp_theo/V sau/N khi/N thực_hiện/V đổi/V mã/N vùng/N VNPT/Np sẽ/R cung_cấp/V âm/N thông_báo/V đổi/V số/N để/E hướng_dẫn/V khách/N hàng/N cách/V quay/V số/N
+Theo/E Bộ/N Thông_tin/N và/CC Truyền_thông/V việc/N chuyển_đổi/V mã/N vùng/N điện_thoại/N mới/A là/V hoạt_động/N nhằm/V đảm_bảo/V kho/N số/N viễn_thông/N được/V sử_dụng/V tiết_kiệm/N hiệu_quả/N phù_hợp/V với/E sự/N phát_triển/V của/E thị_trường/N công_nghệ/N
+Đồng_thời/R việc/N chuyển_đổi/V mã/N vùng/N sẽ/R giúp/V độ/N dài/A mã/N vùng/N được/V nhất_quán/V đáp_ứng/V thông_lệ/N quốc_tế/N
+Mặc_dù/C vậy/P khi/N thay_đổi/V mã/N vùng/N một_số/N tổ_chức/V cá_nhân/N cũng/R chịu/V sự/N tác_động/V là/V có_thể/N phải/V làm/V lại/R các/L sản_phẩm/N có/V gắn/V với/E mã/N vùng/N như/C danh/N bao_bì/N biển/N quảng_cáo/N
+phải/V sửa_đổi/V lại/R mã/V vùng/N cho/V các/L số/N đã/R lưu/V trên/E điện_thoại_di_động/N hoặc/N phải/V chủ_động/V tổ_chức/V bộ_máy/N trả_lời/V và/N thông_báo/V việc/N đổi/V mã/N vùng/N cho/V khách/N hàng/N của/N mình/N

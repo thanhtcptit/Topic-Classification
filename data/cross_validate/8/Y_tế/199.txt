@@ -1,0 +1,11 @@
+​/N Hơn/A 60/M công_nhân/N may/N nhập_viện/N sau/N bữa/N trưa/N
+Sau/N bữa/N cơm/N trưa/N 225/M hơn/N 60/M công_nhân/N của/E nhà/N máy_may/N Hitexvinam/Np đóng/V tại/E thị_xã/N Thái_Hoà/Np Nghệ_An/Np có/V biểu_hiện/N bị/V ngộ_độc/V thực_phẩm/N phải/V nhập_viện/V cấp_cứu/V
+Chiều_tối/N 225/M bác_sĩ/N Lê_Quang_Duẩn/Np bác_sĩ/N điều_trị/N Khoa_Hồi_sức/N cấp_cứu/V Bệnh_viện/N Đa_khoa/N Tây_Bắc_Nghệ_An/Np cho/V biết/V các/L bác_sĩ/N y_tá/N đang/R điều_trị/V chăm_sóc/V tích_cực/N cho/V khoảng/N 40/M công_nhân/N của/E nhà/N máy_may/N Hitexvinam/Np nghi/V độc/N thực_phẩm/N sau/N bữa/N cơm/N trưa/N
+Ngoài_ra/C khoảng/A hơn/R 20/M công_nhân/N khác/A sau/E khi/N được/V điều/V trị/N đã/R được/V xuất_viện/V trở/V về/V nhà/N
+Trước/N đó/P từ/E hơn/N 13h/M chiều/N 225/M Bệnh_viện/N Đa_khoa/N Tây_Bắc_Nghệ_An/Np tiếp_nhận/V cấp_cứu/V các/L công/N nhân_từ/V nhà/N máy_may/N Hitexvinam/Np có/V biểu_hiện/N nôn_mửa/A đau/V bụng/N đau_đầu/V
+Các/L bác_sĩ/N đã/R truyền/V bù/N nước/N điện/N giải/N tiến_hành/N cấp_cứu/V nên/C không/R có/V trường_hợp/N nào/P nguy_kịch/N đến/V tính_mạng/N
+Các/L công_nhân/N cho/V biết/V bữa/N trưa/N họ/N ăn/V cơm/N với/E thịt/N kho/N trứng/N rau_muống/N luộc/V canh/N rau/N
+Sau/E khi/N ăn/V thì/C các/L công_nhân/N đồng_loạt/N bị/V nôn_mửa/V đi_ngoài/N
+Được/V biết/V nhà/N máy_may/N xuất_khẩu/V Hitexvinam/Np đóng/V tại/E cụm/N công_nghiệp/N Nghĩa_Mỹ/Np xã/N Nghĩa_Mỹ/Np TX/Np Thái_Hoà/Np do/E doanh_nghiệp/N Hàn_Quốc/Np đầu_tư/V
+Nhà_máy/N may/N này/P được/V xây_dựng/V trên/E diện_tích/N 45/M hecta/N
+với/E quy_mô/N khoảng/N 3000/M lao_động/N bắt_đầu/V đi/V vào/E hoạt/N động_từ/N đầu/N năm/N 2017/M

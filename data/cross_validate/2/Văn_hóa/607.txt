@@ -1,0 +1,16 @@
+Tùng_Dương/Np đóng/V nhạc_kịch/N cùng/A Tấn_Minh/Np
+Vở/N kịch/N lấy/V bối_cảnh/N con/Nc thuyền/N trên/E một/M dòng_sông/N đỏ/A dài/A 145/M phút/Nu gồm/V ba/M màn/N sáu/M cảnh/N  /M NSƯT/Np
+Thu_Huyền/Np đóng/V vai/N tổng/N quản/N /A hề/T dẫn/V chuyện/N /A Tấn_Minh/Np vào_vai/V nhà_vua/N còn/R Tùng_Dương/Np đóng/V hoàng_tử/N út/A  /EOS
+Trong/E lúc/N trời/N quang/V mây/N tạnh/V mọi/L người/N bàn/V về/E việc/N chống/V bão/N
+Vua/N hoàng_hậu/N các/L phi_tần/N thái_tử/N hoàng_tử/N cùng/A băn_khoăn/A về/E những/L câu_hỏi/N đậm/A tính/V triết_lý/N Có/V phải/V dòng_sông/N bao_giờ/P cũng/R bình_yên/A
+Có/V phải/V trời/N bao_giờ/P cũng/R mãi/R xanh/A
+Có/V phải/V người/N bao_giờ/P cũng/R mãi/R vui/A
+Trong/E màn/N một/M nhà_vua/N Tấn_Minh/Np sẽ/R thể_hiện/V ca_khúc/N Dòng_sông/N sắc/N đỏ/A của/E nhạc_sĩ/N Nguyễn_Cường/Np
+Hoàng_hậu/N /M Minh_Thu/Np /M hai/M phi_tần/N /V Thanh_Thanh_Hiền/Np Khánh_Linh/Np /V thái_tử/V /N Đông_Hùng/Np /V hoàng_tử/V /N Tùng_Dương/Np /M thể_hiện/V các/L ca_khúc/N Mắt/N tằm/A Con_lắc/N /M Trọng_Đài/Np /M Bay/V đi/V Cỏ_gà/Np /M Lưu_Hà_An/Np /M Bến/Np có/V còn/R sông/N /Np Nguyễn_Cường/Np /M
+Trong/E màn/N ba/M hoàng_tử/N út/A Tùng_Dương/Np sẽ/R độc_diễn/V ba/M ca_khúc/N Vó/Np ngựa_trời/V Nam/Np Vượt/V sóng/N trùng_khơi/A và/CC Về/V dòng_sông/N ấy/P
+Ngoài/N ca_hát/V Tùng_Dương/Np sẽ/R thể_hiện/V khả_năng/N múa/V và/CC diễn/V kịch/N
+Tác_giả/N kịch_bản/N tổng/N đạo_diễn/V Hoàng_Hà_Tùng/Np cho_biết/V Chuyện/N của/E dòng_sông/N đỏ/N thuộc/V thể_loại/N operette/N dòng/N kịch_hát/N pha_trộn/V có/V người/N dẫn/V chuyện/N
+Tác_phẩm/N hòa_quyện/V giữa/N chèo/V nhạc/N Pop/Np múa/V đương_đại/A kịch_nói/A
+Chi_phí/N dàn_dựng/V Chuyện/N của/E dòng_sông/N đỏ/A lên/V đến/E bốn/M tỷ/N đồng/N
+Đạo_diễn/V múa/V dàn_dựng/V là/V NSND/Np Nguyễn_Công_Nhạc/Np
+Tác_phẩm/N sẽ/R được/V biểu_diễn/V tại/E Cung_Văn/Np hóa/V Hữu_nghị/A Việt_Xô/Np Hà_Nội/Np vào/E ngày/N 22/M và/CC 23/7/M

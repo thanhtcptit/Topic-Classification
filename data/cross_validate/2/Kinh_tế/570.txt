@@ -1,0 +1,14 @@
+Bán/V vốn/N tại/E công_ty/N chuyên/A cung_cấp/V bao_bì/N cho/E Lọc/V dầu/N Dung_Quất/Np
+Công_ty/N TNHH_MTV/Np Lọc/Np hóa_dầu/V Bình_Sơn/Np /V BSR/Np /M vừa/R công_bố/V sẽ/R bán_đấu_giá/V phần/N vốn/N Nhà_nước/N tại/E Công_ty/N Nhà/N và/CC Thương_mại/N Dầu_khí/N /M PVBuilding/Np /M
+Khối_lượng/N đấu_giá/V ra/R công_chúng/N của/E BSR/Np là/V gần/A 8/M triệu/N cổ_phần/N /M tương_đương/V 45,53%/M vốn_điều_lệ/N /V
+Giá/N khởi_điểm/V là/V 12 0/M đồng/Nu
+BSR/Np hiện/V nắm/N giữ/V 96,53%/M vốn_điều_lệ/N của/E Công_ty/N Nhà/N và/CC Thương_mại/N Dầu_khí/N
+BSR/Np dự_kiến/V giảm/V số/N cổ_phần/N nắm/V giữ/V tại/E đây/P xuống/V 51%/M nhằm/E thực_hiện/V phương_án/N tái/Z cơ_cấu/N công_ty/N
+Công_ty/N có/V vốn_điều_lệ/N 175/M tỷ/N đồng/N chủ_yếu/A đầu_tư/V 3/M lĩnh_vực/N chính/T là/V sản_xuất/V và/CC kinh_doanh/V các/L sản_phẩm/N bao_bì/N thương_mại/N /V kinh_doanh/V hạt/N nhựa/N PP/Np và/CC các/L loại/Nc hạt/N nhựa/N khác/A /V dịch_vụ/N hậu_cần/N /V dịch_vụ/N quản_lý/V nhà_ở/N nhà_hàng/N lưu_trú/V /N
+Công_ty/N đang/R giữ/V thị_phần/N lớn/A về/E cung_cấp/V các/L sản_phẩm/N bao/N xi_măng/N bao/N đựng/V nông_sản/N và/CC hiện/N cung_cấp/V 100%/M sản_phẩm/N bao/N PE/Np 3/M lớp/N của/E Nhà_máy/N lọc/V dầu/N Dung_Quất/Np tương_lai/N sẽ/R đầu_tư/V nâng/V công_suất/N để/E cung_cấp/V cho/E Nhà_máy/N lọc/V dầu/N Nghi_Sơn/Np
+Công_ty/N còn/V phân_phối/V sản_phẩm/N hạt/N nhựa/N PP/Np của/E Nhà_máy/N lọc/V dầu/N Dung_Quất/Np với/E sản_lượng/N 12 0/M 14 0/M tấn/Nu một/M năm/N
+Dự_kiến/V khi/N Nhà_máy/N Lọc/V dầu/N Dung_Quất/Np mở_rộng/V và/CC nâng/V công_suất/N từ/E 6,5/M triệu/M tấn/Nu lên/V 10/M triệu/M tấn/Nu một/M năm/N là/V cơ_hội/N cho/E công_ty/N mở_rộng/V quy_mô/N tăng/V doanh_thu/N và/CC lợi_nhuận/N
+Công_ty/N có/V triển_vọng/N sản_xuất/V kinh_doanh/V ổn_định/V do/E sản_phẩm/N hạt/Nc nhựa/N do/E Nhà_máy/N lọc/V dầu/N Dung_Quất/Np chiếm/V hơn/R 80%/M tổng/N doanh_thu/N của/E công_ty/N
+Hiện_tại/N mỗi/M năm/N ngành/N nhựa/N cần/V 3,5/M triệu/M tấn/Nu các/L loại/Nc nguyên_liệu/N trong/E khi/N khả_năng/N đáp_ứng/V trong/E nước/N chỉ/R đáp_ứng/V gần/A 900/M nghìn/N tấn/N
+Lợi_nhuận/N sau/E thuế/N của/E công_ty/N năm/N 2015/M là/V 10,8/M tỷ/N đồng/N tăng/N trung_bình/A 30%/M mỗi/M năm/N
+Sau/E khi/N bán/V vốn/N thành_công/V Công_ty/N Nhà/N và/CC Thương_mại/N Dầu_khí/N sẽ/R là/V công_ty/N đại_chúng/A và/CC niêm_yết/V trên/E thị_trường_chứng_khoán/N Việt_Nam/Np Ông/Nc Trần_Ngọc_Nguyên/Np Tổng_giám_đốc/N Công_ty/N TNHH_MTV/Np Lọc/V hóa_dầu/N Bình_Sơn/Np cho_biết/V

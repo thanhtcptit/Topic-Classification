@@ -1,0 +1,14 @@
+Apple_Mac/Np Book/Np 12/M inch/N 2016/M nâng_cấp/N CPU/Np thêm/V màu/N hồng/N
+MacBook/N 12/M inch/N 2016/M gồm/N hai/M tuỳ/N chọn/V cấu_hình/N tiêu_chuẩn/N
+Tuỳ/Np chọn/V đầu/N giá/N tham_khảo/V 1299/M USD/Nu tương_đương/N tầm/N 29/M triệu/N đồng/N gồm/V chip/N xử_lí/N hai/M nhân/N dualcore/N Intel_Core/Np M3/Np Skylake/Np 11GHz/Np 64/M bit/N bộ_nhớ/N đệm/N L3/Np 4MB/M đĩa/N flash/N lưu_trữ/V PCIe/N 256GB/M
+Phiên_bản/N thứ_hai/N giá/N tham_khảo/V 1599/M USD/Nu tương_đương/N 36/M triệu/N đồng/N gồm/V chip/N hai/M nhân/N Intel_Core/Np M5/Np Skylake/Np 12GHz/Np 64/M bit/N bộ_nhớ/N đệm/N L3/Np 4MB/M dung_lượng/N lưu_trữ/V flash/N PCIe/N 512GB/M
+Cả/P hai/M phiên_bản/N cấu_hình/N đều/R có/V bộ_nhớ/N RAM/Np 8GB/M LPDDR/Np 1866MHz/M chip/N xử_lí/N đồ_hoạ/N Intel/Np HD/Np Graphics/Np 515/M hỗ_trợ/N độ_phân_giải/N Retina_Display/Np 2304/M x/N 1440/M pixel/N
+Người_dùng/N có_thể/R nâng_cấp/V chip/V xử_lí/N lên/V phiên_bản/N cao/A nhất/A Intel_Core/Np M7/Np với/V 150/M USD/Nu
+Tuy_nhiên/C hiện/N chưa/R có/V lựa_chọn/N nâng_cấp/V dung_lượng/N lưu_trữ/V điều/N này/P có_thể/A gây/V bất_tiện/A khi/N thiếu_hụt/N lưu_trữ/V phải/V nhờ_cậy/V đến/R lưu_trữ/N đám/N mây/N hoặc/N ổ_cứng/N gắn/V ngoài/N
+Nhờ/E những/L cải_tiến/N hiệu_năng/N tiết_kiệm/N nguồn/N điện/N tiêu_thụ/N của/E chip/N Core/Np M/Np thế_hệ/N Skylake/Np máy/N MacBook/V 12/M inch/N mới/R gia_tăng/V thời_lượng/N pin/N sử_dụng/V lên/R 10/M tiếng/N lướt/V web/N với/E mạng/N WiFi/N tăng/V một/M tiếng/N sử_dụng/V so/V với/N trước/N
+Như/A phiên_bản/N đầu_tiên/A ra_mắt/V năm/N 2015/M MacBook/N 12/M inch/N 2016/M chỉ/R có/V một/M cổng/N USBC/Np có/V hỗ_trợ/V tương_thích/N với/E USB/Np 31/M Gen/Np 1/M
+Truyền_tải/N dữ_liệu/N phát/V hình_ảnh/N trên/E màn_hình/N lớn/A
+chỉ/R với/E một/M cổng/N
+Ngoài_ra/C Apple/Np bổ_sung/V màu/N hồng/N vàng/N Rose/Np gold/A như/C iPhone/N 6S/N iPad/N Pro/Np cho/V MacBook/V 12/M inch/N
+Cân/N nặng/N 092kg/Np
+Bên_cạnh/N MacBook/V 12/M inch/N Apple/Np giới_thiệu/V phiên_bản/N MacBook/V Air/Np 13/M inch/N gia_tăng/N bộ_nhớ/N RAM/Np từ/E 4GB/M lên/N 8GB/M

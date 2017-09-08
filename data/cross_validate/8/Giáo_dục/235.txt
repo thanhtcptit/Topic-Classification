@@ -1,0 +1,21 @@
+​/N Đề/Np thi/V học_kì/N toán/N lớp/N 9/M bị/N sai/V câu/N hỏi/V
+Trong/E kì/N thi/V học_kì/N 2/M môn/N Toán/Np do/E Sở/N GDĐT/N Quảng_Nam/Np ra/V đề/N bị/V sai_sót/N khiến/V học_sinh/N không/R giải/V được/R cán_bộ/N coi/V thi/V phải/V yêu_cầu/V học_sinh/N chỉnh_sửa/N và/CC bù/V thêm/V thời_gian/N làm/V bài/N
+Chiều/N 175/M trao_đổi/N với/E Tuổi_Trẻ/Np ông/N Hà_Thanh_Quốc/Np giám_đốc/N Sở/N GDĐT/Np Quảng_Nam/Np cho/V biết/V vừa/R yêu_cầu/V các/L cán_bộ/N ra/V đề/N thi/V môn/N Toán_học/N kì/N 2/M vào/E ngày/N 165/M để/N xảy/V ra/R sai_sót/N làm/V giải_trình/V kiểm_điểm/N
+Trước/E đó/P sáng/N 165/M tại/N kì/N thi/V kiểm_tra/V học_kì/N 2/M năm_học/N 20162017/M trong/E đề/N thi/V môn/N toán/N lớp/N 9/M do/N sở/N ra/R đề/V nhiều/A học_sinh/N và/CC giáo_viên/N phát_hiện/V có/V một/M câu/N hỏi/V trong/E đề/N thi/V không/R đúng/A
+Theo/E đó/P trong/E câu/N 4/M 40/M điểm/N của/E đề/N thi/N có/V nội_dung/N Cho/V tam_giác/N ABC/Np vuông/N tại/N A/Np
+Đường_tròn/N O/Np đường_kính/N AB/Np cắt/V BC/Np tại/V M/Np
+Phần/N a/N Chứng_minh/V AM/Np vuông_góc/V với/E BC/Np và/CC AMBC/Np ABAC/Np
+Phần/N b/N Gọi/V I/N là/V trung_điểm/N của/N BC/Np
+Đường_thẳng/N BI/Np cắt/V đường_tròn/N O/Np tại/E điểm/N thứ_hai/N N/Np
+Chứng_minh/N MNIC/Np là/V tứ_giác/N nội_tiếp/N
+Phần/N c/N chứng_minh/V IC2/Np INIB/Np
+Lập_tức/N nhiều/A học_sinh/N phát_hiện/V phần/N b/N có/V sai_sót/N bởi/N gọi/V I/N là/V trung_điểm/N của/E BC/Np thì/C sẽ/R không/R giải/V được/R đáp_án/V
+Việc/N này/P đã/R khiến/V nhiều/A học_sinh/N lúng_túng/A
+Sau/E đó/P Sở/N GDĐT/Np Quảng_Nam/Np đã/R yêu_cầu/V các/L cán_bộ/N coi/V thi/V hướng_dẫn/V học_sinh/N sửa/V BC/Np thành/V AC/Np và/CC bù/V thêm/V thời_gian/N 5/M phút/Nu cho/V học_sinh/N làm/V bài/N
+Ông/Nc Quốc/Np cho_hay/V sở/N đã/R nắm/V được/R sự_việc/N trên/N và/CC xác_nhận/V có/V việc/N sai_sót/N trong/E đề/N thi/V
+Theo/E ông/N khi/N khui/N đề/N phát_hiện/V ra/R sai_sót/N trên/N Sở/N GDĐT/Np đã/R yêu_cầu/V cán_bộ/N gọi/V điện/V cho/E các/L Phòng/N GDĐT/M trong/E toàn/N tỉnh/N điều_chỉnh/V lại/R câu/N hỏi/V
+Ông/N cho/V rằng/C đây/P là/V sai_sót/N về/V mặt/N nghề_nghiệp/N nhầm_lẫn/V chứ/N không/R hoàn_toàn/A là/V ra/N đề/V sai/A
+Việc/N khui/V đề/V ra/R phát_hiện/V sai/A thì_có/N bộ_phận/N trực/V đề/V thi/V sẽ/R chỉ_đạo/V điều_chỉnh/V ngay/R tại_chỗ/N sở/N làm/V đúng/A theo/E quy_định/N của/E Bộ/N GDĐT/N
+Ông/N cũng/R cho/V rằng/C việc/N này/P không/R làm/V ảnh_hưởng/V đến/R kết_quả/N bài/N kiểm_tra/V học_kì/N
+Các/L giáo_viên/N ra/V đề/V đều/R là/V giáo_viên/N giỏi/A của/E tỉnh/N chắc/A họ/P nhầm_lẫn/V thôi/T
+Trong/E ngày/N 185/M sở/N sẽ/R mời/V hai/M giáo_viên/N ra/V đề/N thi/V này/N giải_trình/V vụ_việc/N và/CC làm/V kiểm_điểm/V ông/Nc Quốc/Np nói/V

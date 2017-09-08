@@ -1,0 +1,8 @@
+20/M tấn/N sách/N cũ/A bày/V bán/V tại/E Hà_Nội/Np
+Sự_kiện/N do/E Alpha_Books/Np kết_hợp/V Trung_tâm/N Bảo_tồn/V di_sản/N Thăng_Long/Np Hà_Nội/Np tổ_chức/V
+Đại_hội/N có/V 20/M gian_hàng/N với/E sự/Nc tham_gia/V của/E gần/A 20/M đơn_vị/N cá_nhân/N có_tiếng/A trong/E lĩnh_vực/N kinh_doanh/V và/CC trao_đổi/V sách/N cũ/A như/C Sách/N cũ/A Hà_Thành/Np Sách_Vì/Np dân/N Sách/N truyện/N vỉa_hè/N Sách/N cũ/A Điền/Np Sách/N cũ/A Chiến/Np …/V Nhiều/A đầu_sách/N hay/C quý/N với/E thể_loại/N đa_dạng/A văn_học/N ngoại_văn/N lịch_sử/N địa_lý/N y_học/N kinh_tế/N giáo_dục/N …/A được/V bày/V bán/V
+Độc_giả/N có/V cơ_hội/N mua/V sách/N đồng/N giá/N 5 0/M đồng/Nu 10 0/M đồng/Nu
+Ngoài_ra/C ban/N tổ_chức/V dành/V tặng/V 1 0/M bức/Nc họa_đồ/N Hoàng_Thành_Thăng_Long/Np thời/N Lê/Np cho/E khách/N tới/V đại_hội/N
+Đại_hội/N hướng/N tới/E kỷ_niệm/N 70/M năm/N ngày/N toàn_quốc/N kháng_chiến/V chống/V thực_dân/N Pháp/Np /M 19/12/1946/M 19/12/2016/M /N nên/C ban/N tổ_chức/V dành/V riêng/A không_gian/N trưng_bày/V các/L cuốn/Nc sách/N viết/V về/E lịch_sử/N văn_hóa/N ôn/V lại/R truyền_thống/N hào_hùng/A của/E quân/N và/CC dân/N thủ_đô/N
+Trong/E buổi/N hội_thảo/N Bảo_tồn/V di_sản/N văn_hóa/N trong/E lòng/N Hà_Nội/Np diễn/V ra_vào/V sáng/N 26/11/M nghệ_sĩ/N Nguyễn_Thế_Sơn/Np sẽ/R chia_sẻ/V góc/N nhìn/V mới/R về/E những/L di_sản/N kiến_trúc/N lưu_giữ/V lịch_sử/N Hà_Nội/Np
+Đại_hội/N sách/N cũ/A được/R tổ_chức/V song_song/A triển_lãm/V Sống/V mãi/R với/E Thủ_đô/N của/E Sở/N Văn/Np hóa/V Thể_thao/N Hà_Nội/Np

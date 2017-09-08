@@ -1,0 +1,17 @@
+Biến_động/V nhân_sự/N cấp/N cao/A tại/E Eximbank/Np và/CC Saigonbank/Np
+Mùa/N đại_hội/N cổ_đông/N năm/N nay/P chứng_kiến/V nhiều/A sự/N biến_động/V tại/E các/L nhân_sự/N cấp/N cao/A của/E không/R ít/A ngân_hàng/N từ/E Eximbank/Np đến/E Saigonbank/Np và/CC các/L ngân_hàng/N khác/A
+Ngân_hàng/N Xuất/Np nhập_khẩu/V Việt_Nam/Np Eximbank/Np vừa/R công_bố/V thông_tin/N về/V việc/N bổ_nhiệm/V hai/M Phó/Z chủ_tịch/N hội_đồng_quản_trị/N
+Cụ_thể/N hai/M thành_viên/N Hội_đồng/N quản_trị/V là/V ông/N Đặng_Anh_Mai/Np và/CC ông/Nc Yasuhiro_Saitoh/Np vừa/R được/V bầu/V giữ/V chức_danh/N Phó/N chủ_tịch/N Eximbank/Np nhiệm_kì/V VI/Np 20152020/M
+Ông/Nc Đặng_Anh_Mai/Np tham_gia/V hội_đồng_quản_trị/N Ngân_hàng/N Eximbank/Np từ/E năm/N 2013/M còn/N ông/N Yasuhiro_Saitoh/Np tham_gia/V vào/E Ngân_hàng/N Eximbank/Np năm/N 2015/M
+Trước/E đó/P tại/E đại_hội_đồng/N cổ_đông/N thường_niên/N Eximbank/Np diễn/V ra/R cuối/N tháng/N 4/M cổ_đông/N chiến_lược/N Sumitomo_Mitsui_Banking/Np đã/R cử/V ông/N Yutaka_Moriwaki/Np thay_thế/V ông/N Naoki_Nishizawa/Np làm/V thành_viên/N hội_đồng_quản_trị/N Eximbank/Np nhiệm_kì/V VI/Np 20152020/M
+Ngân_hàng/N Sài_Gòn_Công_thương/X Saigonbank/Np cũng/R vừa/R có/V thông_báo/N thay_đổi/V nhân_sự/N cấp/N cao/A
+Theo/E đó/P ông/N Vũ_Quang_Lãm/Np sẽ/R thay_thế/V bà/N Trần_Thị_Việt_Ánh/Np đảm_nhận/V chức_vụ/N Tổng/N giám_đốc/N Saigonbank/Np từ/E ngày/N 126/M do/N bà/N Ánh/Np nghỉ/V hưu/V
+Ông/N Lãm/Np là/V cán_bộ/N Công_ty/N TNHH/Np MTV/Np Xây_dựng/V và/CC Kinh_doanh/N nhà/N Phú_Nhuận/Np cổ_đông/N nắm/V 664/M cổ_phần/N Saigonbank/Np được/V đề_cử/V vào/R HĐQT/N ngân_hàng/N nhiệm_kì/N 20132017/M vào/E ngày/N 86/M vừa_qua/N
+Nhân_sự/N của/E ngân_hàng/N Saigonbank/Np cũng/R có/V sự/N thay_đổi/V lớn/A trong/E đại_hội/N cổ_đông/N diễn/V ra/R vào/V tuần/N trước/N
+Theo/E đó/P ông/N Trần_Quốc_Hải/Np nguyên/N Chủ_tịch/N HĐQT/N và/CC ông/N Nguyễn_Ngọc_Điểu/Np nguyên/N Thành_viên/N HĐQT/Np đã/R rút/V khỏi/V HĐQT/N
+Ba/M nhân_sự/N mới/R được/V bầu/V bổ_sung/V vào/E HĐQT/N ngân_hàng/N Saigonbank/Np gồm/V ông/N Phạm_Văn_Thông/Np Phó_Chánh_Văn_phòng/X Thành_uỷ/N TPHCM/Np ông/N Vũ_Quang_Lãm/Np cán_bộ/N Công_ty/N TNHH/Np MTV/Np Xây_dựng/V và/CC Kinh_doanh/N nhà/N Phú_Nhuận/Np và/CC ông/N Nguyễn_Minh_Trí/Np Phó_Tổng_Giám_đốc/X Saigonbank/Np
+NAPAS/Np có/V tổng_giám_đốc/N mới/A
+Hội_đồng/N Quản_trị/V Công_ty/N Cổ_phần/N Thanh_toán/V Quốc_gia/N VN/Np NAPAS/Np vừa/R bầu/V bà/N Nguyễn_Tú_Anh/Np Tổng/N giám_đốc/N NAPAS/Np giữ/V chức_vụ/N Chủ_tịch/N HĐQT/N nhiệm_kì/N 2015/M –/N 2020/M
+Trước/E đó/P ngày/N 315/M Thống_đốc/N Ngân_hàng/N Nhà_nước/N đã/R cử/V bà/N Nguyễn_Tú_Anh/Np làm/V người/N đại_diện/V 100/M vốn/N của/E Nhà_nước/N tại/E Công_ty/N Cổ_phần/N Thanh_toán/N Quốc_gia/N Việt_Nam/Np thay_thế/V ông/N Phạm_Tiến_Dũng/Np nguyên/N Chủ_tịch/N Hội_đồng/N quản_trị/V NAPAS/Np nhận/V nhiệm_vụ/N mới/A là/V Vụ_trưởng/N Vụ_Thanh_toán/N Ngân_hàng/N Nhà_nước/N từ/E ngày/N 16/M
+Bà/N Nguyễn/Np Tú_Anh/Np sinh/V năm/N 1965/M
+Trước/E khi/N trở_thành/V Tổng/N giám_đốc/N NAPAS/Np bà/N là/V Giám_đốc/N Trung_tâm/N thẻ/V Vietcombank/Np Tổng_Giám_đốc/N Công_ty/N cổ_phần/N Dịch_vụ/N Thẻ_Smartlink/Np

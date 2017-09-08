@@ -1,0 +1,5 @@
+Sự/N sống/V nữ/N bệnh_nhân/N Hòa_Bình/Np tai_biến/V chạy/V thận/N phụ_thuộc/V vào/V máy_móc/N
+Sáng/N 29/5/M 18/M người/N đang/R chạy/V thận/N tại/E Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np bất_ngờ/A có/V dấu_hiệu/N bất_thường/A
+7/M người/N lần_lượt/R tử_vong/V một/M người/N nguy_kịch/A
+10/M bệnh_nhân/N còn/V lại/R sức_khỏe/N ổn_định/A và/CC hiện/N được/R điều_trị/V ở/E Bệnh_viện/N Bạch_Mai/Np
+Nguyên_nhân/N tai_biến/A đang/R được/V công_an/N điều_tra/V

@@ -1,0 +1,10 @@
+Thêm/V 28/M công_nhân/N công_ty/N may/N nhập_viện/N nghi/V ngộ_độc/V khí/N
+Trong/E lúc/N 5/M công_nhân/N vẫn/R đang/R điều_trị/V nghi/V bị/V ngộ_độc/V khí/N khi/N làm_việc/V tại/E công_ty/N may/N hôm_nay/N thêm/V 28/M công_nhân/N nhập_viện/V với/E triệu_chứng/N tương_tự/A
+Theo/E thông_tin/N từ/E Bệnh_viện/N đa_khoa/N khu_vực/N Hóc_Môn/Np TPHCM/Np từ/E 8g/M đến/E 10g/M sáng/N 175/M phòng/N cấp_cứu/V liên_tục/A tiếp_nhận/V 28/M công_nhân/N Công_ty/N TNHH/Np quốc_tế/A Smart_Elegant/Np xã/N Xuân_Thới_Sơn/Np huyện/N Hóc_Môn/Np
+Các/L công_nhân/N nhập_viện/N đều/R có/V triệu_chứng/N đau_đầu/N chóng_mặt/V hoa/N mắt/N tê/A tay_chân/N buồn_nôn/N
+Trong/E đó/P ba/M người/N có/V biểu_hiện/N co_giật/N nhẹ/A được/V chuyển/V qua/R khoa/N Hồi_sức/N tích_cực/A
+25/M trường_hợp/N còn/V lại/R chuyển/V qua/R khoa/N Nội/Np tổng_hợp/N để/E tiếp_tục/V theo_dõi/V
+Bác/N sĩ/N bệnh_viện/N loại_trừ/V nguyên_nhân/N dẫn/V đến/E các/L triệu_chứng/N trên/N từ/E thục/N phẩm/N nghi_vấn/V các/L công_nhân/N bị/V ngộ_độc/V khí/N
+Theo/E các/L công_nhân/N buổi/N sáng/N đến/V công_ty/N làm_việc/V thì/C ngửi/V thấy/V mùi/N lạ/A sau/N đó/P bị/V các/L triệu_chứng/N nêu/V trên/N
+Trước/E đó/P ngày/N 155/M Bệnh_viện/N đa_khoa/N khu_vực/N Hóc_Môn/Np đã/R tiếp_nhận/V 34/M công_nhân/N tại/E công_ty/N trên/N với/E các/L triệu_chứng/N tương_tự/A
+Nguyên_nhân/N vụ_việc/N đang/R được/V lực_lượng/N chức_năng/N làm/V rõ/A

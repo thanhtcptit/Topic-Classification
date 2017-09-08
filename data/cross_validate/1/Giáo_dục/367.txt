@@ -1,0 +1,30 @@
+Thứ_trưởng/N Bùi_Văn_Ga/Np Điểm_sàn/N 15,5/M thí_sinh/V nhiều/A cơ_hội/N vào/V đại_học/N 
+Thứ_trưởng/N Bộ/N GD&/Np ĐT/Np Bùi_Văn_Ga_Giải/Np thích/V vì_sao/X điểm_sàn/A năm/N nay/P tăng/V 0,5/M điểm/N so/V với/E năm/N trước/A thứ_trưởng/N Bộ/N GD&/Np ĐT/Np Bùi_Văn_Ga/Np cho_biết/V các/L tiêu_chí/N để/E xác_định/V chất_lượng/N đầu_vào/N dựa/V trên/E 3/M tiêu_chí/N Thứ/N nhất/A để/E làm_sao/X chất_lượng/N đầu_vào/N để/E các/L trường/N có/V lượng/N thí_sinh/N tốt/A nhất/R 
+Thứ_hai/N đảm_bảo/V đủ/A nguồn/N tuyển/V cho/E các/L trường/N với/E chỉ_tiêu/N đã/R công_bố/V 
+Thứ_ba/N sự/Nc dịch_chuyển/V giữa/E các/L vùng_miền/N 
+Nhiều/A năm/N nay/P chúng_ta/P có/V hệ_số/N thí_sinh/N dư/V rất/R lớn/A nhưng/C các/L trường/N vẫn/R tuyển/V không/R đủ/A chỉ_tiêu/N vì/E nhiều/A em/N điểm_cao/N ở/E địa_phương/N dồn/V về/E các/L trường/N đại_học/N lớn/A ở/E các/L thành_phố/N Hà_Nội/Np Đà_Nẵng/Np Thành_phố/N Hồ_Chí_Minh/Np …/V còn/R các/L em/N điểm/N thấp/A ở/E thành_phố/N lớn/A thì/C lại/R không/R di_chuyển/V về/E địa_phương/N 
+Cho_nên/C các/L trường/N ở/E điạ/N phương/N thường/R bị/V thiếu/V chỉ_tiêu/N 
+Bên_cạnh/N đó/P chất_lượng/N bài/N thi/V của/E thí_sinh/N năm/N nay/P có/V cao/A hơn/R năm/M những/L năm/N trước/A 
+Bắt_đầu_từ/N khi/N chúng_ta/P thực_hiện/V 3/M chung/A thì/C điểm_sàn/A có/V sự/N dịch_chuyển/V tăng/V dần/R là/V 13,14/M 
+14,5/M và/CC kể/V từ/E khi/N 2015/M và/CC 2016/M tăng/V lên/R 15/M điểm/N năm/N nay/P thì/C tăng/V lên/R 15,5/M điểm/N 
+Tuy/C 0.5/M là/V một/M con_số/N dịch_chuyển/V lên/R rất/R nhỏ/A nhưng/C đó/P là/V sự/Nc cố_gắng/V của/E tập_thể/N học_sinh/N và/CC nhà_trường/N trong/E việc/N dạy/V và/CC học/V 
+Do_đó/C điểm/N đầu_vào/V được/R nâng/V lên/R cho/E phù_hợp/V với/E năng_lực/N thí_sinh/N 
+Vì_vậy/C Bộ/N đã/R cân_nhắc/V rất/R kĩ/A để/E đưa/V ra/R mức/N điểm_sàn/N năm/N nay/P là/V 15,5/M điểm/N thứ_trưởng/N Ga/Np khẳng_định/V 
+Thứ_trưởng/N Bộ/N GD&/Np ĐT/Np Bùi_Văn_Ga/Np phân_tích/V về/E mức/N điểm_sàn/N 15,5/M và/CC phổ/V điểm/N vào/V đại_học/N (/N Clip/Np Hồng_Hạnh/Np Tất_cả/P các/L trường/N sẽ/R tuyển/V được/R 83%/M chỉ_tiêu/N trong/E đợt/N 1/M Thứ_trưởng/N Bộ/N GD&/Np ĐT/Np Bùi_Văn_Ga/Np cho_biết/V khi/N phân_tích/V ngưỡng/N điểm/N chất_lượng/N đầu_vào/N thì/C Hội_đồng/N tuyển_sinh/V đã/R tính_toán/V từng/R mức/N điểm/N như/C có/V bao_nhiêu/P thí_sinh/N đạt/V bao_nhiêu/P thí_sinh/N không/R đạt/V ở/E tổng_thể/N cả/P nước/N và/CC từng/R vùng_miền/N là/V bao_nhiêu/P về/E sự/Nc dịch_chuyển/V của/E thí_sinh/N 
+Đồng_thời/R Bộ/N GD&/Np ĐT/Np cũng/R chạy/V thử/V phần_mềm/N xét/V tuyển/V thí_sinh/N đăng_kí/N và/CC nguyện_vọng/N xét/V tuyển/V cho_nên/C đã/R xác_định/V được/R cơ_bản/A lượng/N thí_sinh/N trúng_tuyển/V vào/E các/L trường/N đại_học/N khác_nhau/A 
+Ví_dụ/V khi/N chạy/V phần_mềm/N sẽ/R xác_định/V được/R những/L trường/N nào/P sẽ/R tuyển/V đủ/A hoặc/CC tuyển/V được/V bao_nhiêu/P %/M thí_sinh/N ngay/T đợt/N 1/M này/P 
+Chúng_ta/P hoàn_toàn/A có_thể/R yên_tâm/V với/E điểm_sàn/N năm/N nay/P thứ_trưởng/N Ga/Np khẳng_định/V 
+Thứ_trưởng/N Ga/Np phân_tích/V khi/N chọn/V mức/N điểm_sàn/N 15,5/M điểm/N thì/C trong/E đợt/N xét/V tuyển/V đầu_tiên/A có/V khoảng/N 90/M trường/N đạt/V chỉ_tiêu/N 100%/M Có/V 66/M trường/N đạt/V chỉ_tiêu/N từ/E 80/M đến/E 99%/M Có/V 83/M trường/N đạt/V chỉ_tiêu/N từ/E 40/M đến/E 79%/M 
+Tất_cả/P các/L trường/N trong/E cả/P nước/N tuyển/V được/R 83%/M tổng/N chỉ_tiêu/N trong/E đợt/N 1/M 
+Thứ_trưởng/N Ga/Np cho/V rằng/C con_số/N 83%/M thí_sinh/N được/V tuyển/V năm/N nay/P cũng/R tương_thích/V với/E các/L năm/N trước/A nhưng/C đây/P chỉ/R là/V số_liệu/N chạy/V thử/V đối_với/E các/L thí_sinh/N đăng_kí/V trước/E khi/N thi/V sau/E khi/N thi/V các/L em/N còn/R điều_chỉnh/V nguyện_vọng/N nhưng/C chắc/A cũng/R không/R thay_đổi/V gì/P nhiều/A 
+Thí_sinh/N không/R nên/V thay_đổi/V nguyện_vọng/N Chia_sẻ/V với/E các/L thí_sinh/N theo/V thứ_trưởng/N Ga/Np các/L em/N đã/R biết/V được/R số/N điểm/N ngưỡng/N điểm/N đầu_vào/V cho_nên/C những/L trường/N ở/E top/N giữa/N cũng/R sẽ/R không/R thay_đổi/V và/CC tăng/V điểm_chuẩn/V lên/R so/V với/E năm/N trước/A sẽ/R giữ/V ổn_định/A 
+Những/L thí_sinh/N trước_đây/N đã/R đăng_kí/V trường/N phù_hợp/V với/E khả_năng/N của/E mình/P thì/C không/R nên/V thay_đổi/V nguyện_vọng/N 
+Đối_với/E những/L thí_sinh/N có/V số/N điểm/N thấp/A hơn/A hoặc/CC cao/A hơn/R nhiều/A so/V với/E điểm/N dự_kiến/V ban_đầu/N thì/C nên/C điều_chỉnh/V lại/R 
+Các/L em/N nên/C cân_nhắc/V nghiên_cứu/V kĩ/A trước/E khi/N điều_chỉnh/V không/R phải/V tất_cả/P ai/P cũng/R thay_đổi/V nguyện_vọng/N 
+Thứ_trưởng/N Ga/Np cho_hay/V cơ_hội/N vào/V đại_học/N của/E thí_sinh/N năm/N nay/P rất/R dồi_dào/A nhất_là/X khi/N năm/N nay/P số_lượng/N nguyện_vọng/N đăng_kí/A xét/V tuyển/V là/C không/R giới_hạn/V nên/C các/L em/N đã/R đăng_kí/V nhiều/A trường/N nhiều/A ngành/N khác_nhau/A 
+Ví_dụ/V cũng/R một/M ngành/N Quản_trị/V kinh_doanh/V các/L em/N đăng_kí/V nhiều/A trường/N khác_nhau/A ở/E các/L top/N khác_nhau/A thì/C các/L em/N có_thể/R trúng/V ở/E bất_kì/N trường/N ở/E top/N nào/P phù_hợp/V với/E mức/N điểm/N mà/C đúng/A sở_trường/N yêu_thích/V của/E các/L em/N 
+Đồng_thời/R chỉ_tiêu/N tuyển_sinh/V của/E các/L trường/N đại_học/N còn/R rất/R nhiều/A chủ_yếu/A dựa/V vào/E việc/N các/L em/N có/V muốn/V học/V hay/C không/R 
+Theo/E thứ_trưởng/N Ga/Np đối_với/E những/L trường/N đại_học/N tốp/N đầu/N số/N điểm/N trúng_tuyển/V sẽ/R nhích/V lên/R 
+Số/N thí_sinh/N đạt/V điểm_cao/N tăng/V nhưng/C phổ/V điểm/N cũng/R không/R bị/V dốc/V nhiều/A nên/C các/L trường/N không/R quá/R khó_khăn/A trong/E việc/N xác_định/V số/N điểm/N trúng_tuyển/V 
+Riêng/T đối_với/E một_số/L trường/N và/CC ngành/N có/V sức/N cạnh_tranh/V lớn/A thì/C các/L trường/N cũng/R đã/R tính/V đến/E phương_án/N xét/V tuyển/V tiêu_chí/N phụ/V 
+Hồng_Hạnh/Np Hà_Cường/Np 

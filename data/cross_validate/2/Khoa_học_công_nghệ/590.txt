@@ -1,0 +1,9 @@
+Phát_hiện/V khí/N độc_hại/A bằng/E điện_thoại/N
+Livescience/Np đưa/V tin/N các/L chuyên_gia/N máy_tính/N của/E Đại_học/N California/Np tại/E thành_phố/N San_Diego/Np Mỹ/Np chế_tạo/V những/L cảm_biến/N siêu/Z nhỏ/A có/V khả_năng/N phân_tích/V không_khí/N để/E phát_hiện/V những/L chất_độc/N hại/A
+CitiSense/Np tên/N của/E nhóm/N cảm_biến/N này/P nhỏ/A đến/E mức/N các/L hãng/N sản_xuất/V điện_thoại/N có_thể/A tích_hợp/V chúng/P vào/E điện_thoại/N thông_minh/A
+Nhóm/N cảm_biến/V CitiSense/Np có/V khả_năng/N phát_hiện/V khí/N ozone/N nitơ/V dioxide/N carbon/N monoxide/N những/L chất/N gây/V ô_nhiễm/V phổ_biến/A nhất/R mà/C phương_tiện/N giao_thông/N cơ_giới/N thải/V ra/R
+Chỉ_số/N của/E các/L loại/N khí/N được/V hiển_thị/V liên_tục/A trên/E màn_hình/N điện_thoại/N thông_minh/A
+Người/N sử_dụng/V căn_cứ/N vào/E màu_sắc/N trên/E màn_hình/N để/V biết/V chất_lượng/N không_khí/N từ/E mức/N tốt/A /A xanh/A lục/V /V tới/E nguy_hiểm/N /N tím/A /A
+Điện_thoại_di_động/N liên_tục/A gửi/V dữ_liệu/N từ/E cảm_biến/N tới/E một/M máy_tính/N để/E nó/P đánh_giá/V chất_lượng/N không_khí/N trong/E mọi/L thời_điểm/N
+Nếu/C hàng/R vạn/M điện_thoại/N cùng/A gửi/V dữ_liệu/N về/E máy_tính/N các/L nhà_khoa_học/N có_thể/A đánh_giá/V chất_lượng/N không_khí/N trong/E một/M khu_vực/N rộng_lớn/A
+Nhóm/N nghiên_cứu/V cho/V rằng/C cảm_biến/N CitySense/Np là/V vật/N hữu_ích/A đối_với/E những/L người/N mắc/V hen_suyễn/N và/CC nhiều/A bệnh/N hô_hấp/N kinh_niên/V khác/A

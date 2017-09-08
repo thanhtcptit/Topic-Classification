@@ -1,0 +1,10 @@
+iPhone/N 6s/N lỗi/N pin/N ngắt/V nguồn/N bất_ngờ/A
+Trong/E thông_tin/N giải_thích/V nguyên_nhân/N sự_cố/N Apple/Np nhấn_mạnh/V đây/P không/R phải/A là/V sự_cố/N liên_quan/V tới/E sự/N an_toàn/A của/N người_dùng/N
+Điều/N đó/P có_nghĩa/V sẽ/R không/R gây/V cháy/V nổ/V điện_thoại/N hay/C các/L hậu_quả/N nghiêm_trọng/A tương_tự/A
+Apple/N
+Thông_báo/N của/E Apple/Np viết/V Chúng_tôi/N nhận/V thấy/V một/M số_lượng/N nhỏ/A iPhone/M 6s/M được/V sản_xuất/V trong/E khoảng/N thời_gian/N từ/E tháng/N 9/M đến/E tháng/N 102015/M chứa/N thành_phần/N pin/N đã/R tiếp_xúc/V với/E môi_trường/N không_khí/N lâu/A hơn/R quy_định/N trước/E khi/N được/V đóng_gói/V
+Do/E đó/P các/L pin/N này/P phân_rã/V nhanh/A hơn/R so/V với/E pin/N bình_thường/A gây/V sự_cố/N tắt/N nguồn/N bất_ngờ/A
+Bên_cạnh/N đó/P Apple/Np cũng/R cho/V biết/V các/L điện_thoại/N iPhone/M cũng/R được/V cấu_hình/V để/E có/V khả_năng/N tắt/V nguồn/N tự_động/A trong/E điều_kiện/N nhiệt_độ/N xuống/N thấp/A ngăn_ngừa/A những/L tác_động/N xấu/V tới/R thiết_bị/N ở/E điều_kiện/N điện/N áp_thấp/N
+Nếu/C bạn/N chưa/R biết/V chiếc/Nc iPhone/N 6s/Np của/E mình/P có/V phải/A là/C loại/N được/V thay_đổi/V pin/N hay/C không/R bạn/N có_thể/A truy_cập/V vào/E trang/N này/P nhập/V số/N serial/N chiếc/N iPhone/N của/E bạn/N để/E tự/V kiểm_tra/V
+Cách/V tìm/V số/N serial/N cho/V iPhone/M như/C sau/N Settings/Np General/Np About/Np
+Nếu/C trùng/V với/E số/N serial/N cần/V đổi/V pin/N bạn/N có_thể/A đem/V iPhone/N 6s/M đến/E các/L đại_lí/N uỷ/V quyền/N tại/V đây/P

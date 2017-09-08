@@ -1,0 +1,55 @@
+Bên/N trong/N Nhà_máy/N sửa_chữa/V tên_lửa/N của/N Việt_Nam/Np
+A29/N là/V nhà_máy/N phòng_không/A duy_nhất/A ở/E phía/N Nam/Np của/E Quân_chủng/N phòng_không/N không_quân/N nhận/V nhiệm_vụ/N sửa_chữa/V tổng_hợp/N vũ_khí/N khí_tài/N phòng_không/N như/C rađa/N tên_lửa/N pháo/N các/L loại/N xe/N
+Thợ/N và/N kĩ_thuật_viên/N của/E nhà_máy/N chiếm/V 70/M là/V lực_lượng/N chủ_đạo/V tay_nghề/N vững/N trình_độ/N chuyên_môn/N sâu/A đã/R tự_lập/V không/R phải/V nhờ/V đến/E chi_viện/N của/E cấp/N trên/A nhiều/A như/N trước/N
+Khi/N mới/R thành_lập/V nhà_máy/N chuyên/A sửa_chữa/V những/L vũ_khí/N khí_tài/N đã/R lỗi_thời/V lạc_hậu/N hỏng_hóc/N nặng/A nhưng/C đến/V nay/P nhiều/A vũ_khí/N mới/A nhà_máy/N vẫn/R sửa_chữa/V được/R
+Đại_tá/N Phan_Anh_Tuấn/Np
+A29/N là/V nhà_máy/N trẻ/A nhất/A trong/E Quân_chủng/N phòng_không/N không_quân/N
+Đại_tá/N Phan_Anh_Tuấn/Np phó/N giám_đốc/N nhà_máy/N cho/V biết/V A29/M thành_lập/N năm/N 1993/M biên_chế/N ít_nhất/A chỉ/R khoảng/N 70/M so/V với/E các/L nhà_máy/N khác/A nhưng/C đảm_nhận/V nhiệm_vụ/N sửa_chữa/V cho/E các/L đơn_vị/N phòng_không/V cả/P khu_vực/N phía/N Nam/Np ở/E đất_liền/N lẫn/N biển/N đảo/N và/CC các/L đơn_vị/N khác/A trên/N địa_bàn/N Quân_khu/N 7/M và/N Quân_khu/N 9/M
+Cán_bộ/N kĩ_sư/N kĩ_thuật_viên/N của/E nhà_máy/N vừa/R có_thể/A sửa_chữa/V tại/E đơn_vị/N vừa/R có_thể/A cơ_động/V sửa_chữa/V ở/E các/L đơn_vị/N chiến_đấu/V khi/N có/V lệnh/N
+Lĩnh_vực/N khó/A
+Đại_tá/N Phan_Anh_Tuấn/Np cho/V biết/V ở/E Nga/Np người_ta/N xếp/V loại/V những/L ngành/N khoa_học_kĩ_thuật/N khó/A nhất_là/N vũ_trụ/N rồi/C đến/V tàu_ngầm/N tên_lửa/N và/CC cuối_cùng/A là/V máy_bay/N
+Nhà_máy/N A29/Np đã/R đảm_nhận/V việc/N sửa_chữa/V cho/E một/M trong/E bốn/M lĩnh_vực/N khó/A nhất/R ấy/P cùng/A với/E việc/N sửa_chữa/V nhiều/A loại/N vũ_khí/N khí_tài/N phòng_không/N như/C rađa/V các/L loại/N pháo_tự_hành/N pháo/N dẫn/V đường/N các/L loại/Nc xe/N khí_tài/V đặc_chủng/A
+Ở/E nhà_máy/N có/V nhiều/A phân_xưởng/N mỗi/L phân_xưởng/N là/V một/M lĩnh_vực/N một/M ngành/N kĩ_thuật/N công_nghệ/N đều/R có/V độ/N khó/A riêng/A
+Tính/N kỉ_luật/N của/E mỗi/N ngành/N rất/R cao/A
+Sửa_chữa/V tên_lửa/N hay/C rađa/N pháo/N
+đều/R đòi_hỏi/V chất_xám/N sự/N thông_minh/A nhanh_nhạy/A
+Càng/R nhiều/A công_nghệ/N tổng_hợp/V bên/N trong/N thì/C càng/R khó/A
+Vũ_khí/N khí_tài/N ngày_càng/N hiện_đại/A
+Để/E đáp_ứng/V được/R yêu_cầu/V nhiệm_vụ/N nhà_máy/N đã/R mua/V về/V một_số/N thiết_bị/N công_nghệ/N hiện_đại/A của/E nước_ngoài/N nhằm/V phục/V vụ_việc/N sửa_chữa/V các/L loại/N vũ_khí/N khí_tài/N mới/R đại_tá/N Phan_Anh_Tuấn/Np nói/V
+Ở/E bệnh_viện/N sửa_chữa/N tên_lửa/N pháo/N rađa/N
+cho/V Quân_chủng/N phòng_không/N không_quân/N phía/N Nam/Np này/P khi/N đến/V các/L phân_xưởng/N nếu/C không/R nhìn/V bảng/N tên/N từng/N khu_vực/N thật/N khó/A để/E nhận/V biết_đâu/N là/V nơi/N sửa_chữa/V rađa/N tên_lửa/N pháo/N bởi/E tất_cả/P khi/N đưa/V về/E nhà_máy/N đều/R được/V tháo/V rời/N để/E kiểm_tra/V tẩy_rửa/N lắp_ráp/V
+Các/L phân_xưởng/N của/E nhà_máy/N nằm/V riêng_biệt/A trong/E những/L nhà/N cao/A rộng/A
+Tại/E phân_xưởng/N rađa/N trong/E khi/N một/M nhóm/N kĩ_thuật_viên/N đang/R tập_trung/V lắp_ráp/V từng/N khối/N đơn/N khí_tài/V rađa/N thì/C một/M nhóm/N khác/A cặm_cụi/V sửa_chữa/V hệ_thống/N dây_cáp/N của/E rađa/N trang_bị/V cho/E hệ_thống/N tên_lửa/N phòng_không/V
+Thượng_uý/N Mai_Văn_Ba/Np phó/N quản_đốc/N phân_xưởng/N rađa/N cho/V biết/V Qua/E nhiều/A năm/N sử_dụng/V các/L linh_kiện/N trong/E khí_tài/N bị/V hỏng_hóc/V
+Về/E đây/P được/V kĩ_sư/N thợ_máy/N dùng/V các/L phương_tiện/N đo/V để/E kiểm_tra/V tất_cả/N linh_kiện/N trong/E khí_tài/N còn/R tốt/A hay/C không/R cái/N nào/P không/R dùng/V được/R sẽ/R thay_thế/V để/E đảm_bảo/V sức/N chiến_đấu/V của/E vũ_khí/N khí_tài/N
+Cũng/R như/A phân_xưởng/N rađa/N ở/E tất_cả/N các/L phân_xưởng/N khác/A trong/E nhà_máy/N khi/N vũ_khí/N khí_tài/N đưa/V về/E đây/P sửa_chữa/V bảo_dưỡng/N phải/V tháo_dỡ/V phân_loại/N hỏng_hóc/N tẩy_rửa/N bụi/N bẩn/N
+Sửa/V xong/V sơn/V lại/V lắp_ráp/N đo/V khô/N sửa_chữa/N cơ_khí/N hiệu_chỉnh/N đơn/N điều_chỉnh/V đưa/V về/E các/L tham_số/N chuẩn/N đưa/V lên/E xe/N tổng/N lắp/V hiệu_chỉnh/N cho/V đồng_bộ/A các/L xe/N với/V nhau/N
+Tuy_nhiên/C việc/N sửa_chữa/V nghe/V đơn_giản/A vậy/P nhưng/C rất/R khó_khăn/A
+Làm/V mới/R những/L vũ_khí/N già_nua/N
+Thiếu_tá/N chuyên_nghiệp/A Vũ_Mạnh_Cường/Np phân_xưởng/N đài/N điều_khiển/V bệ_phóng/N tên_lửa/N cho/V biết/V Khi/N khí_tài/V về/V đây/P nhiều/A loại/N già/A rã/V hết/R
+Có/V những/L vật_tư/N khôi/N khục/V được/R nhưng/C có/V những/L linh_kiện/N chi_tiết/N đã/R nát/A không_thể/R dùng/V được/R nữa/R bắt_buộc/V phải/V có/V linh_kiện/N thay_thế/V để/V sửa_chữa/V
+Nhưng/C những/L vật_tư/N này/P vô_cùng/N khan_hiếm/V
+Có/V những/L vật_tư/N không_thể/A tìm/V mua/V được/R trên/N thị_trường/N như/C rơle/V phân_cực/N
+Thế/T nên/C để/V sửa_chữa/V đảm_bảo/V cho/E khí_tài/N có_thể/R làm/V nhiệm_vụ/N sẵn_sàng/A chiến_đấu/V kĩ_sư/N kĩ_thuật_viên/N phải/V phát_huy/V tối_đa/N khả_năng/N trí_tuệ/N của/E mình/N để/E tìm/V ra/R những/L phương_án/N xử_lí/N
+Có/V những/L cái/N phải/V gia_công/V lại/R
+Kỹ_sư/N và/N đội_ngũ/N kĩ_thuật/N của/E Nhà_máy/N A29/Np đã/R có/V nhiều/A sáng_kiến/N để/E xử_lí/V những/L khó_khăn/N thiếu_hụt/N khan_hiếm/V về/R nguồn/N vật_tư/N thay_thế/V
+Nhiều/A linh_kiện/N bây_giờ/P không/R còn/V phải/V mua/V của/E nước_ngoài/N như/N trước/N
+Tên_lửa/N xe/N ăngten/V xe/N thu/V phát/V tín_hiệu/N rađa/N
+có/V những/L modul/N liên_quan/V đến/E cơ_khí/N chính_xác/A đến/E nay/P nhà_máy/N không/R còn/R phải/V gửi/V ra/E nước_ngoài/N sửa_chữa/V chi_phí/N rất/R cao/A và/CC mất/V nhiều/A thời_gian/N quy_trình/N vận_chuyển/V phức_tạp/A
+Đội_ngũ/N kĩ_sư/N kĩ_thuật_viên/N và/CC thợ/N của/E Nhà_máy/N A29/Np đã/R có/V khả_năng/N tự_lực_cánh_sinh/X tự/P làm/V
+Không_chỉ/N sửa_chữa/V tại/E nhà_máy/N A29/Np còn/V thường_xuyên/A điều/N kĩ_sư/N kĩ_thuật_viên/N và/CC thợ/N cơ_động/V đến/E các/L đơn_vị/N của/E phòng_không/N ở/E khu_vực/N phía/N Nam/Np kể_cả/N biển/N đảo/N nhà/N giàn/N DK1/Np
+để/V sửa_chữa/V
+Đại_tá/N Phan_Anh_Tuấn/Np cho/V biết/V khó_khăn/N lớn/A nhất_là/N vật_tư/N thay_thế/N vì/E hiện_nay/N Việt_Nam/Np vẫn/R còn/V phụ_thuộc/V nước_ngoài/N
+Kỹ_thuật/N công_nghệ/N trong/E lĩnh_vực/N vũ_khí/N khí_tài/N quân_sự/N hiện_nay/N rất/R hiện_đại/A và/N mới/A đưa/V vào/R sử_dụng/V đòi_hỏi/N người_làm/N kĩ_thuật/V phải/V có/V trình_độ/N rất/R cao/A gần/A như/C luôn/N phải/V chạy/V theo/V kiến_thức/N để/E nắm/V vững/N hiểu/V rõ/A và/N sửa/V được/V nó/P
+Có/V những/L thứ/N như/C hộp_đen/N tài_liệu/N không/R có/V đội_ngũ/N kĩ_thuật/N của/E nhà_máy/N phải/V tự/V lần_mò/V
+Đại_tá/N Tuấn/Np khẳng_định/V Mỗi/M năm/N nhà_máy/N tiếp_nhận/V hàng/R chục/M kĩ_sư/N trẻ/N tốt_nghiệp/V từ/E Học_viện/N Kỹ_thuật/N quân_sự/N đã/R qua/V đào_tạo/V chuyển_loại/N
+Hướng/N đi/V của/E nhà_máy/N là/V nâng/V cao/A năng_lực/N công_nghệ/N sửa_chữa/V vũ_khí/N phòng_không/N thế_hệ/N cũ/A và/CC mới/R đang/R triển_khai/V giai_đoạn/N 1/M quy_hoạch/N lại/R công_nghệ/N theo/V hướng/N như/C nước_ngoài/N đang/R làm/V tinh_giản/N tối_đa/A nhưng/C sửa_chữa/V được/R các/L loại/N vũ_khí/N khí_tài/N
+Cái/Nc tâm/N với/V công_việc/N
+Thượng_uý/N Mai_Văn_Bá/Np phó/N quản_đốc/N phân_xưởng/N rađa/N cho/V biết/V có/V lúc/N yêu_cầu/V phải/V sửa_chữa/V theo/R đúng/A tiến_độ/N mà/C hỏng_hóc/N của/E vũ_khí/N khí_tài/A quá/R lớn/A vật_tư/N lại/R khan/V thiếu/V anh_em/N căng/V đầu/N căng/V óc/N
+Theo/E thượng_uý/N Bá/Np sửa_chữa/V vũ_khí/N khí_tài/N quân_sự/N không/R như/A sửa/V một/M chiếc/Nc xe/N cái/Nc tivi/N đơn_thuần/A vì/E nó/P liên_quan/V đến/E khả_năng/N chiến_đấu/V của/E vũ_khí/N của/E đơn_vị/N hàm_lượng/N chất_xám/N dành/V cho/E nó/P rất/R lớn/A
+Phải/V có/V cả/T cái/Nc tâm/N ở/E trong/E công_việc/N để/E làm_sao/N khi/N đưa/V về/R cho/V đơn_vị/N vũ_khí/N khí_tài/N sửa/V phải/V là/V tốt/A nhất/A
+Anh/Nc em/N sửa_chữa/V rađa/N sóng/N cao_tần/V sóng_điện_từ/N
+cứ/R ngày/N qua_ngày/V ít_nhiều/N đều/R bị/V ảnh_hưởng/V trực_tiếp/A
+Khi/N hiệu_chỉnh/N tiếng/N kêu/V của/E các/L linh_kiện/N các/L loại/N máy/N lên/V đến/R 40Hz/M rất/N ồn/N re/N ré/V bên/N tai/N không/R phải/A một_vài/N tiếng/N đồng_hồ/N là/V hết/V có/V lúc/N mấy/L tháng/N ròng/N mới/R hiệu_chỉnh/V xong/V
+Đầu_óc/N thì/C căng_thẳng/A lại/R còn/V ồn_ào/A
+Không/R say/V nghề/N không/R trách_nhiệm/V thì/C không_thể/R làm/V tốt/A được/V thượng_uý/V Bá/Np nói/V

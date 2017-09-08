@@ -1,0 +1,40 @@
+Bộ/N Giáo/Np dục/V Nhiều/A năm/N sau/A tiếp_tục/V thi_trắc_nghiệm/V
+Chiều/N 24/6/M Bộ/N Giáo/N dục/N và/CC Đào_tạo/N họp_báo/V kết_thúc/V kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2017/M
+Thứ_trưởng/N Bùi_Văn_Ga/Np đánh_giá/V Kỳ/N thi/V đã/R diễn/V ra/R rất/R thành_công/V
+Điều/N này/P khẳng_định/V việc/N đổi_mới/V phương_án/N cách/N thi/V của/E Bộ/N là/V đúng_đắn/A
+Phương_thức/N tổ_chức/N này/P sẽ/R áp_dụng/V cho/E nhiều/A năm/N tới/V
+So_sánh/V mức_độ/N khó_dễ/V phải/V trên/E toàn_bộ/L câu_hỏi/N các/L đề/N Trước/E câu_hỏi/N về/E việc/N các/L mã_đề/N có/V sự/N chênh_lệch/A độ/N khó_dễ/N Bộ/N Giáo/N dục/V khẳng_định/V 24/M mã_đề/N có/V mức_độ/N đồng_đều/V  /M 24/M mã_đề/N xuất_phát/V từ/E 4/M đề/N gốc/N
+Các/L câu_hỏi/N trong/E mỗi/L đề/N gốc/N này/P được/R phân/V làm/V 4/M cấp_độ/N nhận_biết/V thông_hiểu/V vận_dụng/V và/CC vận_dụng/V cao/A
+Khi/N đảo/N các/L câu_hỏi/N được/V đảo/N theo/E khu_vực/N có/V cùng/A cấp_độ/N Cục_phó/Np Khảo_thí/Np và/CC Kiểm_định/V chất_lượng/N giáo_dục/N Sái_Công_Hồng/Np thành_viên/N tổ/N ra/V đề/N giải_thích/V
+Trong/E đề/N thi/V có/V những/L câu/N cùng/A về/E một/M nội_dung/N nhưng/C cấp_độ/N hỏi/V khác_nhau/A
+Ví_dụ/V cùng/A vấn_đề/N A/Np nhưng/C ở/E đề/N B/Np là/V câu_hỏi/N được/V ra/V ở/E mức_độ/N thông_hiểu/A ở/E câu/N C/Np là/V vận_dụng/V cao/A
+Theo/E ông/Nc Hồng/Np nếu_không/C tinh/A hiểu/V sâu/A nắm/V chắc/A vấn_đề/N có_thể/R nhầm_lẫn/V trong/E đánh_giá/N
+Việc/N so_sánh/V mức_độ/N đồng_đều/N của/E các/L đề/N cũng/R phải/V so/V trên/E toàn_bộ/L câu_hỏi/N chứ/C không_thể/R dùng/V 1-2/M câu/N để/E đối_chiếu/V
+Chỉ/R khi/N phân_tích/V điểm/N trung_bình/A của/E các/L mã_đề/N mới/R biết/V chính_xác/A độ/N khó_dễ/A của/E các/L đề/N vênh/V nhau/N thế_nào/P
+Đề/Np thi/V THPT/Np quốc_gia/N được/V lấy/V từ/E ngân_hàng/N đề/N thi/V chuẩn_hoá/N quốc_tế/N qua/V 2/M lần/N thử_nghiệm/V
+Lần/N đầu/N là/V thử_nghiệm/V chuẩn_hóa/V đề/N thi/V trên/E chính/T học_sinh/N lớp/N 12/M để/E biết/V độ/N khó_dễ/A thực_tiễn/N không/R dựa/V vào/E sự/Nc cảm_nhận/V của/E người_làm/N
+Bước/V hai/M là/C thử_nghiệm/V độ/N đồng_đều/N của/E các/L đề/N
+Ban/N làm/V đề/N chúng_tôi/P luôn/R cố_gắng/V đưa/V ra/R các/L mã_đề/N tương_đương/A với/E nhau/N nhất/A để/E đảm_bảo/V sự/Nc công_bằng/A khách_quan/A cho/E các/L thí_sinh/N ”/A ông/Nc Hồng/Np chia_sẻ/V
+Việc/N có/V 7/M mã_đề/N môn/N Vật_lý/N phải/V đính_chính/V ông/Nc Hồng/Np cho_biết/V sau/E khi/N chuyển/V đề/N chính_thức/A để/E các/L địa_phương/N in/V sao/P Ban/N đề/N thi/V đã/R phát_hiện/V mã_đề/A bị/V thiếu/V ký_tự/A
+Thời_điểm/N đó/P một_số/L địa_phương/N đã/R in/V sao/P đề/N
+Việc/N dừng/V và/CC in/V lại/R đề/N là/V khả_thi/N nhưng/C ban/N ra/V đề/N chọn/V cách/N in/V thêm/V đính_chính/N đi/V kèm/V vừa/R không/R làm/V ảnh_hưởng/N đến/E quá_trình/N in/V sao/N của/E địa_phương/N vừa/R cho/V thấy/V sự/Nc nghiêm_túc/A làm_việc/V đúng/A quy_trình/N của/E ban/N đề/N  /M “/N Chúng_tôi/P đã/R lưu_ý/V đính_chính/N là/V một/M phần/N trong/E đề/N thi/V
+Đính_chính/N được/V đính/N kèm/V trong/E đề/N phát/V cùng/A lúc/N cho/E học_sinh/N nên/C không/R ảnh_hưởng/V đến/E việc_làm/N bài/N của/E các/L em/N ”/V ông/Nc Hồng/Np nói/V
+Thí_sinh/N bị/V đình_chỉ/V bằng/E 1/4/M so/V với/E năm_ngoái/N Theo/E báo_cáo/N cả/P kỳ/N thi/V THPT/Np quốc_gia/N năm/N nay/P có/V 72/M thí_sinh/N bị/V đình_chỉ/V chưa/R bằng/E 1/4/M của/E năm_ngoái/N /V 328/M trường_hợp/N /V
+Điều/N này/P chứng_tỏ/V sự/Nc nghiêm_túc/A của/E kỳ/N thi/V và/CC tính/V ưu_việt/A của/E phương_thức/N thi/V Thứ_trưởng/N Ga/N nói/V
+Theo/E lãnh_đạo/N Bộ/N hình_thức/N thi_trắc_nghiệm/V mỗi/L học_sinh/N có/V một/M mã_đề/N khiến/V các/L em/N khó/A trao_đổi/V bài/N
+Đề/Np thi/V bao_quát/V kiến_thức/N của/E toàn_bộ/L kiến_thức/N chương_trình/N học/V lớp/N 12/M đặc_biệt/A thời_gian/N thi/V mỗi/L môn/N 50/M phút/Nu với/E lượng/N câu_hỏi/N lớn/A là/C “/M thách_thức/N ”/V với/E những_ai/P muốn/V dùng/V tài_liệu/N để/E gian_lận/A trong/E phòng/N thi/V  /EOS
+Cách/V bố_trí/V một/M phòng/N thi/V có/V 24/M thí_sinh/N với/E 2/M cán_bộ/N coi/V thi/V khiến/V mọi/L biểu_hiện/N lạ/A dễ_dàng/A bị/V phát_hiện/V  /M Kỳ/N
+thi/V được/R các/L Sở/N Giáo/N dục/V chủ_trì/N các/L đại_học/N tham_gia/V coi/V thi/V và/CC giám_sát/V
+Điều/N này/P theo/E Cục_trưởng/N Khảo_thí/Np và/CC Kiểm_định/V chất_lượng/N giáo_dục/N Mai_Văn_Trinh/Np giúp/V kỳ/N thi/V diễn/V ra/R an_toàn/A nghiêm_túc/A
+Việc/N giao/V các/L Sở/N chủ_trì/V cụm/N thi/V THPT/Np quốc_gia/N ông/Nc Trinh/Np cho/V rằng/C “/N đúng/A vai/N ”/M
+Kỳ/N thi/V THPT/Np quốc_gia/N năm/N nay/P số_lượng/N thí_sinh/N dự/V thi/V môn/N Lịch_sử/N tăng/V đột/V với/E hơn/R 510 0/M chiếm/V trên/E 59%/M tổng_số/N thí_sinh/V cả/P nước/N dự/V thi/V
+Những/L năm/N trước/A chưa/R đến/V 15%/M thí_sinh/N chọn/V thi/V môn/N này/P
+Theo/E Thứ/N trưởng/N Bùi_Văn_Ga/Np đây/P là/V điều/N rất/R đáng/V mừng/V chứng_tỏ/V tính/N ưu_việt/A của/E hình_thức/N thi_trắc_nghiệm/N
+“/N Bộ/N Giáo/Np dục/V đã/R nhiều/A năm/N trăn_trở/V tìm/V cách/N tăng/V lượng/N thí_sinh/N đăng_ký/V thi/V Lịch_sử/N nhưng/C chưa/R được/V
+Việc/N đổi_mới/V phương_pháp/N thi_trắc_nghiệm/V đã/R lần/N đầu_tiên/A giúp/V giải_quyết/V mục_tiêu/N này/P
+Dù/C nhiều/A học_sinh/N thi/V môn/N này/P chỉ/R để/E xét/V tốt_nghiệp/V nhưng/C rõ_ràng/A cách/N thí/N mới/A đã/R giúp/V các/L em/N hứng_thú/A hơn/R với/E Lịch_sử/N và/CC mong_muốn/V học/V toàn_diện/A hơn/R ”/M Thứ_trưởng/N nhận_xét/V
+Ông/N khẳng_định/V 2017/M là/C năm/N đã/R chốt/V được/R toàn_bộ/L kế_hoạch/N thi/V và/CC là/V nền_tảng/N để/E nhiều/A năm/N sau/A tiếp_tục/V áp_dụng/V
+2007/M là/C năm/N thứ_ba/N liên_tiếp/A Bộ/N Giáo/N dục/V tổ_chức/V kỳ/N thi/V THPT/Np quốc_gia/N với/E mục_tiêu/N xét/V tốt_nghiệp/V và/CC xét/V tuyển/V đại_học/N
+Kỳ/N thi/V năm/N nay/P có/V nhiều/A thay_đổi/V về/E số/N môn/N thi/V hình_thức/N thi/V và/CC đơn_vị/N tổ_chức/V thi/V
+Để/E xét/V tốt_nghiệp/V học_sinh/N sẽ/R phải/V thi/V 3/M bài/N Toán/Np Văn/Np Ngoại_ngữ/N và/CC lựa_chọn/V tổ_hợp/N Khoa_học_tự_nhiên/N /A Lý/Np Hóa/Np Sinh/V /A hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Trừ_Văn/Np các/L môn/N lại/R còn/V lại/R đều/R thi/V tốt_nghiệp/V

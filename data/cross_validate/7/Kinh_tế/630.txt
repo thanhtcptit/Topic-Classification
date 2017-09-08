@@ -1,0 +1,9 @@
+Lãnh_đạo/N LienVietPostBank/Np và/CC người_nhà/N đăng_ký/V mua/V 10/M triệu/N cổ_phiếu/V
+Mới_đây/X 2/M Phó_chủ_tịch/N Hội_đồng_quản_trị/N và/CC hai/M cổ_đông/N có/V liên_quan/V đã/R đăng_ký/V mua/V vào/E 10/M triệu/N cổ_phiếu/V của/E Ngân_hàng/N Bưu_điện/N Liên_Việt/Np /M LienVietPostBank/Np /M trong/E cùng/A khoảng/N thời_gian/N từ/E 5/7/M đến/E 17/7/M
+Hai_Phó/Np chủ_tịch/N của/E  /N LienVietPostBank/Np là/V ông/N Nguyễn_Đình_Thắng/Np và/CC ông/Nc Phạm_Doãn_Sơn/Np cùng/A đăng_ký/V mua/V thêm/R 2/M triệu/M cổ_phiếu/N
+Trong/E khi/N đó/P con_trai/N của/E Chủ_tịch/N Nguyễn_Đức_Hưởng/Np và/CC con_gái/N của/E Phó_chủ_tịch/N Nguyễn_Đức_Cừ/Np đăng_ký/V mua/V mỗi/L người/N thêm/V 3/M triệu/M cổ_phiếu/N của/E ngân_hàng/N này/P
+Chủ_tịch/N Nguyễn_Đức_Hưởng/Np hiện/N cũng/R đang/R sở_hữu/V hơn/A 32/M triệu/M cổ_phiếu/N LienVietPostBank/Np tương_đương/V 4,95%/M vốn_điều_lệ/N
+Theo/E đó/P nếu/C giao_dịch/V con_trai/N ông/N Hưởng/Np được/V thực_hiện/V hai/M cha_con/N Chủ_tịch/N của/E ngân_hàng/N này/P sẽ/R nâng/V sở_hữu/V lên/R 5,63%/M vốn/N
+Cách/V đây/P hơn/R một/M tuần/N Công_ty_cổ_phần/N Him_Lam/Np từng/R là/V cổ_đông/N lớn/A nhất/A của/E LienVietPostBank/Np thông_báo/V việc/N chuyển_nhượng/V toàn_bộ/L số/N cổ_phần/N sở_hữu/V gần/A 97/M triệu/N cổ_phiếu/V tương_đương/V 14,98%/M vốn_điều_lệ/N ngân_hàng/N
+Việc/N chuyển_nhượng/V của/E Him_Lam/Np được/V thực_hiện/V trong/E bối_cảnh/N từ/E đầu/N tháng/N 6/M đến/E nay/P nhiều/A nhân_sự/N cấp/N cao/A của/E ngân_hàng/N và/CC người/N có/V liên_quan/V cũng/R liên_tục/A giao_dịch/V với/E khối_lượng/N hàng/R triệu/M cổ_phiếu/N  /EOS
+Như_Phó/Np chủ_tịch/N Phạm_Doãn_Sơn/Np sở_hữu/V cổ_phần/N của/E LienVietPostBank/Np từ/E đầu/N tháng/N 6/M chỉ/R gần/A 140 0/M cổ_phiếu/N đã/R tăng/V lên/R gần/A 12/M triệu/N cổ_phiếu/V vào/E cuối/N tháng/N  /M Chỉ/R tính/V riêng/A giao_dịch/V đăng_ký/V từ/E ngày/N 22/6/M tổng_số/N cổ_phần/N lãnh_đạo/N ngân_hàng/N này/P muốn/V mua/V đã/R đạt/V vài/L chục_triệu/M đơn_vị/N

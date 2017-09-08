@@ -1,0 +1,12 @@
+Chiêm_ngưỡng/N khả_năng/N chụp/V xóa/V phông/N trên/E i/N Phone/Np 7/M Plus/Np 
+Cụ_thể/A Apple/Np đã/R phát_hành/V bản/N cập_nhật/V thử_nghiệm/V i/N OS/Np 10.1/M beta/N vào/E hôm_nay/N dành/V cho/E các/L lập_trình_viên/N 
+Đáng/V chú_ý/V bản/N thử_nghiệm/V tích_hợp/V thêm/V tính_năng/N chụp/V chân/N dụng/V Portrait_Camera/Np cho/E i/N Phone/Np 7/M Plus/Np 
+Tính_năng/N này/P sẽ/R giúp/V cho/E bộ/N đôi/M camera/N i/A Phone/Np 7/M Plus/Np tận_dụng/V hiệu_quả/N hai/M camera/N của/E máy/N và/CC mang/V đến/E một/M bức/Nc ảnh/N chụp/V chân_dung/N đẹp_mắt/A nhờ/V khả_năng/N xóa/V phông/N mù_mịt/A 
+Theo/E GSMArena/Np chế_độ/N Portrait_Camera/Np sẽ/R tận_dụng/V một/M camera/N ống_kính/N 56/M mm/N để/E chụp/V ảnh/N và/CC ống_kính/N góc/N rộng/A 28mm/M còn/V lại/R để/E tạo/V ra/R trường_độ/N sâu/A của/E khung/N ảnh/N với/E một/M bản_đồ/N 9/M lớp/N ảnh/N 
+Từ/E đó/P máy/N sẽ/R xử_lý/V các/L lớp/N ảnh/N riêng_biệt/N và/CC làm/V mờ/A hậu/A cảnh/N tạo/V ra/R bức/Nc ảnh/N xóa/V phông/N tốt/A nhất/R tựa/V như/C các/L máy_ảnh/N DSLR/Np 
+Ở/E phiên_bản/N thử_nghiệm/V tính_năng/V Portrait_Camera/Np sẽ/R có_mặt/V trong/E ứng_dụng/N chụp/V ảnh/N gốc/N của/E máy/N chỉ/R cần/V vuốt/V tay/N qua_lại/V sẽ/R thấy/V tính_năng/N này/P 
+Người/N dùng/V chỉ/R cần/V nhấp/V vào/E điểm/N lấy/V nét/N cần_thiết/A và/CC có_thể/A chụp/V ra/R bức/Nc ảnh/N xóa/V phông/V ngay_lập_tức/R 
+Hoặc/C máy/N sẽ/R tư/A động/V xác_định/V điểm/N lấy/V nét/N thông_qua/V tính_năng/N Tap/Np to/A Focus/Np 
+Tính_năng/N này/P không_thể/R sử_dụng/V công_cụ/N zoom/V ảnh/N 
+Hơn/A thế/P tính_năng/V Portrait_Camera/Np còn/R cho_phép/V người/N dùng/V xem/V trước/E bức/Nc ảnh/N xóa/V phông/A hay/C tạo/V bokeh/N trước/E khi/N lưu/V ảnh/N 
+Cùng/A chiêm_ngưỡng/A các/L bức/Nc ảnh/N xóa/V phông/N của/E i/N Phone/Np 7/M Plus/Np Phan_Tuấn/Np 

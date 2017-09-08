@@ -1,0 +1,11 @@
+Người/N khám/V bảo_hiểm/N 319/M lần/N trong/E 6/M tháng/N trả/V lại/R 9/M triệu/N
+Ngày/N 56/M Bảo_hiểm/N xã_hội/N VN/Np cho/V biết/V ông/N NGH/Np 47/M tuổi/N ở/E TPHCM/Np vừa/R trả/V lại/R hơn/A 9/M triệu/M đồng/Nu lạm_dụng/V bảo_hiểm_y_tế/X
+Ông/N H/Np
+là/V một/M trong/E những/L người/N đi/V khám/V bệnh/N nhiều/A nhất/A trong/N thời_gian/N từ/E tháng/N 62016/M đến/N tháng/N 12017/M với/E tổng_số/N 319/M lần/N tại/E nhiều/A cơ_sở/N y_tế/N
+Cũng/R theo/V Bảo_hiểm/N xã_hội/N VN/Np nhà/N ở/V quận/N 8/M TPHCM/Np nhưng/C ông/N H/Np
+thường/R đi/V khám/V ở/E nhiều/A bệnh_viện/N các/L quận/N khác/A
+Riêng/T ngày/N 13102016/M ông/N đã/R đến/V khám/V ở/V Bệnh_viện/N quận/N 1/M Bệnh/N viện/N quận/N 3/M Bệnh_viện/N quận/N Tân_Bình/Np và/CC Bệnh_viện/N Y/Np học/V cổ_truyền/N TPHCM/Np
+Sau/E khi/N làm_việc/V với/E Bảo_hiểm/N xã_hội/N TPHCM/Np ông/N Hùng/Np đã/R trả/V lại/R hơn/A 9/M triệu/N đồng_tiền/N thuốc/N đã/R nhận/V của/E các/L Bệnh_viện/N Y/Np học/V cổ_truyền/N Viện/N Y/Np dược_học/V dân_tộc/N Bệnh_viện/N Tai/N mũi/N họng/N Bệnh_viện/N Da_liễu/N Bệnh_viện/N quân_dân/N miền/N Đông/Np
+Theo/E Bảo_hiểm/N xã_hội/N VN/Np chỉ/R tính/V riêng/A 4/M tháng/N đầu/N năm/N 2017/M đã/R có/V gần/A 2800/M người/N đi/V khám/V bệnh/N bảo_hiểm_y_tế/X từ/E 50/M lần/N trở/V lên/R trong/E đó/P người/N khám/V nhiều/A nhất_là/N 123/M lượt/N kể_cả/N trong/E ngày/N lễ/N ngày/N nghỉ/V
+Cùng/A ngày/N báo/N Tuổi_Trẻ/Np nhận/V được/R thông_tin/V từ/E Bệnh_viện/N Bạch_Mai/Np cho_hay/V trường_hợp/N được/V chỉ_định/V 12/M lần/N chụp/V CT/Np trong/E đợt/N điều_trị/V kéo_dài/V 10/M ngày/N tại/E Bệnh_viện/N Bạch_Mai/Np thực_tế/A là/V chỉ/N chụp/V 1/M lần/N
+Tuy_nhiên/C quá_trình/N đẩy/V dữ_liệu/N lên/E cổng/N thông_tin/N giám_định/V bảo_hiểm_y_tế/X do/E thao_tác/N thay_đổi/V chỉ_định/N bị/V trùng_lặp/V từ/E Bệnh_viện/N Bạch_Mai/Np nên/V dữ_liệu/N thể_hiện/V là/V 12/M lần/N

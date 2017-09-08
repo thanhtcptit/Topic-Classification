@@ -1,0 +1,17 @@
+Ứng_dụng/N giả_mạo/N game/N Super_Mario/Np ăn_cắp/V thông_tin/N thẻ_tín_dụng/N
+Theo/E đó/P phiên_bản/N ăn_cắp/N thông/V tin/N thẻ_tín_dụng/N mới/A nhất/R mà/N các/L chuyên_gia/N tìm/V ra/R tên/N là/V Fobus/Np ANDROIDOS_FOBUSOPSF/V
+Đây/P là/V một/M ứng_dụng/N mã/N độc/A trong/E một/M dãy/Nc dài/N những/L ứng_dụng/N giả_mạo/V các/L game/N di_động/V như/C Pokemon/Np hay/V Mario/Np để/E lừa/V người/N chơi/V game/N tải_về/N
+Ứng_dụng/N này/P có/V biểu/N tượng/N giống/A như/C trò/N chơi/V Hái/Np nấm/N game/V Super_Mario/Np thật/R nhưng/C thay_vì/V nhận/V đượctrò/N chơi/V như/C mong_muốn/N người_dùng/N tải/N các/L ứng_dụng/N này/P từ/E các/L store/N lạ/N sẽ/R bị/V lấy/V trộm/V mất/V những/L thông_tin/N như/C số/N điện_thoại/N thông_tin/V liên_lạc/V địa_điểm/N và/CC tin_nhắn/N SMS/Np từ/E máy/N điện_thoại/N của/N họ/P
+và/N còn/V nhiều/A thông_tin/N khác/A nữa/R
+Các/L chuyên_gia/N tuyên_bố/V Mục_đích/N thực_sự/N của/E ứng_dụng/N này/P là/V đánh_cắp/N thông_tin/N thẻ_tín_dụng/N
+Mỗi/L khi/N nhấn/V vào/E ứng_dụng/N Google_Play/Np được/V khởi/V chạy/V và/CC một/M màn_hình/N pop/N up/N giả_mạo/N sẽ/R được/V bật/V lên/R yêu_cầu/V nhập/V vào/R thông_tin/N thẻ_tín_dụng/N của/E người/N chơi/V
+Sau/E đó/P tiến/V trình_diễn/V ra/R khá/R chính_thống/A như/C hiện/N ra/V logo/N thẻ_tín_dụng/N lúc/N xác_nhận/V số/N thẻ/N hợp_lí/N
+Tiếp_theo/V sẽ/R có/V yêu_cầu/V người/N chơi/V nhập/V vào/R tên/N chủ/N thẻ/N ngày/N hết/V hạn/N thẻ/N và/CC mã/N an_toàn/A của/N thẻ/N
+Tiếp/V sau/N đó/P yêu_cầu/V thêm/V những/L thông_tin/N cá_nhân/N khác/A như/C ngày_sinh/N địa_chỉ/N và/CC số/N điện_thoại/N
+Khi/N tất_cả/P dữ_liệu/N được/V nhập/V vào/R thì/C người/Nc chơi/V mới/R được/V truy_cập/V vào/V Google_Play/Np
+Tuy_nhiên/C từ/E lúc/N này/P những/L kẻ/N tấn_công/V từ/E xa/N đã/R có/V được/R quyền/N điều_khiển/V thiết_bị/N và/CC có_thể/A cài_đặt/V lại/R lại/R mã/V PIN/Np của/E thiết_bị/N bằng/E các/L câu_lệnh/N từ/E C/Np amp/V
+C_Server/N –/N sau/N đó/P có/V thể/N khoá/N không/R cho/V người_dùng/V vào/V thiết_bị/N
+Cùng/A lúc/N đó/P C/Np amp/V
+C/N server/N sẽ/R rút/V trộm/V dữ_liệu/N thẻ_tín_dụng/N của/N người_dùng/N
+Theo/E các/L chuyên_gia/N giải_pháp/N đểphòng/N ngừa/V là/V tránh/V tải/N và/CC dùng/V ứng_dụng/N từ/E các/L store/N lạ/A
+TrendLab/N cực_lực/N khuyên/V người_dùng/N chỉ/R nên/V lấy/V các/L ứng_dụng/N từ/E các/L store/N hợp_pháp/A như/C Google_Play/Np hoặc/N các/L store/N đáng/V tin_cậy/V

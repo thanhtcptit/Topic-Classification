@@ -1,0 +1,11 @@
+Dữ_liệu/N 17/M triệu/N người_dùng/N bị/V đánh_cắp/V bán/V trên/N web/N đen/A
+Phía_Zomato/Np đã/R khuyến/V cáo/V tất_cả/N người_dùng/N đổi/V mật_khẩu/N đồng_thời/N trấn/V an/N người_dùng/V rằng/C thông_tin/N thanh_toán/V của/E họ/P vẫn/R an_toàn/A
+Theo/E công_ty/N này/P tin_tặc/N chỉ/R lấy_được/V ID/Np người_dùng/V tên/N tên/N tài/N khoản/N địa_chỉ/N email/V và/N hash/N password/N mật_khẩu/N đã/R được/V mã_hoá/V và/N không_thể/R hiểu/V được/R
+Thông_tin/N thanh_toán/N của/E quý/N vị/N hoàn_toàn/A an_toàn/V và/N quý_vị/N không/R cần/V phải/V hoảng_sợ/V Zomato/Np khẳng_định/V
+Để/E tăng/V độ/N thuyết_phục/N CEO/Np kiêm/V người/N sáng_lập/V công_ty/N Deepinder_Goyal/Np tuyên_bố/V thông_tin/N thẻ_tín_dụng/N của/E ông/N vẫn/R còn/V lưu_trữ/V trên/N trang_web/N
+Trong/E thông_báo/N mới/A nhất/A ra/V tối/N 185/M giờ_địa_phương/N Zomato/Np cho/V biết/V họ/P đã/R liên_lạc/V được/R với/V kẻ/N thực_hiện/V vụ/N tấn_công/V và/N người/N này/P đã/R đồng_ý/V huỷ/V toàn_bộ/N bản_sao/N dữ_liệu/N đã/R lấy_được/V đồng_thời/N hứa/V rút/V dữ_liệu/N này/P ra/V khỏi/V chợ/N web/N đen/A
+Zomato/N được/V thành_lập/V năm/N 2008/M tại/N Ấn_Độ/Np
+Trang/N này/P tự_hào/A có/V 120/M triệu/N người_dùng/N hàng/N tháng/N và/CC lưu_trữ/V thông_tin/N của/E hơn/N 1/M triệu/N nhà_hàng/N quán/N ăn/V tại/E 10000/M thành_phố/N ở/E 23/M nước/N bao/V gồm/V menu/N hình_ảnh/N và/CC địa_điểm/N của/E các/L nhà_hàng/N đánh_giá/V và/N xếp_hạng/N của/E người_dùng/N đối/N với/E các/L nhà_hàng/N này/P
+Việc/N trang/N này/P bị/V tấn_công/V lấy/V cắp/N dữ_liệu/N một/M lần/N nữa/R báo/V động/V về/E độ/N an_toàn/A mạng/N sau/A các/L vụ/N xâm_nhập/N của/E WannaCry/N và/CC Adylkuzz/Np vừa_qua/V
+Nó/P cũng/R khiến/V lòng/N tin/N của/E người_dùng/N vào/E an_ninh/N mạng/N bị/V lung_lay/V
+Trước/E đó/P nhiều/A ông/N lớn/A như/C Yahoo/Np LinkedIn/V Tumblr/Np và/CC Daily_Motion/Np cũng/R bị/V tấn_công/V lấy/V cắp/N dữ_liệu/N

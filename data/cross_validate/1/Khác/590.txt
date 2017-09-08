@@ -1,0 +1,9 @@
+Mã/N độc/A nguy_hiểm/A nhất/R trên/E Android/Np xuất_hiện/V
+Theo/E Check_Point/Np phần_mềm/N độc_hại/A này/P được/V tìm/V thấy/V trong/E 41/M ứng_dụng/N riêng_biệt/V trên/E kho/N phần_mềm/N Google_Play_Store/Np
+Không/R ít/A trong/E số/N đó/P đã/R xuất_hiện/V từ/E lâu/A nên/C đã/R có/V rất/R nhiều/A người/Nc tải/N về/E
+Mục_đích/N của/E mã/N độc/A Judy/Np là/V chiếm/V quyền/N điều_khiển/V thiết_bị/N Android/Np khiến/V máy/N tự_động/A nhấp/V vào/E các/L quảng_cáo/N mà/C người/N dùng/V không/R hay_biết/V
+Kết_quả/N những/L kẻ/N đứng/V sau/A có_thể/R thu/V được/R nguồn/N lợi/N bất_chính/A khổng_lồ/A
+Nguồn_gốc/N của/E mã/N độc/A Judy/Np được/V cho/V là/V từ/E một/M công_ty/N phát_triển/V ứng_dụng/N tại/E Hàn_Quốc/Np
+Tuy_nhiên/C những/L cuộc/N tấn_công/V tương_tự/A cũng/R đã/R xuất_hiện/V trên/E các/L phần_mềm/N khác/A
+Nó/P cho/V thấy/V hàng_rào/N kiểm_duyệt/N của/E Google/Np còn/V khá/R lỏng_lẻo/A
+Hiện/N các/L phần_mềm/N dính/V mã/N độc/A Judy/Np đã/R được/V gỡ/V khỏi/V Play_Store/Np

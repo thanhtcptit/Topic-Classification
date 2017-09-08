@@ -1,0 +1,12 @@
+Mỹ/Np cảnh_báo/V nguy_cơ/N bị/V cắt/V chi/N do/E thuốc/N trị/V tiểu_đường/N
+Cục/N Quản_lí/N Thực_phẩm/N và/CC Dược_phẩm/N FDA/Np Mỹ/Np yêu_cầu/V hãng/N dược/N Johnson/Np amp/V
+Johnson/Np phải/V bổ_sung/V cảnh_báo/V với/E loại/N thuốc/N trị/N tiểu_đường/N Invokana/Np
+Ngày/N 165/M cơ_quan/N FDA/Np đã/R thông_báo/V kết_quả/N cuối_cùng/A từ/E hai/M thử_nghiệm/N lâm_sàng/V cho/V thấy/V việc/N cắt/V bỏ/V chân/N và/CC bàn_chân/N xảy/V ra/R nhiều/A gấp/V đôi/N ở/E những/L bệnh_nhân/N tiểu_đường/N típ/N 2/M được/V điều_trị/V bằng/E thuốc/N Invokana/Np hay/R còn/V gọi_là/N canagliflozin/N
+Do_vậy/C FDA/Np yêu_cầu/V hãng/N dược/N J/Np amp/V
+J/Np phải/V in/V cảnh_báo/V lên/R hộp/N thuốc/N động_thái/N vốn/N dành/V cho/E những/L cảnh_báo/N bất_lợi/N nghiêm_trọng/A nhất/R cho/V sức_khoẻ/N người/N tiêu_dùng/V
+Hãng/N tin/V Reuters/Np cho/V biết/V Invokana/Np là/V một/M loại/Nc thuốc/N điều_trị/V tiểu_đường/N típ/N 2/M mới/N thường/R được/V gọi_là/N chất/N ức_chế/N SGLT/Np 2/M giúp/N loại_bỏ/N lượng/N đường/N thừa/A trong/E máu/N qua/V nước_tiểu/N
+Những/L loại/N thuốc/N trị/N khác/A tương_tự/A như/C Invokana/Np bao_gồm/V thuốc/N Jardiance/Np và/CC thuốc/N Farxiga/Np
+FDA/Np công/N bố/N kết_quả/N một/M thử_nghiệm/N lâm_sàng/N cho/V thấy/V nguy_cơ/N cắt/V cụt/A chi/V ở/E các/L bệnh_nhân/N điều_trị/N bằng/E Invokana/Np trong/E một/M năm/N tương_đương/A 59/M 1000/M bệnh_nhân/N so/V với/E mức/N 28/M 1000/M bệnh_nhân/N dùng/V giả/N dược/V placebo/N
+Còn/C trong/N thử_nghiệm/V lâm_sàng/N thứ_hai/N nguy_cơ/N cắt/V cụt/A chi/V là/C tương_đương/N 75/M 1000/M bệnh_nhân/N điều_trị/N bằng/E Invokana/Np so/V với/E 42/M 1000/M bệnh_nhân/N điều_trị/V bằng/E giả/N dược/N
+FDA/Np cho/V biết/V nguy_cơ/N bệnh_nhân/N bị/V tháo/V ngón/N chân/N và/CC phần/N giữa/N bàn_chân/N là/V phổ_biến/A nhất/R tuy_nhiên/N vẫn/R có/V nguy_cơ/N phải/V cắt/V chân/N cả/P dưới/N lẫn/C ở/V trên/N đầu_gối/N
+Bệnh/N tiểu/N đường/N típ/N 2/M nếu/C không/R được/A điều_trị/V có_thể/R gây/V mù/V tổn_thương/N thần_kinh/N và/CC thận/N cũng/R như/C bệnh/N tim/N

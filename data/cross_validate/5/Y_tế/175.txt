@@ -1,0 +1,11 @@
+Điều_tra/V vụ/N mất_trộm/N thiết_bị/N ngăn/N phóng_xạ/N nặng/A 2/M tấn/N
+Công_an/N Kiên_Giang/Np quyết_định/V lập/V chuyên_án/N điều_tra/V vụ/N mất_trộm/N thiết_bị/N ngăn/N phóng_xạ/N nặng/A 2/M tấn/N vừa/R xảy/V ra/R ở/V Bệnh_viện/N đa_khoa/N tỉnh/N
+Chiều/N 265/M Thiếu_tướng/N Bùi_Tuyết_Minh/Np Giám_đốc/N Công_an/N tỉnh/N Kiên_Giang/Np cho/V biết/V đã/R lập/V ban/N chuyên_án/N vụ/N mất_trộm/N thiết_bị/N y_tế/N xảy/V ra/R tại/E nhà_máy/N sản_xuất/V nhiên_liệu/N xạ_trị/N thuộc/V khoa/N ung_bướu/N Bệnh_viện/N đa_khoa/N của/E tỉnh/N này/P
+Đại_tá/N Lưu_Thành_Tín/Np Phó/N giám_đốc/N Công_an/N tỉnh/N Thủ_trưởng/V cơ_quan/N CSĐT/N công_an/N tỉnh/N Kiên_Giang/Np trực_tiếp/V làm/V trưởng/N ban/N
+Như_Tuổi_Trẻ/Np đã/R thông_tin/V vụ/N mất_trộm/N xảy/V ra/R tại/V Bệnh/N viên/N đa_khoa/N Kiên_Giang/Np xã/N Vĩnh_Hoà/Np Hiệp/Np huyện/N Châu_Thành/Np tỉnh/N Kiên_Giang/Np tại/E khu_vực/N là/V một/M phần/N của/E khoa/N ung_bướu/N
+Ông/N Lê_Hoàng_Anh/Np Giám_đốc/N Sở/N Y/Np tế/V Kiên_Giang/Np cho_hay/V thiết_bị/N mất_trộm/N là/V 1/M khuôn/N kim_loại/N chì/N dùng/V để/E ngăn/V các/L tia/N phóng_xạ/A phát_tán/N ngoài/N ý_muốn/N
+Tổng/N trọng_lượng/N của/E thiết_bị/N này/P nặng/N gần/A 2/M tấn/N
+Ông/Nc Lê_Hoàng_Anh/Np khẳng_định/V Sở/N Y/Np tế/V Kiên_Giang/Np chủ/N đầu_tư/V dự_án/N có/V thuê/V 1/M công_ty/N bảo_vệ/V tại/E công_trình/N nơi/N xảy/V ra/R mất_trộm/V nhưng/C người/Nc dân/N địa_phương/N cho/V biết/V họ/N chưa/R từng/R nhìn/V thấy/V nhân_viên/N bảo_vệ/V
+Được/V biết/V dự_án/N xây_dựng/V nhà_máy/N sản_xuất/V nhiên_liệu/N xạ_trị/N ung_thư/N của/E khoa/N ung_bướu/N Bệnh_viện/N đa_khoa/N Kiên_Giang/Np do/E nước_ngoài/N tài_trợ/V
+Chỉ/R tính/V riêng/A phần/N thiết_bị/N máy_móc/N trong/N đó/N có/V thiết_bị/N vừa/R bị/V mất_trộm/V là/V trên/N 6/M triệu/N euro/N hơn/A 150/M tỉ/M đồng/Nu
+Dự_án/N này/P vẫn/R đang/R trong/E giai_đoạn/N hoàn_thiện/A nên/C hoàn_toàn/N không/R ảnh_hưởng/V gì/N về/V phóng_xạ/V ra/R môi_trường/N bên/N ngoài/N

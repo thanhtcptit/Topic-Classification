@@ -1,0 +1,35 @@
+​/N Khởi_nghiệp/V sáng_tạo/V ở/E cấp/N tập_đoàn/N được/V không/N
+Ít/A có/V công_ty/N Việt/Np Nam/Np lớn/A hơn/R giá_trị/N 21/M tỉ/N USD/Np của/E Cisco/Np một/N tập_đoàn/N công_nghệ/N khổng_lồ/N
+Khi/N phát_triển/V sản_phẩm/N mới/A Cisco/Np sẽ/R đầu_tư/V nhiều/A tiền/N và/CC nguồn_lực/N hơn/A những/L công_ty/N khởi_nghiệp/V startup/N thông_thường/A
+Tuy_nhiên/C họ/P cũng/R có/V rất/R nhiều/A quy_trình/N nội_bộ/N
+Các/L cuộc/N họp/V nội_bộ/N và/CC tranh_luận/V qua_lại/V gần/A như/C giết/N chết/V các/L ý_tưởng/N ban_đầu/N
+Sản_phẩm/N sẽ/R đáp_ứng/V vô_số/N mong_đợi/N của/E các/L chủ_tịch/N và/CC phó/N chủ_tịch/N trong/E các/L cuộc/N họp/V
+Cisco/Np đã/R sử_dụng/V cùng/A một/M phương_pháp/N suốt/A hai/M mươi/N năm/N qua/V để/E tự/P mình/N đổi_mới/V sáng_tạo/V phát_triển/V sản_phẩm/N mới/A và/CC thay_đổi/V ngành/N công_nghiệp/N mà/C họ/N đang/R dẫn_đầu/V
+Spinin/Np và/CC thành_công/N của/N Cisco/Np
+Trong/E vòng/N 20/M năm/N qua/V John_Chambers/Np CEO/Np của/E Cisco/Np đầu_tư/V cho/E cùng/A một/M nhóm/N gồm/V có/V 4/M người/N được/V gọi_là/N MPLS/Np
+Tổng_cộng/N họ/P đã/R đầu_tư/V vào/E nhóm/N này/P 3/M lần/N và/CC mua/V lại/R 3/M công_ty/N với/E số/N tiền/N lần/N lượt_là/V 750/M triệu/M USD/Nu cho/E công_ty/N Andiamo_Systems/Np 678/M triệu/N mua/V lại/R Nuova_Systems/Np và/CC 863/M triệu/N mua/V lại/R Insieme/Np
+Đây/P được/V gọi_là/N Chiến_lược/N Spinin/Np giúp/V Cisco/Np vượt/V qua/V sức/N ì/N của/E tập_đoàn/N lớn/A
+Họ/P đầu_tư/V một/M công_ty/N mới/R tập_trung/V vào/E nghiên_cứu/N và/CC phát_triển/V R/Np amp/V
+D/N thay_vì/V giữ/V họ/N trong/E nội_bộ/N của/N mình/N
+Họ/P sẽ/R gửi/V một/M nhóm/Nc nhân_viên/N của/E mình/P thử_nghiệm/V xây_dựng/V sản_phẩm/N mới/A và/CC sau/E đó/P mua/V lại/R công_ty/N với/E giá/N hấp_dẫn/A
+Chiến_lược/N này/P đã/R mang/V lại/R cho/V Cisco/Np sự/N nhanh_nhẹn/A của/E startup/N vốn/N thường/R thiếu/V trong/E các/L tập_đoàn/N khổng_lồ/N
+Cisco/N đầu_tư/V 135/M triệu/M USD/Nu cho/E công_ty/N Insieme/Np
+Sau/E đó/P 21/M tháng/N Cisco/Np mua/V lại/R công_ty/N vào/E ngày/N ra_mắt/V sản_phẩm/N mới/A với/E giá/N 863/M triệu/M usd/Nu
+Chỉ/R trong/E vòng/N 21/M tháng/N mang/V lại/R cho/V Cisco/Np một/M sản_phẩm/N cách_mạng/N đó/P chính/R là/V điều/N mà/C họ/P mong_đợi/V
+Fintech/N chuyển_dịch/N số/N mạnh_mẽ/N tại/N Việt_Nam/Np
+Tại_Việt_Nam/Np một/M trong/E xu_hướng/N dịch_chuyển/V sang/V digital/N mạnh_mẽ/N hiện_nay/N là/V tài_chính/N fintech/N
+Hầu_hết/X các/L ngân_hàng/N tại/E Việt_Nam/Np chú_trọng/V phát_triển/V ngân_hàng/N điện_tử/N digital/V banking/N
+Điều/N này/P hoàn_toàn/A dễ/A lí_giải/V với/E số_liệu/N từ/E báo_cáo/N Gartner/Np CIO/Np Agenda_Report/Np 2016/M thống_kê/N từ/E 2944/M CIO/Np từ/E 84/M quốc_gia/N đại_diện/V cho/E 11/M nghìn/N tỉ/M USD/Nu doanh_thu/N và/CC chi/V hơn/A 250/M tỉ/M USD/Nu cho/V biết/V dự_kiến/V doanh_thu/N từ/E digital/N sẽ/R tăng/V từ/E 16/M lên/N 37/M trong/E vòng/N 5/M năm/N
+Thông_thường/A ngân_hàng/N sẽ/R tổ_chức/V dự_án/N ngân_hàng/N kĩ_thuật_số/N digital/N banking/N huy_động/V từ/E nội_bộ/N có/V nhiều/A bộ_phận/N tham_gia/V hoặc/N tạo/V ra/R một/M bộ_phận/N mới/A riêng_biệt/V
+Cả/P hai/M cách/N này/P đều/R không/R giúp/V bộ_phận/N digital/V banking/N thoát/V ra/R khỏi/V các/L quy_trình/N cơ_chế/N truyền/V thống/N rườm_rà/N
+Một/M doanh_nghiệp/N nhỏ/A có_thể/A tăng/V ngân_sách/N quảng/N cáo_từ/V 10/M triệu/N lên/V 200/M triệu/N chỉ/R trong/E một/M ngày/N nếu/N họ/N thấy/V hiệu_quả/N
+Với/E các/L ngân_hàng/N quy_trình/N nội_bộ/N có_thể/A mất/V vài/L tuần/N đến/V vài/L tháng/N để/V xét_duyệt/V
+Johan_Bosini/Np Venture_Partner/Np tại/E quỹ/N đầu_tư/V Quona_Capital/Np cho/V rằng/C các/L ngân_hàng/N có/V tiền/N có/V thương_hiệu/N có/V nhiều/A chi_nhánh/N nhưng/C họ/N thiếu/V một/M điều/N quan_trọng/A để/E tạo/V nên/N sự/N thay_đổi/V một/M môi_trường/N chấp_nhận/V sự/N thay_đổi/V
+Chiến_lược/N spinin/N sẽ/R là/V một_cách/N làm/V mới/A
+Lấy/V ví_dụ/N tại/E Việt_Nam/Np Timo/Np là/V một/M ví_dụ/N khi/N tạo_lập/V môi_trường/N startup/N bên/N ngoài/N ngân_hàng/N VPBank/N
+Bản_chất/N của/E startup/N mới/A này/P tập_trung/V vào/E quy_trình/N tạo/V ra/R giá_trị/N mới/A tại/E phân/N khúc/N mà/C doanh_nghiệp/N đang/R kinh_doanh/V với/E cách/N quản_lí/N thoáng/A hơn/R
+Môi_trường/N spinin/N thay_đổi/V nhanh_chóng/A đồng_thời/N việc/N liên_doanh/V và/N rót/V vốn/N từ/E tập_đoàn/N sẽ/R mang/V lại/R lợi_thế/N khi/N được/V chia_sẻ/V nguồn_lực/N quản_lí/N cấp/N cao/A cơ_sở_hạ_tầng/N phần_mềm/N và/CC những/L nhân_sự/N có/V kĩ_năng/N tốt/A
+Hai/M thế/N mạnh/A vốn/R rất/R khác/A nhau/N cùng/A tồn_tại/V trong/E một/M mô_hình/N
+Theo/E đó/P khi/N muốn/V dịch_chuyển/V sang/V số_hoá/N digital/N transformation/N hoặc/N tạo/V ra/R sáng_tạo/V đột_phá/N tại/E các/L tập_đoàn/N lớn/N spinin/V sẽ/R là/V một/M chiến_lược/N để/E doanh_nghiệp/N cân_nhắc/V chọn_lựa/N
+Muốn/V đạt/V được/R kết_quả/N khác/A đi/V chúng_ta/P phải/V làm/V khác/A
+Không_thể/R dùng/V cách/N cũ/A để/E đạt/V được/R kết_quả/N mới/A

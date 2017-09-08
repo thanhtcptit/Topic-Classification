@@ -1,0 +1,10 @@
+Bệnh_viện/N K/Np trang_bị/V hệ_thống/N xạ_trị/V hiện_đại/A nhất/A Việt_Nam/Np
+Đây/P là/V hệ_thống/N xạ_trị/N hiện_đại/A nhất/A Việt_Nam/N hiện_nay/N
+Với/E hệ_thống/N này/P Bệnh_viện/N K/Np đã/R triển_khai/V được/R các/L kỹ_thuật/N xạ_trị/V mà/C các/L quốc_gia/N tiên_tiến/A trên/E thế_giới/N đang/R áp_dụng/V như/C xạ_trị/N hướng_dẫn/V hình_ảnh/N xạ_trị/N điều_biến/V thể_tích/N xạ/N phẫu/V khối_u/N não/N xạ_trị/V cố_định/N toàn_thân/N khối_u/N di_động/V như/C phổi/N tiền_liệt_tuyến/N nhờ/V kết_hợp/V với/E kỹ_thuật/N đồng_bộ/A nhịp/N thở/V chủ_động/A phó_giáo_sư/N Trần_Văn_Thuấn/Np Giám_đốc/N Bệnh_viện/N K_Trung/Np ương/V /N Hà_Nội/Np /A cho_biết/V ngày/N 2/6/M
+Theo/E phó_giáo_sư/N Thuấn/Np tác_dụng/N phụ/V trong/E xạ_trị/N ảnh_hưởng/V rất/R lớn/A đến/E chất_lượng/N cuộc_sống/N của/E bệnh_nhân/N ung_thư/N
+Hệ_thống/N gia_tốc/N có/V chức_năng/N xạ/V phẫu/N này/P có/V bộ/N chuẩn/N trực/V 160/M lá/N hiện_đại/A nhất/A thế_giới/N giúp/V giảm/V tối_đa/A sự/Nc ảnh_hưởng/V của/E tia/Nc xạ/N tới/E các/L mô/P lành/A rút/V ngắn/A thời_gian/N điều_trị/V
+Đợt/N này/P bệnh_viện/N cũng/R hoạt_động/V hệ_thống/N PET/CT/Np giúp/V phát_hiện/V ung_thư/N ở/E những/L giai_đoạn/N sớm/A nhất/R
+Hệ_thống/N cũng/R có_thể/R phát_hiện/V các/L di_căn/N xa/A và/CC di_căn/A hạch/V giai_đoạn/N sớm/A mà/C các/L thiết_bị/N chẩn_đoán/V hình_ảnh/N như/C CT/Np MRI/Np không/R phát_hiện/V được/R
+Thống_kê/V mỗi/M năm/N Việt_Nam/Np có/V khoảng/N 94 0/M người/N chết/V vì/E ung_thư/N
+Cũng_như/C các/L nước/N trên/E thế_giới/N số/N người/N mắc/V bệnh/N ung_thư/N ở/E nước/N ta/P đang/R có/V xu_hướng/N ngày_một/X tăng/V nhanh/A từ/E 68 0/M ca/N năm/N 2000/M lên/E 126 0/M ca/N năm/N 2010/M và/CC dự_kiến/V sẽ/R vượt/V 190 0/M ca/N vào/E năm/N 2020/M
+Bệnh/N gặp/V ở/E mọi/L tầng_lớp/N xã_hội/N mọi/L lứa/N tuổi/N mọi/L khu_vực/N địa_lý/N và/CC mọi/L ngành_nghề/N khác_nhau/A

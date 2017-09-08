@@ -1,0 +1,29 @@
+Đua/V giảm/V cước/N dịch_vụ/N di_động/V
+Giảm/N 99/M cước/N data/N roaming/N
+Nhà/N mạng/N Viettel/Np vừa/R công_bố/V từ/E nay/N đến/E hết/V ngày/N 1592017/M tất_cả/N thuê_bao/N trả/V trước/N lẫn/N trả/V sau/N của/E nhà/N mạng/N này/P được/V hưởng/V giá/N cước/N dịch_vụ/N dữ_liệu/N chuyển/V vùng/N quốc_tế/N data/N roaming/N tại/E Nhật_Bản/Np Hàn_Quốc/Np và/CC Úc/Np với/E mức/N giảm/V tới/V
+99/M so/V với/N hiện_hành/N
+Cụ_thể/A khi/N sử_dụng/V dịch_vụ/N data/N roaming/V tại/E các/L nhà/N mạng/N của/E Hàn_Quốc/Np SKT/Np KTF/Np Nhật_Bản/Np Softbank/Np và/CC NTT/Np Domoco/Np Úc/Np Telstra/Np khách/N hàng/N của/E Viettel/Np chỉ/R phải/V trả/V mức/N cước/N là/V 22/M đồng/Nu 10KB/M
+So/V với/E mức/N cước/N dữ_liệu/N thông_thường/A là/V 2363/M đồng/N 10KB/M dành/N cho/V thuê_bao/N trả/V trước/A như/C vậy/P mức/N cước/N ưu_đãi/N này/N đã/R giảm/V 99/M
+Trước/E đó/P với/E lợi_thế/N sở_hữu/V cả/P ba/M mạng/N di_động/V tại/E ba/N nước/N khu_vực/N Đông_Dương/Np là/V Viettel/Np Việt_Nam/Np Metfone/Np Campuchia/Np Unitel/Np Lào/Np nhà/N mạng/N này/P đã/R áp_dụng/V mức/N cước/N chuyển/V vùng/N quốc_tế/A giữa/N ba/N nước/N tương_đương/A như/C mức/N cước/N trong/E nước/N kể/V từ/E đầu/N năm/N 2017/M
+Mức/N này/P đã/R giảm/V tới/V hơn/A 13/M lần/N giá/N cước/N cuộc_gọi/N quốc_tế/N trong/E khu_vực/N giảm/V 160/M lần/N giá/N cước/N dữ_liệu/N cước/N tin_nhắn/N giảm/V gần/A 10/M lần/N
+Với/E phạm_vi/N rộng/A hơn/A Viettel/Np nhà/N mạng/N Vinaphone/Np cũng/R vừa/R công_bố/V giảm_giá/N cước/N dịch_vụ/N data/V roaming/N với/E mức/N giảm/N từ/E 2080/M so/V với/E giá/N cước/N hiện_hành/N áp_dụng/V tại/E tất_cả/N các/L quốc_gia/N có/V đối_tác/N của/N Vinaphone/Np
+Theo/E bảng/N giá/N mới/A cước/N data/N roaming/N của/E Vinaphone/Np sẽ/R chỉ/R còn/V duy_nhất/A một/M mức/N giá/N là/V 1000/M đồng/N 10KB/M thay_vì/N chia/V thành/N 5/M vùng/N với/E giá/N tăng/V dần/R cho/V các/L khu_vực/N châu/N Âu/Np châu/N Mỹ/Np
+Đại_diện/N MobiFone/N chưa/R công_bố/V cước/N roaming/V mới/R nhưng/C cho/V biết/V đang/R trong/E quá_trình/N đàm_phán/N để/E tung/V mức/N cước/N roaming/N cạnh_tranh/V nhất/R
+Trước_mắt/N nhà/N mạng/N này/P tranh_thủ/V chạy/V trước/E khi/N chủ_động/N mở_rộng/V giảm_giá/N sang/V cước/N di_động/N thông_thường/A tung/V ra/R gói/V cước/N trả/V sau/N mới/R hoàn_toàn/A không/R tính/V phí/N thuê_bao/N tháng/N thuê_bao/N trả/V sau/N của/E các/L mạng/N hiện/V đều/R phải/V trả/V trung_bình/A 50000/M đồngtháng/N
+Một_số/N chuyên_gia/N cho/V rằng/C không/R loại_trừ/V một_số/N loại/N cước/N di_động/V sẽ/R tiếp_tục/V giảm/V thêm/V
+Ngay/T với/E cước/N data/N roaming/N ông/N Hoàng_Sơn/Np phó_tổng/V giám_đốc/N Viettel/Np tiết_lộ/V Viettel/Np đang/R đàm_phán/V với/E các/L mạng/N đối_tác/N để/E có/V mức/N giá/N tốt/A nhất/R
+Áp_lực/N từ/N OTT/Np
+Việc/N các/L nhà/N mạng/N giảm_giá/V sốc/N cước_phí/N data/N roaming/N xuất_phát/V từ/E chính_sách/N thả_nổi/V cước/N viễn_thông/N của/E cơ_quan/N quản_lí_nhà_nước/X
+Tuy_nhiên/C theo/V nhận_định/N của/E nhiều/A chuyên_gia/N đây/P là/V hệ_quả/N sau/N sự/N phổ_biến/V của/E các/L ứng_dụng/N OTT/Np các/L ứng_dụng/N được/V cung_cấp/V trên/E nền_tảng/N Internet/Np như/C Facebook_Messenger/Np Viber/Np Zalo/Np
+đang/R cho/V phép/N gọi/V điện/N nhắn_tin/V miễn_phí/V chỉ/R cần/V điện_thoại/V kết_nối/N Internet/Np
+Ông/N Vũ_Hoàng_Liên/Np chủ_tịch/N Hiệp_hội/N Internet/Np VN/Np cho/V rằng/C chi_phí/N roaming/V đắt_đỏ/N nên_người/N đi/V nước_ngoài/N luôn/R tận_dụng/V tối_đa/A WiFi/N miễn_phí/V hoặc/N mua/V SIM/Np dữ_liệu/N 3G/N 4G/N của/E nhà/N mạng/N nước_ngoài/N để/E sử_dụng/V các/L dịch_vụ/N OTT/Np gọi/V điện/V về/V nhà/N thay_vì/V roaming/V
+Nên/C chỉ/R cần/V được/V trao/V quyền/N từ/E cơ_quan/N quản_lí/V các/L nhà/N mạng/N đã/R lập_tức/R giảm_giá/V rất/R nhanh/A
+Mục_đích/N vừa/R giữ_chân/V thuê_bao/N tiếp_tục/V roaming/V thay_vì/N tắt/V SIM/Np vừa/R kiếm/V doanh_thu/N từ/E dịch_vụ/N dữ_liệu/N khi/N khách/N hàng/N sử_dụng/V Internet/Np trên/E sim/N 3G/N 4G/N trong/E nước/N ông/N Liên/Np nhận_xét/V
+Chuyên_gia/N marketing/N Huỳnh_Thanh_Phi/Np cũng/R cho/V rằng/R hiện_nay/N phương_án/N cạnh_tranh/V gần/A như/A duy_nhất/A của/E các/L nhà/N mạng/N với/E các/L OTT/Np là/V giảm_giá/N cước/N thoại/N và/CC SMS/Np
+Tuy_nhiên/C đây/P không/R phải/V là/V một/M giải_pháp/N tốt/A bởi/E lẽ/N WiFi/N miễn_phí/V ở/E VN/Np quá/V phổ_biến/A và/CC các/L OTT/Np đã/R tạo/V thói_quen/N sử_dụng/V thường_xuyên/A của/N người_dùng/N
+Ông/N Phi/Np cho/V rằng/C đến/E một/M thời_điểm/N nào/P đó/P các/L nhà/N mạng/N sẽ/R phải/V đưa/V giá/N cước/N thoại/N và/CC tin_nhắn/V về/V gần/A bằng_không/N và/CC kiếm/V tiền/N chủ_yếu/A nhờ/V cước/N dữ_liệu/N
+Kỳ_vọng/V nhà/N mạng/N giảm/V thêm/V cước/N
+Thực_tế/N gần/A như/C người_dùng/N smartphone/N nào/P cũng/R cài/V ít_nhất/A một/M ứng_dụng/N OTT/Np như/C Facebook_Messenger/Np Zalo/Np hay/V Viber/Np để/E nhắn_tin/V gọi/V điện/N miễn_phí/V chỉ/R tốn/V cước/N dữ_liệu/N không/R phải/A trả/V phí/N từng/R phút/N gọi/V từng/R tin_nhắn/N
+Trong/E khi/N đó/P theo/V Cục/N Viễn_thông/N Bộ/N Thông_tin/N truyền_thông/N tính/V đến/E tháng/N 32017/M Việt_Nam/Np có/V hơn/A 46/M triệu/N thuê_bao/N dùng/V 3G/N đang/R phát_sinh/V cước/N
+Nhiều/A người/N tiêu_dùng/V kì_vọng/N giá/N cước/N viễn_thông/N sẽ/R giảm/V thêm/V
+Với/E đà/N tăng_trưởng/V ngày_càng/N mạnh/A của/E các/L ứng_dụng/N OTT/Np cùng/C với/N đó/P là/V các/L điểm/N truy_cập/V WiFi/N miễn_phí/V ngày_càng/N phổ_biến/V ông/N Trần_Viết_Quân/Np giám_đốc/N Công_ty/N Ứng_dụng/N di_động/N xanh/A TPHCM/Np nhận_định/V sắp/R tới/V nhà/N mạng/N sẽ/R phải/V giảm/V cả/P cước/N cuộc_gọi/N và/CC nhắn_tin/V

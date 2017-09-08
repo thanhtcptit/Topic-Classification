@@ -1,0 +1,5 @@
+TPHCM/Np công_bố/V điểm_chuẩn/N vào/V lớp/N 10/M chuyên/N
+Theo/E Phòng/N khảo_thí/N và/CC kiểm_định/N chất_lượng/N giáo_dục/N Sở/N GDĐT/Np các/L trường/N THPT/Np sẽ/R nhận/V hồ_sơ/N nhập_học/N vào/E lớp/N 10/M chuyên/N từ/E 13/M đến/N 196/M
+Sau/E thời_gian/N này/P nếu/C học_sinh/N không/R nộp/V hồ_sơ/N sẽ/R bị/V xoá/V tên/N trong/E danh_sách/N trúng_tuyển/N vào/V lớp/N chuyên/A và/CC tiếp_tục/V được/V xét/V tuyển/N vào/V lớp/N 10/M thường/N nếu/N đủ/V điểm/N
+Dự_kiến/N ngày/N 37/M sẽ/N công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M thường/N và/CC danh_sách/N học_sinh/N trúng_tuyển/V vào/E các/L trường/N THPT/Np
+HOÀNG/M HƯƠNG/N

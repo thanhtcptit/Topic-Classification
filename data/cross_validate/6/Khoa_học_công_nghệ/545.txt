@@ -1,0 +1,11 @@
+Cấy_ghép/N bộ_phận/N cơ_thể/N bằng/E công_nghệ/N in/V 3D/M
+Bệnh_viện/N số/N 3/M  /Nu Đại_học/N Bắc_Kinh/Np một/M bệnh_viện/N hàng_đầu/N ở/E Trung_Quốc/Np đã/R đưa/V ra/R những/L kết_quả/N tích_cực/A trong/E việc/N sử_dụng/V các/L bộ_phận/N cấy_ghép/N sản_xuất/V bởi/E một/M máy_in/N 3D/M trong/E một/M thử_nghiệm/V lâm_sàng/N mới_đây/X
+Chúng_tôi/P bắt_đầu/V thử_nghiệm/V lâm_sàng/N trên/E các/L bộ_phận/N cấy_ghép/N in/V bằng/E công_nghệ/N 3D/Np vào/E cuối/N năm_ngoái/N
+Đến/E nay/P chúng_tôi/P đã/R sử_dụng/V hàng/R chục/M cấy_ghép/N như_vậy/X với/E hơn/R 50/M bệnh_nhân/N
+Tất_cả/P các/L bệnh_nhân/N hồi_phục/V rất/R tốt/A
+Không/R ai/P có/V bất_kỳ/A tác_dụng/N phụ/V không/R mong_muốn/V hoặc/CC phản_ứng/V bất_lợi/N Liu_Zhongjun/Np giám_đốc/N Khoa/Np chỉnh_hình/V nói/V
+Quá_trình/N in/V 3D/M hay/C còn/R gọi_là/X  /M in_ấn/N phụ_gia/N áp_dụng/V liên_tiếp/A các/L lớp/N vật_liệu/N trong/E hình_dạng/N khác_nhau/A để/E làm/V thành/V một/M vật/N ba/M chiều/N rắn/N từ/E mô_hình/N kỹ_thuật_số/N
+Tuy_nhiên/C hình_dạng/N của/E các/L sản_phẩm/N 3D/Np thay_đổi/V khá/R nhiều/A so/V với/E mô_hình/N trước/E đó/P
+Trong/E việc/N cấy_ghép/V vật_liệu/N được/V sử_dụng/V là/V titanium/N một/M kim_loại/N đặc_biệt/A dùng/V để/E cấy_ghép/V chỉnh_hình/N trong/E nhiều/A thập_kỷ/N
+Cấy_ghép/N chỉnh_hình/V thực_hiện/V bằng/E việc/N đưa/V các/L thiết_bị/N nhân_tạo/A vào/E khớp/N và/CC xương/N để/E khôi_phục/V lại/R các/L chức_năng/N hoạt_động/V chẳng_hạn/X như/C cấy_ghép/V xương_sống/N giúp/V cố_định/N cột_sống/N hoặc/CC thay_thế/V xương/N hông/N
+Các/L sản_phẩm/N cấy_ghép/V 3D/Np được/V sử_dụng/V rộng_rãi/A cho/E các/L bệnh_nhân/N bị/V tổn_thương/V do/E chấn_thương/N hoặc/CC bệnh/N liên_quan/V tới/E xương/N khớp/N chẳng_hạn/X như/C viêm/N xương/N khớp/N bệnh/N đau/A và/CC cứng/A khớp/N

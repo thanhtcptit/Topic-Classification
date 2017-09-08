@@ -1,0 +1,53 @@
+​/N Khởi_nghiệp/V trong/E lòng/N nước/N Mỹ/Np
+Ngày_nay/N khi/N những/L câu_chuyện/N từ/E thung_lũng/N Silicon/Np đang/R trở_nên/V bão_hoà/A thì/C sự/N xuất_hiện/V của/E những/L trung_tâm/N khởi_nghiệp/V trẻ/N ở/V Mỹ/Np đang/R đem/V lại/R sức_sống/N cho/V tinh_thần/N sáng_tạo/A doanh_nghiệp/N mới/A
+Nói/V đến/E khởi_nghiệp/N ở/V Mỹ/Np mọi/N người/N nghĩ/V đến/R ngay/R thung_lũng/N Silicon/Np nơi/N đóng/V bản_doanh/N của/E những/L ông/N lớn/A trong/E ngành/N công_nghệ/N thế_giới/N
+Ngày_nay/N sự/N xuất_hiện/V của/E những/L trung_tâm/N khởi_nghiệp/V trẻ/N ở/V Mỹ/Np đang/R đem/V lại/R sức_sống/N cho/V tinh_thần/N sáng_tạo/A doanh_nghiệp/N mới/A
+Kỳ/N 1/M Lọt/Np vào/V vườn_ươm/N của/E giải_pháp/N công_nghệ/N
+Nằm/V không/R quá/V xa/A với/E thung_lũng/N Silicon/Np về/V phía/N nam/N thành_phố/N San_Diego/Np bang/V California/Np có/V cách/N phát_triển/V hệ_sinh_thái/N khởi_nghiệp/V riêng/A hình_thành/V nên/V một/M cụm/N công_nghệ/N đặc_biệt/A
+Phần_lớn/N các/L khoản/N tiền/N đầu_tư/V vào/E startup/N khởi_nghiệp/V đều/R đến/V từ/E nhà/N đầu_tư/V tư_nhân/N chứ/C không/R phải/V chính_phủ/N
+Trung_bình/A mỗi/L năm/N có/V xấp_xỉ/N 400/M startup/N ra_đời/N ở/E thành_phố/N này/P tạo/V ra/R khoảng/N 1650/M việc_làm/N mới/A điều/N thú_vị/A là/V hơn/R một/M nửa/N các/L dự_án/N khởi_nghiệp/N liên_quan/V đến/E sự/N phát_triển/V của/E phần_mềm/N cung_cấp/V giải_pháp/N
+Cộng_đồng/N khởi_nghiệp/V ở/V đây/P không_thể/A như/C ngày_nay/N nếu/E thiếu/V những/L vườn_ươm/N khởi_nghiệp/N của/N tư_nhân/N
+Những/L giải_pháp/N mới/A
+Trong/E khi/N ngành/N taxi/N VN/Np đang/R đại_chiến/V với/E truyền_thống/N hay/C công_nghệ/N thì/N tại/E thành_phố/N San_Diego/Np California/Np Mỹ/Np từ/E hai/M năm/N nay/P giới/N vận_tải/N đã/R chứng_kiến/V sự/N tăng_trưởng/V nhanh_chóng/A của/E startup/N cũng/R dựa/V trên/E mô_hình/N kinh_tế/N chia_sẻ/V thành_công/N của/E Uber/Np hay/C Grab/Np có/V tên/N GoShare/N
+Đây/P là/V ứng_dụng/N kết_nối/V những/L người/N đang/R sở_hữu/V xe_tải/N xe/N chở/V hàng/N hoặc/N xe/N hộp/N chuyên_dụng/A với/E các/L doanh_nghiệp/N hoặc/N cá_nhân/A có/V nhu_cầu/N chuyển/V nhà/N chuyển/V hàng/N phân_phối/V hàng_hoá/N cỡ/N lớn/A
+Điều/N hấp_dẫn/A nhất/A ở/E một/M ứng_dụng/N ra_đời/V sau_này/N chính/A là/V cam_kết/N các/L lái_xe/N của/E GoShare/N có_thể/A kiếm/V được/R 475/M 6192/M USDgiờ/N thậm_chí/N 99/M USDgiờ/N tuỳ/N loại/N cũng/N như/C kích_cỡ/V xe/N
+Tuy_vậy/C người/N sử_dụng/V xe/N vẫn/R trả/V một/M cái/Nc giá/N thấp/A hơn/A dịch_vụ/N chuyển/V hàng/N truyền_thống/N
+Anh/N Shaun_Savage/Np 34/M tuổi/N nhà/N sáng_lập/V GoShare/N cho/V biết/V ý_tưởng/N ra_đời/V GoShare/N từ/E câu/N hỏi/V bản_thân/N Tất_cả/P mọi/L người/N trong/E đời/N đều/R phải/V có/V lúc/N cần/V một/M người/N giúp_đỡ/V cùng/A một/M chiếc/Nc xe_tải/N để/V chuyển/V đồ/N nhưng/C làm/V thế_nào/N để/E mình/P tìm/V thấy/V điều/N đó/P một_cách/N nhanh_chóng/A
+Vậy/P là/C nhóm/N của/E Shaun_Savage/Np đã/R phát_triển/V một/M ứng_dụng/N trên/N điện_thoại_di_động/N kết_nối/V những/L người/N có/V xe_tải/N hoặc/N SUV/Np với/E những/L người/N gần/A đó/P cần/V được/V giúp_đỡ/N di_chuyển/N vận_chuyển/V và/CC phân_phối/V các/L mặt_hàng/N lớn/A trong/E khoảng_cách/N ngắn/N
+Shaun_Savage/Np chỉ/R nghĩ/V rằng/C cơ_hội/N tận_dụng/V công_nghệ/N với/E nền/N kinh_tế/N sẻ/N chia/V để/E tạo/V ra/R một/M dịch_vụ/N mới/A giải_quyết/V câu_chuyện/N của/E mình/P nhưng/C đó/P cũng/R là/V vấn_đề/N của/E nhiều/A người/N
+Khác/A với/E Uber/Np GoShare/N đơn_thuần/N chỉ/R là/V một/M ứng_dụng/N chở/V hàng_hoá/N không/R chở/V người/N
+Ngoài_ra/C khách/N hàng/N sử_dụng/V dịch_vụ/N GoShare/N đều/R có_thể/R đặt/V xe/N trước/A nhiều/A ngày/N
+Là/V một/M nền_tảng/N linh_hoạt/N GoShare/N mở_rộng/V đa_dạng/V các/L dịch_vụ/N tận_dụng/V tối_đa/A lợi_thế/N của/E các/L xe_tải/N xe/N chuyên_chở/V hàng/N Shaun_Savage/Np nói/V
+Phía/N sau/N những/N startup/N
+Ra_đời/V từ/E năm/N 2014/M và/N được/V nuôi_dưỡng/V ở/V vườn_ươm/N tư_nhân/N EvoNexus/N TP/Np San_Diego/Np chỉ/V sau/E một/M năm/N startup/N GoShare/N đã/R tốt_nghiệp/V vườn_ươm/N và/CC nhanh_chóng/N phát_triển/V mạnh/A trên/N thị_trường/N
+Ngoài/E việc/N nhận/V được/R các/L đặc_quyền/N như/C không_gian/N văn_phòng/N miễn_phí/V nhóm/N được/V nhận/V tư_vấn/N của/E những/L chuyên_gia/N hàng_đầu/N phát_triển/V doanh_nghiệp/N thành_công/V
+Đó/P là/V một/M điều/N may_mắn/A và/CC hữu_ích/A Savage/Np nói/V về/E thời_gian/N của/E mình/P trong/E EvoNexus/N Ở/V đây/P chúng_tôi/P đã/R nhận/V được/R rất/R nhiều/A cố_vấn/N chuyên_nghiệp/A giỏi/A thực_sự/N
+Hiện_Evo/Np Nexus/Np là/V nơi/N khởi_đầu/V của/E khoảng/N 162/M doanh_nghiệp/N thành_công/V và/CC nhiều/A startup/N có/V tiếng/N khác/A chẳng_hạn/N đây/P là/V nơi/N lựa_chọn/V của/E Dmitry_Shapiro/Np cựu/N giám_đốc/N công_nghệ/N Myspace_Music/Np Xoogler/Np người/N đã/R rời/V Google/Np để/E bắt_đầu/V khởi_nghiệp/V với/E dự_án/N GoMeta/N một/M ứng_dụng/N tự_tạo/V ra/R những/L trải_nghiệm/N cá_nhân/N
+Đây/P cũng/R là/V nơi/N ươm/V mầm/N của/E nhà/N cung_cấp/V dịch_vụ/N hàng_đầu/N trong/E lĩnh_vực/N tiếp_thị/N và/CC quản_lí/V nước/N giải_khát/N có/V tên/N TapHunter/N
+TapHunter/N bán/V dịch_vụ/N cho/V các/L quán/N bar/N và/CC nhà_hàng/N kết_nối/V trực_tiếp/V tới/V người/N tiêu_dùng/V thông_qua/V ứng_dụng/V điện_thoại/N
+Với/E khoản/N đầu_tư/V 50000/M USD/Nu vào/E tháng/N 112011/M đến/N tháng/N 62016/M TapUnter/N đã/R tăng/V thêm/V hơn/R 550000/M USD/Nu sau/E khi/N có/V hai/M nhà/N đầu_tư/V rót/V vốn/N
+Bằng/E cách/N đào_tạo/V và/CC phát_triển/V thành_công/V hàng_loạt/N startup/N EvoNexus/V góp_phần/V tạo/V ra/R các/L giấc/N mơ/V khởi_nghiệp/V tại/E miền/N nam/N Mỹ/Np
+Theo/E ông/N Walter_Davis/Np đồng/N sáng_lập/V EvoNexus/N vườn_ươm/N này/P khá/R khắt_khe/A trong/E việc/N đón_nhận/V các/L dự_án/N hằng/N năm/N họ/P chỉ/R chấp_nhận/V một/M số_ít/N ứng_dụng/N của/E các/L nhà/N khởi_nghiệp/V
+Các/L ý_tưởng/N ở/E đây/P là/V đều/R phải/V là/V giải_pháp/N mỗi/N bước_đi/N của/E khởi_nghiệp/N trở_nên/V suôn_sẻ/A hơn/R nhờ/V một/M hệ_sinh_thái/N khởi_nghiệp/V tôn_trọng/N sự/N tự_do/A sáng_tạo/A ông/Nc Walter_Davis/Np nói/V
+Bạn/N có_thể/A sai/V nhưng/C cần/V phải/V học/V cách/N thích_ứng/V trước/E những/N biến_đổi/N
+Đây/P là/V cách/N nước/N Mỹ/Np đang/R thôi_thúc/V cho/V khởi_nghiệp/V
+Walter_Davis/Np
+Quyền/N được/V tự_do/V thất_bại/V
+Trong/E bài/N phát_biểu/V mới/A nhất/R của/N mình/N tại/V lễ/N tốt_nghiệp/V của/E Đại_học/N Harvard/Np cuối/N tháng/N 52017/M CEO/Np Facebook/Np Mark_Zuckerberg/Np đã/R cho/V rằng/N thành_công/V lớn/A nhất/R của/E con_người/N đến/V từ/E quyền/N được/V tự_do/V thất_bại/V mọi/N người/N cần/V có/V cơ_hội/N khởi_nghiệp/V mà/C không/R phải/A sợ_hãi/V điều/N gì/P
+Tương_tự/N cộng_đồng/N khởi_nghiệp/V Mỹ/Np không_thể/V như/C ngày/N này/P nếu/C thiếu/V vườn_ươm/N khởi_nghiệp/N của/E các/L doanh_nghiệp/N tư_nhân/N
+Tại_Evo/Np Nexus/Np các/L startup/N nhận/V được/R sự/N tư_vấn/V tiếp_cận/V vốn/N và/CC không_gian/N làm_việc/V hợp_tác/N mà/C không/R phải/V trả/V khoản/N phí/N nào/P trong/E giai_đoạn/N vườn_ươm/N để/E đảm_bảo/V các/L nhà/N khởi_nghiệp/N yên_tâm/V sáng_tạo/V
+Hiện/N có/V khoảng/N 42/M doanh_nghiệp/N đang/R trong/E giai_đoạn/N này/P
+Các/L startup/N được/V cung_cấp/V phòng/N nghe/V điện_thoại/N riêng/A có/V trà/N cà_phê/N và/CC nước/N uống/V phục_vụ/N miễn_phí/V
+Điều/N khá/R thú_vị/A với/E chúng_tôi/P khi/N tham_quan/V không_gian/N này/P là/V chứng_kiến/V những/L chiếc/Nc bàn/N đơn_giản/A của/E các/L ông/N chủ/N khởi_nghiệp/N
+Những/L chiếc/Nc bàn/N nhỏ/A nằm/V trong/E các/L góc/N phòng/N khiêm_tốn/N với/E thiết_bị/N không_thể/N thiếu/V là/V máy_tính/N nhưng/C lại/R là/V nơi/N đưa/V ra/R nhiều/A giải_pháp/N thay_đổi/V thế_giới/N
+Chẳng_hạn/N như/C bàn/N làm_việc/V của/E nhà/N sáng_lập/N dịch_vụ/N dịch_chuyển/V các/L bản/N ghi_âm/V video/V sang/V văn_bản/N có/V tên/N Temi/Np vừa/R đủ/A đựng/V một/M chiếc/N máy_tính/N nằm/V trong/E góc/N nhỏ/A diện_tích/N chưa/R đến/V 1m2/M
+Temi/Np là/V một/M dịch_vụ/N rã/N băng/N ghi_âm/V video/N được/V xem/V là/C công_cụ/N hỗ_trợ/V các/L nhà_văn/N phóng_viên/N hiện_nay/N
+Mô_hình/N vườn_ươm/N khởi_nghiệp/V phát_triển/V hết_sức/N rộng_mở/N tại/N Mỹ/Np nhiều/A cái/Nc tên/N lừng_lẫy/N hiện_nay/N như/C Airbnb/Np dữ_liệu/N Dropbox/Np
+cũng/R được/V trưởng_thành/V từ/E những/L vườn_ươm/N tương_tự/A EvoNexus/N
+Với/E những/L trung_tâm/N có/V tiếng/N việc/N tốt_nghiệp/V chương_trình/N đào_tạo/V của/E các/L vườn_ươm/N này/P là/V một/M tài_sản/N vô_giá/A với/E các/L nhà/Nc sáng_lập/N khởi_nghiệp/V
+Sự/Nc khắt_khe/A trong/E việc/N huấn_luyện/V và/CC những/L đòi_hỏi/N dành/V cho/E các/L nhà/N khởi_nghiệp/V của/E EvoNexus/N là/V một/M trong/E các/L yếu_tố/N làm_nên/V thành_công/N của/E vườn_ươm/N này/P
+Ở/E nơi/N nào/P có/V sự/N cạnh_tranh/V ở/E đó/P có/V chất_lượng/N tốt/A ông/N Walter_Davis/Np đồng/N sáng_lập/V EvoNexus/N nói/V
+Trong/E bảy/M năm/N thực_hiện/V vai_trò/N vườn_ươm/N của/E mình/N EvoNexus/N đã/R đào_tạo/V nhiều/A lứa/N doanh_nghiệp/N thành_công/V những/L startup/N được/V ươm/V ở/V đây/N đã/R gọi_vốn/A hơn/A 1/M tỉ/M USD/Nu
+17/M startup/N được/V mua/V lại/R ước_tính/V 88/M dự_án/N tốt_nghiệp/V khỏi/V vườn_ươm/N vẫn/R duy_trì/V doanh_nghiệp/N cho/E đến/V ngày_nay/N
+Ngoài/E tư_vấn/N đầu_tư/V vườn_ươm/N cũng/R đóng/V vai_trò/N như/C những/L tổ_chức/N bảo_vệ/V quyền_lợi/N của/E các/L startup/N trước/N nhà/N đầu_tư/V
+Kỳ/N tới/V Nơi/N khởi_đầu/V của/E những/L startup/N

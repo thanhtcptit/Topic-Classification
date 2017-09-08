@@ -1,0 +1,15 @@
+Thủ_phạm/N khiến/V cơ_thể/N người/N bốc/V mùi/N
+George_Preti/Np  /V nhà/N hóa_học_hữu_cơ/X tại/E Trung_tâm/N  /M Cảm_ứng/N Hóa_học/N Monell/Np  /V ở/E Philadelphia_Mỹ/Np cho_biết/V mùi/N hôi/A trên/E cơ_thể/N người/N chịu/V ảnh_hưởng/V một/M phần/N bởi/E yếu_tố/N di_truyền/V theo/E  /N Popular_Science/Np  /V Theo/E đó/P gene/N quyết_định/V loại/Nc phân_tử/N và/CC hàm_lượng/N mà/C cơ_thể/N bạn/N tiết/N ra/V
+Các/L vùng/N khác_nhau/A trên/E cơ_thể/N tạo/V ra/R chất/N bài_tiết/N đặc_trưng/A đồng_thời/R chứa/V loại/N vi_khuẩn/N riêng_biệt/A góp_phần/V hình_thành/V mùi/N
+Cơ_thể/N người/N có/V hai/M loại/Nc tuyến/N mồ_hôi/N là/V eccrine/N và/CC apocrine/N
+Tuyến/N eccrine/N có_mặt/V ở/E khắp_nơi/N thường/R tiết/N ra/V mồ_hôi/N chứa/V chủ_yếu/A là/V nước/N
+Mục_đích/N của/E chúng/P là/V làm/V mát/A cơ_thể/N khi/N bạn/N tiếp_xúc/V với/E nhiệt_độ/N cao/A hoặc/CC tập_thể_dục/V
+Ngược_lại/X tuyến/N apocrine/N chỉ/R nằm/V ở/E một_số/L khu_vực/N nhỏ/A của/E cơ_thể/N chẳng_hạn/X như/A nách/V
+Chúng/P thường/R giải_phóng/V protein/N và/CC chất_béo/N
+Những/L phân_tử/N này/P là/V thủ_phạm/N chính/T tạo/V ra/R mùi/N khó_chịu/A
+Mồ_hôi/N ở/E tuyến/N apocrine/N tiết/N ra/R nhiều/A hơn/R nếu/C bạn/N lo_lắng/V
+Đây/P là/V nguyên_nhân/N khiến/V mồ_hôi/N bạn/N tạo/V ra/R khi/N căng_thẳng/A có/V mùi/N khó_chịu/A hơn/A lúc/N bình_thường/A
+Ngoài_ra/C tất_cả/P vi_khuẩn/N nhỏ/A sống/V trên/E da/N cũng/R tương_tác/V với/E cơ_thể/N dưới/E các/L hình_thức/N khác_nhau/A và/CC chúng/P đều/R có/V khả_năng/N gây/V ra/R mùi/N
+Preti/Np cho_biết/V một_số/L thực_phẩm/N cay/A như/C cà_ri/N hành_tây/V và/CC tỏi/V chứa/V các/L hợp_chất/N tan/V trong/E chất_béo/N
+Chúng/P thường/R được/V giải_phóng/V qua/E mồ_hôi/N và/CC khiến/V bạn/N có/V mùi/N khó_chịu/A hơn/R
+Để/E khắc_phục/V vấn_đề/N này/P chúng_ta/P có_thể/R sử_dụng/V chất_khử/N mùi/N và/CC chất/V chống/V mồ_hôi/N để/E hạn_chế/V mùi/N cơ_thể/N phát/V ra/R

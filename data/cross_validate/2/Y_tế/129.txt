@@ -1,0 +1,9 @@
+Thêm/V một/M người/Nc đàn_ông/N hôn_mê/N do/N sốc/N nhiệt/N
+Tin/V từ/E Bệnh_viện/N đa_khoa/N Tuyên_Quang/Np cho/V biết/V nam/N bệnh_nhân/N là/V Cao_Văn/Np K/Np 42/M tuổi/N hôn_mê/N tiên_lượng/N rất/R xấu/A do/E sốc/N nhiệt/N gia_đình/N đã/R xin/V cho/V bệnh_nhân/N về/V sáng/N sớm/V 56/M
+Theo/E bác/N sĩ/N Đào_Ngọc_Việt/Np trưởng/N khoa/N Cấp_cứu/V Bệnh_viện/N đa_khoa/N Tuyên_Quang/Np ông/N K/Np
+vào/V viện/N ngày/N 46/M trong/N tình_trạng/N hôn_mê/V gọi/V hỏi/V không/R biết/V sốt/V cao/A 40/M độ/N da/N và/CC niêm_mạc/A nhợt_nhạt/N
+Người_nhà/N bệnh_nhân/N kể/V bệnh_nhân/N đi/V gặt/V lúa/N về/V thì/C hoa/N mắt/N chóng_mặt/A sau/N đó/P bị/V ngất/V
+Gia_đình/N đã/R đưa/V ông/N K/Np
+đến/V Bệnh_viện/N đa_khoa/N Yên_Sơn/Np cấp_cứu/V và/CC được/V chuyển/V đến/E Bệnh_viện/N đa_khoa/N tỉnh/N Tuyên_Quang/Np điều_trị/V tiếp/V
+Bác/N sĩ/N Việt/Np cho/V biết/V ông/N K/Np
+đã/R được/V điều_trị/V tích_cực/A nhưng/C do/C sức_khoẻ/N quá/R yếu/A tiên_lượng/N tử_vong/N cao/A nên/C gia_đình/N đã/R xin/V cho/V bệnh_nhân/N về/V sáng/N sớm/V 56/M

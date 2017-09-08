@@ -1,0 +1,14 @@
+Mì/N gói/V A hai/M con/Nc tôm/N A sắp/R lên/V sàn/N chứng_khoán/V
+Sở/N Giao/V dịch/N Chứng_khoán/N Hà_Nội/Np vừa/R quyết_định/V chấp_thuận/V đăng_ký/V giao_dịch/V 4,8/M triệu/N cổ_phiếu/N của/E Công_ty_cổ_phần/N Lương_thực/N Thực_phẩm/N Colusa/Np –/V Miliket/Np trên/E sàn/N UpCOM/Np với/E mã/N CMN/Np
+Giá/N tham_chiếu/A trong/E phiên/N giao_dịch/V đầu_tiên/A /M ngày/N 10/7/M /N là/V 25 0/M đồng/Nu một/M cổ_phiếu/N  /EOS
+Vốn_điều_lệ/N của/E công_ty/N hiện_tại/N là/V 48/M tỷ/N đồng/N và/CC chưa/R tăng/V thêm/R từ/E khi/N chuyển/V sang/V hoạt_động/V theo/E mô_hình/N doanh_nghiệp/N cổ_phần/N vào/E năm/N 2006/M
+Hai/M doanh_nghiệp/N nhà_nước/N là/V Tổng_công_ty/N Lương_thực/N Miền_Nam/Np và/CC Tổng_công_ty/N Thuốc_lá/N Việt_Nam/Np đang/R nắm/V giữ/V tổng_cộng/N 50,72%/M vốn_điều_lệ/N  /EOS
+Có_mặt/V trên/E thị_trường/N từ/E trước/N năm/N 1975/M nhãn_hiệu/N mì_ăn_liền/N Colusa/Np Miliket/Np với/E hình_ảnh/N hai/M con/N tôm/N được/V rất/R nhiều/A người/N tiêu_dùng/V ưa_thích/A và/CC gần_như/R độc_chiếm/V thị_trường/N suốt/A thời_gian/N dài/A
+Sản_phẩm/N của/E công_ty/N đang/R chiếm/V 4%/M thị_phần/N nội_địa/N riêng/A dòng/N mì/N giấy/N vẫn/R dẫn_đầu/V thị_trường/N với/E tỷ_lệ/N 80%/M  /EOS
+Sau/E hơn/A 40/M năm/N xuất_hiện/V trên/E thị_trường/N với/E chiến_lược/N tập_trung/V vào/E phân/N khúc/N bình_dân/A đặc_biệt/A là/C khu_vực/N nông_thôn/N công_ty/N đã/R đầu_tư/V dây_chuyền/N sản_xuất/V 500 0/M gói/N một/M ngày/N và/CC tung/V ra/R nhiều/A sản_phẩm/N mới/A như/C bún/N phở/N hủ_tiếu/N nước_tương/N bột/N canh/V …/N nhằm/V tăng/V sức/N cạnh_tranh/V nhưng/C vẫn/R kiên_quyết/V giữ/V hình_ảnh/N đặc_trưng/A in/V trên/E giấy/N kraft/N  /EOS
+Tuy_nhiên/C hiện/N tình_hình/N cũng/R không/R được/V cải_thiện/V khi/N sản_phẩm/N kém/A hấp_dẫn/V dẫn/V đến/E lượng/N hàng/N tồn_kho/N và/CC nợ/N phải/V trả/V tăng/V vọt/R so/V với/E cùng/A kỳ/N
+Theo/E các/L chuyên_gia/N giữa/E bối_cảnh/N thị_phần/N ngày_càng/X thu_hẹp/V khi/N Acecook/Np Masan/Np và/CC một_số/L thương_hiệu/N mới/R nổi/V đua/V nhau/N chiếm_lĩnh/V thị_trường/N nếu/C công_ty/N không_thể/R cải_thiện/V lượng/N tiêu_thụ/V thì/C lượng/N tiền_mặt/N dồi_dào/A như/C trước_đây/N sẽ/R nhanh_chóng/A cạn_kiệt/V
+Báo_cáo/V tài_chính/N kiểm_toán/V năm/N 2016/M cho/E thấy/V doanh_thu/N và/CC lợi_nhuận/N trước/E thuế/N của/E công_ty/N giảm/V mạnh/A về/E mức/N thấp/A nhất/R trong/E vòng/N 5/M năm/N trở_lại/V đây/P
+Cụ_thể/A công_ty/N ghi_nhận/V 461/M tỷ/N đồng/N doanh_thu/N và/CC 25/M tỷ/Nu đồng/N lợi_nhuận/N
+Hoạt_động/V kinh_doanh/V sa_sút/V cũng/R khiến/V tỷ_lệ/N chia/V cổ_tức/N giảm/V đáng_kể/A từ/E 35%/M bằng/E tiền_mặt/N vào/E năm/N 2013/M thì/C nay/P giảm/V chỉ/R còn/R 25%/M  /EOS
+Năm/N nay/P công_ty/N đặt/V mục_tiêu/N doanh_thu/N thuần/A và/CC lợi_nhuận/N lần_lượt/R đạt/V 575/M tỷ/N đồng/N và/CC 22,4/M tỷ/N đồng/N tương_ứng/V mức/N tăng/V 25%/M và/CC 14%/M so/V với/E năm/N trước/E

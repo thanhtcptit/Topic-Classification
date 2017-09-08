@@ -1,0 +1,22 @@
+Nhà_máy/N điện/N Mặt_Trời/Np làm/V từ/E 10/M 000/M tấm_gương/N khổng_lồ/A
+Theo/E Business_Insider/Np mỗi/M tấm/N năng_lượng/N Mặt_Trời/Np như_vậy/X có/V diện_tích/N 115/M mét_vuông/Nu được/V đặt/V xung_quanh/N một/M tháp/N trung_tâm/N
+Tổng_cộng/V có/V tất_cả/P 10/M 000/M tấm/N như_vậy/X được/V lắp_đặt/V từ/E cuối/N năm/N 2015/M trên/E khu_vực/N rộng/A 1/M 2/M triệu/M m/Nu 2/M thuộc/V Crescent_Dune/Np một/M nhà/N máy_điện/N năng_lượng/N Mặt_Trời/Np tập_trung/V CSP/Np ở/E sa_mạc/N Nevada_Mỹ/Np
+Theo/E Kevin_Smith/Np một/M trong/E những/L nhà_sáng_lập/N dự_án/N loại/N tấm/N này/P không/R phải/V là/C các/L tấm/Nc quang_điện/N photovoltaic/V truyền_thống/N thường/R được/V đặt/V trên/E mái/N nhà/N hay/C các/L nơi/N khai_thác/V năng_lượng/N Mặt_Trời/Np khắp/A thế_giới/N
+Nhược_điểm/N của/E quang_điện/N là/V tính/N không/R liên_tục/A Smith/Np nói/V
+Khi_Mặt_Trời/Np lặn/V là/V không_thể/R sử_dụng/V được/V tiếp/V
+Chúng/P là/V những/L tấm_gương/N thực_sự/A hướng/V theo/E đường/N đi/V của/E Mặt_Trời/Np trong/E ngày/N như/C hoa/N Hướng_dương/N
+Chúng/P sẽ/R tập_trung/V phản_xạ/N ánh_sáng/N Mặt_Trời/Np chính_xác/A vào/E đỉnh/N tháp/N
+Tại/E đây/P năng_lượng/N sẽ/R được/V tích_trữ/V vào/E muối/N nóng_chảy/V
+Theo/E Smith/Np đây/P là/V công_nghệ/N lưu_trữ/V năng_lượng/N tiên_tiến/A nhất/R hơn/A hẳn/R lưu_trữ/V vào/E nước/N vào/E pin/N hay/C vào/E các/L chảo/N parabol/N chứa/V đầy/A chất_lỏng/N
+Tháp/N trung_tâm/N là/V nơi/N chứa/V  /N khoảng/N 25/M 000/M tấn/Nu  /N muối/N nitrate/N của/E Natri/Np và/CC Kali/Np được/V nung/V nóng/A tới/E nhiệt_độ/N 288/M độ/N C/N
+Ở/E nhiệt_độ/N này/P muối/N tồn_tại/V dưới/E dạng/N lỏng/N
+Chúng_tôi/P sẽ/R nung/V nóng/A muối/N tới/E nhiệt_độ/N 560/M độ/N C/N
+Muối/N sau/N đó/P sẽ/R chảy/V xuống/R dưới/E tháp/N và/CC được/V giữ/V ở/E trong/E một/M bể/V chứa/V lớn/A Smith/Np cho_biết/V
+Muối/N nóng_chảy/V giữ/V nhiệt/N rất/R tốt/A và/CC nhiệt/N sẽ/R được/V chuyển/V thành/V điện/N qua/E các/L tuốc/N bin/V hơi_nước/N truyền_thống/N
+Hệ_thống/N này/P có_thể/R cấp_điện/V cho/E nhu_cầu/N của/E 75/M 000/M hộ/N gia_đình/N tại/E Nevada/Np thời_lượng/N 24/M giờ/Nu mỗi/M ngày/N
+Smith/Np tin/V rằng/C CSP/Np không_chỉ/C là/V sự/N thay_thế/V cho/E tấm/Nc quang_điện/N truyền_thống/A mà_còn/C là/V một/M đối_thủ/N cạnh_tranh/V tiềm_năng/N với/E nhiên_liệu/N thông_thường/A
+Nó/P sẽ/R thay_thế/V cho/E nhiên_liệu/N hóa_thạch/V thậm_chí/R là/V nhiên_liệu/N hạt_nhân/N
+Bạn/N không_thể/R cấp_điện/V cho/E cả/P một/M thành_phố/N chỉ/R với/E quang_điện/N và/CC phong/V điện/N nhưng/C có_thể/R với/E CSP/Np nhờ/V dung_lượng/N lưu_trữ/V của/E nó/P
+Công_ty/N Solar_Reverse/Np của/E Smith/Np đã/R phát_triển/V các/L nhà/N máy_điện/N CSP/Np rẻ/A hơn/A dung_lượng/N cao/A hơn/A và/CC có/V kế_hoạch/N xây_dựng/V các/L nhà/N máy_điện/N tương_tự/A Crescent_Dune/Np tại/E Nam_Phi_Chile/Np và/CC Trung_Quốc/Np
+Tất_nhiên/A công_nghệ/N này/P cũng/R có/V nhược_điểm/N CSP/Np chỉ/R có_thể/R hoạt_động/V hiệu_quả/N ở/E những/L khu_vực/N có/V cường_độ/N ánh_sáng/N Mặt_Trời/Np mạnh/A và/CC liên_tục/A
+Bù/V lại/R CSP/Np không/R có/V chất_thải/N ô_nhiễm/V sử_dụng/V ít/A nước/N hơn/R nhiều/A các/L nhà_máy/N nhiệt_điện/N hay/C điện/N hạt_nhân/N và/CC chỉ/R chiếm/V một/M diện_tích/N nhỏ/A hơn/R rất/R nhiều/A so/V với/E nhà_máy/N nhiệt_điện/N đốt/V than/N

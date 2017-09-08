@@ -1,0 +1,10 @@
+Nhân_viên/N cây_xăng/N đâm/V chết/A khách/N đổ/V xăng/N
+Theo/V thông_tin/N ban_đầu/N chiều/N 256/M Đặng_Phi_Toàn/Np 25/M tuổi/N ngụ/N huyện/N Củ_Chi/Np đến/V đổ/V xăng/N tại/E cây_xăng/N số/N 10/M Thị_trấn/N Củ_Chi/Np huyện/N Củ_Chi/Np TPHCM/Np
+Trong/E lúc/N đổ/V nam/N nhân_viên/N tên/N Lý/Np 31/M tuổi/N ngụ/N huyện/N Củ_Chi/Np rút/V vòi/N ra/R làm/V xăng_văng/N trúng/V mặt/N khách/N
+Toàn/Np phản_ứng/V nên/V hai/M bên/N xảy/V ra/R cự/V cãi/N và/CC Toàn/Np bỏ/V về/V
+Lúc/N sau/N Toàn/Np quay/V lại/V cùng/A hai/M người/N bạn/N trên/E một/M xe_máy/N với/E các/L khúc/N gỗ/N trong/N tay/N
+Ba/M người/N đuổi/V đánh/V Lý/Np khiến/V nam/N nhân_viên/N tháo_chạy/V vào/V trong/N cửa_hàng/N
+Lý/Np chụp/V lấy/V con/Nc dao/N gọt/V trái_cây/N để/E trên/N bàn/N bên/N trong/N cửa_hàng/N chống_trả/N
+Toàn/Np bị/V đâm/V trúng/V ngực/N và/CC tử_vong/V sau/E khi/N đi/V cấp_cứu/V
+Sau/E vụ_việc/N nhân_viên/N cây_xăng/N ra/V công_an/N đầu_thú/N
+Công_an/N huyện/N Củ_Chi/Np đến/V khám_nghiệm/V hiện_trường/N điều_tra/V làm/V rõ/A vụ/N án_mạng/N

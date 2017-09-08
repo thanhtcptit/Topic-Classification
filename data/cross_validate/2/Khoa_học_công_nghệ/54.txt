@@ -1,0 +1,6 @@
+​/N Máy_tính/N bảng/N hiển_thị/N chữ_nổi/N cho/V người/N mù/A
+Theo/E giám_đốc/N công_nghệ/N kiêm/V đồng/N sáng_lập/V công_ty/N Blitab/Np ông/N Slavev/Np cho/V biết/V với/E một/M nút/N bấm/N màu/N bạc/N ở/E một/M bên/N của/N thiết_bị/N khi/N người_dùng/N bấm/V chọn/V nền_tảng/N công_nghệ/N tích_hợp/V bên/N trong/N chiếc/Nc máy_tính_bảng/N đặc_biệt/A này/P sẽ/R chuyển_đổi/V các/L văn_bản/N trên/E website/N hoặc/N các/L nguồn/N tài_liệu/N kĩ_thuật/N số_thành/N dạng/N chữ_nổi/N Braille/Np để/V những/L người/N mù/A có_thể/A đọc/V được/R dễ_dàng/A
+Với/E khoảng/N 8/M giờ/Nu sử_dụng/V mỗi/N ngày/N ước_tính/V sau/N mỗi/M lần/N sạc/N pin/N máy/N chiếc/N máy_tính_bảng/N loại/N này/P có_thể/A dùng/V liên_tục/N trong/E 5/M ngày/N
+Trên/E thực_tế/N thị_trường/N đã/R có/V những/L loại/N màn_hình/N hiển_thị/N chữ_nổi/N Braille/Np nhưng/C có_giá/N lên/V tới/R hàng/R ngàn/M USD/Nu và/N chỉ/R hiển_thị/V được/V một/M dòng/N chữ/N Braille/Np do/E đó/P mỗi/L lần/N người_dùng/N chỉ/R có/V đọc/V được/R vài/N chữ/N
+Trong/E khi/N đó/P màn_hình/N máy_tính_bảng/N của/E Blitab/Np có_thể/A hiển_thị/V cùng/A lúc/N 14/M hàng/N chữ/N mỗi/L hàng/N có/V 23/M ô/N chữ/N và/CC mỗi/L ô/N là/V 6/M chấm/N nổi/V
+Mỗi_một/N ô/N có_thể/A hiển_thị/V một/M kí_tự/N trong/E bảng_chữ_cái/N của/E hệ_thống/N chữ/N Braille/Np

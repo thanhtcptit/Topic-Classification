@@ -1,0 +1,34 @@
+Đừng/V tuỳ_tiện/V uống/V thuốc/N mát/N gan/N
+Nhiều/A người/N nổi/V mụn/N chút_xíu/N lên_mặt/N nghĩ/V là/C mình/P bị/V nóng/N gan/N
+Có/V người/N uống/V rượu/N nhiều/A rồi/N ăn_uống/V đầy/A hơi/N khó/A tiêu/N thì/C nghĩ/V mình/P gan/N yếu/A
+Có/V người/N đi/V xét_nghiệm/V phát_hiện/V mình/P bị/V viêm/V gan/N siêu_vi/N B/Np C/Np
+Không/R ít/A bà_con/N đã/R tự_ý/A mua/V các/L thuốc/N gọi_là/N bổ/V gan/N hay/N còn/R gọi/V mát/N gan/N giải_độc/V gan/N để/V trị/V
+bệnh/N gan/N
+Dùng/V tuỳ_tiện/N các/L loại/N giải_độc/N gan/A như/C thế/P có/V đúng/A
+Hiểu/V đúng/A về/E bệnh/N gan/N
+Ta/P cần/V biết/V gan/N là/V cơ_quan/N đặc_biệt/A đảm_nhiệm/V nhiều/A chức_năng/N quan_trọng/A và/N phức_tạp/A
+Một/M chức_năng/N quan_trọng/A của/E gan/N là/V giải_độc/N
+Nhu/Np mô/N gan/N thường_xuyên/A lọc/V ra/R khỏi/V cơ_thể/N những/L chất_độc/N trong/E máu/N bằng/E cách/N chuyển_hoá/N biến_đổi/N chúng/N hết/V độc/A rồi/C thải_loại/V qua/V đường_mật/N hay/C đường/N tiểu/N
+Do/E thường_xuyên/N xử_lí/N chất_độc/N nên/C gan/N có_thể/A bị/V nhiễm_độc/V thể_hiện/V ở/E chỗ/N nhu/N mô/N gan/N bị/V tổn_thương/V và/N được/V gọi_là/N viêm/V gan/N
+Viêm/N gan/N có_thể/A do/E nhiễm_độc/N do/N sử_dụng/V thuốc/N lâu_dài/N do/E dùng/N bia/N rượu/N dài/A ngày/N nhưng/C nguyên_nhân/N thường/A gặp/V nhất/A ở/E ta/N hiện_nay/N là/V viêm/N gan/N do/N nhiễm/V siêu_vi/N viêm/V gan/N siêu_vi/N A/Np B/Np và/CC C/Np
+Khi/N tế_bào/N gan/N bị/V viêm/N bị/V tổn_thương/V các/L men/N gan/N như/C ALT/Np còn/R được/V ghi/V SGPT/Np và/CC AST/Np SGOT/Np từ/E gan/N phóng_thích/N vào/V máu/N nhiều/A hơn/R so/V với/N bình_thường/A
+Vì_vậy/C khi/N xét_nghiệm/V thấy/V men/V gan/N ALT/Np và/CC AST/Np tăng/V lên/R thì/C đó/P là/V dấu_hiệu/N cho/V biết/V tình_trạng/N viêm/V tổn_thương/N gan/N
+Trong/E thời_gian/N điều_trị/V viêm/N gan/N nếu/C các/L men/N gan/N giảm/A xuống/V đến/E mức/N bình_thường/A thì/C xem/V như/C tình_trạng/N bệnh/N được/V cải_thiện/V
+Khi/N gan/N bắt_đầu/V bị/V tổn_thương/V thì/C người_bệnh/N có_thể/A có/V nhiều/A triệu_chứng/N
+Có/V triệu_chứng/N ở/V ngay/R gan/N như/C khi/N siêu_âm/V cho/V biết/V bị/V gan/N nhiễm/V mỡ/N nhưng/C cũng/R có/V triệu_chứng/N ở/V cơ_quan/N khác/A như/C khó/A tiêu/V đầy/N bụng/N rối_loạn/V bài_tiết/N mật/N thậm_chí/N bị/V phù/V chân/N trí_não/N lú_lẫn/N hôn_mê/N gọi_là/N bệnh/N não/N do/E gan/N hay/N hôn_mê/V gan/N
+Cẩn_thận/N chế_phẩm/N chưa/R thử_nghiệm/V lâm_sàng/N
+Thuốc_bổ/V gan/N hay/A mát/N gan/N giải_độc/N gan/N hoặc/N thuốc/N giúp/V hạ/N men/V gan/N được/V phân_loại/V vào/R nhóm/N thuốc/N gọi_là/N thuốc/N hướng/V gan/N hepatotropes/N
+Thuốc/N hướng/V gan/N là/V thuốc/N có/V tác_dụng/N hỗ_trợ/V trị/N các/L triệu_chứng/N rối_loạn/N ở/V gan/N trong/N đó/N có/V tác_dụng/N bảo_vệ/V nhu/N mô/N gan/N hoặc/N giúp/V làm/V hạ/V men/N gan/N
+Cần/V lưu_ý/V các/L thuốc/N loại/N này/P không/R trị/V khỏi/V bệnh/N viêm/N gan/N siêu_vi/N tức_là/V không/R tiêu_diệt/V được/R siêu_vi/V B/Np C/Np mà/C chỉ/R hỗ/V trợ_giúp/V làm/V giảm/V men/N gan/N trở_lại/V mức/N bình_thường/A
+Đặc_biệt/A có/V một/M số_không/N phải/V là/V thuốc/N mà/C là/V chế_phẩm/N thực_phẩm_chức_năng/X được/V giới_thiệu/V là/C bổ/V gan/N làm/V hạ/V men/N gan/N có/V một_số/N chỉ/R dựa/V vào/R thử_nghiệm/V dược_lí/N tức/V thử/V trên/N súc_vật/N thí_nghiệm/N chứ/N chưa/R được/V thử_nghiệm/V lâm_sàng/N để/V cho/V kết_quả/N cụ_thể/A rõ_ràng/A
+Không/R tự_ý/N dùng/V thuốc_bổ/N gan/N
+Người/N đã/R được/V xác_định/V bị/V nhiễm/V viêm/N gan/N siêu_vi/N B/Np C/Np hoặc/CC viêm/V gan/N do/N rượu/N phải/V được/V bác_sĩ/N khám/V trực_tiếp/A chỉ_định/V dùng/V thuốc/N
+Không/R nên/V tự_ý/N dùng/V thuốc/N bừa_bãi/N đặc_biệt/A không/R nên/V tự_ý/N sử_dụng/V thuốc_bổ/N gan/N mà/C không/R hỏi/V ý_kiến/N của/N bác_sĩ/N
+Dùng/V thuốc/N bừa_bãi/N sẽ/R làm/V cho/R thương_tổn/V vốn/N có/V ở/V gan/N nặng/A thêm/V thôi/T
+Người_tình/N cờ/N phát_hiện/V mình/P có/V tăng/N men/N gan/N như/C được/V xét_nghiệm/V máu/N đánh_giá/V các/L chỉ_tiêu/N khác/A như/C đo/N mỡ/N trong/E máu/N đường/N glucose/A trong/A máu/N
+và/N đo/V thêm/V men/N gan/N cũng_nên/V hỏi/V bác_sĩ/N về/E việc/N sử_dụng/V thuốc/N hạ/V men/N gan/N
+Nên/C lưu_ý/N khi/N dùng/V một_số/N thuốc/N có_thể/R làm/V tăng/V men/N gan/N như/C dùng/V thuốc/N trị/V rối_loạn/N mỡ/N trong/A máu/N nếu/N ngưng/V thuốc/N sẽ/R làm/V men/V gan/N trở_lại/V bình_thường/A
+Khi/N đang/R dùng/V thuốc/N bị/V tăng/V men/N gan/N phải/V báo/V cho/V bác_sĩ/N điều_trị/N biết/V hầu/N có/V hướng/N xử_trí/N thích_hợp/A
+Hiện_nay/N trên/E thị_trường/N có/V lưu_hành/V các/L chế_phẩm/N thực_phẩm_chức_năng/X gọi_là/N bổ/V gan/N giúp/V hạ/V men/V gan/N
+Tuy_nhiên/C chế_phẩm/N thực_phẩm_chức_năng/X được/V xem/V không/R phải/V là/V thuốc/N và/CC không/R có/V tác_dụng/N thay_thế/V thuốc/N chữa/V bệnh/N
+Nếu/C đang/R được/V bác_sĩ/N khám/V chữa/V bệnh/N nhất_thiết/N phải/V hỏi/V bác_sĩ/N về/E việc/N dùng/V chế_phẩm/N thực_phẩm_chức_năng/N nào/P đó/P có/V được/R hay/V không/R

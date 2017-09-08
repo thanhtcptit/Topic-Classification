@@ -1,0 +1,7 @@
+Khởi_động/N tuần/N cao_điểm/N vận_động/V hiến/V máu/N
+Tuần/N cao_điểm/N vận_động/V hiến/V máu/N được/V bắt_đầu_từ/N ngày/N 116/M và/N kéo_dài/V đến/V 186/M
+Ngay/T tại/E lễ/N phát_động/V tuần_lễ/N cao_điểm/A một/M chiến_dịch/N có/V tên/N BE/Np THE/Np 1/M mà/N đại_sứ/N toàn_cầu/N đầu_tiên/A là/V cầu_thủ/N bóng_đá/N Cristiano_Ronaldo/Np sẽ/R ra_mắt/V ở/V Việt_Nam/Np
+Theo/E ông/N Nguyễn_Anh_Trí/Np viện_trưởng/N Viện_Huyết_học/N truyền/V máu/N T/Np
+Ư/N công_nghệ/N truyền/V máu/N hiện_đại/A đang/R giúp/V một/M người/N hiến/V máu/N có_thể/R cứu/V sống/V tối_thiểu/A ba/N người_bệnh/N
+Với/E chiến_dịch/N BE/Np THE/Np 1/M và/N tuần_lễ/N cao_điểm/N vận_động/V hiến/V máu/N ban/N tổ_chức/V hi_vọng/N vận_động/V được/V nhiều/A người/N tham_gia/V
+Tại_Việt_Nam/Np chiến_dịch/N BE/Np THE/Np 1/M năm/N nay/P được/V khởi_động/V với/E sự/N tham_gia/V của/E ba/N tình_nguyện/V viên/N đạp/V xe/N từ/E Iran/Np qua/V sáu/M quốc_gia/N để/E vận_động/V hiến/V máu/N trong/N đó/N có/V Việt_Nam/Np

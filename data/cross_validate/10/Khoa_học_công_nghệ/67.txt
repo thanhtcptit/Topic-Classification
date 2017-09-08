@@ -1,0 +1,11 @@
+​/N Quản_lí/V hành_lí/N máy_bay/N từ/E xa/A không/R lo/V thất_lạc/V
+RFID/Np Radio_Frequency_Identification/Np là/V công_nghệ/N nhận_dạng/A bằng/N tần_số/N của/N sóng_vô_tuyến/N
+Hệ_thống/N này/P gồm/V 3/M bộ_phận/N chính/N thẻ/N RFID/Np tag/N thiết_bị/N đọc/V thẻ/N RFID/Np hay/R còn/V gọi_là/N đầu_đọc/N –/N reader/N và/CC các/L phần_mềm/N vi_tính/N
+Trong/E ứng_dụng/N của/E hãng/N Delta/Np hành_lí/V kí_gửi/N của/E khách/N hàng/N sẽ/R được/V đeo/V một/M thẻ/N RFID/Np khi/N khách/N làm/V thủ_tục/N tại/N sân_bay/N
+Sau/E đó/P trong/E quá_trình/N vận_chuyển/V các/L đầu_đọc/N RFID/Np gắn/V trên/E các/L băng_chuyền/N sẽ/R đọc/V thông_tin/N của/E hành_lí/N và/CC báo/V về/V trung_tâm/N quản_lí/N
+Qua/E đó/P trung_tâm/N sẽ/R dễ_dàng/A biết/V được/R hành_lí/N nào/N của/E khách/N hàng/N nào/N đang/R được/V vận_chuyển/V lên/R máy_bay/N chuyến/N bay/V nào/N có/V đúng/A với/E lịch_trình/N của/E chủ_nhân/N hay/C không/R
+Nếu/C không/R đúng/A hệ_thống/N sẽ/R kịp_thời/A dò_tìm/V đúng/A vị_trí/N hành_lí/A và/CC chuyển/V nó/P sang/V đúng/A với/E máy_bay/N chuyến/N bay/V của/N chủ_nhân/N nó/P
+Công_nghệ/N này/P giúp/V khâu/N vận_chuyển/V hành_lí/N khách/N hàng/N diễn/V ra/R nhanh_chóng/A và/N chính_xác/A đến/V 9999/M
+Qua/E đó/P không_những/N giúp/V hành_khách/N đi/V máy_bay/N không/R phải/A lo_âu/V về/V nguy_cơ/N thất_lạc/V hành_lí/N kí_gửi/N cũng/R như/C góp_phần/V đẩy/V nhanh/A lịch_trình/N vận_hành/V của/E các/L chuyến/N bay/V
+Delta/N dự_kiến/V đến/V cuối/N tháng/N 52016/M sẽ/N áp_dụng/V hệ_thống/N quản_lí/N trên/N tại/N 344/M sân_bay/N
+Việc/N hãng/N hàng_không/N lớn/A thứ_hai/N thế_giới/N ứng_dụng/N công_nghệ/N quản_lí/N hành_lí/N hiện_đại/A sẽ/R có/V tác_dụng/N lớn/A đối_với/N các/L hãng/N hàng_không/N còn/V lại/V trong/E việc/N bảo_đảm/V hành_lí/N cho/V hành_khách/N đi/V máy_bay/N

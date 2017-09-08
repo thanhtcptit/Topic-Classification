@@ -1,0 +1,12 @@
+Phủ_sóng/V Internet/Np bằng/E bóng_bay/N khổng_lồ/A
+Indonesia/Np bao_gồm/V hơn/R 17/M 000/M hòn/N đảo/N phần_lớn/N các/L đảo/N đều/R có/V nhiều/A đồi_núi/N và/CC rừng/N rậm/N
+Địa_hình/N hiểm_trở/A này/P khiến/V cho/E việc/N lắp_đặt/V cáp_quang/N hoặc/CC những/L cột/N phát/V tín_hiệu/N di_động/V trở_nên/V bất_khả_thi/A
+Do_đó/C gần/A 1/3/M dân_số/N của/E đất_nước/N đông/N dân/N thứ/N 4/M trên/E thế_giới/N này/P không_thể/R truy_cập/V mạng/N Internet/Np
+Tuy_nhiên/C công_ty/N Google/Np của/E Mỹ/Np đã/R đưa/V ra/R một/M giải_pháp/N thông_qua/V dự_án/N Loon/Np
+Cùng_với/C ba/M nhà_cung_cấp/N dịch_vụ/N Internet/Np đến/V từ/E Indonesia_Telkomsel_Axiata/Np và/CC Inmost/Np –/V Google/Np dự_kiến/V bắt_đầu/V thử_nghiệm/V mạng/N Internet/Np phát/V tín_hiệu/N từ/E bóng_bay/N vào/E năm/N sau/E
+Theo/E IFL/Np Science/Np dự_án/N Loon/Np nhằm/V đưa/V những/L quả/N bóng_bay/N chứa/V khí/N heli/N dài/A 12/M m/Nu lên/V độ/N cao/A 20/M km/Nu trên/E tầng/N bình/N lưu/V nơi/N chúng/P có_thể/R phát/V tín_hiệu/N Internet/Np ở/E tốc_độ/N 10/M megabit/V một/M giây/N
+Mỗi/L quả/N bóng_bay/N trang_bị/V một/M tấm/Nc pin/N mặt_trời/N một/M máy_tính/N hành_trình/N với/E hệ_thống/N định_vị/V vệ_tinh/N và/CC hệ_thống/N kiểm_soát/V độ/N cao/A
+Mạng_Internet/Np vẫn/R nằm/V ngoài/E tầm/N với/E của/E rất/R nhiều/A người/N nhưng/C chúng_tôi/P đang/R nỗ_lực/V phát_triển/V
+Nếu/C mọi/L thứ/N thuận_lợi/V nhiều/A người_dân/N ở/E Indonesia/Np sắp/R có_thể/A đưa/V những/L ý_tưởng/N nền/N văn_hóa/N và/CC công_việc/N kinh_doanh/V của/E họ/P lên/V mạng/N đại_diện/N công_ty/N chia_sẻ/V trên/E Google_Blog/Np
+Dự_án/N Loon/Np là/V một/M phần/N trong/E động_thái/N lớn/A hơn/R nhằm/V kết_nối/V Indonesia/Np với/E phần/N còn/V lại/R của/E thế_giới/N
+Chỉ/R 23/M %/Nu người_dân/N Indonesia/Np sở_hữu/V điện_thoại/N thông_minh/A bởi_vậy/C Google/Np đã/R phát_hành/V điện_thoại_di_động/N mang/V tên/N Android_One/Np giá/N rẻ/A và/CC tích_hợp/A các/L ngôn_ngữ/N của/E Indonesia/Np như/C Bahasa/Np và/CC Sunda/Np vào/V ứng/V dựng/V dịch/N Google_Translate/Np

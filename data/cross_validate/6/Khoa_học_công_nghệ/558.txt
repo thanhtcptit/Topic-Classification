@@ -1,0 +1,11 @@
+Dịch_chuyển/V tức_thời/R thông_tin/N bằng/E chùm/Nc tia/Nc laser/N
+Trước_đây/N hiện_tượng/N dịch_chuyển/V tức_thời/R đã/R được/V các/L nhà_khoa_học/N chứng_minh/V trong/E thế_giới/N lượng_tử/V
+Những/L hạt/N lượng_tử/A như/C electron/N và/CC hạt/Nc ánh_sáng/N tồn_tại/V trong/E một/M trạng_thái/N không_gian/N bất_định/A Alexander_Szameit/Np giáo_sư/N tại/E Đại_học/N Jena_Đức/Np giải_thích/V
+Nói/V cách/N khác/A các/L hạt/N này/P có_thể/R ở/V hai/M hay/C nhiều/A nơi/N cùng/A lúc/N theo/V một/M xác_suất/N nhất_định/A
+Trong/E một/M không_gian/N trải/V rộng/A trên/E nhiều/A địa_điểm/N các/L hạt/N này/P có_thể/R truyền_tải/V thông_tin/N từ/E nơi/N này/P đến_nơi/N khác/A cùng/A lúc/N giáo_sư/N Szameit/Np cho_biết/V trong/E nghiên/N công_bố/V hôm/N 11/1/M trên/E tạp_chí/N Laser/Np &/CC Photonics_Reviews/Np
+Theo/E UPI/Np trong/E thí_nghiệm/N mới/A nhất/R kỹ_thuật/N dịch_chuyển/V tức_thời/R được/R áp/V dùng/V thành_công/N để/E truyền_tải/V các/L thông_tin/N vật_lý_cổ_điển/X
+Các/L nhà_nghiên_cứu/N có_thể/A sử_dụng/V các/L hạt/N lượng_tử/N để/E dịch_chuyển/V tức_thời/R thông_tin/N cần_thiết/A thông_qua/V quá_trình/N phức_tạp/A mang/V tên/N “/M sự/Nc rối/V lượng_tử/V
+Tương_tự/A trạng_thái/N vật_lý/N của/E các/L hạt_cơ_bản/N tính_chất/N của/E chùm/Nc ánh_sáng/N cũng/R có_thể/R được/V liên_kết/V theo/E một/M ý_đồ/N nào_đó/P Marco_Ornigotti/Np đồng_tác_giả/N nghiên_cứu/V giải_thích/V
+Nhờ/V đó/P bạn/N có_thể/A gắn/V các/L thông_tin/N muốn/V truyền_tải/V với/E một/M thuộc_tính/N cụ_thể/A của/E ánh_sáng/N
+Cụ_thể/A thuộc_tính/N ánh_sáng/N mà/C các/L nhà_nghiên_cứu/N sử_dụng/V trong/E thí_nghiệm/N này/P là/V sự/Nc phân_cực/V để/E mã_hóa/V thông_tin/N trong/E chùm/Nc tia/Nc laser/N
+Thông_tin/N mã_hóa/V trong/E sự/Nc phân_cực/V của/E ánh_sáng/N được/R dịch_chuyển/V tức_thời/R tới/E một/M địa_điểm/N khác/A mà/C không/R bị/V mất_mát/V và/CC sai_lệch/V

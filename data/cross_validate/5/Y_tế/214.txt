@@ -1,0 +1,16 @@
+Lần/N đầu/A một/M bệnh_viện/N quận/N mổ/V ung_thư/N gan/N
+Sáng/N 185/M các/L bác_sĩ/N Bệnh_viện/N Q2/Np TPHCM/Np cho/V biết/V lần/N đầu_tiên/N Bệnh_viện/N Q2/Np đã/R phẫu_thuật/V gan/A cho/E bà/N NTD/Np 77/M tuổi/N ngụ/N ở/V Q2/Np bị/V ung_thư/N gan/N
+Ngoài/E mắc/N bệnh/N ung_thư/N gan/N bà/N D/Np
+còn/C bị/V bệnh/N cao/A huyết_áp/N đái_tháo_đường/N từ/E nhiều/A năm/N nay/P
+Trước/E đó/P bà/N D/Np
+đến/V Bệnh_viện/N Q2/Np khám/V với/E lí_do/N bị/V mệt/V đau/V vùng/N hạ/V sườn/N phải/V
+Các/L bác_sĩ/N phát_hiện/V bà/N D/Np
+có/V khối/N u_nang/N phải/V với/E kích_thước/N 5x5/M 5cm/N
+Bà/N D/Np
+được/V chẩn_đoán/N bị/V ung_thư/N gan/N nguyên_phát/N phân/N thuỳ/N 6/M gan/N phải/V
+Sau/E khi/N hội_chẩn/V với/E Bệnh_viện/N Ung_bướu/N Bệnh_viện/N Đại_học/N Y/Np dược/V Bệnh_viện/N Nhân_Dân_Gia_Định/Np các/L bác_sĩ/N Bệnh_viện/N Q2/Np quyết_định/V mổ/V cho/V người_bệnh/N tại/E Bệnh_viện/N Q2/Np dưới/E sự/N hướng_dẫn/V của/E các/L bác_sĩ/N Bệnh_viện/N Đại_học/N Y/Np dược/V
+Bà/N D/Np
+đã/R được/V cắt/V đi/V gần/V 12/M gan/N phải/V cắt/V trọn/A phân/N thuỳ/N 6/M và/N một/M phần/N phân/N thuỳ/V 7/M
+Phẫu_thuật/V gan/N là/V một/M loại/Nc phẫu_thuật/N đặc_biệt/A vì/E khi/N mổ/V gan/N máu/N sẽ/R chảy/V ra/R rất/R nhiều/A
+Hiện/N bà/N D/Np
+đang/R hồi_phục/V tốt/A

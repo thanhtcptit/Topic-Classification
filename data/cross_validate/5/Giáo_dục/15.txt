@@ -1,0 +1,61 @@
+Chấm/N thi/V THPT/Np Quốc_gia/N 2017/M Nhiều/Np điểm/N 10/M các/L môn/N tự_nhiên/N
+Có/V điểm/N liệt/A môn/N ngữ_văn/N vì/N thí_sinh/V không/R viết/V được/R ý/N tối_thiểu/N để/V cho/V điểm/N theo/V hướng_dẫn/N chấm/V viết/V dài_dòng/N không/R trúng/V ý/N bị/V lạc_đề/V
+Theo/E lịch/N của/E Bộ/N GDĐT/M ngày/N 77/M sẽ/N công_bố/V điểm/N thi/V THPT/Np quốc_gia/N 2017/M
+Phu/N ́/N Yên/Np 4/M điê/N ̉/N m/N 10/M môn/N toa/N ́/N n/V
+Chiê/N ̀/N u/N 47/M ông/N Ngô_Ngo/Np ̣/V c/N Thư/Np pho/N ́/N gia/N ́/N m/N đô/N ́/N c/N Sơ/Np ̉/V GDĐT/N Phu/Np ́/V Yên/Np cho/V biê/N ́/N t/N đa/N ̃/N hoa/N ̀/N n/N tâ/N ́/N t/N viê/N ̣/N c/N châ/N ́/N m/N thi/V THPT/Np quô/V ́/N c/N gia/N 2017/M trên/N đi/V ̣/N a/N ba/N ̀/N n/N ti/N ̉/N nh/N
+Sở/N đang/R thư/N ̣/V c/N hiê/N ̣/N n/V ca/N ́/N c/N thu/N ̉/N tu/N ̣/N c/N chuyê/N ̉/N n/N điê/N ̉/N m/N cho/V Bô/Np ̣/V GDĐT/N kiê/N ̉/N m/N tra/V theo/E quy/N đi/V ̣/V nh/N
+Kê/N ́/N t/V qua/R ̉/N châ/N ́/N m/N thi/V cho/E thâ/N ́/N y/N co/V ́/N bô/N ́/N n/N ba/N ̀/N i/V thi/V môn/N toa/N ́/N n/V đa/N ̣/N t/N điê/N ̉/N m/N 10/M
+Sô/N ́/N ba/N ̀/N i/V thi/V ca/N ́/V c/N môn/N vâ/N ̣/N t/V ly/N ́/N ho/N ́/N a/N ho/N ̣/N c/N sinh/V ho/N ̣/N c/N co/V ́/N điê/N ̉/N m/N tư/N ̀/N 8975/M cu/N ̃/N ng/N nhiê/N ̀/N u/N
+Ở/E môn/N văn/N ba/N ̀/N i/N co/V ́/N điê/N ̉/N m/N cao/A nhâ/N ́/N t/N là/V 95/M điê/N ̉/N m/N
+Ca/N ́/V c/N môn/N đi/V ̣/V a/N ly/N ́/N gia/N ́/N o/N du/N ̣/N c/N công_dân/N phô/N ̉/N biê/N ́/N n/N 79/M điê/N ̉/N m/N ông/N Thư/Np thông_tin/V
+Còn/C ông/N Nguyễn_Minh_Trí/Np phó/N giám_đốc/N Sở/N GDĐT/N Quảng_Ngãi/Np cho/V biết/V nơi/N này/P cũng/R hoàn_tất/V chấm/N thi/V và/N đã/R chuyển/V kết_quả/N ra/V Bộ/N GDĐT/M từ/E sáng/N 37/M
+Theo/E ông/N Trí/Np Quảng_Ngãi/Np có/V một_số/L thí_sinh/N đạt/V điểm/N 10/M các/L môn/N toán/N hoá/V
+Ông/N Nguyễn_Minh_Tường/Np đại_diện/V ban/N chấm/V thi/N của/E Phú_Thọ/Np cho/V biết/V theo/E thống_kê/N sơ_bộ/N có/V nhiều/A điểm/N 9/M 10/M ở/E tất_cả/P các/L bài/N thi/V
+Bài/N thi/V ngữ_văn/V có/V điểm_cao/N nhất_là/N 925/M
+điểm/N 10/M có/N ở/V toán/N hoá/V lí/N sinh/V
+Ông/Nc Tường/Np nói/V Có/V khoảng/N 5060/M trường_hợp/N đạt/V mức/N điểm/N tối_đa/A các/L bài/N thi/N độc_lập/N hoặc/N môn/N thành_phần/N trong/E bài/N thi/V tổ_hợp/N
+Cũng/R theo/V ông/N Tường/Np phổ/V điểm/N bài/N thi/N ngữ_văn/V của/N Phú_Thọ/Np ở/V khoảng/N 57/M điểm/N
+Đà_Nẵng/Np 2/M bài/N thi/V văn/N đạt/V 975/M điểm/N
+Theo/E Sơ/Np ̉/N GDĐT/N Đa/Np ̀/V Nă/Np ̃/V ng/N ngày/N 57/M toàn_bộ/N dữ_liệu/N chấm/N thi/V THPT/Np quốc_gia/N tại/N Đà_Nẵng/Np sẽ/R được/V chuyển/V cho/E Bộ/N GDĐT/N
+Ông/N Nguyễn_Đình_Vĩnh/Np giám_đốc/N Sở/N GDĐT/Np Đà_Nẵng/Np cho/V biết/V co/N ́/N 6385/M 10418/M ba/N ̀/N i/V thi/V môn/N văn/N đa/N ̣/N t/N tư/N ̀/N 5/M điê/N ̉/N m/N trơ/N ̉/N lên/V tỉ/N lê/N ̣/N 6129/M co/N ́/N 2/M ba/N ̀/N i/N đa/N ̣/N t/N 975/M điê/N ̉/N m/N 4/M ba/N ̀/N i/N đa/N ̣/V t/N 95/M điê/N ̉/N m/N 10/M ba/N ̀/N i/N đa/N ̣/N t/N 925/M điê/N ̉/N m/N 37/M ba/N ̀/N i/N đa/N ̣/N t/N điê/N ̉/N m/N 9/M
+Ngoài_ra/C tại/E Hải_Dương/Np Hà_Nam/Np Hà_Nội/Np Hưng_Yên/Np Phú_Thọ/Np
+lãnh_đạo/N các/L ban/N chấm/V thi/V đều/N cho/V biết/V xuất_hiện/V điểm/N 9/M 10/M khá/N nhiều/A ở/E cả/T các/L môn/N trắc_nghiệm/V và/N môn/N ngữ_văn/V
+Cụ_thể/N tại/E Hà_Nội/Np nhiều/A giáo_viên/N chấm/V thi/V cho/V biết/V có/V các/L điểm/N 995/M môn/N ngữ_văn/V ở/E nhiều/A túi/N bài/N thi/V
+Ở_Lai_Châu/Np điểm/N văn/N cao/A nhất/A của/E cụm/N thi/N này/P là/V 9925/M
+Bà/N Đinh_Thị_Lụa/Np giám_đốc/N Sở/N GDĐT/N Hà_Nam/Np cũng/R cho/V biết/V điểm/N bài/N thi/N ngữ_văn/V cao/A nhất/A tỉnh/N này/P là/V 95/M
+Tại_Hưng_Yên/Np theo/V ông/N Phạm_Xuân_Quyết/Np trưởng/N ban/N thư_kí/N ban/N chấm/V thi/V thống_kê/V sơ_bộ/N kết_quả/N chấm/V thi/V môn/N ngữ_văn/N có/V khoảng/N 62/M thí_sinh/N có/V mức/N điểm/N từ/E 5/M trở/V lên/V trên/N 200/M bài/N thi/V điểm/N 8/M trở/N lên/V chiếm/V gần/A 2/M tổng_số/N bài/N thi/V
+Toàn/Np tỉnh/N Hưng_Yên/Np có/V 6/M thí_sinh/N đạt/V điểm/N 9/M bài/N thi/V ngữ_văn/V ông/N Quyết/Np nói/V
+Ông/N Đa/Np ̀/V o/N Đư/Np ́/V c/N Tuâ/Np ́/V n/N gia/N ́/N m/N đô/N ́/N c/N Sơ/Np ̉/V GDĐT/N Bi/Np ̀/V nh/N Đi/V ̣/V nh/N cũng/R cho/V biê/N ́/V t/N đê/N ́/N n/V chiê/N ̀/N u/N 47/M viê/N ̣/N c/N châ/N ́/N m/N điê/N ̉/N m/N THPT/Np quô/V ́/N c/N gia/N 2017/M ta/N ̣/N i/N ti/N ̉/N nh/N na/N ̀/N y/N đa/N ̃/V xong/V
+Tại/E các/L tỉnh/N Thừa_Thiên/Np Huế/Np Quảng_Nam/Np Quảng_Trị/Np Quảng_Bình/Np
+việc/N chấm/V thi/N đã/R gần/A hoàn_tất/V và/N sẽ/R công_bố/V trong/E ngày/N 6/M và/N 77/M
+TPHCM/Np 1180/M thí_sinh/N đạt/V 8/M điểm/N trở/V lên/V môn/N văn/N
+Theo/E Sở/N GDĐT/N TPHCM/Np hiện/N sở/N đã/R gửi/V đĩa/N kết_quả/N chấm/V các/L bài/N thi/V THPT/Np quốc_gia/N 2017/M cho/V Bộ/N GDĐT/N
+Trong/E đó/P lãnh_đạo/N sở/N chỉ/R mới/R nắm/V phổ/N điểm/N của/E môn/N văn/N do/E đây/P là/V bài/N thi/V tự/N luận/V
+Về/V phổ/V điểm/N bài/N thi/V môn/N văn/N ông/N Nguyễn_Văn_Hiếu/Np phó/N giám_đốc/N Sở/N GDĐT/Np TP/Np cho/V biết/V có/V 1180/M 67630/M thí_sinh/N đạt/V từ/E 8/M điểm/N trở/V lên/R tỉ_lệ/N 174/M
+57267/M thí_sinh/N đạt/V từ/N 5/M điểm/N trở/V lên/R tỉ_lệ/N 8468/M
+Trong/E đó/P thí_sinh/V đạt/V điểm_cao/N nhất_là/N 95/M không/R có/V điểm/N 10/M có/V một/M thí_sinh/N chỉ/N đạt/V 075/M điểm/N do/N hầu/N như_không/N làm/V bài/N
+Điểm/N liệt/A vẫn/R khá/A nhiều/A
+Nhiều/A sở/N GDĐT/M các/L tỉnh/N phía/N Bắc/Np cho/V biết/V gần/A như/C bài/N thi/N nào/P cũng/R có/V thí_sinh/N bị/V điểm/N liệt/A
+Phú_Thọ/Np có/V 3/M bài/N thi/V ngữ_văn/V và/N khoảng/N 30/M bài/N thi_trắc_nghiệm/N bị/V điểm/N liệt/A
+Lai_Châu/Np cũng/R có/V thí_sinh/N bị/V điểm/N liệt/A bài/N thi/V tổ_hợp/N
+Ông/N Phạm_Xuân_Quyết/Np trưởng/N ban/N thư_kí/N ban/N chấm/V thi/V Hưng_Yên/Np cho/V biết/V các/L bài/N thi/V đều/R có/V điểm/N liệt/A nhưng/C tỉ_lệ/N thấp/A hơn/A các/L năm/N trước/A nhất_là/N điểm/N liệt/A bài/N thi_trắc_nghiệm/N giảm/V rõ_rệt/N
+Điểm_chuẩn/N sẽ/R như/A thế_nào/P
+Ông/Nc Nguyễn_Văn_Khải/Np trưởng_phòng/N đào_tạo/V Trường/N ĐH/N Y/Np dược/V Hải_Phòng/Np
+Nên/C tham_khảo/V mức/N điểm_chuẩn/V các/L năm/N trước/A để/E xét/V tuyển/N
+Đến/E thời_điểm/N này/P các/L tỉnh/N chưa/R công_bố/V chính_thức/A điểm/N thi/V nên/V chưa/R thể/R đánh_giá/V chính_xác/A điểm_chuẩn/N các/L trường/N năm/N nay/P có/V biến_động/N gì/N so/V với/E mọi/L năm/N hay/C không/R
+Tuy_nhiên/C thí_sinh/N cần/V tìm_hiểu/V kĩ/N mức/N điểm_chuẩn/N hằng/R năm/N của/E ngành/N trường/N mình/N đăng_kí/V để/E có/V lựa_chọn/N phù_hợp/V
+Năm/N 2016/M do/N tỉ_lệ/N ảo/N cao/A ngành/N y/N đa_khoa/N của/E trường/N tuyển/N đợt/N 1/M có/V điểm_chuẩn/N là/V 25/M điểm/N đợt/N 2/M giảm/V xuống/R còn/V 24/M điểm/N
+Tuy_nhiên/C xét/V một_cách/N tổng_quan/A điểm_chuẩn/N ngành/N y/N đa_khoa/N của/E trường/N không/R năm/N nào/P dưới/N 25/M điểm/N trừ/V đợt/N 2/M năm/N 2016/M
+Thí_sinh/N có/V mức/N điểm/N thi/V tương_tự/N mức/N điểm_chuẩn/V các/L năm/N trước/N sẽ/R có/V cơ_hội/N cao/A khi/N đăng_kí/V xét/V tuyển/V các/L ngành/N tương_tự/N của/E năm/N 2017/M
+Ông/Nc Bùi_Đức_Triệu/Np trưởng_phòng/N quản_lí/N đào_tạo/V Trường/N ĐH/N Kinh_tế/N quốc_dân/N
+Không/R biến_động/V quá/N lớn/A so/V với/E mọi/N năm/N
+Hiện/N chưa/R có/V số_liệu/N tổng_thể/A về/V điểm/N thi/V trên/N toàn_quốc/N
+Nhưng/C qua/E thông_tin/N ban/N đầu_từ/V các/L tỉnh/N cho/V thấy/V có/V khả_năng/N điểm/N thi/V năm/N nay/P không/R xê_dịch/V nhiều/A không/R biến_động/V quá/N lớn/A so/V với/E mọi/N năm/N
+Chính_Thứ_trưởng/N Bộ/N GDĐT/N Bùi_Văn_Ga/Np cũng/R chia_sẻ/V dự_kiến/N điểm_sàn/N năm/N nay/P cũng/R không/R thấp/A hơn/R năm_ngoái/N
+Song/Np có_thể/R thấy/V rõ/A điểm/N thi/V năm/N nay/P nhiều/A khả_năng/N sẽ/R tách/V tốp/N rõ_ràng/A hơn/R giữa/N điểm/N thi/V của/N tốp/N có/V nhu_cầu/N xét/V tuyển/N ĐH/N và/CC điểm/N thi/V của/E tốp/N chỉ/R có/V nhu_cầu/N xét/V tốt_nghiệp/V THPT/Np
+Có_thể/A phổ/V điểm/N ở/E phía/N điểm_cao/N sẽ/R dâng/V lên/R một_chút/N nghĩa_là/N dự_kiến/V số/N thí_sinh/N trên/N mức/N điểm_sàn/N sẽ/R cao/A hơn/R nguồn/N tuyển/N dành/V cho/E các/L trường/N cũng/R dồi_dào/A hơn/A năm/N trước/A
+Với/E các/L trường/N có/V chỉ_tiêu/N lớn/A như/C Trường/N ĐH/N Bách_khoa/N Hà_Nội/Np Trường/N ĐH/N Kinh_tế/N quốc_dân/N
+sẽ/R không/R gặp/V nhiều/A khó_khăn/N trong/N xét/V tuyển/N
+Riêng/T với/E Trường/N ĐH/N Kinh_tế/N quốc_dân/N dải/N điểm_chuẩn/N hằng/R năm/N trải/V rộng/A chênh/V nhau/N 56/M điểm/N như/A năm/N 2016/M điểm_chuẩn/N các/L ngành/N dao/N động_từ/N 205/M 255/M điểm/N nên/C thí_sinh/N có/V nhiều/A chọn_lựa/N nếu/C đã/R quyết_tâm/V đăng_kí/V vào/E các/L ngành/N học/V của/N trường/N
+NGỌC/N HÀ/N ghi/V
+NHÓM/N PV/Np

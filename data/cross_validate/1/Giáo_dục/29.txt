@@ -1,0 +1,28 @@
+Tổ/N ra/V đề/N phản_hồi/V về/V đáp_án/N môn/N lịch_sử/N
+Ví_dụ/N câu/N 9/M mã_đề/N 306/M môn/N lịch_sử/N đặt/V ra/R Trong/E những/L năm/N 20/M của/N thế_kỉ/N XX/Np ở/E Việt_Nam/Np tổ_chức/V nào/N dưới/E đây/P ra_đời/V sớm/A nhất/A
+Hội_Việt_Nam_Cách_mạng/N Thanh_niên/N
+Đông_Dương_Cộng_sản/X đảng/N
+An_Nam_Cộng_sản/X đảng/N
+Đông_Dương_Cộng_sản/X liên_đoàn/N
+Đáp_án/N được/V Bộ/N GDĐT/M công_bố/N là/V Hội_Việt_Nam_Cách_mạng/N Thanh_niên/N đáp_án/V A/N
+Tuy_nhiên/C một_số/N thí_sinh/N cho/V rằng/C mình/P bị/V mất/V điểm/N oan/A bởi/E đáp_án/N này/P không/R khớp/N với/E không_gian/N được/V đặt/V ra/R ở/V câu/N hỏi/V
+Theo/V một_số/N giáo_viên/N đáp_án/N Bộ/N GDĐT/Np đưa/V ra/R Hội_Việt_Nam_Cách_mạng/N Thanh_niên/N đúng/A về/E thời_điểm/N nhưng/C không/R đúng/A về/V không_gian/N mà/C câu/N hỏi/V đặt/V ra/R là/V ở/V Việt_Nam/Np
+Bởi_vì/N tổ_chức/N này/P ra_đời/V vào/E tháng/N 61925/M ở/N Quảng_Châu/Np Trung_Quốc/Np chứ/C không/R phải/A ở/V Việt_Nam/Np
+Ngoài_ra/N một_số/N ý_kiến/N còn/V nghi_ngại/N với/E chính/N đáp_án/N mà/C bộ/N đã/R phải/V cập_nhật/V so/V với/E đáp_án/N công_bố/N ban_đầu/N
+Đó/P là/V câu/N hỏi/V 22/M mã_đề/N 302/M Mỹ/Np chính_thức/V tiến_hành/V chiến_tranh_phá_hoại/N miền/N Bắc/Np lần/N thứ/N nhất/M trong/E khi/N thực_hiện/V chiến_lược/N chiến_tranh/N nào/N ở/V miền/N Nam_Việt_Nam/Np
+Chiến_tranh/N cục_bộ/N
+Đông_Dương/Np hoá/V chiến_tranh/N
+Việt_Nam/Np hoá/V chiến_tranh/N
+Chiến_tranh/N đặc_biệt/A
+Các/L ý_kiến/N thắc_mắc/V cho/V rằng/C việc/N bộ/N đính_chính/N chuyển/V từ/E đáp_án/N A/Np chiến_tranh_cục_bộ/X sang/V đáp_án/N D/Np chiến_tranh/N đặc_biệt/A vẫn/R chưa/R chuẩn/A
+Đáp_án/N đúng/A phải/V là/C Chiến_tranh/N đặc_biệt/A và/CC Chiến_tranh/N cục_bộ/V lại/R không/R hề/V có/V trong/N phương_án/N trả_lời/V nào/N của/E câu/N hỏi/N này/P
+Tiếp_nhận/V những/L thắc_mắc/N về/V đề/N thi/V đáp_án/N môn/N lịch_sử/A ngày/N 296/M tổ/N ra/V đề/N thi/V môn/N lịch_sử/N kì/N thi/V THPT/Np quốc_gia/N 2017/M đã/R chính_thức/A có/V phản_hồi/N
+Tổ/N ra/V đề/N khẳng_định/V đã/R rà_soát/V cẩn_thận/A kĩ_càng/V từng/R câu/N hỏi/V trong/E các/L mã_đề/N thi/V theo/V phản_ảnh/N
+Đề/N thi/V đáp_án/N đã/R công_bố/V là/V chính_xác/N hoàn_toàn/A
+Thí_sinh/N yên_tâm/V kết_quả/N làm/V bài/N của/E mình/P sẽ/R được/V đánh_giá/V chính_xác/A tổ/N ra/R đề/V thi/V môn/N lịch_sử/N nhấn_mạnh/V sau/E khi/N rà_soát/N
+Theo/E đó/P nội_dung/N các/L câu/N hỏi/V đều/R bám/V sát/A kiến_thức/N trong/E sách_giáo_khoa/N Lịch_sử/N lớp/N 12/M NXB/Np Giáo_Dục_Việt_Nam/Np 2016/M
+Đây/P là/V năm/N đầu_tiên/A Bộ/N GDĐT/N đổi_mới/V thi/N môn/N lịch_sử/N theo/V hình_thức/N trắc_nghiệm/N khách_quan/A và/CC dùng/V dạng_thức/N câu/N hỏi/V ở/V dạng/N trắc_nghiệm/N khách_quan/A nhiều/A lựa_chọn/N trong/E bốn/M phương_án/N lựa_chọn/V sẽ/R có/V một/M phương_án/N đúng/A các/L phương_án/N còn/V lại/V được/V đưa/V vào/R có/V tác_dụng/N gây/V nhiễu/N đối_với/N người_làm/N bài/N và/CC được/V gọi_là/N các/L phương_án/N nhiễu/V
+Đặc_biệt/A câu/N hỏi/V ở/E các/L cấp_độ/N vận_dụng/N và/CC vận_dụng/N cao/A theo/V kĩ_thuật/N viết/V câu/N hỏi/V thi_trắc_nghiệm/N khách_quan/A nhiều/A lựa_chọn/N thì/C các/L phương_án/N nhiễu/N buộc/V phải/V có/V vẻ/N như/C có_lí/N và/CC hấp_dẫn/A như/C phương_án/N đúng/A nhưng/C không/R phải/A là/V phương_án/N đúng/A tổ/N ra/R đề/V lí_giải/N
+Tổ/N ra/R đề/V cũng/R cho/V rằng/E trong/E một_vài/N câu/N hỏi/V có/V sự/N băn_khoăn/A về/E nội_dung/N và/CC đáp_án/N trong/E các/L đề/N thi/V môn/N lịch_sử/N của/E kì/N thi/V THPT/Np quốc_gia/N năm/N 2017/M vừa_qua/N các/L câu/N hỏi/V này/N hầu_hết/N ở/V cấp_độ/N vận_dụng/N và/CC vận_dụng/N cao/A
+Do/E đó/P đòi_hỏi/V thí_sinh/N phải/V phân_tích/V đánh_giá/N suy_luận/A và/CC đặc_biệt/A phải/V kết_nối/V được/R các/L sự_kiện/N một_cách/N logic/N để/E tìm/V ra/R phương_án/N trả_lời/V đúng/A trong/E tất_cả/N các/L phương_án/N đã/R cho/V
+NGH/Np

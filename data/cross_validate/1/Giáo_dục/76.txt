@@ -1,0 +1,7 @@
+Bài/N giải/N bài/N thi/V khoa_học_tự_nhiên/N THPT/Np Quốc_gia/N 2017/M
+Sáng/N 236/M các/L thí_sinh/N đã/R hoàn_tất/V bài/N thi/V khoa_học_tự_nhiên/X gồm/V ba/N môn/N thi/V thành_phần/N lí/N hoá/N và/CC sinh/V
+Tuổi_Trẻ_Online/Np mời/V bạn_đọc/N xem/V bài/N giải/N của/E từng/N môn/N
+Bài/N giải/N môn/N vật_lí/V
+Bài/N giải/N môn/N hoá/V
+Bài/N giải/N môn_sinh/N
+Bộ/N GDĐT/N công_bố/V toàn_bộ/N bài/N thi/N khoa_học_tự_nhiên/V THPT/Np

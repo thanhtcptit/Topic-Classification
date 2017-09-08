@@ -1,0 +1,7 @@
+Vietcombank/Np ra_mắt/V thẻ_ghi_nợ/N quốc_tế/N cao_cấp/A
+Ngân_hàng/N TMCP/Np Ngoại_Thương_Việt_Nam/Np /V Vietcombank/Np /V sẽ/R ra_mắt/V sản_phẩm/N thẻ_ghi_nợ/N quốc_tế/N Vietcombank_Visa_Platinum/Np  /V dành/V cho/E khách_hàng/N cao/A cấpvào/N 11/7/M tới/E
+Sản_phẩm/N có/V nhiều/A ưu_đãi/V cho/E chủ/N thẻ/N như/C miễn_phí/V phát_hành/V thẻ/N miễn_phí/V rút_tiền/V mặt/N tại/E tất_cả/P ATM/Np trong/E hệ_thống/N Vietcombank/Np miễn_phí/V thường_niên/A năm/N đầu/N khi/N phát_hành/V một/M thẻ_tín_dụng/N thuộc/V Vietcombank/Np ưu_tiên/V phục_vụ/V tại/E quầy/N giao_dịch/V tổng_đài/V chăm_sóc/V khách_hàng/N dành/V riêng/A cho/E chủ/N thẻ/N Platinum/Np
+Khi/N chi_tiêu/V chủ/N thẻ/N được/V hoàn/V tiền/N tương_đương/V 0,3%/M giá_trị/N hóa_đơn/N
+Ngoài_ra/C chủ/N thẻ_ghi_nợ/N quốc_tế/N Vietcombank_Visa_Platinum/Np còn/R được/V tận_hưởng/V các/L ưu_đãi/V theo/E chương_trình/N “/V Joy/Np of/E Life/Np ”/A của/E ngân_hàng/N và/CC nhiều/A quyền_lợi/N tại/E hàng/N triệu/M điểm/N chấp_nhận/V thẻ/N của/E Visa/N trên/E toàn/N thế_giới/N dành/V riêng/A cho/E thẻ/N hạng/N Platinum/Np
+Bên_cạnh/N đó/P với/E gói/N bảo_hiểm/N lên/V tới/E 10,5/M tỷ/N đồng/N các/L chủ/N thẻ/N hoàn_toàn/A yên_tâm/A khi/N đi/V công_tác/V hoặc/CC du_lịch/V trong/E và/CC ngoài/E nước/N cùng/A dịch_vụ/N hỗ_trợ/V toàn_cầu/N 24/7/M
+Theo/E đại_diện/N Vietcombank/Np đây/P là/V sản_phẩm/N thẻ/N cao_cấp/A nằm/V trong/E dòng/N sản_phẩm/N thẻ_ghi_nợ/N quốc_tế/N của/E ngân_hàng/N xây_dựng/V trên/E nền_tảng/N công_nghệ/N chip/V EMV/Np với/E độ/N an_toàn/A bảo_mật/V cao/A nhất/A hiện_nay/N

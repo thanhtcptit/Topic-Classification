@@ -1,0 +1,9 @@
+Quy_hoạch/V công_viên/N văn_hóa/N xứ/N Thanh/Np quy_mô/N 500 0/M m2/Nu
+Ngày/N 19/2/M tỉnh/N Thanh_Hoá/Np  /M tổ_chức/N trưng_bày/V mô_hình/N và/CC phối_cảnh/N lấy/V ý_kiến/N người_dân/N về/E Đồ_án/N quy_hoạch/V chi_tiết/N Công_viên/N Văn_hóa/N xứ/N Thanh/Np tại/E Trung_tâm/N Hội_nghị/N 25B/M
+Mô_hình/N được/V nghiên_cứu/V trên/E diện_tích/N hơn/A 500 0/M m2/Nu
+Theo/E phương_án/N một/M công_viên/N có/V các/L hạng_mục/N chính/A khu/N đền/N thờ/V trăm_họ/N tháp/N vọng/V cảnh/N đại/V đình/N làng/N Việt/Np khu/N dịch_vụ/N tập_trung/V bảo_tàng/N tổng_hợp/V  /N tỉnh/N mang/V hình_dáng/N trống_đồng/N trung_tâm/N triển_lãm/V mô_hình/N tái_hiện/V quá_trình/N xây_dựng/V thành/V nhà/N Hồ/Np và/CC một_số/L công_trình/N phụ_trợ/V
+Phương_án/N hai/M ngoài/E các/L hạng_mục/N trên/A có/V thêm/V quảng_trường/N và/CC khu/N nhà/N điển_hình/A các/L dân_tộc_thiểu_số/N
+Cả/P hai/M phương_án/N đều/R được/V nghiên_cứu/V trên/E cơ_sở/N kết_tinh/V các/L đặc_trưng/A nổi_bật/A của/E văn_hóa/N xứ/N Thanh/Np nhằm/V mục_tiêu/N phục_vụ/V sinh_hoạt/N cộng_đồng/N của/E nhân_dân/N trong/E tỉnh/N và/CC cả/P nước/N
+Phó/Z  /M chủ_tịch/N UBND/Np tỉnh/N Thanh_Hoá_Ngô_Văn_Tuấn/Np cho/V rằng/C việc/N trưng_bày/V mô_hình/N và/CC lấy/V ý_kiến/N rộng_rãi/A đông_đảo/A nhân_dân/N đóng_góp/V xây_dựng/V quy_hoạch/V sẽ/R là/V cơ_sở/N để/E thiết_kế/V xây_dựng/V Công_viên/N văn_hoá/N xứ/N Thanh/Np thực_sự/A độc_đáo/A hấp_dẫn/V
+Tỉnh/N Thanh_Hoá/Np kêu_gọi/V các/L doanh_nghiệp/N lớn/A các/L tập_đoàn/N kinh_tế/N uy_tín/N có/V kinh_nghiệm/N vào/V đầu_tư/V xây_dựng/V và/CC quản_lý/V vận_hành/V khai_thác/V hiệu_quả/N công_trình/N này/P
+Cuộc/N trưng_bày/V mô_hình/N lấy/V ý_kiến/N nhân_dân/N về/E đồ_án/N quy_hoạch/V chi_tiết/N tỉ_lệ/N 1/500/M Công_viên/N văn_hóa/N xứ/N Thanh/Np sẽ/R diễn/V ra/R đến/E ngày/N 25/2/M

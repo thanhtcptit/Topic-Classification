@@ -1,0 +1,44 @@
+Chính_phủ/N vay/V tiền/N dân/N như_thế_nào/X trong/E 2/M cuộc/N kháng_chiến/V
+Cách/V đây/P vài/L ngày/N Bộ/N Tài/N chính/T có/V văn_bản/N gửi/V UBND/Np các/L tỉnh/N thành_phố/N trực_thuộc/V Trung_ương/N về/E việc/N trả/V nợ/N các/L khoản/N vay/V người_dân/N trong/E 2/M cuộc/Nc kháng_chiến/N chống/V Pháp/Np và/CC chống/V Mỹ/Np
+Việc/N chi_trả/V những/L khoản/N vay/V này/P trước/E đó/P đã/R được/V tiến_hành/V nhiều/A lần/N suốt/A từ/E những/L năm/N cuối/A của/E thập_niên/N 90/M
+ /M  /N Chính_phủ/N bắt_đầu/V thực_hiện/V chính_sách/N vay/V dân/N bằng/E hình_thức/N phát_hành/V công_trái/N từ/E tháng/N 7/1946/M với/E đợt/N đầu_tiên/A ở/E Nam_Bộ/Np với/E tên/N gọi_là/X công_thải/N
+Giá_trị/N của/E đợt/N phát_hành/V này/P chỉ/R 5/M triệu/M đồng/Nu với/E lãi_suất/N 5%/M một/M năm/N
+Bộ/N Tài/Np chính/T nhận_định/N tuy/C số_lượng/N tiền/N phát_hành/V chưa/R lớn/A nhưng/C có/V ý_nghĩa/N mở_đầu/V cho/E quá_trình/N thực_hiện/V chủ_trương/N phát_hành/V công_trái/N của/E Chính_phủ/N nhằm/V tạo/V ra/R nguồn_lực/N tài_chính/N phục_vụ/V cho/E công_cuộc/N kiến_quốc/V  /EOS
+Công_thải/N Nam_Bộ/Np khi/N đó/P quy_định/N có/V ba/M loại/N 100/M đồng/Nu 500/M đồng/Nu và/CC 1 0/M đồng/Nu
+Tuy_nhiên/C thực_tế/N chỉ/R phát_hành/V có/V một/M loại/N 100/M đồng/Nu bán/V bằng/E tiền/N Đông_Dương/Np trong/E các/L năm/N 1947/M và/CC 1948/M ở/E Nam_bộ/Np
+Công_thải/N Nam_Bộ/Np không/R có/V phiếu/N lãi/V không/R ghi/V tên/N không/R ghi/V năm/N mua/V và/CC nơi/N mua/V
+Vì_vậy/C khi/N thanh_toán/V các/L Khu/N Sở/N Ty_Tài/Np chính/T sẽ/R căn_cứ/V vào/E lời/N khai/V của/E chủ/N phiếu/N để/E tính/V trả/V
+Lời/N khai/V phải/V ghi/V rõ/A năm/N mua/V phiếu/N và/CC phải/V có/V chứng_nhận/N của/E cấp/N phụ_trách/V chính_quyền/N nơi/N bán/V phiếu/N để/E có_thể/R lấy/V một/M trong/E các/L chứng_nhận/N đó/P  /EOS
+Sau/E công_thải/N Nam_Bộ/Np Chính_phủ/N đã/R nhiều/A lần/N phát_hành/V công_trái/N trên/E phạm_vi/N rộng/A hơn/A
+Năm/N 1948/M Chính_phủ/N phát_hành/V 500/M triệu/N đồng_bạc/V công_phiếu/N kháng_chiến/N
+Trong_Sắc/Np lệnh/V về/E nội_dung/N này/P được/V Chủ_tịch/N Hồ_Chí_Minh/Np ký/V khi/N đó/P nêu/V rõ/A đợt/N phát_hành/V nhằm/V 2/M mục_đích/N
+Một/M là/C huy_động/V số/N tiền/N nhàn_rỗi/A trong/E dân/N để/E phục_vụ/V sản_xuất/N và/CC chiến_đấu/V và/CC hai/M là/V dùng/V công_phiếu/N kháng_chiến/V như/C một/M thứ/N tiền/N dự_trữ/V với/E lãi_suất/N 3%/M thời_hạn/N trả/V lãi/N 5/M năm/N
+ /M Sắc_lệnh/N cũng/R nêu/V rõ/A những/L khái_niệm/N đầu_tiên/A về/E loại_hình/N huy_động/V còn/R mới_mẻ/A này/P  /M “/N Trong/E những/L trường_hợp/N và/CC theo/V những/L thể_thức/N do/E Bộ/N Tài/N chính/T ấn_định/N công_phiếu/N kháng_chiến/N sẽ/R lưu_hành/V và/CC có/V giá_trị/N như/C giấy_bạc/N theo/V đúng/A sổ/N tiết/N ghi/V ở/E trên/N phiếu/N
+Công_phiếu/N kháng_chiến/N cũng/R được/V miễn/V tất_cả/P các/L thứ/N thuế/N hiện/N có/V hoặc/CC sẽ/R đặt/V ra/R kể_cả/C thuế_trước_bạ/N mỗi/L khi/N chuyển_dịch/V ”/N  /EOS
+Sắc_lệnh/N cũng/R giao/V Bộ_trưởng/N Tài_chính/N đảm_nhiệm/V việc/N phát_hành/V công_phiếu/N kháng_chiến/N và/CC cơ_quan/N này/P đã/R cùng/A các/L địa_phương/N tổ_chức/V triển_khai/V công_phiếu/N kháng_chiến/N trên/E toàn_quốc/N  /M Các/L
+văn_bản/N sau/E đó/P của/E Chính_phủ/N được/V ban_hành/V đã/R ấn_định/V nguyên_tắc/N và/CC hướng_dẫn/V chi_tiết/A hơn/R phát_hành/V loại/Nc giấy_tờ/N đặc_biệt/A này/P  /EOS
+Đến/E tháng/N 9/1950/M trên/E tinh_thần/N tổng_động_viên/N Chính_phủ/N cho_phép/V phát_hành/V loại/N công_trái/N quốc_gia/N có/V giá_trị/N ghi/V bằng/E thóc/N với/E lãi_suất/N 3%/M có/V thời_hạn/N 5/M năm/N
+Tổng_số/N phát_hành/V khi/N đó/P là/V 100 0/M tấn/Nu thóc/N  /EOS
+Trong_suốt/A thời_kỳ/N kháng_chiến/N Chính_phủ/N đã/R phát_hành/V công_phiếu/N kháng_chiến/N trong/E các/L năm/N 1948/M 1949/M 1950/M 1951/M 1952/M công_trái/N quốc_gia/N năm/N 1951/M công_thải/N Nam_Bộ/Np năm/N 1947/M 1948/M công_phiếu/N nuôi/V quân/N năm/N 1964/M
+Ngoài/E các/L hình_thức/N nói/V trên/A những/L khoản/N vay/V khác/A /M tiền/N hoặc/CC lương_thực/N /V do/E các/L cơ_quan/N chính_quyền/N từ/E cấp/N huyện/N trở_lên/A vay/V theo/E lệnh/N của/E cấp/N trên/A để/E mua_sắm/V vũ_khí/N nuôi/V quân/N đánh/V giặc/N
+cũng/R được/V tính/V vào/E khoản/N nợ/V với/E người_dân/N  /EOS
+Việc/N thanh_toán/V các/L khoản/N nợ/N cũng/R được/V Chính_phủ/N tiến_hành/V một_số/L lần/N trong_suốt/A thời_kỳ/N kháng_chiến/N
+Cụ_thể/A từ/E cuối/N năm/N 1958/M Thủ_tướng/N đã/R ban_hành/V chủ_trương/N cho/E quy/N vốn/N mua/V công_thải/N công_phiếu/N kháng_chiến/V theo/E giá/N vàng/N ở/E Nam_Bộ/Np lúc/N mua/V và/CC lấy/V giá/N vàng/N chính_thức/A khi/N đó/P ở/E miền/N Bắc/Np để/E thanh_toán/V
+Cơ_quan/N quản_lý/V giải_thích/V việc/N thanh_toán/V theo/E giá/N vàng/N mà/C không/R phải/V giá/N thóc/N nhằm/V đảm_bảo/V lợi_ích/N cho/E người_dân/N
+Những/L văn_bản/N sau/E đó/P cũng/R quy_định/N cụ_thể/A nguyên_tắc/N cách_thức/N thanh_toán/V
+Khi/N đó/P trong/E Thông_tư/N hướng_dẫn/V Bộ/N Tài/N chính/T cũng/R nêu/V rõ/A  /A đối_với/E những/L số/N tiền/N lớn/A chủ/N phiếu/N sẽ/R được/V trả/V trước/E một/M phần/N nhưng/C cần/V có/V kế_hoạch/N giúp_đỡ/V chi_tiêu/V vào/E những/L việc/N có/V lợi_ích/N thiết_thực/A
+Số/N tiền/N còn/V lại/R sẽ/R xét/V trả/V dần/R tùy/V theo/E nhu_cầu/N và/CC hoàn_cảnh/N thực_tế/N của/E mỗi/L chủ/N phiếu/N
+Ủy_ban_hành_chính/X khu/N tỉnh/N thành/V sẽ/R xét/V cụ_thể/A kế_hoạch/N chi_tiêu/V và/CC hoàn_cảnh/N của/E chủ/N phiếu/N để/E đưa/V ra/R quyết_định/N  /M Bộ/N Tài/N chính/T cũng/R bổ_sung/V thêm/V thể_thức/N thanh_toán/V
+Theo/E đó/P chủ/N phiếu/N sẽ/R được/V nhận/V trước/E một/M phần/N tiền/N mới/R số/N tiền/N còn/V lại/R cơ_quan/N tài_chính/N sẽ/R chuyển/V sang/E chi_nhánh/N ngân_hàng/N để/E gửi/V vào/E tiểu/N khoản/N “/V tiền/N gửi/V đặc_biệt/A ”/A về/E công_phiếu/N kháng_chiến/N và/CC công_thải/N Nam_Bộ/Np
+Tiền/N gửi/V đặc_biệt/A sẽ/R đứng_tên/V chủ/N phiếu/N được/R tính/V lãi/N và/CC chịu/V sự/N quản_lý/V theo/V thể_lệ/N chung/A của/E Nhà_nước/N
+Ở/E thời_điểm/N đó/P do/E mới/R triển_khai/V việc/N chi_trả/V nên/C Chính_phủ/N cơ_quan/N quản_lý/V đã/R phải/V ban_hành/V nhiều/A văn_bản/N để/E hướng_dẫn/V cũng_như/C giải_quyết/V những/L vướng_mắc/N trong/E quá_trình/N thanh_toán/V cho/E người_dân/N  /EOS
+Tuy_nhiên/C cuộc/N kháng_chiến/V chống/V Mỹ/Np kéo_dài/V nhiều/A năm/N sau/E đó/P nên/C việc/N thanh_toán/V dù/E chưa/R hoàn_tất/V nhưng/C bị/V gián_đoạn/V cho_đến/E năm/N 1979/M khi/N Hội_đồng/N Bộ_trưởng/N có/V Chỉ_thị/N về/E việc/N tiếp_tục/V chi_trả/V
+Khi/N đó/P một_số/L địa_phương/N đã/R tiến_hành/V chi_trả/V tuy_nhiên/C do/E vấn_đề/N phức_tạp/A việc/N hướng_dẫn/V lại/R chưa/R rõ_ràng/A nên/C thực_hiện/V còn/R nhiều/A lúng_túng/A
+Một_số/L địa_phương/N đã/R thanh_toán/V cả/P những/L khoản/N dân/N đóng_góp/V để/E làm/V nghĩa_vụ/N công_dân/N những/L khoản/N lạc_quyên/V do/E chính_quyền/N đoàn_thể/N ở/E cơ_sở/N tự/P tổ_chức/V để/E ủng_hộ/V kháng_chiến/N uý_lạo/V bộ_đội/N
+Nhiều/A địa_phương/N khoán_trắng/A cho/E ban/N thanh_toán/V nợ/N dân/N và/CC đã/R để/V xảy_ra/V những/L sự_việc/N lạm_dụng/V thanh_toán/V tràn_lan/A  /EOS
+Đến/E đầu/N năm/N 1985/M Hội_đồng/N Bộ_trưởng/N ra/V Chỉ_thị/N về/E việc/N thanh_toán/V nói/V trên/E
+Văn_bản/N này/P nêu/V rõ/A chỉ/R thanh_toán/V những/L khoản/N mà/C các/L cơ_quan/N nhà_nước/N có/V thẩm_quyền/N vay/V dân/N để/E giải_quyết/V nhu_cầu/N chi_tiêu/V cần_thiết/A của/E Nhà_nước/N trong/E hai/M cuộc/N kháng_chiến/V chống/V Pháp/Np và/CC chống/V Mỹ/Np  /EOS
+Việc/N chi_trả/V kéo_dài/V và/CC rải_rác/A những/L năm/N sau/E đó/P cho_đến/E cuối/N năm/N 1998/M khi/N Bộ/N Tài/N chính/T mới/R ra/V công_văn/N cho_biết/V thời_hạn/N thanh_toán/V các/L khoản/N nợ/N dân/N nói/V trên/E đã/R kết_thúc/V
+Dù/C đã/R quá/V hạn/N 20/M năm/N song/C gần/A đây/P  /N Bộ/N Tài/Np chính/T lại/R mới/R đề_nghị/V các/L địa_phương/N tiếp_tục/V thanh_toán/V nợ/N đối_với/E các/L trường_hợp/N người_dân/N còn/R chứng_từ/V gốc/N
+Đại_diện/N cơ_quan/N này/P cho_biết/V đây/P là/V chỉ_đạo/V của/E Phó/Z thủ_tướng/N Trương_Hoà_Bình/Np nhằm/V đảm_bảo/V quyền_lợi/N cho/E người_dân/N
+Nguồn/N kinh_phí/N chi_trả/V được/V lấy/V từ/E nguồn/N đảm_bảo/V xã_hội/N của/E ngân_sách/N địa_phương/N

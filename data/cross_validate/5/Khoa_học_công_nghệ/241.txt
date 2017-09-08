@@ -1,0 +1,44 @@
+Tối_ưu/N hoá/V các/L tính_năng/N của/N Apple_Music/Np
+1/M Cải_thiện/N chất_lượng/N âm_thanh/N trên/A điện_thoại/N
+Để/E phòng/V tình_trạng/N ngốn/V hết/A quá/R nhanh/A lưu_lượng/V truy_cập/N mạng/N của/E điện_thoại/N Apple/Np sẽ/R điều_chỉnh/V chất_lượng/N bài/N hát/V ở/E mức/N thấp/A hơn/R trong/E điều_kiện/N bạn/N không/R kết_nối/V Wifi/Np
+Tuy_nhiên/C nếu/C bạn/N vẫn/R muốn/V tận_hưởng/V chất_lượng/N âm_nhạc/N ở/V mức/N cao/A nhất/R bạn/N có_thể/A tự/N thay_đổi/V chế_độ/N này/P trong/E app/N của/N Apple_Music/Np
+Cụ_thể/A với/E app/N trên/N iOS/N bạn/N nhấn/V chọn/V Music/Np →/V Mobile_Data/Np để/E kích_hoạt/V chế_độ/N nghe/V nhạc/N trực_tuyến/A chất_lượng/N tốt/A nhất/A bằng/V dữ_liệu/N mạng/N điện_thoại/N
+Với_Android/Np bạn/N mở/V app/N của/E Apple_Music/Np nhấp/V chọn/V nút/N Menu/Np ở/E phía/N trên/A góc/N trái/N →/N Settings/Np →/V chuyển/V sang/V On/Np nút/N High_Quality/Np on/V Cellular/Np
+2/M Tuỳ_chỉnh/N các/L cài_đặt/N âm_thanh/N
+Cả_Apple_Music/Np cho/V iOS/V hay/C iTunes/N cho/E Windows/Np và/CC macOS/V đều/R có/V công_cụ/N equalizer/N EQ/Np để/E bạn/N tuỳ_chỉnh/N âm_thanh/N theo/V ý_muốn/N
+Hoặc/C bạn/N chọn/V từ/E một/M loạt/N các/L cài_đặt/N trước/N khác/A nhau/N hoặc/N tuỳ_chỉnh/V theo/E ý/N mình/N căn_cứ/V vào/R phụ_kiện/V loa/N hay/C tai/N nghe/V đi/R kèm/V thiết_bị/N nghe/V nhạc/N của/N mình/N
+Tuy_nhiên/C vấn_đề/N ở/E chỗ/N là/V bạn/N cần/V tìm/V ra/R chỗ/N của/E công_cụ/N equalizer/N
+Với/E iOS/N từ/E Settings/Np →/V Music/Np →/V Playback/Np →/V EQ/Np
+Với/E iTunes/N dành/V cho/R Windows/Np mở/V menu/N View/Np →/V Show_Equalizer/Np
+với/E iTunes/N cho/V macOS/N mở/V menu/N Window/Np →/V Equalizer/Np
+3/M Kiểm_tra/N dung_lượng/N app/N
+Khi/N bạn/N chọn/V cách/N đồng_bộ/N hoá/N dữ_liệu/N để/E lưu/V hàng_loạt/N danh_sách/N phát/V bài/N hát/V trên/N iPhone/M cho/E việc/N nghe/V offline/N Apple_Music/Np có_thể/A ngốn/V một/M dung_lượng/N nhớ/V kha_khá/N của/N điện_thoại/N
+Để/E kiểm_tra/V thông_tin/N này/P vào/E Settings/Np →/N Music/Np →/V Downloaded_Music/Np
+Nếu/C bạn/N muốn/V dọn_dẹp/V bớt/V không_gian/N bộ_nhớ/A cho/E thiết_bị/N hãy/R nhấp/V chọn/V nút/N Edit/Np ở/V góc/N phải/V trên/V cùng/A xoá/N bớt/V danh_sách/N phát/V nhạc/N bài/N hát/V hay/C các/L nghệ_sĩ/N bạn/N không/R cần/V nữa/N
+Với_Android/Np bạn/N chọn/V Downloaded_Music/Np từ/E màn_hình/N ứng_dụng/N
+4/M Để/E được/V gợi_ý/N nhạc/N tốt/A hơn/R
+Apple_Music/Np sẽ/R hỏi/V ý_kiến/N bạn/N một_chút/N khi/N bạn/N lần/N đầu/A đăng_kí/N dịch_vụ/N
+Khi/N chia_sẻ/V rõ_ràng/N về/E những/L ưu_tiên/N bạn/N sẽ/R giúp/V Apple_Music/Np phục_vụ/V mình/N tốt/A hơn/R ở/E những/L gợi_ý/N khi/N có/V các/L bài/N hát/V cập_nhật/V trong/N ứng_dụng/N
+Theo/E đó/P khi/N nghe/V được/R một/M bài/N hát/V yêu/V thích/N trên/N Apple_Music/Np bạn/N có_thể/A nhấp/V chọn/V nút/N Love/Np
+Để/E cụ_thể/A hơn/R bạn/N chọn/V vào/E hình/N avatar/N của/E mình/P trong/E ứng_dụng/N di/N đọng/N cho/E đó/P chọn/V Choose_Artists/Np for/V you/N
+Ở/E màn_hình/N tiếp_theo/N bạn/N có_thể/A cung_cấp/V cho/V Apple_Music/Np biết/V thể_loại/N nhạc/N hay/C những/L ca_sĩ/N nào/N bạn/N thích/V và/CC không/R thích/V
+5/M Đặt/N chuông/N báo_thức/N
+iOS/N cho/V phép/N bạn/N sử_dụng/V các/L bài/N hát/V của/E Apple_Music/Np làm/V nhạc/N chuông/N báo_thức/V trên/E iPhone/N hay/N iPad/M
+Khi/N bạn/N tạo/V chuông/N báo_thức/N trên/N app/N Clock/Np nhấp/V chọn/V vào/E Sound/Np →/N Pick/Np a/N song/N
+Với/E iTunes/M bạn/N có_thể/A bấm/V vào/R nút/N chọn/V có/V hình/N ba/M dấu_chấm/N ở/E bên_cạnh/N mọi/N album/N và/CC bài/N hát/V
+Ngay/T cả/P các/L nhạc/N chuông/N báo_thức/N đã/R có/V cũng/R có_thể/A chỉnh_sửa/V tuỳ/V theo/E ý/N bạn/N
+6/M Chia_sẻ/N gu/N âm_nhạc/N với/E người/N khác/A
+Với/E thiết_bị/N chạy/V iOS/N mở/V tab/N For_You/Np →/V chạm/V vào/R avatar/N của/E bạn/N →/N Start_Sharing/Np with/V Friends/Np
+Với/E thao_tác/N này/P những/L người/N khác/A có_thể/R biết/V bạn/N đang/R nghe/V những/L loại/N nhạc/N gì/N và/CC bạn/N đã/R tạo/V ra/R các/L danh_sách/N phát/V nhạc/N nào/P
+7/M Tạo/Np ra/V các/L đài_phát_thanh/N của/E riêng/N mình/N
+Trong/E iTunes/N hoặc/N một/M app/N trên/E thiết_bị/N di_động/N bạn/N nhấp/V chọn/V vào/E biểu_tượng/N ba/N dấu_chấm/N cạnh/N mỗi/L bài/N hát/V album/N hay/A tên/N một/M nghệ_sĩ/N →/N Create_Station/Np
+Cùng/A với/E những/L bài/Nc hát/N bạn/N chọ/N thuật_toán/N của/E Apple_Music/Np sẽ/R gợi_ý/V một/M nhóm/N những/L lựa_chọn/N bài/N hát/V tương_tự/N lựa_chọn/N của/E bạn/N và/CC tạo/V ra/R một/M kênh/N phát_thanh/V theo/E chủ_ý/N riêng/A của/N bạn/N
+8/M Để_ý/N tới/V việc/N đăng_kí/V thuê_bao/N dịch_vụ/N
+Theo/E cài_đặt/N mặc_định/N Apple_Music/Np sẽ/R để/V chế_độ/N tự_động/A làm/V mới/R đăng_kí/V thuê_bao/N của/E bạn/N từ/E tháng/N này/P sang/V tháng/N khác/A
+Điều/N này/P khá/R thuận_tiện/A với/E những_ai/N không/R muốn/V phải/V để_tâm/V tới/R việc/N đăng_kí/V lại/V dịch_vụ/N
+Tuy_nhiên/C bạn/N cũng_nên/N cân_nhắc/V tới/E một/M dịch_vụ/N thuê_bao/A mà/C Apple_Music/Np mới/R tung/V ra/R gần/A đây/P như/A một/M động_thái/N nhằm/V tri_ân/V các/L khách/N hàng/N thân_thiết/A
+Đó/P là/V mức/N phí/N thuê_bao/N dịch_vụ/N Apple_Music/Np trọn_gói/V là/V 99/M USDnăm/N
+Trong/E trường_hợp/N bạn/N chỉ/R đang/R dùng/V thử/N Apple_Music/Np hoặc/N muốn/V tạm/A dừng/V thuê_bao/N đã/R đăng_kí/V bạn/N phải/V để_ý/V tới/R công_cụ/N ngắt/V tự_động/N làm/V mới/R thuê_bao/V của/N Apple_Music/Np
+Trên/E iOS/N chọn/V tab/N For_You/Np →/V chạm/V vào/R avatar/N của/E bạn/N →/N View_Apple/Np ID/Np →/V Subscriptions/Np →/N Nhấp/Np chọn/V Cancel_Subscription/Np để/E huỷ/V tính_năng/N tự_động/A gia_hạn/N thuê_bao/N
+Với_Android/Np bạn/N mở/V menu/N của/E app/N Apple/Np music/V qua/R nút/N ở/E góc/N trên/A bên/N trái/A →/N chạm/V vào/R avatar/N của/E bạn/N →/N Manage_Membership/Np
+Các/L lựa_chọn/N thuê_bao/N tương_tự/A cũng/R có_thể/A thấy/V trên/E iTunes/M Mở/N menu/N Account/Np →/V View_My_Account/Np →/V chọn/V Manage/Np cạnh/N Subscriptions/Np

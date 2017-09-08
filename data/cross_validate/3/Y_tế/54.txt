@@ -1,0 +1,30 @@
+Hà_Nội/Np Sài_Gòn/Np báo_động/V sốt_xuất_huyết/N tăng/V mạnh/A
+Số/N ca/N nhập_viện/V do/E sốt_xuất_huyết/N tăng/V khoảng/N 40/M ở/N TPHCM/Np tăng/V mạnh/A 190/M ở/N Hà_Nội/Np
+Hiện/N mỗi/M tuần/N cả/A nước/N có/V khoảng/N 17001800/M người_bệnh/N
+Hà_Nội/Np Sáng/N 216/M Sở/N Y/Np tế/V Hà_Nội/Np đã/R có/V buổi/N làm_việc/V với/E đại_diện/N các/L quận_huyện/N bàn/N cách/V chống/V dịch/N sốt_xuất_huyết/N đang/R gia_tăng/V rất/R mạnh/A
+Tính/V đến/R 216/M Hà_Nội/Np đã/R có/V trên/A 2000/M người_bệnh/N sốt_xuất_huyết/N tăng/V hơn/A 4/M lần/N so/V với/E cùng/N kì/N 2016/M
+Theo/E ông/N Hoàng_Đức_Hạnh/Np phó/N giám_đốc/N Sở/N Y/Np tế/V Hà_Nội/Np các/L quận/N nội_thành/N dân_cư/N tập_trung/V đông/A như/C Đống_Đa/Np Hai_Bà_Trưng/Np Hoàng_Mai/Np Thanh_Xuân/Np Cầu_Giấy/Np Hoàn_Kiếm/Np đang/R là/V những/L khu_vực/N trọng_điểm/N sốt_xuất_huyết/N
+Theo/E ông/N Hạnh/Np thông_thường/A mùa/N dịch/V sốt_xuất_huyết/N ở/E Hà_Nội/Np là/V tháng/N 911/M hằng/N năm/N nhưng/C năm/N nay/P mùa/N dịch/N bắt_đầu_từ/N rất/R sớm/A từ/E đầu/N tháng/N 5/M đã/R có/V một/M nữ/N sinh_viên/N 19/M tuổi/N tử_vong/N sau/A nhiều/A năm/N Hà_Nội/Np không/R có/V người/N sốt_xuất_huyết/N tử_vong/N
+Ông/Nc Trần_Đắc_Phu/Np cục_trưởng/N Cục/N Y/Np tế/V dự_phòng/V cho_hay/N dù/N người/N sốt_xuất_huyết/N vẫn/R tập_trung/V ở/E khu_vực/N miền/N Nam/Np gần/A 70/M người_bệnh/N nhưng/C gần/A 6/M tháng/N đầu/N năm/N sốt_xuất_huyết/N cũng/R gia_tăng/V mạnh/A ở/E nhiều/A tỉnh/N miền/N Bắc/Np đặc_biệt/A là/V Hà_Nội/Np tăng/V gần/A 190/M so/V với/E cùng/N kì/N 2016/M
+Ông/Nc Phu/Np cho_hay/V sốt_xuất_huyết/N cũng/R tăng/V mạnh/A ở/E Quảng_Nam/Np Đà_Nẵng/Np Quảng_Ngãi/Np
+TPHCM/Np Bác/Np sĩ/V Nguyễn_Thành_Dũng/Np phó/N giám_đốc/N Bệnh_viện/N Bệnh/N nhiệt_đới/N cho/V biết/V số/N người_bệnh/N mắc/N sốt_xuất_huyết/N bắt_đầu/V tăng/V từ/E đầu/N tháng/N 6/M đến/N nay/N
+Trong/E ngày/N 206/M tại/N Bệnh_viện/N Bệnh/N nhiệt_đới/N có/V đến/R 139/M người_bệnh/N mắc/N sốt_xuất_huyết/N nằm/V điều_trị/V trong/E đó/N có/V 108/M người_bệnh/N là/V người_lớn/N chỉ/R có/V 31/M người_bệnh/N là/V trẻ_em/N
+Số/N người_bệnh/N nhập_viện/N điều_trị/N tăng/V khoảng/N 3040/M so/V với/E những/L ngày/N trong/E tháng/N 5/M
+So/V với/E thời_điểm/N này/P năm_ngoái/N năm/N nay/P số/N người_bệnh/N nhập_viện/N đã/R tăng/V lên/R gấp/V đôi/M
+Thời_gian/N gần/A đây/P số/N người_lớn/N mắc/V bệnh/N sốt_xuất_huyết/Np có/V xu_hướng/N tăng/V lên/R
+Viện_trưởng/N Viện_Pasteur/Np TPHCM/Np Phan_Trọng_Lân/Np cho/V biết/V ở/E khu_vực/N phía/N Nam/Np sốt_xuất_huyết/N đã/R dịch_chuyển/V đáng_kể/V từ/E Tây_Nam_Bộ/Np sang/V các/L tỉnh_thành/N có/V kinh_tế/N phát_triển/V nhanh/A và/N công_nghiệp_hoá/N cao/A như/C TPHCM/Np Bình_Dương/Np Bà/N Rịa/Np Vũng_Tàu/Np
+Tuổi/N của/E người_bệnh/N cũng/R thay_đổi/V trước/N 2007/M bệnh_nhân/N sốt_xuất_huyết/N là/V người_lớn/N chỉ/N chiếm/V 20/M nay/N đã/R lên/V 43/M
+Các/L tỉnh/N miền/N Tây/Np cụ_thể/A là/V Trà_Vinh/Np Vĩnh_Long/Np Cà_Mau/Np Hậu_Giang/Np TP/Np Cần_Thơ/Np cũng/R có/V nhiều/A ca/N sốt_xuất_huyết/N
+Các/L địa_phương/N này/P cho/V biết/V dù/N mới/A vào/E mùa/N mưa/N nhưng/C lượng/N mưa/N nhiều/A nên/N mật_độ/N lăng_quăng/N muỗi/N nhiều/A dự_báo/N tình_hình/N dịch/N sốt_xuất_huyết/N năm/N nay/P sẽ/R gia_tăng/V mạnh/A diễn_biến/N khó/A lường/V
+Tại/E TP/Np Cần_Thơ/Np đến/V ngày/N 196/M ghi_nhận/N từ/E Trung_tâm/N Y/Np tế/N dự_phòng/V số/N ca/N bệnh/N sốt_xuất_huyết/Np đã/R lên/V đến/R 530/M trường_hợp/N mắc/V bệnh/N cùng/N kì/N là/V 372/M ca/N
+Trong/E đó/P Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np là/V nơi/N tiếp_nhận/V lượng/N bệnh/N mắc/V sốt_xuất_huyết/N nhiều/A nhất/A
+Ở/E khu_vực/N khám/V điều_trị/N ngoại_trú/V ghi_nhận/N trên/N 2600/M ca/N bệnh/N nghi_ngờ/N mắc/N sốt_xuất_huyết/N trong/E đó/N trên/N 900/M ca/N sốt_xuất_huyết/N nhập_viện/N điều_trị/V khoảng/N 50/M là/V bệnh/N tại/N Cần_Thơ/Np
+Tại_Sóc_Trăng/Np bác_sĩ/N CK/Np II/N Nguyễn_Thị_Mỹ_Hà/Np giám_đốc/V Bệnh_viện/N Sản/Np nhi/V Sóc_Trăng/Np cho/V biết/V Bệnh/N sốt_xuất_huyết/N trong/E những/L ngày/N qua/V tăng/V đáng/V lo_ngại/V
+Chỉ/R trong/E vòng/N 20/M ngày/N của/E tháng/N 6/M bệnh_viện/N đã/R điều_trị/V 65/M ca/N bệnh/N sốt_xuất_huyết/N
+Dự_báo/V trong/E những/L ngày/N tới/V bệnh/N sốt_xuất_huyết/Np có/V khả_năng/N sẽ/R bùng_phát/V vì_vậy/N bệnh_viện/N bắt_đầu/V tổ_chức/V tập_huấn/V hướng_dẫn/V phòng_ngừa/N phác_đồ/N xử_trí/V bệnh/N sốt_xuất_huyết/N cho/V các/L bệnh_viện/N tuyến/N dưới/N
+Phòng_ngừa/N sốt_xuất_huyết/N
+Để/E phòng_ngừa/V bệnh/N sốt_xuất_huyết/N người/Nc dân/N nên/V vệ_sinh/V môi_trường/N không/R nên/V để/V đọng/V nước/N
+Sốt/N xuất_huyết/N ở/E người_lớn/N thường/R bị/V xuất_huyết/V nhiều/A hơn/R
+Phụ_nữ/N ở/V tuổi/N sinh_đẻ/A khi/N mắc/V bệnh/N sốt_xuất_huyết/N sẽ/R bị/V rong_huyết/V rong/V kinh/V nhiều/A hơn/R
+Những/L người/N bị/V béo/A phì/A thừa/A cân/V những/L người/N mắc/V bệnh/N tim/N bệnh/N thận/N khi/N mắc/V bệnh/N sốt_xuất_huyết/N cũng/R sẽ/R nặng/A hơn/R những/L người/N bình_thường/A khác/A
+Nên/C thường_xuyên/A thay/V nước/N ở/V bình/N hoa/N bình/N trồng/V cây/N thuỷ_sinh/N loại_bỏ/V vật_liệu/N phế_thải/A như/C vỏ_chai/N nhựa/N vỏ/N xe/N hộp/N sắt/N phế_liệu/N lấp/V hố/N nước/N tự_nhiên/A đậy/V kín/A dụng_cụ/N chứa/V nước/N

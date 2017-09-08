@@ -1,0 +1,15 @@
+Lấy/V kim/N khâu/N trong/E tim/N một/M bé/N trai/N
+Bị/V kim/N khâu/N ở/V gối/N đâm/V vào/V nhưng/C cháu/N NMH/Np 13/M tuổi/N ngụ/N ở/V Bình_Phước/Np không/R nói/V với/E ba/M mẹ/N trong/E gần/A 2/M tháng/N nên/C cây/Nc kim/N đã/R bị/V sét/V gỉ/N gây/V nhiễm_trùng/V thành/N ngực/N khoang/N tim/N cũng/R có/V mủ/N
+Cụ_thể/N đang/R nằm/V trên/E giường/N cháu/N NMH/Np bị/V một/M cây/Nc kim/N khâu/N ở/V gối/N đâm/V vào/V ngực/N
+Cháu/N đã/R cố/V rút/V cây/N kim/N ra/V nhưng/C chỉ/R lấy_được/V một/M nửa/N cây/N kim/N nửa/N còn/V lại/R đi/V vào/V phía/N trong/A ngực/N
+Tuy_nhiên/C cháu/N giấu/V ba/M mẹ/N trong/E gần/A 2/M tháng/N cho/E đến/E khi/N cháu/N bị/V ngất/V do/N bị/V đau/V ngực/N
+Lúc/N này/P gia_đình/N cháu/N mới/R biết/V sự_việc/N và/CC đưa/V cháu/N đến/V Bệnh_viện/N Nhi_Đồng/Np 1/M TPHCM/Np điều_trị/V
+Các/L bác_sĩ/N bệnh_viện/N Nhi_Đồng/Np 1/M cho/V biết/V ban_đầu/N các/L bác_sĩ/N nghĩ/V chiếc/N kim/N nằm/V ngoài/N thành/N ngực/N nên/C đã/R mở/V cơ/N ngực/N ra/R để/E lấy/V cây/Nc kim/N nhưng/C khi/N mổ/V lại/R không/R tìm/V thấy/V
+Sau/E đó/P các/L bác_sĩ/N đã/R cho/V bệnh_nhi/V làm/V các/L xét_nghiệm/N siêu_âm/N tim/N chụp/V CT/Np thì/C thấy/V cây/N kim/N nằm/V ở/E vùng/N mỏm/N cơ/N tim/N trái/N
+Các/L bác_sĩ/N đã/R mổ/V hở/N và/CC lấy_được/N cây/N kim/N dài/A 2cm/N đã/R bị/V gỉ/V sét/N
+PGSTS/Np Vũ_Minh_Phúc/Np trưởng/N Khoa_Tim_mạch/N Bệnh_viện/N Nhi_Đồng/Np 1/M cho/V biết/V đây/P là/V một/M ca/N bệnh/N hiếm/A gặp/V
+Trường_hợp/N này/P là/V trường_hợp/N thứ/N 31/M trên/E thế_giới/N có/V dị_vật/N trong/E tim/N như/C vậy/P
+Theo/E các/L bác_sĩ/N nếu/N dị_vật/V trong/E tim/N sống/V hoà_bình/A với/E cơ_thể/N các/L bác_sĩ/N sẽ/R để/V yên/A
+Tuy_nhiên/C đây/P là/V một/M dị_vật/N sắc/N nhọn/N đã/R gây/V nhiễm_trùng/V thành/N ngực/N khoang/N tim/N cũng/R có/V mủ/N
+nên/C các/L bác_sĩ/N phải/V quyết_định/N mổ/V hở/N để/E lấy/V ra/R
+Hiện/N sức_khoẻ/N bệnh_nhi/N đã/R ổn_định/V dự_kiến/V sẽ/R được/V xuất_viện/V trong/E vài/L ngày/N tới/V

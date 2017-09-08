@@ -1,0 +1,9 @@
+Chứng_khoán/N Sài_Gòn/Np lãi/V gần/A 500/M tỷ/M đồng/Nu sau/E 6/M tháng/N
+Công_ty/N Chứng_khoán/Np Sài_Gòn/Np /M Mã/Np CK/Np SSI/Np /M vừa/R công_bố/V kết_quả/N kinh_doanh/V công_ty_mẹ/N 6/M tháng/N đầu/N năm/N 2016/M
+Doanh_thu/N và/CC lợi_nhuận/N trước/E thuế/N quý/N II/2016/Np của/E công_ty/N đạt/V lần_lượt/R là/V 626/M tỷ/N đồng/N và/CC 360/M tỷ/N đồng/N
+Trong/E đó/P doanh_thu/N môi_giới/N đạt/V 92/M tỷ/N đồng/N và/CC giữ/V vị_trí/N số_một/N về/E thị_phần/N trên/E cả/P hai/M sàn/N HOSE/Np và/CC HNX/Np
+Hoạt_động/V đầu_tư/V chiếm/V 52,9%/M doanh_thu/N của/E công_ty/N
+Lũy/N kế/V 6/M tháng/N đầu/N năm/N công_ty/N ghi_nhận/V khoản/N doanh_thu/N hơn/A 999/M tỷ/N đồng/N lợi_nhuận/N trước/E thuế/N đạt/V 495/M tỷ/N đồng/N  /EOS
+Dự_kiến/V lợi_nhuận/N hợp_nhất/V cho/E 6/M tháng/N đầu/N năm/N của/E công_ty/N đạt/V khoảng/N 523/M tỷ/N đồng/N
+Tính/V đến/E cuối/N tháng/N 6/M SSI/Np có/V vốn/N chủ_sở_hữu/N là/V 6 5/M tỷ/N đồng/N và/CC tổng/N tài_sản/N 13 1/M tỷ/N đồng/N –/N tăng/V 11%/M so/V với/E đầu/N năm/N
+Năm/N 2016/M công_ty/N đặt/V mục_tiêu/N doanh_thu/N 1 0/M tỷ/N đồng/N lợi_nhuận/N trước/E thuế/N 950/M tỷ/N đồng/N

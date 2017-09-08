@@ -1,0 +1,25 @@
+​/N 2/M triệu/N người_dùng/N đã/R nhiễm/V mã/V độc/A từ/N Google_Play/Np
+Chiếm/V quyền/N quản_trị/V
+Theo/E các/L nhà/N nghiên_cứu/V của/E Check_Point/Np FalseGuide/N thiết_lập/V một/M hệ_thống/N botnet/N gồm/V các/L thiết_bị/N nạn_nhân/N ngay/T sau/E khi/N lây_nhiễm/V
+Để/E phòng_tránh/V bị/V gỡ/V bỏ/V khỏi/V hệ_thống/N FalseGuide/N yêu_cầu/V quyền/N quản_trị/V ngay/R khi/N cài_đặt/N
+Sau/N đó/P nó/P tự/P đăng_kí/V chính/T mình/P lên/V nền_tảng/N Firebase_Cloud_Messaging/Np cho/V phép/N người/N phát_triển/V ứng_dụng/N có_thể/R gửi/V tin_nhắn/N và/CC thông_báo/V đến/V nó/P
+Từ/E đó/P kẻ/N tấn_công/V có_thể/V gửi/V tin_nhắn/N có/V chứa/V các/L đường_dẫn/N đến/V mã/N độc/A để/E cài_đặt/V thêm/V các/L ứng_dụng/N hay/C mã/V độc/A khác/A vào/V thiết_bị/N
+Nó/P cũng/R cho/V phép/N kẻ/N tấn_công/V cho/V hiển_thị/V các/L quảng_cáo/N lên/V thiết_bị/N để/E kiếm/V lợi/N
+Theo/E Check_Point/Np không_chỉ/C trục_lợi/N từ/E các/L quảng_cáo/N trái_phép/A mã/N độc/A còn/R có_thể/R giúp/V kẻ/N tấn_công/V cài_đặt/V thêm/R các/L mã/N độc/A nguy_hiểm/A hơn/R như/C chiếm/V quyền/N quản_trị/V thiết_bị/N thực_hiện/N tấn_công/V từ_chối/V dịch_vụ/N DDoS/V xâm_nhập/V mạng/N riêng/A
+Check_Point/Np cũng/R cho/V biết/V đã/R báo_cáo/V với/E Google/Np về/E mã/N độc/A trên/N và/CC Google/Np cũng/R đã/R âm_thầm/A gỡ/V bỏ/V FalseGuide/V ra/R khỏi/V kho/N ứng_dụng/N của/N mình/N
+Tuy_nhiên/C những/L người_dùng/N đã/R vô_tình/A tải/N FalseGuide/V về/V thiết_bị/N vẫn/R đang/R mở_rộng/V cửa/N cho/V kẻ/N tấn_công/V chiếm/V nhà/N của/E mình/P có_thể/A thực_tế/N nhiều/A người/N đã/R bị/V chiếm/V rồi/C nếu/N họ/P nằm/V trong/E số/N 2/M triệu/M người_dùng/N nêu/V trên/N
+Check_Point/Np cũng/R công_bố/V danh_sách/N các/L trò_chơi/N đã/R bị/V FalseGuide/V giả_mạo/N hướng_dẫn/V để/E người_dùng/V tự/N đối_chiếu/V với/E trường_hợp/N của/N mình/N
+Đó/P là/V các/L game/N FIFA/Np Mobile/N Criminal_Case/Np Super_Mario/Np Subway_Surfers/Np Pokemon_Go/Np Lego_Nexo_Knights/Np Lego_City_My_City/Np Ninjago_Tournament/Np Rolling_Sky/Np Amaz3/Np ing/V SpiderMan/N Drift_Zone/Np 2/M Dream_League_Soccer/Np
+Làm/V thế_nào/N để/E bảo_vệ/V mình/N
+Theo/E khuyến_cáo/N của/E các/L chuyên_gia/N bảo_mật/V Check_Point/Np người_dùng/V hãy/N
+Luôn/R tải/N ứng_dụng/V từ/E các/L nhà/N phát_triển/V uy_tín/N và/CC đã/R được/V cộng_đồng/N công_nhận/N cũng/R như/A các/L kho/N ứng_dụng/N chính_thống/A như/C Google/Np play/V Store/Np hay/V Apple_App_Store/Np
+Luôn/R xem_xét/V kĩ/N yêu_cầu/N của/E ứng_dụng/N trước/E khi/N cài_đặt/N
+Ứng_dụng/N nào/P yêu_cầu/V quyền/N truy_cập/N vượt/V ngoài/N công_dụng/N của/E ứng_dụng/N đó/P thì/C không/R nên/V cài_đặt/N
+Luôn/R có/V một/M phần_mềm/N chống/N virus/N tốt/A trên/E thiết_bị/N của/E bạn/N để/E tìm_kiếm/V và/CC ngăn_chặn/V kịp_thời/A các/L mã/N độc/N
+Không/R tải/N ứng_dụng/N từ/E các/L nguồn/N cung_cấp/V thứ_ba/N mặc_dù/N trong/E trường_hợp/N này/P mã/V độc/A được/V tích_hợp/N trong/E ứng_dụng/N trên/N kho/N chính_thống/N Google_Play/Np nhưng/C thực_tế/A hầu_hết/N ứng_dụng/V không/R an_toàn/V đều/R đến/V từ/E các/L kho/N ứng_dụng/N thứ_ba/N
+Không/R nên/V kết_nối/V vào/E các/L điểm/N truy_cập/V WiFi/N không/R rõ_ràng/A và/CC không/R an_toàn/A
+Hãy/R tắt/V chế_độ/N WiFi/V khi/N bạn/N không/R có/V nhu_cầu/N sử_dụng/V
+Hãy/R luôn/R cẩn_trọng/A với/E những/L ứng_dụng/N được/V cấp_phát/V quyền/N quản_trị/V
+Đây/P là/V quyền/N truy_cập/V rất/R mạnh_mẽ/A có_thể/A cho/V phép/N ứng_dụng/V kiểm_soát/V toàn_bộ/N thiết_bị/N của/N bạn/N
+Tuyệt_đối/A không/R truy_cập/V vào/E các/L đường_dẫn/N được/V gửi/V qua/R tin_nhắn/N SMS/Np hoặc/N MMS/Np thậm_chí/N ngay/T cả/T các/L email/N trông/V có/V vẻ/N hợp_pháp/A
+Bạn/N hãy/R chịu_khó/A truy_cập/V trực_tiếp/A vào/V website/N chính/A gốc/N để/E tìm_hiểu/V câu_chuyện/N thay_vì/V kết_nối/V qua/R một/M cách_thức/N trung_gian/N tiềm/N tàng_ẩn/N hoạ/N

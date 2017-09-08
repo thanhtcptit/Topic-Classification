@@ -1,0 +1,23 @@
+NASA/Np thử_nghiệm/V hệ_thống/N động_cơ/N proton/N mới/R cho/V tàu_vũ_trụ/N
+Nó/P có_thể/R bay/V tới/E vùng_đệm/N nhật/N quyển/N heliopause/N của/E hệ/N Mặt_Trời/Np trong/E vòng/N 10/M năm/N
+Tàu_Voyager/Np 1/M phải/V mất/V tới/E 35/M năm/N để/E bay/V tới/E vùng/N này/P theo/V NASA/Np
+Hệ_thống/N này/P có/V tên/N gọi_là/X Herts/Np E/Np sail/V có_thể/R hoạt_động/V mà/C không/R cần/V chất_nổ/N đẩy/V
+Thay/V vào/E đó/P nó/P sẽ/R sử_dụng/V năng_lượng/N từ/E gió/N Mặt_Trời/Np để/E đi/V tới/E rìa/N Thái_Dương/N hệ/N
+Một/M con/N tàu_vũ_trụ/N sẽ/R sử_dụng/V 10/M đến/E 20/M dây/N nhôm/V tích/N điện/N để/E tạo/V ra/R một/M cánh/N buồm/N điện_tử/N E/V sail/N khổng_lồ/A
+Mỗi/L dây/N nhôm/N có/V bề_dày/N chỉ/R một/M mm/N nhưng/C dài/A hơn/A 8/M km/Nu tương_đương/V 219/M sân/N bóng_đá/N
+Các/L cánh/N buồm/N điện_tử/N này/P sẽ/R đẩy/V các/L proton/N có/V trong/E gió/N Mặt_Trời/Np tạo/V ra/R lực/N đẩy/V cho/E tàu_vũ_trụ/N
+Mặt_Trời/N giải_phóng/V các/L proton/N và/CC electron/V với/E tốc_độ/N rất/R cao/A 400/M đến/E 750/M km/Nu //X s/N
+E/V sail/N sẽ/R sử_dụng/V những/L proton/N này/P để/E đẩy/V tàu_vũ_trụ/N đi/V Bruce_Wiegmann/Np kỹ_sư/N thuộc/V Văn_phòng/N khái_niệm/N tiên_tiến/A Marshall/Np và/CC nhà_nghiên_cứu/N cơ_bản/A của/E Herts/Np E/Np sail/V cho_biết/V
+Các/L nhà_nghiên_cứu/N của/E Trung_tâm/N bay/V vũ_trụ/N Marshall/Np tại/E Huntsville_Alabama/Np đã/R bắt_đầu/V tiến_hành/V các/L thử_nghiệm/V dự_kiến/V diễn/V ra/R trong/E hai/M năm/N
+Những/L thử_nghiệm/V này/P nhằm/V mục_đích/N xác_định/V tổng_số/N proton/N bị/V làm/V chệch/V hướng/N bởi/E các/L dây/N nhôm/N và/CC số_lượng/N electron/N bị/V các/L proton/N này/P hút/V
+Các/L kỹ_sư/N cũng/R sẽ/R kiểm_tra/V plasma/N cải_thiện/V các/L mô_hình/N dữ_liệu/N cho/E các/L bước/N phát_triển/V E/Np sail/V trong/E tương_lai/N
+Tuy_nhiên/C theo/E các/L nhà_nghiên_cứu/N còn/R rất/R nhiều/A việc/N phải/V làm/V và/CC dự_kiến/V phải/V mất/V 10/M năm/N để/E có_thể/A đưa/V công_nghệ/N này/P ra/R sử_dụng/V trong/E thực_tế/N
+Theo/E lý_thuyết/N khi/N bay/V ngoài/E vũ_trụ/N khu_vực/N hiệu_quả/N của/E các/L cánh/N buồm/N điện_tử/N cũng/R sẽ/R được/V nâng_cấp/V dần/R
+Tại/E khoảng_cách/N 1/M đơn_vị/N thiên_văn/N AU/Np khu_vực/N này/P khoảng/A 600/M km2/M nhưng/C ở/E khoảng_cách/N 5/M AU/Nu nó/P tăng/V lên/R gần/A 1/M 200/M km2/M
+Thông_thường/A năng_lượng/N của/E các/L photon/N năng_lượng/N Mặt_Trời/Np mất/V đi/R khi/N một/M cánh/N buồm/N Mặt_Trời/Np đi/V tới/E khoảng_cách/N 5/M AU/Nu tại/E vành_đai/N tiểu/V hành_tinh/N làm/V cho/E quá_trình/N gia_tốc/N bị/V dừng/V lại/R
+Nhưng/C E/Np sail/V vẫn/R tiếp_tục/V tăng_tốc/V khi/N vượt/V qua/R khoảng_cách/N này/P nhờ/V vào/E các/L proton/N trong/E gió/N Mặt_Trời/Np
+Những/L lo_ngại/V về/E việc/N ngừng/V tăng_tốc/V không/R áp_dụng/V cho/E các/L proton/N từ/E gió/N Mặt_Trời/Np
+Với/E các/L dòng_chảy/N liên_tục/A của/E proton/N và/CC sự/Nc gia_tăng/V của/E khu_vực/N hiệu_quả/N E/Np sail/V sẽ/R tiếp_tục/V tăng_tốc/V tới/E khoảng_cách/N 16/M đến/E 20/M AU/Np gấp/V ít_nhất/A ba/M lần/N so/V với/E buồm/N Mặt_Trời/Np tốc_độ/N cũng/R sẽ/R cao/A hơn/R rất/R nhiều/A Wiegmann/Np nói/V
+Các/L nhà_nghiên_cứu/N hy_vọng/V tàu_vũ_trụ/N trang_bị/V công_nghệ/N này/P có_thể/R bay/V ra/R ngoài/E hệ/N Mặt_Trời/Np trong/E vòng/N dưới/E 10/M năm/N trong/E khi/N tàu/N Voyager/Np 1/M của/E NASA/Np tiến/V vào_khoảng/X không/R ngoài/N hệ/N Mặt_Trời/Np vào/E năm/N 2012/M 35/M năm/N sau/E khi/N khởi_hành/V
+Ngoài_ra/C E/Np sail/R còn/R có_thể/A tùy/V chỉnh/V cho/E các/L chuyến/N bay/V khác_nhau/A bên/N trong/N hay/C bên/N ngoài/N các/L hành_tinh/N hoặc/CC tới/V vùng_đệm/N nhật/N quyển/N
+Mỗi/L khoảng_cách/N sẽ/R có/V yêu_cầu/V khác_nhau/A về/E chiều/N dài/A dây/N số_lượng/N dây/N và/CC điện_áp/N đặt/V vào/E

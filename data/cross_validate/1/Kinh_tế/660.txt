@@ -1,0 +1,9 @@
+Mỗi/L tháng/N gần/A 7 0/M doanh_nghiệp/N đóng_cửa/V giải_thể/V
+Bộ/N Kế/V hoạch/V &/CC Đầu_tư/V cho_biết/V sau/E 6/M tháng/N có/V trên/N 5 0/M doanh_nghiệp/N hoàn_tất/V thủ_tục/N giải_thể/N hai_phần_ba/N trong/E số/N này/P là/V doanh_nghiệp/N có/V vốn/N dưới/E 10/M tỷ/N đồng/N
+Song_song/A đó/P hơn/R 37 0/M doanh_nghiệp/N tạm/A ngừng/V hoạt_động/V tăng/V 21,8%/M so/V với/E cùng/A kỳ/N
+Như_vậy/C tổng_cộng/N đã/R có/V 43 0/M doanh_nghiệp/N buộc/V phải/V đóng_cửa/V trong/E 6/M tháng/N qua/V bình_quân/N mỗi/M tháng/N gần/A 7 0/M doanh_nghiệp/N
+Việc/N nhiều/A doanh_nghiệp/N không/R trụ/V lại/R được/R trên/E thị_trường/N cho/V thấy/V tình_hình/N kinh_doanh/V khó_khăn/A sức/N cầu/N thấp/A
+Trong/E khi/N đó/P số/N doanh_nghiệp/N quay/V trở_lại/V hoạt_động/V từ/E đầu/N năm/N đến/E nay/P chỉ/R gần/A 15 0/M đơn_vị/N
+Về/E số/N thành_lập/V mới/R có/V gần/A 61 0/M doanh_nghiệp/N được/R khai_sinh/V trong/E nửa/N đầu/N năm/N tổng/N vốn/N đăng_ký/V hơn/A 596 0/M tỷ/N đồng/N
+So/V với/E cùng/A kỳ/N 2016/M số/N đơn_vị/N thành_lập/V mới/R tăng/V 12,4%/M và/CC tăng/V 39,4%/M về/E vốn/N đăng_ký/V  /EOS Bình_quân/A mỗi/L doanh_nghiệp/N lập/V mới/R có/V vốn/N khoảng/A 9,7/M tỷ/Nu đồng/N Bán_lẻ/V là/V lĩnh_vực/N hút/V các/L doanh_nghiệp/N nhiều/A nhất/R với/E 21 0/M doanh_nghiệp/N lập/V mới/R đăng_ký/V ngành/N kinh_doanh/V này/P tăng/V 10,5%/M so/V với/E cùng/A kỳ/N
+Khoảng/N 8 0/M đơn_vị/N chọn/V lập_nghiệp/V trong/E ngành/N xây_dựng/V và/CC khoảng/N 8 0/M doanh_nghiệp/N lập/V mới/R thuộc/V chế_biến/V chế_tạo/V

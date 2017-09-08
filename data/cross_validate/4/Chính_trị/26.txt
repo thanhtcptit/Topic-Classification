@@ -1,0 +1,13 @@
+Vụ/N cháy_chợ/N đêm/N Phú_Quốc/Np gây/V thiệt_hại/A hơn/A 1/M tỉ/M đồng/Nu
+Công_ty/N cổ_phần/N du_lịch/N Ngôi_Sao_Biển/Np đơn_vị/N chủ/N đầu_tư/V chợ/N đêm/N Phú_Quốc/Np Kiên_Giang/Np cho/V biết/V thống_kê/N ban_đầu/N vụ/N hoả_hoạn/V xảy/V ra/R lúc/N 3h/M sáng/N cùng/A ngày/N gây/V thiệt_hại/A hơn/A 1/M tỉ/M đồng/Nu
+Trao_đổi/V với/E Tuổi_Trẻ/Np chiều/N 37/M ông/N Huỳnh_Văn_Sơn/Np chủ_tịch/N Hội_đồng/N quản_trị/V công/N ty/V cho/V biết/V có/V 9/M gian_hàng/N bị/V thiêu/V rụi/N hoàn_toàn/A trong/E đó/N có/V 1/M gian_hàng/N ẩm_thực/N 7/M gian_hàng/N kinh_doanh/V hàng/N lưu_niệm/N 1/M gian_hàng/N nhỏ/A
+Ngoài_ra/X còn/V có/V 3/M lô/N lân/N cận/N bị/V cháy/V sém/V phần/N mái/N poly/N và/CC dây/N diện/N thiệt_hại/N khoảng/A 10/M
+Hiện/N vẫn/R chưa/R biết/V nguyên_nhân/N chính_xác/A của/E vụ/N cháy/V
+Khu_vực/N bị/V hoả_hoạn/N vẫn/R bị/V phong_toả/V
+Chiều/N nay/P 37/M Phòng_Khoa_học/N hình_sự/N Công_an/N tỉnh/N Kiên_Giang/Np sẽ/R ra/V đảo/N Phú_Quốc/Np để/E tiếp_tục/V điều_tra/V nguyên_nhân/N
+Sau/E khi/N làm/V rõ/A vụ_việc/N sẽ/R cho/V phép/N tiến_hành/V sửa_chữa/V
+Sau/E sự_cố/N công_ty/N Ngôi_Sao_Biển/Np đã/R hỗ_trợ/V nhanh/A cho/E mỗi/M hộ/N kinh_doanh/V bị/V hoả_hoạn/V 5/M triệu/M đồng/Nu
+Sau/E khi/N có/V số_liệu/N thống_kê/N chi_tiết/N thiệt_hại/N công_ty/N sẽ/R kiến_nghị/V đề_xuất/N miễn_giảm/N 6/M tháng/N tiền/N thuê/V mặt_bằng/N giảm/V thuế/N nhằm/V hỗ_trợ/V cho/E các/L tiểu_thương/N
+Đồng/N thời/N rút/V kinh_nghiệm/N tuyên_truyền/V vận_động/V tiểu_thương/N nâng/V cao/A ý_thức/N phòng_chống/V cháy/V nổ/V
+Đặc_biệt/A sẽ/R vận_động/V tiểu_thương/N mua/V bảo_hiểm/N cháy/V nổ/V bắt_buộc/V
+Như/C Tuổi_Trẻ/Np đã/R thông_tin/V khoảng/N 3h/M sáng/N 37/M một/M vụ/Nc cháy/N lớn/A đã/R xảy/V ra/R thiêu/V rụi/N toàn_bộ/N 9/M gian_hàng/N của/E chợ/N đêm/N Phú_Quốc/Np

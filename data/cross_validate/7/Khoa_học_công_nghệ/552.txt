@@ -1,0 +1,3 @@
+Ứng_dụng/V công_nghệ/N hiện_đại/A trong/E thang_máy/N Kone/Np
+Đây/P là/V một/M nghiên_cứu/N mới/A của/E Kone/Np nhằm/V đem/V đến/E nhiều/A tiện_ích/N hơn_nữa/R cho/E những/L người/N sinh_sống/V và/CC làm_việc/V tại/E các/L cao_ốc/N
+Ứng_dụng/N Kone_Remote/Np Call/Np hoạt_động/V tương_thích/A với/E cả/P hệ_điều_hành/N i/N OS/Np và/CC Android/Np có_thể/A tải/N miễn_phí/V từ/E các/L kho/N ứng_dụng/V App_Store/Np và/CC Android_Market/Np

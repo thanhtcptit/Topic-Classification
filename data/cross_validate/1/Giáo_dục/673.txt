@@ -1,0 +1,36 @@
+Kỹ_sư/N công_nghệ/N góp_ý/V xét/V tuyển/V đại_học/N
+Tôi/P nghĩ/V Bộ/N Giáo/N dục/V nên/C đặt_hàng/V các/L đơn_vị/N phần_mềm/N lớn/A trong/E nước/N phần_mềm/N tuyển_sinh/V và/CC xét/V tuyển/V tập_trung/V
+Theo/E trình_tự/N như/C sau/N Bước/N chuẩn_bị/V Các/L trường/N nộp/V chỉ_tiêu/N và/CC các/L yêu_cầu/N như/C Tuyển_sinh/V theo/E khu_vực/N nhân/N hệ_số/N
+Các/L thí_sinh/N có/V nguyện_vọng/N vào/V trường/N quân_đội/N gửi/V phiếu/N xác_minh/V lý_lịch/N để/E làm/V thông_tin/N xét/V tuyển/V
+ /M Thông_tin/N của/E các/L thí_sinh/N đăng_ký/V dự/V thi/V phải/V đầy_đủ/A tất_cả/P về/E hộ_khẩu/N bản_sao/N gia_đình/N chính_sách/N để/E xem_xét/V điểm/N cộng/V …/M Phần_mềm/N cấp/V số_báo_danh/N cho/V cho/E thí_sinh/N
+Bước/N tuyển_sinh/V Bước/N 1/M Công_bố/V điểm/N tốt_nghiệp/V
+Công_bố/V điểm_sàn/V được/R xét/V tuyển/V đại_học/N
+Bước/N 2/M Cho/V thí_sinh/N đăng_ký/V nguyện_vọng/N Số_lượng/N nguyện_vọng/N không/R hạn_chế/V
+Hoặc/C hạn_chế/V ở/E mức/N rất/R cao/A ví_dụ/V 100-200/M nguyện_vọng/N
+Ứng/V với/E bao_nhiêu/P nguyện_vọng/N sẽ/R có/V bấy_nhiêu/P bước/N xét/V tuyển/V do/E máy_tính/N thực_hiện/V
+Ở/E bước/N này/P phần_mềm/N phải/V chặn/V các/L thí_sinh/N có/V điều_kiện/N đầu_vào/V không/R thỏa_mãn/V
+Riêng/T các/L trường/N quân_đội/N thì/C thí_sinh/V phải/V đăng_ký/V riêng/A từ/E sớm/A để/E xác_định/V minh/N lý_lịch/N nếu/C thỏa_mãn/V thì/C mới/R được/V chọn/V nguyện_vọng/N trường/N quân_đội/N
+Các/L thí_sinh/N còn/V lại/R chưa/R được/V xác_minh/V lý_lịch/N thì/C không/R được/V chọn/V nguyện_vọng/N vào/E các/L trường/N này/P
+Các/L thí_sinh/N sẽ/R đến/V khu/N vự/V C/N tập_trung/V tại/E địa_phương/N để/E đăng_ký/V nguyện_vọng/N hoặc/CC đăng_ký/V online/V …/M Bước/N 3/M Công_bố/V tỷ_lệ/N chọi/V của/E các/L trường/N theo/V danh_sách/N từ/E cao/A đến/E thấp/A theo/V từng/R ngành/N của/E trường/N
+Ví_dụ/V ngành/N Hóa/V Bách_khoa/N TP_HCM/Np Nguyện_vọng/N 1/M tỷ/Nu lê/N chọi/V 100/M /N 1/M chọi/V 100/M /N Nguyện_vọng/N 2/M tỷ_lệ/N chọi/V 200/M /N 1/M chọi/V 200/M /N Nguyện_vọng/N 3/M tỷ_lệ/N chọi/V 300/M /N 1/M chọi/V 300/M /N Tất_cả/P nguyện_vọng/N sẽ/R được/V công_bố/V lên/R website/Np được/V sắp_xếp/V từ/E cao/N đến/V thấp/A
+Bước/N 4/M Xét/V tuyển/V lần/N 1/M Bước/V 4 M Ngành/N của/E trường/N nào/P có/V tỷ_lệ/N chọi/V nguyện_vọng/N 1/M cao/A nhất/R sẽ/R ưu_tiên/V xét/V tuyển/V trước/E không/R phân_biệt/V khối/N thi/V khu_vực/N tuyển_sinh/V
+Các/L thí_sinh/N trúng_tuyển/V nguyện_vọng/N 1/M sẽ/R không/R được/V phép/N xét/V truyển/V các/L nguyện_vọng/N còn/V lại/R
+Các/L ngành/N của/E trường/N đã/R đủ/A chỉ_tiêu/N khi/N xét/V tuyển/V nguyện_vọng/N 1/M thì/C không/R được/V phép/N tham_gia/V xét/V tuyển/V nguyện_vọng/N còn/V lại/R
+Bước/N 4 M Ngành/N của/E trường/N nào/P có/V tỷ_lệ/N chọi/V nguyện_vọng/N 2/M cao/A nhất/R sẽ/R ưu_tiên/V xét/V tuyển/V trước/N không/R phân/V biệc/N khối/N thi/V khu_vực/N tuyển_sinh/V
+Các/L thí_sinh/N trúng_tuyển/V nguyện_vọng/N 2/M sẽ/R không/R được/V phép/N xét/V truyển/V các/L nguyện_vọng/N còn/V lại/R
+Các/L ngành/N của/E trường/N đã/R đủ/A chỉ_tiêu/N khi/N xét/V tuyển/V nguyện_vọng/N 2/M thì/C không/R được/V phép/N tham_gia/V xét/V tuyển/V nguyện_vọng/N còn/V lại/R
+Lặp/V lại/R cho_đến/E khi/N đã/R xét/V đầy_đủ/A các/L nguyện_vọng/N của/E thí_sinh/N
+Bước/N 4/M n/V Sẽ/R kết_thúc/V việc/N xét/V tuyển/V
+Tất_cả/P các/L bước/N trên/E đều/R do/E máy_tính/N thực_hiện/V
+Bước/N 5/M Các/L thí_sinh/N nộp/V phiếu/N điểm/N chính_thức/A cho/E trường/N mà/C mình/P trúng_tuyển/V
+Bước/N 6/M Xét/V tuyển/V bổ_sung/V đợt/N 1/M
+Các/L trường/N chưa/R đủ/A chỉ_tiêu/N sẽ/R công_bố/V chỉ_tiêu/N còn/R thiếu/V lại/R vào/E phần_mềm/N và/CC tiếp_tục/V đợt/N xét/V tuyển/V bổ_sung/V tiếp_theo/V
+Đợt/N xét/V tuyển/V bổ_sung/V lặp/V lại_giống/A như/C xét/V tuyển/V đợt/N 1/M
+Yêu_cầu/N khác/A Hệ_thống/N đòi_hỏi/V phải/V được/V đầu_tư/V tốt/A về/E mặt/N CNTT/Np phải/V có/V website/N công_bố/V tập_trung/V có/V khả_năng/N chịu/V truy_cập/V lớn/A
+Việc/N này/P các/L đơn_vị/N CNTT/Np lớn/A như/C FPT/Np và/CC Viettel/Np rất/R có/V kinh_nghiệm/N
+Website/N công_bố/V tập_trung/V phải/V được/V bảo_mật/V tốt/A để/E thí_sinh/V có_thể/R đăng_ký/V tập_trung/V online/V
+Ưu_điểm/N của/E xét/V tuyển/V tập_trung/V Đối_với/E thí_sinh/N Linh_động/N với/E thí_sinh/N các/L em/N học/V đều/R có_thể/R đăng_ký/V được/R nhiều/A khối/N khác_nhau/A
+Thí_sinh/N có/V nguyện_vọng/N không/R hạn_chế/V nên/C tăng/V khả_năng/N đậu/V cao/A hơn/R
+Đối_với/E các/L trường/N Với/E cách/N làm/V này/P tránh/V thí_sinh/N ảo/A
+Các/L trường/N sẽ/R tuyển/V được/R thí_sinh/N có/V chất_lượng/N nhất/A
+Hội_đồng/N tuyển_sinh/V của/E các/L trường/N sẽ/R giảm/V gánh/N nặng/A trong/E việc/N xét/V tuyển/V

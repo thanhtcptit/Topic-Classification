@@ -1,0 +1,9 @@
+Cuộc_thi/N M Đại_sứ/N Văn_hóa/N đọc/V Thủ_đô/N 2016/M N khởi_động/V
+Cuộc_thi/N Đại_sứ/N Văn_hóa/N đọc/V thủ_đô/N 2016/M do/E Sở/N Thông/Np tin/V và/CC Truyền_thông/N Hà_Nội/Np Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np Trung_tâm/N Hợp_tác/V Trí_tuệ/N Việt_Nam/Np /V VICC/Np /V và/CC Hội_Truyền/Np thông/V thành_phố/N Hà_Nội/Np phối_hợp/V tổ_chức/V
+Cuộc_thi/N nằm/V trong/E khuôn_khổ/N dự_án/N Cùng/A đọc/V sách/N Let/Np M s/N Read/Np của/E VICC/Np
+Cuộc_thi/N được/V phát_động/V tại/E Hội/N sách/N Thiếu_nhi/N 1/6/M hội/N sách/N lần/N đầu_tiên/A được/V tổ_chức/V tại/E Văn_Miếu/Np Quốc_Tử_Giám/Np
+Bài/N dự/V thi/V là/V một/M bài/N viết/V bằng/E tiếng/N Việt/Np /A dài/A không/R quá/R 800/M từ/E /M hoặc/CC tiếng/N Anh/Np /V khoảng/A 500/M từ/E /M trong/E đó/P thể_hiện/V hai/M nội_dung/N viết/V về/E một/M quyển/Nc sách/N có/V ý_nghĩa/N nhất/A và/CC chia_sẻ/V ý_tưởng/N để/E khuyến_khích/V mọi/L người/N đọc/V sách/N nhiều/A hơn/R cũng_như/C lan_tỏa/N tình_yêu/N sách/N trong/E cộng_đồng/N nếu/C được/V chọn/V là/V đại_sứ/N
+Danh_hiệu/N Đại_sứ/N Văn_hóa/N đọc/V Thủ_đô/N sẽ/R được/V trao_tặng/V cho/E 32/M học_sinh/N tại/E Hà_Nội/Np những/L em/N có/V bài/N viết/V hay/A nhất/R về/E cuốn/Nc sách/N tâm_đắc/V
+Trong/E đó/P có/V hai/M Đại_sứ/N Văn_hóa/N đọc/V Thủ_đô/N tiêu_biểu/A và/CC 30/M Đại_sứ/N Văn_hóa/N đọc/V Thủ_đô/N
+Tổng/N giá_trị/N giải_thưởng/N là/V 50/M triệu/M đồng/Nu
+Ban/N tổ_chức/V nhận/V bài/N dự/V thi/V đến/E hết/V 15/9/M tổng_kết/V trao/V giải/N trong/E Hội/N sách/N Hà_Nội/Np 2016/M tại/E Hoàng_Thành/Np Thăng_Long/Np dịp/N 10/10/M

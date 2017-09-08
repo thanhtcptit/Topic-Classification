@@ -1,0 +1,11 @@
+Nhiều/A ngành/N Đại_học/N Hàng_hải/N Hồng_Đức/Np Tây_Bắc/Np lấy/V điểm_chuẩn/N bằng/E sàn/N
+Ngày/N 14/8/M Đại_học/N Hàng_hải/N Việt_Nam/N công_bố/V điểm_chuẩn/N dao_động/V từ/E 15/M đến/E 22/M
+Một_số/L ngành/N như/C Máy/N tàu_thủy/N Đóng/V tàu/N và/CC công_trình/N ngoài/E khơi/N Điện/N tự_động/A tàu_thủy/V lấy/V điểm/N trúng_tuyển/V là/V 15/M
+Kinh_tế/N ngoại_thương/N là/V ngành/N lấy/V điểm_chuẩn/N cao/A nhất/A 22/M cho/E tổ_hợp/N các/L môn/N nhân/V hệ_số/N 1/M /Nu Xem/V cụ_thể/A  /M tại/E đây/P /M
+Điểm/N trúng_tuyển/V vào/E Đại_học/N Hồng_Đức/Np dao_động/V từ/E 15/M đến/E 17/M
+Các/L ngành/N Kế_toán/N Sư_phạm/N Toán/Np Sư_phạm/N Ngữ_văn/N Sư_phạm/N Tiếng_Anh/Np lấy/V 17/M điểm/N
+Ngành/N Luật/Np Giáo_dục/N Tiểu_học/N Giáo_dục/N Mầm_non/N lấy/V 16/M điểm/N
+Các/L ngành/N còn/V lại/R lấy/V bằng/E mức/N điểm_sàn/A 15/M
+Đây/P là/V mức/N điểm/N áp_dụng/V cho/E thí_sinh/N là/V học_sinh/N phổ_thông/N thuộc/V khu_vực/N 3/M mức/N chênh_lệch/A giữa/E hai/M nhóm/N đối_tượng/N kế_tiếp/V là/V 1/M điểm/N giữa/N hai/M khu_vực/N kế_tiếp/V là/V 0,5/M đối_với/E thang/N điểm/N 10/M
+Hầu_hết/L ngành/N của/E Đại_học/N Tây_Bắc/Np lấy/V điểm_chuẩn/N nhiều/A ngành/N bằng/E điểm_sàn/N 15/M  /M Đây/P là/V mức/N điểm/N trúng_tuyển/V dành/V cho/E thí_sinh/N thi/V THPT/Np quốc_gia/N
+Điểm/N xét/V tuyển/V học_bạ/N THPT/Np dao_động/V từ/E 14/M đến/E 24/M theo/E từng/R ngành/N

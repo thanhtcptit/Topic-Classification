@@ -1,0 +1,22 @@
+Hàng/R trăm/M trẻ/N nằm/V viện/N vì/E sốt_xuất_huyết/V vào/E mùa/N
+Tiến_sĩ/N Nguyễn_Minh_Tuấn/Np Trưởng_Khoa_Sốt/Np xuất_huyết/V Bệnh_viện/N Nhi_đồng/N 1/M cho_biết/V trong/E 116/M ca/N đang/R nội_trú/N có/V 9/M bệnh_nhi/N sốc/N sốt_xuất_huyết/V với/E các/L biểu_hiện/N như/C mạch/N nhanh/A khó/A bắt/V tụt/V huyết_áp/N
+Từ/E tháng/N 6/M các/L ca/N sốt_xuất_huyết/N bắt_đầu/V tăng/V 10-15/M %/N so/V với/E tháng/N trước/A 60%/M bệnh_nhi/N từ/E các/L tỉnh/N
+Trung_bình/A mỗi/M tuần/N có/V khoảng/N 70/M bệnh_nhân/N nhập_viện/V trong/E đó/P 10%/M là/V các/L ca/N nặng/A
+Theo/E bác_sĩ/N Tuấn/Np sốc/N sốt_xuất_huyết/N xảy_ra/V do/E tình_trạng/N thất_thoát/V huyết_tương/N thường/R xuất_hiện/V khi/N bệnh_nhi/N bắt_đầu/V hạ/V sốt/V nhưng/C tình_trạng/N bệnh/N không/R đỡ/V với/E các/L triệu_chứng/N như/C đau/V bụng/N nhiều/A nôn/V ói/V không/R chịu/V ăn_uống/V quấy/V khóc/V bứt_rứt/V khó_chịu/V …/N May_mắn/A là/V hầu_hết/R ca/Nc sốc/N này/P đều/R được/V phát_hiện/V và/CC điều_trị/V kịp_thời/A
+Trong/E sốc/N sốt_xuất_huyết/N còn/R có/V tình_trạng/N sốc/N nặng/A mạch/N và/CC huyết_áp/N bằng/E 0/M chảy_máu/V dễ/A gây/V suy/V tim/N suy/V gan/N suy/V thận/N rối_loạn/V chuyển_hóa/V rối_loạn/V điện/N giải/N bác_sĩ/N Tuấn/Np phân_tích/V
+Một_số/L trẻ/N thừa/V cân/A trẻ/A có/V bệnh/N nền/N thì/C tình_trạng/N sốc/N diễn_tiến/V nguy_hiểm/A hơn/R có_thể/R sốc/N nặng/A kéo_dài/A hoặc/CC tái/A sốc/N
+Từ/E đầu/N năm/N bệnh_viện/N đã/R có/V 2/M trường_hợp/N tử_vong/N do/E sốt_xuất_huyết/N được/V chuyển/V đến/V từ/E các/L tỉnh/N và/CC diễn_tiến/V bệnh/N quá/R nặng/A
+Bác_sĩ/N khuyến_cáo/N phụ_huynh/N lưu_ý/V bổ_sung/V đủ/A chất/N dinh_dưỡng/N
+Cho/E trẻ/N ăn/V thức_ăn/N mềm/A lỏng/A dễ/A tiêu/V uống/V nhiều/A nước/N bù/V dịch/N hạ/V sốt/V bằng/E paracetamol/N
+Giai_đoạn/N đầu/N khi/N trẻ/N chưa/R bị/V thất_thoát/V huyết_tương/A thì/C không/R nên/V tự_ý/A truyền/V dịch/N
+Điều/N này/P có_thể/A khiến/V trẻ/N phù_nề/A suy/V hô_hấp/N rất/R nguy_hiểm/A bác_sĩ/N Tuấn/Np nói/V
+Việc/N truyền/V dịch/N cần/V thực_hiện/V trong/E bệnh_viện/N dưới/E chỉ_định/V và/CC theo_dõi/V sát/A của/E bác_sĩ/N
+Trước/E tình_hình/N dịch/V sốt_xuất_huyết/N đang/R tăng/V cao_cả/A nước/N ngành/N y_tế/N khuyến_cáo/N người_dân/N ngủ/V màn/N vào/E ban_ngày/N để/E phòng_bệnh/V  /M Người_bệnh/N sốt_xuất_huyết/N cũng/R ngủ/V màn/N để/E tránh/V muỗi/N đốt/V lây/V bệnh/N cho/E người/N khác/A
+Loại_bỏ/V nơi/N sinh_sản/V của/E muỗi/N diệt/V loăng_quăng/A bọ_gậy/A bằng/E cách/N đậy/V kín/A tất_cả/P dụng_cụ/N chứa/V nước/N để/E muỗi/N không/R vào/V đẻ/V trứng/N
+Thả/V cá/N vào/E các/L dụng_cụ/N chứa/V nước_lớn/N thu_gom/V hủy/V các/L vật_dụng/N phế_thải/V trong/E nhà/N và/CC xung_quanh/N dọn/V vệ_sinh/V môi_trường/N lật/V úp/V các/L dụng_cụ/N chứa/V nước/N khi_không/N dùng/V đến/E
+Sốt_xuất_huyết/N là/V bệnh/N do/E muỗi/N truyền/V và/CC chưa/R có/V thuốc/N điều_trị/V đặc_hiệu/A  /M Bệnh/N
+do/E virus/N Dengue/Np gây/V ra/R với/E 4/M tuýp/N gây/V bệnh/N được/R ký_hiệu/V là/V D1/Np D2/Np D3/Np D4/Np
+Do/E miễn_dịch/N được/V tạo/V thành/V sau/E khi/N mắc/V bệnh/N chỉ/R có/V tính/N đặc_hiệu/A đối_với/E từng/R tuýp/N nên/C một/M người/N có_thể/A mắc/V bệnh/N 2-3/M lần/N
+Trường_hợp/N nhẹ/A người_bệnh/N sốt/V cao/A đột_ngột/A 39-40/M độ/N C/N kéo_dài/V 2-7/M ngày/N khó/A hạ/V sốt/V đau_đầu/V dữ_dội/A ở/E vùng/N trán/N sau/E nhãn_cầu/N có_thể/R có/V nổi/R mẩn/N phát_ban/V
+Nặng/A hơn/A người_bệnh/N có/V dấu_hiệu/N xuất_huyết/V như/C chấm/N xuất_huyết/V ngoài/E da/N chảy/V máu_cam/N chảy_máu/V chân/N răng/N vết/N bầm/A tím/A chỗ/N tiêm/V nôn/V ói/V ra/R máu/N đi_cầu/V phân/N đen/A đau/V bụng/N buồn_nôn/N chân_tay/N lạnh/A người/N vật_vã/V hốt_hoảng/V
+Nếu_không/C được/V cấp_cứu/V và/CC điều_trị/V kịp_thời/A có_thể/R dẫn/V đến/E tử_vong/N

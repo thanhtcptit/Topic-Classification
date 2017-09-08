@@ -1,0 +1,16 @@
+Samsung/Np tung/V bản/N cập_nhật/V trên/E Galaxy_Note/Np 7/M để/E vá/V lỗi/N tự/P khởi_động/V lại/R 
+Cụ_thể/A bản/N cập_nhật/V mới/R lần/N này/P có/V dung_lượng/N lên/V đến/E 202,31/M MB/Np 
+Đây/P là/V một/M gói/N cập_nhật/V tương_đối/A lớn/A 
+Tuy_nhiên/C Samsung/Np chỉ/R đề_cập/V chủ_yếu/A đến/E việc/N cải_thiện/V tính/N ổn_định/A và/CC sửa/V lỗi/N cho/E thiết_bị/N đồng_thời/R tăng/V hiệu_suất/N cho/E thiết_bị/N trong/E bản/N cập_nhật/V mới/R lần/N này/P 
+Trong/E các/L thông_báo/N liên_quan/V đến/E bản/N nâng_cấp/V này/P Samsung/Np không/R đề_cập/V cụ_thể/A đến/E các/L lỗi/N được/V sửa/V nhưng/C nhiều/A khả_năng/N lỗi/N tự/P khởi_động/V lại/R và/CC không/R vào/V được/R màn_hình/N chính/T mà/C một_số/L người/N dùng/V đã/R gặp/V phải/A đã/R được/V Samsung/Np âm_thầm/A vá/V trong/E bản/N nâng_cấp/V này/P 
+Về/V lỗi/N tự/P khởi_động/V lại/R trên/E Note7/Np đầu_tiên/N lỗi/N này/P được/V đăng_tải/V trên/E một/M diễn_đàn/N ở/E Úc/Np của/E một/M khách_hàng/N nhà/N mạng/N Vodafone/Np bị/V dính/V phải/V tình_trạng/N tự/P khởi_động/V liên_tục/A sau/E khi/N chuyển/V dữ_liệu/N từ/E thiết_bị/N cũ/A sang/V thiết_bị/N mới/A bằng/E tính_năng/N Samsung_Smart/Np Switch/Np 
+Ngay/T sau/E đó/P trên/E một/M diễn_đàn/N khác/A ở/E Việt_Nam/Np cũng/R xuất_hiện/V đoạn/N clip/V về/E việc/N máy/N bị/V khởi_động/V liên_tục/A và/CC mất/V dữ_liệu/N khi/N sử_dụng/V tính_năng/N SmartSwitch/Np 
+Nhiều/A người/N cho/V rằng/C các/L máy/N này/P đã/R bị/V lỗi/N bootloop/V lỗi/N này/P sẽ/R gây/V ra/R tình_trạng/N máy/N sẽ/R tự/P khởi_động/V lặp/V lại/R liên_tục/A và/CC không_thể/R vào/V màn_hình/N chính/T 
+Lý_do/N cho/E việc/N gặp/V lỗi/N này/P đó/P là/V xung_đột/N giữa/E ứng_dụng/N và/CC hệ_điều_hành/N trên/E phân_vùng/N ext/N 2/M hoặc/CC ext/V 3/M 
+Trao_đổi/V với/E một/M chuyên_gia/N trong/E ngành/N di_động/V vị/N này/P cho_biết/V lỗi/N này/P có_thể/R do/E xung_đột/V giữa/E ứng_dụng/N và/CC hệ_điều_hành/N và/CC đây/P là/V một/M lỗi/N bình_thường/A mà/C hầu_hết/L người/N dùng/V Android/Np đều/R đã/R nghe/V qua/R 
+Tuy_nhiên/C để/E khắc_phục/V cần/V chạy/V lại/R firmware/N của/E máy/N và/CC cần/V có/V thêm/V bản/N vá/V lỗi/N để/E khắc_phục/V triệt_để/A 
+Ngay/T sau/E sự_cố/N trên/N khách_hàng/N ở/E Úc/Np đã/R mang/V sản_phẩm/N đến/V với/E nhà_cung_cấp/N và/CC ngay_lập_tức/R được/V đổi/V máy/N mới/R và/CC nhận/V viên/Nc hẹn/N khách_hàng/N này/P đến/V nhận/V máy/N vào/E thứ/N 2/M tuần/N kế_tiếp/V 
+Trao_đổi/V với/E một_số/L báo_chí/N khách_hàng/N ở/E Úc/Np cho_biết/V bản_thân/N sản_phẩm/N nào/P cũng/R có/V tỷ_lệ/N lỗi/N nhất_định/V và/CC không_thể/R tránh/V khỏi/R 
+Tuy_nhiên/C khách_hàng/N này/P rất/R hài_lòng/V về/E cách/N xử_lý/V của/E Samsung/Np và/CC nhà/N mạng/N Vodafone/Np 
+Ngoài_ra/C theo/E đại_diện/N truyền_thông/N của/E Samsung_Vina/Np nếu/C gặp/V phải/V sự_cố/N liên_quan/V đén/N thiết_bị/N để/E có/V được/V sự/N chăm_sóc/V với/E dịch_vụ/N tốt/A nhất/R Samsung/Np khuyến_nghị/V quý_khách/N hàng/N Galaxy_Note/Np 7/M mang/V máy/N trực_tiếp/A đến/V trung_tâm/N bảo_hành/V Samsung/Np gần/A nhất/R để/E được/V tư_vấn/V và/CC giúp_đỡ/V cụ_thể/A 
+Gia_Hưng/Np 

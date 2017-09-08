@@ -1,0 +1,20 @@
+MobiFone/N thử_nghiệm/V mạng/N 4G/M người_dùng/N cần/V biết/V g/N ​/N ì/N
+Tốc/N độ/N thử_nghiệm/V mạng/N 4G/M ngày/N 17/M tại/N Trung_tâm/N dịch_vụ/N MobiFone/N Q1/Np TPHCM/Np vào_khoảng/N 240/M Mbps/Np Megabitgiây/Np cho/V tốc/N độ/N tải_về/A download/N và/CC 40/M Mbps/Np tốc/V độ/N tải/N lên/V upload/N
+Xem/V clip/N Tốc/N độ/N mạng/N 4G/N thử_nghiệm/N của/N MobiFone/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np đại_diện/N MobiFone/N cho/V biết/V tại/E TPHCM/Np nhà/N mạng/N này/P đang/R thử_nghiệm/V tại/E các/L quận/N 1/M 3/M 5/M 7/M 10/M và/N Tân_Bình/Np
+Trong/E đó/P khu_vực/N quận/N 1/M và/N 7/M có/V sóng/N mạng/N 4G/V mạnh/A nhất/A
+Các/L khu_vực/N còn/V lại/R chỉ/R có/V ở/V một_vài/N tuyến/N đường/N
+Xem/V Mạng/Np 4G/V và/CC những/L điều/N cần/V biết/V
+Về/V mật_độ/N trạm/N phát_sóng/V 4G/N TPHCM/Np có/V 100/M trạm/N phát/V trong/N đó/P khu_vực/N quận/N 1/M có/V đến/R 57/M trạm/N quận/N 7/M có/V 37/M trạm/N quận/N 10/M có/V 3/M trạm/N
+Các/L quận/N 5/M 10/M Tân_Bình/Np mỗi/L nơi/N hiện/N chỉ/R có/V 1/M trạm/N
+Khu_vực/N Hà_Nội/Np có/V 150/M trạm/N phát/V Đà_Nẵng/Np có/V 70/M trạm/N phát/V
+Với/E người_dùng/N iPhone/M Apple/Np đã/R đồng_ý/V mở/V dịch_vụ/N 4G/N cho/V các/L máy/N iPhone/N đang/R sử_dụng/V mạng/N MobiFone/V đồng_nghĩa/A với/E việc/N các/L khách/N hàng/N là/V thuê_bao/N MobiFone/N sử_dụng/V những/L dòng/N máy/N iPhone/N cập_nhật/V hệ_điều_hành/N iOS/N mới/A nhất/R đều/R có_thể/A trải_nghiệm/V mạng/N 4G/M LTE/Np
+Chi/N tiết/N Apple/Np mở/V mạng/N 4G/M cho/N iPhone/M tại/E Vi/Np ​/N ệt/V Nam/Np
+Để/E kích_hoạt/V dùng/V mạng/N 4G/N trên/E các/L dòng/N iPhone/M khách/N hàng/N phải/A cập_nhật/V hệ_điều_hành/N iOS/N mới/A nhất/A
+Sau/E đó/P vào/V phần/N Cài_đặt/N Cài_đặt/V chung/A Giới_thiệu/V Kiểm_tra/V nhà/N cung_cấp/V Settings/Np General/Np About/Np Carrier/Np
+Với/E smartphone/N dùng/V Android/Np tuỳ_thuộc/V giao_diện/N sử_dụng/V người_dùng/N vào/V Settings/Np Cài_đặt/V More/Np Mobile/N networks/V mạng/N di/V động/N
+Tại/E đây/P chọn/V chế/N độ/N kết_nối/N mạng/N ở/V Network/Np mode/V GSMWCDMA/Np LTE/Np auto/V
+Theo/E đó/P máy/N sẽ/R tự/V động/V kết_nối/N vào/V mạng/N 4G/N LTE/Np hoăc/V 3G/N tuỳ_thuộc/V vào/V khu_vực/N có/V hỗ_trợ/N và/CC theo/V gói/N cước/N đăng_kí/N
+Ngoài_ra/C theo/V MobiFone/N một_số/N smartphone/N của/E các/L thương_hiệu/N khác/A đang/R có_mặt/V tại/E thị_trường/N Việt_Nam/Np cũng/R sử_dụng/V được/R mạng/N 4G/M MobiFone/N
+Cần/V biết/V Rất/R ít/A điện_thoại/N sử_dụng/V được/R mạng/N 4G/M
+Trước_Mobi/Np Fone/Np hai/M nhà/N mạng/N VNPT/Np Vinaphone/Np và/CC Viettel_Telecom/Np cũng/R đã/R lần_lượt/V thử_nghiệm/V mạng/N 4G/N tại/E các/L khu_vực/N

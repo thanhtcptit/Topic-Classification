@@ -1,0 +1,8 @@
+Điểm_chuẩn/N Học_viện/N Kỹ_thuật/N mật_mã/N 19-20/M
+Chiều/N 13/8/M Học_viện/N Kỹ_thuật/N mật_mã/N công_bố/V điểm/N trúng_tuyển/V vào/V trường/N
+Theo/E đó/P điểm/N trúng_tuyển/V vào/E ngành/N Công_nghệ_thông_tin/N là/V 20/M ngành/N An_toàn/A thông_tin/N lấy/V 19/M
+Mức/N điểm/N trên/E tính/N cho/E học_sinh/N phổ_thông/N khu_vực/N 3/M thành_phố/N
+Tổ_hợp/N xét/V tuyển/V vào/E hai/M ngành/N này/P là/V A00/Np hoặc/CC A01/Np
+Các/L thí_sinh/N trúng_tuyển/V nộp/V bản_gốc/N Giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N 2016/M trực_tiếp/A tại/E văn_phòng/N tuyển_sinh/V phía/N Bắc/Np và/CC phía/N Năm/N hoặc/CC qua/E đường/N bưu_điện/N từ/E 7h30/M ngày/N 14/8/M đến/V trước/E 17h30/M ngày/N 19/8/M  /EOS
+Nhà_trường/N lưu_ý/V thí_sinh/N nếu_không/C nộp/V giấy/N trúng_tuyển/V trước/E thời_gian/N quy_định/N sẽ/R không/R có/V quyền/N nhập_học/V
+Người/N  /A trúng_tuyển/V nhận/V Giấy_báo/N và/CC hướng_dẫn/V nhập_học/V trực_tiếp/A tại/E văn_phòng/N tuyển_sinh/V hoặc/CC qua/V bưu_điện/N

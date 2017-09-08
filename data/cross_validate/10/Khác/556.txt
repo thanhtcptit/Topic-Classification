@@ -1,0 +1,23 @@
+Thị_trường/N PC/Np Việt_Nam/Np ảm_đạm/A lãi/N ít/A
+Các/L số_liệu/N thống_kê/V cho/E máy_tính_cá_nhân/N /V PC/Np /V bao_gồm/V cả/P máy_tính_để_bàn/N /V desktop/N /A và/CC máy_tính_xách_tay/N /V laptop/N /A  /EOS
+Những/L năm/N 2005-2007/M một/M chiếc/Nc máy_tính_xách_tay/N có_giá/A bình_quân/A từ/E 1 0/M đến/E 1 0/M USD/Nu các/L đơn_vị/N bán_lẻ/V có_thể/R kiếm/V lời/N tới/V cả/T trăm/M USD/Nu mỗi/M chiếc/Nc
+Hiện_nay/N sau/E hơn/A 10/M năm/N giá/N trung_bình/A của/E laptop/N chỉ/R còn/V khoảng/A 10/M triệu/M đồng/Nu và/CC lợi_nhuận/N chỉ/R còn/V tính/V bằng/E vài/L trăm_nghìn/N đồng/N
+Con_số/N này/P chưa/R tới/V 10%/M giá/N bán_lẻ/V đặc_biệt/A với/E các/L công_ty/N phân_phối/V thì/C lợi/N còn/R ít/A hơn/R chỉ/R khoảng/A 3-4/M %/Nu
+Theo/E các/L số_liệu/N báo_cáo/V từ/E GFK/Np tại/E thị_trường/N Việt_Nam/Np trong/E 5/M năm/N trở_lại/V đây/P doanh_số/N bán_lẻ/V máy_tính/N đều/R cho/V thấy/V tốc_độ/N sụt_giảm/V từ/E 6/M đến/E 12%/M mỗi/M năm/N
+Tổng/N nhu_cầu/N mua/V máy_tính/N bao_gồm/V cả/P khối/N dự_án/N doanh_nghiệp/N vừa/R và/CC nhỏ/A cũng_như/C khách_hàng/N phổ_thông/N cũng/R được/V IDC/Np dự_báo/V rơi/V vào_khoảng/X hơn/A 1,9/M triệu/M chiếc/Nc cho/E năm/N 2017/M và/CC sẽ/R còn/V khoảng/A 1,72/M triệu/M cho/E năm/N 2018/M tức_là/V giảm/V hơn/R 11%/M so/V với/E năm/N 2016/M và/CC giảm/V hơn/R 18%/M so/V với/E 2015/M
+Trong/E khi/N đó/P chi_phí/N vận_hành/V doanh_nghiệp/N lại/R tăng/V do/E lương/N cơ_bản/A tăng/V chi_phí/N xăng_dầu/N vận_tải/V kho_bãi/V dịch_vụ/N đều/R tăng/V
+khiến/V cho/E các/L doanh_nghiệp/N kinh_doanh/V PC/Np hiện_nay/N gặp/V rất/R nhiều/A khó_khăn/N
+Trong/E khi/N đó/P các/L hệ_thống/N chuỗi/Nc như/C Thế_giới/N di_động/V FPT/Np Shop/Np với/E lợi_thế/N kinh_doanh/V song_song/A các/L mặt_hàng/N điện_thoại/N máy_tính/N bảng/N
+có/V vốn/N lớn/A hệ_thống/N phủ/V rộng/A toàn_quốc/N cùng/A khả_năng/N thương_lượng/V giá/N tốt/A hơn/R càng/R làm/V cho/E việc/N cạnh_tranh/V trở_nên/V khốc_liệt/A
+Theo/E báo_cáo/N của/E GFK/Np riêng/A hai/M đơn_vị/N này/P đã/R chiếm/V tới/E 46%/M doanh_số/N laptop/N bán/V ra/R năm/N 2016/M
+Nhiều/A doanh_nghiệp/N kinh_doanh/V PC/Np tại/E địa_phương/N đã/R bắt_buộc/V phải/V mở_rộng/V thêm/V các/L mảng/N kinh_doanh/V khác/A để/E bổ_trợ/V hoặc/CC phải/V chấp_nhận/V đóng_cửa/V vì/E không_thể/R tiếp_tục/V bù_lỗ/V
+Điều/N này/P cho/V thấy/V ngành/N kinh_doanh/V PC/Np không/R còn/R là/V một/M miếng/Nc bánh/N béo_bở/A như/A trước/E
+Một/M trong/E những/L lý_do/N chính/A khiến/V thị_trường/N PC/Np sụt_giảm/V là/V sự/N xâm_lấn/A quá/R mạnh/A của/E điện_thoại/N thông_minh/A
+Theo/E các/L nhà_phân_tích/N một/M chiếc/Nc điện_thoại/N thông_minh/A hiện_nay/N có_thể/R giúp/V người/N dùng/V giảm/V tới/E 60%/M nhu_cầu/N sử_dụng/V máy_tính/N hầu_hết/R là/V nhu_cầu/N giải_trí/V
+40%/M còn/R lại/R rơi/V vào/E các/L nhu_cầu/N công_việc/N như/C tạo_lập/V dữ_liệu/N gốc/N hoặc/CC phân_tích/V dữ_liệu/N lớn/A
+Thêm/V vào/E đó/P cấu_hình/N máy_tính/N hiện/N cao/A hơn/R tương_đối/A so/V với/E các/L phần_mềm/N phổ_thông/N như/C Word/Np Excel/Np email/N
+khiến/V cho/E vòng/N đời/N của/E một/M chiếc/Nc máy/N trở_nên/V dài/A hơn/R và/CC người/N dùng/V không/R cần_thiết/A phải/V thay_thế/V quá/R sớm/A
+Kinh_tế/N Việt_Nam/Np tuy/C có/V tăng_trưởng/V nhưng/C chưa/R có/V nhiều/A đột_biến/N lạm_phát/N vẫn/R cao/A khiến/V tâm_lý/N tự_tin/V tiêu_dùng/V của/E người_dân/N cũng/R trở_nên/V dè_dặt/A và/CC cân_nhắc/V hơn/R
+Bên_cạnh/N đó/P chính_phủ/N cũng/R đang/R thực_hiện/V các/L chính_sách/N giảm/V chi_tiêu/V công/N giảm/V đầu_tư/V cơ_bản/A cũng/R là/V một/M nguyên_nhân/N khiến/V việc/N doanh_số/N PC/Np vào/E khối/N doanh_nghiệp/N nhà_nước/N giảm/V
+Tuy/C doanh_số/N giảm/V nhưng/C thị_trường/N PC/Np hiện_tại/N vẫn/R khó/A “/V chết/V ”/A vì/E thực_tế/N cho/V thấy/V chưa/R có/V một/M thiết_bị/N nào/P có_thể/R thay_thế/V PC/Np 100%/M và/CC nhu_cầu/N trang_bị/V máy_tính/N vẫn/R luôn/R hiện_hữu/V đặc_biệt/A đối_với/E các/L sinh_viên/N mới/R vào/V đại_học/N
+Và/C để/E có_thể/R tồn_tại/V các/L hãng/N sản_xuất/V các/L đơn_vị/N kinh_doanh/V chắc_chắn/A phải/V tìm/V mọi/L cách/N để/E nâng/V cao/A thiết_kế/N công_nghệ/N cũng_như/C dịch_vụ/N sau/N bán/V hàng/N của/E mình/P lên/R điều/N đó/P ít_nhiều/A sẽ/R mang/V lại/R thêm/V các/L lợi_ích/N cho/E “/M thượng_đế/N ”/V tại/E Việt_Nam/Np

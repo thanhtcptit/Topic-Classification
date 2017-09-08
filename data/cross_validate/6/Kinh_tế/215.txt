@@ -1,0 +1,10 @@
+​/N FTSE/Np thêm/V cổ_phiếu/N NVL/Np vào/V danh_mục/N
+Tin/V từ/E Novaland/Np cho_hay/V mã/N cổ_phiếu/N NVL/Np của/E tập_đoàn/N này/P đã/R chính_thức/V được/V thêm/V vào/R danh_mục/N của/E FTSE/Np Vietnam_Index/Np và/CC FTSE/Np Vietnam_AllShare_Index/N tại/N kì/N đảo/N danh_mục/A lần/N 2/M năm/N 2017/M theo/N thông_báo/N của/E FTSE/Np chiều/N ngày/N 26/M
+FTSE/Np Vietnam_Index/Np là/V chỉ_số/N làm/V cơ_sở/N tham_chiếu/N cho/V Quỹ/Np ETF/Np FTSE/Np Vietnam/Np UCITS/Np do/E Deutsche_Bank/Np quản_lí/V
+Đây/P là/V một/M trong/E những/L chỉ_số/N được/V đánh_giá/V là/C có/V tác_động/V đến/R thị_trường_chứng_khoán/X Việt_Nam/Np
+Tính/V đến/E ngày/N 2952017/M tổng/N tài_sản/N của/E Quỹ/Np này/P là/V 232/M triệu/M USD/Nu và/N giá_trị/N tài_sản/N ròng/N NAV/Np là/V 2407/M USDchứng_chỉ/N quỹ/N
+Theo/E FTSE/Np một/M cổ_phiếu/N phải/V thoả_mãn/V các/L điều_kiện/N về/V vốn/N hoá/N thanh_khoản/N hệ_số/N cổ_phiếu/N tự_do/A giao_dịch/V free/N float/N và/CC room/N ngoại/N mới/R được/V xem_xét/V vào/R rổ/N FTSE/Np
+Theo/E đó/P các/L công_ty/N có/V vốn/N hoá/V lọt/V vào/E top/N 88/M vốn/N hoá/N toàn/N thị_trường/N tạo/V ít_nhất/N 20/M giá_trị/N giao_dịch/V bình_quân/N hàng/N ngày/N của/E FTSE/Np Vietnam_AllShare_Index/N trong/E 3/M tháng/N tỉ_lệ/N free/N float/V lớn/A hơn/R 5/M và/N room/N còn/V lại/V cho/E nhà/N đầu_tư/V ngoại/N lớn/A hơn/A 10/M
+Tập_đoàn/N Novaland/Np cho_hay/V vừa/R kết_thúc/V quý/N đầu_tiên/A năm/N 2017/M với/E lợi_nhuận/N ròng/N tăng_trưởng/V 164/M so/V với/E cùng/N kì/N năm/N 2016/M từ/N 155/M tỉ/M đồng/Nu lên/V 409/M tỉ/M đồng/Nu
+Biên/Np lợi_nhuận/N ròng/N tăng_trưởng/V gấp/V 3/M lần/N đạt/V 21/M vào/N Quý/N I/N 2017/M
+Tính/V đến/E hết/V ngày/N 56/M giá_trị/N vốn/N hoá/N của/E NVL/Np đạt/V 40666/M tỉ/N VNĐ/M tương_đương/N 182/M tỉ/M USD/Nu

@@ -1,0 +1,26 @@
+Giá/N vàng/N sụt_giảm/V sau/E ngày/N Vía_Thần_Tài/Np 
+Lúc/N gần/A 10h/M sáng/N nay/P 18/2/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 33,25/M triệu/M đồng/Nu //X lượng/N (/N mua/V vàng/N 33,4/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 33,26/M triệu/M đồng/Nu //X lượng/N 33,39/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P giữ/V nguyên/A chiều/N mua/V vào/R và/CC giảm/V tiếp/R 50.000/M đồng/lượng/N chiều/N bán/V ra/R so/V với/E mở_cửa/N phiên/N sáng/N nay/P 
+Còn/C so/V với/E chốt/N phiên/N hôm_qua/N giá/N vàng/N giảm/V 150.000/M đồng/lượng/N ở/E chiều/N mua/V vào/R 
+Mở_cửa/V phiên/N sáng/N nay/P giá/N vàng/N SJC/Np tại/E Hà_Nội/Np giữ/V nguyên/A mức/N 33,25/M triệu/M đồng/Nu //X lượng/N ở/E chiều/N mua/V vào/R còn/C chiều/N bán/V ra/R giảm/V 100.000/M đồng/Nu còn/C 33,45/M triệu/M đồng/Nu //X lượng/N 
+Khách/N vật_vã/V xếp_hàng/N đến/E khuya/N nhà/N vàng/N thức/V trắng/A đêm/N đếm/V lộc/N Tại/E TPHCM/Np mở_đầu/V phiên/N giao_dịch/V giá/N vàng/N SJC/Np được/V các/L doanh_nghiệp/N niêm_yết/V ở/E mức/N 33,13/M triệu/M đồng/Nu //X lượng/N 33,5/M triệu/M đồng/Nu //X lượng/N tăng/V 30.000/M đồng/lượng/N chiều/N mua/V nhưng/C giảm/V 50.000/M đồng/lượng/N chiều/N bán/V 
+Đến/E 9h45/M giá/N vàng/N tại/E đây/P giảm/V xuống/R còn/R 33,05/M triệu/M đồng/Nu //X lượng/N 33,4/M triệu/M đồng/Nu //X lượng/N 
+Cùng_với/C việc/N điều_chỉnh/V đi/V xuống/R giá/N vàng/N trong/E nước/N cũng/R rút/V ngắn/A khoảng_cách/N chênh_lệch/A so/V với/E giá/N vàng/N thế_giới/N xuống/E 700.000/M đồng/lượng/N 
+Hôm_qua/N 17/2/M (/N tức/E ngày/N mồng/N 10/M tháng/N Giêng/Np theo/V quan_niệm/N dân_gian/N là/V ngày/N Vía_Thần_Tài/Np thị_trường/N vàng/N đã/R có/V một/M ngày/N giao_dịch/V cực_thịnh/N 
+Sức_mua/N tăng/V mạnh/A dòng/N người/N rồng_rắn/V xếp_hàng/N từ/E sáng/N đến/E tận/E khuya/N để/E quyết/V mua/V được/R vàng/N trong/E ngày/N Vía_Thần/Np tài/N 
+Đến/V hơn/R 22h/M ngày/N 17/2/M lượng/N khách/N mua/V vàng/N tại/E nhiều/A cửa_hàng/N vẫn/R chật/A kín/A 
+Không/R công_bố/V số_lượng/N giao_dịch/V cụ_thể/A nhưng/C theo/E tiết_lộ/V của/E các/L nhà/N vàng/N giao_dịch/V vàng/N ngày/N hôm_qua/N đã/R tăng/V đến/R 500/M 600%/M so/V với/E ngày/N thường/R 
+Các/L con/N “/V phố/N vàng/N như/C Trần_Nhân_Tông/Np Xã/N Đàn/Np Hà_Nội/Np lúc_nào/N cũng/R đông_nghịt/V người/N mua/V 
+Gần/A hết/R ngày/N Vía_Thần_Tài/Np giá/N vàng/N giảm/V mạnh/A từ/E mức/N 33,3/M triệu/M đồng/Nu //X lượng/N 33,8/M triệu/M đồng/Nu //X lượng/N xuống/V 33,25/M triệu/M đồng/Nu //X lượng/N 33,55/M triệu/M đồng/Nu //X lượng/N 
+Trên/E thị_trường/N vàng/N thế_giới/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np qua/V niêm_yết/V của/E Kitco.com/Np hiện/N có/V biên_độ/N tăng/V 1,4/M USD/ounce/Np lên/V mức/N 1.209,8/M USD/ounce/Np 
+Chốt/N phiên/N giao_dịch/V đêm/N qua/V giá/N vàng/N giao/V tháng/N 4/M tăng/V 1,2/M USD/Nu lên/V mức/N 1.209,4/M USD/ounce/Np giá/N vàng/N giao/V ngay/R tăng/N 0,6%/M lên/R 1.208,4/M USD/ounce/Np 
+Giá/N vàng/N phiên/N 17/2/M hồi_phục/V sau/E khi/N biên_bản/N họp/V Fed/Np cho/V thấy/V các/L nhà/N hoạch_định/V chính_sách/N sẽ/R xem_xét/V thay_đổi/V lộ_trình/N nâng/V lãi_suất/N năm/N 2016/M 
+Tuy_nhiên/C đà/N tăng/V của/E giá/N vàng/N phần_nào/L chững/N lại/R khi/N thị_trường_chứng_khoán/N toàn_cầu/N tăng/V điểm/N 
+Theo/E biên_bản/N cuộc/N họp/V của/E Fed/Np ngày/N 26/M 27/1/M nếu/C việc/N thắt/V chặt/V các/L điều_kiện/N tài_chính/N toàn_cầu/N tiếp_tục/V diễn/V ra/R đây/P có_thể/R là/V yếu_tố/N ảnh_hưởng/V xấu/A đến/E kinh_tế/N Mỹ/Np 
+Một_số/L nhà/N kinh_tế_học/N tin/V rằng/C Fed/Np sẽ/R không_thể/R nâng/V lãi_suất/N cho_đến/E cuối/N năm/N nay/P và/CC thậm_chí/R Ngân_hàng/N trung_ương/N Mỹ/Np chỉ/R có_thể/R nâng/V lãi_suất/N 2/M lần/N trong/E năm/N nay/P 
+Đến/V với/E thị_trường/N ngoại_hối/N công_bố/V của/E Ngân_hàng/N Nhà_nước/N cho/V thấy/V tỷ_giá/V trung_tâm/N của/E VND/Nu với/E USD/Np áp_dụng/V cho/E ngày/N 18/2/M là/V 1/M USD/Nu =/M 21.901/M 
+VND/Nu tăng/V 6/M VND/Nu so/V với/E hôm/N trước/A 
+Đây/P là/V phiên/N thứ/N 4/M liên_tiếp/A tỷ_giá/V trung_tâm/N đi/V lên/R tăng/V tổng_cộng/N 40/M VND/Nu so/V với/E thời_điểm/N trước/E Tết_nguyên_đán/Np 
+Đây/P cũng/R là/V mức/N giá/N cao/A nhất/A kể/V từ/E ngày/N 25/1/2016/M 
+Theo/E đó/P các/L ngân_hàng/N thương_mại/N được/V phép/N niêm_yết/V giá/N USD/Np ở/E mức/N sàn/N là/V 21.244/M VND/Nu trần/N là/V 22.558/M VND/Nu 
+An_Hạ/Np 

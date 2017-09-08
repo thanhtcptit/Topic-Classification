@@ -1,0 +1,8 @@
+Bao_tiêu/N 80/M diện_tích/N mía/N tại/V Hậu_Giang/Np
+Ông/N Nguyễn_Thế_Tự/Np trưởng/N Phòng/N NN/Np amp/V
+PTNT/Np huyện/N Phụng_Hiệp/Np tỉnh/N Hậu_Giang/Np cho/V biết/V Công_ty/N CP/Np Mía/Np đường/N Cần_Thơ/Np CASUCO/Np và/CC Công_ty/N TNHH/Np Mía/Np đường/N cồn/N Long_Mỹ_Phát/Np vừa/R kí/V hợp_đồng/N bao_tiêu/N 80/M diện_tích/N trong/E số/N 7504ha/M mía/N niên_vụ/N 20172018/M cho/N nông_dân/N tại/N địa_phương/N
+Theo/E đó/P giá_sàn/N mà/N Công_ty/N TNHH/Np Mía/Np đường/N cồn/N Long_Mỹ_Phát/Np mua/V mía/N loại/N 10/M chữ/N đường/N tại/E ruộng/N giá/N 900/M đồngkg/N Công_ty/N CASUCO/Np mua/V giá/N 900/M đồngkg/N tại/E cầu_cảng/N cao/A hơn/R 70/M đồngkg/N so/V với/E niên_vụ/N 20162017/M
+Theo/E cam_kết/N của/E hai/M công_ty/N đến/V cuối/N tháng/N 6/M sẽ/N kí/V hợp_đồng/N bao_tiêu/V toàn_bộ/N diện_tích/N mía/N của/E huyện/N với/E giá/N mua/V theo/E giá/N thị_trường/N
+Nếu/C giá/N không/R thuận_lợi/A hai/M công_ty/N sẽ/R mua/V theo/V giá_sàn/N 900/M đồngkg/N loại/N 10/M chữ/N đường/N ông/N Tự/Np nói/V
+Tương_tự/N tại/E thị_xã/N Ngã_Bảy/Np Nhà_máy/N đường/N Phụng_Hiệp/Np Công_ty/N CASUCO/Np cũng/R đã/R bao_tiêu/V 50000/M tấn/N mía/N nguyên_liệu/N
+Niên_vụ/N mía/N 20172018/M tại/E Hậu_Giang/Np dự_kiến/V bắt_đầu_từ/N ngày/N 209/M

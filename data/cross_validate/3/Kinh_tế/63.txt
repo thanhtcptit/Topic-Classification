@@ -1,0 +1,8 @@
+​/N Vietcombank/Np mở_rộng/V dịch_vụ/N thanh_toán/V học_phí/N
+Các/L sinh_viên/N đại_học/N thay_vì/N đến/V trường/N xếp_hàng/N dài/A nộp/V học_phí/N thì/N có_thể/R ngồi/V tại/E nhà/N truy_cập/V vào/E VCBiB/N nking/N của/E Vietcombank/Np và/CC nhấp/V chuột/N
+Trường/N mới/A nhất/R sử_dụng/V dịch_vụ/N này/P là/V Đại_học/N Lâm_nghiệp/N Đồng_Nai/Np
+Với/E dịch_vụ/N thanh_toán/N học_phí/N này/P sinh_viên/N hoặc/N phụ_huynh/N của/E Đại_học/N Lâm_nghiệp/N Đồng_Nai/Np có_thể/A thanh_toán/V học_phí/N cho/V trường/N bằng/E cách/N truy_cập/V vào/E Ngân_hàng/N trực_tuyến/N VCBiB/N nking/N của/E Vietcombank/Np được/V liên_kết/V trực_tiếp/A trên/E website/N của/N trường/N
+Để/E sử_dụng/V dịch_vụ/N này/P rất/R đơn_giản/A các/L sinh_viên/N hoặc/N phụ/N huynh/N cần/V đăng_kí/N dịch_vụ/N ngân_hàng/N điện_tử/N của/N Vietcombank/Np
+Đến/E nay/N Vietcombank/Np đã/R cung_cấp/V dịch_vụ/N thanh_toán/V học_phí/N cho/E nhiều/A trường_học/N trên/E cả/N nước/N trong/N đó/N có/V Trường_Đại_học/N Mở/V Đại_học/N Tôn_Đức_Thắng/Np tại/E thành_phố/N Hồ_Chí_Minh/Np Trường_Wellspring/Np Trường_Đại_học/V Ngoại_thương/N
+và/N tới/V đây/P sẽ/R mở_rộng/V ra/R nhiều/A trường/N khác/A
+Dịch_vụ/N thanh_toán/V học_phí/N cũng/R là/V một/M ưu_tiên/N trọng_tâm/N của/E Vietcombank/Np nhằm/V thực_hiện/V mục_tiêu/N xã_hội_hoá/N các/L kênh/N thanh_toán/V hiện_đại/A theo/V định_hướng/N không/R dùng/V tiền_mặt/N của/E Chính_phủ/N và/CC Ngân_hàng/N Nhà_nước/N Việt_Nam/Np

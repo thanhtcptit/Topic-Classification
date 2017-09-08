@@ -1,0 +1,18 @@
+Đi/V bộ/N ra/V tiền/N ý_tưởng/N của/E ứng/N d/N ​/N ụng/V Bitwalking/Np
+Nếu_Bitcoin/Np là/V một/M loại/N tiền/N kĩ_thuật_số/N phổ_biến/A nhất/R được/V khai_thác/V nhờ/V sức_mạnh/N đồ_hoạ/V của/E máy_tính/N cá/N nhân/N thì/C Bitwalking/Np được/V tạo/V ra/R nhờ/V hành_vi/N đi/V bộ/N của/E người/N dùng/V ứng/N dụng/N và/CC trả/V công/N cho/V họ/N 1/M BW/M đồng/Nu Bitwalking/Np cho/V mỗi/N 10000/M bước_đi/N tương_đương/A khoảng/A hơn/R 8000/M mét/N
+Hai/M lập_trình_viên/N tác_giả/N Nissan_Bahar/Np và/CC Franky_Imbessi/Np đã/R gọi/V được/V hơn/A 10/M triệu/M USD/Nu vốn/N đầu_tư/V ban_đầu/N chủ_yếu/A là/V từ/E giới/N đầu_tư/V Nhật_Bản/Np nhằm/V đem/V ứng_dụng/N ra/V thị_trường/N
+Cùng/A thời_điểm/N hãng/N sản_xuất/V linh_kiện/N điện_tử/N Murata/Np Nhật_Bản/Np đang/R phát_triển/V sản_xuất/V một/M loại/N vòng/N thông_minh/A đeo/V tay/N smart/N band/N có/V khả_năng/N hiển_thị/V số/N BW/Np họ/P đã/R kiếm/V được/R
+Theo/E BBC/Np hai/M nhà/N sáng_lập/V của/E Bitwalking/Np từng/R tung/V ra/R Keepod/Np một/M thỏi/N USB/Np kiêm/V vai_trò/N máy_tính/N với/E giá/N bán/V chỉ/N 7/M USD/Nu tại/E thị_trường/N Kenya/Np
+Không_chỉ/C là/V đi/V bộ/N
+Theo/E hai/M nhà/N phát_triển/V tại/E các/L nước/N phát_triển/V một/M người/N bình_thường/A sẽ/R kiếm/V được/R từ/E Bitwalking/Np khoảng/A 15/M BW/Np tháng/N nhưng/C họ/N hy_vọng/V tại/E những/L quốc_gia/N chậm/N phát_triển/V mà/E người/N nghèo/A phải/V đi/V bộ/N đến/V trường_học/N hay/C chỗ/N làm/V dự_án/N Bitwalking/Np được/V kì/N vọng/V sẽ/R giúp/V thay_đổi/V cải_thiện/N cuộc_sống/N của/N họ/N
+Chẳng_hạn/N anh/N Salim_Adam/Np một/M giáo_viên/N IT/Np phải/V đi/V bộ/N 10km/M ngày/N để/E đến/V được/V một/M trường/N đại_học/N địa_phương/N tại/E Mthuntama/Np miền/N bắc/N Malawai/Np một/M nước/N nghèo/A ở/E châu/N Phi/Np
+Mới_đây/X nhờ/V Bitwalking/Np anh/N biết/V mình/P có_thể/A kiếm/V được/R 26/M BW/Np mỗi/M tháng/N trong/N bối_cảnh/N lương/N tháng/N hiện_tại/N của/E anh/N là/V 26/M USD/Nu trước_mắt/N giá_trị/N quy_đổi/N ban_đầu/N của/E BW/Np ngang/A bằng/V với/N USD/Np
+Quản_lí/N Bitwalking/Np tại/E Malawai/Np là/V Carl_Meyer/Np cho/V biết/V công_ty/N đã/R thành_lập/V hai/M trung_tâm/N Bitwalking/Np đầu_tiên/A ở/E hai/M thành_phố/N Lilongwe/Np và/CC Mthuntama/Np tại/E đây/P người/N dân/N địa_phương/N sẽ/R được/V huấn_luyện/V để/E giao_dịch/V chuyển_đổi/N BW/Np sang/V USD/Np hay/C đồng_tiền/N địa_phương/N
+Nguy_cơ/N bị/V làm/V giả/V
+Dĩ_nhiên/A cũng/R như/C Bitcoin/Np Bitwalking/Np đối_mặt/V với/E nguy_cơ/N bị/V làm/V giả/V ngay/T từ/E khi/N còn/V chưa/R ra_mắt/V chính_thức/A
+Nhằm/N khắc_phục/V nguy_cơ/N này/P Bitwalking/Np sẽ/R sử_dụng/V dữ_liệu/N GPS/Np kết_hợp/V với/E tín_hiệu/N WiFi/N để/V đảm_bảo/V người/N tham_gia/V dịch_vụ/N đang/R thật_sự/A di_chuyển/V thay_vì/V ngồi/V một/M chỗ/N và/CC cầm/V điện_thoại/N lắc/V
+Theo/E Bitwalking/N trong/E thời_gian/N đầu/A một/M người/N chỉ/R được/V phép/V nhận/V tối_đa/N là/V 3/M BW/Np tương_đương/V hành_trình/N đi/V bộ/N hơn/R 24000/M mét/N và/CC bất_cứ/R ai/P sử_dụng/V một/M lúc/N nhiều/A tài_khoản/N sẽ/R bị/V cấm/V ngay_lập_tức/N
+Lo/V về/R tính/V riêng_tư/N
+Việc/N thiết_lập/V một/M thuật_toán/N chống/V gian_lận/N dựa/V trên/E cơ_sở/N thông_tin/N về/V vị_trí/N và/CC hành_trình/N di_chuyển/V của/E người_dùng/N cũng/R làm/V dấy/V lên/R quan_ngại/V về/R tính/V riêng/A tư/A vì/E không/R ai/P thích/V việc/N họ/P bị/V theo_dõi/V từ/N xa/A
+Chưa/R hết/V những/L thông_tin/N về/E vị_trí/N của/E người/N sử_dụng/V thiết_bị/N di_động/N luôn/R là/V mỏ/N vàng/N cho/V giới/N quảng_cáo/V trực_tuyến/A
+Trả_lời/V BBC/Np về/V câu/N hỏi/V này/P một/M trong/E hai/M nhà/N sáng_lập/V Bitwalking/Np là/V Nissan_Bahar/Np khẳng_định/V Những/L dữ_liệu/N đó/P không/R phải/A để/V bán/V

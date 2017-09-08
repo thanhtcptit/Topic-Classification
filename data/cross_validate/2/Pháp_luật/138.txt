@@ -1,0 +1,11 @@
+Bắt/V năm/N sà_lan/N chở/V 2000/M mét_khối/N cát/N nhiễm/V mặn/A
+Năm/N sà_lan/N chở/V cát/N nhiễm/V mặn/A không/R rõ/V nguồn_gốc/N với/E tổng_cộng/N khoảng/N 2000m3/M bị/N Bộ/N đội/N biên_phòng/N tỉnh/N Bà/N Rịa/Np Vũng_Tàu/Np phát_hiện/V đêm/N 166/M
+Thượng_tá/N Nguyễn_Nhuận_Quỳnh/Np đồn_trưởng/V Đồn_Biên_phòng/N Bến_Đá/Np Bộ/N đội/N biên_phòng/N tỉnh/N Bà/N Rịa/Np Vũng_Tàu/Np cho/V biết/V đêm/N 16/M rạng/N sáng/N 176/M tại/N khu_vực/N biển/N Sao_Mai/Np Vũng_Tàu/Np đồn/V đã/R phát_hiện/V năm/N sà_lan/N chở/V cát/N nhiễm/V mặn/A không/R rõ/V nguồn_gốc/N
+Các/L sà_lan/N này/P chở/V từ/E 250m3/M đến/E gần/A 1000m3/M cát/N với/E tổng_cộng/N khoảng/N 2000m3/M
+Năm/N sà_lan/N bị/V tạm/V giữ/V gồm/N SG/Np 7368/M do/N Lại_Văn_Phượng/Np 37/M tuổi/N quê/N Nam_Định/Np làm/V thuyền_trưởng/N SG/Np 7516/M do/N Cao_Văn_Bằng/Np 29/M tuổi/N quê/N Nam_Định/Np làm/V thuyền_trưởng/N BV/Np 1979/M do/N Nguyễn_Văn_Triệu/Np 27/M tuổi/N quê/N Bà/N Rịa/Np Vũng_Tàu/Np điều_khiển/V HD/Np 2455/M do/N Hoàng_Văn_Thuẫn/Np 43/M tuổi/N quê/N Hải_Dương/Np điều_khiển/V và/CC HD/Np 2238/M do/N Nguyễn_Văn_Cường/Np 35/M tuổi/N chủ/N tàu/N kiêm/V thuyền_trưởng/N
+Tại/E thời_điểm/N kiểm_tra/V cả/P năm/N thuyền_trưởng/N của/E các/L sà_lan/N đều/N chưa/R xuất_trình/V được/R giấy_tờ/N chứng_minh/V nguồn_gốc/N của/E số/N cát/N đang/R chở/V cũng/N như/C các/L loại/N giấy_tờ/N liên_quan/V đến/R phương_tiện/N và/CC người/N trên/N sà_lan/N
+Đáng/V chú_ý/V có/V thuyền_trưởng/N khai/V nhận/V rằng/C mình/N không/R có/V bằng/N thuyền_trưởng/N và/CC những/L giấy_tờ/N liên_quan/V đến/E con/Nc tàu/N đều/R do/E chủ/N tàu/N cất_giữ/V
+Theo/E quan_sát/N cả/N năm/N sà_lan/N trên/N đều/R chứa/V đầy/A cát/N với/E hệ_thống/N máy_bơm/N vòi/N bơm/V chằng_chịt/N đường_kính/N cỡ/N lớn/A trên/N sà/N làn/N
+Theo/E lời/N khai/V ban_đầu/N của/E một_số/N thuyền_trưởng/N số/N cát/N nhiễm/V mặn/A trên/N được/V lấy/V từ/E các/L tỉnh/N Bến_Tre/Np Tiền_Giang/Np và/CC đích/N đến/V của/E số/N cát/N này/P là/V ở/V TPHCM/Np
+Có/V thuyền_trưởng/N khai/V nhận/V rằng/C tàu/N mình/N đã/R khai_thác/V được/V hơn/A 20/M chuyến/N
+Hiện_Đồn_Biên_phòng/X Bến_Đá/Np đã/R lập/V biên_bản/N vi_phạm/V hành_chính/N cũng/R như/A tạm/V giữ/V phương_tiện/N để/V điều_tra/V

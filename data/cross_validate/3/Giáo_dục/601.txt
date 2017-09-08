@@ -1,0 +1,7 @@
+Đại_học/N Y_dược/N TP_HCM/Np tuyển/V bổ_sung/V hơn/A 400/M chỉ_tiêu/N
+Ngày/N 20/8/M Đại_học/N Y_dược/N TP_HCM/Np thông_báo/V xét/V tuyển/V bổ_sung/V đợt/N 1/M cho/E 12/M ngành/N đào_tạo/V Răng_hàm/N mặt/N Dược_học/N Xét_nghiệm/V y_học/N Y_học/N cổ_truyền/A Y_học/N dự_phòng/V
+Trong/E đó/P ngành/N Dược_học/N có/V số/N chỉ_tiêu/N lớn/A nhất/R /V 102/M chỉ_tiêu/N /V với/E điểm/N đăng_ký/V xét/V tuyển/V tối_thiểu/A là/V 23,5/M
+Ngành/N Răng/N hàm/N mặt/N lấy/V điểm/N xét/V tuyển/V là/V 24/M Kỹ_thuật/N phục/V hình/N răng/N 21/M điểm/N Y_tế/N công_cộng/N 18/M điểm/N các/L ngành/N còn/V lại/R lấy/V 20/M điểm/N
+Ngoài_ra/C Đại_học/N Hoa_Sen/Np còn/R tuyển_sinh/V theo/E phương_thức/N 2/M sử_dụng/V kết_quả/N ba/M năm/N THPT/Np có/V sơ_tuyển/N năng_khiếu/V thí_sinh/N tốt_nghiệp/V THPT/Np và/CC có/V điểm/N trung_bình/A ba/M năm_học/N THPT/Np của/E môn/N Ngữ_văn/N Lịch_sử/N từ/E 6/M điểm/N trở_lên/A
+Theo/E ông/Nc Thu/Np trường/N này/P còn/R tuyển_sinh/V theo/E phương_thức/N 3/M và/CC 4/M là/V thí_sinh/N sử_dụng/V chứng_chỉ/N Anh_văn/N quốc_tế/N hoặc/CC học_sinh/N giỏi/A ba/M năm/N tại/E trường/N THPT/Np
+Điều_kiện/N là/V thí_sinh/N đã/R tốt_nghiệp/V THPT/Np và/CC có/V điểm/N trung_bình/A ba/M năm_học/N từ/E 6/M điểm/N trở_lên/A đối_với/E các/L ngành/N đại_học/N

@@ -1,0 +1,42 @@
+Buông/V ngành/N ôtô/N Việt/Np là/V nuôi/V sống/V tạo/V việc_làm/N cho/E người/N Thái/Np 
+Việc/N mở_rộng/V điều_kiện/N nhập_khẩu/V xe/N chắc_chắn/A khiến/V doanh_nghiệp/N sản_xuất/V lắp_ráp/V xe/N trong/E nước/N khó_khăn/A hơn/A Thị_trường/N xe/N trong/E nước/N sẽ/R chỉ/R còn/V một_số/L doanh_nghiệp/N chi_phối/A 
+Cục/N Đăng/Np kiểm/V Việt_Nam/Np vừa/R có/V văn_bản/N gửi/V Bộ/N Giao/Np thông/V vận_tải/V bàn/N về/E dự_thảo/N Nghị_định/N quy_định/N điều_kiện/N kinh_doanh/V sản_xuất/V lắp_ráp/V nhập_khẩu/V và/CC kinh_doanh/V dịch_vụ/N bảo_hành/V bảo_dưỡng/V ôtô/N 
+Cụ_thể/A dự_thảo/N Nghị_định/N bản/N sửa_đổi/N mới/A nhất/A đã/R yêu_cầu/V doanh_nghiệp/N nhập_khẩu/V ôtô/N phải/V có/V giấy/N xác_nhận/V của/E nhà_sản_xuất/N ôtô/N nước_ngoài/N chỉ_định/V doanh_nghiệp/N nhập_khẩu/V và/CC thay_mặt/V nhà_sản_xuất/N triệu_hồi/A ôtô/N bị/V lỗi/N kỹ_thuật/N 
+Cục/N Đăng/Np kiểm/V Việt_Nam/Np cho/V rằng/C việc/N các/L doanh_nghiệp/N nhập_khẩu/V ôtô/N phải/V có/V sự/Nc chấp_thuận/V của/E nhà_sản_xuất/N ở/E nước_ngoài/N mới/R được/V phép/N nhập_khẩu/V như_vậy/X gián_tiếp/V trao/V cơ_chế/N điều_hành/V xuất_nhập_khẩu/N của/E Việt_Nam/Np cho/E người/N nước_ngoài/N quyết_định/V Thị_trường/N ôtô/N sẽ/R chỉ/R còn/V tồn_tại/V một_số/L doanh_nghiệp/N lớn/A chi_phối/N dẫn/V tới/E người/N tiêu_dùng/V có_thể/R phải/V mua/V xe/N với/E giá/N cao/A hơn/A văn_bản/N nêu/V 
+Theo/E Cục_Đăng/Np kiểm/V để/E bảo_vệ/V quyền_lợi/N người/N tiêu_dùng/V thay_vì/V giấy/N xác_nhận/V trên/A cơ_quan/N quản_lý/V có_thể/R quy_định/N tăng/V chế_tài/N xử_phạt/V đình_chỉ/V nhập_khẩu/V đối_với/E nhãn_hiệu/N xe/N vi_phạm/V nếu/C doanh_nghiệp/N vi_phạm/V quy_định/N về/E triệu_hồi/V xe/N 
+Dự_thảo/N Nghị_định/N yêu_cầu/V các/L cơ_sở/N bảo_hành/V bảo_dưỡng/V phải/V có/V sự/Nc xác_nhận/V hỗ_trợ/V kỹ_thuật/N cung_cấp/V linh_kiện/N của/E nhà_sản_xuất/N xe/N 
+Yêu_cầu/N có/V phần_mềm/N thiết_bị/N chẩn_đoán/V được/R cung_cấp/V bởi/E nhà_sản_xuất/N xe/N ôtô/N 
+Cục/N Đăng/Np kiểm/V cho_biết/V các/L cơ_sở/N bảo_hành/V bảo_dưỡng/V không/R chính/T hãng/N sẽ/R không_thể/R đáp_ứng/V được/R yêu_cầu/N này/P dẫn/V tới/E tiêu/N dung/N bị/V hạn_chế/V lựa_chọn/V chịu/V mức/N giá/N cao/A hơn/A 
+Vẫn/R còn/R tranh_cãi/V về/R giấy/N uỷ_quyền/V Sau/E khi/N phát/V đi/V thông_tin/N quan_điểm/N của/E Cục/N Đăng/Np kiểm/V Việt_Nam/Np gặp/V phải/V khá/R nhiều/A thông_tin/N trái/A nhiều/A 
+Quy_định/N nhập_khẩu/V xe/N cần/V có/V uỷ_quyền/N của/E nhà_sản_xuất/N là/V nhằm/V ràng_buộc/V trách_nhiệm/N của/E nhà_sản_xuất/N nước_ngoài/N không/R đem_con_bỏ_chợ/X khi/N xe/N có/V sự_cố/N 
+Nếu_không/C có/V sự/Nc đảm_bảo/V bằng/E hình_thức/N ủy_quyền/V này/P khi/N có/V lỗi/N hỏng_hóc/A cháy/V nổ/V các/L doanh_nghiệp/N Việt/Np có/V nguy_cơ/N không/R xử_lý/V nổi/R và/CC người/N tiêu_dùng/V bị/V thiệt_hại/V nghiêm_trọng/A 
+Đặt/V điều_kiện/N cao/A đối_với/E ôtô/N nhập_khẩu/V không/R phải/V là/C triệt_tiêu/V cạnh_tranh/V Trao_đổi/V với/E một/M vị/Nc chuyên_gia/N trong/E ngành/N ôtô/N giấy/N uỷ_quyền/N của/E nhà_sản_xuất/N xe/N không/R phải/V là/V trao/V quyền/N điều_hành/V kinh_tế/N cho/E nước_ngoài/N mà/C nên/C được/V hiểu/V là/C khi/N được/V uỷ_quyền/V nhập_khẩu/V tức_là/V quyền_lợi/N sẽ/R cao/A nhất/R so/V với/E các/L hãng/N nhập/V xe/N trôi_nổi/A nguồn_gốc/N xuất_xứ/N không/R rõ_ràng/A 
+Vị/Nc chuyên_gia/N nhấn_mạnh/V việc/N đặt/V điều_kiện/N cao/A đối_với/E ôtô/N nhập_khẩu/V không/R phải/V là/C triệt_tiêu/V cạnh_tranh/V mà/C chính/T là/V nâng/V cao/A năng_lực/N cạnh_tranh/V muốn/V kinh_doanh/V doanh_nghiệp/N phải/V có/V năng_lực/N điều_kiện/N càng/R cao/A quyền_lợi/N người/N tiêu_dùng/V càng/R đảm_bảo/V 
+Cũng/R giống/A như/C doanh_nghiệp/N có/V 30/M tỷ/N cũng/R có_thể/R lập/V hãng/N hàng_không/N được/V 
+Ở/E đây/P không/R phải/V là/C cấm/V mà/C là/V doanh_nghiệp/N nào/P đáp_ứng/V điều_kiện/N thì/C tham_gia/V thị_trường/N 
+Chúng_ta/P vẫn/R luôn/R than/V công_nghiệp/N Việt_Nam/Np không/R có/V anh_cả/N 
+Thực_tế/N một/M ngành/N công_nghiệp/N nào/P muốn/V thành_công/V cũng/R phải/V nhóm/V doanh_nghiệp/N lớn/A đi/V đầu/N trong/E việc/N đổi_mới/V công_nghệ/N làm_chủ/V thị_trường/N dẫn_dắt/V các/L doanh_nghiệp/N vào/E chuỗi/Nc giá_trị/N sản_xuất/V của/E ngành/N 
+Mặt_khác/X chính/T nhóm/N doanh_nghiệp/N lớn/A này/P sẽ/R cạnh_tranh/V với/E nhau/N để/E hạ/V giá/N bán/V 
+Khi/N nào/P trên/E thị_trường/N còn/R duy_nhất/A một/M doanh_nghiệp/N thì/C mới/R xảy_ra/V độc_quyền/A còn/C nếu/C có/V từ/E 2/M trở_lên/A là/V có/V cạnh_tranh/V 
+Nếu_Toyota/Np không/R giảm_giá/V thì/C người/N tiêu_dùng/V sẽ/R chọn/V xe/N Kia/P Hyundai/Np đi/V vị/N này/P nói/V 
+Trên/E thị_trường/N vận_tải/V Uber/Np Grab/Np cũng/R đang/R “/V đại_chiến/V với/E các/L hãng/N taxi/N truyền_thống/A là/V Mai_Linh/Np Vinasun/Np cũng/R chỉ/R vài/L doanh_nghiệp/N lớn/A đua/V giảm_giá/N người/N được/V hưởng/V lợi/N chính/T là/V người/N tiêu_dùng/V 
+Quan_điểm/N của/E Cục/N Đăng/Np kiểm/V được/R cho/V là/V đi/V ngược/A với/E tinh_thần/N phát_triển/V công_nghiệp/N ngành/N ôtô/N của/E Chính_phủ/N Bộ/N Công_Thương/Np 
+Thủ_tướng/N Nguyễn_Xuân_Phúc/Np trong/E nhiều/A lần/N nói/V về/E ngành/N ôtô/N đã/R khẳng_định/V đất_nước/N quy_mô/N 100/M triệu/N dân/N không_thể/R mở_cửa/V thị_trường/N biến/V Việt_Nam/Np trở_thành/V bãi/N rác/N nhập/V xe/N của/E khu_vực/N và/CC thế_giới/N 
+Chính/T vì_vậy/C các/L chính_sách/N trong/E nước/N lúc/N này/P cần/V phải/V hướng/V đến/E việc/N xây_dựng/V hàng_rào/N bảo_vệ/V thị_trường/N đầu_tư/V bài_bản/N cho/E ngành/N tạo/V ra/R các/L doanh_nghiệp/N lớn/A có/V khả_năng/N dẫn_dắt/V sản_xuất/V nội_địa_hoá/N và/CC làm_chủ/V thị_trường/N hướng/N đến/E xuất_khẩu/V 
+Việc/N phát_triển/V ngành/N công_nghiệp/N ôtô/N bài_bản/N có/V ý_nghĩa/N quan_trọng/A trong/E phát_triển/V công_nghiệp/N cả/P nước/N hiện_tại/N và/CC tương_lai/N giúp/V giải_quyết/V công_ăn_việc_làm/N thu_nhập/N người_dân/N và/CC thu/V ngân_sách/N quốc_gia/N bền_vững/A 
+Việc/N “/V thả_lỏng/V điều_kiện/N cho/E xe/N ôtô/N nhập_khẩu/V tràn_lan/A vào/E Việt_Nam/N khiến/V Việt_Nam/Np có_thể/R khiến/V ngành/N công_nghiệp/N này/P thất_bại/V hàng/R triệu/M người/N mất/V việc_làm/N 
+Minh_chứng/N là/V doanh_thu/N và/CC lợi_nhuận/N của/E Toyota/Np Honda/Np giảm_sút/V vừa_qua/V khiến/V cho/E ngân_sách/N quốc_gia/N thất_thu/V hàng/R triệu/M người/N có/V nguy_cơ/N mất/V việc_làm/N 
+Ông/Nc Hoàng_Văn_Nội/Np Cục_trưởng/N Cục/N thuế/N Vĩnh_Phúc/Np cho_biết/V thu/V ngân_sách/N của/E tỉnh/N 6/M tháng/N đầu/N năm/N chỉ/R đạt/V 11.600/M tỷ/N đồng/N giảm/V 15%/M so/V với/E cùng/A kỳ/N do/E số/N thu/V từ/E doanh_nghiệp/N FDI/Np giảm/V tới/E 19%/M chỉ/R đạt/V 9.700/M tỷ/N đồng/N 
+Vĩnh_Phúc/Np là/V trụ_sở/N của/E Toyota/Np và/CC Hodna/Np 
+Nếu_không/C có/V chính_sách/N kịp_thời/A cho/E ngành/N ôtô/N có_thể/R các/L doanh_nghiệp/N FDI/Np sẽ/R chuyển/V sang/V nhập_khẩu/V nguyên/A chiếc/Nc từ/N Thái_Lan/Np thay_vì/V sản_xuất/V lắp_ráp/V trong/E nước/N 
+Như_vậy/C vô_hình/A chung/A sẽ/R khiến/V Việt_Nam/Np trở_thành/V thị_trường/N nuôi/V sống/V cho/E các/L hãng/N xe/N tạo/V ra/R việc_làm/N thu_nhập/N cho/E người/N lao_động/N Thái_Lan/Np 
+Chuyên_gia/N kinh_tế/N TS/N 
+Lê_Đăng_Doanh/Np nhiều/A lần/N trao_đổi/V với/E báo_giới/N đã/R nhấn_mạnh/V các/L nước/N như/C Thái_Lan/Np đang/R chuẩn_bị/V rất/R kỹ_càng/A cho/E mốc/N 2018/M bằng/E việc/N đi/V học/V tiếng/N Việt/Np tìm_hiểu/V thị_trường/N để/E đưa/V hàng_hoá/N Thái/Np tiêu_thụ/V tại/E Việt_Nam/Np 
+Ông/Nc Doanh/Np nhấn_mạnh/V nếu_không/C giữ/V được/R miếng/Nc bánh/N thị_trường/N Việt_Nam/Np có_thể/R trở_thành/V sân_nhà/N của/E Thái/Np khi/N đó/P thị_trường/N Việt/Np sẽ/R tiêu_thụ/V và/CC đem/V lợi_nhuận/N cho/E doanh_nghiệp/N Thái_Lan/Np 
+Đằng/N sau/E doanh_nghiệp/N là/V hàng/N triệu/M việc_làm/N thu_nhập/N cho/E người/N Thái/Np 
+Đặc_biệt/A thị_trường/N hiện_nay/N có/V hàng/R chục/M thương_hiệu/N ôtô/N quốc_tế/N hiện_diện/V 
+ở/E thị_phần/N phổ_thông/N có/V Toyota/Np Honda/Np Suzuki/Np Mitsubishi/Np Nissan/Np Mazda/Np Hyundai/Np Kia/P GM/Np Ford/Np Peugeot/Np …/M Ở/E phân/N khúc/N cấp/V hơn/R có/V Lexus/Np Audi/Np BMW/Np Mercedes/Np Volkswagen/Np Land_Rover/Np Jaguar/Np 
+Xe/N hạng/N cao_cấp/A hơn/R cũng/R có/V Posrche/Np Maybach/Np Maserati/Np …/V 
+mỗi/L thương_hiệu/N lại/R có/V từ/E 10/M đến/E khoảng/N 50/M cơ_sở/N bảo_hành/V bảo_dưỡng/V 
+Thị_trường/N cũng/R chứng_kiến/V nhờ/V có/V nhiều/A thương_hiệu/N ô_tô/N hiện_diện/V cuộc/N đua/V giảm_giá/N “/V xuống/E đáy/N người/N tiêu_dùng/V đã/R được/V hưởng/V lợi/N từ/E sự/Nc cạnh_tranh/V này/P 
+Anh/N Thư/Np 

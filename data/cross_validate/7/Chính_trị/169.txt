@@ -1,0 +1,8 @@
+​/N Điều_chỉnh/V tốc_độ/N đi_lại/V khu_vực/N cầu/N Nguyễn_Văn_Cừ/Np
+Sở/N Giao_thông/N vận_tải/V TPHCM/Np vừa/R thông_báo/V điều_chỉnh/N lộ_trình/N tốc_độ/N đi_lại/V trên/E một_số/N tuyến/N đường/N quận/N 1/M quận/N 8/M để/E phục_vụ/V thông/N xe/N 2/M nhánh/N cầu/N Nguyễn_Văn_Cừ/Np
+Theo/E đó/P kể/V từ/E ngày/N 296/M các/L loại/N xe/N đi_lại/V lên/R 2/M nhánh/N cầu/N kết_nối/V đường/N Võ_Văn_Kiệt/Np với/E cầu/N Nguyễn_Văn_Cừ/Np như/A sau/N
+Trên/E nhánh/N cầu/N N1/Np Tổ_chức/N lưu_thông/V một/M chiều/N các/L loại/N xe/N theo/V hướng/N từ/E tường/N Võ_Văn_Kiệt/Np hướng/N quận/N 6/M rẽ/N lên/N cầu/N Dương_Bá_Trạc/Np quận/N 8/M
+Tốc_độ/N tối_đa/A cho/V phép/N là/V 30km/M h/N
+Trên/E nhánh/N cầu/N N2/Np Tổ_chức/N lưu_thông/V một/M chiều/N tất_cả/N các/L loại/N xe/N theo/V hướng/N từ/E cầu/N Nguyễn_Văn_Cừ/Np rẽ/V xuống/V cầu/N về/V đường/N Võ_Văn_Kiệt/Np quận/N 1/M
+Tốc_độ/N tối_đa/A cho/V phép/N là/V 30km/M h/N
+Sở/N Giao_thông/N vận_tải/V TPHCM/Np yêu/V cầu/N người/N đi/V đường/N tuyệt_đối/A chấp_hành/V theo/E hiệu_lệnh/N của/E cảnh_sát/N giao_thông/N và/CC các/L biển_báo/N

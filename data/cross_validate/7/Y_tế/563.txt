@@ -1,0 +1,12 @@
+Bé/N 7/M tháng/N tuổi/N chết/V đói/A do/E sai_lầm/N của/E cha_mẹ/N
+Cha_mẹ/N của/E Lucas/Np sở_hữu/V một/M cửa_hàng/N chuyên/A bán/V thực_phẩm/N dinh_dưỡng/N ở/E thị_trấn/N Beveren/Np
+Trong_suốt/A 7/M tháng/N cha_mẹ/N không/R hề/V cho/E em/N bú/V mẹ/N hoặc/CC sữa/N công_thức/N mà/C hoàn_toàn/A nuôi/V em/N bằng/E sữa/N thực_vật/N tự/P làm/V bao_gồm/V hạt/N diêm/V mạch/N kiều/N mạch/N gạo/N và/CC các/L loại/Nc sữa/N yến_mạch/A tất_cả/P đều/R bán/V trong/E cửa_hàng/N của/E họ/P
+Lucas/Np sau/E đó/P đã/R có/V những/L biểu_hiện/N suy_dinh_dưỡng/V nặng/A thiếu/A nước/N và/CC khó/A thở/V
+Dù_vậy/C  /M cha_mẹ/N bé/N vẫn/R cố_tình/V lờ/V đi/V mọi/L dấu_hiệu/N
+Vào/E ngày/N cuối_cùng/A của/E bé/N cha_mẹ/N vẫn/R không/R đưa/V con/N đến/E bác_sĩ/N mà/C đưa/V đến/R gặp/V một/M người/N để/E chữa_trị/V theo/E phương_pháp/N vi_lượng/N đồng/N căn/N  /EOS
+Theo/E khuyến_cáo/N của/E bác_sĩ/N trẻ/N sơ_sinh/A nên/C bú/V sữa/N mẹ/N hoặc/CC sữa/N bột/N dành/V cho/E trẻ/N sơ_sinh/A trong/E năm/N đầu/N đời/N  /M Các/L công_thức/N khác/A dành/V cho/E trẻ/N sơ_sinh/A cần/V phải/V tham_khảo/V ý_kiến/N của/E bác_sĩ/N chuyên_khoa/N
+Theo/E Huffingtonpost/Np tòa_án/N đã/R tuyên_bố/V chính/T cha_mẹ/N Lucas/Np là/V người/N đã/R gây/V ra/R cái/Nc chết/V của/E con_trai/N
+Họ/P bị/V tuyên/V 6/M tháng/N tù/N
+Đã/R có/V một_vài/L trường_hợp/N tương_tự/A xảy_ra/V trên/E thế_giới/N
+Năm/N 2011/M  /M một/M cặp/N vợ_chồng/N ăn_chay/V ở/E Mỹ/Np bị/V kết_án/V vì/E đã/R gây/V ra/R cái/Nc chết/V cho/E đứa/Nc con/N 6/M tháng/N tuổi/N do/E chỉ/R cho/E con/N uống/V sữa_đậu_nành/N và/CC nước/N táo/N
+Đứa/Nc bé/N chỉ/R nặng/A 1,6/M kg/Nu khi/N qua_đời/V

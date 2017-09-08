@@ -1,0 +1,35 @@
+Nam_sinh/N trường_làng/N giành/V 29,75/M điểm/N khối/N A/N
+Sáng/N 6/7/M cả/P gia_đình/N Lê_Vũ_Lợi/Np học_sinh/N lớp/N 12A1/M trường/N THPT/Np Tam_Nông/Np /M Phú_Thọ/Np /M vỡ/V òa/N trong/E hạnh_phúc/N khi/N được/V giáo_viên/N báo/V tin/N con_trai/N là/V thủ_khoa/N của/E tỉnh/N với/E số/N điểm/N gần_như/R tuyệt_đối/A
+Dù/C so/V kết_quả/N ngay/T sau/E khi/N kỳ/N thi/V THPT/Np quốc_gia/N kết_thúc/V Lợi/Np vẫn/R bất_ngờ/A vì/E số/N điểm_cao/N hơn/R dự_tính/V và/CC vượt/V qua/R mức/N 27/M điểm/N như/A kỳ_vọng/V
+Thi_Toán/Np Văn/Np và/CC tổ_hợp/N Khoa_học_tự_nhiên/N Lợi/Np đạt/V 10/M Toán/Np 10/M Hóa_học/N 9,75/M Vật_lý/N 9,4/M tiếng/N Anh/Np 7,25/M Sinh_học/N và/CC 6,5/M Ngữ_Văn/Np
+Với/E số/N điểm/N từng/R môn/N như_vậy/X Lợi/Np có_thể/R tự_tin/V nộp/V nguyện_vọng/N vào/E nhiều/A đại_học/N với/E tổng/N điểm/N tổ_hợp/N xét/V tuyển/V A/N 29,75/M A1/Np /M Toán/Np Lý/Np Anh/Nc /Np 29,15/M và/CC D7/M /N Toán/Np Hóa/Np Anh/Nc /Np là/V 29,4/M
+Sinh_ra/V trong/E gia_đình/N có/V bố_mẹ/N đều/R là/V giáo_viên/N tiểu_học/N Vũ_Lợi/Np luôn/R tự/P ý_thức/V việc/N học/V của/E mình/P
+Có/V lực/N học/V giỏi/A trong/E những/L năm/N cấp/V 2/M nhưng/C Lợi/Np quyết_định/V không/R thi/V vào/E trường/N chuyên/A của/E tỉnh/N
+“/M Giả_sử/N khi/N đó/P đỗ/V trường/N chuyên/A em/N sẽ/R học/V xa/A nhà/N
+Việc/N đó/P khá/R khó_khăn/A vì/E phải/V tự_lập/V hoàn_toàn/A và/CC vượt/V qua/R hàng/R nghìn/M cám_dỗ/N nơi/N thành_phố/N ”/A Lợi/Np nói/V
+Không/R đặt/V nặng/A vấn_đề/N môi_trường/N học_tập/V chàng_trai/N sinh/V năm/N 1999/M luôn/R quan_niệm/V sự/Nc thành_công/V phụ_thuộc/V lớn/A vào/E bản_thân/N
+Thành_tích/N giải/N nhất/A Toán/Np và/CC Hóa/Np cấp/V tỉnh/N huy_chương/N vàng/N giải/N Toán/Np qua/V mạng/N và/CC huy_chương/N bạc/N Vật_lý/N cấp/N quốc_gia/N đã/R chứng_minh/V quan_niệm/N của/E em/N hoàn_toàn/A đúng/A
+Lợi/Np không/R có/V phương_pháp/N học_tập/V đặc_biệt/A nào/P để/E vừa/R học/V tốt/A các/L môn/N Khoa_học_tự_nhiên/N vừa/R giỏi/A tiếng/N Anh/Np lại/R vẫn/R giữ/V được/R điểm_số/N an_toàn/A ở/E môn/N Ngữ_văn/N
+Theo/E em/N điều/N quan_trọng/A nhất_là/X chăm_chỉ/A đến/E lớp/N và/CC chú_ý/V lắng_nghe/V bài/N giảng/N của/E thầy_cô/N
+“/M Khi/N nắm/V chắc/A kiến_thức/N trên/E lớp/N em/N có_thể/R tự/P đào_sâu/V mở_rộng/V nhiều/A vấn_đề/N hơn/A mà/C không/R cần/V thêm/V sự/Nc trợ_giúp/V của/E ai/P ”/V Lợi/Np nói/V và/CC cho_biết/V không/R hề/T học/V thêm/V bất_kỳ/R môn_học/N nào/P ngoài/E chương_trình/N ở/V trường/N
+Nhớ/V lại/R hai/M năm/N đầu/N THPT/Np có/V những/L lúc/N Lợi/Np chán_nản/V vì/E khối_lượng/N bài_vở/N quá/R lớn/A và/CC thường_xuyên/A gặp/V phải/V bài/N khó/A
+Được/V bố_mẹ/N động_viên/V em/N lấy/V lại/R được/V cân_bằng/A
+Lớp/N 12/M Lợi/Np bắt_đầu/V học/V chăm/A hơn/R mỗi/M khi/N gặp/V bài/N khó/A em/N lên/V mạng/N tìm_hiểu/V cách/N tự/P giải/V trước/E khi/N nhờ/V sự/N trợ_giúp/V của/E thầy_cô/N
+Để/E sẵn_sàng/A bước/V vào/E kỳ/N thi/V THPT/Np quốc_gia/N chàng_trai/N Phú_Thọ/Np chuẩn_bị/V tâm_lý/N thoải_mái/A và/CC nhất_quyết/A không/R “/A cắm_đầu/V vào/E ôn_tập/V ”/N
+Hai/M tháng/N gần/A thi/V đều_đặn/A mỗi/M ngày/N Lợi/Np đi/V học/V ở/E trường/N buổi_sáng/N
+Thời_gian/N chiều/N và/CC tối/N em/N căn/Nc thời_gian/N làm/V lần_lượt/R đề/N thi/V ba/M môn/N thế/P mạnh/A Toán/Np Lý/Np Hóa/Np như/C thi/V thật/R
+“/N Việc_làm/N này/P giúp/V em/N dễ_dàng/A ôn/V lại/R kiến_thức/N tìm/V ra/R phần/N còn/R yếu/A và/CC điều_chỉnh/V thời_gian/N làm/V bài/N hợp_lý/A ”/A Lợi/Np nói/V và/CC cho_biết/V nếu/C có/V căng_thẳng/A sau/E khi/N làm/V xong/R một/M đề/N em/N lại/R nghe/V nhạc/N hay/C chơi/V đàn/N để/E giải_tỏa/V
+Dù/C làm_gì/X em/N cũng/R giữ/V quy_tắc/N đi/V ngủ/V trước/E 23h/M mỗi/M ngày/N
+Đề/Np thi/V năm/N nay/P với/E Lợi/Np có/V phần/N dễ/A hơn/R so/V với/E mọi/L năm/N nhưng/C không/R phải/V vì_vậy/C mà/C chủ_quan/V
+Em/N cho/V rằng/C để/E làm/V tốt/A bài/N trắc_nghiệm/V học_sinh/N cần/V học/V chắc/A phần/N kiến_thức/N cơ_bản/A  /M Đề/Np
+thi/V có/V tính/N phân_hóa/V với/E khoảng/N 5/M câu/N khó/A nếu/C cứ/R chăm_chăm/A học_phần/N khó/A rồi/C lơ_là/V phần/N dễ/A thì_có/X nguy_cơ/N mất/V điểm/N cả/P hai/M phần/N  /EOS
+Theo/E nam_sinh/N trong/E quá_trình/N làm/V bài/N thi/V đọc/V kỹ/A đề/N là/V quan_trọng/A nhất/R
+“/M Em/N gạch/N chân/N tất_cả/P các/L từ_khóa/N quan_trọng/A trong/E mọi/L câu_hỏi/N để/E chắc_chắn/V không/R bỏ_qua/V bất_kỳ/R một/M dữ_kiện/N nào/P
+Đó/P là/V cách/N để/E em/N thành_công/V ”/A Lợi/Np khẳng_định/V
+Thầy_Dương_Văn_Bảo/X Hiệu_trưởng/N trường/N THPT/Np Tam_Nông/Np cho_biết/V Lợi/Np học/V đều/R 3/M môn/N khối/N A/N
+“/M Trước/N khi/N thi/V nhà_trường/N rất/R kỳ_vọng/V vào/E thành_tích/N của/E Lợi/Np và/CC không/R quá/R bất_ngờ/A khi/N em/N đạt/V kết_quả/N này/P
+Đây/P là/V thành_tích/N tốt/A nhất/R của/E trường/N Tam_Nông/Np trong/E vài/L năm/N trở_lại/V đây/P ”/V thầy/N Bảo/V nói/V
+Theo/E Hiệu/N trưởng/N Bảo/Np trường/N THPT/Np Tam_Nông/Np có/V 299/M học_sinh/N dự/V thi/V THPT/Np quốc_gia/N năm/N 2017/M và/CC có/V 8/M em/N đạt/V trên/E 28/M điểm/N
+Với/E một/M trường/N huyện/N đây/P là/V thành_tích/N ít/A người/N nghĩ/V tới/E
+Với/E cá_nhân/N Lê_Vũ_Lợi/Np dù/C đạt/V tổng/N điểm_cao/N ở/E 3/M tổ_hợp/N xét/V tuyển/V Lợi/Np vẫn/R kiên_quyết/V theo/V lựa_chọn/V ngay/T từ/E đầu/N của/E mình/P là/V vào/E khoa/N Công_nghệ_thông_tin/N của/E Đại_học/N Bách_khoa/N Hà_Nội/Np
+Em/N hy_vọng/V sớm/A trở_thành/V kỹ_sư/N giỏi/A viết/V ra/R một_số/L phần_mềm/N và/CC sở_hữu/V một/M công_ty/N riêng/A

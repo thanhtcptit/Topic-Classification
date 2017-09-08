@@ -1,0 +1,12 @@
+Tảo/N biến_đổi/V gene/N tiêu_diệt/V 90/M %/N tế_bào/N ung_thư/N
+Nico_Voelcker/Np đến/V từ/E Đại_học/N Nam_Australia/Np cộng_tác/V với/E các/L nhà_nghiên_cứu/N ở/E Dresden_Đức/Np biến_đổi/V tảo/N đĩa/N và/CC dùng/V loại/N tảo/N này/P để/E mang/V hóa_chất/N trị_liệu/N vào/V cơ_thể/N
+Nhóm/N nghiên_cứu/V phát_hiện/V khi/N họ/P tiêm/V phân_tử/N nano/V vào/E cơ_thể/N chuột/V các/L khối_u/N dần/R thoái_hóa/V
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E tạp_chí/N Nature_Communications/Np hôm/N 10/11/M
+Tảo/N đĩa/N là/V một/M loại/Nc tảo/N rất/R nhỏ/A dạng/N đơn_bào/A và/CC tồn_tại/V bằng/E quang_hợp/N
+Nó/P có/V đường_kính/N 4/M 6/M micromet/N và/CC được/V bao/N quanh/N bởi/E một/M bộ/N khung/N rỗ/V làm/V từ/E silica/N
+Do/E hóa_chất/N trị_liệu/N rất/R độc/A với/E mô/P khỏe_mạnh/A các/L nhà_nghiên_cứu/N có_thể/R cất/V thuốc/N bên/N trong/N tảo/N
+Nhóm/N nghiên_cứu/V sử_dụng/V công_nghệ/N biến_đổi/V gene/N trên/E tảo/N đĩa/N để/E sản_sinh/V một/M loại/Nc protein/N liên_kết/V với/E kháng_thể/N trên/E bề_mặt/N lớp/N vỏ/N của/E chúng/P
+Loại/N protein/N này/P chỉ/R liên_kết/V với/E những/L phân_tử/N trên/E tế_bào/N ung_thư/N và/CC có_thể/A đưa/V thuốc/N đến/E những/L tế_bào/N đích/N
+Các/L dữ_liệu/N chỉ/R ra/V tảo/N đĩa/N biosilica/N frustules/N có_thể/A được/V sử_dụng/V như/C một/M phương_tiện/N linh_hoạt/A nhằm/V đưa/V thuốc/N chống/V ung_thư/N khó/A hòa_tan/V trong/E nước/N đến/E khu_vực/N khối_u/N IB/Np Times/Np dẫn/V lời/N Voelcker/Np
+Do/E tảo/N chủ_yếu/A phát_triển/V dựa/V vào/E nước/N và/CC ánh_sáng/N nhóm/N nghiên_cứu/V tin/V rằng/C kỹ_thuật/N này/P sẽ/R giúp/V giảm/V chi_phí/N cũng_như/C chất_thải/N từ/E quá_trình/N sản_xuất/V phân_tử/V nano/N và/CC có/V tiềm_năng/N lớn/A đối_với/E chữa_trị/V ung_thư/N trong/E tương_lai/N
+Dù/C vẫn/R còn/V ở/E giai_đoạn/N phát_triển/V ban_đầu/N hệ_thống/N vận_chuyển/V thuốc/N mới/R dựa/V trên/E vật_liệu/N dễ/A tái_tạo/V và/CC điều_chỉnh/V bằng/E công_nghệ_sinh_học/N có_thể/A là/V chìa_khóa/N để/E điều_trị/V u/A cứng/A bao_gồm/V những/L khối_u/N não/N hiện/N chưa/R có/V cách/N chữa_trị/V Voelcker/Np cho_biết/V

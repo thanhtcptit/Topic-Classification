@@ -1,0 +1,20 @@
+Nữ_sinh/N ở/E Hà_Nội/Np tử_vong/V do/E sốt_xuất_huyết/N
+Nữ/N bệnh_nhân/N được/V Bệnh_viện/N Bệnh_Nhiệt/Np đới/V Trung_ương/N xác_định/V tử_vong/N do/E sốc/N dengue/N /A sốc/N do/E sốt_xuất_huyết/N /V
+Bệnh_nhân/N sốt/V đến/E ngày/N thứ/N 3/M đau_đầu/A đi/V khám/V được/R bác_sĩ/N chẩn_đoán/V sốt_xuất_huyết/N cho/V về/E nhà/N điều_trị/V
+Sau/E đó/P bệnh_nhân/N đi_ngoài/V phân/N lỏng/N nói/V nhảm/A huyết_áp/N tụt/V
+Bệnh_nhân/N vào/V Bệnh_viện/N Bệnh_Nhiệt/Np đới/V Trung_ương/N tối/N 14/5/M
+Sau/E khi/N vào/V viện/N 10/M phút/Nu bệnh_nhân/N có/V biểu_hiện/N ngừng/V tuần_hoàn/A được/V các/L bác_sĩ/N cấp_cứu/V tích_cực/A nhưng/C không/R qua/V khỏi/R
+Đây/P là/V ca/N tử_vong/V đầu_tiên/A ở/E Hà_Nội/Np do/E sốt_xuất_huyết/N
+Ngành/N y_tế/N đã/R tiến_hành/V vệ_sinh/V môi_trường/N diệt/V bọ_gậy/N phun/V hóa_chất/N truyền_thông/N bằng/E loa/N truyền_thanh/N di_động/V tại/E khu_vực/N bệnh_nhân/N thuê/V trọ/V
+Tại_Hà_Nội/Np số/N bệnh_nhân/N sốt_xuất_huyết/N có/V xu_hướng/N gia_tăng/V từ/E đầu/N tháng/N 5/M đặc_biệt/A 2/M tuần/N gần/A đây/P ghi_nhận/V 27/M ca/N
+Theo/E thống_kê/V của/E Trung_tâm/N Y_tế/N Dự_phòng/V từ/E đầu/N năm/N đến/E nay/P thành_phố/N đã/R ghi_nhận/V hơn/R 700/M trường_hợp/N mắc/V sốt_xuất_huyết/N tăng/V 2,1/M lần/N so/V với/E cùng/A kỳ/N năm_ngoái/N một/M người/N tử_vong/V
+Số/N bệnh_nhân/N tập_trung/V chủ_yếu/A ở/E quận/N huyện/N Đống_Đa/Np Hoàng_Mai/Np Hai_Bà_Trưng/Np Thanh_Xuân/Np
+Trước/E diễn_biến/N khó/A lường/V của/E dịch/N Sở/N Y_tế/N Hà_Nội/Np đã/R chỉ_đạo/V các/L đơn_vị/N y_tế/N tăng_cường/V triển_khai/V các/L biện_pháp/N phòng_chống/V sốt_xuất_huyết/N
+Trong/E đó/P đặc_biệt/A tuyên_truyền/V tổ_chức/V họp/V dân/N để/E thông_tin/V về/E tình_hình/N dịch_bệnh/N và/CC hướng_dẫn/V người_dân/N cách/V phòng_chống/V
+Các/L địa_phương/N tổng_vệ_sinh/V môi_trường/N diệt/V bọ_gậy/N tập_trung/V cứu_chữa/V người_bệnh/N để/E giảm/V tử_vong/N …/M Bệnh/N sốt_xuất_huyết/N đến/E nay/P chưa/R có/V văcxin/N phòng_bệnh/V và/CC chưa/R có/V thuốc/N điều_trị/V đặc_hiệu/A biện_pháp/N phòng_bệnh/V chủ_yếu/A và/CC hiệu_quả/N là/V diệt/V muỗi/N diệt/V loăng_quăng/N //X bọ_gậy/V và/CC phòng/N muỗi/N đốt/V
+Để/E phòng_bệnh/V Bộ/N Y_tế/N khuyến_cáo/N người_dân/N thực_hiện/V các/L biện_pháp/N sau/A Đậy/Np kín/A tất_cả/P các/L dụng_cụ/N chứa/V nước/N để/E muỗi/N không/R vào/V đẻ/V trứng/N
+Hàng/N tuần/N thực_hiện/V các/L biện_pháp/N diệt/V loăng_quăng/N //X bọ_gậy/A bằng/E cách/N thả/V cá/N vào/E dụng_cụ/N chứa/V nước_lớn/N thau/N rửa/V dụng_cụ/N chứa/V nước/N vừa/R và/CC nhỏ/A lật/V úp/V các/L dụng_cụ/N không/R chứa/V nước/N thay/V nước/N bình/V hoa/N //X bình/N bông/N bỏ/V muối/N hoặc/CC dầu/N vào/E bát/N nước/N kê/V chân/N chạn/V
+Hàng/N tuần/N loại_bỏ/V các/L vật_liệu/N phế_thải/V các/L hốc/N nước/N tự_nhiên/A không/R cho/V muỗi/N đẻ/V trứng/N như/C chai/N lọ/N mảnh/Nc chai/N vỏ/N dừa/N mảnh/Nc lu/N vỡ/V lốp/vỏ/V xe/N cũ/A hốc/N tre/N bẹ/N lá/N
+Ngủ/V màn/N mặc/V quần_áo/N dài/A phòng/N muỗi/N đốt/V ngay/T cả/T ban_ngày/N
+Tích_cực/A phối_hợp/V với/E ngành/N y_tế/N trong/E các/L đợt/N phun/V hóa_chất/N phòng/N chống/V dịch/N
+Khi/N bị/V sốt/V nên/C đến/V ngay/T cơ_sở/N y_tế/N để/E được/V khám/V và/CC tư_vấn/V điều_trị/V không/R tự_ý/A điều_trị/V tại/E nhà/N

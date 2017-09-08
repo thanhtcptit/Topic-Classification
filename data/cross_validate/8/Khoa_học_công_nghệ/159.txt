@@ -1,0 +1,24 @@
+​/V Những/L điều/N cần/V biết/V khi/N dùng/V kính/N thực_tế/N ảo/N
+Trong/E đó/P một_vài/N hiệu/N được/V nhắc/V tới/R nhiều/A như/N Google/Np Samsung/Np VR/Np Box/Np HP/Np XiaoZhai/V Pro/Np Shinecon/Np
+Cyber/N sickness/N là/V thuật_ngữ/N được/V nhắc/V đến/R khi/N nói/V về/R tác_dụng/V phụ/V khi/N sử_dụng/V kính/N thực_tế/N ảo/N
+Đó/P là/V cảm_giác/N chóng_mặt/V buồn_nôn/N liên_quan/V đến/E bệnh/N về/V chuyển_động/V số/N digital/N motion/N sickness/N bắt_nguồn/V từ/E việc/N mắt/N người/N quan_sát/V các/L chuyển_động/N như/N cảnh/N phim/N tốc_độ/N cao/A và/CC không/R cảm_nhận/V được/R chuyển_động/V đó/N trên/N thực_tế/N
+Theo/E giám_đốc/N y_tế/N của/E Trung_tâm/N Cân_bằng/N Mắt/Np và/CC Mũi/N Tiền_đình/N Massachusetts/Np và/CC là/V giáo_sư/N tai/N mũi/N họng/N của/E Đại_học/N Harvard/Np ông/N Steven_Rauch/Np trình_bày/V tại/E tờ/N New_York_Times/Np cảm_giác/N cân_bằng/A của/E người/N khác/A với/E các/L cảm_giác/N ở/E chỗ/N cảm_giác/N cân_bằng/A của/E ta/N bị/V ảnh_hưởng/V bởi/E nhiều/A khía_cạnh/N ta/P ghi_nhận/V được/R nhiều/A đầu_vào/N inputs/N
+Khi/N các/L đầu_vào/N này/P không/R tương_thích/V với/E nhau/N ta/N sẽ/R cảm_thấy/V chóng_mặt/V và/N buồn_nôn/N
+Các/L bệnh/N say/N chuyển_động/V thông_thường/A như/C say/V xe/N hoặc/N say/V sóng/N sự/N đá/V nhau/N giữa/N các/L đầu_vào/N xảy/V ra/R vì/E ta/N cảm_nhận/V được/R chuyển_động/V của/E cơ_bắp/N và/CC khớp/N cũng/R như/C ở/V tai/N trong/N nhưng/C không/R thấy/V được/R chuyển_động/V
+Để/E hết/V say/N bạn/N chỉ/R cần/V đứng/V dậy/R trên/E sàn/N tàu/N và/CC nhìn/V vào/E đường/N chân_trời/N
+Tuy_nhiên/C trái_ngược/N là/V say/N công_nghệ/N cyber/V sickness/N
+Ta/P nhìn/V thấy/V chuyển_động/N như/C các/L khúc/N cua/N trong/E một/M cuộc/N đua/V xe/N khi/N xem/V phim/N hoặc/N clip/A nhưng/C ta/P không/R cảm_nhận/V được/R cảm_giác/V cua/N đó/P
+Kết_quả/N của/E sự/N không/R tương_thích/A này/P cũng/R làm/V ta/N chóng_mặt/V và/CC muốn/V mặt/N xanh/A mặt/N vàng/N
+Các/L nghiên_cứu/N cho/V thấy/V chứng/N say/N công_nghệ/N này/P có_thể/R ảnh_hưởng/V từ/E 50/M đến/E 80/M người_dùng/N tuỳ_thuộc/A vào/E nội_dung/N và/CC cách_thức/N trình_chiếu/N
+Phụ_nữ/N cũng/R được/V cho/V là/C dễ/N bị/V ảnh_hưởng/V hơn/R
+Theo/E Cyriel_Diels/Np nhà/N tâm_lí_học/N nhận_thức/V của/E Trung_tâm/N Chuyển_động/N và/CC Vận_chuyển/V Trường_Đại_học/N Coventry/Np ở/V Anh/Np cho/V biết/V đây/P là/V phản_ứng/N tự_nhiên/A khi/N con_người/N tiếp_xúc/V với/E một/M môi_trường/N không/N tự_nhiên/A
+Theo/E giáo_sư/N nhãn_khoa/N khoa_học_viễn_tưởng/X tâm_lí_học/N và/CC khoa_học/N thần_kinh/N tại/E Đại_học/N UC/Np Berkeley/Np Đôi/N mắt/N luôn/R tập_trung/V vào/V một/M điểm/N cố_định/A trong/E khi/N sử_dụng/V kính/N thực_tế/N ảo/N phải/V cố_gắng/V để/V hội_tụ/V hay/V phân_kì/N hướng/V tới/E đối_tượng/N có_thể/R xuất_hiện/V ở/E gần/A hoặc/N xa/A
+không/R phù_hợp/V này/P được/V gọi_là/N sự/N xung_đột/V vergence/N chỗ/N ở/V và/N đó/P là/V lí_do/N nhiều/A người/N cảm_thấy/V khó_chịu/V thị_giác/N khi/N sử_dụng/V một/M VR/Np
+Theo/E chuyên_gia/N về/V kính/N thực_tế/N ảo/N Vương_Vũ/Np thì/C kính/N thực_tế/N ảo/N sẽ/R làm/V người/N sử_dụng/V có/V cảm_giác/N hơi/N chóng_mặt/V hay/R còn/V gọi_là/N cybersickness/V sau/E khi/N sử_dụng/V tuỳ_thuộc/N vào/V thể_trạng/N mỗi/M người/N
+Vì_vậy/C thời_gian/N khuyến_cáo/N cho/V mỗi/M lần/N trải_nghiệm/N không_gian/N đa_chiều/A này/P là/V không/R quá/V 30/M phút/Nu
+Về/V lí_thuyết/N kính/N thực_tế/N ảo/A có_thể/A sử_dụng/V để/E xem/V được/R mọi/N chương_trình/N
+Tuy_nhiên/C để/N đảm_bảo/V độ/N sắc/N nét/A và/CC cảm_giác/N trung_thực/A mỗi/N hãng/N sản_xuất/N thường/A phát_triển/V kèm/V một/M kho/N ứng_dụng/N chuyên_biệt/N thích/V hợp_nhất/V với/E điện_thoại/N thong/N minh/N và/CC kính/N thực_tế/N ảo/N của/N mình/N
+Cũng/R theo/V anh/N Vũ/Np kính/V thực_tế/N ảo/N nói_chung/N cho/V cảm_giác/N sống_động/A và/CC trung_thực/A nên/C khuyến_cáo/N không/R nên/V sử_dụng/V cho/E trẻ_em/N dưới/N 13/M tuổi/N hoặc/N phụ_nữ/N đang/R mang/V thai/N hoặc/N người/N có/V bệnh/N tim/N
+Bởi/C các/L chương_trình/N được/V ưa_chuộng/V trên/E kính/N thực_tế/N ảo/N là/V thể_thao/N ngoài_trời/N phim/N kinh_dị/N hoặc/N khoa_học_viễn_tưởng/X nên/C cần/V có/V người/N giám_hộ/V khi/N trẻ_em/N và/CC phụ_nữ/N có_thai/N sử_dụng/V kính/N
+Ngoài_ra/C những/L người/N đang/R chóng_mặt/V nhức/V đầu/N cảm/V sốt/V mệt/A trong/E người/N nên/V hạn_chế/V sử_dụng/V
+Ngày_nay/N kính/N thực_tế/N ảo/N có/V tăng_cường/N nút/N điều_chỉnh/N tiêu_cự/N để/E hỗ_trợ/V cho/E các/L trường_hợp/N người_dùng/N bị/V cận/V hoặc/N viễn_thị/N

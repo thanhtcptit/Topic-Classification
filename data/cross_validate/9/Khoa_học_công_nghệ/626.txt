@@ -1,0 +1,27 @@
+Trung_Quốc/Np tham_vọng/N xây/V lò/N phản_ứng/V hạt_nhân/N kiểu/N mới/R
+Các/L nhà_khoa_học/N Trung_Quốc/Np đã/R bước/V gần/A hơn/R tới/E việc/N chạy/V một/M lò/N phản_ứng/V hạt_nhân/N mà/C không/R tạo/V ra/R phản_ứng_dây_chuyền/X loại_bỏ/V nguy_cơ/N phát_tán/V phóng_xạ/V đồng_thời/R giảm/V được/R lượng/N lớn/A chất_thải/V hạt_nhân/N một_cách/N nhanh_chóng/A và/CC an_toàn/A theo/V SCMP/Np
+Tất_cả/P lò/N phản_ứng/V hiện_nay/N đều/R dựa/V trên/E các/L phản_ứng_dây_chuyền/N nhưng/C những/L phản_ứng/N này/P có_thể/R vượt/V khỏi/R tầm/N kiểm_soát/V và/CC tạo/V ra/R những/L vụ/N nổ/V khủng_khiếp/A như/C đã/R từng/R xảy_ra/V với/E thảm_họa/N Chernobyl/Np ở/E Ukraine/Np năm/N 1986/M
+Công_nghệ/N này/P cũng/R tạo/V ra/R lượng/N lớn/A chất_thải/V phóng_xạ/N và/CC phải/V mất/V hàng/R triệu/M năm/N để/E phân_hủy/V hoàn_toàn/A
+Các/L nhà_nghiên_cứu/N đã/R thử_nghiệm/V một/M kỹ_thuật/N mới/A để/E giải_quyết/V cả/P hai/M vấn_đề/N này/P bằng/E cách/N sử_dụng/V một/M nguồn/N proton/N kết_hợp/V với/E lò/N phản_ứng/N dưới/E tới/V hạn/N
+Kỹ_thuật/N này/P đã/R được/V các/L nhà_khoa_học/N ấp_ủ/V trong/E nhiều/A thập_kỷ/N nhưng/C vẫn/R chưa/R có/V lời_giải/N
+Nhóm/N nghiên_cứu/V từ/E Trung_Quốc/Np đã/R dùng/V một/M nguồn/N proton/N năng_lượng/N cao/A để/E tạo/V và/CC duy_trì/V quá_trình/N phân_hạch/V hạt_nhân/N
+Kỹ_thuật/N này/P cho/V thấy/V nhiên_liệu/N hạt_nhân/N ngừng/V cháy/V ngay/R khi/N tắt/V chùm/Nc proton/N
+Điều/N này/P giúp/V chấm_dứt/V rủi_ro/A của/E kỹ_thuật/N phản_ứng_dây_chuyền/X vốn/N được/V sử_dụng/V rộng_rãi/A trong/E các/L lò/N phản_ứng/V hiện_nay/N để/E duy_trì/V quá_trình/N phân_hạch/V hạt_nhân/N hoặc/CC nguyên_tử/V
+Ngoài_ra/C chùm/Nc proton/N còn/R có/V khả_năng/N tạo/V ra/R các/L neutron/N đủ/A nhanh/A để/E đốt/V cháy/V toàn_bộ/L các/L vật_liệu/N phân_hạch/V khác/A như/C thorium/N và/CC chất_thải/N tạo/V ra/R bởi/E lò/N phản_ứng/V thương_mại/N
+Chúng_tôi/P đã/R giải_quyết/V được/R vấn_đề/N về/V cơ_chế/N của/E lò/N phản_ứng/V hoạt_động/V không/R cần/V phản_ứng_dây_chuyền/X Pan_Weimin/Np –/V giáo_sư/N tại/E Viện_Vật/Np lý/N năng_lượng/N cao/A Viện_hàn_lâm/N Khoa_học/N Trung_Quốc/Np tại/E Bắc_Kinh/Np cho_biết/V
+Nhóm/N của/E Pan/Np sử_dụng/V kỹ_thuật/N tương_tự/A như/C khởi_động/V một/M chiếc/Nc ôtô/N cũ/A trong/E thời_tiết/N lạnh/A để/E giải_quyết/V những/L khó_khăn/N tương_đồng/A trong/E việc/N tạo/V ra/R chùm/Nc proton/N
+Một_khi/N chùm/Nc proton/N được/V tạo/V ra/R nó/P sẽ/R hoạt_động/V trơn_tru/A nhưng/C để/E tạo/V ra/R chùm/Nc proton/N thì_là/A cả/P một/M vấn_đề/N
+Một/M nguồn/N phát/V proton/N đã/R được/V khởi_động/V thành_công/V trong/E một/M thí_nghiệm/N tại/E Bắc_Kinh/Np tháng/N 10/M vừa_qua/X
+Về/E mặt/N kỹ_thuật/N nhóm/N nghiên_cứu/V có_thể/R gia_tốc/N ổn_định/V một/M chùm/Nc proton/N có/V vận_tốc/N nhỏ/A
+Điều/N này/P đồng_nghĩa/V lò/N phản_ứng/V dưới/E tới/E hạn/N có_thể/R được/V khởi_động/V bằng/E công_nghệ/N chùm/Nc proton/N giáo_sư/N Pan/Np cho_biết/V
+Đột_phá/V này/P đã/R loại_bỏ/V một/M trở_ngại/N lớn/A về/E mặt/N kỹ_thuật/N trong/E dự_án/N lò/N phản_ứng/V vốn/N chỉ/R tồn_tại/V trên/E lý_thuyết/N
+Với/E kết_quả/N này/P chính_phủ/N Trung_Quốc/Np đang/R cân_nhắc/V một/M kế_hoạch/N đầy/A tham_vọng/N nhằm/V xây_dựng/V một/M lò/N phản_ứng/V hạt_nhân/N dưới/E tới/V hạn/N ở/E Quảng_Châu/Np
+Giáo_sư/N Pan/Np và/CC các/L đồng_nghiệp/N sẽ/R tham_gia/V dự_án/N này/P
+Bản/N thiết_kế/V hoàn_chỉnh/A của/E lò/N phản_ứng/V dưới/E tới/E hạn/N sử_dụng/V nguồn/N proton/N đã/R được/V gửi/V tới/E cơ_quan/N có/V thẩm_quyền/N chờ/V phê_duyệt/V
+Các/L nhà_khoa_học/N Trung_Quốc/Np tin/V rằng/C với/E tốc_độ/N phát_triển/V của/E kỹ_thuật/N hiện_nay/N lò/N phản_ứng/N mới/A này/P có_thể/R được/V xây_dựng/V trong/E vòng/N môt/V thập_kỷ/N
+Tuy_nhiên/C còn/R nhiều/A ý_kiến/N trái/A chiều/N xung_quanh/N việc/N ứng_dụng/V kỹ_thuật/N này/P
+Nhiều/A nhà_khoa_học/N Trung_Quốc/Np khác/A cho/V rằng/C cần/V xem_xét/V kỹ/A các/L phương_án/N khác/A để/E lựa_chọn/V ra/R một/M kế_hoạch/N tối_ưu/A
+Máy_gia_tốc/N proton/N là/V một/M hệ_thống/N phức_tạp/A và/CC rất/R lớn/A còn/R quá/R sớm/A để/E nói/V rằng/C nó/P là/V phương_án/N tốt/A nhất/R một/M nhà_vật_lý/N giấu/V tên/N cho_biết/V
+Ý_tưởng/N về/V một/M lò/N phản_ứng/V dưới/E tới/E hạn/N được/V nhắc/V đến/E lần/N đầu_tiên/A bởi/E nhà_vật_lý/N người/N Mỹ_Earnest_Lawrence/Np vào/E những/L năm/N 1950/M
+Ý_tưởng/N này/P thu_hút/V được/R sự/Nc chú_ý/V của/E công_luận/N quốc_tế/N khi/N được/V phát_triển/V bởi/E Carlo_Rubbia/Np người/N sau/E đó/P trở_thành/V đồng/N chủ_nhân/N của/E giải/N Nobel_Vật/Np lý/N năm/N 1984/M
+Tuy_nhiên/C lò/N phản_ứng/V dưới/E tới/E hạn/N vẫn/R chưa/R thực_hiện/V được/R do/E gặp/V phải/V nhiều/A trở_ngại/N về/E mặt/N kỹ_thuật/N như/C tạo/V ra/R nguồn/N proton/N đủ/A mạnh/A và/CC ổn_định/A cùng_với/C những/L thách_thức/N về/E cơ_khí/N khác/A

@@ -1,0 +1,11 @@
+​/N Giá/Np vàng/A và/CC USD/Np cùng/A lùi_bước/N
+Đến/E cuối/N ngày/N 96/M giá/N vàng/N thế_giới/N chỉ/R còn/V 12734/M USDounce/N quy_đổi/N tương_đương/V 3488/M triệu/N đồnglượng/N giảm/V khoảng/A 10/M USDounce/N 274000/M đồnglượng/N so/V với/E cuối/N ngày/N hôm_qua/N 86/M
+Đồng/N USD/Np phục_hồi/N giá_trị/N khiến/V cho/E giá/N vàng/N thế_giới/N chịu/V sức_ép/N đi/V xuống/V
+So/V với/E hai/M này/N trước/E giá/N vàng/N thế_giới/N đã/R bốc_hơi/V khoảng/A 22/M USDounce/N tương_đương/N 602000/M đồnglượng/N
+Tuy_nhiên/C đà/N giảm/A của/E giá/N vàng/N trong/E nước/N chậm/A hơn/R rất/R nhiều/A
+Cuối/N này/P 96/M giá/N vàng/N miếng/N SJC/Np bán/V ra/R ở/V mức/N 3647/M triệu/N đồnglượng/N chỉ/R giảm/V 70000/M đồnglượng/N so/V với/E cuối/N ngày/N hôm_qua/N
+Chênh_lệch/N giữa/N giá/N vàng/N trong/E nước/N thế_giới/N tăng/V lên/R 159/M triệu/N đồnglượng/N
+Cách_biệt/N giữa/N giá/N mua/V bán/V vẫn/N duy_trì/V ở/V mức/N 200000/M đồnglượng/N
+Trong/E khi/N đó/P giá/N bán/V USD/Np tại/E các/L ngân_hàng/N tiếp_tục/V đi/V xuống/V
+Tại_Ngân_hàng/N Vietcombank/Np giá/N bán/V USD/Np còn/R 22720/M đồngUSD/N trong/E khi/N tại/N Ngân_hàng/N ACB/Np và/CC Eximbank/Np giá/N bán/V USD/Np lần/N lượt_là/V 22725/M đồngUSD/N và/CC 22730/M đồngUSD/N
+Giá/N mua/V USD/Np tiền_mặt/V dao/N dộng/V từ/E 2263022650/M đồngUSD/N

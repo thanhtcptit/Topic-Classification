@@ -1,0 +1,39 @@
+Mua/V máy_tính/N giá/N rẻ/A Cần/V hiểu/V các/L thông_số/N kĩ_thuật/N
+Nhằm/N xác_định/V máy/N còn/V mới/A hay/V đã/R qua/V sử_dụng/V việc/N cần/V làm/V đầu_tiên/N là/V kiểm_tra/N bằng/E mắt/N thường/A các/L dấu_hiệu/N của/E máy/N như/C niêm_phong/V máy/N các/L linh_kiện/N màn_hình/N vỏ/N máy/N khe/N cắm/V
+Sau/E đó/P cần/V kiểm_tra/V thời_gian/N kích_hoạt/A bảo_hành/N thông_qua/V serial/N number/N số/N xêri/N của/E máy/N trên/N trang_web/N chính_thức/A của/N hãng/N
+Máy/N mới/A là/V máy/N chưa/R được/V kích_hoạt/V
+Dù_vậy/N không/R ít/A cửa_hàng/N sử_dụng/V chiêu/N trò/N in/V số/N xêri/N giả/V nên/V bạn/N cần/V phải/V sử_dụng/V thử/V máy/N để/E đảm_bảo/V độ_chính_xác/N cao/A như/C gõ/V tất_cả/N các/L phím/N để/E kiểm_tra/V có/V phím/N nào/P bị/V liệt/A không/R hoặc/N chạy/V đồng_thời/N nhiều/N chương_trình/N để/V kiểm_tra/V tốc_độ/N vận_hành/V máy/N
+Việc/N kiểm_tra/V dung_lượng/N và/CC thời_gian/N sử_dụng/V của/E ổ_cứng/N rất/R quan_trọng/A
+Người/N bán/V có_thể/N hỗ_trợ/V người/N mua/V kiểm_tra/N hoặc/N có_thể/A tải/N các/L phần_mềm/N kiểm_tra/V ổ_cứng/N để/E biết/V rõ/A về/E tuổi_thọ/N của/E bộ_phận/N quan_trọng/A này/P
+Ngoài_ra/C khi/N mua/V máy_tính/N các/L bạn/N sinh_viên/N cần/V chọn/V mua/V máy_tính/N tại/E các/L đại_lí/N của/E hãng/N mà/C mình/P muốn/V chọn/V được/R đảm_bảo/V rằng/C nguồn/N hàng/N được/V phân_phối/V trực_tiếp/V từ/E hãng/N sản_xuất/V đối_với/N máy/N mới/A
+Các/L cửa_hàng/N có/V uy_tín/N có/V cơ_sở/N vật_chất/N ổn_định/V chính_sách/N bảo_hành/V hậu_mãi/N lâu_dài/A và/CC sẵn_sàng/A cho/V khách/N hàng/N thử/V máy/N nên/C các/L bạn/N trẻ/N cũng/R có/V cơ_hội/N kiểm_tra/V rõ/N máy/N hơn/R trước/E khi/N chính_thức/N mua/V
+Ngoài_ra/C các/L bạn/N sinh_viên/N cũng/R không/R nên/V mua/V hàng/N trực_tuyến/N tránh/V trường_hợp/N hàng_không/N đúng/A với/E thực_tế/N và/CC khả_năng/N không/R đổi/V trả/V được/R hàng/N
+Nếu/C bạn/N chọn/V mua/V máy_tính/N đã/R qua/V sử_dụng/V việc/N cần/V làm/V đầu_tiên/N là/V vệ_sinh/N và/CC cài_đặt/V lại/R hệ_điều_hành/N cho/V máy/N cũng/N như/C thực_hiện/V các/L thao_tác/N dọn/V rác/N cho/E máy/N để/E máy/N đạt/V được/R hiệu_suất/V tốt/A
+Cụ_thể/A khi/N mua/V máy/N về/V sinh_viên/N nên/C chủ_động/V làm/V sạch/A quạt/N hoặc/N thay/V mới/N keo/N tản_nhiệt/A để/E giúp/V máy/N không/R bị/V nóng/N và/CC giữ_gìn/V tuổi_thọ/N cho/V máy/N
+Ngoài_ra/C các/L bạn/N cũng/R lưu_ý/V không/A nên/V sử_dụng/V máy_tính/N trên/E giường/N đệm/N để/E học/V hoặc/N giải_trí/V làm/V cho/R máy/N nhanh/A hỏng/A hơn/A do/E bị/V nóng/N bởi/E mặt_phẳng/N đệm/N hoặc/N chăn_gối/V ấp/N vào/V máy_tính/N khiến/V máy/N không_thể/V tản_nhiệt/V ra/R bên/N ngoài/N
+Dù/C giá/N thường/A chỉ/V bằng/E 23/M hoặc/N thấp/A hơn/R so/V với/E giá/N gốc/N máy_tính/N đã/R qua/V sử_dụng/N thường/R gặp/V những/L sự_cố/N sau/A
+Các/L cổng/N cắm/V thiết_bị/N như/C USB/Np micro/V loa/N cổng/N sạc/N thường/A chập_chờn/V lỏng_lẻo/N kết_nối/N không/R như_ý/A khi/N được/V khi_không/V
+Chai/N pin/N dẫn/V đến/R việc/N phải/V liên_tục/A cắm/V dây/N nguồn/N để/N sử_dụng/V
+Bụi/N bẩn/N nước/N vào/V trong/E máy/N tản_nhiệt/V kém/A gây/V nóng/A máy/N đơ/N
+Máy/N nóng/N dễ/A bị/V treo/V và/N phải/V liên_tục/A khởi_động/V lại/R
+Màn/N hính/N chớp/N tắt/V màu_sắc/N không/R chuẩn/A hoặc/N đèn/N màn_hình/N bị/V vàng/N đi/V trường_hợp/N này/P phải/V thay/V mới/A màn_hình/N
+Sự_cố/N thường/A gặp/V nhất_là/N keo/N làm/V mát/N không/R được/V thay/V mới/R làm/V máy/N dễ/N bị/V nóng/N và/CC bàn_phím/N bị/V hỏng/V bị/V kẹt/V liệt/N hoặc/N dễ/A tróc/V phím/N
+Một/M điểm/N cần/V chú_ý/N đặc_biệt/A là/V cấu_hình/N của/N máy/N
+Bạn/N cần/V chọn/V máy/N có/V cấu_hình/N phù_hợp/V với/E nhu_cầu/N sử_dụng/V của/E mình/N tránh/V trường_hợp/N lãng_phí/N do/E không/R sử_dụng/V hết/N công_suất/N hoặc/N tính/V già/N hoá/N non/A khi/N mua/V máy/N rẻ/A nhưng/C không/R đáp_ứng/V được/R nhu_cầu/N sử_dụng/V
+Đối_với/N sinh_viên/N chuyên_ngành/N đồ_hoạ/N hoặc/N công_nghệ_thông_tin/N thường/A phải/V sử_dụng/V máy_tính/N có/V tốc_độ/N cao/A bộ_xử_lí/N mạnh/A và/CC màn_hình/N rõ/N nét/N độ_phân_giải/N cao/A
+Dưới/E đây/N là/V một_số/N gợi_ý/V về/E thông_số/N máy/N
+Chip_Intel_Core/Np i3/M trở/V lên/V đời/N càng/R về/V sau/N tích_hợp/N đồ_hoạ/A càng/R tốt/A
+RAM/Np tối_thiểu/V 4/M 6GB/Nu trở/V lên/R mới/R thích_hợp/A cho/V ngành/N công_nghệ_thông_tin/N hoặc/N đồ_hoạ/V các/L ngành/N khác/A chỉ/R sử_dụng/V các/L thao_tác/N và/CC ứng_dụng/N văn_phòng/N như/C Word/Np Excel/Np hoặc/CC thuyết_trình/N chỉ/R cần/V RAM/Np từ/E 2/M 4GB/M
+Màn_hình/N tấm/N nền/N IPS/Np độ_phân_giải/V hơn/A 1600/M x/N 900px/M
+Ngoài_ra/C các/L bạn/N sinh_viên/N có/V điều_kiện/N có_thể/A lựa_chọn/V dòng/N laptop/N có/V card/N đồ_hoạ/N rời/V nếu/N theo/V ngành/N đồ_hoạ/N
+Để/E bảo_quản/V máy/N nhiều/A bạn/N thường/A có/V thói_quen/N không_những/N dán/V màn_hình/N mà_còn/N dán/V decal/N toàn_bộ/N thân/A máy/N
+Điều/N này/P khiến/V máy/N tản_nhiệt/V kém/A nếu/C gặp/V phải/A thợ/N không/R hiểu/V về/E máy_móc/N dán/V bịt/N kín/A các/L khe/N thoát/V nhiệt/N
+Ngoài_ra/C sinh_viên/N có_thể/R mua/V thêm/V một_vài/N phụ_kiện/A như/C bộ/N dụng_cụ/N làm/V sạch/A máy/N tấm/N để/E chuột/V tấm/N che/N bàn_phím/N để/E tránh/V bụi/N đế/N tản_nhiệt/N hoặc/N một/M cục/N loa/N nhỏ/A để/E tự/V bảo_quản/V máy/N được/R tốt/A hơn/R
+Có/V nên/N vừa/R cắm/V sạc/N vừa/R dùng/V máy/N
+Cho/V rằng/C pin/N chai/N là/V do/N vừa/R dùng/V máy/N vừa/R cắm/V sạc/V nhiều/A sinh_viên/N tự_động/A tháo/V cục/N pin/N trong/A máy/N ra/R và/N cắm/V dây/N nguồn/N vào/V sử_dụng/V
+Theo/E anh/Nc Trúc/Np đây/P là/V việc_làm/N không/A nên/V vì/E nếu/C không/R sử_dụng/V hoặc/N tháo/V ra/R mà/C không/R biết/V bảo_quản/V thì/C pin/N vẫn/R giảm/V tuổi_thọ/N
+Ngoài_ra/C pin/N còn/R có/V tác_dụng/N ổn_định/A nguồn/N điện/N và/CC bảo_vệ/V máy_tính/N đặc_biệt/A là/N tránh/V sập/V nguồn/N mà/C chưa/R kịp/V sao/N lưu/V dữ_liệu/N
+Khi/N máy_tính/N còn/V dưới/N 10/M hoặc/N 15/M tuỳ/N theo/V từng/N dòng/N máy/N sẽ/R có/V báo_hiệu/N pin/N yếu/A lúc/N đó/N bạn/N hãy/R cắm/V dây/N nguồn/N vào/V sạc/N và/CC tiếp_tục/V sử_dụng/V bình_thường/N kể_cả/N khi/N đầy/N pin/N cũng/R không/R rút/V sạc/N
+Tuy_nhiên/C khi/N tắt/V hẳn/N máy_tính/N thì_phải/N rút/V dây/N sạc/V ra/R khi/N pin/N đã/R đủ/V 100/M anh/N Trúc/Np chia_sẻ/V
+Với/E các/L dòng/N máy_tính/N hiện_nay/N khi/N pin/V đầy/A 100/M máy/N sẽ/R tự_động/A ngưng/V chế_độ/N sạc/V
+Ngoài_ra/C nhiều/A dòng/N máy/N hỗ_trợ/V phần_mềm/N để/E quản_lí/V và/CC kiểm_tra/V chế_độ/N sạc/V pin/N

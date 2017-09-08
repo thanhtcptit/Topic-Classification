@@ -1,0 +1,7 @@
+Thanh_niên/N cầm/V mũ_bảo_hiểm/N đánh/V cô_gái/N sau/A va_chạm/V xe/N
+Ngày/N 5/7/M Công_an/N TP/Np Biên_Hòa/Np /V Đồng_Nai/Np /V tạm/A giữ/V Ngô_Trọng_Tâm/Np /M 24/M tuổi/N ở/E TP/Np Biên_Hòa/Np /V để/E điều_tra/V hành_vi/N Hủy_hoại/V tài_sản/N
+Theo/E điều_tra/V ban_đầu/N chiều/N 25/6/M  /M ông/N Nguyễn_Thế_Khải/Np /M 68/M tuổi/N quê/N Bình_Dương/Np /V lái/V ôtô/N chở/V cháu/N gái/N 27/M tuổi/N đi/V trên/E Quốc_lộ/N 1K/Np hướng/N từ/E Bình_Dương/Np về/E Đồng_Nai/Np đã/R va/V quẹt/N với/E xe_máy/N của/E Tâm/Np
+Đuổi/V theo/E khoảng/N một/M km/Nu đến/E đường/N Cách_Mạng_Tháng_Tám/Np /V TP/Np Biên_Hòa/Np /M Tâm/Np bắt/V kịp/A cầm/V mũ_bảo_hiểm/N đập/V vỡ/V kính/N ôtô/N  /EOS
+Khi/N cô_gái/N xuống/V xe/N nói_chuyện/V thì/C bị/V thanh_niên/N này/P cầm/V mũ_bảo_hiểm/N đánh/V vào/E đầu/N gây/V thương_tích/N nhẹ/A
+Được/V người_dân/N can_ngăn/V anh_ta/N lên/V xe/N bỏ/V đi/V  /EOS
+Vụ_việc/N được/V người/N đi/V đường/N quay/V lại/R đưa/V lên/R mạng/N

@@ -1,0 +1,90 @@
+Ngưỡng/N điểm/N xét/V tuyển/V năm/N 2017/M của/E ĐH/Np Dược_Hà_Nội/Np ĐH/Np Hùng_Vương/Np Phú_Thọ/Np 
+Trường_Đại/Np học/V Dược_Hà_Nội/Np thông_báo/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N hệ/N chính_quy/V ngành/N Dược/Np tổ_hợp/N môn/N A00/M (/N Toán_học/N Vật_lý/N Hóa_học/N năm/N 2017/M là/V 22,0/M điểm/N 
+Trường/N ĐH/Np Hùng_Vương/Np Phú_Thọ/Np Thí_sinh/Np có/V kết_quả/N thi/V THPT/Np quốc_gia/N năm/N 2017/M đã/R được/V xét/V công_nhận/V tốt_nghiệp/V THPT/Np 
+Kết_quả/N thi/V của/E tổ_hợp/N các/L môn/N thi/V từ/E ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V theo/E quy_định/N được/V Bộ/N Giáo/N dục/V &/CC Đào_tạo/N 
+Thí_sinh/N tốt_nghiệp/V THPT/Np có/V tổng/N điểm/N 2/M học_kỳ/N lớp/N 12/M của/E 3/M môn/N thuộc/V tổ_hợp/N môn/N xét/V tuyển/V (/N chưa/R tính/V điểm/N ưu_tiên/V đạt/V 36.0/M trở_lên/A 
+Chỉ_tiêu/N tuyển_sinh/V dự_kiến/N tổ_hợp/N môn/N xét/V tuyển/V TT/Np Mã/Np ngành/N tên/N ngành/N đào_tạo/V Tổ_hợp/N môn/N bài/N thi/V xét/V tuyển/V Chỉ_tiêu/N Điểm/N tối_thiểu/A nhận/V đơn/N xét/V tuyển/V Điểm/N 3/M môn/N thi/V THPT/Np quốc_gia/N đã/R tính/V điểm/N ưu_tiên/V Điểm/N 2/M học_kỳ/N lớp/N 12/M của/E 3/M môn/N xét/V tuyển/V (/N chưa/R tính/V điểm/N ưu_tiên/V I_Các/Np ngành/N đào_tạo/V đại_học/N 865/M 1/M Sư_phạm/N Toán_học/N 52140209/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/M 3/M 
+Toán/N Hóa/Np Tiếng_Anh/Np D07/M 4/M 
+Toán/N Hóa/Np Sinh/Np B00/Np 270/M 15.5/M 2/M Sư_phạm/N Ngữ_Văn/Np 52140217/M 1/M 
+Văn/Np Sử/Np Địa/Np C00/M 2/M 
+Văn/Np Sử/Np Tiếng_Anh/Np D14/M 3/M 
+Văn/Np Địa/Np Tiếng_Anh/Np D15/M 4/M 
+Văn/Np Sử/Np GDCD/Np C19/Np 15.5/M 3/M Sư_phạm/N Tiếng_Anh/Np 52140231/M 1/M 
+Tiếng_Anh/Np Văn/Np Toán/Np D01/M 2/M 
+Tiếng_Anh/Np Văn/Np Địa/Np D15/M 3/M 
+Tiếng_Anh/Np Văn/Np Sử/Np D14/M 4/M 
+Tiếng_Anh/Np Văn/Np Lý/Np D11/Np 15.5/M 4/M Giáo_dục/N Tiểu_học/N 52140202/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Anh/Nc (/Np D01/M )/Nu 3/M 
+Văn/Np Sử/Np GDCD/Np C19/M 4/M 
+Văn/Np Sử/Np Địa/Np C00/Np 15.5/M 5/M Sư_phạm/N Vật_lý/N 52140211/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/M 3/M 
+Toán/N Lý/Np Văn/Np C01/M 4/M 
+Toán/N Hóa/Np Sinh/Np B00/Np 15.5/M 6/M Sư_phạm/N Hóa_học/N 52140212/M 1/M 
+Toán/N Hóa/Np Lý/Np A00/Np 2/M 
+Toán/N Hóa/Np Tiếng_Anh/Np D07/M 3/M 
+Toán/N Hóa/Np Văn/Np C02/M 4/M 
+Toán/N Hóa/Np Sinh/Np B00/Np 15.5/M 7/M Sư_phạm/N Sinh_học/N 52140213/M 1/M 
+Toán/N Sinh/Np Hóa/Np B00/M 2/M 
+Toán/N Sinh/Np Lý/Np A02/M 3/M 
+Toán/N Sinh/V Tiếng_Anh/Np D08/M 4/M 
+Toán/N Sinh/Np Văn/Np B03/Np 15.5/M 8/M Sư_phạm/N Địa_lý/N 52140219/M 1/M 
+Văn/Np Địa/Np Sử/Np C00/M 2/M 
+Văn/Np Địa/Np Tiếng_Anh/Np D15/M 3/M 
+Văn/Np Địa/Np Toán/Np C04/M 4/M 
+Văn/Np Địa/Np GDCD/Np C20/Np 15.5/M 9/M Sư_phạm/N Sử/Np GDCD/Np 52140218/M 1/M 
+Văn/Np Sử/Np Địa/Np C00/M 2/M 
+Văn/Np Sử/Np Tiếng_Anh/Np D14/M 3/M 
+Văn/Np Sử/Np Toán/Np C03/M 4/M 
+Văn/Np Sử/Np GDCD/Np C19/Np 15.5/M 10/M Giáo_dục/N Mầm_non/N 52140201/M Văn/Np Toán/Np thi/V năng_khiếu/V (/N M00/Np Năng_khiếu/N hệ_số/N 2/M gồm/V Kể/V chuyện/N đọc/V diễn_cảm/N Hát/V 
+120/M Hồ_sơ/N thi/V năng_khiếu/V 11/M Giáo_dục/N Thể_chất/N 52140206/M Toán/Np Sinh/Np thi/V năng_khiếu/V (/N T00/Np Năng_khiếu/N hệ_số/N 2/M gồm/V Bật/V xa/A tại_chỗ/A Chạy/V 100m/M 
+12/M Sư_phạm/N Âm_nhạc/N 52140221/M Văn/Np Năng_khiếu/Np thẩm_âm/V tiết_tấu/N Năng_khiếu/N thanh_nhạc/V (/N N00/Np Năng_khiếu/N thanh_nhạc/N hệ_số/N 2/M 13/M Sư_phạm/N Mỹ_Thuật/Np 52140222/M Văn/Np Năng_khiếu/Np vẽ/V màu/N Năng_khiếu/N hình_họa/N H00/Np Năng_khiếu/N hình_họa/N hệ_số/N 2/M 14/M Kế_toán/N 52340301/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Tiếng_Anh/Np D01/M 3/M 
+Toán/N Hóa/N Sinh/V B00/M )/Nu 4/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/Np 130/M 15.5/M 36.0/M 15/M Quản_trị/V kinh_doanh/V 52340101/M )/Nu 15.5/M 36.0/M 16/M Tài_chính/N –/N Ngân_hàng/N 52340201/M 15.5/M 36.0/M 
+17/M Quản_trị/V dịch_vụ/N du_lịch/V và/CC lữ_hành/V (/N 52340103/M 1/M 
+Văn/Np Sử/Np Địa/Np C00/M 2/M 
+Văn/Np Toán/Np Tiếng_Anh/Np D01/M 3/M 
+Văn/Np Địa/Np GDCD/Np C20/M 4/M 
+Văn/Np Địa/Np Tiếng_Anh/Np D15/Np 15.5/M 36.0/M 18/M Khoa_học/N Cây_trồng/N 52620110/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Sinh/V Tiếng_Anh/Np D08/M 3/M 
+Toán/N Hóa/N Sinh/V B00/M )/Nu 4/M 
+Toán/N Hóa/Np Tiếng_Anh/Np D07/Np 180/M 15.5/M 36.0/M 19/M Chăn_nuôi/N (/N Chăn_nuôi/V Thú_y/N (/N 52620105/M )/Nu 15.5/M 36.0/M 20/M Thú_y/N 52640101/M 15.5/M 36.0/M 21/M Công_nghệ/N Kỹ_thuật/N điện/N điện_tử/N 52510301/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Tiếng_Anh/Np D01/M 3/M 
+Toán/N Lý/Np Văn/Np C01/M 4/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/Np 15.5/M 36.0/M 22/M Công_nghệ/N Kỹ_thuật/N Cơ_khí/N 52510201/M 15.5/M 36.0/M 23/M Công_nghệ/N Thông_tin/N 52480201/M 15.5/M 36.0/M 24/M Kinh_tế/N Nông_nghiệp/N 52620115/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Tiếng_Anh/Np D01/M 3/M 
+Toán/N Hóa/N Sinh/V B00/M )/Nu 4/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/Np 15.5/M 36.0/M 25/M Hướng_dẫn_viên/N du_lịch/V 52220341/M 1/M 
+Văn/Np Sử/Np Địa/Np C00/M 2/M 
+Văn/Np Toán/Np Tiếng_Anh/Np D01/M 3/M 
+Văn/Np Địa/Np GDCD/Np C20/M 4/M 
+Văn/Np Địa/Np Tiếng_Anh/Np D15/Np 165/M 15.5/M 36.0/M 26/M Công_tác/N Xã_hội/N 52760101/M 15.5/M 36.0/M 27/M Việt_Nam/N học/V (/N 52220113/M )/Nu 15.5/M 36.0/M 28/M Ngôn_ngữ/N Trung_Quốc/Np 52220204/M 1/M 
+Tiếng_Anh/Np Văn/Np Toán/Np D01/M 2/M 
+Tiếng_Anh/Np Văn/Np Sử/Np D14/M 3/M 
+Tiếng_Anh/Np Văn/Np Địa/Np D15/M 4/M 
+Tiếng_Trung/Np Văn/Np Toán/Np D04/Np 15.5/M 36.0/M 29/M Ngôn_ngữ/N Anh/N 52220201/M 1/M 
+Tiếng_Anh/Np Văn/Np Toán/Np D01/M 2/M 
+Tiếng_Anh/Np Văn/Np Sử/Np D14/M 3/M 
+Tiếng_Anh/Np Văn/Np Địa/Np D15/M 4/M 
+Tiếng_Anh/Np Văn/Np Lý/Np D11/Np 15.5/M 36.0/M 30/M Kinh_tế/N Kinh_tế/N đầu_tư/V (/Nu 52310101/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Tiếng_Anh/Np D01/M 3/M 
+Toán/N Hóa/N Sinh/V B00/M )/Nu 4/M 
+Toán/N Lý/Np Tiếng_Anh/Np A01/Np 15.5/M 36.0/M 
+II/M 
+Đào_tạo/N cao_đẳng/A 100/M 1/M Giáo_dục/N Tiểu_học/N 51140202/M 1/M 
+Toán/N Lý/Np Hóa/Np A00/M 2/M 
+Toán/N Văn/Np Anh/Nc (/Np D01/M )/Nu 3/M 
+Văn/Np Sử/Np GDCD/Np C19/M 4/M 
+Văn/Np Sử/Np Địa/Np C00/M 50/M 10.0/M 2/M Giáo_dục/N Mầm_non/N 51140201/M Văn/Np Toán/Np thi/V năng_khiếu/V (/N M00/Np Năng_khiếu/N hệ_số/N 2/M gồm/V Kể/V chuyện/N đọc/V diễn_cảm/N Hát/V 
+50/M Hồ_sơ/N thi/V năng_khiếu/N Xét/V trúng_tuyển/V theo/E tổng/N điểm/N đã/R tính/V điểm/N ưu_tiên/V từ/E cao/A xuống/R thấp/A cho_đến/E hết/V chỉ_tiêu/N 
+Thông_báo/V kết_quả/N trúng_tuyển/V ngày/N 01/8/2017/M tại/E bảng/N tin/N và/CC website/N trường/N www/N hvu.edu.vn/V 
+Hồng_Hạnh/Np 

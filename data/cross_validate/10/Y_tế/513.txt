@@ -1,0 +1,15 @@
+Bệnh_nhân/N tử_vong/V một/M ngày_sau/N phẫu_thuật/V thay/V chỏm/N xương/N đùi/N
+Gia_đình/N bệnh_nhân/N bức_xúc/A cho/V rằng/C sự/Nc tắc_trách/V của/E y_bác_sĩ/N khiến/V bà/N Hồng/Np tử_vong/V nên/C đã/R kéo/V đến/R vây/V bệnh_viện/N và/CC đề_nghị/V công_an/N điều_tra/V làm/V rõ/A trách_nhiệm/N  /EOS
+Chị/Nc Bùi_Thị_Kim_Ái/Np con_gái/N bà/N Hồng/Np cho_biết/V rạng/A sáng/N 9/7/M mẹ/N mình/P bị/V ngã/V nên/C gia_đình/N đưa/V đi/R cấp_cứu/V tại/E Bệnh_viện/N Việt_Nam/Np Thụy_Điển_Uông_Bí/Np
+Bác_sĩ/N chẩn_đoán/V bà/N bị/V gãy/V mỏm/V xương/N đùi/N phải/V phẫu_thuật/V để/E thay/V
+“/N Các/L bác_sĩ/N khẳng_định/V mẹ/N tôi/P đủ/A sức_khỏe/N để/E làm/V phẫu_thuật/V ”/M chị/N Ái/Np nói/V
+Ngày/N 12/7/M ca/N phẫu_thuật/V thay/V chỏm/N xương/N đùi/N cho/E bà/N Hồng/Np diễn/V ra/R kéo_dài/V gần/A 2/M giờ/Nu
+Chiều/N cùng/A ngày/N bà/N Hồng/Np được/V chuyển/V xuống/R Phòng_Hồi/Np sức/N Tích_cực/A  /M Chị/N
+Bùi_Thị_Thanh/Np người/Nc con/N khác/A của/E bà/Nc Hồng/Np bức/Nc xức/N nói/V  /M “/N Tôi/P ngồi/V trực/V bên/N mẹ/N thấy/V có/V nhiều/A dấu_hiệu/N bất_thường/A máy_móc/N liên_tục/A kêu/V tít/R tít/A chỉ_số/N trên/E máy/N có/V nhiều/A khi/N bất_ngờ/A vượt/V lên/R 120/M đến/E 130/M
+Tôi/P hỏi/V thì/C bác_sĩ/N nói/V cứ/R từ_từ/A sẽ/R trả_lời/V sau/A và/CC bỏ/V đi/V
+Chị/Nc Thanh/Np cho_biết/V hỏi/V một/M điều_dưỡng/N tại_sao/X máy/N lại/R kêu/V to/A thì/C người/N này/P cũng/R bác/N đi/V ý_kiến/N của/E chị/N
+Trao_đổi/V với/E VnExpress t/Np ông/Nc Trần_Viết_Tiệp/Np Giám_đốc/N Bệnh_viện/N Việt_Nam/Np Thụy_Điển_Uông_Bí/Np cho_biết/V trưa/N nay/P công_tác/N khám_nghiệm/V tử_thi/N đã/R kết_thúc/V
+Thi_thể/N bà/Nc Hồng/Np được/V bàn_giao/V cho/E gia_đình/N đưa/V về/R lo/V hậu_sự/N
+“/M Kết_quả/N khám_nghiệm/V tử_thi/N bước_đầu/N phát_hiện/V một/M cục/N máu/N đông/A trong/E động_mạch/N phổi/N bệnh_nhân/N là/V nguyên_nhân/N gây/V tử_vong/V
+Đây/P là/V dấu_hiệu/N nhồi/V máu/N phổi/N biến_chứng/N có_thể/A xảy/V trong/E trường_hợp/N mổ/V khớp/N háng/V hoặc/CC mổ/V tử_cung/N ”/A ông/Nc Tiệp/Np nói/V
+Hiện/N mọi/L kết_luận/N cuối_cùng/A phải/V đợi/V cơ_quan/N điều_tra/V công_bố/V

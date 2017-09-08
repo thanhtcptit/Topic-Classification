@@ -1,0 +1,12 @@
+Nga/Np bác/N cáo_buộc/V hacker/N đứng/V sau/E khủng_hoảng/N Qatar/Np
+Ngày/N 6/6/M CNN/Np đưa/V tin/N Cục/N Điều/N tra/V Liên_bang/N Mỹ/Np /V FBI/Np /V cho/V rằng/C Nga/Np đứng/V sau/E vụ/N xâm_nhập/V hãng/N thông_tấn/V Qatar/Np tung/V tin_tức/N giả_mạo/A gây/V bất_đồng/V giữa/E Qatar/Np với/E Mỹ/Np và/CC các/L nước/N trong/E khu_vực/N  /M FBI/Np đã/R gửi/V các/L nhà/N điều_tra/V đến/E Doha/Np để/E giúp/V chính_phủ/N Qatar/Np điều_tra/V sự_cố/N về/V hacker/N
+Thông_tin/N thu_thập/V được/R cho/V thấy/V hacker/N Nga/Np có/V liên_quan/V đến/E vụ/N xâm_nhập/V hệ_thống/N lần/N đầu_tiên/A cách/V đây/P hai/M tuần/N báo_cáo/V cho_biết/V
+Tuy_nhiên/C chính_phủ/N Nga/Np phủ_nhận/V mọi/N cáo_buộc/V
+Người_phát_ngôn/N của/E Tổng_thống/N Nga_Dmitry_Peskov/Np cho/V rằng/C không/R có/V bằng_chứng/N hacker/N Nga/Np tham_gia/V vào/E vụ/N bẻ_khóa/V máy_chủ/N của/E hãng/N thông_tấn/V quốc_gia/N Qatar/Np
+Ngày/N 23/5/M trên/E trang/N của/E Hãng/N thông_tấn/V Qatar/Np xuất_hiện/V bài/N viết/V ca_ngợi/V Iran/Np đồng_thời/R nghi_ngờ/V mối/N quan_hệ/N với/E Mỹ/Np
+Lập_tức/N sáu/M nước/N Arab/Np tuyên_bố/V cắt/V đứt/V quan_hệ/N kinh_tế/N và/CC chính_trị/N với/E Qatar/Np kéo_theo/V cuộc/N khủng_hoảng/V toàn_diện/A
+Một_số/L quốc_gia/N đã/R rút/V đại_sứ/N về/E nước/N thậm_chí/R đóng_cửa/V biên_giới/N
+Theo/E Atlantic/Np các/L nước/N trên/E phản_ứng/N như_vậy/X là/V do/E bài/N báo/N xuất_hiện/V vào/E thời_điểm/N nhạy_cảm/A đúng/A lúc/N có/V nghi_vấn/N Qatar/Np tài_trợ/V cho/E khủng_bố/V  /M Hãng/N
+thông_tấn/V  /M Qatar/Np sau/E đó/P cho_hay/V website/N của/E họ/P bị/V tấn_công/V để/E phát_tán/V tin_tức/N giả_mạo/V nên/C đã/R mời/V các/L chuyên_gia/N từ/E FBI/Np điều_tra/V
+Ngày/N 9/6/M Al-Jazeera/Np đài_truyền_hình/N hàng_đầu/N của/E Qatar/Np và/CC có/V trụ_sở/N tại/E Doha/Np cũng/R cho_biết/V đang/R phải/V nỗ_lực/V chống/V một/M cuộc/N tấn_công/V mạng/N quy_mô/N lớn/A trên/E tất_cả/P hệ_thống/N trang_web/N và/CC nền_tảng/V mạng/N xã_hội/N của/E họ/P
+Âm_mưu/N của/E hacker/N tạm_thời/A không/R thành_công/V nên/C các/L bộ_phận/N của/E Al-Jazeera/Np hiện/N chưa/R bị/V khống_chế/V và/CC vẫn/R hoạt_động/V bình_thường/A

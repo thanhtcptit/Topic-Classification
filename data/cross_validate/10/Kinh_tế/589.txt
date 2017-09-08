@@ -1,0 +1,19 @@
+Tiền/N đồng/N bị/V định_giá/V yếu/A vì/E một/M chiếc/Nc hamburger/N
+Tạp_chí/N The_Economist/Np vừa/R công/V chỉ_số/N Big_Mac/Np năm/N nay/P
+Theo/E đó/P một/M chiếc/Nc Big_Mac/Np tại/E Việt_Nam/Np có_giá/A 60 0/M đồng/Nu tương_đương/A khoảng/A 2,64/M USD/Nu
+Trong/E khi/N đó/P giá/N này/P tại/E Mỹ/Np là/V 5,3/M USD/Nu
+Dựa/V trên/E thuyết/N ngang/A giá/N sức_mua/N /A PPP/Np /A các/L chuyên_gia/N cho/V rằng/C tiền/N đồng/N đang/R bị/V định_giá/V thấp/A hơn/R 50,2%/M so/V với/E đôla/N Mỹ/Np
+Con_số/N này/P ngày_càng/X lớn/A so/V với/E các/L lần/N tính_toán/V trước/N của/E Economist/Np
+Tỷ_giá/N chính_thức/A được/V tạp_chí/N này/P sử_dụng/V tại/E thời_điểm/N tính/N là/V 22 3/M đồng/Nu đổi/V một/M USD/Nu
+Nhưng/C theo/E PPP/Np với/E sản_phẩm/N là/V Big_Mac/Np con_số/N này/P chỉ/R là/V 11 1/M đồng/Nu
+Công_bố/V lần/N đầu/N năm/N 1986/M dựa/V trên/E thuyết/N ngang/A giá/N sức_mua/N /M PPP/Np /M chỉ_số/N này/P tính/V giá/N Big_Mac/Np loại/Nc hamburger/N phổ_biến/A nhất/A của/E McDonald/Np ’/V s/N tại/E các/L quốc_gia/N trên/E thế_giới/N để/E chỉ/R ra/V đồng_tiền/N nước/N đó/P đang/R bị/V định_giá/V cao/A hay/C thấp/A
+Nguyên_tắc/N /V theo/E PPP/Np /V là/V trong/E dài_hạn/A tỷ_giá/A nên/C biến_động/V theo/E hướng/N khiến/V giá/N hai/M mặt_hàng/N hoặc/CC dịch_vụ/N giống/V nhau/N tại/E 2/M nước/N phải/V bằng/V nhau/N
+Ví_dụ/V một/M chiếc/Nc bánh/N Big_Mac/Np tại/E Mỹ/Np hiện/N có_giá/A 5,3/M USD/Nu còn/V tại/E Trung_Quốc/Np là/V 2,92/M USD/Nu theo/E tỷ_giá/N chính_thức/A
+Như_vậy/C NDT/Nu đang/R bị/V định_giá/V thấp/A hơn/R 45%/M
+Tuy_vậy/C các/L chuyên_gia/N của/E The_Economist/Np cho_biết/V chỉ_số/N này/P không/R được/V tạo/V ra/R để/E làm/V thước_đo/N chính_xác/A xem/V giá_trị/N một/M đồng_tiền/N sai_lệch/A thế_nào/P
+Nó/P chỉ/R giúp/V các/L lý_thuyết/N kinh_tế/N dễ/A hiểu/V hơn/R mà/T thôi/T
+Dù_vậy/C Big_Mac_Index/Np đã/R trở_thành/V chuẩn_mực/N toàn_cầu/N được/V đưa/V vào/E một_số/L cuốn/Nc sách/N kinh_tế/N và/CC còn/R là/V chủ_đề/N của/E 20/M nghiên_cứu/N hàn_lâm/N
+McDonald/Np V s/N mở_cửa/V hàng/N tại/E Việt_Nam/Np năm/N 2014/M
+Đây/P là/V lần/N đầu_tiên/A sau/E hai/M thập_kỷ/N tập_đoàn/N đồ_ăn/V nhanh/A hàng_đầu/N thế_giới/N gia_nhập/V một/M thị_trường/N Đông_Nam/N Á/Np
+Sau/E đó/P vài/L ngày/N tạp_chí/N The_Economist/Np đã/R bổ_sung/V tiền/N đồng/N vào/V Big_Mac_Index/Np
+Hiện/N chỉ_số/N này/P theo_dõi/V giá/N Big_Mac/Np tại/E 48/M nền/N kinh_tế/N trên/E thế_giới/N

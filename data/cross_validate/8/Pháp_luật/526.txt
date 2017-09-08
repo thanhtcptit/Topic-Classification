@@ -1,0 +1,18 @@
+Bộ/N Tư/Np pháp/V Chưa/R bỏ/V ngay/R N giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N M
+Chính_phủ/N vừa/R ban_hành/V Nghị_quyết/N 58/NQ-CP/Np về/V đơn_giản_hóa/V thủ_tục/N hành_chính/N giấy_tờ/N công_dân/N liên_quan/V quản_lý/V dân_cư/N thuộc/V phạm_vi/N chức_năng/N quản_lý_nhà_nước/V của/E Bộ/N Tư/Np pháp/V
+Trong/E đó/P có/V việc/N bỏ/V giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N khi/N đăng_ký/V kết_hôn/V  /V bỏ/V quy_định/N xuất_trình/V giấy/N chứng_nhận/V kết_hôn/N của/E cha_mẹ/N trong/E thủ_tục/N đăng_ký/V khai_sinh/V cho/E con/N
+Nghị_quyết/N có/V hiệu_lực/N từ/E 4/7/M tuy_nhiên/C ngày/N 10/7/M trả_lời/V báo_giới/V Thứ_trưởng/N Bộ/N Tư/Np pháp/V Nguyễn_Khánh_Ngọc/Np cho_biết/V  /A việc/N áp_dụng/V sẽ/R tiến_hành/V khi/N cơ_sở_dữ_liệu/N quốc_gia/N về/E dân_cư/N được/V hoàn_thiện/V kết_nối/V với/E cơ_sở_dữ_liệu/N hộ_tịch/V điện_tử/N cũng_như/C cơ_sở_dữ_liệu/N khác/A  /M Đây/P là/V định_hướng/V triển_khai/V công_việc/N chứ/C không/R phải/V bỏ/V ngay/T ông/Nc Ngọc/Np nói/V
+Thứ_trưởng/N giải_thích/V Luật/N  /M Hộ_tịch/N dự_kiến/V chậm/A nhất/A đến/E ngày/N 1/1/2020/M có/V hiệu_lực/N khi/N đó/P cơ_sở_dữ_liệu/N quốc_gia/N về/E dân_cư/N do/E Bộ/N Công/N an/M soạn_thảo/V mới/R hoàn_thiện/V
+Thông_tin/N quản_lý/V dân_cư/N đều/R có/V trong/E cơ_sở_dữ_liệu/N này/P nên_người/V dân/N sẽ/R không/R cần/V xuất_trình/V các/L loại/N giấy_tờ/N như/C giấy/N chứng_nhận/V kết_hôn/N giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N
+khi/N làm/V thủ_tục/N
+Ông/Nc Nguyễn_Công_Khanh/Np /V Cục_trưởng/N Cục/N Quốc/Np tịch/V hộ_tịch/V và/CC chứng_thực/V /N cho_biết/V không_chỉ/C Nghị_quyết/N 58/M chờ/V cơ_sở_dữ_liệu/N quốc_gia/N về/E dân_cư/N mà/C nhiều/A quy_định/N khác/A cũng/R đang/R đợi/V
+Về/V cơ_sở_dữ_liệu/N hộ_tịch/N Bộ/N Tư/Np pháp/V đã/R thực_hiện/V thí_điểm/V tại/E 15/M tỉnh/N trong/E năm/N nay/P triển_khai/V thêm/R 13/M tỉnh/N
+Khi/N dữ_liệu/N hộ_tịch/N và/CC dữ_liệu/N dân_cư/N được/V đồng_bộ/A kết_nối/V sẽ/R còn/V giảm/V tiếp/V được/R nhiều/A thủ_tục/N chi_phí/N đại_diện/N Bộ/N Tư/Np pháp/V nói/V “/A Về/E lý_thuyết/N một_số/L địa_phương/N có_thể/A giảm/V được/R vài/L loại/N giấy_tờ/N ngay/T từ/E bây_giờ/P
+Ví_dụ/V tại/E Hà_Nội/Np nếu/C bạn/N đi/V xin/V trích_lục/V cho/E trẻ/N khai_sinh/V từ/E 1/1/2016/M chỉ/R cần/V điền/N vào/E tờ/N khai/V nói/V số/N định_danh/N của/E trẻ/N thì/C hệ_thống/N sẽ/R cho/V ngay/R kết_quả/N
+Bố_mẹ/N không/R phải/V trình/V bất_cứ/R giấy_tờ/N gì/P ”/A ông/N Khanh/Np cho_biết/V
+Chính_phủ/N ra/V Nghị_quyết/N 58/NQ-CP/Np  /V bãi_bỏ/V gần/A 20/M thủ_tục/N bao_gồm/V Trong/E lĩnh_vực/N chứng_thực/V Bỏ/V quy_định/N yêu_cầu/V người/N chứng_thực/V nộp/V bản_sao/N giấy_tờ/N tùy_thân/V
+Lĩnh_vực/N quốc_tịch/N Bỏ/V thủ_tục/N thông_báo/N có/V quốc_tịch/N nước_ngoài/N
+Lĩnh_vực/N hộ_tịch/V Bỏ/V thủ_tục/N cấp/N giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N
+Đăng_ký/V khai_sinh/V Bỏ/V quy_định/N xuất_trình/V giấy/N chứng_nhận/V kết_hôn/N của/E cha/N mẹ/N trẻ_em/N
+Đăng_ký/V kết_hôn/V đăng_ký/V kết_hôn/N có/V yếu_tố/N nước_ngoài/N Bỏ/V quy_định/N nộp/V giấy/N xác_nhận/V tình_trạng/N hôn_nhân/N trích_lục/N ghi_chú/V ly_hôn/N
+Chính_phủ/N giao/V Bộ/N Tư/Np pháp/V phối_hợp/V với/E các/L bộ/N cơ_quan/N có/V liên_quan/V sửa_đổi/A bổ_sung/V hoặc/CC bãi_bỏ/V thủ_tục/N hành_chính/N giấy_tờ/N công_dân/N để/E ban_hành/V theo/E thẩm_quyền/N hoặc/CC trình/V cấp/N có/V thẩm_quyền/N ban_hành/V phù_hợp/V với/E thời_điểm/N hoàn_thành/V vận_hành/V của/E Cơ_sở_dữ_liệu/Np quốc_gia/N về/V dân_cư/N

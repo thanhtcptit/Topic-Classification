@@ -1,0 +1,8 @@
+Toà_án/N nhân_dân/N tối_cao/A có/V 2/M thẩm_phán/N mới/A
+Theo/E đề_nghị/N của/E Chánh_án/N TAND/Np tối_cao/N Nguyễn_Hoà_Bình/Np Quốc_hội/N đã/R thông_qua/V nghị_quyết/N phê_chuẩn/V các/L ông/N Lê_Hồng_Quang/Np và/CC Nguyễn_Văn_Tiến/Np làm/V thẩm_phán/N
+Trước/E khi/N bấm/V nút/N thông_qua/V nghị_quyết/N vào/E sáng/N nay/P 196/M Quốc_hội/N đã/R tiến_hành/V bỏ_phiếu/V kín/A để/E phê_chuẩn/V kết_quả/N các/L ông/N Lê_Hồng_Quang/Np Nguyễn_Văn_Tiến/Np đều/R nhận/V được/R đa_số/N phiếu/N chấp_thuận/N của/E đại_biểu/N Quốc_hội/N
+Theo/E nghị_quyết/N các/L ông/N Lê_Hồng_Quang/Np Nguyễn_Văn_Tiến/Np sẽ/R trở_thành/V thẩm_phán/N TAND/Np tối_cao/A từ/E ngày/N 172017/M
+Ông/Nc Lê_Hồng_Quang/Np sinh/V năm/N 1968/M quê/N Kiên_Giang/Np từng/R được/V bổ_nhiệm/N làm/V thẩm_phán/N TAND/Np tối_cao/N Tổng/N biên_tập/V tạp_chí/N toà_án/V trước/E khi/N được/V điều_động/N luân_chuyển/V làm/V Phó/N bí_thư/N thường_trực/N Tỉnh/N uỷ/N Tiền_Giang/Np được/V bầu/V làm/V Uỷ_viên/N Trung_ương/N Đảng/Np
+Ông/Nc Nguyễn_Văn_Tiến/Np sinh/V năm/N 1966/M từng/N giữ/V chức_vụ/N Phó/N chánh_án/N TAND/Np cấp/V cao/N tại/N Đà_Nẵng/Np trước/E khi/N được/V điều_động/V bổ_nhiệm/N giữ/V chức_vụ/N Phó/N chánh_án/N TAND/Np cấp/V cao/N tại/N Hà_Nội/Np
+Theo/E luật_định/N số_lượng/N thành_viên/N Hội_đồng/N Thẩm_phán/N Toà_án/N nhân_dân/N tối_cao/A không/R dưới/A 13/M người/N và/CC không/R quá/V 17/M người/N
+gồm/V Chánh_án/N các/L Phó_Chánh_án/N Toà/Np nhân_dân/N tối_cao/A là/V Thẩm_phán/N Toà_án/N nhân_dân/N tối_cao/A và/CC các/L Thẩm_phán/N Toà_án/N nhân_dân/N tối_cao/A

@@ -1,0 +1,84 @@
+Giá/N iPhone/M 6S/N 6S/M Plus/Np chính/N hãng/N các/L nơi/N lệch/N nhau/N
+Giá/N bán/V có/V điều_chỉnh/N giảm/V nhẹ/N từ/E chiều/N 3010/M
+Hơn/A 1000/M lượt/N đặt/V hàng/N iPhone/M trong/E 21/M giờ/Nu
+Đến/E 21g/M ngày/N 3010/M số/N lượng/N đặt_hàng/N tại/V chuỗi/N cửa_hàng/N Thế_giới/N Di/Np động/V đạt/V 602/M trong/E đó/N có/V 324/M người/N đặt_hàng/V cam_kết/V chắc_chắn/A mua/V
+Tỉ_lệ/N chắc_chắn/A mua/V đặt_hàng/N iPhone/M 6S/N màu/N vàng/N Gold/Np chiếm/V 429/M kế/N đến/V là/V màu/N hồng/N Rose_Gold/Np chiếm/V 3025/M
+Tỉ_lệ/N mua/V iPhone/N 6S/M Plus_Rose_Gold/Np 64GB/M chiếm/N 37/M cao/A nhất/R so/V với/E lượng/N đặt_hàng/N các/L phiên_bản/N khác/A
+Về/E phía/N FPT/Np Shop/Np và/CC FS/Np tudio/V by/N FPT/Np ghi_nhận/V có/V hơn/N 1000/M lượng/N đặt_hàng/N trước/A trong/N đó/N có/V 604/M người/N đặt_cọc/V xác_nhận/V mua/V
+Hiện/N chưa/R có/V số_liệu/N thống_kê/V tỉ_lệ/N mua/V các/L phiên/N bản/N iPhone/N 6S/N và/CC iPhone/N 6S/M Plus/Np
+Xem/V iPhone/N 6S/N và/CC iPhone/N 6S/N Plus/Np vào/V nước/N sẽ/R ra/V sao/P
+Chạy/V đua/V điều_chỉnh/N giá/N
+So/V với/E giá/N bán/V dự/N kiến/N hai/M ngày_trước/N khi/N mở/V đặt_hàng/N giá/N hiện_tại/N có/V điều_chỉnh/N nhẹ/N
+Cả/P ba/M chuỗi/N cửa_hàng/N bán/V lẻ/N điện_thoại/N di/V động/V gồm/V Thế_giới/N Di/Np động/V FPT/Np Shop/Np và/CC Viễn_Thông/Np A/Np đều/R tung/V ra/E các/L tuỳ/N chọn/V bảo_hành/N và/CC gói/V ưu/N đãi/N đi/V kèm/V
+Viễn_Thông/Np A/Np giảm/V 360000/M VNĐ/M cho/N dòng/N iPhone/N 6S/N Plus/Np 128GB/Np và/CC 160000/M VNĐ/N cho/V iPhone/N 6S/M trong/E chiều/N ngày/N 3010/M
+Cụ_thể/N bảng/N giá/N đặt_hàng/V trước/N tại/E Viễn_Thông/Np A/Np chiều/N 3010/M
+Sản_phẩm/N
+Dung_lượng/N
+Vàng/N hồng/N VNĐ/N
+Vàng/N VNĐ/N
+BạcXám/N VNĐ/N
+iPhone/M 6S/N
+16GB/M
+18850000/M
+18790000/M
+18690000/M
+64GB/M
+21780000/M
+21750000/M
+21690000/M
+128GB/M
+24690000/M
+24650000/M
+24650000/M
+iPhone/N 6S/M Plus/Np
+16GB/M
+21780000/M
+21750000/M
+21690000/M
+64GB/M
+24680000/M
+24650000/M
+24650000/M
+128GB/M
+27490000/M
+27450000/M
+27450000/M
+Về/E phía/N FPT/Np Shop/Np và/CC FS/Np tudio/V by/N FPT/Np giá/N dự/V kiến/N đến/E chiều/N ngày/N 3010/M giảm/N mạnh/A nhất/A ở/E dòng/N iPhone/N 6S/N Plus/Np 128GB/M giảm/N 500000/M VNĐ/N kế/V đến/R là/V các/L mức/N giảm/N 300000/M VNĐ/M cho/N iPhone/M 6S/N Plus/Np 64GB/Np và/CC iPhone/N 6S/M 128GB/N
+Bảng/N giá/N không/R phân_biệt/V các/L phiên_bản/N màu_sắc/N cụ_thể/A như/C sau/N
+SẢN/M PHẨM/N
+DUNG/Np LƯỢNG/M
+GIÁ/N BÁN/V LẺ/N DỰ/V KIẾN/N VNĐ/M
+iPhone/M 6S/N
+16GB/M
+18899000/M
+64GB/M
+21799000/M
+128GB/M
+24699000/M
+iPhone/N 6S/M Plus/Np
+16GB/M
+21799000/M
+64GB/M
+24699000/M
+128GB/M
+27499000/M
+Tương_tự/N FPT/Np Shop/Np Thế_giới/N Di/Np động/V cho/V đặt_hàng/V trước/N với/E giá/N bán/V không/R phân_biệt/V phiên_bản/N màu_sắc/N
+Giá/N bán/V dự_kiến/N chiều/N ngày/N 3010/M như/N bên/N dưới/N
+SẢN/M PHẨM/N
+DUNG/Np LƯỢNG/M
+GIÁ/N BÁN/V LẺ/N DỰ/V KIẾN/N VNĐ/M
+iPhone/M 6S/N
+16GB/M
+18890000/M
+64GB/M
+21790000/M
+128GB/M
+24690000/M
+iPhone/N 6S/M Plus/Np
+16GB/M
+21790000/M
+64GB/M
+24690000/M
+128GB/M
+27490000/M
+Theo/E thông_tin/N ban/N đầu/N những/L khách/N hàng/N đặt/V mua/V ngày/N 3010/M sẽ/N nhận/V iPhone/N 6S/N và/CC iPhone/N 6S/N Plus/Np chính/A hãng/N vào/E ngày/N 611/M

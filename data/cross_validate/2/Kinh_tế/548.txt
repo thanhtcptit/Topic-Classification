@@ -1,0 +1,5 @@
+Công_ty/N TANIMEX/Np chào_bán/V 2,4/M triệu/N cổ_phiếu/V phổ_thông/N
+Công_ty/N Cổ_phần/N Sản_xuất/V kinh_doanh/V xuất_nhập_khẩu/V Dịch_vụ/N và/CC Đầu_tư/V Tân_Bình/Np /V TANIMEX/Np /V cho_biết/V sẽ/R chào_bán/V 2,4/M triệu/N cổ_phiếu/V phổ_thông/N
+Giá/N bán/V công_chúng/N là/V 20 0/M đồng/Nu một/M cổ_phiếu/N nhằm/V huy/V đồng/N khoảng/N 48/M tỷ/N đồng/N
+Theo/E lãnh_đạo/N doanh_nghiệp/N toàn_bộ/L số/N tiền/N dự_kiến/V thu/V được/R từ/E đợt/N phát_hành/V được/R dùng/V để/E đầu_tư/V xây_dựng/V kho/N xưởng/N cho/V thuê/V
+Thời_hạn/N nhận/V đăng_ký/V mua/V và/CC nộp/V tiền/N từ/E ngày/N 4/7/M đến/E ngày/N 24/7/2017/M

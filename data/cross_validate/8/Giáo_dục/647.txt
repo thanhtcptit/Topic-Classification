@@ -1,0 +1,8 @@
+Đại_học/N Y_dược/N TP_HCM/Np tăng/V 160/M chỉ_tiêu/N
+Theo/E đề_án/N tuyển_sinh/V hệ/N chính_quy/A của/E Đại_học/N Y_dược/N TP_HCM/Np vừa/R được/V công_bố/V trường/N này/P tuyển_sinh/V trên/E cả/P nước/N với/E tổng/N chỉ_tiêu/N 1 0/M tăng/V 160/M chỉ_tiêu/N so/V với/E năm_ngoái/N
+Có/V 5/M ngành/N giữ/V nguyên/A chỉ_tiêu/N cũ/A gồm/V Y/N đa_khoa/A 400/M Răng_hàm/N mặt/N 100/M Y_học/N cổ_truyền/A 150/M Điều_dưỡng/N đa_khoa/N 150/M Điều_dưỡng/N chuyên_ngành/N hộ_sinh/V 80/M
+Các/L ngành/N còn/V lại/R đều/R tăng/V từ/E 10-20/M chỉ_tiêu/N trong/E đó/P ngành/N Dược_học/N tăng/V từ/E 60/M chỉ_tiêu/N /N từ/E 320/M lên/E 380/M /N
+Trường/N xét/V tuyển/V dựa/V vào/E kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2017/M với/E ba/M môn/N thi/V để/E vào/V tất_cả/P các/L ngành/N là/V Toán/Np Hóa/Np Sinh/Np
+Trường/N sẽ/R áp_dụng/V các/L phương_án/N xét/V tuyển/V bằng/E các/L tiêu_chí/N phụ/V khi/N số_lượng/N thí_sinh/V đồng/N điểm/N vượt/V quá/R chỉ_tiêu/N
+Mùa/N tuyển_sinh/V năm_ngoái/N ngành/N Y_khoa/N của/E Đại_học/N Y_dược/N TP_HCM/Np có/V điểm_chuẩn/N cao/A nhất/A với/E 26,75/M ngành/N Răng_hàm/Np mặt/N 26/M ngành/N Dược_học/N 25,25/M
+Ngành/N Y_tế/N công_cộng/N có/V điểm_chuẩn/N thấp/A nhất_là/X 20,5/M điểm/N

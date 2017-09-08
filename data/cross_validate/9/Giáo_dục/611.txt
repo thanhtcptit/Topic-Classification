@@ -1,0 +1,10 @@
+Điểm_chuẩn/V vào/E lớp/N 6/M trường/N chuyên/A Trần_Đại_Nghĩa/Np tăng/V nhẹ/A
+Chiều/N 4/7/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np công_bố/V điểm/N trúng_tuyển/V của/E kỳ/N khảo_sát/V năng_lực/N vào/E lớp/N 6/M trường/N THPT/Np chuyên/A Trần_Đại_Nghĩa/Np là/V 58/M tăng/V một/M điểm/N so/V với/E năm/N trước/E
+Theo/E kết_quả/N được/V Sở/N Giáo/N dục/N công_bố/V tối/N 3/6/M có/V 533/M thí_sinh/N được/V 58/M điểm/N trở_lên/A trong/E khi/N chỉ_tiêu/N của/E trường/N này/P năm/N nay/P là/V 525/M
+Bài/N khảo_sát/V năng_lực/N xét/V tuyển/V vào/E lớp/N 6/M trường/N chuyên/A Trần_Đại_Nghĩa/Np gồm/V 2/M phần/N trắc_nghiệm/V tự/P luận/V nội_dung/N bao_gồm/V các/L lĩnh_vực/N toán_học/N tư_duy/N toán/Nc thực_tiễn/N năng_lực/N tiếng/N Anh/Np hiểu_biết/V tự_nhiên/N khoa_học/N thường_thức/A
+Tổng/N điểm/N bài/N thi/V là/V 100/M
+Đây/P là/V năm/N thứ_ba/N trường/N tổ_chức/V khảo_sát/V năng_lực/N bằng/E tiếng/N Anh/Np để/E chọn/V học_sinh/N vào/E lớp/N 6/M
+Năm_học/N đầu_tiên/A 2015-2016/M của/E kỳ/N khảo_sát/V năng_lực/N điểm_chuẩn/N là/V 71,5/M
+Thí_sinh/N sẽ/R nhập_học/V từ/E ngày/N 7/M đến/V 10/7/M
+Hết/V thời_hạn/N này/P thí_sinh/N không/R nộp/V hồ_sơ/N nhập_học/V trường/N sẽ/R xóa/V tên/N trong/E danh_sách/N trúng_tuyển/V
+Hồ_sơ/N nhập_học/V gồm/V học_bạ/N tiểu_học/N /M bản_chính/N /A và/CC giấy/N khai_sinh/V

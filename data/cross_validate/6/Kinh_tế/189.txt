@@ -1,0 +1,7 @@
+Dây_thép/N cuộn/N Việt_Nam/Np bị/V Úc/Np điều_tra/V bán_phá_giá/N
+Ủy/N ban/N chống/V bán_phá_giá/N Úc/Np ADC/Np vừa/R khởi_xướng/V điều_tra/V chống/V bán_phá_giá/N sản_phẩm/N dây_thép/N dạng/N cuộn/N rod/N in/V coil/N từ/E Việt_Nam/Np Indonesia/Np và/CC Hàn_Quốc/Np do/E Công_ty/N OneSteels/N đứng_đơn/N
+Ngày/N 96/M Cục/N Quản_lí/N cạnh_tranh/V VCA/Np Bộ/Np Công_thương/N cho/V biết/V nguyên_đơn/N cáo_buộc/N sản_phẩm/N xuất_khẩu/V từ/E Việt_Nam/Np có/V tồn_tại/N tình_huống/N thị_trường/N đặc_biệt/A đối_với/N mức/N thuế/N của/E hai/M nguyên_liệu/N đầu_vào/V chính/A
+Do/E đó/P không/R sử_dụng/V giá/N bán/V tại/E Việt_Nam/Np để/V tính_toán/V trị_giá/V thông_thường/A mà/C sử_dụng/V chi_phí/N của/E một/M công_ty/N sản_xuất/V sản_phẩm/N tương_tự/N để/E xây_dựng/V chi_phí/N
+Giai_đoạn/N điều_tra/V được/V tính_từ/V ngày/N 142016/M đến/N 3132017/M trong/E khi/N giai_đoạn/N thiệt_hại/V được/R tính_từ/V 112013/M đến/N nay/N
+ADC/Np cho_hay/V biên_độ/N bán_phá_giá/N theo/V cáo_buộc/N của/E nguyên_đơn/N dành/V cho/E Việt_Nam/Np và/CC Indonesia/Np bằng/V nhau/N cùng/A mức/N 306/M trong/E khi/N cáo_buộc/V với/E Hàn_Quốc/Np lên/V đến/R 433/M
+Tuy_nhiên/C theo/V tính_toán/N sơ_bộ/N của/E ADC/Np biên_độ/N dự_kiến/V dành/V cho/E Việt_Nam/Np và/CC Hàn_Quốc/Np đều/R ở/V mức/N 209/M trong/E khi/N Indonesia/Np là/V 298/M

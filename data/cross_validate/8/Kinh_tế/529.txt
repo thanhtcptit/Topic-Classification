@@ -1,0 +1,12 @@
+Vàng/Np và/CC USD/Np cùng/A giảm_giá/V
+Lúc/N 9h/M sáng/N nay/P Tập_đoàn/N DOJI/Np niêm_yết/V giá/N mua_bán/V vàng/N miếng/Nc SJC/Np quanh/N 36,12/M 36,20/M triệu/M đồng/Nu
+Giá/N này/P giảm/V 30 0/M đồng/Nu ở/E chiều/N mua/V và/CC bán/V so/V với/E phiên/N cuối/N tuần/N
+Tương_tự/A giá/N tại/E Công_ty/N Vàng_bạc/Np Đá_quý/Np Phú_Nhuận/Np /V PNJ/Np /M cũng/R đi/V xuống/R
+Giá/N mua/V giảm/V 40 0/M đồng/Nu xuống/V 36,06/M triệu/N và/CC giá/N bán/V giảm/V 20 0/M đồng/Nu xuống/V 36,25/M triệu/N một/M lượng/N
+Thị_trường/N thế_giới/N giá/N đang/R giảm/V nhẹ/A tại/E phiên/N Á/Np sáng/N nay/P
+Mỗi/L ounce/N hiện/N có_giá/A 1 0/M USD/Nu giảm/V 2/M USD/Nu so/V với/E mở_cửa/N
+Mức/N giá/N này/P quy_đổi/V tiền/N Việt/Np tương_đương/A 33,24/M triệu/M đồng/Nu một/M lượng/N chưa/R thuế/N phí/N gia_công/V
+Chênh_lệch/A giữa/E giá/N trong/E nước/N và/CC quốc_tế/N vào_khoảng/X 2,9/M triệu/M đồng/Nu
+Không_khí/N giao_dịch/V trong/E phiên/N cuối/N tuần/N diễn/V ra/R tương_đối/A trầm_lắng/A và/CC các/L hoạt_động/N mua_bán/V chủ_yếu/A phát_sinh/V nhỏ_lẻ/A và/CC mua/V vào/R theo/E nhu_cầu/N tích_trữ/V cá_nhân/N DOJI/Np cho_biết/V
+Trên/E thị_trường/N ngoại_hối/N tỷ_giá/N trung_tâm/N do/E Ngân_hàng/N Nhà_nước/N công_bố/V sáng/N nay/P là/V 22 9/M đồng/Nu một/M USD/Nu
+Tại_Vietcombank/Np giá/N mua_bán/V đôla/N Mỹ/Np hiện/V quanh/N 22 5/M 22 5/M đồng/Nu giảm/V 5/M đồng/Nu so/V với/E cuối/N tuần/N

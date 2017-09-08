@@ -1,0 +1,6 @@
+Bài/N giải/N môn/N vật_lí/V THPT/Np Quốc_gia/N 2017/M
+Nhiều/A thí_sinh/N cho/V biết/V đề/N này/P khó/A phần/N điện/N thời_gian/N làm/V bài/N ngắn/N và/CC 10/M câu/N cuối/N khó/A
+​/N Bài/N giải/N môn/N lí/V THPT/Np Quốc_gia/N mã_đề/N 201/M
+Bài/N giải/N môn/N lí/V THPT/Np Quốc_gia/N mã_đề/N 202/M
+Bài/N giải/N môn/N lí/V THPT/Np Quốc_gia/N mã_đề/N 203/M
+Bài/N giải/N môn/N lí/V THPT/Np Quốc_gia/N mã_đề/N 204/M

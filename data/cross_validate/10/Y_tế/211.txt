@@ -1,0 +1,19 @@
+Bệnh_viện/N quận/N cứu/V sống/V bệnh_nhân/N vỡ/N tim/N hi_hữu/N
+Nhờ/V áp_dụng/V quy_trình/N báo_động/N đỏ/A các/L bác_sĩ/N Bệnh_viện/N QT/Np hủ/V Đức/Np TPHCM/Np đã/R kịp_thời/A cứu/V sống/V bệnh_nhân/N NDT/N
+26/M tuổi/N TPHCM/Np bị/V vỡ/V tim/N do/E tai_nạn/V giao_thông/N
+Các/L bác_sĩ/N đang/R phẫu_thuật/V cấp_cứu/V bệnh_nhân/N vỡ/N tim/N Ảnh/Np BVCC/Np
+Theo/E bệnh_viện/N Thủ_Đức/Np bệnh_nhân/N NDT/N
+được/V đưa/V vào/R cấp_cứu/V sáng/N 195/M trong/N tình_trạng/N đa/N chấn_thương/N lơ_mơ/N sốc/N mất/V máu/N huyết_áp/N không/R đo/V được/R có/V triệu_chứng/N bị/V chèn_ép/V tim/N cấp/N đe_doạ/N tính_mạng/N
+Ngoài_ra/C trên/E người/N bệnh_nhân/N còn/R bị/V xây_xát/V nhiều/A chỗ/N ở/V mặt/N ngực/N và/CC bụng/N
+Ngay/T lập_tức/N bệnh_nhân/N được/V các/L bác_sĩ/N hồi_sức/N siêu_âm/N cấp_cứu/V tại/E giường/N và/CC phát_hiện/V có/V nhiều/N dịch/N ở/V màng/N ngoài/N tim/N nghi/V do/E tràn/V máu/N màng/N tim/N
+Đánh_giá/V bệnh_nhân/N bị/V vỡ/V tim/N sau/N chấn_thương/N vùng/N ngực/N nên/C bệnh_viện/N kích_hoạt/V hệ_thống/N báo_động/N đỏ/A và/CC chuyển/V thẳng/A bệnh_nhân/N vào/V phòng/N mổ/V sau/N khi/N được/V lập/V đường/N truyền/V máu/N truyền/V dịch/N
+Bệnh_nhân/N nhanh_chóng/A được/V các/L bác_sĩ/N ngoại/N lồng_ngực/N mạch_máu/N mở/V ngực/N cưa/N xương/N ức/N
+Lúc/N này/P màng/N ngoài/N tim/N của/E bệnh_nhân/N đã/R căng/V phồng/N và/CC áp_lực/N cao/A nên/C các/L bác_sĩ/N tiến_hành/V xẻ/V màng/N tim/N để/E giải/V áp/N
+Khi/N giải/N áp/V máu/N từ/E tim/N chảy/V ồ_ạt/N phụt/V thành/N dòng/N và/CC lộ/V rõ/A buồng/N tim/N tiểu/A nhĩ/N trái/N bị/V rách/V toạc/V khoảng/N 3cm/M
+Êkíp/N mổ/V tiến_hành/N kẹp/V vị_trí/N rách/A cầm/V máu/N và/CC khâu/N vết_thương/N tim/N
+Sau/E một/M tiếng/N ca/V mổ/V thành_công/N huyết_áp/N bệnh_nhân/N ổn_định/V trở_lại/V siêu_âm/N tim/N sau/N mổ/V không/R thấy/V tổn_thương/N van/N tim/N và/CC các/L tổn_thương/N khác/A
+Bệnh_nhân/N được/V truyền/V 4/M đơn_vị/N máu/N để/E bù/V lại/R lượng/N máu/N mất/V khoảng/N 15/M lít/Nu máu/N
+Hiện/N bệnh_nhân/N đã/R qua/V nguy_kịch/N và/CC được/V theo_dõi/V đặc_biệt/A cũng/R như/C điều_trị/V các/L vết_thương/N khác/A trên/N cơ_thể/N
+Theo/E bác_sĩ/N Nguyễn_Kim_Anh/Np trưởng/N khoa_ngoại/N lồng_ngực/N mạch_máu/N Bệnh_viện/N Thủ_Đức/Np trường_hợp/N chấn_thương/N của/E bệnh_nhân/N NDT/N
+rất/R hi/A hữu/A vì/E không/R có/V vết_thương/N hở/N nhưng/C lại/R bị/V vỡ/V tim/N
+Nếu/C không/R phẫu_thuật/V kịp_thời/N bệnh_nhân/N sẽ/R tử_vong/V

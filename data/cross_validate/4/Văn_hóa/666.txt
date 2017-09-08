@@ -1,0 +1,10 @@
+Đoàn/N nghệ_sĩ/N Nga/Np biểu_diễn/V trên/E phố/N đi/V bộ/N tại/E Hà_Nội/Np
+Có_mặt/V tại/E Việt_Nam/Np từ/E đầu/N tháng/N 9/M đoàn/N nghệ_sĩ/N xứ/N bạch_dương/V biểu_diễn/V tại/E Hà_Nội/Np trong/E vòng/N một/M tháng/N vào/E các/L khung/N giờ/N từ/E 9h/M đến/E 10h30/M và/CC 20h/M đến/E 21h30/M ba/M ngày/N cuối/N tuần/N  /EOS
+Sau/E đợt/N diễn/V đầu_tiên/N hôm/N 2/M 3/M và/CC 4/9/M đại_diện/N đoàn/N nghệ_sĩ/N Pavel/Np chia_sẻ/V ông/N rất/R vui/A và/CC bất_ngờ/A trước/E sự/Nc ủng_hộ/V nhiệt_tình/A của/E khán_giả/N Việt_Nam/Np
+Tiễng/Np vỗ_tay/V reo_hò/V của/E mọi/L người/N đặc_biệt/A là/V của/E các/L em/N nhỏ/A làm/V tinh_thần/N chúng_tôi/P thêm/V phấn_chấn/N và/CC tự_tin/V
+Dù/C đến/E Việt_Nam/Np lần/N đầu/N tôi/P cảm_nhận/V được/R sự/Nc thân_thiện/A của/E con_người/N nơi/N đây/P
+Những/L cái/Nc bắt_tay/V những/L cái/Nc ôm/V của/E khán_giả/N khiến/V tôi/P thực_sự/A xúc_động/V
+Hy_vọng/N ở/E những/L buổi/N biểu_diễn/V sau/N chúng_tôi/P tiếp_tục/V nhận/V được/R sự/N ủng_hộ/V nhiệt_tình/A như_vậy/X Pavel/Np nói/V
+Các/L màn/N biểu_diễn/V nằm/V trong/E chương_trình/N nghệ_thuật/N đường_phố/N do/E thành_phố/N Hà_Nội/Np tổ_chức/V nhân/V khai_trương/V 15/M tuyến/N phố/N đi/V bộ/N quanh/N hồ/N Gươm/Np /V Đinh_Tiên_Hoàng/Np Lê_Lai/Np Lê_Thạch/Np Đinh_Lễ/Np Nguyễn_Xí/Np Tràng_Tiền/Np Hàng_Khay/Np Lê_Thái_Tổ/Np /M
+Khán_giả/N cũng/R được/V chơi/V các/L trò/N dân_gian/N Việt_Nam/Np như/C mèo/N đuổi/V chuột/N nhảy_dây/N kéo_co/N đá/N cầu/N rồng_rắn/V lên/R mây/N chơi/V ô/N ăn/V quan/N thả/V đỉa/N ba_ba/N
+và/CC thưởng_thức/V các/L chương_trình/N ca_nhạc/V dân_gian/N

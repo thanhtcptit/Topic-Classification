@@ -1,0 +1,11 @@
+Tối_tăm/A mặt_mày/N sau/A 10/M phút/Nu tiêm_chủng/A 
+Trước/E đó/P chiều/N 3/3/M bà/N ĐNTH/Np 25/M tuổi/N phường/N Bình_Chiểu/Np quận/N Thủ_Đức/Np TP.HCM/Np tới/E BV/Np quận/N Thủ_Đức/Np tiêm/V vaccine/N MMR/Np 2/M (/Nu sởi/N quai_bị/N rubella/N và/CC vaccine/V varicella/N thủy_đậu/N )/A 
+Sau/E khi/N tiêm/V 10/M phút/Nu bà/Nc H/Np có/V biểu_hiện/N chóng_mặt/V tối_sầm/V mặt/N mệt/V mắc/V ói/V 
+Trong/E quá_trình/N xử_lý/V tại/E phòng/N tiêm/V bác_sĩ/N ghi_nhận/V bà/N H/Np mệt/V chóng_mặt/V tay_chân/N lạnh/A mạch/N nhanh/A nhẹ/A và/CC khó/A bắt/V 
+Bác_sĩ/N chẩn_đoán/V bà/N H/Np bị/V sốc/N phản_vệ/V do/E thuốc/N nên/C chuyển/V đến/E khoa/N Cấp_cứu/V của/E BV/Np quận/N Thủ_Đức/Np 
+Tại/E đây/P bà/Nc H/Np được/V cấp_cứu/V tích_cực/A và/CC xuất_viện/V vào/E sáng/N hôm_sau/N 4/3/M với/E chẩn_đoán/V phản_ứng/N phản_vệ/V do/E thuốc/N 
+Kết_quả/N điều_tra/V cho/V thấy/V trong/E ngày/N 3/3/M có/V 10/M người/N tiêm/V cùng/A lô/N vaccine/N MMR/Np 2/M và/CC tám/M người/N tiêm/V cùng/A lô/N vaccine/N varicella/V với/E bà/Nc H/Np Tuy_nhiên/C không/R xảy_ra/V bất_kỳ/R tai_biến/N nào/P 
+Kết_quả/N điều_tra/V còn/R ghi_nhận/V BV/Np quận/N Thủ_Đức/Np thực_hiện/V đúng/A quy_trình/N tiêm_chủng/N và/CC bảo_quản/V vaccine/N 
+Từ/E đánh_giá/N trên/A Trung_tâm/N Y_tế/N dự_phòng/V TP.HCM/Np nhận_định/V sơ_bộ/A bà/Nc H/Np bị/V phản_ứng/V phản_vệ/V sau/N tiêm/V vaccine/N và/CC phản_ứng/V tâm_lý/N do/E sợ/V tiêm/V ngừa/N 
+Để/E có/V kết_luận/N chính_thức/A liên_quan/V đến/E bà/Nc H/Np bị/V tai_biến/V nặng/A sau/E tiêm_chủng/N tại/E BV/Np quận/N Thủ_Đức/Np Trung_tâm/N Y_tế/N dự_phòng/V TP.HCM/Np đề_nghị/V Sở/N Y_tế/N TP/Np tổ_chức/V họp/V hội_đồng/N tư_vấn/V chuyên_môn/N 
+Theo/E Trần_Ngọc_Người/N lao_động/N 

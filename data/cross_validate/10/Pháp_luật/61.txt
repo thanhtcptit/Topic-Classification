@@ -1,0 +1,13 @@
+​/N Đề_nghị/V truy_tố/V Nguyên/Np giám_đốc/N Agribank_Bến_Thành/Np nhận/V hối_lộ/N
+Qua/E điều_tra/V bổ_sung/N Cơ_quan/N cảnh_sát/N điều_tra/V Bộ/N Công_an/N cho/V rằng/N hành_vi/N của/E Lê_Văn_Tính/Np và/CC Nguyễn_Thị_Hoàng_Oanh/Np nguyên/N giám_đốc/N Agribank_Bến_Thành/Np là/V đưa/V và/N nhận/V hối_lộ/N
+Cơ_quan/N cảnh_sát/N điều_tra/V Bộ/N Công_an/N vừa/R kết_thúc/V điều_tra/V bổ_sung/V vụ/N án/N tham_ô/N tài_sản/N đưa/V và/N nhận/V hối_lộ/N vi_phạm/V quy_định/N về/V cho/V vay/V trong/E hoạt_động/N của/E các/L tổ_chức/N tín_dụng/N xảy/V ra/R tại/E Ngân_hàng/N Nông_nghiệp/N và/CC phát_triển/V nông_thôn/N Việt_Nam/Np chi_nhánh/N Bến_Thành/Np Agribank_Bến_Thành/Np
+Vụ/N án/N có/V 11/M bị_cáo/N trong/N đó/N có/V 6/M người/N nguyên/N là/V cán_bộ/N Agribank_Bến_Thành/Np
+Kết_quả/N điều_tra/V bổ_sung/V cho/V thấy/V do/E cần/V tiền/N nên/C Lê_Văn_Tính/Np ngụ/V quận/N 3/M đã/R gặp/V Nguyễn_Thị_Hoàng_Oanh/Np nguyên/N giám_đốc/N Agribank_Bến_Thành/Np xin/V vay/V vốn/N
+Biết_Lê_Văn_Tính/Np không/R có/V đủ/A điều_kiện/N được/V vay/V nhưng/C để/E có/V được/V tiền/N trả/V nợ/N nên/N Oanh/Np đã/R thoả_thuận/V với/E Tính/Np về/E việc/N đồng_ý/V cho/V Tính/Np vay/V vàng/N
+Tính/V đồng_ý/V vay/V vàng/N nhưng/C lại/R nhận/V tiền_mặt/N với/N giá/N 19/M triệu/N đồnglượng/N trong/E khi/N giá/N tại/E thời_điểm/N thoả_thuận/N là/V 21/M triệu/N đồnglượng/N
+Tổng_cộng/N Agribank_Bến_Thành/Np cho/V Lê_Văn_Tính/Np vay/V hơn/A 137/M tỉ/M đồng/Nu nhưng/C Tính/Np chỉ/R nhận/V được/R 112/M tỉ/M đồng/Nu
+Oanh/N chiếm/V hưởng/V 24/M tỉ/N đồng_tiền/N chênh_lệch/A
+Trước/E đó/P tại/N phiên/N xét_xử/V sơ_thẩm/V hồi/N tháng/N 32017/M TAND/Np TPHCM/Np đã/R trả/V hồ_sơ/N yêu_cầu/N điều_tra/V bổ_sung/V vì/E cho/V rằng/N hành_vi/N của/E Nguyễn_Thị_Hoàng_Oanh/Np và/CC Lê_Văn_Tính/Np không/R cấu_thành/V tội/N đưa/V và/N nhận/V hối_lộ/N
+Tuy_nhiên/C tại/E kết_luận/N điều_tra/V bổ_sung/N Cơ_quan/N cảnh_sát/N điều_tra/V Bộ/N Công_an/N cho/V rằng/N hành_vi/N lợi_dụng/V chức_vụ/N quyền_hạn/V cho/V vay/V tiền/N để/E hưởng/V chênh_lệch/N của/E Nguyễn_Thị_Hoàng_Oanh/Np đã/R cấu_thành/V tội/N nhận/V hối_lộ/N
+Việc/N chấp_nhận/V vay/V vàng/N nhưng/C lại/R nhận/V tiền/N VND/N với/E giá/N vàng/N thấp/A hơn/A thực_tế/N sau/N đó/P để/E Oanh/Np chiếm/V hưởng/V tiền/N chênh_lệch/A của/E Lê_Văn_Tính/Np đã/R cấu_thành/V tội/N đưa/V hối_lộ/N
+Kết_quả/N điều_tra/V bổ_sung/V cho/V thấy/V trong/E vụ/Nc án/N này/P tổng/N thiệt_hại/N của/E Agribank_Bến_Thành/Np là/V hơn/A 358/M tỉ/M đồng/Nu

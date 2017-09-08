@@ -1,0 +1,64 @@
+Rối_tung/V với/E hợp_đồng/N thuê/V nhà/N không/N công_chứng/V
+Một/M hợp_đồng/N thuê/V nhà/N với/E thời_hạn/N 5/M năm/N không/N công_chứng/V
+Khi/N xảy/V ra/R tranh_chấp/V toà/N này/P áp_dụng/V Bộ/N luật_dân_sự/N BLDS/Np nhưng/C toà/N kia/N áp_dụng/V Luật/N nhà/N ở/V
+Ngày/N 24102015/M ông/N NVT/Np
+có/V kí_kết/N hợp_đồng/N thuê/V căn/Nc nhà/N trên/E đường/N Nguyễn_Cửu_Đàm/Np Tân_Phú/Np TPHCM/Np với/C bà/N QH/Np
+trong/E thời_hạn/N năm/M năm/N để/V kinh_doanh/V
+Mọi/L thoả_thuận/N mức/N giá/N đều/R bằng/A tiền/N đôla/N Mỹ/Np
+Ông/N T/Np
+phải/V thanh_toán/V cho/E bà/N H/Np
+số/N tiền/N kí_quỹ/V tiền/N cọc/N là/V 10000/M USD/Nu
+Sau/E khi/N kí/V hợp_đồng/N ông/N T/Np
+giao/V đủ/A cho/E bà/N H/Np
+223400000/M đồng/N tương_đương/V 10000/M USD/Nu
+Đòi/V lại/R tiền/N cọc/N
+Thuê/V đến/V cuối/N tháng/N 122015/M thì/C ông/N T/Np
+đơn_phương/N chấm_dứt/V hợp_đồng/N vì/E kinh_doanh/V ế_ẩm/V và/N tự_nguyện/V giao/V nhà/N cho/E bà/N H/Np
+theo/V biên_bản/N giao/V nhà/N lập/V ngày/N 612016/M
+Biên_bản/N cũng/R không/R bàn_bạc/V về/V tiền/N cọc/N
+Sau/E đó/P bà/N H/Np
+cho/V người/N khác/A thuê/V căn/Nc nhà/N này/P
+Ông/N T/Np
+khởi_kiện/N bà/N H/Np
+vì/C cho/V rằng/C bà/N H/Np
+không/R thực_hiện/V nghĩa_vụ/N công_chứng/N hợp_đồng/N nên/C yêu_cầu/V bà/N H/Np
+trả/V tiền/N cọc/N 10000/M USDTrong/N khi/N đó/P lúc/N kí/V hợp_đồng/N cả/P hai/M không/N bàn_bạc/V về/V nhu_cầu/N công_chứng/V hợp_đồng/N
+Hai/M toà/N áp_dụng/V luật/N khác/A nhau/N
+Xét_xử/V sơ_thẩm/V tại/E TAND/Np quận/N Tân_Phú/Np HĐXX/Np cho/V rằng/R theo/V điều/N 122/M Luật/N nhà/N ở/V 2014/M không/N quy_định/N hợp_đồng/N thuê/V nhà/N phải/V công_chứng/V chứng_thực/N
+Tuy_nhiên/C điều/N 492/M BLDS/Np 2005/M quy_định/N hợp_đồng/N thuê/V nhà/N ở/V với/E thời_hạn/N thuê/V từ/E sáu/M tháng/N trở/V lên/R phải/V công_chứng/V chứng_thực/N và/CC phải/V đăng_kí/V
+Đồng_thời/R theo/V pháp_lệnh/N ngoại_hối/N quy_định/N mọi/N giao_dịch/V thanh_toán/V niêm_yết/N quảng_cáo/N
+trong/E hợp_đồng/N thoả_thuận/N và/CC các/L hình_thức/N tương_tự/N khác/A không/R được/V thực_hiện/V bằng/E ngoại_hối/N trừ/V các/L trường_hợp/N được/V phép/V theo/V quy_định/N cụ_thể/A
+Vì/E các/L lẽ/N trên/N HĐXX/Np tuyên_xử/V hợp_đồng/N thuê/V nhà/N kí_kết/A bởi/E ông/N T/Np
+và/N bà/N H/Np
+là/V vô_hiệu/N tuyên/V buộc/V bà/N H/Np
+trả/V cho/E ông/N T/Np
+10000/M USD/Nu tương_đương/N 223400000/M đồng/N
+Tuy_nhiên/C HĐXX/N phúc_thẩm/V TAND/Np TPHCM/Np cho/V rằng/C án/N sơ_thẩm/V áp_dụng/V điều/N 492/M BLDS/Np 2015/M để/E tuyên/V hợp_đồng/N vô_hiệu/A là/V không/R đúng/A vì/E đây/P là/V hợp_đồng/N thuê/V nhà/N nên/C phải/V áp_dụng/V luật/N chuyên_ngành/N là/V Luật/N nhà/N ở/V 2014/M
+Theo/E đó/P giao_dịch/V thuê/V nhà/N không/R cần/V phải/V công_chứng/V nên/V hợp_đồng/N thuê/V nhà/N được/V kí/V giữa/N bà/N H/Np
+và/N ông/N T/Np
+không/R vô_hiệu/A
+Mặc_dù/N thoả_thuận/N bằng/E tiền/N đôla/N trong/E hợp_đồng/N nhưng/C thực_tế/A cả/P hai/M giao/V tiền/N cọc/N và/CC tiền/N thuê/V nhà/N bằng/E tiền/N đồng/N Việt_Nam/Np
+Vì_vậy/C giao_dịch/N thuê/V nhà/N giữa/N hai/M bên/N không/R vô_hiệu/A
+Ông/N T/Np
+đơn_phương/N chấm_dứt/V hợp_đồng/N thuê/V nhà/N là/V vi_phạm/N thoả_thuận/N của/E hợp_đồng/N nên/C số/N tiền/N đặt_cọc/N của/E ông/N T/Np
+thuộc/V bà/N H/Np
+Nhiều/A tranh_cãi/N
+Một/M cựu/N thẩm_phán/N TAND/Np TPHCM/Np cho/V rằng/E trong/E một_số/N trường_hợp/N để/E ổn_định/V giá_trị/N hợp_đồng/N thì/N thoả_thuận/V bằng/E đôla/N nhưng/C thanh_toán/N đưa/V trực_tiếp/A cho/V nhau/N bằng/E tiền/N Việt/Np cũng/R không/R vi_phạm/V quy_định/N của/E pháp_lệnh/N ngoại_hối/N
+Vị/N này/P đồng_ý/V với/E phán_quyết/N của/E cấp/N phúc_thẩm/N TAND/Np TPHCM/Np vì/N cho/V rằng/C khi/N luật/N chung/A và/CC luật/N chuyên_ngành/N quy_định/N có/V sự/N khác/A nhau/N thì/N áp_dụng/V luật/N chuyên_ngành/N
+Trong/E trường_hợp/N này/P áp_dụng/V Luật/N nhà/N ở/V 2014/M nên/N hợp_đồng/N vẫn/R còn/V hiệu_lực/N
+Trong/E khi/N đó/P ngược_lại/N nhiều/A chuyên_gia/N pháp_lí/V lại/R cho/V rằng/C phán_quyết/N của/E toà/N sơ_thẩm/N là/V có/V căn_cứ/N tuyên/V hợp_đồng/N vô_hiệu/N là/V đúng/A buộc/N bà/N H/Np
+trả/V lại/R tiền/N cọc/N cho/E ông/N T/Np
+Theo/E luật_sư/N Phạm_Văn_Thạnh/Np Đoàn/Np luật_sư/N TPHCM/Np Bộ/Np luật_dân_sự/N là/V luật/N chung/V luật/N mẹ/N điều_chỉnh/V tất_cả/N các/L quan_hệ/N dân_sự/N
+Trường_hợp/N luật/N khác/A có/V liên_quan/V không/R quy_định/N hoặc/N có/V quy_định/N nhưng/C trái/N với/E quy_định/N của/E BLDS/Np thì_phải/N áp_dụng/V các/L quy_định/N của/N BLDS/Np
+Còn/C việc/N thoả_thuận/V giao_dịch/N bằng/E tiền/N đôla/N Mỹ/Np là/V hoàn_toàn/A trái/A với/E quy_định/N của/E pháp_lệnh/N ngoại_hối/N
+Trong/E trường_hợp/N này/P hợp_đồng/N thuê/V nhà/N là/V hợp_đồng/N vô_hiệu/A
+Các/L bên/N khôi_phục/N tình_trạng/N ban_đầu/V hoàn_trả/N cho/V nhau/N những/L gì/P đã/R nhận/V luật_sư/N Thạnh/Np nêu/V quan_điểm/N
+Đồng/N quan_điểm/N trên/N luật_sư/N Trần_Bá_Học/Np Đoàn/Np luật_sư/N TPHCM/Np bổ_sung/V Nếu_Luật/Np nhà/N ở_không/N quy_định/N rõ/A thì_phải/N áp_dụng/V BLDS/Np quy_định/N rõ/A hơn/R cùng/A một/M vấn_đề/N sự_việc/N
+Về/V hợp_đồng/N thuê/V nhà/N ở/V rõ_ràng/N ở/V BLDS/Np 2005/M quy_định/N cụ_thể/A hơn/R là/V hợp_đồng/N thuê/V nhà/N với/V thời_hạn/N sáu/M tháng/N trở/V lên/R phải/V công_chứng/V chứng_thực/V cho_nên/N hợp_đồng/N thuê/V nhà/N giữa/N ông/N T/Np
+và/N bà/N H/Np
+bị/V vô_hiệu/N
+Nên/C công_chứng/V hợp_đồng/N
+Để/E hạn_chế/V những/L rắc_rối/N có_thể/A xảy/V ra/R người/N đi/V thuê/V nhà/N và/CC người/N cho/V thuê/V nhà/N nên/V công_chứng/V hợp_đồng/N thuê/V nhà/N
+Khi/N công_chứng/N công_chứng_viên/N sẽ/R xác_minh/V căn/Nc nhà/N đó/P có/V đang/R tranh_chấp/V với/E ai/N không/R có/V đang/N trong/E thời_hạn/N hợp_đồng/N với/E người/N nào/N khác/A không/R
+Mẫu/N hợp_đồng/N cũng/R được/V ghi/V cụ_thể/N chi_tiết/N chặt_chẽ/A và/CC khách_quan/A hơn/R hợp_đồng/N tự/N soạn_thảo/V
+Tuy/C không/R bắt_buộc/V nhưng/C công_chứng/V hợp_đồng/N thuê/V nhà/N sẽ/R đảm_bảo/V giá_trị/N pháp_lí/N tốt/A hơn/A cho/E các/L bên/N nên/C vẫn/R luôn/R được/V cơ_quan_chức_năng/N khuyến_khích/V thực_hiện/V hạn_chế/N tranh_chấp/V xảy/V ra/R luật_sư/N Đặng_Đức_Trí/Np khuyến_cáo/N

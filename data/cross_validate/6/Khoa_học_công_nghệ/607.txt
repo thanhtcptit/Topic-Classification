@@ -1,0 +1,9 @@
+﻿/M Cải_lão_hoàn_đồng/N bằng/E tái_lập_trình/N tế_bào/N
+Các/L nhà_khoa_học/N thuộc/V Viện/N nghiên_cứu/V Sinh_học/N Salk_California_Mỹ/Np phát_triển/V thành_công/V một/M liệu_pháp/N gene/N phức_tạp/A giúp/V trẻ_hóa/V tế_bào/N da/N người/N trong/E phòng_thí_nghiệm/N Express/Np hôm/N 15/M 12/M đưa/V tin/N
+Họ/P tin/V đây/P là/V bước_đầu/N để/E tìm/V ra/R phương_pháp/N giúp/V kiểm_soát/V các/L dấu_hiệu/N lão_hóa/V như/C da/N nhăn/V tóc/N bạc/N hay/C đau/V mỏi/A xương/N
+Nhiều/A người/N cho/V rằng/C lão_hóa/V là/V quá_trình/N không_thể/R thay_đổi/V
+Tuy_nhiên/C nghiên_cứu/V của/E chúng_tôi/P cho/E kết_quả/N ngược_lại/C
+Phương_pháp/N của/E chúng_tôi/P là/V tái_lập_trình/N tế_bào/N tức_là/V trẻ_hóa/V tế_bào/N trở_về/V trạng_thái/N ban_đầu/N giáo_sư/N Juan_Carlos_Izpisua_Belmone/Np tới/V từ/E Viện/N nghiên_cứu/V Sinh_học/N Salk/Np cho_biết/V
+Các/L thí_nghiệm/N trên/E chuột/N mắc/V bệnh/N lão_hóa/V sớm/A đem/V đến/E kết_quả/N khả_quan/A với/E việc/N tuổi_thọ/N của/E chúng/P được/V kéo_dài/V
+Nếu/C phương_pháp/N này/P có_thể/R sử_dụng/V trên/E con_người/N trong/E tương_lai/N nó/P sẽ/R giúp/V tuổi_thọ/N trung_bình/A của/E chúng_ta/P tăng/V 30%/M so/V với/E hiện_tại/N
+Tuy_nhiên/C các/L nhà_khoa_học/N cho_biết/V nghiên_cứu/V đang/R trong/E giai_đoạn/N đầu/N và/CC có_thể/R mất/V thêm/R 10/M năm/N trước/E khi/N đưa/V vào/R thử_nghiệm/V lâm_sàng/N

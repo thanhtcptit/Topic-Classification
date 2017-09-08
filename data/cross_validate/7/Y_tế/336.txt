@@ -1,0 +1,25 @@
+Hàng_loạt/N thai_phụ/V hoang_mang/V đòi/V xét_nghiệm/V vi_rút/N Zika/Np 
+Tính/V đến/E ngày/N 29/11/M số/N người/N mắc/V Zika/Np trên/E địa_bàn/N thành_phố/N đã/R tăng/V lên/R 85/M ca/N với/E 19/24/M quận/N huyện/N xuất_hiện/V ca/N bệnh/N 
+Để/E chủ_động/V thực_hiện/V các/L phương_án/N phòng_chống/V phối_hợp/V với/E thu_dung/N điều_trị/V bệnh/N do/E vi_rút/N Zika/Np gây/V ra/R Hội_đồng/N Nhân_dân/N thành_phố/N đã/R khảo_sát/V thực_tế/N tại/E Bệnh_viện/N Nhi_Đồng/Np 1/M Bệnh_viện/N Từ_Dũ/Np và/CC làm_việc/V với/E các/L chuyên_gia/N ngành/N Sản/Np Nhi/Np 
+Báo_cáo/V tại/E buổi/N làm_việc/V với/E ban/N Văn_hóa/N Xã_hội/N Hội_đồng/N Nhân_dân/N thành_phố/N chiều/N 29/11/M BS/Np Phạm_Thanh_Hải/Np Trưởng_phòng/N Kế_hoạch/N Tổng_Hợp/Np Bệnh_viện/N Từ_Dũ/Np cho_biết/V Hiện/N bệnh_viện/N đang/R theo_dõi/V quản_lý/V 9/M trường_hợp/N mang/V thai/N nhiễm/V Zika/Np trong/E đó/P có/V 1/M thai_phụ/N sảy/V thai/N tự_nhiên/A 1/M thai_phụ/N xin/V bỏ/V thai/N 1/M trường_hợp/N bệnh_nhi/V sau/E khi/N chào_đời/V từ/E mẹ/N mắc/V Zika/Np bị/V chậm/A tăng_trưởng/V 
+Trong/E đó/P trường_hợp/N xin/V bỏ/V thai/N một/M phần/N là/V do/E thai_phụ/N nhiễm/V Zika/Np và/CC người_mẹ/N cũng/R muốn/V kết_thúc/V thai/N kỳ/N vì/E mang/V bầu/N ngoài/E ý_muốn/N 
+Riêng/T trường_hợp/N thai_phụ/N vừa/R sinh/V cháu/N bé/N có/V dấu_hiệu/N chậm/A phát_triển/V ngành/N y_tế/N đang/R tiếp_tục/V theo_dõi/V để/E có/V hướng/N chăm_sóc/V phù_hợp/V 
+Dù/C chưa/R có/V kết_luận/N cụ_thể/A song/C tình_trạng/N chậm/A tăng_trưởng/V ở/E bệnh_nhi/N bước_đầu/N được/V xác_định/V xảy_ra/V trước/E thời_điểm/N người_mẹ/N bị/V nhiễm/V Zika/Np 
+Ngoài/E việc/N quản_lý/V chăm_sóc/V thai_phụ/N mắc/V bệnh/N thì/C các/L bệnh_viện/N phụ_sản/N đang/R phải/V đối_mặt/V với/E áp_lực/N từ/E làn_sóng/N thai_phụ/V đến/E khám/V và/CC yêu_cầu/V thực_hiện/V xét_nghiệm/V tầm/N soát/V vi_rút/N Zika/Np 
+BS/Np Hải/Np cho_hay/A thời_gian/N qua/V có/V rất/R nhiều/A phụ_nữ/N đến/E khám/V thai/N muốn/V tầm/N soát/V Zika/Np họ/P sẵn_sàng/A bỏ/V tiền/N thực_hiện/V xét_nghiệm/V 
+Một_số/L thai_phụ/N có/V dấu_hiệu/N sốt/V nổi/V hồng/N ban/N có/V tâm_lý/N rất/R lo_lắng/V bệnh_viện/N đã/R rất/R vất_vả/A để/E tư_vấn/V tuyên_truyền/V 
+Nhu_cầu/N xét_nghiệm/V của/E thai_phụ/N rất/R lớn/A song/C Từ_Dũ/Np mới/R chỉ/R lấy/V 6/M mẫu/N bệnh_phẩm/N nghi_ngờ/V kết_quả/N kiểm_tra/V phát_hiện/V 1/M ca/N nhiễm/V Zika/Np 
+Tương_tự/A Bệnh_viện/N từ/E Dũ/Np BS/Np Hoàng_Thị_Diễm_Tuyết/Np Giám_đốc/N Bệnh_viện/N Hùng_Vương/Np cho_hay/V qua/V khám/V sàng_lọc/V rất/R nhiều/A người_bệnh/N yêu_cầu/V xét_nghiệm/V tầm/N soát/A bệnh_viện/N đã/R lấy/V 17/M mẫu/N bệnh_phẩm/N từ/E thai_phụ/N gửi/V đi/V kiểm_tra/V 
+May_mắn/A trong/E số/N các/L xét_nghiệm/V trên/E không/R có/V ca/N nào/P nhiễm/V Zika/Np 
+Tại_Nhi_Đồng/N 1/M BS/Np Nguyễn_Thanh_Hùng/Np Giám_đốc/N bệnh_viện/N cho_hay/V Hiện/N bệnh_viện/N chưa/R tiếp_nhận/V bệnh_nhi/N nào/P bị/V nhiễm/V Zika/Np 
+Để/E chủ_động/V sàng_lọc/V bệnh/N Nhi_Đồng/Np 1/M sẽ/R triển_khai/V khu/N cách_ly/V khoa/N nhiễm/V khi/N có/V bệnh_nhân/N mắc/V vi_rút/N Zika/Np 
+Riêng/T trẻ/N sơ_sinh/A có/V tật/N đầu/N nhỏ/A nghi_ngờ/V biến_chứng/N do/E mẹ/N nhiễm/V vi_rút/N Zika/Np khi/N mang/V thai/N sẽ/R được/V nằm/V theo_dõi/V tại/E khoa/N Sơ_sinh/A 
+Nhiều/A thai_phụ/N chưa/R hiểu/V đúng/A Chia_sẻ/V về/E tâm_lý/N hoang_mang/V lo_lắng/V của/E các/L thai_phụ/N BS/Np Lê_Quang_Thanh/Np Giám_đốc/N Bệnh_viện/N Từ_Dũ/Np cho/V rằng/C nhiều/A thai_phụ/N chưa/R hiểu/V đúng/A về/E bệnh/N vì/E nghĩ/V vi_rút/N Zika/Np ăn/V lên/R não/N thai_nhi/A gây/V tật/N đầu/N nhỏ/A 
+Trên/E thực_tế/N sự/Nc nguy_hiểm/A của/E Zika/Np khi/N tác_động/V lên/R thai/N kỳ/N không/R nghiêm_trọng/A bằng/E bệnh/N Rubella/Np 
+Nguy_cơ/N vi_rút/V Zika/Np lây/V từ/E mẹ/N sang/V con/N không/R cao/A vì_vậy/C người_mẹ/N mắc/V Zika/Np nhưng/C thai_nhi/N có_thể/R không/R nhiễm/V 
+Mặt_khác/X thai_nhi/N mắc/V Zika/Np chưa/R chắc/A đã/R mắc/V tật/N đầu/N nhỏ/A 
+Do_đó/C chị_em/N phụ_nữ/N đang/R mang/V thai/N hoặc/CC trong/E độ/N tuổi/N sinh_đẻ/N không/R nên/V lo_lắng/V về/E căn_bệnh/N này/P 
+Một/M chia_sẻ/V chuyên_môn/N khác/A từ/E TS.BS/Np Nguyễn_Văn_Vĩnh_Châu/Np Giám_đốc/N Bệnh_viện/N Bệnh_Nhiệt_Đới/Np TPHCM/Np cho/V thấy/V muỗi/N lây_truyền/V vi_rút/N Zika/Np là/V muỗi/N Aedes/Np khi/N muỗi/N này/P chích/V người/N nhiễm/V Zika/Np thì/C vi_rút/N cần/V khoảng/A 10/M ngày/N tồn_tại/V trong/E cơ_thể/N muỗi/N để/E sinh_sôi/V phát_triển/V sau/E đó/P muỗi/N chích/V sang/V người/N lành/A thì/C mới/R tạo/V ra/R nguy_cơ/N nhiễm_bệnh/V 
+Tuy_nhiên/C bệnh/N rất/R khó/A lây_nhiễm/V nên/C nguy_cơ/N người/N khỏe_mạnh/A bị/V vi_rút/N tấn_công/V không/R cao/A 
+Bên_cạnh/N việc/N yêu_cầu/V các/L cơ_sở/N dự_phòng/V điều_trị/V nỗ_lực/N triển_khai/V các/L biện_pháp/N phòng_chống/V dịch/N bà/N Thi_Thị_Tuyết_Nhung/Np Trưởng_ban/N Văn_hóa/N Xã_hội/N Hội_đồng/N Nhân_Dân/Np thành_phố/N cho_biết/V Zika/Np là/V dịch_bệnh/N mới/R nổi/V trước_mắt/N thành_phố/N sẽ/R hỗ_trợ/V toàn_bộ/L chi_phí/N phí/N xét_nghiệm/V điều_trị/V cho/E bệnh_nhân/N bị/V nhiễm/V đến/E khi/N Zika/Np được/V xem/V như/C bệnh/N truyền_nhiễm/N thông_thường/A 
+Vân_Sơn/Np 

@@ -1,0 +1,13 @@
+Giấc_ngủ/N bị/V gián_đoạn/V có/V hại/A hơn/R giấc_ngủ/N ngắn/A
+Trong/E xã_hội/N hiện_đại/A chúng_ta/P thường_xuyên/A phải/V đối_mặt/V với/E các/L rối_loạn/V giấc_ngủ/N
+Có/V những/L người/N mất_ngủ/V cả/P đêm/N số/N khác/A lại/R hay/C tỉnh/N dậy/V giữa_chừng/R
+Health/Np đưa/V tin/N theo/E báo_cáo/N của/E tạp_chí/N Sleep/Np chuyên_gia/N tâm_thần_học/N và/CC khoa_học/N hành_vi/N Patrick_Finan/Np từ/E Đại_học/N Johns_Hopkins/Np /V Mỹ/Np /V đã/R tiến_hành/V nghiên_cứu/V so_sánh/V giữa/E giấc_ngủ/N gián_đoạn/V và/CC giấc_ngủ/N ngắn/A nhưng/C liên_tục/A trên/E 62/M tình_nguyện_viên/N khỏe_mạnh/A
+Những/L người/Nc đàn_ông/N và/CC phụ_nữ/N này/P trải/V qua/R 3/M ngày/N 3/M đêm/N trong/E phòng_thí_nghiệm/N trả_lời/V các/L câu_hỏi/N về/E cảm_xúc/N cá_nhân/N cho_đến/E khi/N cảm_thấy/V buồn_ngủ/A
+Họ/P được/V chia/V làm/V 3/M nhóm/N nhóm/N thứ/N nhất/M bị/V gọi/V dậy/V nhiều/A lần/N một/M đêm/N nhóm/N thứ_hai/N chỉ/R được/V đi/V ngủ/V muộn/A nhưng/C không/R bị/V đánh_thức/V nhóm/N còn/V lại/R được/V tự_do/V ngủ/V và/CC không/R bị/V làm_phiền/V  /EOS
+Khi/N đo_đạc/V các/L giai_đoạn/N ngủ/V và/CC so_sánh/V cảm_xúc/N giữa/E các/L tình_nguyện_viên/N Finan/Np nhận/V thấy/V sau/E đêm/N đầu_tiên/A nhóm/N thứ/N nhất/M và/CC thứ_hai/N đều/R bị/V giảm/V các/L cảm_xúc/N tích_cực/A
+Đến/E những/L đêm/N tiếp_theo/V tâm_trạng/N nhóm/N bị/V đánh_thức/V tiếp_tục/V xấu/V đi/V trong/E khi/N nhóm/N không/R bị/V đánh_thức/V vẫn/R như/A cũ/A
+Điều/N đó/P có_nghĩa/V một/M giấc_ngủ/N bị/V gián_đoạn/V sẽ/R gây/V hại/V cho/E cơ_thể/N hơn/A và/CC làm/V tăng/V các/L cảm_xúc/N tiêu_cực/N
+Ngoài_ra/C nhờ/V xem_xét/V hoạt_động/V não/N của/E hai/M nhóm/N trên/A Finan/Np phát_hiện/V những_ai/P bị/V tỉnh_giấc/V nhiều/A lần/N khó/A đạt/V được/R giấc_ngủ/N sâu/A khiến/V họ/P không/R có/V cảm_giác/N được/V nghỉ_ngơi/V
+Chúng_ta/P phải/V quan_tâm/V đến/E cả/P thời_lượng/N lẫn/C chất_lượng/N của/E giấc_ngủ/N và/CC cảm_xúc/N nhà_khoa_học/N cho_biết/V
+Tất_nhiên/A thời_gian/N nghỉ_ngơi/V không/R tránh/V khỏi/R bị/V ảnh_hưởng/V bởi/E hàng_loạt/N yếu_tố/N như/C công_việc/N gia_đình/N bạn_bè/N
+Tuy_vậy/C trong/E mọi/L trường_hợp/N bạn/N hãy/R cố_gắng/V đừng/R để/E giấc_ngủ/N của/E mình/P bị/V ngắt_quãng/V

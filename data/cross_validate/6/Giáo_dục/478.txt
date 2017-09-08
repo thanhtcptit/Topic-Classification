@@ -1,0 +1,39 @@
+Điểm/N xét/V tuyển/V vào/E tất_cả/P các/L ngành/N của/E Đại_học/N Yersin_Đà_Lạt/Np là/V 15,5/M 
+Lâm_Đồng/Np Trường_Đại/Np học/V Yersin_Đà_Lạt/Np xét/V tuyển/V theo/E 2/M hình_thức/N Xét/V tuyển/V dựa/V vào/E kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N và/CC xét/V tuyển/V dựa/V vào/E kết_quả/N học_tập/V năm_học/N lớp/N 12/M ở/E bậc/N THPT/Np 
+Điểm_chuẩn/N xét/V tuyển/V các/L ngành/N của/E Trường/N ĐH/Np Yersin_Đà_Lạt/Np STT/Np Ngành/N Mã/Np ngành/N Điểm_chuẩn/N Khối/Np xét/V tuyển/V Tổ_hợp/N môn/N xét/V tuyển/V 1/M Công_nghệ_thông_tin/N 52480201/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Hóa_học/N A00/M )/Nu 2/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 3/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 4/M 
+Toán/N Vật_lý/N Sinh_học/N A02/M 2/M Khoa_học/N môi_trường/N 52440301/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Hóa_học/N A00/M )/Nu 2/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 3/M 
+Toán/N Hóa_học/N Sinh_học/N B00/M )/Nu 4/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M )/Nu 3/M Công_nghệ_sinh_học/N 52420201/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Hóa_học/N A00/M )/Nu 2/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 3/M 
+Toán/N Hóa_học/N Sinh_học/N B00/M )/Nu 4/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 4/M Điều_dưỡng/N 52720501/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 2/M 
+Toán/N Hóa_học/N Sinh_học/N B00/M )/Nu 3/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 4/M 
+Toán/N Sinh/V Tiếng_Anh/Np D08/M 5/M Quản_trị/V kinh_doanh/V 52340101/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Hóa_học/N A00/M )/Nu 2/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 3/M 
+Ngữ_văn/N Lịch_sử/N Địa_lý/N C00/M )/Nu 4/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 6/M Quản_trị/V dịch_vụ/N du_lịch/V và/CC lữ_hành/V 52340103/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Hóa_học/N A00/M )/Nu 2/M 
+Ngữ_văn/N Lịch_sử/N Địa_lý/N C00/M )/Nu 3/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 4/M 
+Ngữ_văn/N Địa_lý/N Tiếng_Anh/Np D15/M 7/M Kiến_trúc/N 52580102/M 15.5/M điểm/N Môn/N vẽ/V không/R nhân/V hệ_số/N 1/M 
+Toán/N Vật_lý/N Vẽ_Mỹ/Np thuật/V V00/M )/Nu 2/M 
+Toán/N Ngữ_văn/N Vẽ_Mỹ/Np thuật/V V01/M )/Nu 3/M 
+Ngữ_văn/N Vẽ/V NT/Np 1/M Vẽ/Np NT/Np 2/M (/Nu H00/M )/Nu 4/M 
+Toán/N Ngữ_văn/N Vẽ_Trang/Np trí/V H01/M )/Nu 8/M Thiết_kế/V nội_thất/N 52210405/M 15.5/M điểm/N Môn/N vẽ/V không/R nhân/V hệ_số/N 1/M 
+Toán/N Vật_lý/N Vẽ_Mỹ/Np thuật/V V00/M )/Nu 2/M 
+Toán/N Ngữ_văn/N Vẽ_Mỹ/Np thuật/V V01/M )/Nu 3/M 
+Ngữ_văn/N Vẽ/V NT/Np 1/M Vẽ/Np NT/Np 2/M (/Nu H00/M )/Nu 4/M 
+Toán/N Ngữ_văn/N Vẽ_Trang/Np trí/V H01/M )/Nu 9/M Ngôn_ngữ/N Anh/N 52220201/M 15.5/M điểm/N 1/M 
+Toán/N Vật_lý/N Tiếng_Anh/Np A01/M 2/M 
+Toán/N Ngữ_văn/N Tiếng_Anh/Np D01/M 3/M 
+Ngữ_văn/N Lịch_sử/N Tiếng_Anh/Np D14/M 4/M 
+Ngữ_văn/N Địa_lý/N Tiếng_Anh/Np D15/M Ngọc_Hà/Np 

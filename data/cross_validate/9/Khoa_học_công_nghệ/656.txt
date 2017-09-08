@@ -1,0 +1,7 @@
+﻿/Nc Nhật/Np biến/V gió/N bão/N thành/V điện_năng/N cho/E cả/P nước_dùng/N 50/M năm/N
+Kỹ_sư/N Atsushi_Shimizu/Np chuyên_gia/N ở/E Viện/N nghiên_cứu/V Môi_trường/N Quốc_gia/Np Nhật_Bản/Np thiết_kế/V turbin/N thông_minh/A để/E khai_thác/V sức_mạnh/N to_lớn/A của/E các/L cơn/Nc bão/N dưới/E dạng/N năng_lượng/N tái_tạo/V Inhabitat/Np hôm/N 28/M 9/M đưa/V tin/N
+Theo/E Shimizu/Np năng_lượng/N thu/V được/R từ/E một/M cơn/Nc bão/N đủ/A để/E cung_cấp/V điện/N cho/E toàn_bộ/L đất_nước/N Nhật_Bản/Np trong/E vòng/N 5/M thập_kỷ/N
+Phần_lớn/N turbin/V gió/N thông_thường/A dễ_dàng/A bị/V phá_hủy/V trong/E những/L cơn/Nc bão/N nhiệt_đới/N mạnh/A nhất/R nhưng/C thiết_kế/V turbin/N bão/N mới/A mang/V tên/N Challenergy/Np với/E trục/N xoay/V dọc/A do/E Shimizu/Np nghĩ/V ra/R có/V độ/N bền/N cao/A và/CC có_thể/R thu/V động_năng/N từ/E nhiều/A hướng/N
+Theo/E một/M ước_tính/V của/E Phòng_thí_nghiệm/N Hải_dương_học/Np và/CC Khí_tượng_học/Np Đại_Tây_Dương/Np ở/E Florida_Mỹ/Np một/M cơn/Nc bão/N phát/V ra/R động_năng/N tương_ứng/V với/E 1/M 5/M nghìn/N tỷ/V Jun/Np mỗi/L giây/N đủ/A để/E 38/M hộ/N gia_đình/N sử_dụng/V suốt/A cả/T năm/N
+Mẫu/N thử_nghiệm/V đầu_tiên/A với/E quy_mô/N nhỏ/A của/E turbin/N bão/N đã/R được/V lắp_đặt/V trên/E đảo/N Okinawa/Np ở/E phía/N tây/N Nhật_Bản/Np
+Nhật_Bản/Np có/V nhiều/A năng_lượng/N gió/N hơn/A năng_lượng/N Mặt_Trời/Np nhưng/C chưa/R khai_thác/V được/R và/CC có/V tiềm_năng/N trở_thành/V siêu/Z cường_quốc/N về/E phong/N năng/R Shimizu/Np cho_biết/V

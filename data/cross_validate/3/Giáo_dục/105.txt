@@ -1,0 +1,30 @@
+Tiến_sĩ/N phương_pháp/N toán/N chia_sẻ/V trước/N giờ/N thi/V quốc_gia/N
+Thầy/N tin/N chắc/V rằng/R 25/M câu/N đầu_tiên/A chỉ/R cần/V bình_tĩnh/A nhớ/V được/R những/L điều/N các/L em/N đã/R ôn_tập/V là/V sẽ/R nhanh_chóng/A chọn/V được/R phương_án/N đúng/A
+Nhưng/C đừng/V để/V nhầm_lẫn/V với/E các/L câu/N này/P vì/E đây/P là/V những/L câu/N mà/C số/N bạn/N làm/V được/V sẽ/R rất/R nhiều/A nên/C nhầm/V ở/E những/L câu/N này/P làm/V khoảng_cách/N dễ/N bị/V gia_tăng/V với/E các/L bạn/N
+Với/E 25/M câu/N đầu_tiên/A này/P các/L em/N nên/C phân_bố/N thời_gian/N khoảng/A 30/M phút/Nu để/E bước/V tiếp/V vào/E các/L câu/N tiếp_theo/V
+Các/L câu/N tiếp_theo/V bắt_đầu/V yêu_cầu/V các/L em/N phải/V có/V khả_năng/N vận_dụng/V các/L kiến_thức/N đã/R học/V để/E lựa_chọn/V phương_án/N
+Liên_quan/V tới/E bài_toán/N tiệm_cận/N thì/C thường/R bị/V nhầm_lẫn/V ở/V tiệm_cận/N đứng/V không/R phải/A cứ/V mẫu/N thức/N tiến/V tới/R 0/M là/V phân_thức/N tiến/V đến/R vô_hạn/N
+Với/E các/L bài_toán/N liên_quan/V tới/E đạo_hàm/N tới/V đồ_thị/N của/E hàm_số/N bắt_đầu/V có_thể/V các/L em/N gặp/V những/L câu/N có/V tham_số/N
+Với/E các/L bài_toán/N tích_phân/V nguyên/A hàm/N chỉ/R cần/V các/L em/N nhớ/V bảng/N nguyên/N hàm/N cơ_bản/A và/CC 2/M phương_pháp/N chủ_yếu/A để/E tính/V tích_phân/N là/V đổi/V biến/N và/CC tích_phân/V từng/P phần/N
+Trong/E các/L phép/N đổi/V biến/N để/E tính/V tích_phân/N trên/N [/N a/N
+b/N ]/N mà/C hàm/N dưới/N dấu/N tích_phân/N có/V vẻ/N phức_tạp/A các/L em/N nên/V thử/V phép/N đổi/V biến/N t/N a/N b/N x/N
+Nếu/C hàm/N dưới/N dấu/N tích_phân/A có/V thừa/N số_là/N đạo_hàm/N của/E một/M hàm_số/N nào/P đó/P thì/C các/L em/N hãy/R nghĩ/V đến/E tích_phân/N từng/R phần/N
+Nên/C nhớ/V nhiều/A câu/N tích_phân/N không_thể/V dùng/V máy_tính/N cầm/V tay/N mà/C giải/V ra/V nhé/N
+Những/L kiến_thức/N cơ_bản/A của/E số_phức/N nếu/C các/L em/N đã/R ôn_tập/V kĩ/N thì/C chắc_chắn/A những/L câu/N phần/N này/P các/L em/N sẽ/R nhìn/V ra/R cách/N lựa_chọn/V phương_án/N
+Tuy_nhiên/C để/E làm/V những/L câu/N về/V số_phức/V với/E mức/N vận_dụng/N cao/A hơn/A các/L em/N nên/C để_ý/V tới/V ý_nghĩa/N hình_học/N của/E số_phức/N nhất_là/N môđun/N của/E một/M biểu_thức/N rất/R có_thể/A đó/P là/V khoảng_cách/N của/E 2/M điểm/N trên/N mặt_phẳng/N mà_thôi/N
+Chú/Nc ý/N tập/V hợp_điểm/N biểu_diễn/V số_phức/N z/N thoả_mãn/N là/V đường_tròn/N tâm/N I/N a/N
+b/N bán_kính/N r/N k/N
+Về/E hình_học/N các/L em/N cần/V nhớ/V các/L loại/N phương_trình/N của/E đường_thẳng/N vectơ/N chỉ/R phương/N vectơ/V pháp_tuyến/V cùng/E các/L điều_kiện/N cắt/V nhau/N chéo/N nhau/N vuông_góc/V song_song/A với/V nhau/N
+Ngoài_ra/C bài_toán/N xác_định/V giao_điểm/N của/E đường_thẳng/N với/E mặt/N phảng/N hay/N góc/N giữa/N 2/M đường_thẳng/N 2/M mặt_phẳng/N cũng/R là/V những/L điều/N mà/C các/L em/N không/R thể_nào/V quên/V
+Với/E các/L bài_toán/N có/V gắn/V nội_dung/N thực_tế/N các/L em/N cần/V nắm/V vững/A ý_nghĩa/N vật_lí/N của/E đạo_hàm/N nguyên/N hàm/N để/E xét/V các/L bài_toán/N liên_quan/V tới/V chuyển_động/N
+Biết/V hàm/N vận_tốc/N lấy/V nguyên/N hàm/N sẽ/R có/V hàm/N quãng/N đường/N lấy/V đạo_hàm/N sẽ/R có/V hàm/N gia_tốc/N
+Nếu/C biết/V gia_tốc/N thì/C lấy/V nguyên/N hàm/N sẽ/R ra/V hàm/N vận_tốc/N
+Với/E các/L bài_toán/N này/P lưu_ý/V các/L em/N đổi/V về/R cùng/N đơn_vị/N tương_ứng/V kẻo/N mắc/V sai_lầm/A khi/N áp_dụng/V các/L hàm/N với/E các/L đơn_vị/N của/E đối/N số_không/N thích_hợp/N
+Ngoài_ra/C các/L bài_toán/N thực_tế/N liên_quan/V tới/E những/L đại_lượng/N thay_đổi/V theo/E thời_gian/N như/C tiền/N gửi/V tiết_kiệm/V với/E lãi/N tính/V theo/E các/L khoảng/N thời_gian/N khác/A nhau/N phân_biệt/V lãi/N kép/V với/E gửi/N tiết_kiệm/N nhưng/C định_kì/N vẫn/R rút_tiền/V ra/R với/E bài_toán/N vay/V tiền/N hay/C mua/V trả_góp/N cũng_nên/N được/V quan_tâm/V
+Các/L bài_toán/N gắn/V với/E thực_tế/N có_thể/N là/V các/L bài_toán/N liên_quan/V tới/E tìm/N giá_trị/N lớn/A nhất/R nhỏ/A nhất/A của/N biểu_thức/N nhằm/V sản_phẩm/N ích_lợi/A nhất/A hoặc/N nguyên_vật_liệu/N tiết_kiệm/A nhất/A
+Ngoài/E phương_pháp/N dùng/V dạo/N hàm/N các/L em/N nên/C biết/V áp_dụng/N hệ_quả/N của/E bất_đẳng_thức/N Cauchy/Np tổng/N các/L số_không/N âm/N không/R đổi/V thì/C tích/N lớn/A nhất/A khi/N các/L số/N bằng/E nhau/N tích/N của/E các/L số_không/N âm/N không/R đổi/V thì/N tổng/N nhỏ/A nhất/A khi/N các/L số/N bằng/N nhau/N
+Với/E các/L câu/N lạ/A quá/R cũng/R chỉ/R nên/V nghĩ/V khoảng/A 3/M 4/M phút/N mà/C không/R nên/V mất/V thời_gian/N nghĩ/V lâu/A và/N tốt/A nhất/A cuối_cùng/A vẫn/R bằng/A linh_cảm/N để/E chọn/V 1/M phương_án/N nào/P đó/P đừng/V để/V trống/A nhé/N
+Nếu/C áy_náy/V điều/N gì/P các/L em/N nên/V xem_lại/N thí_dụ/V xem/V ngay/N lời_giải/N vì/N bây_giờ/P không/R phải/A là/V lúc/N ngồi/V để/E giải/V toán/N nữa/R
+Cuối_cùng/N chúc/N các/L em/N bình_tĩnh/N tự_tin/V và/N thành_công/V
+TS/N
+LÊ/N THỐNG/N NHẤT/M Sáng_lập/N BigSchool/N

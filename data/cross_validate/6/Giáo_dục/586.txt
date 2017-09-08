@@ -1,0 +1,13 @@
+5/M bước/N đăng_ký/V tuyển_sinh/V trực_tuyến/A vào/E mầm_non/N lớp/N 1/M lớp/N 6/M
+Năm_học/N 2017-2018/M Hà_Nội/Np tiếp_tục/V áp_dụng/V hình_thức/N đăng_ký/V trực_tuyến/A trong/E tuyển_sinh/V đầu/N cấp/V vào/E mầm_non/N lớp/N 1/M lớp/N 6/M  /EOS
+Điểm/N mới/R trong/E cách_thức/N tuyển_sinh/V trực_tuyến/A năm/N nay/P là/V mỗi/L học_sinh/N được/V cấp/V một/M mã_số/N
+Khi/N nhập/V dữ_liệu/N theo/E mã_số/N này/P hệ_thống/N đăng_ký/V sẽ/R phân/V tuyến/N cho/E học_sinh/N vào/V trường/N theo/V quy_định/N
+Từ/E ngày/N 15/6/M cổng/N điện_tử/N tuyển_sinh/V trực_tuyến/A của/E Hà_Nội/Np /A http/V //X //X tsdaucap noi v /N /N bắt_đầu/V mở/V để/E phục_vụ/V công_tác/N tuyển_sinh/V đầu/N cấp/N
+Thời_gian/N đăng_ký/V trực_tuyến/A vào/E lớp/N 1/M là/V 15-18/M //X 6/M với/E trẻ/N 5/M tuổi/N vào/E trường_mầm_non/N là/V 19-22/M //X 6/M vào/E lớp/N 6/M là/V 23-26/M //X 6/M
+Có/V 5/M bước/N để/E đăng_ký/V tuyển_sinh/V trực_tuyến/A /N xem/V chi_tiết/N /N
+Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np đặc_biệt/A lưu_ý/V với/C tuyển_sinh/V vào/E lớp/N 1/M lớp/N 6/M học_sinh/N phải/V có/V mã_số/N và/CC mật_khẩu/N đăng_ký/V do/E trường_mầm_non/N tiểu_học/N năm/N 2016-2017/M trên/E địa_bàn/N bàn_giao/V cho/E cha_mẹ/N học_sinh/N vào/E cuối/N cấp/N
+Mỗi/L mã_số/N này/P chỉ/R được/V đăng_ký/V tuyển_sinh/V trực_tuyến/A một/M lần/N
+Đăng_ký/V vào/E các/L trường_mầm_non/N cha_mẹ/N học_sinh/N không/R cần/V nhập/V mã_số/A và/CC mật_khẩu/A
+Khi/N điền/N thông_tin/V vào/E biểu_mẫu/N đăng_ký/V trực_tuyến/A cha_mẹ/N nhất_thiết/R phải/V khai/V đủ/A họ/P và/CC tên/N năm/N sinh/V số/N chứng_minh/V nhân_dân/N vào/E một/M trong/E 3/M phần/N Thông_tin/N cha/N thông_tin/N mẹ/N hoặc/CC thông_tin/N người/N giám_hộ/V  /M Trường/N
+hợp/V sai/A thông_tin/N học_sinh/N khi/N cha_mẹ/N mang/V hồ_sơ/N tuyển_sinh/V đến/V nộp/V tại/E trường/N đăng_ký/V ban/N tuyển_sinh/V sẽ/R đối_chiếu/V và/CC chỉnh_sửa/V
+Khi/N nộp/V hồ_sơ/N nhập_học/V cha_mẹ/N học_sinh/N phải/V nộp/V kèm/V giấy/N nhập_học/V năm_học/N 2017-2018/M được/V in/V từ/E hệ_thống/N tuyển_sinh/V trực_tuyến/A hoặc/CC nhờ/V trường/N hỗ_trợ/V in/V giấy/N này/P nếu/C đã/R đăng_ký/V thành_công/V

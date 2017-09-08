@@ -1,0 +1,36 @@
+Hơn/A 400 0/M thí_sinh/N thi/V bài/N tổ_hợp/N Khoa_học_tự_nhiên/N
+Sáng/N 23/6/M hơn/R 400 0/M sĩ_tử/N bước/V vào/E ngày/N thứ_hai/N kỳ/N thi/V THPT/Np quốc_gia/N
+Thử_thách/V của/E các/L em/N là/V bài/N tổ_hợp/N Khoa_học_tự_nhiên/N gồm/V Vật_lý/N Hóa_học/N Sinh_học/N mỗi/L môn/N thành_phần/N có/V thời_gian/N làm/V bài/N 50/M phút/Nu
+Đây/P là/V lần/N đầu_tiên/A kỳ/N thi/V THPT/Np quốc_gia/N có/V bài/N thi/V tổ_hợp/N với/E hình_thức/N trắc_nghiệm/V
+Đại_học/N Công_nghiệp/N là/V trường/N đại_học/N duy_nhất/A của/E Hà_Nội/Np diễn/V ra/R kỳ/N thi/V THPT/Np quốc_gia/N
+Tại/E điểm/N thi/V quy_tụ/N thí_sinh/N tự_do/A này/P không_khí/N có/V phần/N căng_thẳng/A
+Trước/E giờ/N thi/V nhiều/A thí_sinh/N vẫn/R chưa/R rõ/A có/V được/R về/V sớm/A hay/C không/R nếu/C chỉ/R thi/V một/M hoặc/CC hai/M môn/N thành_phần/N
+Có_mặt/V tại/E điểm/N thi/V từ/E 6h/M Minh_Đức/Np đến/V từ/E Thạch_Thất/Np cho_biết/V chỉ/R thi/V hai/M môn/N Lý/Np và/CC Hóa/Np
+Hình_như/X chỉ/R cần/V nộp/V đề/N là/V có_thể/R ra/V sớm/N em/N cũng/R không/R rõ/A nữa/R Đức/Np nói/V một_cách/N không/R chắc_chắn/A
+Một/M thí_sinh/N khác/A đến/V từ/E Hoài_Đức/Np cũng/R ậm_ừ/V không/R biết/V liệu/V được/V ra/V sớm/A không/R
+Cán_bộ/N coi/V thi/V đã/R phổ_biến/V hôm/N làm/V thủ_tục/N nhưng/C em/N cũng/R không/R nhớ/V rõ/A
+Nếu/C chỉ/R thi/V Lý/Np và/CC Hóa/Np thí_sinh/N có_thể/A ra/V về/R nhưng/C không/R được/V cầm/V đề/N nam_sinh/N phỏng_đoán/V
+Tại/E điểm/N thi/V THCS/Np THPT/Np M Lomonoxop/Np Nguyễn_Hoàng_Phương_Thùy_Linh/Np /V THPT/Np Xuân_Đỉnh/Np /M cho_biết/V đã/R nắm/V chắc/A kiến_thức/N trọng_tâm/A của/E chương_trình/N lớp/N 12/M
+Trong/E 3/M môn/N thành_phần/N của/E bài/N tổ_hợp/N Linh/Np sẽ/R dùng/V điểm/N 2/M môn/N Hóa/V và/CC Sinh/V cùng_với/C Toán/Np để/E xét/V tuyển/V vào/E Cao_đẳng/N Y_tế/N Hà_Nội/Np
+Năm/N 2016/M trường/N này/P lấy/V điểm_chuẩn/N cao/A nhất_là/X 17/M
+Đã/R hoàn_thành/V tốt/A bài/N thi/V Toán/Np nữ_sinh/N thoải_mái/A tâm_lý/N chỉ/R ôn/V lại/R lý_thuyết/N Hóa/Np Sinh/Np đủ/A để/E lấy/V 6-7/M điểm/N
+Qua/E đề/N tham_khảo/V và/CC đề/V trắc_nghiệm/V môn/N Toán/Np em/N thấy/V nếu/C nắm/V chắc/A lý_thuyết/N cơ_bản/A cũng/R đủ/A lấy/V 6-7/M điểm/N
+Lớp/N 12/M các/L môn/N thi/V đại_học/N của/E em/N đều/R đạt/V trên/E 7,0/M riêng/A Sinh/V được/R 7,9/M nên/C em/N không/R lo_lắng/V lắm/R nữ_sinh/N chia_sẻ/V
+Theo/E quy_chế/N thí_sinh/N đã/R đăng_ký/V thi/V bài/N tổ_hợp/N nào/P thì_phải/V dự/V hết/V các/L môn/N thành_phần/N của/E bài/N thi/V đó/P
+Việc/N thí_sinh/V không/R dự/V thi/V sẽ/R được/V coi/V là/C bỏ/V không/R được/V xét/V tốt_nghiệp/V  /EOS
+Những/L thí_sinh/N tự_do/A được/V quyền/N bảo_lưu/V kết_quả/N thi/V năm/N 2016/M có_thể/R chọn/V các/L môn/N thành_phần/N của/E bài/N thi/V tổ_hợp/N để/E xét/V tốt_nghiệp/V
+Ví_dụ/V thí_sinh/V được/R bảo_lưu/V môn/N Vật_lý/N sẽ/R chỉ/R cần/V đăng_ký/V thi/V môn/N Hóa_học/N Sinh_học/N của/E bài/N tổ_hợp/N Khoa_học_tự_nhiên/N để/E xét/V tốt_nghiệp/V  /EOS Như_vậy/C trong/E cùng/A buổi/N thi/V bài/N tổ_hợp/N có/V thí_sinh/N làm/V cả/P 3/M môn/N có/V em/N chỉ/R thi/V 1-2/M môn/N
+Thí_sinh/N sẽ/R làm/V các/L môn/N thi/V thành_phần/N của/E bài/N tổ_hợp/N trên/E cùng/A một/M phiếu/N trả_lời/V trắc_nghiệm/V
+Hết/V thời_gian/N làm/V bài/N môn/N thi/V thành_phần/N cuối_cùng/A của/E bài/N thi/V tổ_hợp/N cán_bộ/N coi/V thi/V mới/R thu/V phiếu/N trả_lời/V này/P
+Các/L thí_sinh/N tự_do/A có_thể/R không/R thi/V hết/V môn/N thành_phần/N của/E bài/N thi/V tổ_hợp/N nên/C theo/V quy_chế/N các/L điểm/N thi/V bố_trí/V phòng/N riêng/A cho/E những/L thí_sinh/N này/P  /EOS
+Để/E xét/V tốt_nghiệp/V THPT/Np thí_sinh/N sẽ/R làm/V 5/M bài/N thi/V gồm/V 3/M bài/N độc_lập/N bắt_buộc/V là/V Toán/Np Văn/Np Ngoại_ngữ/N lựa_chọn/V một/M trong/E hai/M bài/N thi/V tổ_hợp/N Khoa_học_tự_nhiên/N /A Lý/Np Hóa/Np Sinh/Np /V hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Nếu/C muốn/V tăng/V cơ_hội/N xét/V tuyển/V đại_học/N thí_sinh/N có_thể/A chọn/V thi/V cả/P hai/M bài/N tổ_hợp/N
+Thống_kê/V của/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N cả/P nước/N có/V khoảng/N 866 0/M thí_sinh/N dự/V thi/V tại/E 2 0/M điểm/N
+Toán/N là/V môn/N có/V số/N thí_sinh/N dự/V thi/V đông/A nhất/R gồm/V 858 0/M
+Văn/Np xấp_xỉ/A 838 0/M
+Lý/Np 412 0/M
+Hóa/V 414 0/M
+Sinh/Np 399 0/M
+Ngoại_ngữ/N xấp_xỉ/A 760 0/M
+Sử/N 513 0/M
+Lý/Np 498 0/M và/CC Giáo_dục/N công_dân/N 434 0/M

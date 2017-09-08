@@ -1,0 +1,10 @@
+Chế/V linh_kiện/N xe_hơi/N từ/E cacbon/N trong/E không_khí/N
+Một/M nhóm/N nghiên_cứu/V của/E giáo_sư/N Stuart_Licht/Np ở/E Đại_học/N George_Washington_Washington/Np DC/Np Mỹ/Np thiết_kế/V quy_trình/N thu/V cacbon/N từ/E không_khí/N và/CC biến/V nó/P thành/V sản_phẩm/N có_giá/A cao/A hơn/A hẳn/R chi_phí_sản_xuất/X
+Kết_quả/N nghiên_cứu/V được/R công_bố/V trong/E hội_thảo/N của/E Hiệp_hội/N hóa_học/N Mỹ/Np diễn/V ra/R đầu/N tuần/N tại/E thành_phố/N Boston/Np bang/V Massachusetts/Np
+Theo/E tính_toán/V của/E nhóm/N nghiên_cứu/V sợi/N nano/N cacbon/N có_giá/A bán/V 25/M 000/M USD/Nu //X tấn/N nhưng/C với/E quy_trình/N này/P giá_thành/N sản_xuất/V chỉ/R vào_khoảng/X 1/M 000/M USD/Nu
+Quy_trình/N này/P diễn/V ra/R trong/E một/M bình_điện/N phân/N cacbon/N lẫn/C với/E không_khí/N sẽ/R được/V hòa_tan/V và/CC dẫn/V vào/E bình/N chứa/V lithium/N carbonate/V một/M chất/N hóa_học/N công_nghiệp/N phổ_biến/V
+Sau/E đó/P sợi/N nano/N cacbon/V hình_thành/V dưới/E dạng/N mảnh/N giống/A như/C những/L sợi/Nc thép/N phát_triển/V từ/E các/L mẩu/N nickel/N coban/N hoặc/CC đồng/N cực/N nhỏ/A
+Gần/A đây/P nhóm/N nghiên_cứu/V đã/R nâng/V cường_độ/N dòng_điện/N để/E thúc_đẩy/V sợi/N nano/V cacbon/N phát_triển/V từ/E 1/M lên/E 100/M A/N
+Dòng_điện/N có_thể/A lấy/V từ/E các/L nguồn/N thông_thường/A nhưng/C Licht/Np cũng/R khai_thác/V thành_công/V năng_lượng/N Mặt_Trời/Np
+Nếu/C sản_xuất/V trên/E quy_mô/N lớn/A quy_trình/N này/P còn/R góp_phần/V không/R nhỏ/A vào/E cuộc_chiến/N chống/V biến_đổi/V khí_hậu/N
+Theo/V tính_toán/V với/E một/M diện_tích/N đất/N chưa/R đến/V 10%/M kích_thước/N sa_mạc/N Sahara/Np quy_trình/N của/E chúng_tôi/P có_thể/R lọc/V CO2/Np và/CC đưa/V lượng/N cacbon/N trong/E không_khí/N về/V mức/N trước/E cách_mạng_công_nghiệp/N trong/E vòng/N 10/M năm/N Licht/Np cho_biết/V

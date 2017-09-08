@@ -1,0 +1,15 @@
+Sinh_viên/N tạo/V đèn/N phát/V sáng/N bằng/E vi_khuẩn/N
+Ba/M sinh_viên/N trường/N đại_học/N  /M Wisconsin/Np cho_biết/V sản_phẩm/N của/E họ/P khác/A với/E những/L loại/N bóng_đèn/N phát/V sáng/N bằng/E năng_lượng/N thông_thường/A như/C bóng_đèn/N sợi/Nc đốt/N đèn_huỳnh_quang/N đèn_neon/N hay/C đèn/N LED/Np
+Chi_phí/N để/E tạo/V bóng_đèn/N phát/V sáng/N này/P khoảng/A 15 0/M USD/Nu
+Theo/E Michael_Zaiken/Np một/M tác_giả/N của/E nghiên_cứu/N bóng_đèn/N này/P thực_chất/N là/V một/M hệ_sinh_thái/N khép_kín/A chứa/V nhiều/A vi_sinh_vật/N khác_nhau/A
+Mỗi/L loài/N trong/E số/N đó/P có/V vai_trò/N tái_chế/V các/L chất/N dinh_dưỡng/N cần_thiết/A từ/E loài/N khác/A để/E cùng/A tồn_tại/V
+Thành_phần/N quan_trọng/A nhất/A trong/E hệ_sinh_thái/N kép/N của/E bóng_điện/N là/V vi_khuẩn/N  /V Escherichia/Np coli/V đã/R biến_đổi/V gene/N
+Loài/N này/P có/V trong/E ruột/N người/N và/CC một_số/L loài/N động_vật/N khác/A nhưng/C thông_thường/A chúng/P không_thể/R phát/V sáng/N
+Để/E làm/V bóng_đèn/N phát/V sáng/N  /N Michael_Zaiken/Np và/CC hai/M thành_viên/N khác/A trong/E nhóm/N đã/R chèn/V một/M vòng/N DNA/Np mới/R vào/V vi_khuẩn/N  /V Escherichia/Np coli/V
+Vòng/N DNA/Np này/P được/V nhóm/N lấy/V từ/E loài/N sứa/N đom_đóm/N mực/N và/CC một_số/L động_vật/N phát_quang/V khác/A
+Nhờ/V được/R phát/V sáng/N bởi/E vi_khuẩn/N Escherichia/Np coli/V các/L vi_khuẩn/N khác/A có_thể/R tạo/V ra/R thực_phẩm/N và/CC tái_chế/V chất_thải/N
+Vì_vậy/C loại/N bóng_đèn/N này/P phát/V sáng/N mà/C không/R cần/V sử_dụng/V điện/N và/CC có_thể/R hoạt_động/V liên_tục/A nhiều/A tháng/N
+Hiện/N sản_phẩm/N vẫn/R chưa/R xuất_hiện/V trên/E thị_trường/N
+Nhóm/N của/E Michael_Zaiken/Np đang/R nghiên_cứu/V gene/N tốt/A nhất/R để/E hoàn_thiện/V sản_phẩm/N
+Một/M trong/E những/L thách_thức/N được/V đặt/V ra/R là/C làm/V thế_nào/P để/E giữ/V DNA/Np mã_hóa/V sự/N phát_quang/V sinh_học/N bên/N trong/E vi_khuẩn/N  /M Escherichia/Np coli/V để/E chúng/P tồn_tại/V như/C tế_bào/N tái_tạo/A
+Michael_Zaiken/Np cho_biết/V thêm/R hiện/N nhóm/N đang/R tìm_kiếm/V các/L giải_pháp/N nhằm/V giữ/V gene/N phát_quang/V sinh_học/N tồn_tại/V ổn_định/A trong/E thời_gian/N dài/A

@@ -1,0 +1,18 @@
+10/M địa_phương/N có/V điểm/N trung_bình/A môn/N Toán/Np cao/A nhất/R
+Cả/P nước/N có/V hơn/A 853 0/M  /Nu thí_sinh/N thi/V môn/N Toán/Np THPT/Np quốc_gia/N điểm/N trung_bình/A là/V 5,19/M cao/A hơn/A hẳn/R con_số/N 4,45/M của/E năm/N 2016/M
+Trong/E đó/P 281/M thí_sinh/N đạt/V điểm/N tuyệt_đối/A và/CC 1 4/M em/N bị/V điểm/N liệt/A /A từ/E 1/M trở/V xuống/R /M
+/M Nhấp/Np vào/E thanh/N điểm/N trung_bình/A của/E từng/R địa_phương/N để/E xem/V số_liệu/N cụ_thể/A /M 10/M địa_phương/N có/V điểm/N trung_bình/A Toán/Np cao/A nhất/R đạt/V từ/E 5,56/M đến/E gần/A 6/M
+Riêng_Nam_Định/Np đạt/V 6,1433/M điểm/N bỏ/V xa/A các/L tỉnh_thành/N còn/V lại/R trong/E top/N 10/M
+Phổ/V điểm/N môn/N Toán/Np của/E Nam_Định/Np rất/R đẹp/A với/E đồ_thị/N lệch/A về/V sang/V phải/V
+Trong/E hơn/A 18 0/M thí_sinh/N toàn/R tỉnh/N dự/V thi/V môn/N Toán/Np có/V 1 0/M em/N đạt/V điểm/N 9-10/M trong/E đó/P 8/M em/N điểm/N tuyệt_đối/A
+Số/N bị/V điểm/N liệt/A là/V 10/M thấp/A nhất/R trong/E 63/M tỉnh_thành/N  /EOS
+TP_HCM/Np với/E hơn/R 71 0/M thí_sinh/N dự/V thi/V xếp/V thứ_hai/N về/V điểm/N trung_bình/A môn/N Toán/Np 5,8995/M
+Thành_phố/N có/V 1 5/M điểm/N 9-10/M
+Ngoại_trừ/V số/N điểm/N 0/M cao/A nhất/A cả/P nước/N /V 598/M /N phổ/V điểm/N môn/N Toán/Np của/E thành_phố/N khá/R đẹp/A với/E đồ_thị/N lệch/A sang/V phải/V
+Hà_Nội/Np xếp/V thứ/N 9/M do/E phổ/V điểm/N môn/N Toán/Np giống/V hình_thang/N cân/N số_lượng/N thí_sinh/N rải/V đều/R ở/E các/L mức/N điểm/N từ/E 2,8/M đến/E 8/M /Nu mỗi/M mức/N chênh/V 0,2/M điểm/N /V
+Thành_phố/N có/V 3 9/M thí_sinh/N đạt/V 9-10/M thuộc/V loại/N cao/A nhất/A cả/P nước/N và/CC 73/M em/N bị/V điểm/N liệt/A  /EOS
+10/M địa_phương/N có/V điểm/N trung_bình/A Toán/Np thấp/A nhất/R đều/R thuộc/V khu_vực/N miền/N núi/N phía/N Bắc/Np như/C Sơn_La/Np Hà_Giang/Np Cao_Bằng/Np Bắc_Kạn/Np  /V Với/E điểm/N trung_bình/A 3,3051/M phổ/V điểm/N môn/N Toán/Np của/E tỉnh/N Sơn_La/Np khá/R đặc_biệt/A
+Dù/C có/V điểm/N trung_bình/A thấp/A nhất/A nhưng/C Sơn_La/Np chỉ/R có/V 51/M thí_sinh/N bị/V điểm/N liệt/A môn/N Toán/Np thấp/A hơn/R địa_phương/N trong/E top/N đầu/N như/C Hà_Nội/Np TP_HCM/Np  /EOS
+2017/M là/V năm/N đầu_tiên/A môn/N Toán/Np được/V thi_trắc_nghiệm/V trong/E kỳ/N thi/V THPT/Np quốc_gia/N
+Khác/A với/E các/L năm/N trước/A đề/N thi/V Toán/Np 2017/M chỉ/R tập_trung/V ở/E chương_trình/N lớp/N 12/M không/R bao_gồm/V lớp/N 10/M và/CC 11/M
+Kết_thúc/V môn/N thi/V nhiều/A giáo_viên/N và/CC học_sinh/N đánh_giá/V đề/N dễ/A hơn/R mọi/L năm/N khó/A nhất_là/X 5/M câu/N cuối/N

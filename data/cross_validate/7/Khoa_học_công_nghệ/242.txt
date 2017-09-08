@@ -1,0 +1,14 @@
+Cùng/A ngắm/V loạt/N biểu_tượng/N cảm_xúc/N vừa/R cập_nhật/V
+Theo/E một/M báo_cáo/N năm/N 2016/M mỗi/M ngày/N có/V hơn/A 6/M tỉ/N emoji/N được/V gửi/V đi/V trên/E toàn/N thế_giới/N
+Các/L biểu_tượng/N cảm_xúc/N này/P xuất_hiện/V ở/E mọi/N dạng_thức/N trên/E các/L biển/N quảng_cáo/N trong/E phim_ảnh/N và/CC trên/N quần/N áo/N
+Emoji/N bắt_nguồn/N từ/E Nhật_Bản/Np nhưng/C tới/V nay/P đã/R trở_thành/V ngôn_ngữ/N toàn_cầu/N
+Theo/E đó/P các/L vấn_đề/N liên_quan/V tới/E emoji/N rốt_cuộc/N đã/R trở_thành/V một/M phần/N việc/N của/E Liên_đoàn/N Unicode/Np
+Liên_đoàn/N Unicode/Np là/V tổ_chức/N chịu/V trách_nhiệm/N về/V việc/N quy_định/N bộ/N mã/N cách/V dựng/V hình/N cách/V mã_hoá/N để/E biểu_diễn/V một/M kí_tự/N sự/N tương_quan/V collation/N giữa/N các/L kí_tự/N và/CC nhiều/A đặc_tính/N khác/A của/E các/L kí_tự/N
+sao/P cho/V mọi/N văn_bản/N và/CC hình_ảnh/N sẽ/R phải/V được/V hiển_thị/V giống/V nhau/N trên/E mọi/N thiết_bị/N và/CC ở/V mọi/N nơi/N trên/N thế_giới/N
+Đây/P cũng/R là/V tổ_chức/V giữ/V vai_trò/N kiểm_soát/V việc/N tạo/V ra/V các/L emoji/N và/CC bổ_sung/V chúng/N cho/V các/L thiết_bị/N di_động/N như/C thế_nào/N
+Bất_cứ/N ai/P cũng/R có_thể/A nộp/V mẫu/N đề_xuất/N emoji/N của/E họ/N tới/V Liên_đoàn/N Unicode/Np
+Tổ_chức/N này/P sẽ/R xem_xét/V và/N phê_chuẩn/V các/L đề_xuất/N đó/P
+Quá_trình/N phê_chuẩn/N có_thể/R khá/R lâu/A và/N để/E đi/V tới/E kết_luận/N cuối_cùng/A còn/R liên_quan/V tới/E nhiều/A nhân_tố/N kĩ_thuật/N
+Tuy_nhiên/C một/M trong/E những/L tiêu_chí/N quan_trọng/A nhất_là/N tính/V hữu_dụng/N và/CC phổ_biến/N của/E biểu_tượng/N cảm_xúc/N
+Khi/N một/M emoji/N đã/R được/V lựa_chọn/V đưa/V vào/E danh_sách/N cập_nhật/V vấn_đề/N tiếp_theo/V sẽ/R tuỳ_thuộc/V vào/E các/L nhà/Nc thiết_kế/N ở/V từng/N hãng/N công_nghệ/N như/C Apple/Np hay/V Google/Np
+Các/L chuyên_gia/N của/E từng/N hãng/N sẽ/R quyết_định/V việc/N những/L emoji/N này/P xuất_hiện/V như/C thế_nào/N trên/E thiết_bị/N của/N họ/N

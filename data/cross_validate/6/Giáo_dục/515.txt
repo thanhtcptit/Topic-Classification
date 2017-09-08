@@ -1,0 +1,8 @@
+Đáp_án/N bài/N thi/V vào/E lớp/N 6/M trường/N THPT/Np chuyên/A Trần_Đại_Nghĩa/Np
+Có/V gần/A 3 0/M thí_sinh/N tham_dự/V kỳ/N khảo_sát/V để/E tranh/V 525/M suất/N vào/E lớp/N 6/M trường/N THPT/Np Trần_Đại_Nghĩa/Np năm/N nay/P tỷ_lệ/N 1/M chọi/V 7/M
+Bài/N khảo_sát/V năng_lực/N gồm/V trắc_nghiệm/V và/CC tự/P luận/V nội_dung/N bao_gồm/V các/L lĩnh_vực/N toán_học/N tư_duy/N toán/Nc thực_tiễn/N năng_lực/N tiếng/N Anh/Np hiểu_biết/V tự_nhiên/N khoa_học/N thường_thức/A
+Trong/E đó/P phần/N trắc_nghiệm/V chiếm/V 60%/M tổng_số/N điểm/N bài/N thi/V
+>/M >/N Đề/Np và/CC đáp_án/V phần/N trắc_nghiệm/V >/M >/N Đề/Np và/CC đáp_án/V phần/N tự/P luận/V Đây/P là/V năm/N thứ_ba/N trường/N tổ_chức/V khảo_sát/V năng_lực/N bằng/E tiếng/N Anh/Np để/E chọn/V học_sinh/N vào/E lớp/N 6/M
+Nếu_không/N trúng_tuyển/V học_sinh/N vẫn/R được/V xét/V tuyển/V vào/E trường/N khác/A theo/E quy_định/N của/E Ban/N chỉ_đạo/V tuyển_sinh/V các/L quận/N huyện/N
+Năm_ngoái/N điểm/N trúng_tuyển/V lớp/N 6/M trường/N này/P là/V 57/M /N thang/N điểm/N 100/M /N
+Trần_Đại_Nghĩa/Np là/V một/M trong/E những/L trường/N THPT/Np chuyên/A lớn/A của/E TP_HCM/Np và/CC cũng/R là/V trường/N duy_nhất/A ở/E thành_phố/N tổ_chức/V khảo_sát/V để/E tuyển_sinh/V lớp/N 6/M

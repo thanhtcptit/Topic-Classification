@@ -1,0 +1,14 @@
+Hàng_loạt/N cửa_hàng/N xe_máy/N bị/V ném/V bom_bẩn/N
+Hàng_loạt/N cửa_hàng/N xe_máy/N của/E một/M doanh_nghiệp/N tại/E TP/Np Vinh/Np Nghệ_An/Np bị/V một/M nhóm/N thanh_niên/N bị/V kín/A mặt/N đi/V xe_máy/N ném/V các/L túi/N chứa/N mắm_tôm/N dầu/N nhờn/N
+Chiều/N 276/M ông/N Nguyễn_Quang_Việt/Np chủ_tịch/N UBND/Np phường/N Hưng_Phúc/Np TP/Np Vinh/Np Nghệ_An/Np xác_nhận/V công_an/N phường/N này/P đang/R điều_tra/V việc/N một/M nhóm/N thanh_niên/N tấn_công/V cửa_hàng/N xe_máy/N của/E Công_ty/N TNHH/Np Huệ_Lộc/Np bằng/V bom_bẩn/N
+Theo/E trình_báo/N của/E Công_ty/N TNHH/Np Huệ_Lộc/Np khoảng/N 14h20/M chiều/N 266/M khi/N các/L nhân/N viên/N cửa_hàng/N Huệ_Lộc/Np 3/M đường/N Nguyễn_Sỹ_Sách/Np TP/Np Vinh/Np đang/R tư_vấn/V cho/E khách/N hàng/N thì/C bất_ngờ/A bị/V một/M nhóm/N 4/M thanh_niên/N đeo/V khẩu_trang/N mặc/V áo/N chống/V nắng/N lao/V tới/E ném/V thẳng/N hai/M túi/N mắm_tôm/N và/CC dầu_nhờn/V vào/V bên/N trong/N
+Các/L nhân_viên/N cho/V biết/V thêm/R những/L người/N này/P đứng/V phía/N ngoài/N ném/V mạnh/A các/L bao/N chứa/V bom_bẩn/N vào/V trong/E cửa_hàng/N rồi/C lên/V xe_máy/N chạy/V đi/R chỉ/R trong/E vài/N giây/N
+Do/E các/L xe_máy/N đã/R được/V tháo/V biển/N số/N nên/C không/R ai/P kịp/V nhận/V ra/R
+Trong/E hai/M bao/N ném/V vào/V cửa_hàng/N một/M bao/N trúng/V vào/R xe_máy/N bị/V vỡ/V khiến/V chất_thải/N vương_vãi/V khắp/A xe_máy/N và/CC tường/N nhà/N
+Một/M bao/N trúng/N khách/N hàng/N đang/R đứng/V chờ/V
+Sự/Nc việc/N khiến/V một_số/N nhân_viên/N và/CC khách/N hàng/N lo_lắng/V bất_an/V
+Phải/V mất/V gần/A hai/M giờ/N các/L nhân_viên/N cửa_hàng/N này/P mới/R lau/V sạch/A chất_thải/N dính/V trên/E hàng_loạt/N xe_máy/N sàn/N nhà/N và/CC tường/N
+Toàn_bộ/N vụ_việc/N trên/N được/V camera/N an_ninh/N của/E cửa_hàng/N ghi/V lại/R
+Chừng/A ít/A phút/N sau/A hai/M cửa_hàng/N xe_máy/N của/E Công_ty/N TNHH/Np Huệ_Lộc/Np trên/E đường/N Phan_Đình_Phùng/Np và/CC Nguyễn_Sỹ_Sách/Np TP/Np Vinh/Np cũng/R lần_lượt/R bị/V một/M nhóm/N thanh_niên/N ném/V bom_bẩn/N
+Ông/N Trần_Văn_Huệ/Np giám_đốc/N Công_ty/N TNHH/Np Huệ_Lộc/Np cho/V biết/V thời_gian/N gần/A đây/N ông/N và/CC gia_đình/N không/R có/V mâu_thuẫn/N với/E ai/N nhưng/C ông/N nghi_ngờ/V đến/E một/M nhóm/N đối_tượng/N trên/E địa_bàn/N TP/Np Vinh/Np nên/C đã/R trình_báo/V với/E cơ_quan/N công_an/N đề_nghị/V điều_tra/V
+Hiện/N cơ_quan/N công_an/N đã/R trích/V xuất/V các/L đoạn/N camera/N an_ninh/A mà/C cửa_hàng/N cung_cấp/V để/E truy_tìm/V nhóm/N nghi/V phạm/N

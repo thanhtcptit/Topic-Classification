@@ -1,0 +1,20 @@
+Camera/N V tố_giác/V M tên/N trộm/V đột_nhập/V nhà/N hàng_xóm/N
+Chiều/N 5/7/M đại_tá/N Cao_Hùng/Np Phó_trưởng/N Công_an/N quận/N Lê_Chân/Np cho_biết/V cơ_quan/N cảnh_sát/N điều_tra/V đang/R tạm/A giữ/V Lê_Văn_Thiệp/Np /M 18/M tuổi/N tạm_trú/V phường/N Vĩnh_Niệm/Np quận/N Lê_Chân/Np /V để/E điều_tra/V hành_vi/N đột_nhập/V nhà/N dân/N trộm_cắp/V tài_sản/N
+Bước_đầu/N Thiệp/Np thừa_nhận/V đột_nhập/V nhà/N bà/N Hoàng_Minh_Như/Np /M 39/M tuổi/N ở/E cùng/A ngõ/N phố/N /A để/E trộm/V tiền/N bằng/E cách/N đánh/V trộm/V chùm/Nc chìa_khóa/N của/E gia_đình/N nạn_nhân/N
+Tuy_nhiên/C Thiện/Np chưa/R chịu/V khai/V đột_nhập/V bao_nhiêu/P lần/N tổng_số/N tiền/N trộm/V được/R cũng_như/C có/V người/N nào/P hỗ_trợ/V hay/C không/R  /EOS
+Theo/E phản_ánh/V của/E bà/N Như/A nửa/M năm/N nay/P tiền/N tiết_kiệm/V để/E trong/E két/N sắt/N tiền/N sinh_hoạt/V hàng/R ngày/N để/E trên/E mặt/N két/N tiền/N trong/E lợn/N nhựa/N của/E con/Nc bà/N liên_tục/A bị/V rút/V không/R rõ/A nguyên_nhân/N
+Lần/N ít/A 5/M triệu/M đồng/Nu lần/N nhiều/A hơn/R 21/M triệu/N
+Tổng_số/N tiền/N mất/V cả/T trăm/M triệu/M đồng/Nu khiến/V nữ/N gia_chủ/N hoang_mang/V bởi/E cửa_nhà/N vẫn/R khóa/V két/N sắt/N không/R có/V dấu_hiệu/N cậy/V phá/V duy_nhất/A mõm/V lợn/N nhựa/N có/V dấu_hiệu/N bị/V cạy/V
+Mỗi/L lần/N phát_hiện/V mất/V tiền/N bà/N lại/R thấy/V Lê_Văn_Thiệp/Np cháu/N của/E vợ_chồng/N hàng_xóm/N nhà/N đối_diện/V xúng_xính/V tiền_bạc/N
+Thiệp/Np mua/V xe_máy/N đi/V học/V mua/V i/N Pad/Np điện_thoại/N đắt/A tiền/N và/CC lên/V mạng/N khoe_khoang/V
+Nghi_ngờ/V nhưng/C không/R có/V căn_cứ/N bà/N Như/A bí_mật/A gọi/V thợ/N về/V lắp/V camera/N an_ninh/N theo_dõi/V xem/V ai/P đột_nhập/V nhà/N
+Camera/N được/V lắp/V tại/E phòng/N ngủ/V hướng/N trực_diện/V két/N sắt/N nhưng/C gia_chủ/N đợi/V cả/P tuần/N không/R thấy/V gì/P
+Bà/N Như/A sau/E đó/P chuyển/V camera/N xuống/V phòng/N khách/N
+Nửa_đêm/N 1/7/M tên/N trộm/V xuất_hiện/V và/CC hình_ảnh/N ghi/V lại/R chính/T là/V Lê_Văn_Thiệp/Np
+Gần/A 22h/M ngày/N 1/7/M Thiệp/Np dùng/V chùm/Nc chìa_khóa/N mở/V 2/M lớp/N khóa/N cửa/N sắt/N và/CC cửa/N gỗ/N ra_vào/V nhà/N dùng/V đèn_pin/N đảo/N quanh/N phòng/N khách/N lục_lọi/V đồ_đạc/N
+Tên/N trộm/V sau/E đó/P đi/V lên/R tầng/N 2/M nơi/N gia_đình/N bà/N Như/A để/E két/V sắt/N và/CC lợn/N nhựa/N của/E con/N
+Khi/N quay/V xuống/R phát_hiện/V camera/N an_ninh/N Thiệp/Np tìm/V cách/N hất/V ngược/A lăng_kính/N lên/V trần/N nhà/N rồi/C thoát/V ra/R bằng/E cửa/N chính/T
+Đêm/N đó/P lo_sợ/V tên/N trộm/V quay/V trở_lại/V có/V hành_động/N manh_động/A mẹ_con/N bà/N Như/A âm_thầm/A sơ_tán/V sang/V nhà/N người_thân/N
+Chiều/N 2/7/M Công_an/N phường/N Vĩnh_Niệm/Np bắt/V Lê_Văn_Thiệp/Np sau/E khi/N nhận/V được/R đơn/N trình_báo/V cùng/A toàn_bộ/L băng/N ghi_hình/V từ/E camera/N an_ninh/N của/E gia_đình/N nạn_nhân/N
+Thiệp/Np quê/N Thái_Bình/Np mồ_côi/A cả/T cha/N lẫn/C mẹ/N nương_nhờ/V ở/E một/M ngôi/Nc chùa/N trên/E địa_bàn/N Lê_Chân/Np /M Hải_Phòng/N /V
+Sau/E đó/P Thiệp/Np được/V cậu/N mợ/V đón/V về/E nhà/N nuôi_dưỡng/V cho/V học/V nghề/N tại/E Cao_đẳng/N nghề/N Nuôi_trồng/V thủy_sản/N Bắc_Bộ/Np

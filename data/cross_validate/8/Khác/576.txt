@@ -1,0 +1,11 @@
+Ngày_Công/Np nghệ/N FPT/Np sẽ/R bàn/V về/R trí_tuệ_nhân_tạo/X
+FPT/Np Tech_Day/Np dự_kiến/V thu_hút/V gần/A 700/M lập_trình_viên/N kỹ_sư/N và/CC chuyên_gia/N CNTT/Np của/E Việt_Nam/Np
+Lần/N đầu_tiên/A sự_kiện/N có/V sự/Nc tham_gia/V của/E các/L  /N lãnh_đạo/N cấp/N cao/A và/CC chuyên_gia/N công_nghệ/N của/E ba/M tập_đoàn/N DuPont/Np Amazon/Np IBM/Np
+Ông/Nc Phương_Trầm/Np Giám_đốc/N Thông_tin/N của/E  /N DuPont/Np sẽ/R chia_sẻ/V về/E nền_tảng/N công_nghệ/N số/N và/CC xu_hướng/N ứng_dụng/V công_nghệ/N AI/Np của/E hãng/N
+DuPont/Np xuất_phát/V là/V công_ty/N hóa_chất/N nhưng/C trong/E cuộc/N cách_mạng_công_nghiệp/V lần/N thứ_tư/N hãng/N đang/R hướng/V đến/E việc/N xây_dựng/V một/M nền/N nông_nghiệp/N thông_minh/A dựa/V trên/E công_nghệ/N số/N  /EOS
+Câu_chuyện/N ứng_dụng/V AI/Np trong/E dự_báo/V thời_tiết/N cũng/R sẽ/R được/V đại_diện/N của/E IBM/Np Watson/Np chia_sẻ/V
+Khả_năng/N theo_dõi/V thời_tiết/N chính_xác/A sẽ/R tác_động/V lớn/A đến/E hoạt_động/V kinh_doanh/V sức_khỏe/N con_người/N nông_nghiệp/N giao_thông/N chuyến/N bay/V
+IBM/Np cũng/R đang/R bắt_tay/V với/E một/M công_ty/N dược/V để/E khai_thác/V dữ_liệu/N thời_tiết/N dự_đoán/N cơn/Nc hen_suyễn/N có_thể/A xảy_ra/V với/E bệnh_nhân/N thông_qua/V thiết_bị/N ống/N hít/V điều_trị/V hen_suyễn/N thông_minh/A
+Ông/Nc Shaun_Ray/Np của/E  /N Amazon_Web_Services/Np /V AWS/Np /V sẽ/R nói/V về/E Trí_tuệ_nhân_tạo/X cho/E mọi/L người/N
+AWS/Np đã/R đưa/V nhiều/A dịch_vụ/N trí_tuệ_nhân_tạo/X đến/V với/E người/N dùng/V như/C Amazon_Rekognition/Np để/E nhận_diện/V hình_ảnh/N Amazon_Polly/Np chuyển/V văn_bản/N thành/V giọng/N nói/V Amazon_Lex/Np hỗ_trợ/V thiết_bị/N thông_minh/A Alexa/Np
+Cũng/R tại/E sự_kiện/N FPT/Np sẽ/R hé/V lộ/V những/L nghiên_cứu/N và/CC kết_quả/N mới/A nhất/A trong/E lĩnh_vực/N trí_tuệ_nhân_tạo/N của/E mình/P  /M Theo/E ông/Nc Lê_Hồng_Việt/Np Giám_đốc/N công_nghệ/N FPT/Np những/L công_nghệ/N như/C IoT/Np AI/Np và/CC AR/Np đang/R là/V nhân_tố/N chính/T tạo/V nên/C cuộc/N chuyển_đổi/V số/N và/CC FPT/Np đang/R tập_trung/V phát_triển/V  /M sản_phẩm/N dịch_vụ/N áp_dụng/V các/L nền_tảng/N công_nghệ/N này/P

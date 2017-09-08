@@ -1,0 +1,23 @@
+Mua_Mac/Np Book_Pro/Np 2016/M cần/N biết/V những/L điều/N này/P trước/N
+Vĩnh_biệt/V nhiều/A cổng/N cắm/V bao_gồm/V USB/Np
+Bạn/N sẽ/R cần/V đủ/A loại/N đầu/N chuyển_đổi/N adapter/N
+Ba/M mẫu/N máy_tính_xách_tay/N MacBook/N Pro/Np 2016/M mới/N cả/P phiên_bản/N Touch_Bar/Np dùng/V cổng/N kết_nối/N USB/Np TypeC/V hay/V USBC/Np hỗ_trợ/V cả/P hai/M giao_thức/N truyền/V dữ_liệu/N tốc_độ/N cao/A hiện_nay/N bao_gồm/N Thunderbolt/Np 3/M và/N USB/Np 31/M
+Cổng/Np USBC/Np với/E hai/M giao_thức/N truyền/V dữ_liệu/N có/V tốc_độ/N truyền_tải/V tối_đa/N 10Gb/M giây/N có_thể/A đảm_đương/V phát/V nội_dung/N cùng/A lúc/N hai/M màn_hình/N chuẩn/N 4K/N tuỳ/N cấu_hình/A dòng/N MacBook/N Pro/Np 2016/M truyền_tải/N dữ_liệu/N tốc_độ/N cao/A cho/E các/L ổ_cứng/N gắn/V ngoài/N và/CC cả/T điện_năng/N
+Do/E đó/P Apple/Np chọn/V dùng/V cổng/N đa_năng/N tốc_độ/N cao/A USBC/Np thay_thế/V cho/E các/L cổng/N truyền_thống/N trước/N đây/P sạc/V nguồn/N MagSafe/N Thunderbolt/Np USB/Np DisplayPort/V HDMI/Np và/CC VGA/Np
+Vì_vậy/C nếu/C kết_nối/V máy/N MacBook/V mới/A với/E màn_hình/N ngoài/N bạn/N cần/V một/M đầu/N chuyển_đổi/N USBC/Np sang/V HDMI/Np
+Nếu/C muốn/V có/V cổng/N USB/Np quen_thuộc/A để/E gắn/V với/E ổ_cứng/N gắn/N ngoài/N đời/N cũ/A hoặc/N ổ_cứng/N đời_mới/N có/V cổng/N USB/Np 31/M loại/N StandardA/N sang/V MicroB/N đầu/N cắm/V có/V màu/N xanh/A dương/N đặc_trưng/A để/E nhận_biết/V bạn/N vẫn/R phải/V cần/V một/M đầu/N chuyển_đổi/N sang/V USB/Np 31/M TypeC/N
+May/A thay/N Apple/Np có/V bán/V loại/N cáp/V cổng/N USBC/Np MacBook/V Pro/Np 2016/M sang/N cổng/N Lightning/Np iPhone/Np để/E truyền_tải/V dữ_liệu/N giá/N 25/M USD/Nu
+Xem/V cấu_hình/N chi_tiết/N các/L mẫu/N MacBook/N Pro/Np 2016/M với/N Touch_Bar/Np
+Và/C may/A thay/N Jack/Np cắm/V âm_thanh/N 35mm/N vẫn/R được/V giữ/V lại/R chưa/R bị/V gộp/V chung/V vào/E cổng/N USBC/Np như/A iPhone/M 7/M
+Sạc/N nguồn/N MacSage/N là/V một/M yếu_tố/N cách_tân/N khiến/V người_dùng/N MacBook/V hơn/A thập_kỉ/N qua/V đều/N yêu/V thích/N so/V với/E các/L cổng/N nguồn/N điện/N của/E các/L máy/N laptop/V thương_hiệu/N khác/A
+Nó/P gắn_kết/V nhẹ_nhàng/A với/E cổng/N cắm/N nhờ/V nam_châm/N
+Tuy_nhiên/C cổng/N USBC/Np mới/R sẽ/R đảm_nhận/V vai_trò/N sạc/N nguồn/N từ/E đây/P trở/V đi/V
+Một/M lời/N tạm_biệt/V chính_thức/A của/E Apple/Np với/N MagSafe/N
+Kế/V đến/R là/V phím/N Thoát/V esc/N và/CC phím/V Chức_năng/N fn/N
+Apple/N loại_bỏ/N Esc/Np và/CC fn/V trên/E bàn_phím/N vật_lí/N đối_với/N phiên_bản/N MacBook/V Pro/Np với/E Touch_Bar/Np thay/V vào/E đó/P có_thể/A là/V nút/N Esc/Np ảo/N trên/N màn_hình/N điều_khiển/N cảm_ứng/N của/E Touch_Bar/Np đối_với/N từng/N ứng_dụng/N đang/R mở/V
+Xem/V cách/N Touch_Bar/Np vận_hành/V trên/E MacBook/N Pro/Np mới/A
+Cũng/R từ/E lí_do/N trên/E một/M nhóm/N đối_tượng/N khách/N hàng/N của/N MacBook/N là/V cộng_đồng/N lập_trình_viên/N Developers/Np đang/R nổ/V ra/R cuộc/N tranh_cãi/V về/E việc/N loại_bỏ/V nút/N Esc/Np F1/Np và/CC fn/N
+Nhiều/A ý_kiến/N cho/V rằng/C phải/V lia/V mắt/N tìm/V các/L nút/N ảo/N hiển_thị/N trên/N Touch_Bar/Np thay_vì/V chọn/V nhanh/A nút/N nhấn/N như/N trước_nay/N
+Đặc_biệt/A là/V những/L người_dùng/N công_cụ/N soạn_thảo/N lập_trình/N VIM/Np
+Cuối_cùng/N Apple/Np khai_tử/V ổ/N quang/N Apple/Np USB/Np SuperDrive/V đọc/V đĩa/N CDDVD/Np
+Bạn/N cần/V một/M đầu/N chuyển_đổi/N adapter/N USBC/Np để/E sử_dụng/V nó/N

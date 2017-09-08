@@ -1,0 +1,13 @@
+Đồng_hồ/N thông_minh/N nào/P nâng_cấp/V Android_Wear/Np 20/M
+Bên_cạnh/N đó/P nhiều/A nhà/N sản_xuất/V còn/V hiệu_chỉnh/N riêng/A phiên_bản/N cập_nhật/V cho/E phù_hợp/V với/E sản_phẩm/N của/E mình/N nên/C người_dùng/N có_thể/A đón_nhận/V Android_Wear/Np 20/M chậm/A hơn/R trong/E vài/N tuần/N tới/V
+Xem/V 504/M triệu/N đồng_hồ/N thông_minh/A được/V bán/V ra/R năm/N 2016/M
+Các/L smartwatch/N của/E LG/Np Asus/Np Motorola/Np và/CC Huawei/Np có_mặt/V trong/E danh_sách/N có_thể/N nâng_cấp/V Android_Wear/Np 20/M
+Hiện/N chưa/R có/V thông_tin/N cụ_thể/A về/E các/L dòng/N smartwatch/N của/E Samsung/Np và/CC Samsung/Np đã/R chuyển/V sang/R sử_dụng/V hệ_điều_hành/N riêng/A của/E mình/P là/V Tizen/Np cho/V các/L thế_hệ/N thiết_bị/N đeo/N thông_minh/N ra_mắt/N năm/N 2016/M
+Danh_sách/N đồng_hồ/N thông_minh/A smartwatch/N có_thể/A nâng_cấp/V Android_Wear/Np 20/M
+LG/Np Watch_Urbane/Np thế_hệ/N thứ_hai/N hỗ_trợ/V mạng/N 4G/N LTE/Np 2nd/M Edition/Np LTE/Np LG/Np Watch_Urbane/Np và/CC LG/Np G_Watch/Np R/Np
+Motorola_Moto/Np 360/M Gen/Np 2/M và/N hai/M phiên_bản/N Moto/Np 360/M Sport/Np và/CC Moto/Np 360/M cho/E giới/N nữ/N
+Huawei/Np góp_mặt/V với/E hai/M mẫu/N smartwatch/N gồm/V Huawei_Watch/Np và/CC Huawei_Watch/Np phiên_bản/V cho/V nữ/N
+Asus/Np có/V ZenWatch/N 2/M và/N ZenWatch/N 3/M
+Các/L thương_hiệu/N khác/A Casio_Smart_Outdoor_Watch/Np và/CC Casio/Np PRO/Np TREK/Np Smart/Np
+New_Balance_Run/Np IQ/Np
+Polar/N M600/N Nixon_Mission/Np Tag_Heuer_Connected/Np Fossil/Np Q_Wander/Np Fossil/Np Q_Marshal/Np Fossil/Np Q_Founder/Np Michael_Kors_Access_Bradshaw_Smartwatch/Np và/CC Michael_Kors_Access_Dylan_Smartwatch/Np

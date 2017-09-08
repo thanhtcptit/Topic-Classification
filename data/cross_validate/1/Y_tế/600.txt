@@ -1,0 +1,17 @@
+Bé/N trai/N bị/V liệt/A chân/N bí/A tiểu/V sau/E cú/N ngã/V xe_đạp/N
+Lúc/N gặp/V tai_nạn/N bé/N chỉ/R bị/V trầy_xước/V tay_chân/N và/CC hơi/N đau/V vai/N khoảng/N một/M tuần/N sau/A thì/C đột_nhiên/V chuyển_biến/V xấu/A
+Bé/N đang/R điều_trị/V bạch_cầu/N cấp/V dòng/N tủy/V khoảng/A một/M năm/N nay/P nên_người/V nhà/N đưa/V bé/N vào/E Bệnh_viện/N Truyền/Np máu/N Huyết_học/N TP_HCM/Np  /EOS
+Chấn_thương/V của/E bé/N khá/R mơ_hồ/A bác_sĩ/N nghiêng/V về/E giả_thiết/N bạch_cầu/N cấp/V dòng/N tủy/V xâm_lấn/V vào/E hệ/N thần_kinh_trung_ương/N gây/V liệt/A
+Tuy_nhiên/C kết/V chụp/V MRI /Np xác_định/V đây/P là/V tổn_thương/N cột_sống/N chứ/C không/R phải/V do/E bệnh_lý/N ung_thư/N  /M Bé/N bị/V dập/V tủy/V cộng/V với/E tụ/V máu/N ngoài/E tủy/N khá/R hiếm/A gặp/V
+Bác_sĩ/N phải/V hội_chẩn/V liên/X viện/N cấp_cứu/V  /EOS
+Bác_sĩ/N Đào_Trung_Hiếu/Np Phó_Giám/Np đốc/V Bệnh_viện/N Nhi_đồng/N 1/M cho_biết/V sang/V thương/V của/E bé/N khá/R hiếm/A gặp/V trên/E nền/N bệnh_lý/N huyết_học/N
+Bé/N không_thể/R đi_lại/V phải/V đặt/V sonde/N tiểu/V
+Nếu/C can_thiệp/V trễ/A sẽ/R có/V nhiều/A nguy_cơ/N nên/C các/L bác_sĩ/N quyết_định/V đưa/V bệnh_nhi/N về/E Nhi_đồng/N 1/M để/E phẫu_thuật/V khẩn_cấp/V trong/E đêm/N  /EOS
+Bác_sĩ/N Phan_Minh_Trí/Np Khoa_Ngoại/Np tổng_hợp/V Bệnh_viện/N Nhi_đồng/N 1/M cho_biết/V ca/N mổ/V xuyên/V đêm/N kéo_dài/A 4/M giờ/Nu kíp/N phẫu_thuật/V đã/R  /V mở/V thành_công/N 3/M đoạn/N đốt_sống/N lấy/V máu/N tụ/V  /A để/E giải_phóng/V tủy/N
+Do/E bé/N mắc/V bệnh_bạch_cầu/N cấp/V dòng/N tủy/N nên/C quá_trình/N phẫu_thuật/V có/V nhiều/A nguy_cơ/N rối_loạn/V đông/A máu/N nhiễm_trùng/V hậu_phẫu/N
+Sau/N mổ/V bé/N hồi_phục/V thuận_lợi/N ngoài/E mong_đợi/V chỉ/R 2/M ngày/N đã/R cải_thiện/V gần_như/R hoàn_toàn/A  /A tự/P đi_tiểu/V tỉnh_táo/A vết/N mổ/V khô/A cử_động/V chân/N tốt/A
+Hiện/N bệnh_nhi/V tập/V vật_lý_trị_liệu/N để/E đi_lại/V
+Theo/E bác_sĩ/N Trí/Np chấn_thương/N cột_sống/N phải/V mổ/V đa_phần/N là/V dập/V tủy/N gãy/V cột_sống/N
+Tình_trạng/N máu/N tụ/V ngoài/E màng_cứng/N vùng/N tủy/V rất/R hiếm/A gặp/V chỉ/R khoảng/A 0,1%/M
+Đây/P là/V dạng/N khó/A chẩn_đoán/V dễ/A bỏ/V sót/V nếu_không/C điều_trị/V kịp_thời/A sẽ/R để/E di_chứng/N nặng_nề/A
+Đồng_nghiệp/N Bệnh_viện/N Truyền/Np máu/N Huyết_học/Np đã/R chẩn_đoán/V đúng/A vị_trí/N sang/V thương/V và/CC nhờ/V hỗ_trợ/V đúng/A thời_điểm/N nên/C kết_quả/N rất/R tốt/A bác_sĩ/N Trí/Np nói/V

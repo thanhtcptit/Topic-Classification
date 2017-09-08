@@ -1,0 +1,19 @@
+Nguyên/Np đội_trưởng/N thanh_tra/V giao_thông/N Cần_Thơ/Np lĩnh/V án/N chung_thân/N
+Ngày/N 11/7/M TAND_TP/Np Cần_Thơ/Np tuyên_án/V 7/M thanh_tra/N giao_thông/N Cần_Thơ/Np cùng/A hai/M cò/N về/E hành_vi/N Nhận/V hối_lộ/A hơn/R 4/M tỷ/Nu đồng/N để/E bảo_kê/V hàng_loạt/N đơn_vị/N kinh_doanh/V vận_tải/V
+Trong/E đó/P Đoàn_Vũ_Duy/Np /V nguyên/A Trưởng/Np đội/N 11/M /N lĩnh/V tù/N chung_thân/A Dương_Minh_Tâm/Np /M nguyên/Z Phó/Z chánh/N thanh_tra/V giao_thông/N /M nhận/V 10/M năm/N tù/N Võ_Hoàng_Anh/Np /M nguyên/Z Trưởng/Np đội/N 3/M /A 15/M năm/N tù/N Lý_Hoàng_Minh/Np /M nguyên/Z Phó/Z đội/N 3/M /Nu lĩnh/V 9/M năm/N tù/N cò/N Nguyễn_Văn_Cần/Np nhận/V 20/M năm/N tù/N
+Ba/M cán_bộ/N khác/A và/CC cò/N Trần_Tường_An/Np cùng/A nhận/V 7/M năm/N tù/N
+Tại/E tòa/N hầu_hết/R các/L bị_cáo/N đều/R thừa_nhận/V hành_vi/N nhận/V hối_lộ/N và/CC mong/V HĐXX/Np xem_xét/V giảm/V nhẹ/A án/N phạt/V vì/E còn/R mẹ_già/N con_thơ/N và/CC đã/R cố_gắng/V khắc_phục/V hậu_quả/N
+Riêng/T nguyên/A đội_trưởng/N Đoàn_Vũ_Duy/Np vẫn/R không/R thừa_nhận/V hành_vi/N phạm_tội/V của/E mình/P
+Theo/E Viện/N kiểm_sát/V Đoàn_Vũ_Duy/Np không/R nhận/V tội/N nhưng/C qua/V chứng_cứ/N lời/N khai/V của/E các/L đồng_phạm/N nhân_chứng/N nhà_xe/N …/A đã/R có/V đủ/A cơ_sở/N chứng_minh/V hành_vi/N phạm_tội/V của/E bị_cáo/N
+Số/N tiền/N mà/C Duy/Np đã/R nhận/V hàng/R tỷ/M đồng/Nu là/V đặc_biệt/A lớn/A
+Việc/N bị_cáo/N không/R thừa_nhận/V hành_vi/N là/C thể_hiện/V sự/N xem_thường/V pháp_luật/N cần/V phải/V cách_ly/V bị_cáo/N ra/V khỏi/V đời_sống/N xã_hội/N một/M thời_gian/N dài/A đại_diện/N VKS/Np nói/V
+HĐXX/Np cho/V rằng/C 7/M thanh_tra/N giao_thông/N đã/R không/R thực_hiện/V đúng/A chức_trách/N của/E Luật_Thanh/Np tra/V
+Riêng_Cần/Np và/CC An/Np đã/R tích_cực/A giúp_sức/V cho/E các/L thanh_tra/N giao_thông/N vì_vậy/C phải/V chịu/V trách_nhiệm/N đồng_phạm/N
+Thật_là/C xấu_hổ/V tột_cùng/A khi/N nghe/V các/L bị_cáo/N khai/V xin/V tiền/N các/L nhà_xe/N chủ/N doanh_nghiệp/N để/E ăn/V sáng/N ăn/V trưa/N rồi/C ăn_nhậu/V
+Hành_vi/N phạm_tội/V của/E các/L bị_cáo/N tạo/V nguy_cơ/N mất/V an_toàn/A giao_thông/N nghiêm_trọng/A vi_phạm/V  /M đạo_đức/N công_vụ/N và/CC uy_tín/N của/E ngành/N thanh_tra/V  /A gây/V thiệt_hại/A lợi_ích/N của/E người_dân/N chủ_toạ/N nói/V
+Theo/E cáo_trạng/N tháng/N 7/2016/M Công_an/N TP/Np Cần_Thơ/Np bắt/V quả_tang/R Lý_Hoàng_Minh/Np /M Phó/Z đội/N thanh_tra/V giao_thông/N số/N 3/M /Nu thu/V tiền/N bảo_kê/V của/E 4/M doanh_nghiệp/N kinh_doanh/V vận_tải/V  /M Sau/N đó/P hai/M đội_trưởng/N Võ_Hoàng_Anh/Np Đoàn_Vũ_Duy/Np  /M Phó/Z chánh/N thanh_tra/V cùng/A  /M 3/M cán_bộ/N khác/A và/CC hai/M cò/N  /A lần_lượt/R bị/V bắt/V  /EOS
+Cơ_quan/N điều_tra/V xác_định/V nhóm/N thanh_tra/V giao_thông/N lợi_dụng/V chức_vụ/N quyền_hạn/N móc_nối/V với/E cò/N nhận/V tiền_của/N 135/M tổ_chức/N cá_nhân/N ngành/N vận_tải/V từ/E Đồng_Nai/Np đến/E khắp/A các/L tỉnh_thành/N miền/N Tây/Np
+Họ/P đã/R nhận/V tổng_cộng/N 4,1/M tỷ/N đồng/N để/E không/R kiểm_tra/V không/R lập/V biên_bản/N hoặc/CC xử/V nhẹ/A lỗi/N vi_phạm/V của/E các/L xe/N
+Trong/E số/N này/P Đoàn_Vũ_Duy/Np là/V người/N nhận/V hối_lộ/N số/N tiền/N lớn/A nhất/R /V gần/A 2,8/M tỷ/N đồng/N /V
+Phó/Z chánh/N thanh_tra/V Dương_Minh_Tâm/Np nhận/V hơn/R 400/M triệu/M đồng/Nu của/E 13/M doanh_nghiệp/N
+5/M cán_bộ/N còn/V lại/R nhận/V từ/E 25/M đến/E 540/M triệu/M đồng/Nu

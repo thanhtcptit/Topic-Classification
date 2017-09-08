@@ -1,0 +1,7 @@
+Tin_tặc/N Triều_Tiên/Np bị/V tố/V tấn_công/V mạng/N ở/E 31/M quốc_gia/N
+Tập_đoàn/N an_ninh/N mạng/N  /V Symantec/Np hôm_qua/N đưa/V ra/R cáo_buộc/V trên/E đối_với/E nhóm/N tin_tặc/N Triều_Tiên/Np theo/V Reuters/Np
+Symantec/Np nói/V trên/E blog/N rằng/C các/L nhà_nghiên_cứu/N của/E đơn_vị/N này/P tìm/V thấy/V 4/M bằng_chứng/N kỹ_thuật_số/N cho/V thấy/V nhóm/N  /V Lazarus/Np tìm/V cách/N lây_lan/V phần_mềm/N độc_hại/A lên/V máy_tính/N nạn_nhân/N
+Chúng_tôi/P khá/R chắc_chắn/A về/E điều/N này/P nhà_nghiên_cứu/N  /N Eric_Chien/Np của/E Symantec/Np nói/V trong/E một/M cuộc/N phỏng_vấn/V
+Chính_quyền/N Triều_Tiên/Np phủ_nhận/V các/L cáo_buộc/V  /M Cục/N Điều/N tra/V Liên_bang/N Mỹ/Np FBI/Np chưa/R đưa/V ra/R bình_luận/V
+Lazarus/Np bị/V cáo_buộc/V thực_hiện/V hàng_loạt/N vụ/N tấn_công/V mạng/N ít_nhất/A từ/E năm/N 2009/M
+Trong/E đó/P có/V vụ/N tấn_công/V lấy/V trộm/V 81/M triệu/M USD/Nu từ/E ngân_hàng/N trung_ương/N Bangladesh/Np năm_ngoái/N vụ/N tấn_công/V năm/N 2014/M vào/E hãng/N Sony/Np làm/V tê_liệt/A mạng_lưới/N của/E hãng/N này/P trong/E nhiều/A tuần/N  /A Lazarus/Np cũng/R bị/V cho/V là/V thực_hiện/V chiến_dịch/N tấn_công/V lâu_nay/N vào/E các/L tổ_chức/N ở/V Hàn_Quốc/Np

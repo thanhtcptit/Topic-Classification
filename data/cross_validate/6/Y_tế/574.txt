@@ -1,0 +1,14 @@
+Ca/N mổ/V thay_đổi/V cuộc_đời/N chàng_trai/N bị/V rối_loạn/V đông/A máu/N
+Chàng_trai/N 23/M tuổi/N quê/N Thái_Bình/Np điều_trị/V bệnh/N  /M Hemophilia/Np A/N tại/E Bệnh_viện/N Quận_Thủ_Đức/Np /V TP_HCM/Np /V từ/E cuối/N năm/N 2016/M
+Bệnh_nhân/N thường/R phải/V nhập_viện/V với/E các/L biến_chứng/N xuất_huyết/V tiêu_hóa/V chảy_máu/V răng/N xuất_huyết/V khớp/N gối/N  /EOS
+Gần/A đây/P bệnh_nhân/N bị/V  /V thoái_hóa/V khớp/N gối/N nặng/A đứt/V dây_chằng/N bên/N trong/N và/CC giãn/N dây_chằng/V bên/N ngoài/N gối/N phải/V  /N cần/V phẫu_thuật/V để/E thay/V khớp/N gối/N tái_tạo/N dây_chằng/V
+Tuy_nhiên/C người/N  /A đang/R điều_trị/V Hemophilia/Np A/Np suốt/A 23/M năm/N qua/V như/C bệnh_nhân/N thì/C ca/N mổ/V sẽ/R đối_diện/V nhiều/A nguy_cơ/N  /M Bệnh_nhân/N phải/V chịu/V đau_đớn/A không/R đi_lại/V được/R điều_trị/V ở/E nhiều/A nơi/N nhưng/C bác_sĩ/N đều/R ngại/V can_thiệp/V bởi/E nguy_cơ/N chảy_máu/V trong/E và/CC sau/N phẫu_thuật/V rất/R cao/A
+Bác_sĩ/N Lê_Hoàng_Văn_Hải/Np Trưởng/Np khoa/N Chấn_thương/V Chỉnh_hình/N Bệnh_viện/N Quận_Thủ_Đức/Np cho_biết/V lần/N này/P  /V bệnh_nhân/N quyết_tâm/V mổ/V
+Các/L bác_sĩ/N đã/R kết_hợp/V nhiều/A chuyên_khoa/N để/E lên/V các/L phương_án/N cho/E cuộc/N phẫu_thuật/V
+Đối_với/E bệnh_nhân/N  /M Hemophilia/Np A/Np thể/R nặng/A việc/N chuẩn_bị/V càng/R phải/V chu_đáo/A để/E kiểm_soát/V tất_cả/P các/L tình_huống/N có_thể/R xảy_ra/V đặc_biệt/A là/C đảm_bảo/V đầy_đủ/A các/L yếu_tố/N đông/A máu/N
+Sau/E 3/M giờ/Nu phẫu_thuật/V trong/E sự/Nc hồi_hộp/V của/E toàn_bộ/L nhân_viên/N y_tế/N bệnh_viện/N ngày/N 12/7/M bệnh_nhân/N đã/R được/V thay/V thành_công/N khớp/N gối/N nhân_tạo/A kết_hợp/V tái_tạo/N dây_chằng/V gối/N phải/V
+Hiện/N bệnh_nhân/N ổn_định/A được/R theo_dõi/V hậu_phẫu/N chặt_chẽ/A  /A chưa/R phát_hiện/V chảy_máu/V vết/N mổ/V và/CC đang/R tập/V vật_lý_trị_liệu/N để/E phục_hồi/V
+Bệnh_viện/N đang/R tiếp_nhận/V và/CC điều_trị/V gần/A 100/M bệnh_nhân/N Hemophilia/Np
+Đây/P là/V bệnh/N máu/N khó/A đông/A thường/R gây/V tụ/V máu/N khớp/N khối/N máu/N tụ/V trong/E cơ/N và/CC dưới/E da/N chảy_máu/V khó/A cầm/V ở/E nhiều/A vị_trí/N
+Bệnh/N có_thể/A gây/V biến_dạng/V khớp/N teo/V cơ/N do/E chảy_máu/V nhiều/A lần/N
+Nếu/C điều_trị/V không/R đúng/A không/R kịp_thời/A tỷ_lệ/N tàn_phế/V cao/A  /M Đây/P là/V bệnh_nhân/N  /M Hemophilia/Np  /N đầu_tiên/A được/V phẫu_thuật/V thay/V khớp/N gối/N và/CC tái_tạo/N dây_chằng/V tại/E viện/N

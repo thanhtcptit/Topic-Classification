@@ -1,0 +1,7 @@
+Lò/Np phản_ứng/V hạt_nhân/N cấp_điện/V cho/E người/N định_cư/V sao/P Hỏa/Np
+Cơ_quan/N Hàng_không/Np và/CC Vũ_trụ/Np Mỹ/Np NASA/Np /M  /N đã/R lắp/V nhiều/A lò/N phản_ứng/V  /M hạt_nhân/N phân_hạch/V  /N cao/A gần/A 2/M m/Nu  /M trong/E dự_án/N trị_giá/V 14/M triệu/M USD/Nu nhằm/V thử_nghiệm/V nguồn/N cung_cấp/V điện/N cho/E kế_hoạch/N định_cư/V trên/E sao/P Hỏa/Np  /V Mirror/Np  /M ngày/N 3/7/M đưa/V tin/N
+Những/L cư_dân/N đầu_tiên/A trên/E sao/N Hỏa/Np cần/V điện/N để/E tạo/V oxy/N nước/N ánh_sáng/N nhiệt_độ/N và/CC tiếp_liệu/V cho/E phương_tiện/N và/CC thiết_bị/N khoa_học/N  /V Mỗi/L lò/N phản_ứng/V tách/V đôi/M nguyên_tử/N urani/N để/E tạo/V ra/R 10/M kw/Nu điện/N đủ/A dùng/V cho/E hai/M người/N  /V Trong/E nghiên_cứu/N năm/N 2008/M NASA/Np ước_tính/V đoàn/N thám_hiểm/V 8/M người/N cần/V 40/M kw/N điện/N
+Đây/P không/R phải/V là/V lần/N đầu_tiên/A NASA/Np thử_nghiệm/V các/L lò/N phản_ứng/V hạt_nhân/N trong/E vũ_trụ/N
+Những/L năm/N 1960/M NASA/Np phát_triển/V máy/N phát/V nhiệt_điện/N đồng_vị_phóng_xạ/X RTG/Np trong/E chương_trình/N SNAP/Np
+Thiết_bị/N tự_hành/V Curiosity/Np đang/R thám_hiểm/V sao/P Hỏa/Np cũng/R dùng/V một/M RTG/Np để/E tạo/V năng_lượng/N  /A Lắp_đặt/V thành_công/V nguồn/N điện/N sẽ/R là/V bước_đi/N quan_trọng/A trong/E tham_vọng/N đưa/V con_người/N lên/V sao/T Hỏa/Np
+Khoảng_cách/N giữa/N sao/P Hỏa/Np và/CC Mặt_Trời/Np cùng/C các/L trận/N bão/N bụi/N trên/E hành_tinh/N này/P biến/V lò/N phản_ứng/V phân_hạch/V thành/V giải_pháp/N cung_cấp/V năng_lượng/N tốt/A hơn/R pin/N Mặt_Trời/Np

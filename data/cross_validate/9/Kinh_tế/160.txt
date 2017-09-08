@@ -1,0 +1,28 @@
+Ai/P là/V ông/Nc chủ/N sân/N golf/N Tân_Sơn_Nhất/Np
+Trong/E cơ_cấu/N vốn/N hiện_nay/N của/E Công_ty/N Cổ_phần/N đầu_tư/V Long_Biên/Np doanh_nghiệp/N thuộc/V Bộ/N Quốc_phòng/N góp/V vốn/N ban_đầu/V không/R còn/V cổ/N phần_nào/N
+Được/V thành_lập/V vào/E năm/N 2006/M với/E sự/N tham_gia/V góp/V vốn/N của/E một/M doanh_nghiệp/N thuộc/V Bộ/N Quốc_phòng/N nhưng/C trong/E cơ_cấu/N vốn/N hiện_nay/N của/E Công_ty/N CP/Np đầu_tư/V Long_Biên/Np LOBICO/Np chủ/N đầu_tư/V sân/N golf/N Tân_Sơn_Nhất/Np và/CC sân/N golf/N Long_Biên/Np doanh_nghiệp/N quân_đội/N này/P không/R còn/V nắm/V bất_cứ/R cổ/N phần_nào/N
+Trong/E giấy_phép/N thành_lập/V do/E Sở/N KHĐT/N Hà_Nội/Np cấp/V ngày/N 2652006/M LOBICO/Np đặt/V trụ/N sở_tại/A Phúc_Đồng/Np Long_Biên/Np Hà_Nội/Np có/V vốn_điều_lệ/N 200/M tỉ/M đồng/Nu với/E các/L cổ_đông/N là/V
+Công_ty/N TNHH/Np một/M thành_viên/N đầu_tư/V và/CC phát_triển/V Trường_An/Np Bộ/N Quốc_phòng/N
+Công_ty/N TNHH/Np Him_Lam/Np nay/N là/V Công_ty/N CP/Np Him_Lam/Np
+Tổng/N công_ty/N CP/Np Thương_mại/N xây_dựng/V
+Công_ty/N TNHH/Np xây_dựng/V và/CC thương_mại/N Thành_Nam/Np
+Công_ty/N TNHH/Np đầu_tư/V xây_dựng/V Bảo_Lộc/Np
+Tháng/N 112007/M LOBICO/Np tăng/V vốn_điều_lệ/N lên/V 400/M tỉ/M đồng/Nu
+Trong/N đó/P
+Công_ty/N Trường_An/Np góp/V 60/M tỉ/M đồng/Nu chiếm/V 15/M vốn_điều_lệ/N
+Công_ty/N Him_Lam/Np góp/V 120/M tỉ/M đồng/Nu 30/M
+Tổng/N công_ty/N CP/Np Thương_mại/N xây_dựng/V góp/N 72/M tỉ/M đồng/Nu 18/M
+Công_ty/N Thành_Nam/Np góp/V 146/M tỉ/M đồng/Nu 365/M
+Công_ty/N Bảo_Lộc/Np góp/V 2/M tỉ/M đồng/Nu 05/M
+Vào/E tháng/N 32014/M cơ_cấu/N vốn/N cổ_phần/N của/E LOBICO/Np đã/R có/V sự/N thay_đổi/V quan_trọng/A chỉ/R còn/V ba/M cổ_đông/N lớn/A gồm/V hai/M cổ_đông/N cá_nhân/A và/CC một/M doanh_nghiệp/N
+Trong/E đó/P Công_ty/N Trường_An/Np vẫn/R nắm/V giữ/V 15/M
+Ông/Nc Trần_Văn_Tĩnh/Np tổng_giám_đốc/N Công_ty/N CP/Np Him_Lam/Np và/CC là/V anh/N họ/N của/E ông/N Dương_Công_Minh/Np chủ_tịch/N HĐQT/N Công_ty/N CP/Np Him_Lam/Np nắm/V 485/M
+Bà/N Dương_Thị_Liêm/Np thành_viên/N HĐQT/N Công_ty/N CP/Np Him_Lam/Np em/N ruột/N ông/N Minh/Np nắm/V 365/M
+Tháng/N 92014/M LOBICO/Np đăng_kí/V bán_đấu_giá/N 15/M cổ_phần/N của/E Công_ty/N Trường_An/Np tại/E Sở/N Giao_dịch/N chứng_khoán/N TPHCM/Np với/E giá/N khởi_điểm/N 90000/M đồngcổ_phần/N nhưng/C bị/V huỷ/V vào/E ngày/N 30102014/M do/N chỉ/R có/V một/M nhà/Nc đầu_tư/V tham_gia/V không/R đủ/V điều_kiện/N để/E tổ_chức/V đấu_giá/N
+Đến/E tháng/N 112014/M LOBICO/Np lột_xác/V hoàn_toàn/A với/E nhiều/A gương_mặt/N mới/A xuất_hiện/V trong/E vai_trò/N cổ_đông/N góp/V vốn/N
+Ghi_nhận/V đến/E ngày/N 15112014/M LOBICO/Np đã/R tăng/V vốn_điều_lệ/N lên/V 950/M tỉ/M đồng/Nu
+Trong/E đó/P ông/Nc Trần_Văn_Tĩnh/Np vẫn/R nắm/V 485/M cổ_phần/N hiện/N ông/N Tĩnh/Np là/V phó/Z chủ_tịch/N HĐQT/Np Công_ty/N CP/Np Him_Lam/Np bà/N Dương_Thị_Liêm/Np chỉ/R còn/V nắm/V 10/M
+Tuy_nhiên/C Công_ty/N Trường_An/Np không/R còn/V là/V cổ_đông/N
+Thay/V vào/E đó/P là/V Lê_Thị_Bích_Ngọc/Np hiện/N là/V giám_đốc/N khối/N kinh_doanh/V tại/E Công_ty/N CP/Np Him_Lam/Np nắm/V 265/M và/N Công_ty/N CP/Np kinh_doanh/V địa_ốc/N Him_Lam/Np giữ/V 15/M do/E ông/N Nguyễn_Ngọc_Thuỷ/Np làm/V đại_diện/N quản_lí/N phần/N vốn/N góp/V
+Đến/E tháng/N 82015/M chỉ/N sau/E 9/M tháng/N kể/V từ/E khi/N nhóm/V Him_Lam/Np nắm/V trọn/N cổ_phần/N LOBICO/Np sân/N golf/N Tân_Sơn_Nhất/Np được/V đưa/V vào/R khai_thác/V mà/C không/R còn/V bóng_dáng/N cổ/A phần_nào/N của/E nhà/N đầu_tư/V quân_đội/N như/C trước/N đó/P
+Như/C vậy/P căn_cứ/N trên/N hồ_sơ/N sổ_sách/N các/L cổ_đông/N hiện_nay/N của/E LOBICO/Np tức/V chủ/N của/E hai/M sân/N golf/N Tân_Sơn_Nhất/Np và/CC sân/N golf/N Long_Biên/Np đều/R là/V nhóm/N Him_Lam/Np

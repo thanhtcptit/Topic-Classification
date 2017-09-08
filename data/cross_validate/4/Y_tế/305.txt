@@ -1,0 +1,21 @@
+Hai/M ca/N nhiễm/V vi_rút/N Zika/Np đầu_tiên/A tại/E Việt_Nam/Np 
+Thứ_trưởng/N Nguyễn_Thanh_Long/Np thông_báo/V về/E 2/M ca/N nhiễm/V Zika/Np đầu_tiên/A tại/E Việt_Nam_Bệnh/Np nhân/V đầu_tiên/A là/V nữ/N 64/M tuổi/N trú/V tại/E Phước_Hòa/Np Nha_Trang/Np 
+Bệnh_nhân/N khởi/V sốt/V ngày/N 26/3/M với/E triệu_chứng/N sốt/V nhẹ/A đau_đầu/A nổi/V ban/N ở/E hai/M chân/N và/CC đau/V mắt/N đỏ/A 
+Sau/E 2/M ngày/N tự/P uống/V thuốc/N hạ/V sốt/V ở/E nhà/N nhưng/C không/R đỡ/V bệnh_nhân/N đến/V khám/V tại/E BV/Np Nhiệt_đới/N Khánh_Hòa/Np 
+Đến/E ngày/N 31/3/M kết_quả/N xét_nghiệm/V của/E bệnh_nhân/N tại/E Viện_Paster_Nha_Trang/Np khẳng_định/V dương_tính/A với/E vi_rút/N Zika/Np 
+Sau/E đó/P mẫu/N bệnh_phẩm/N được/V chuyển/V ra/R Viện_Vệ/Np sinh/V dịch_tễ/N Trung_ương/N xét_nghiệm/V lại/R ngày/N 4/4/M đã/R có/V kết_quả/N dương_tính/A 
+Ca/N bệnh/N thứ/N 2/M là/V một/M bệnh_nhân/N nữ/N 33/M tuổi/N quận/N 2/M TP/Np Hồ_Chí_Minh/Np 
+Bệnh/N khởi_phát/V ngày/N 29/3/M với/E triệu_chứng/N tương_tự/A gồm/V sốt/V phát_ban/N viêm/N kết_mạc/V mệt_mỏi/V và/CC đến/V khám/V tại/E BV/Np Đa_khoa/Np quận/N 2/M ngay/T trong/E ngày/N 
+Kết_quả/N xét_nghiệm/V của/E bệnh_nhân/N liên_tiếp/A 2/M lần/N đều/R dương_tính/A với/E Zika/Np 
+Kết_quả/N xét_nghiệm/V lại/R tại/E Viện_Vệ/Np sinh/V dịch_tễ/N TƯ/Np ngày/N 4/4/M khẳng_định/V dương_tính/A 
+Người_nhà/N và/CC các/L hộ/N gia_đình/N xung_quanh/N của/E 2/M bệnh_nhân/N cũng/R được/V giám_sát/V và/CC chưa/R phát_hiện/V trường_hợp/N nào/P khác/A nhiễm/V vi_rút/N Zika/Np 
+Như_vậy/C đây/P là/V hai/M trường_hợp/N nhiễm/V vi_rút/N Zika/Np đầu_tiên/A ghi_nhận/V tại/E cộng_đồng/N ở/E nước/N ta/P hiện/N sức_khỏe/N của/E cả/P hai/M bệnh_nhân/N ổn_định/A 
+PGS.TS/Np 
+Trần_Đắc_Phu/Np Cục_trưởng/N Cục/N Y_tế/N dự_phòng/V cho_biết/V hai/M bệnh_nhân/N này/P được/R phát_hiện/V dương_tính/A trong/E 1.215/M mẫu/N bệnh_phẩm/N từ/E các/L trường_hợp/N có/V biểu_hiện/N tương_tự/A như/C nhiễm/V vi_rút/N Zika/Np tại/E 32/M tỉnh/N thành_phố/N trên/E cả/P nước/N 
+Đến/E nay/P dịch/N vẫn/R diễn_biến/V phức_tạp/A ở/E nhiều/A quốc_gia/N 
+Tuy_nhiên/C Tổ_chức/N y_tế/N thế_giới/N cũng/R không/R đưa/V ra/R bất_cứ/R khuyến_cáo/N nào/P về/E việc/N hạn_chế/V đi_lại/V giữa/E các/L nước/N 
+Bộ/N Y_tế/N nhận_định/V trong/E thời_gian/N tới/V có_thể/R tiếp_tục/V ghi_nhận/V trường_hợp/N mắc/V bệnh/N do/E vi_rút/N Zika/Np do/E hiện_nay/N có/V sự/Nc giao_lưu/V đi_lại/V giữa/E các/L quốc_gia/N cũng_như/C giữa/E các/L địa_phương/N trong/E cả/P nước/N đồng_thời/R Việt_Nam/Np có/V lưu_hành/V muỗi/N vằn/N là/V véc/N tơ/N truyền/V bệnh/N và/CC chưa/R có/V miễn_dịch/N trong/E cộng_đồng/N 
+Do/E đặc_điểm/N của/E bệnh/N thường/R diễn_biến/V ở/E mức_độ/N vừa/R nhẹ/A nhiều/A trường_hợp/N không/R có/V biểu_hiện/V triệu_chứng/N và/CC tự/P khỏi/V nên/C không/R ảnh_hưởng/V lớn/A đến/E sức_khỏe/N tuy_nhiên/C do/E mối/N liên_quan/V tiềm_ẩn/N giữa/N nhiễm/V vi_rút/N Zika/Np ở/E phụ_nữ/N có_thai/A và/CC chứng/V đầu/N nhỏ/A ở/E trẻ/N sơ_sinh/A nên/C cần/V quan_tâm/V đến/E việc/N phòng_bệnh/V và/CC theo_dõi/V sức_khỏe/N cho/E phụ_nữ/N đang/R mang/V thai/N người/N dự_định/V có_thai/A và/CC phụ_nữ/N mang/V thai/N nhiễm/V vi_rút/N Zika/Np 
+Được/V biết/V ngay/T trong_sáng/A 5/4/M một/M đoàn/N công_tác/N do/E Bộ_trưởng/N Bộ/N Y_tế/N dẫn_đầu/V đã/R vào/V TP/Np Hồ_Chí_Minh/Np để/E kiểm_tra/V giám_sát/V việc/N thực_hiện/V phòng_chống/V dịch/N 
+Còn/C đầu/N giờ/N chiều/N nay/P ngay/T sau/E khi/N kết/V thục/V cuộc/N họp_báo/V Thứ_trưởng/N Bộ/N Y_tế/N Nguyễn_Thanh_Long/Np sẽ/R vào/V Khánh_Hòa/Np để/E giám_sát/V tình_hình/N triển_khai/V chống/V dịch/N Zika/Np tại/E địa_phương/N này/P 
+Hồng_Hải/Np 

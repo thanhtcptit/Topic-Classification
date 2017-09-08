@@ -1,0 +1,46 @@
+Điểm/N nhận/V hồ_sơ/N của/E 14/M đại_học/N Y_Dược/Np
+Chiều/N 14/7/M Đại_học/N Y_Dược/Np TP_HCM/Np thông_báo/V điểm_sàn/N xét/V tuyển/V các/L ngành/N của/E trường/N năm/N 2017/M
+Các/L ngành/N Y/N đa_khoa/A Răng/Np Hàm/Np Mặt/N và/CC Dược/Np lấy/V 23/M điểm/N các/L ngành/N còn/V lại/R lấy/V 19/M điểm/N
+Theo/E đề_án/N tuyển_sinh/V hệ/N chính_quy/A của/E Đại_học/N Y_dược/N TP_HCM/Np năm/N nay/P trường/N tuyển_sinh/V trên/E cả/P nước/N với/E tổng/N chỉ_tiêu/N 1 0/M tăng/V 160/M so/V với/E năm_ngoái/N
+Có/V 5/M ngành/N giữ/V nguyên/A chỉ_tiêu/N gồm/V Y/N đa_khoa/A 400/M Răng_hàm/N mặt/N 100/M Y_học/N cổ_truyền/A 150/M Điều_dưỡng/N đa_khoa/N 150/M Điều_dưỡng/N chuyên_ngành/N hộ_sinh/V 80/M
+Các/L ngành/N còn/V lại/R tăng/V 10-20/M chỉ_tiêu/N trong/E đó/P Dược_học/N tăng/V 60/M
+Mùa/N tuyển_sinh/V năm_ngoái/N ngành/N Y/N đa_khoa/N có/V điểm_chuẩn/N cao/A nhất/A 26,75/M ngành/N Răng/Np Hàm/Np Mặt/N 26/M ngành/N Dược_học/N 25,25/M
+Ngành/N Y_tế/N công_cộng/N có/V điểm_chuẩn/N thấp/A nhất_là/X 20,5/M
+Đại_học/N Y_Dược_Cần_Thơ/Np các/L ngành/N Y/N đa_khoa/A Y_học/N dự_phòng/V Y_học/N cổ_truyền/A Răng/Np Hàm/Np Mặt/N Dược_học/N xét/V tuyển/V từ/E 20,5/M điểm/N các/L ngành/N còn/V lại/R từ/E 19/M
+Năm/N nay/P trường/N có/V 1 0/M chỉ_tiêu/N trong/E đó/P 85%/M dành/V cho/E thí_sinh/N ở/E các/L tỉnh/N đồng_bằng/N sông/N Cửu_Long/Np còn/V lại/R cho/E thí_sinh/N ở/E Đông_Nam_Bộ/Np và/CC Nam_Trung_Bộ/Np
+Khoa/Np Y/N /M Đại_học/N Quốc_gia/Np TP_HCM/Np /M  /N thông_báo/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N cho/E tất_cả/P ngành/N là/V 15,5/M điểm/N
+Năm/N nay/P khoa/N Y/N tuyển_sinh/V toàn_quốc/N với/E 100/M chỉ_tiêu/N ngành/N Y/N đa_khoa/A 75/M chỉ_tiêu/N ngành/N Dược/Np
+Điều_kiện/N chung/A là/C thí_sinh/N tốt_nghiệp/V THPT/Np tính/V tới/E thời_điểm/N xét/V tuyển/V điểm/N trung_bình_cộng/N 3/M năm/N THPT/Np từ/E 6,5/M trở_lên/A
+Học_viện/N Y_Dược/Np cổ_truyền/A Việt_Nam/Np lấy/V 15,5/M điểm/N xét/V tuyển/V chỉ_tiêu/N tuyển_sinh/V là/V 700/M
+Năm/N 2016/M điểm/N trúng_tuyển/V vào/E trường/N là/V 23/M 24,25/M
+Ngưỡng/N nhận/V hồ_sơ/N xét/V tuyển/V của/E Đại_học/N Điều_dưỡng/N Nam_Định/Np là/V 15,5/M điểm/N cho/E tất_cả/P các/L tổ_hợp/N xét/V tuyển/V /M B/N D7/M D8/M /N
+Điểm_chuẩn/N của/E trường/N năm/N 2016/M là/V 22/M 24,75/M
+Đại_diện/N  /M Đại_học/N Y_Hà_Nội/Np cho_biết/V mùa/N tuyển_sinh/V 2017/M trường/N sử_dụng/V ngưỡng/N đảm_bảo/V chất_lượng/N của/E Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N để/E xét/V tuyển/V
+Với/E 1 0/M chỉ_tiêu/N của/E 10/M mã/N ngành/N trong/E đó/P Y/N đa_khoa/N chiếm/V 500/M chỉ_tiêu/N trường/N nhận/V tất_cả/P hồ_sơ/N có/V điểm/N thi/V THPT/Np quốc_gia/N 3/M môn/N khối/N B/N từ/E 15,5/M trở_lên/A  /EOS
+Năm/N 2016/M điểm/N trúng_tuyển/V vào/E các/L ngành/N của/E Đại_học/N Y_Hà_Nội/Np từ/E 23/M trở_lên/A
+Ngành/N Y/N đa_khoa/N lấy/V điểm_chuẩn/N cao/A nhất_là/X 27/M
+Đại_học/N Y_Dược/Np Đại_học/N Thái_Nguyên/Np cũng/R lấy/V điểm/N nhận/V hồ_sơ/N bằng/E ngưỡng/N sàn/N của/E Bộ/N Giáo/Np dục/V là/V 15,5/M
+Năm/N trước/A điểm/N trúng_tuyển/V vào/E 5/M mã/N ngành/N của/E trường/N là/V 22-27/M 5/M
+Đại_học/N Y_Dược_Hải_Phòng/Np sáng/N 14/7/M cũng/R thông_báo/V ngưỡng/N điểm/N nhận/V hồ_sơ/N
+Theo/E đó/P ngành/N Y/N đa_khoa/A Dược/Np Răng_hàm/Np mặt/N có/V mức/N sàn/N cao/A nhất/A 22,5/M ngành/N Y_học/N cổ_truyền/A nhận/V hồ_sơ/N từ/E 20/M điểm/N trở_lên/A
+Các/L ngành/N Y_học/N dự_phòng/V Xét_nghiệm/V y_học/N Điều_dưỡng/V điểm/N xét/V tuyển/V là/V 18/M  /M Năm/N 2017/M Đại_học/N Y_dược/N Hải_Phòng/N tuyển/V 1 0/M chỉ_tiêu/N cho/E 8/M mã/N ngành/N
+Riêng/T ngành/N Dược_học/N có/V sử_dụng/V tổ_hợp/N các/L môn/N thi/V khối/N A/N /M Toán/Np Lý/Np Hóa/Np /V để/E xét/V tuyển/V các/L ngành/N còn/V lại/R đều/R dùng/V khối/N B/Np  /M Điểm/N trúng_tuyển/V vào/E trường/N năm/N 2016/M là/V 22,75/M 25/M
+Đại_học/N Y_Dược/Np Đại_học/N Huế/N có/V ngưỡng/N nhận/V hồ_sơ/N thấp/A nhất_là/X 18/M điểm/N ở/E ngành/N Y_tế/N công_cộng/N
+Ngành/N Y/N đa_khoa/N Dược_học/N Răng_hàm/N mặt/N có/V mức/N sàn/N cao/A nhất_là/X 24/M
+Các/L ngành/N còn/V lại/R gồm/V Y_tế/N dự_phòng/V Y_học/N cổ_truyền/A Điều_dưỡng/Np Xét_nghiệm/V y_học/N Kỹ_thuật/N hình_ảnh/N Y_học/N điểm_sàn/N là/V 21/M  /M Trường/N năm/N nay/P tuyển/V 1 0/M chỉ_tiêu/N trừ/V ngành/N Dược/Np tuyển/V khối/N A/N các/L ngành/N còn/V lại/R dùng/V tổ_hợp/N các/L môn/N khối/N B/N để/E xét/V tuyển/V  /EOS
+Điểm/N trúng_tuyển/V vào/E trường/N năm/N 2016/M thấp/A nhất_là/X 21/M ngành/N Y_tế/N công_cộng/A cao/A nhất_là/X 26/M ngành/N Y/N đa_khoa/N
+Các/L ngành/N còn/V lại/R có/V điểm_chuẩn/N từ/E 22,5/M đến/E 25,75/M
+Khoa/Np Y_Dược/Np Đại_học/N Quốc_gia/Np Hà_Nội/Np có/V ngưỡng/N nhận/V hồ_sơ/N ngành/N Dược_học/N /M khối/N A/N /A và/CC Y/N đa_khoa/N /M khối/N B/N /A là/V 21/M điểm/N  /M Ngành/N
+Răng_hàm/V mặt/N chương_trình/N chất_lượng/N cao/A lấy/V từ/E 18/M điểm/N /V khối/N B/N và/CC tiếng/N Anh/N điều_kiện/N /V
+Năm/N 2017/M khoa/N này/P tuyển/V 190/M chỉ_tiêu/N
+Đại_học/N Y_khoa/N Phạm_Ngọc_Thạch/Np nhận/V hồ_sơ/N đăng_ký/V xét/V tuyển/V từ/E 21/M điểm/N trở_lên/A với/E các/L ngành/N Y/N đa_khoa/N Răng_hàm/N mặt/N Dược/Np
+Các/L ngành/N còn/V lại/R từ/E 17/M điểm/N
+Chỉ_tiêu/N tuyển_sinh/V của/E trường/N năm/N nay/P là/V 1 0/M  /EOS
+Ngưỡng/N điểm_sàn/A của/E Đại_học/N Dược_Hà_Nội/Np là/V 22/M với/E tổ_hợp/N các/L môn/N khối/N A/N /M Toán/Np Lý/Np Hóa/Np /M
+Trường/N có/V 600/M chỉ_tiêu/N tuyển_sinh/V trong/E năm/N 2017/M
+Năm/N 2016/M điểm/N trúng_tuyển/V vào/E trường/N là/V 26,75/M  /EOS
+Đại_học/N kỹ_thuật/N Y_tế/N Hải_Dương/Np lấy/V ngưỡng/N xét/V tuyển/V đầu_vào/N ngành/N Y/N đa_khoa/A là/V 22/M điểm/N các/L ngành/N còn/V lại/R là/V 18/M
+Năm/N nay/P trường/N tuyển/V 620/M chỉ_tiêu/N ở/E tổ_hợp/N khối/N B/N
+Riêng/T ngành/N Kỹ_thuật/N hình_ảnh/N y_học/N không/R tuyển/V nữ/N
+Điểm/N trúng_tuyển/V đợt/N một/M năm/N 2016/M của/E trường/N là/V 24,5/M với/E Y/N đa_khoa/N ngành/N Xét_nghiệm/V y_học/N là/V 22,5/M Kỹ_thuật/N hình_ảnh/N y_học/N và/CC Điều_dưỡng/N là/V 22/M Phục_hồi/V chức_năng/N là/V 21/M
+Đại_học/N Kỹ_thuật/N Y/N Dược_Đà_Nẵng/Np lấy/V ngưỡng/N đảm_bảo/V đầu_vào/N xét/V tuyển/V là/V 15,5/M điểm/N cho/E tất_cả/P các/L ngành/N

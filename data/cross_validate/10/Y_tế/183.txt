@@ -1,0 +1,9 @@
+Mổ/N thành_công/V khối_u/N gần/A 20kg/M
+Chiều/N 255/M Bệnh_viện/N Sản/Np nhi/V Sóc_Trăng/Np cho/V biết/V đã/R mổ/V thành_công/V khối_u/N buồng_trứng/N nặng/A 195kg/Np cho/V chị/N Đái_Thị_Nguyệt/Np 55/M tuổi/N quê/N xã/N Phú_Mỹ/Np huyện/N Mỹ_Tú/Np
+Trước/E đó/P ngày/N 225/M bệnh_viện/N tiếp_nhận/N chị/N Nguyệt/Np trong/E tình_trạng/N khó/A thở/V thiếu/A máu/N bụng/N căng/V to/A như/C có_thai/N chín/M tháng/N
+Sau/E khi/N siêu_âm/N chụp/V CT/Np các/L bác_sĩ/N chẩn_đoán/N chị/N Nguyệt/Np có/V khối_u/N buồng_trứng/N
+Lúc/N 8h/N sáng/N 255/M bệnh_viện/N mổ/V lấy/V khối_u/N nặng/A 195kg/M
+Hiện/N chị/N Nguyệt/Np đã/R khoẻ/A nói_chuyện/V bình_thường/A
+Được/V biết/V hoàn_cảnh/N chị/N Nguyệt/Np rất/R khó_khăn/A hằng/R ngày/N phải/V đi/V làm_thuê/V gánh/N nước/N mướn/V
+Gần/A đây/P bụng/N chị/N Nguyệt/Np mỗi/N ngày_một/N to/A nhưng/C cứ/R nghĩ/V mình/P mập/N nên/C chị/N không/R hề/V để_ý/V
+Đến/E khi/N nằm/V ngửa/A khó/A thở/V được/V hàng_xóm/N động_viên/V chị/N Nguyệt/Np mới/R chịu/V vào/V bệnh_viện/N

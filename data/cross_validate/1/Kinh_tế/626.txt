@@ -1,0 +1,14 @@
+Tỷ_phú/N Thái_Lan/Np 6/M lần/N mua/V hụt/V khối/N cổ_phiếu/V nghìn/N tỷ/N của/E Vinamilk/Np
+F&/N N_Dairy_Investments_Pte/Np
+Ltd/Np vừa/R đăng_ký/V mua/V vào/E hơn/A 14,5/M triệu/M cổ_phiếu/N của/E Công_ty_cổ_phần/N Sữa_Việt_Nam/Np /V Vinamilk/Np /V thông_qua/V giao_dịch/V thoả_thuận/N và/CC khớp/N lệnh/N trong/E thời_gian/N từ/E ngày/N 24/7/M đến/V 22/8/M
+Căn_cứ/N theo/V giá/N mở_cửa/V phiên/N giao_dịch/V sáng/N nay/P khối_lượng/N cổ_phiếu/N trị_giá/V hơn/R 2 6/M tỷ/N đồng/N
+Nếu/C giao_dịch/V thành_công/N tỷ_lệ/N sở_hữu/V của/E nhà_đầu_tư/N này/P sẽ/R tăng/V từ/E 16,04%/M lên/E 17,04%/M tương_ứng/V hơn/R 247/M triệu/N cổ_phiếu/V
+Từ/E giữa/N tháng/N 4/M F&/Np N_Dairy_Investments_Pte/Np
+Ltd/Np bắt_đầu/V đăng_ký/V mua/V khối_lượng/N cổ_phiếu/N này/P nhằm/V mục_đích/N đầu_tư/V
+Tuy_nhiên/C do/E điều_kiện/N thị_trường/N không/R phù_hợp/V nên/C qua/V 3/M lần/N giao_dịch/V chỉ/R gom/V thêm/V được/R 5/M triệu/M cổ_phiếu/N
+Tính_từ/N đầu/N năm/N đến/E nay/P nhà_đầu_tư/N này/P đã/R 6/M lần/N thất_bại/V trong/E việc/N gom/V cổ_phiếu/N Vinamilk/Np
+Trong/E quý/N I/M tập_đoàn/N cũng/R hai/M lần/N đăng_ký/V mua/V 21,7/M triệu/N cổ_phiếu/V quỹ/N nhưng/C kết_quả/N chỉ/R ghi_nhận/V hơn/R 13/M triệu/N cổ_phiếu/V được/R sang_tay/V
+F&/Np N_Dairy_Investments/Np là/V cổ_đông/N ngoại/N lớn/A nhất/A của/E Vinamilk/Np và/CC có/V đại_diện/N là/C ông/Nc Lee_Meng_Tat/Np trong/E Hội_đồng_quản_trị/N
+Nhà_đầu_tư/N này/P thuộc/V tập_đoàn/N đồ/N uống/V Singapore/Np F&/Np N/Np do/E tỷ_phú/N Thái_Lan_Charoen_Sirivadhanabhakdi/Np nắm/V quyền/N kiểm_soát/V bắt_đầu/V rót/V vốn/N vào/E Vinamilk/Np từ/E năm/N 2005/M
+Cuối/N năm/N 2016/M F&/Np N_Dairy_Investments/Np cùng_với/C F&/Np NBev/Np Manufacturing/Np chi/V gần/A 500/M triệu/M USD/Nu /M tương_đương/V khoảng/N 11 6/M tỷ/N đồng/N /A để/E mua/V 60%/M khối_lượng/N cổ_phiếu/N do/E SCIC/Np chào_bán/V công_khai/A theo/E phương_án/N thoái/V vốn/N nhà_nước/N
+Mức/N giá/N mua/V vào/E tại/E thời_điểm/N đó/P cao/A hơn/R so/V với/E thị_trường/N gần/A 7%/M

@@ -1,0 +1,24 @@
+Hội/N rước/V pháo/N Đồng_Kỵ/Np là/V Di_sản/N văn_hóa/N phi/N vật_thể/A quốc_gia/N
+Ngày/N 19/1/M Bộ/N Văn/Np hóa/V ban_hành/V quyết_định/V bổ_sung/V 15/M di_sản/N vào/E Danh_mục/N di_sản/N văn_hoá/N phi/N vật_thể/A quốc_gia/N
+Trong/E danh_sách/N này/P có/V nhiều/A lễ_hội/N nghề/N truyền_thống/N của/E các/L dân_tộc/N như/C lễ_hội/N  /M cầu/N năm/N mới/A cầu/N mùa/N của/E người/N Dao/Np /V Tịu/Np siằng/V thun/N boaù/V liu/V /M /N Bắc_Kạn/Np /M đền/N Hát_Môn/Np đền/N Và/C /A Hà_Nội/Np /A nghề/N gốm/N Phù_Lãng/Np chạm_khắc/V Phù_Khê/Np gò/N đồng/N Đại_Bái/Np /M Bắc_Ninh/Np /M
+Hội/N pháo/N làng/N Đồng_Kỵ/Np /V Từ_Sơn/Np Bắc_Ninh/Np /M cũng/R được/V ghi/V tên/N trong/E danh_sách/N Di_sản/N văn_hóa/N phi/N vật_thể/A quốc_gia/N
+Đây/P là/V lễ_hội/N truyền_thống/N được/V tổ_chức/V vào/E mùng/N 4/M Tết/N hàng/N năm/N để/E  /V tưởng_nhớ/V ngày/N Thánh_Thiên_Cương/Np vị/Nc tướng/N sau_này/N được/V dân/N tôn_thờ/V làm/V thành_hoàng/N làng/N điều/N quân/N đi/V đánh/V giặc/N
+Tâm/Np điểm/N của/E lễ_hội/N là/V tục/A rước/V pháo/N
+Theo/E đó/P những/L ông/N pháo/N dài/A 5-6m/M có/V sơn_son_thiếp_vàng/X gắn/V tứ_linh/N được/V vài/L trăm/M trai_tráng/N rước/V qua/E các/L trục/N đường/N chính/T của/E làng/N Đồng_Kỵ/Np
+Tiếp/V đó/P là/V màn/N rước/V  /N 4/M ông/Nc đám/N những/L người/N tới/V tuổi/N 51/M ở/E 4/M giáp/N khác_nhau/A tượng_trưng/V cho/E 4/M vị/Nc tướng/N xuất_quân/V đánh/V giặc/N  /M Các/L trai/N đinh/N cởi/V trần/N có/V nhiệm_vụ/N giữ/V ông/N đám/N không/R được/V ngã/V trong/E khi/N di_chuyển/V quanh/N sân/N đình/N
+Lễ_hội/N truyền_thống/A với/E các/L tục_lệ/N thú_vị/A mang/V lại/R không_khí/N vui_vẻ/A ngày/N xuân/N năm/N mới/A này/P thu_hút/V được/R đông_đảo/A sự/N quan_tâm/V của/E cộng_đồng/N dân_cư/N và/CC dư_luận/N
+Danh_sách/N 15/M Di_sản/N văn_hóa/N phi/N vật_thể/A quốc_gia/N mới/R được/V bổ_sung/V 1/M
+Hội/N đua/V bò/N Bảy_Núi/Np An_Giang/Np 2/M
+Lễ/N cầu/N năm/N mới/A cầu/N mùa/N của/E người/N Dao/Np /V Tịu/Np siằng/V thun/N boaù/V liu/N /A Bắc_Kạn/Np 3/M
+Lễ_hội/N làng/N Diềm/Np Bắc_Ninh/Np 4/M
+Lễ_hội/N làng/N Đồng_Kỵ/Np Bắc_Ninh/Np 5/M
+Nghề/N gốm/N Phù_Lãng/Np Bắc_Ninh/Np 6/M
+Nghề/N chạm_khắc/V gỗ/N Phù_Khê/Np Bắc_Ninh/Np 7/M
+Nghề/N gò/N đồng/N Đại_Bái/Np Bắc_Ninh/Np 8/M
+Kỹ_thuật/N trồng/V lanh/N và/CC dệt/V vải/N lanh/N của/E người/N Mông/Np Hà_Giang/Np 9/M
+Hát/V trống_quân/N làng/N Bùi_Xá/Np Bắc_Ninh/Np 10/M
+Hát/V trống_quân/N Hải_Dương/Np 11/M
+Lễ_hội/N Đền_Hát_Môn/Np Hà_Nội/Np 12/M
+Lễ_hội/N Đền_Và/Np Hà_Nội/Np 13/M
+Nghệ_thuật/N Chiêng_Mường/Np ở/E Hoà_Bình/Np Hoà_Bình/Np 14/M
+Mo_Mường/Np ở/V Hoà_Bình/Np Hoà_Bình/Np 15/M

@@ -1,0 +1,16 @@
+Dấu_hiệu/N phát_hiện/V sớm/A ung_thư/N vòm/N họng/N
+Các/L chuyên_gia/N tại/E trung_tâm/N ung_thư/N PCC/Np Singapore/Np giải_thích/V ung_thư/N vòm/N họng/N còn/C gọi_là/X ung_thư/N mũi/N  /N xảy_ra/V khi/N có/V các/L tế_bào/N ung_thư/N phát_triển/V từ/E các/L mô/P trong/E mũi/N hầu/V /A khu_vực/N phía/N sau/N khoang/N mũi/N đến/E mặt/N sau/N của/E cổ_họng/N /N
+Khối_u/N  /A có_thể/R xâm_lấn/V đến/E nền/N sọ/N và/CC  /V các/L dây_thần_kinh/N xung_quanh/N gây/V sụp/V mí/V mắt/N hoa/N mắt/N
+Ung_thư/N có_thể/R di/V  /M căn/Nc xa/A đến/E xương/N phổi/N gan/N
+Các/L triệu_chứng/N phổ_biến/V của/E ung_thư/N vòm/N họng/N bao_gồm/V chảy_máu/V mũi/N hoặc/CC tắc_nghẽn/V mũi/N đờm/N có/V máu/N
+Bệnh_nhân/N có_thể/A gặp/V các/L triệu_chứng/N ở/E tai/N như/C tai/N bị/V chẹn/V tiếng/N ồn/A vang_vọng/V khiếm_thính/A đau_đầu/A cổ/A sưng/A do/E các/L hạch/V bạch_huyết/N phình/N to/A mí/V mắt/N rủ/V xuống/R hoa/N mắt/N tê/A mặt/N do/E dây_thần_kinh/N sọ/N não/N
+Ung_thư/N giai_đoạn/N tiến_triển/V thường/R làm/V giảm/V cân/N mệt_mỏi/A đau/V xương/N  /M Nếu/C nghi_ngờ/V bệnh_nhân/N bị/V ung_thư/N mũi/N bác_sĩ/N có_thể/A kiểm_tra/V mặt/N sau/E mũi/N bằng/E đèn/N soi/V
+Theo/E đó/P một/M ống/N sáng/N mềm/A nhỏ/A được/V đưa/V qua/R lỗ/N mũi/N vào/E mặt/N sau/N của/E khoang/N mũi/N
+Phát_hiện/V có/V bất_thường/A ở/E khu_vực/N nào/P bác_sĩ/N sẽ/R cho/V làm/V sinh_thiết/N để/E khẳng_định/V tế_bào/N ác_tính/A đặc_biệt/A trong/E trường_hợp/N có/V hạch/V bạch_huyết/N phình/N to/A
+Hiện/N chưa_thể/R khẳng_định/V nguyên_nhân/N chính_xác/A của/E bệnh/N ung_thư/N vòm/N họng/N song/C nhiều/A chuyên_gia/N cho/V rằng/C tình_trạng/N nhiễm/V virus/N Epstein_Barr/Np /V EBV/Np /V là/V mấu_chốt/A dẫn/V đến/E bệnh/N này/P
+Các/L yếu_tố/N nguy_cơ/N gây/V ung_thư/N vòm/N họng/N  /M bao_gồm/V ăn/V quá/R nhiều/A cá/N muối/N từ/E khi/N còn/V nhỏ/A ăn/V nhiều/A thực_phẩm/N bảo_quản/V lên_men/V và/CC hút/V thuốc_lá/N
+Ngoài_ra/C  /N còn/R có/V yếu_tố/N gia_đình/N nếu/C có/V người_thân/N trong/E gia_đình/N mắc/V ung_thư/N vòm/N họng/N thì/C nguy_cơ/N mắc/V bệnh/N của/E bạn/N cao/A hơn/A bình_thường/A
+Singapore/Np ghi_nhận/V nguy_cơ/N mắc/V ung_thư/N vòm/N họng/N ở/E đàn_ông/N cao/A  /A gấp/V khoảng/N 3/M lần/N phụ_nữ/N
+Theo/E khảo_sát/V  /N từ/E năm/N 2003/M đến/E 2007/M đây/P là/V loại/N ung_thư/N phổ_biến/V thứ/N 7/M ở/E nam_giới/N và/CC thứ/N 12/M ở/E nữ/N  /N chiếm/V 4,6%/M số/N ca/N tử_vong/V do/E ung_thư/N nam_giới/N và/CC 1,7%/M phụ_nữ/N nước/N này/P  /EOS
+Để/E phòng_bệnh/V các/L chuyên_gia/N khuyên/V ưu_tiên/V  /N lựa_chọn/V thực_phẩm/N tươi/A tránh/V đồ/N bảo_quản/V lâu/A hạn_chế/V ăn/V thực_phẩm/N lên_men/V hoặc/CC muối/N chua/N
+Tại_Singapore/Np những/L năm/N gần/A đây/P tỷ_lệ/N mắc/V ung_thư/N vòm/N họng/N có/V xu_hướng/N  /V giảm/V các/L chuyên_gia/N cho/V rằng/C một/M phần/N là/C nhờ/V sự/Nc thay_đổi/V tích_cực/A trong/E thói_quen/N ăn_uống/V hằng/R ngày/N của/E người_dân/N

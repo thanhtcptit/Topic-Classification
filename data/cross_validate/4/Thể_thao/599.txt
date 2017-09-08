@@ -1,0 +1,10 @@
+Chủ_tịch/N Real/Np nhận/V hộp/N lạ/A cảnh_sát/N vào_cuộc/V điều_tra/V
+Truyền_thông/N Tây_Ban_Nha/Np tường_thuật/V sự_việc/N diễn/V ra/R hôm/N thứ/N Sáu/M 10/3/M
+Một/M chiếc/Nc hộp/N đã/R được/V gửi/V cho/E Chủ_tịch/N Florentino_Perez/Np và/CC không/R đề/V tên/N người/N gửi/V
+Thấy/V khả_nghi/A các/L nhân_viên/N sân/N đã/R gọi/V cảnh_sát/N đến/V điều_tra/V
+Sau/E vài/L giờ/N xem_xét/V nhà_chức_trách/N cho_biết/V chiếc/Nc hộp/N không/R tạo/V ra/R mối/N đe_dọa/N nào/P
+Hiện/N cảnh_sát/N đã/R tạm/A giữ/V chiếc/Nc hộp/N để/E điều_tra/V thêm/V
+Nguồn/N tin/V từ/E Tây_Ban_Nha/Np xác_nhận/V xuất_phát_điểm/N của/E chiếc/Nc hộp/N từ/E Italy/Np
+Chỉ/R ít/A ngày_trước/N Real_Madrid/Np đã/R bay/V sang/V Italy/Np để/E đá/V trận/N lượt_về/V vòng/N 1/8/M Champions_League/Np với/E Napoli/Np
+Đội/N bóng/N Hoàng_gia/N thắng/V 3-1/M /Nu tổng/N tỷ_số/N 6-2/M /N
+Cuối/N tuần/N này/P Real/Np tiếp_đón/V Real_Betis/Np trên/E sân_nhà/N Bernabeu/Np

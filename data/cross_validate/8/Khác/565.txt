@@ -1,0 +1,9 @@
+Microsoft_Power/Np Point/Np dịch/V bài/N thuyết_trình/V theo/V thời_gian_thực/N
+Sau/E khi/N tải/N ứng_dụng/V Translator/Np của/E Microsoft/Np và/CC đồng_bộ/A vào/E PowerPoint/Np công_cụ/N  /N sẽ/R nhận_diện/V giọng/N nói/V của/E người/N thuyết_trình/V và/CC phụ_đề/N sẽ/R xuất_hiện/V tự_động/A bên/N dưới/N các/L slide/N
+Ứng_dụng/N hiện/N có_thể/R dịch/V 10/M ngôn_ngữ/N theo/E thời_gian_thực/N bao_gồm/V tiếng/N Ả/Np rập/N Trung_Quốc/Np Nga/Np Tây_Ban_Nha/Np Czech/Np Pháp/Np Đức/Np Italy/Np Nhật/Np Thổ_Nhĩ_Kỳ/Np
+Các/L ngôn_ngữ/N khác/A sẽ/R tiếp_tục/V được/V bổ_sung/V trong/E thời_gian/N tới/V
+Tại/E sự_kiện/N Build/Np 2017/M đang/R diễn/V ra/R ở/E Seattle/Np /V Mỹ/Np /V Microsoft/Np đã/R thử_nghiệm/V khả_năng/N dịch/V từ/E tiếng/N Tây_Ban_Nha/Np và/CC tiếng/N Trung/Np sang/V tiếng/N Anh/N
+Tuy/C chưa/R thực_sự/A trơn_tru/A tính_năng/N này/P sẽ/R giúp/V loại_bỏ/V rào_cản/N về/E ngôn_ngữ/N giữa/E người/N thuyết_trình/A và/CC người/N nghe/V đồng_thời/R  /V cho/E thấy/V công_nghệ/N trí_tuệ_nhân_tạo/X của/E Microsoft/Np đang/R ngày_càng/X được/V mở_rộng/V trong/E nhiều/A sản_phẩm/N mà/C con_người/N sử_dụng/V hàng/N ngày/N  /EOS
+PowerPoint/Np là/V một/M trong/E những/L tiện_ích/N của/E Microsoft_Office/Np được/R dùng/V phổ_biến/V trên/E thế_giới/N
+Office/Np 365/M hiện/N thu_hút/V 100/M triệu/M người/N dùng/V mỗi/M tháng/N /M monthly/N active/N user/V /A đưa/V gói/N ứng_dụng/N này/P trở_thành/V giải_pháp/N tiện_ích/A văn_phòng/N đám/Nc mây/N lớn/A nhất/A thế_giới/N
+Với_Office/Np 365/M người/N dùng/V có_thể/R cộng_tác/V dễ_dàng/A từ/E bất_cứ/R nơi/N nào/P và/CC trên/E hầu_như/R mọi/L thiết_bị/N với/E độ/N an_toàn/A cao/A

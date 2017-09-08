@@ -1,0 +1,11 @@
+Công_ty/N khởi_nghiệp/V Foodyvn/Np nhận/V đầu_tư/V series/N B/Np
+Đây/P là/V vòng/N đầu_tư/V thứ_ba/N vào/V công_ty/N khởi_nghiệp/V Foody/Np
+Trước/E đó/P Foody/Np đã/R nhận/V được/R đầu_tư/V series/N B/Np từ/E quỹ/N đầu_tư/V Nhật_Bản_Cyber/Np Agent_Ventures/Np và/CC series/V A/Np từ/E CyberAgent/N Ventures/Np cùng/A Pix_Vine_Capital_Investment/Np
+Foodyvn/N thành_lập/V tháng/N 82012/M bởi/N Đặng_Hoàng_Minh/Np website/N cung_cấp/V dịch_vụ/N tìm_kiếm/V các/L địa_điểm/N quán/N ăn/V nhà_hàng/N và/CC những/L chia_sẻ/N từ/E cộng_đồng/N người_dùng/V về/V địa_điểm/N đó/P
+Năm/N 2015/M Foody/Np bổ_sung/V các/L lĩnh_vực/N nội_dung/N mới/R bao_gồm/V du_lịch/N làm_đẹp/V sức_khoẻ/N mua_sắm/V giáo_dục/N và/CC dịch_vụ/N cưới_hỏi/V
+Trong/E năm/N 2015/M Foody/Np cũng/R ra_mắt/V thêm/V hai/M sản_phẩm/N mới/A gồm/V dịch_vụ/N giao_nhận/N Deliverynowvn/Np và/CC dịch_vụ/N đặt/V bàn/N từ/E xa/N Tablenowvn/Np mở_rộng/V phạm_vi/N hoạt_động/V sang/E các/L quốc_gia/N Đông_Nam/Np Á/Np
+Tính/V đến/E nay/N sau/E ba/M năm/N hoạt_động/V Foodyvn/Np có/V 275000/M nội_dung/N đánh_giá/V địa_điểm/N 15/M triệu/N hình_ảnh/N 19/M triệu/N bộ/N sưu_tập/V với/E lượng/N truy_cập/N mỗi/L tháng/N tầm/N 8/M triệu/N
+Hiện_Foody/Np là/V một/M trong/E những/L dịch_vụ/N tìm_kiếm/V hàng_đầu/N tại/N Việt_Nam/Np
+Sáng_lập/N từ/E năm/N 2009/M tại/E Singapore/Np Garena/Np là/V nhà/N cung_cấp/V nền_tảng/N game/N trực_tuyến/N Garena/Np và/CC nền_tảng/V mạng_xã_hội/N cho/V game/N thủ/V
+Hiện_Garena/Np đứng/V đầu/N danh_sách/N các/L nhà/Nc cung_cấp/N nền_tảng/N truyền_thông/N và/CC giải_trí/V tại/E khu_vực/N Đông_Nam/Np Á/Np Hong_Kong/Np và/CC Đài_Loan/Np
+Năm/N 2014/M Garena/Np đánh_dấu/V cột/N mốc/N giá_trị/N doanh_nghiệp/N đạt/V 1/M tỉ/M USD/Nu và/N đến/V tháng/N 32015/M qua/N vòng/N đầu_tư/V từ/E Ontario_Techers_Pension_Plan/Np đẩy/V giá_trị/N Garena/Np lên/V 25/M tỉ/M USD/Nu

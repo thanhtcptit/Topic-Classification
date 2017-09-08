@@ -1,0 +1,21 @@
+Hậu_hoạ/N khôn_lường/N nếu/N tài_khoản/N Facebook/Np luật_sư/N liên_quan/V vụ/N Nga/Np Mỹ/Np bị/V hack/V
+Sau/E khi/N có/V thông_tin/N tài_khoản/N Facebook/Np của/E một_số/L người/N liên_quan/V đến/E vụ/N án/N của/E hoa_hậu/N Trương_Hồ_Phương_Nga/Np đã/R bị/V chiếm_đoạt/V trong/E đó/N có/V Facebook/N của/N luật_sư/N
+Ông/N Võ_Đỗ_Thắng/Np Giám_đốc/N Trung_tâm/N đào_tạo/V và/N an_ninh/N mạng/N Athena/Np cho/V rằng/N Facebook/Np của/E luật_sư/N trong/E vụ/N này/P có_thể/A đã/R bị/V theo_dõi/V từ/V trước/N
+Họ/P có_thể/A đã/R bị/V theo_dõi/V từ/E thói_quen/N sử_dụng/V cho/E đến/V thiết_bị/N dùng/V để/E đăng_nhập/V hệ_thống/N mạng/N máy_tính/V tại/E văn_phòng/N luật_sư/N và/CC cả/P email/N luật_sư/N để/V tìm/V ra/R điểm/N yếu/A và/CC lựa_chọn/V cách/N tấn_công/V chiếm/V quyền/N kiểm_soát/V tài_khoản/N Facebook/Np của/N luật_sư/N
+Quá_trình/N theo_dõi/V này/N chắc_chắn/A có/V tổ_chức/N không/R phải/V ở/V một/M luật_sư/N mà/E nhiều/A luật_sư/N và/CC người/N có/V liên_quan/V đến/E vụ/N án/N ông/N Thắng/Np nhận_định/V
+Khi/N toà/V tuyên_án/V bỏ/V tạm/A giam/V thì/C các/L nhóm/N này/P ra_tay/N tấn_công/V chiếm/V quyền/N kiểm_soát/V kênh/N liên_lạc/V Facbeook/Np với/V rất/R nhiều/A người/N hâm_mộ/V của/E các/L luật_sư/N
+Theo/E ông/N Thắng/Np việc/N Facebook/Np các/L luật_sư/N bị/V chiếm/V tài_khoản/N sẽ/R có_thể/A gây/V ra/R những/L hệ_luỵ/N vô_cùng/N nguy_hiểm/A
+Như/C nhiều/A người_dùng/N khác/A các/L luật_sư/N dùng/V Facebook/Np để/E cung_cấp/V thông_tin/N và/CC liên_lạc/V với/E nhiều/A người/N trong/E đó/P có_thể/A có/V khá/R nhiều/A thông_tin/N liên_quan/V đến/E nhiều/A vụ/N án/N khác/A chứ/C không/R phải/A chỉ/R riêng/A vụ/N Nga/Np Mỹ/Np
+Những/L thông_tin/N này/P có_thể/A là/V bí_mật/N nghề_nghiệp/N của/E luật_sư/N có_thể/R ảnh_hưởng/V đến/E thân_chủ/N thậm_chí/N cả/N kết_quả/N tại/N toà/N
+Do/E đó/P nếu/C bị/V hack/V Facebook/Np thì/C những/L thông_tin/N này/P chắc_chắn/A sẽ/R bị/V lộ/V
+Khi/N đó/P không_những/N bí_mật/V nghề_nghiệp/N của/E luật_sư/N bị/V lộ/V mà/C kết_quả/N tại/E toà/N của/E các/L thân_chủ/N cũng/R bị/V ảnh_hưởng/V
+Luật_sư/N sống/V bằng/E uy_tín/N bằng/E bí_mật/N thông_tin/N việc/N lộ/V lọt/N chắc_chắn/A sẽ/R rất/R nguy_hiểm/A ông/Nc Thắng/Np nói/V
+Trong/E khi/N đó/P ông/N Ngô_Trần_Vũ/Np Giám_đốc/N Công_ty/N bảo_mật/V NTS/Np chỉ/V ra/V một_số/L viễn_cảnh/N có_thể/A xảy/V ra/R như/C Hacker/Np có_thể/A mạo_danh/V chủ_nhân/N Facebook/Np để/E lừa/V người/N khác/A lấy/V thông_tin/N hoặc/N lừa/V tiền_bạc/N
+Hacker/Np có_thể/A xem/V quá_trình/N và/CC nội_dung/N trao_đổi/V qua/R Facebook_Messenger/Np nếu/C có/V qua/N đó/P có/V nhiều/A thông_tin/N
+Hacker/Np cũng/R có_thể/A xoá/V huỷ/V các/L tài_liệu/N liên_quan/V gây/V bất_lợi/N cho/V chủ_tài_khoản/N Facebook/Np đó/P
+Thông_thường/A tài_khoản/N Facebook/Np có_thể/R dùng/V chung/N mật_khẩu/N với/E Gmail/Np và/CC email/V khác/A
+Nếu/C mất/V tài_khoản/N Facebook/Np có_thể/R dẫn/V đến/R mất/V tài_khoản/N email/V vốn/N lưu_trữ/V nhiều/A thông_tin/N cá_nhân/A hơn/R ông/N Vũ/Np cho/V biết/V
+Ông/Nc Vũ/Np cũng/R khuyến_cáo/N Facebook/Np ngày_càng/N phổ_biến/V trong/E giao_tiếp/N dân_sự/N và/CC cả/P trong/N công_việc/N
+Chủ/N tài_khoản/N Facebook/Np phải/V luôn/R lưu_ý/V tránh/V lộ/V mật_khẩu/N cá_nhân/N
+Một_khi/N tài_khoản/N Facebook/Np bị/V chiếm/V quyền/N kiểm_soát/V dù/N sau/N đó/P chủ_tài_khoản/N yêu_cầu/V lấy/V lại/R được/R tài_khoản/N thì/C thông_tin/N cũng/R đã/R tiết_lộ/V cho/E hacker/N rất/R nhiều/A
+Một_khi/N hacker/N khai_thác/V thông_tin/N có/V được/R thì/C không_chỉ/N chủ_tài_khoản/N bị/V hại/V mà/C những/L bạn_bè/N liên_quan/V cũng/R có_thể/A bị/V lừa_đảo/V bằng/E các/L thủ_thuật/N mạo_danh/N

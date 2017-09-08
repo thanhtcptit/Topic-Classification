@@ -1,0 +1,51 @@
+Thiếu_nữ/N 18/M tuổi/N dũng_cảm/A đón_nhận/V cái/N chết/V
+Hình_ảnh/N nữ/N bệnh_nhân/N 18/M tuổi/N trong/E chiếc/Nc áo_thun/N đỏ/A xinh_xắn/A và/CC quần/N đen/A mái_tóc/N gọn_gàng/A sạch_sẽ/A nằm/V trên/E chiếc/Nc giường/N đẩy/V được/V đưa/V ra/R khỏi/V cánh/N cửa/N phòng_bệnh/V vừa/R mở/V luôn/R trong/E tâm_trí/N chàng/Nc sinh_viên/N y_khoa/N năm/N cuối/N Nguyễn_Thanh_Sang/Np nay/P là/V một/M bác_sĩ/N nội_trú/N
+2/M năm/N đã/R qua/V ánh/N mắt/N trìu_mến/V đầy/A lòng/N biết_ơn/V của/E thiếu_nữ/N khi/N chia_tay/V các/L y_bác_sĩ/N điều_trị/V cho/E mình/P để/E lên/V xe/N cứu_thương/V đi_về/A nơi/N cuối/N cuộc_đời/N vẫn/R khiến/V bác_sĩ/N Sang/V nhớ/V mãi/R  /EOS
+Năm/N 2014/M nữ/N bệnh_nhân/N nhập_viện/V Chợ_Rẫy/Np /V TP_HCM/Np /V vì/E ho/N và/CC sốt/V cao/A
+Cô_gái/N không/R biết/V rằng/C đó/P là/V khởi_đầu/V chuỗi/Nc ngày/N cuối/N đời/N nhiều/A nỗi/N đau/V
+Bác_sĩ/N chẩn_đoán/V cô/N mắc/V bệnh/N lupus/N ban/N đỏ/A
+Ròng_rã/A 6/M tháng/N bệnh_nhân/N được/V bác_sĩ/N khoa/N Nội/N khớp/N Nội/N thần_kinh/N Nội/N thận/N
+chăm_sóc/V
+Bệnh/N lupus/N đã/R biến_chứng/V suy/V đa/N cơ_quan/N
+Bệnh_nhân/N được/V chuyển/V sang/V khoa/N Nội/N tim_mạch/N vì/E tràn/V dịch/N màng/N ngoài/E tim/N đè/V sụp/V thất/Z trái/N
+Bác_sĩ/N chỉ_định/V rút/V dịch/N vận/N mạch/N vì/E sợ/V bệnh_nhân/N suy/V tim/N cấp/N  /M Chiều/N
+11/1/2015/M  /M bệnh_nhân/N được/R  /V đặt/V nội/N khí_quản/A vì/E suy/V hô_hấp/N độ/N bão_hòa/A oxy/N mao_mạch/A giảm/V dần/R
+Trong/E khi/N bố_mẹ/N xót_xa/V cho/E con_gái/N đau_đớn/A nên/C không/R muốn/V đặt/V nội/N khí_quản/N thì/C bệnh_nhân/N lại/R đề_nghị/V bác_sĩ/N hãy/R tiến_hành/V  /M Tôi/P  /V chưa/R từng/R thấy/V bệnh_nhân/N nào/P khi/N đặt/V nội/N khí_quản/N mà_lại/C mở_mắt/V một_cách/N hoàn_toàn/A tự_nhiên/A nhìn/V bác_sĩ/N
+Ánh/N mă/V ́/M t/N chư/V ́/M a/N đư/V ̣/M ng/N sư/N ̣/M ca/N ̉/M m/Nu thông/V trươ/N ́/M c/N sư/N ̣/M bâ/Nu ́/M t/N lư/V ̣/M c/N cu/N ̉/M a/N ba/M ́/N c/N si/V ̃/A với/E căn/N bê/V ̣/N nh/V hiê/N ̉/M m/Nu a/N ́/M c/N cu/N ̉/M a/N em/N cu/N ̃/A ng/V như/C ca/N ́/V i/N giơ/V ́/A i/N ha/N ̣/M n/N cu/N ̉/M a/N y/P ho/V ̣/V c/N bác_sĩ/N Sang/V chia_sẻ/V  /M Khi/N đó/P anh/N là/V sinh_viên/N y/P năm_6/N đang/R kỳ/N thực_tập/V ở/E Bệnh_viện/N Chợ_Rẫy/Np
+Đêm/N bệnh_nhân/N bị/V thiếu/V nước/N thiếu/V dịch/N huyết_áp/N tụt/V dần/R nhưng/C không_thể/R đặt/V ống/N thông/V tĩnh_mạch/N trung_tâm/N vì/E cơ_thể/N đã/R quá/R phù/A và/CC cổ/A nhiều/A vết/N tiêm/V do/E những/L lần/N đặt/V thất_bại/N trước/E đó/P  /M Đường/N
+truyền/V tĩnh_mạch/N đu/V ̀/M i/N là/V đường/N hiếm_hoi/V cuô/V ́/M i/N cu/N ̀/M ng/Nu được/V xem/V là/C duy/C nhâ/N ́/V t/N đưa/V thuô/N ́/V c/N va/V ̀/M o/N cơ_thể/N đê/N ̉/A giư/V ̃/N sư/N ̣/M sô/Nu ́/M ng/N cho/V em/N
+Các/L bác_sĩ/N lo_lắng/V bảo/V nhau/N Nếu/C bệnh/N trở/V nặng/A thì/C việc/N hồi_sức/V sẽ/R rất/R gian_nan/A
+Huyết_áp/N bệnh_nhân/N bắt_đầu/V tụt/V nhanh/A
+Cậu/Nc sinh_viên/N năm/N cuối/N cứ/R chạy_ra_chạy_vào/X đo/V huyết_áp/N 5/M phút/Nu một/M lần/N và/CC lần/N nào/P anh/N cũng/R buộc_lòng/V ghi/V vào/E hồ_sơ/N bệnh_án/N của/E cô_gái/N trẻ/A 3/M chữ/N Theo_dõi/V tiếp/V
+Bên/N ngoài/E cửa/N phòng_bệnh/V người/Nc cha/N ngoài/N 50/M tuổi/N của/E bệnh_nhân/N cứ/R lặng/V người/N trong/E những/L cơn/Nc nấc/N từ/E lồng_ngực/N
+Đây/P không/R phải/V lần/N đầu_tiên/A ông/N nghe/V bác_sĩ/N giải_thích/V về/E tiên_lượng/N xấu/A của/E con/N  /EOS
+Cậu/Nc sinh_viên/N Sang/V khi/N ấy/P quyết_định/V ngồi/V ở/E khoa/N Nội/N tim_mạch/N trông_chừng/V cho/E bệnh_nhân/N
+22h/M tối/N tôi/P quan_sát/V mọi/L người/N trong/E khoa/N cứ/R mỗi/M lần/N nhìn/V thấy/V em/N lòng/N tôi/P lại/R một/M lần/N nữa/R chùng/V lại/R bác_sĩ/N Sang/V vẫn/R không/R quên/V cảm_giác/N khi/N ấy/P
+Huyết_áp/N bệnh_nhân/N giảm/V sâu/A Sang/V báo/N cho/E bác_sĩ/N trực/V
+Đành/V chấp_nhận/V thôi/T
+Bây_giờ/P cách/V duy_nhất/A nâng/V huyết_áp/N lên/R là/V truyền/V dịch/N nhưng/C không/R có/V đường/N truyền/V tim/N thi/V ̀/N đang/R bi/V ̣/N che/V ̀/M n/N e/V ́/M p/N còn/C thuốc/N vận/V mạch/N thì/C đã/R dùng/V hết/R rồi/T bác_sĩ/N trực/V nói/V
+Cô_gái/N nhìn/V Sang/V rồi/C viết/V gì/P đấy/P vào/E một/M tờ/Nc giấy/N nhờ/V người_mẹ/N với/E đôi/M mắt/N đỏ_hoe/A đưa/V bác_sĩ/N  /M Dòng/N chữ/N nguệch_ngoạc/A với/E tâm_nguyện/N Xin/V bác_sĩ/N cho/E con/N về/V chùa/N
+Con/N muốn/V được/V nghe/V kinh/V Phật/Np và/CC mất/V ở/E đó/P
+Lặng/V người/N trong/E giây_lát/N Sang/V hỏi/V nguyện_vọng/N của/E người_thân/N và/CC họ/P cũng/R đồng_ý/V cho/E con_gái/N về/V chùa/N
+Bình/Np oxy/N điều_dưỡng/V chăm_sóc/V tại/E nhà/N được/V chuẩn_bị/V ngay_lập_tức/R
+Giấy/N xuất_viện/V được/R in/V liền/R
+23h/M đêm/N ấy/P mọi/L việc/N chuẩn_bị/V đã/R hoàn_thành/V
+Cô_gái/N được/V thay/V đồ/N để/E về/V chùa/N
+6/M tháng/N trời/N nằm/V trong/E bệnh_viện/N cô/N chưa/R một/M lần/N được/V về/V nhà/N
+Có_lẽ/X đây/P là/V lần/N xa/A nhà/N lâu/A nhất/R và/CC cũng/R là/V chuyê/N ́/M n/N đi/V xa/A cuối_cùng/A của/E đời/N em/N  /M Việc_Sang/Np có_thể/R làm/V duy_nhất/A là/C đo/V lại/R huyết_áp/N của/E bệnh_nhân/N
+5/M phút/Nu trước/E đó/P huyết_áp/N đã/R tụt/V rất/R thấp/A giờ/N lại/R không/R đo/V được/R
+Cánh/N cửa/N phòng_bệnh/V mở/V ra/R chiếc/Nc giường/N đẩy/V xuất_hiện/V với/E bên/N trên/A là/C cô_gái/N trẻ/A trong/E chiê/N ́/M c/N a/N ́/M o/N thun/N đo/V ̉/N xinh/A xă/V ́/M n/N và/CC chiếc/Nc quần/N đen/A
+Bên_cạnh/N cô/N có/V bố_mẹ/N ông/Nc bà_ngoại/N điều_dưỡng/V và/CC Sang/V
+Ánh/N mắt/N cô_gái/N nhìn/V mọi/L người/N rất/R trìu_mến/A
+Trước/E khi/N được/V đưa/V lên/R xe/N cấp_cứu/V cô/N lại/R nhìn/V mọi/L người/N với/E tấm_lòng/N biết_ơn/V
+Các/L bác_sĩ/N không/R ai/P giấu/V được/R vẻ/N bất_lực/A và/CC âu_lo/N
+Chiếc/Nc xe/N rời/V viện/N đưa/V cô_gái/N về/V chùa/N
+Các/L y_bác_sĩ/N lại/R quần_quật/A trong/E công_việc/N thường_nhật/A lao/V vào/E cuộc_chiến/N giành/V sinh_mệnh/N cho/E những/L bệnh_nhân/N khác/A nhưng/C lòng/N không/R tránh/V khỏi/R cảm_giác/N nặng_trĩu/A
+Một/M chị/N điều_dưỡng/V bỗng/R gợi/V lại/R chuyện/N rằng/C đó/P là/V con_gái/N duy_nhất/A của/E hai/M vợ_chồng/N  /Np Từ/E sáng/N cô/Nc bé/N đã/R biết/V là/V sẽ/R không/R qua/V khỏi/R nên/C dặn_dò/V ông_bà/N bố_mẹ/N nhớ/V sống/V tốt/A và/CC giữ_gìn/V sức_khỏe/N
+Bố_mẹ/N hãy/R đẻ/V em_trai/N để/E đừng/V bị/V bệnh/N giống/A như/C con_gái/N
+Em/N ấy/P muốn/V được/V nghe/V kinh/V ở/E chùa/N lần/N cuối/N nữ/N điều_dưỡng/V tâm_sự/V
+Tượng_Phật/Np nhỏ/A màu/N vàng/N luôn/R mang/V theo/E trong/E những/L ngày/N điều_trị/V bệnh/N cô_gái/N trẻ/A để/V lại/R viện/N
+5h/M sáng/N hôm_sau/A người/N nhà_báo/N tin/N em/N ấy/P qua_đời/V nhẹ_nhàng/A ra_đi/V trong/E sự/Nc thanh_thản/A ấm_áp/A
+Phút/N cuối/N em/N không/R khóc/V chỉ/R xin_lỗi/V vì/E chưa/R phụng_dưỡng/V được/R bố_mẹ/N mà/C đã/R ra_đi/V
+Với/E cậu/Nc sinh_viên/N y_khoa/N khi/N ấy/P chuyện/N về/V nữ/N bệnh_nhân/N trẻ/A này/P là/V bài_học/N của/E sự/N mạnh_mẽ/A và/CC chấp_nhận/V đương_đầu/V với/E số_phận/N  /M Mỗi/L khi/N mệt_mỏi/A tôi/P nhớ/V lại/R câu_chuyện/N ngày/N cũ/A  /V về/E cô/N bé/N để/E bước/V tiếp/R
+Câu/N chuyê/V ̣/M n/N vâ/V ̃/M n/N khiê/N ́/M n/N tôi/P đau/V nho/V ́/M i/N mô/P ̃/V i/A khi/N đo/V ̣/N c/N la/V ̣/M i/N va/V ̀/N hi/V ̀/M nh/N a/N ̉/M nh/N cô/N be/V ́/A 18/M tuô/Nu ̉/M i/N vâ/V ̃/M n/N hiển_hiện/V râ/V ́/M t/N ro/V ̃/N Sang/V hiện/N là/V bác_sĩ/N nội_trú/N chia_sẻ/V

@@ -1,0 +1,14 @@
+Phi_cơ/N quân_sự/N Myanmar/Np chở/V hơn/A 120/M người/N rơi/V vì/E thời_tiết/N xấu/A
+Phi_cơ/N vận_tải/V Y-8F-200/Np do/E Trung_Quốc/Np sản_xuất/V của/E quân_đội/N Myanmar/Np mất_tích/V ngày/N 7/6/M khi/N chở/V 122/M người/N từ/E thị_trấn/N duyên_hải/N miền/N nam/N Myei/Np tới/V thành_phố/N Yangon/Np
+Chiến_dịch/N tìm_kiếm/V cứu_hộ/V sau/E đó/P không/R tìm/V thấy/V người/N sống_sót/A và/CC vớt/V được/R ít_nhất/X 83/M thi_thể/N trên/E biển/N Andaman/Np
+Global_New_Light/Np of/E Myanmar/Np hôm_nay/N cho_biết/V các/L chuyên_gia/N đã/R phân_tích/V bản/N tin/V thời_tiết/N và/CC dữ_liệu/N từ/E hộp_đen/N gồm/V thiết_bị/N ghi/V dữ_liệu/N hành_trình/N bay/V và/CC ghi_âm/V buồng_lái/A
+Họ/P kết_luận/V phi_cơ/N mất/V kiểm_soát/V khi/N bay/V vào/E một/M khu_vực/N nhiều/A mây/N khoảng/A hơn/R 90/M phút/Nu sau/A lúc/N cất_cánh/V
+Có/V sự/N đóng_băng/V xuất_hiện/V trên/E cửa/N hút/V gió/N của/E động_cơ/N
+Vào/E lúc/N đó/P phi_cơ/N bị/V các/L đợt/N gió/N ngang/A tác_động/N tờ/Nc báo/N đưa/V tin/N
+Thời_tiết/N xấu/A khiến/V phi_cơ/N chết/V máy/N hoặc/CC mất/V khả_năng/N duy_trì/V lực/N nâng/V và/CC máy_bay/N lao/V xuống/E biển/N
+Phi_công/N không_thể/R giành/V lại/R quyền/N kiểm_soát/V
+Các/L nhà/N điều_tra/V Myanmar/Np đã/R gặp/V quan_chức/N Tập_đoàn/N Xuất_nhập_khẩu/V công_nghệ/N hàng_không/N quốc_gia/N Trung_Quốc/Np /V CATIC/Np /M nhà_sản_xuất/N máy_bay/N Y/Np 8/M và/CC tới/V thành_phố/N Tây_An/Np Trung_Quốc/Np để/E tiếp_cận/V dữ_liệu/N các/L hộp_đen/N
+Họ/P loại_trừ/V khả_năng/N có/V hành_động/N phá_hoại/V nổ/V hoặc/CC động_cơ/N gặp/V vấn_đề/N
+Vận_tải/V cơ/N Y/Np 8/M có/V 4/M động_cơ/N cánh_quạt/N thường/R được/V dùng/V để/E vận_chuyển/V binh_lính/N thả/V hàng/N tiếp_tế/V thả/V lính_dù/N trinh_sát/N và/CC đóng/V vai_trò/N trạm/N cấp_cứu/V di_động/V
+Y/Np 8/M có_thể/R chứa/V tới/E 20/M tấn/Nu hàng/N tương_đương/V với/E 96/M lính/N bộ_binh/N hoặc/CC 82/M lính_dù/N được/V trang_bị/V đầy_đủ/A
+Khi/N làm/V nhiệm_vụ/N cứu_thương/V máy_bay/N đủ/A sức/N chở/V 60/M thương_binh/N nặng/A với/E cáng/N 20/M thương_binh/N nhẹ/A và/CC ba/M nhân_viên/N y_tế/N

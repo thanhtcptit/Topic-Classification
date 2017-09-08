@@ -1,0 +1,7 @@
+Vật_lộn/V với/E tên/N cướp/V điện_thoại/N cậu_bé/N bị/V đâm/V trọng_thương/A
+Ngày/N 19/7/M Công_an/N huyện/N Yên_Thành/Np /M Nghệ_An/N /N đã/R khởi_tố/V tạm/A giam/V 3/M tháng/N với/E Bùi_Văn_Hùng/Np /A 20/M tuổi/N trú/V huyện/N Kỳ_Sơn/Np /V về/E hành_vi/N cướp/V tài_sản/N
+Cơ_quan/N điều_tra/V cho_hay/A ngày/N 9/7/M khi/N qua/V xã/N Viên_Thành/Np /M huyện/N Yên_Thành/Np /M Hùng/Np thấy/V cậu_bé/N 14/M tuổi/N cầm/V điện_thoại/N đứng/V bên/N đường/N nên/C vờ/V xin/V gọi/V nhờ/E một/M cuộc/N rồi/C cướp/V bỏ/V chạy/V
+Bị/V nạn_nhân/N níu_áo/V kéo_lại/N Hùng/Np rút/V dao/N tấn_công/V trong/E lúc/N vật_lộn/V
+Hắn/P đã/R đâm/V trọng_thương/A cậu_bé/N quyết/V chạy/V thoát/V  /EOS
+Cùng/A ngày/N Hùng/Np bị/V bắt/V khi/N đang/R  /V băng_bó/N vết_thương/N tại/E một/M bệnh_viện/N ở/E huyện/N Yên_Thành/Np
+Ngoài/N thừa_nhận/V gây/V ra/R vụ/N cướp/V trên/A Hùng/Np khai/V ngày/N 6/7/M đã/R đâm/V trọng_thương/A ông/Nc lão/N 70/M tuổi/N để/E cướp/V xe_máy/N tại/E huyện/N Diễn_Châu/Np

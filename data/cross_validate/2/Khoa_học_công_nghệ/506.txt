@@ -1,0 +1,12 @@
+Lưu_trữ/V hình_ảnh/N kỹ_thuật_số/N trong/E ADN/Np
+Theo/E Science_Alert/Np ADN/Np deoxyribonucleic/V  /M acid/N là/V một/M trong/E những/L phân_tử/N sinh_học/N cơ_bản/A chứa/V mã/N gene/N di_truyền/N của/E sinh_vật/N sống/V
+Các/L nhà_khoa_học/N tìm/V cách/N sử_dụng/V ADN/Np để/E lưu_trữ/V hình_ảnh/N kỹ_thuật_số/N và/CC khôi_phục/V chúng/P nguyên_vẹn/A
+Nếu/C công_nghệ/N này/P được/V cải_tiến/V và/CC nhân/V rộng/A thông_tin/N lưu_trữ/V ở/E trung_tâm/N dữ_liệu/N có/V quy_mô/N bằng/E một/M siêu_thị/N sẽ/R thu/V nhỏ/A bằng/E kích_thước/N một/M hạt/N đường/N
+Nhóm/N nghiên_cứu/V thuộc/V Đại_học/N Washington_Mỹ/Np hợp_tác/V với/E các/L kỹ_sư/N Microsoft/Np tiến_hành/V mã_hóa/V hình_ảnh/N kỹ_thuật_số/N sang/V chuỗi/Nc ADN/Np thông_qua/V việc/N chuyển_đổi/V số/N 1/M và/CC 0/M mã/N nhị_phân/N của/E máy_tính/N vào/E 4/M thành_phần/N cơ_bản/A của/E ADN/Np là/V adenine/N A/Np guanine/V G/Np cytosine/V C/N thymine/N T/Np
+Kết_quả/N nghiên_cứu/V được/R trình_bày/V tại/E Hội_nghị/N quốc_tế/N ACM/Np về/E Hỗ_trợ/V thiết_kế/N Ngôn_ngữ_lập_trình/Np và/CC Hệ_điều_hành/Np diễn/V ra/R ở/E Atlanta_Georgia/Np từ/E ngày/N 2/M đến/V 6/4/M
+Các/L nhà_khoa_học/N sử_dụng/V thuật_toán/N mã_hóa/V Huffman/Np  /M để/E nén/V dữ_liệu/N sau/E đó/P khôi_phục/V thành_công/N thông_tin/N đã/R lưu/V mà/C không/R mắc/V lỗi/N
+Sự/N sống/V tạo/V ra/R phân_tử/N tuyệt_vời/A là/V ADN/Np giúp/V sinh_vật/N lưu_trữ/V hiệu_quả/N thông_tin/N di_truyền/V và/CC cách_thức/V sự/N sống/V làm_việc/V
+ADN/Np rất/R nhỏ/A gọn/A và/CC bền_vững/A
+Chúng_tôi/P tiến_hành/V lưu_trữ/V dữ_liệu/N kỹ_thuật_số/N hình_ảnh/N video/V tài_liệu/N trong/E ADN/Np để/E sử_dụng/V sau/E hàng/N trăm/M thậm_chí/R hàng/R nghìn/M năm/N Luis_Ceze/Np thành_viên/N của/E nhóm/N nghiên_cứu/V cho_biết/V
+Tuy/C kết_quả/N nghiên_cứu/V ban_đầu/N rất/R khả_quan/A các/L nhà_khoa_học/N còn/V nhiều/A việc/N phải/V làm/V trước/E khi/N trung_tâm/N dữ_liệu/N ADN/Np đầu_tiên/A ra_đời/V
+Những/L thử_nghiệm/V đến/E nay/P mới/R chỉ/R diễn/V ra/R trên/E quy_mô/N nhỏ/A do/E chi_phí/N tốn_kém/V và/CC cần/V nhiều/A trang_thiết_bị/N hiện_đại/A

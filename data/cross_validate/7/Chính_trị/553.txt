@@ -1,0 +1,42 @@
+Tổng_bí_thư/N Nguyễn_Phú_Trọng_Bộ_Chính/Np trị/V sẽ/R vượt/V qua/R thách_thức/N
+8h/M sáng/N 28/1/M Đại_hội/N XII/Np họp/V phiên/N bế_mạc/V
+Thay_mặt/N Đoàn_Chủ/Np tịch/V ông/N Đinh_Thế_Huynh/Np Ủy_viên/N Bộ/N Chính/T trị/V báo_cáo/V kết_quả/N bầu/V Bộ/N Chính/T trị/V Tổng_bí_thư/N Ban/N Bí/Np thư/N Trung_ương/N Đảng/Np Ủy_ban/N Kiểm_tra/V Trung_ương/N và/CC Chủ_nhiệm/N Ủy_ban/N Kiểm_tra/V Trung_ương/N
+Bộ/N Chính/Np trị/V khóa/N XII/Np gồm/V  /N 1/M
+Ông/N Nguyễn_Phú_Trọng_Tổng/Np bí_thư/N tái_cử/N 2/M  /Nu Ông/N  /V Trương_Hoà_Bình_Chánh/Np án/N Tòa_án/N nhân_dân/N tối_cao/A 3/M
+Ông/Nc  /Np Nguyễn_Văn_Bình_Thống/Np đốc/V Ngân_hàng/N Nhà_nước/N Việt_Nam/Np 4/M
+Ông/Nc  /Np Phạm_Minh_Chính_Phó/Np ban/N Tổ_chức/N Trung_ương/N 5/M
+Ông/Nc  /Np Hoàng_Trung_Hải_Phó/Np thủ_tướng/N 6/M
+Ông/Nc  /Np Vương_Đình_Huệ_Trưởng/Np ban/N Kinh_tế/N Trung_ương/N 7/M
+Ông/Nc  /Np Đinh_Thế_Huynh_Trưởng/Np ban/N Tuyên_giáo/N Trung_ương/N Chủ_tịch/N Hội_đồng/N Lý_luận/V Trung_ương/N tái_cử/N 8/M
+Ông/Nc  /Np Tô_Lâm_Thượng/Np tướng/N Thứ_trưởng/N Công_an/N 9/M
+Ông/Nc  /Np Ngô_Xuân_Lịch_Đại/Np tướng/N Chủ_nhiệm/N Tổng_cục/N Chính_trị/N Quân_đội/N nhân_dân/N Việt_Nam/Np 10/M
+Bà/N Trương_Thị_Mai_Chủ/Np nhiệm/V Ủy_ban/N Các/L vấn_đề/N xã_hội/N 11/M
+Ông/Nc  /Np Phạm_Bình_Minh_Phó/Np thủ_tướng/N kiêm/V Bộ_trưởng/N Ngoại_giao/N 12/M
+Bà/N Nguyễn_Thị_Kim_Ngân_Phó/Np chủ_tịch/N Quốc_hội/N tái_cử/A 13/M
+Ông/Nc  /Np Nguyễn_Thiện_Nhân_Chủ/Np tịch/V Ủy_ban/N Trung_ương/N Mặt_trận/N Tổ_quốc/N Việt_Nam/Np tái_cử/V 14/M  /N Bà/N  /V Tòng_Thị_Phóng_Phó/Np chủ_tịch/N Quốc_hội/N tái_cử/A 15/M
+Ông/N Nguyễn_Xuân_Phúc_Phó/Np thủ_tướng/N tái_cử/N 16/M
+Ông/Nc  /Np Trần_Đại_Quang_Đại/Np tướng/N Bộ_trưởng/N Công_an/N tái_cử/N 17/M
+Ông/Nc  /Np Đinh_La_Thăng_Bộ/Np trưởng/Z Giao_thông/N Vận_tải/V 18/M
+Ông/Nc  /Np Võ_Văn_Thưởng_Phó/Np bí_thư/N Thường_trực/V TP_HCM/Np 19/M
+Ông/N  /V Trần_Quốc_Vượng_Chánh/Np văn_phòng/V Trung_ương/N Đảng/N khóa/N XI/Np Ban/N Chấp/Np hành/V Trung_ương/N thống_nhất/N cao/A bầu/V ông/N Nguyễn_Phú_Trọng/Np tái_cử/V Tổng_bí_thư/N Ban/N Chấp/Np hành/V Trung_ương/N Đảng/N khóa/N XII/Np
+Nhiệm_kỳ/N này/P Bộ/N Chính/T trị/V có/V nhiều/A hơn/R 3/M thành_viên/N so/V với/E 16/M ủy_viên/N khóa/N trước/E độ/N tuổi/N trung_bình/A 56/M 6/M trong/E đó/P  /M người/N nhiều/A tuổi/N nhất_là/X Tổng_bí_thư/N Nguyễn_Phú_Trọng/Np 72/M tuổi_trẻ/N nhất_là/X Phó/Z bí_thư/N thường_trực/N TP_HCM/Np Võ_Văn_Thưởng/Np 46/M tuổi/N
+Có/V 7/M người/N là/V ủy_viên/N khóa/N trước/A tái_cử/N
+Ba/M đại_diện/N nữ_giới/N là/V các/L bà/N Nguyễn_Thị_Kim_Ngân_Tòng_Thị_Phóng/Np và/CC Trương_Thị_Mai/Np
+Đại_hội/N cũng/R thông_qua/V kết_quả/N bầu/V 3/M ủy_viên/N vào/V Ban/N Bí/Np thư/N gồm/V  /N 1/M
+Ông/Nc Lương_Cường/Np  /V Thượng_tướng/N Phó/Z chủ_nhiệm/N Tổng_cục/N Chính_trị/N  /A 2/M
+Ông/Nc Nguyễn_Văn_Nên/Np  /V Bộ_trưởng/N Chủ_nhiệm/N Văn_phòng/N Chính_phủ/N  /A 3/M
+Ông/Nc Nguyễn_Hòa_Bình/Np  /V Viện_trưởng/N Viện_Kiểm/Np sát_nhân/V dân/N tối_cao/A Kết_quả/N bầu/V Ủy_ban/N Kiểm_tra/V Trung_ương/N được/R tán_thành/V gồm/V 21/M ủy_viên/N do/E ông/Nc Trần_Quốc_Vượng/Np làm/V Trưởng_ban/N danh_sách/N chi_tiết/N
+Những/L nhân_sự/N chủ_chốt/A này/P đã/R được/V 200/M ủy_viên/N khóa/N XII/Np bầu/V ra/R tại/E Hội_nghị/N lần/N thứ/N nhất/M ngày/N  /V 27/1/M
+Ông/Nc Nguyễn_Phú_Trọng/Np là/V trường_hợp/N đặc_biệt/A vì/E lớn_tuổi/A được/V Trung_ương/N khóa/N XI/Np giới_thiệu/V chức/N Tổng_bí_thư/N với/E mục_đích/N kế_thừa/N tập_hợp/V giữ/V vững/A ổn_định/A chính_trị/N và/CC khối/N đại_đoàn_kết/N toàn/R dân/N đặc_biệt/A là/C giữ/V đoàn_kết/V thống_nhất/N trong/E Đảng/N
+Các/L ông/N Trần_Đại_Quang_Nguyễn_Xuân_Phúc/Np và/CC bà/Nc Nguyễn_Thị_Kim_Ngân/Np cũng/R được/V Ban/N Chấp/Np hành/V khóa/N XI/Np đề_cử/V lần_lượt/R cho/E các/L chức_danh/N Chủ_tịch/N nước/N Thủ_tướng/N và/CC Chủ_tịch/N Quốc_hội/N
+Trong/E lễ/N ra_mắt/V Tổng_bí_thư/N Nguyễn_Phú_Trọng/Np cảm_ơn/V đại_biểu/N đã/R tín_nhiệm/V bầu/V vào/E cơ_quan/N lãnh_đạo/N cao/A nhất/A của/E Đảng/Np giao/V trọng_trách/N lớn_lao/A và/CC khẳng_định/V Bộ/N Chính/T trị/V sẽ/R cố_gắng/V vượt/V qua/R mọi/L thách_thức/N trong/E thời_gian/N tới/V
+Ban/N Chấp/Np hành/V Trung_ương/N khoá/N XII/Np hứa/V cùng/A toàn/N Đảng/Np toàn/R dân/N phát_huy/V truyền_thống/N vẻ_vang/A tăng_cường/V đoàn_kết/V kiên_định/A mục_tiêu/N độc_lập/N dân_tộc/N đổi_mới/V phong_cách/N lề_lối/N làm_việc/V của/E các/L cơ_quan/N Đảng/N từ/E trung_ương/N đến/E địa_phương/N gần/A dân/N trọng/V dân/N nói/V đi_đôi/A với/E làm/V Tổng_bí_thư/N phát_biểu/V
+Sau/E 8/M ngày/N làm_việc/V Đại_hội/N XII/Np được/V đánh_giá/V hoàn_thành/V tốt_đẹp/A toàn_bộ/L nội_dung/N chương_trình/N đã/R thảo_luận/V sôi_nổi/A thắng/V thắn/V và/CC nhất_trí/V cao/A thông_qua/V các/L văn_kiện/N báo_cáo/V chính_trị/N Tổng_bí_thư/N Nguyễn_Phú_Trọng/Np năm/N nay/P 72/M tuổi/N quê/N Hà_Nội/Np là/V giáo_sư/N tiến_sĩ/N Chính_trị_học/Np chuyên_ngành/N Xây_dựng/V Đảng_Cử/Np nhân/V Văn_Đại/Np học/V Tổng_hợp/Np
+Từ/E tháng/N 8/1999/M đến/E 4/2001/M ông/N tham_gia/V Thường_trực/V Bộ/N Chính/T trị/V là/V đại_biểu/N Quốc_hội/N khoá/N XI_XII/Np
+Từ/E tháng/N 7/2007/M đến/E nay/P ông/N kinh_qua/V các/L cương_vị/N Chủ_tịch/N Quốc_hội/N Ủy_viên/N Hội_đồng/N Quốc_phòng/N và/CC An_ninh/N Tổng_bí_thư/N Ban/N Chấp/Np hành/V Trung_ương/N Đảng/Np
+New_York_Times/Np  /V đánh_giá/V ông/N góp_phần/V giúp/V Việt_Nam/Np tham_gia/V vào/E Hiệp_định/N Đối_tác/N xuyên/V Thái_Bình_Dương/Np TPP/Np
+Ông/Nc Trọng/Np cũng/R là/V người/N đầu_tiên/A thăm/V Mỹ/Np trên/E cương_vị/N lãnh_đạo/N cao/A nhất/A của/E Đảng_Cộng/Np sản/N Việt_Nam/Np
+Đảng_Cộng/Np sản/N Việt_Nam/Np tổ_chức/V theo/V nguyên_tắc/N tập_trung_dân_chủ/X
+Cơ_quan/N quyền_lực/N cao/A nhất_là/X Đại_hội/N toàn_quốc/N 5/M năm/N một/M lần/N
+Đại_hội/N bầu/V ra/R Ban/N Chấp/Np hành/V Trung_ương/N
+Ban/N Chấp/Np hành/V Trung_ương/N bầu/V ra/R Bộ/N Chính/T trị/V và/CC Tổng_bí_thư/N  /V Hiện/N có/V 4/M 5/M triệu/M đảng_viên/N

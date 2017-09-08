@@ -1,0 +1,165 @@
+Trường/N ĐH/Np Lâm_nghiệp/Np Việt_Nam/Np công_bố/V phương_án/N tuyển_sinh/V 2017/M 
+Cụ_thể/A xét/V tuyển/V học_sinh/N tốt_nghiệp/V THPT/Np Đăng_ký/V sử_dụng/V kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N để/E xét/V tuyển/V đại_học/N Có/V tổng/N điểm/N các/L môn/N thi/V của/E tổ_hợp/N dùng/V để/E xét/V tuyển/V từ/E ngưỡng/N đảm_bảo/V chất_lượng/N trở_lên/A do/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N qui_định/V 
+Đối_với/E phương_thức/N xét/V tuyển/V kết_quả/N học_tập/V ở/E bậc/N THPT/Np học_bạ/N THPT/Np trường/N yêu_cầu/V Điểm/N trung_bình/A chung/A của/E các/L môn_học/N của/E năm_học/N lớp/N 12/M dùng/V để/E xét/V tuyển/V không/R nhỏ/A hơn/R 6,0/M (/Nu theo/E thang/N điểm/N 10/M )/Nu 
+Kết_quả/N hạnh_kiểm/V ở/E bậc/N THPT/Np đạt/V loại/N khá/R trở_lên/A Ngành/N đào_tạo/V và/CC chỉ_tiêu/N xét/V tuyển/V vào/E trường/N ĐH/Np Lâm_Nghiệp_Việt_Nam/Np năm/N 2017/M như/C sau/N TT/Np Tên/N ngành/N học/V Mã/Np ngành/N Phương_thức/N 1/M 2017/M (/Nu Tổ_hợp/N môn/N xét/V tuyển/V kỳ/N thi/V THPT/Np Phương_thức/N 2/M (/Nu Xét/V tuyển/V học_bạ/N Chỉ_tiêu/N 1/M Quản_lý/V tài_nguyên/N thiên_nhiên/N đào_tạo/V bằng/E tiếng/N Anh/Np D908532/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/N 50/M 2/N Quản_lý/V tài_nguyên/N thiên_nhiên/N đào_tạo/V băng/N tiếng/N Việt/Np D908532/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 50/M 3/M Khoa_học/N môi_trường/N D440301/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 200/M 4/M Quản_lý/V tài_nguyên/N và/CC Môi_trường/N D850101/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 5/M Quản_lý/V tài_nguyên/N rừng/N (/N Kiểm_lâm/N D620211/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 300/M 6/M Bảo_vệ/N thực_vật/N D620112/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 100/M 7/M Công_nghệ_sinh_học/N Chất_lượng/N cao/A D420201/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D08/Np 
+Toán/N Sinh/V Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/N 50/M 8/M Công_nghệ_sinh_học/N D420201/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D08/Np 
+Toán/N Sinh/V Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/A 100/M 9/M Thú_y/N A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D08/Np 
+Toán/N Sinh/V Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 100/M 10/M Chăn_nuôi/N A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D08/Np 
+Toán/N Sinh/V Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 100/M 11/M Quản_lý/V đất_đai/N D850103/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 120/M 12/M Khoa_học/N cây_trồng/N D620110/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 60/M 13/M Khuyến_nông/N D620102/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Sinh/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 14/M Kế_toán/N D340301/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN_C1/Np 5/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/A 300/M 15/M Kinh_tế/N D310101/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN_C1/Np 5/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/A 60/M 16/M Kinh_tế/N Nông_nghiệp/N D620115/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN_C1/Np 5/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/N 50/M 17/M Quản_trị/V kinh_doanh/V D340101/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN_C1/Np 5/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/A 150/M 18/M Hệ_thống/N thông_tin/N Công_nghệ_thông_tin/N D480104/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Hóa/N Sinh/V D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 19/M Công_tác/N xã_hội/N D760101/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N C00/Np 
+Văn/Np Sử/Np Địa/Np 
+C15/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/N 60/M 20/N Quản_trị/V kinh_doanh/V du_lịch/V và/CC lữ_hành/V A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N C00/Np 
+Văn/Np Sử/Np Địa/Np 
+C15/M 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/N 50/M 21/M Lâm_sinh/N D620205/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Hóa/N Sinh/V D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 100/M 22/M Lâm_nghiệp/Np đào_tạo/V bằng/E Tiếng_Anh/Np D620201/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Hóa/N Sinh/V D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/N 50/M 23/M Lâm_nghiệp/Np đào_tạo/V bằng/E Tiếng_Việt/Np D620201/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Hóa/N Sinh/V D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 24/M Kỹ_thuật/N công_trình/N xây_dựng/V D580201/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/A 200/M 25/M Công_nghệ/N kỹ_thuật/N ô_tô/N D510205/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 26/M Công_nghệ/N kỹ_thuật/N cơ/N điện_tử/N D510203/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 27/M Kỹ_thuật/N cơ_khí/N Công_nghệ/N chế_tạo_máy/N D520103/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 28/M Kỹ_thuật/N cơ_khí/N Chất_lượng/N cao/A D520103/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/N 50/M 29/M Công/N thôn/N Công_nghiệp/N phát_triển/V nông_thôn/N D510210/Np A00/Np 
+Toán/N Lý/Np Hóa/Np A01/Np 
+Toán/N Lý/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N A16/Np 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 30/M Thiết_kế/N công_nghiệp/N D210402/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A17/Np 
+Toán/N Lý/Np Khoa_học_xã_hội/N C15/Np 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/A 30/M 31/M Thiết_kế/V nội_thất/N D210405/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A17/Np 
+Toán/N Lý/Np Khoa_học_xã_hội/N C15/Np 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/N 50/M 32/M Kiến_trúc/N cảnh_quan/N D580110/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D01/Np 
+Toán/N Văn/Np Anh/N A17/Np 
+Toán/N Lý/Np Khoa_học_xã_hội/N C15/Np 
+Toán/N Văn/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/A 100/M 33/M Lâm_nghiệp/Np đô_thị/N D620202/Np A00/Np 
+Toán/N Lý/Np Hóa/Np B00/Np 
+Toán/N Hóa/N Sinh/V D01/Np 
+Toán/N Văn/Np Anh/N A17/Np 
+Toán/N Lý/Np Khoa_học_xã_hội/Np Xét/V tuyển/V học_bạ/N 50/M 34/M Công_nghệ/N chế_biến/V lâm_sản/N (/N Công_nghệ/N gỗ/N )/A D540301/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D07/Np 
+Toán/N Hóa/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M 35/M Công_nghệ/N chế_biến/V lâm_sản/N (/N Chất_lượng/N cao/A D540301/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D07/Np 
+Toán/N Hóa/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Không/R xét/V tuyển/V học_bạ/N 50/M 36/M Công_nghệ/N vật_liệu/N D515402/Np A00/Np 
+Toán/N Lý/Np Hóa/Np D07/Np 
+Toán/N Hóa/Np Anh/N D01/Np 
+Toán/N Văn/Np Anh/N 
+A16/M 
+Toán/N Văn/Np Khoa_học/N TN/Np Xét/V tuyển/V học_bạ/N 50/M Nhật_Hồng/Np 

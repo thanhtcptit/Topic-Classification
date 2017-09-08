@@ -1,0 +1,15 @@
+38/M công_nhân/N Bến_Tre/Np nhập_viện/V sau/N bư/N ̃/N a/N trưa/N
+38/M công_nhân/N làm_việc/V tại/E một/M công_ty/N ở/E Khu/N công_nghiệp/N Giao_Long/Np huyện/N Châu_Thành/Np tỉnh/N Bến_Tre/Np phải/V nhập_viện/V cấp_cứu/V với/E các/L triệu_chứng/N đau/V bụng/N nôn/V ói/N chóng/V mặt/N
+Bác/N sĩ/N Trần_Văn_Ân/Np phó/N giám_đốc/N Bệnh_viện/N đa_khoa/N Nguyễn_Đình_Chiểu/Np cho/V biết/V đến/R 16h/M ngày/N 195/M bệnh_viện/N này/P đã/R tiếp_nhận/V 20/M ca/N cấp_cứu/V với/E các/L triệu_chứng/N giống/N ngộ/N độc/A thực_phẩm/N như/C nôn/N ói/N đau/V bụng/N tê/N tay/N
+Tại_Bệnh_viện/N đa_khoa/N huyện/N Châu_Thành/Np tỉnh/N Bến_Tre/Np cũng/R tiếp_nhận/V 18/M ca/N với/E các/L triệu_chứng/N tương_tự/A
+Toàn_bộ/N 38/M ca/N trên/N đều/R là/V công_nhân/N làm_việc/V tại/E Công_ty/N TNHH/Np công_nghiệp/N SIGMA/Np nă/N ̀/N m/N trong/E khu_công_nghiệp/N Giao_Long/Np huyện/N Châu_Thành/Np
+Chị/N CT/Np h/V
+MV/Np
+cho/V biết/V sau/E khi/N ăn/V trưa/N tại/E công_ty/N lúc/N 11h30/M chị/N và/CC nhiều/A công_nhân/N khác/A cảm_thấy/V chóng_mặt/V buồn_nôn/N người/N lờ_đờ/V nên/V được/R đồng_nghiệp/N đưa/V vào/E bệnh_viện/N cấp_cứu/V
+Chị/N V/Np
+cho/V biết/V bữa/N trưa/N hôm_nay/N do/E cơm/N nấu/V không/R chín/V nên/C chị/N không/R ăn/V cơm/N mà/C chỉ/R ăn/V canh/N và/N thức_ăn/N
+Theo/E bác/N sĩ/N Trần_Thị_Phượng/Np Trưởng/Np khoa/N cấp_cứu/V Bệnh_viện/N Nguyễn_Đình_Chiểu/Np hầu_hết/A các/L công_nhân/N nhập_viện/V với/E triệu_chứng/N chóng_mặt/N buồn_nôn/N huyết_áp/N tăng/V
+Bệnh_viện/N đã/R tích_cực/A triển_khai/V các/L biện_pháp/N cấp_cứu/V
+Bước_đầu/N nghi/V do/E ngộ_độc/N thực_phẩm/N
+Hiện/N các/L bệnh_nhân/N được/V giữ/V lại/R tại/E bệnh_viện/N để/V theo_dõi/V
+Cơ_quan/N chức_năng/N cu/N ̃/N ng/N tiến_hành/V lấy/V mẫu/N thức_ăn/N tại/E công_ty/N để/V điều_tra/V nguyên_nhân/N sự_việc/N

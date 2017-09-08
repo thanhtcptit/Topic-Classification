@@ -1,0 +1,6 @@
+Bếp/N ăn/V miễn_phí/V cho/E 1 0/M bệnh_nhân/N Cần_Thơ/Np mỗi/M ngày/N
+Ông/Nc Lê_Văn_Lộc/Np Ủy_viên/N Ban/N Chấp/Np hành/V Hội_Chữ/Np thập/N đỏ/A Thành_phố/N Cần_Thơ/Np cho_biết/V bếp/N ăn_nhằm/V giúp_đỡ/V  /M bệnh_nhân/N và/CC người_nhà/N đang/R điê/V ̀/N u/A tri/V ̣/N tại/E Bệnh_viện/N Phụ_sản/N Thành_phố/N Cần_Thơ/Np
+Chương_trình/N hỗ_trợ/V suất/N ăn/V miễn_phí/V này/P đã/R được/V triển_khai/V cách/N đây/P 25/M năm/N  /M song/N thời_gian/N qua/V gặp/V nhiều/A khó_khăn/N về/E cơ_sở/N vật_chất/N trang_thiết_bị/N kinh_phí/N
+Ban/N giám_đốc/N  /V bệnh_viện/N đã/R hỗ_trợ/V và/CC kêu_gọi/V nhân_viên/N mạnh_thường_quân/N đóng_góp/V 185/M triệu/M đồng/Nu để/E xây/V khu/N bếp/N mới/R khang_trang/A hiện_nay/N  /EOS
+Bếp/N ăn/V rộng/A gần/A 70/M m2/Nu bố_trí/V thành/V các/L khu_vực/N chức_năng/N như/C bếp/N nơi/N phát/V thức_ăn/N kho/N hàng/N đường_dẫn/N từ/E khu/N dinh_dưỡng/N đến/E bếp/N khu/N sơ_chế/V thức_ăn/N nhà_vệ_sinh/N  /M Bác_sĩ/N Nguyễn_Hữu_Dự/Np Giám_đốc/N Bệnh_viện/N Phụ_sản/N Thành_phố/N Cần_Thơ/Np cho_biết/V bếp/N ăn/V phục_vụ/V miễn_phí/V hơn/R 1 0/M suất/N ăn/V mỗi/M ngày/N
+Thời_gian/N tới/V sẽ/R tăng/V số_lượng/N suất/N ăn_nhằm/V đáp_ứng/V nhu_cầu/N của/E người_bệnh/N bác_sĩ/N Dự/V nói/V

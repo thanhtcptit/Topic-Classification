@@ -1,0 +1,10 @@
+Ứng_dụng/N tìm/V đường/N thuận_tiện/N cho/E người/N giao/V hàng/N
+Ứng_dụng/N tự_động/A sắp_xếp/N và/CC trả/V lại/R lộ_trình/N hợp_lí/A nhất/R kèm/V theo/V tổng/N độ/N dài/A quãng/N đường/N cách/V đi/V chi_tiết/A
+Nhờ/C vậy/P người_dùng/N tiết_kiệm/V thời_gian/N chi_phí/N đi_lại/V đặc_biệt/A là/C nhóm/Nc tài_xế/N hoặc/N nhân_viên/N giao/V hàng/N
+Lộ_trình/N quen_thuộc/A được/V lưu/V lại/R thành/V lịch_sử/N cho/E lần/N đi_sau/N
+Bất_tiện/N của/E Google_Map/Np hiện_tại/N là/V chỉ/R cung_cấp/V hai/M địa_điểm/N đi/V và/CC đến/N không_thể/A mở_rộng/V lộ_trình/N qua/V 7/M 8/M địa_điểm/N nếu/N muốn/V phải/V thao_tác/V thủ_công/V nhiều/A lần/N đó/P là/V chưa/R kể/V khi/N người_dùng/N muốn/V được/V gợi_ý/V lộ_trình/N ngắn/A nhất/A
+Tận_dụng/V các/L gói/N API/Np giao_diện/V lập_trình/N ứng_dụng/N có/V sẵn/A của/E Google/Np như/A Google_Map/Np và/CC Google_Voice/Np nhóm/V sinh_viên/N cung_cấp/V thuật_toán/N mới/A để/E phần_mềm/N giải_quyết/V nhu_cầu/N phát_sinh/V
+So/V với/E giới/N lập_trình/N viết/V thuật_toán/A như/C trên/N là/V thao_tác/N đơn_giản/A nhưng/C nhóm/N đã/R phát_hiện/V nhu_cầu/N có/V thực/N của/E người_dùng/N trong/E khi/N Google/Np chưa/R có/V
+Chúng_tôi/N bất_ngờ/A và/CC vui/V vì/E thấy/V trong/E số_nhiều/N ý_tưởng/N gửi/V về/R có_điều/N gì/P đó/P khác_biệt/A và/N ý_nghĩa/N ông/N Nguyễn_Văn_Toàn/Np trưởng_phòng/N Công_tác/N sinh_viên/N ĐH/N CNTT/Np đánh_giá/V về/R ứng_dụng/V
+Đạt/N giải/N nhất/A cuộc/N Ý/Np tưởng/V sáng_tạo/V khả_thi/N do/E trường/N tổ_chức/N nhóm/N tiếp_tục/V phát_triển/V ứng_dụng/N dành/V riêng/A cho/E shipper/N với/E chức_năng/N tìm/V khách/N hàng/N nhận/V đơn/N hàng/N giá/N tiền/N biết/V ngay/R lộ_trình/N thuận_tiện/N dựa/V trên/E địa_chỉ/N có/V sẵn/A hàng_hoá/N
+Nhóm/N mong_muốn/V tích_hợp/N bản_đồ/N offline/V vào/E ứng_dụng/N này/P để/E shipper/V sử_dụng/V mọi/N lúc/N không/R lệ_thuộc/V 3G/N hay/C bản_đồ/N online/N

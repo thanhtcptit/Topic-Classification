@@ -1,0 +1,6 @@
+​/N Công_bố/V điểm/N thi/V vào/E lớp/N 6/M Trường_Trần_Đại_Nghĩa/Np
+Nhấn/Np vào/V đây/N để/E vào/V trang/N tra_cứu/N điểm/N
+Được/V biết/V kì/N khảo_sát/N năm/N nay/P có/V 3814/M thí_sinh/N tham_gia/V trong/E khi/N chỉ_tiêu/N tuyển_sinh/N là/V 525/M học_sinh/N
+Dựa/V vào/V bảng/N điểm/N của/E thí_sinh/N Sở/N GDĐT/Np sẽ/R xét/V từ/E cao/A xuống/N thấp/A cho/E đến/E hết/V chỉ_tiêu/N
+Dự_kiến/V sáng_mai/N 47/M Sở/N sẽ/R công_bố/V điểm_chuẩn/N
+HHG/Np

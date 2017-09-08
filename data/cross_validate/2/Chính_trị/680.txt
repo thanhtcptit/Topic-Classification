@@ -1,0 +1,10 @@
+Phiến_quân/N bắn/V bị_thương/V 6/M vệ_sĩ/N Tổng_thống/N Philippines/Np
+6/M thành_viên/N thuộc/V lực_lượng/N bảo_vệ/V Tổng_thống/N Philippines_Rodrigo_Duterte/Np bị_thương/V trong/E một/M vụ/N phục_kích/V của/E nhóm/N phiến_quân/N Quân_đội/N Nhân_dân/N Mới/R NPA/Np tại/E miền/N nam/N nước/N này/P vào/E sáng/N ngày/N 19/7/M theo/V Xinhua/Np
+Ezra_Balagtey/Np  /V phát_ngôn_viên/N Bộ/N Tư/Np lệnh/V Đông_Mindanao/Np một_số/L tay/N súng/N NPA/Np đã/R tấn_công/V nhóm/N vệ_sĩ/N này/P khi/N họ/P đang/R kiểm_tra/V an_ninh/N dọc/A quốc_lộ/N ở/E thị_trấn/N Arakan/Np tỉnh/N Bắc_Cotabato/Np trên/E đảo/N  /N Mindanao/Np  /V trước/E thềm/N chuyến/N thăm/V của/E ông/N Duterte/Np
+Các/L vệ_sĩ/N bị_thương/V đã/R được/V đưa/V tới/E một/M bệnh_viện/N ở/E Arakan/Np trong/E khi/N quân_đội/N và/CC cảnh_sát/N được/V huy_động/V truy_bắt/V phiến_quân/N sau/E vụ/N đọ/V súng/N chớp_nhoáng/V
+Vụ/N tấn_công/V diễn/V ra/R một/M ngày_sau/N khi/N ông/N Duterte/Np tuyên_bố/V sẽ/R gia_hạn/V lệnh/N thiết_quân_luật/N tại/E Mindanao/Np đến/E tháng/N 12/M năm/N nay/P nhằm/V giúp/V quân_đội/N có/V thêm/V thời_gian/N đẩy_lùi/V nhóm/N phiến_quân/N Maute/Np thân/N Nhà_nước/N Hồi_giáo/N IS/Np tự_xưng/V ở/E thành_phố/N Marawi/Np
+Giao_tranh/V giữa/E quân_đội/N Philippines/Np và/CC phiến_quân/N Maute/Np nổ/V ra/R ở/E Marawi/Np từ/E ngày/N 23/5/M khiến/V ít_nhất/X 82/M binh_sĩ/N và/CC 39/M dân_thường/N đã/R thiệt_mạng/V
+Khoảng/N 300/M phiến_quân/N đã/R bị/V tiêu_diệt/V 100/M tên/N đang/R cố_thủ/V tại/E trung_tâm/N Marawi/Np
+Bộ_trưởng/N Quốc_phòng/N Philippines_Delfin_Lorenzana/Np khẳng_định/V các/L chỉ_huy/N quân_đội/N Philippines/Np muốn/V sớm/A kết_thúc/V chiến_dịch/N nhưng/C kẻ/N địch/N rất/R khôn_ngoan/A và/CC nhiều/A thủ_đoạn/N
+Ngoài/E việc/N gia_hạn/V lệnh/N thiết_quân_luật/N Tổng_thống/N Duterte/Np ngày/N 17/7/M đề_xuất/V thành_lập/V các/L khu_tự_trị/N Hồi_giáo/N với/E chế_độ/N hành_pháp/V lập_pháp/N và/CC tài_chính/N riêng/A
+Động_thái/N này/P được/V cho/V là/C nhằm/V thúc_đẩy/V người/N Hồi_giáo/N ở/E Philippines/Np bài_trừ/V nhóm/N phiến_quân/N Maute/Np

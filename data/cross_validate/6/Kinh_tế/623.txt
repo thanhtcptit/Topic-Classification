@@ -1,0 +1,11 @@
+Mỗi/L ngày/N Thế_giới/N Di_động/V mở/V 2/M siêu_thị/N mới/R
+Công_ty_cổ_phần/N Đầu_tư/V Thế_Giới_Di_Động/Np /V Mã/Np CK/Np MWG/Np /V cho_biết/V trong/E tháng/N 6/M công_ty/N mở/V thêm/V 48/M cửa_hàng/N Thegioididong m/Np /V chuyên/A bán_lẻ/V điện_thoại/N thiết_bị/N di_động/V /A và/CC 12/M cửa_hàng/N Điện_Máy_Xanh/Np /M bán/V tổ_hợp/N các/L sản_phẩm/N điện_tử/N điện_máy/N /M
+Tổng_cộng/V 6/M tháng/N đầu/N năm/N nay/P công_ty/N mở/V thêm/V 305/M siêu_thị/N mới/R trên/A toàn_quốc/N
+Trong/E đó/P chuỗi/Nc Thegioididong m/Np mở/V 263/M siêu_thị/N mới/R và/CC chuỗi/Nc Điện_máy/N Xanh/A mở/V 42/M siêu_thị/N mới/R
+Hiện/N tổng/N  /M số/N cửa_hàng/N tại/E 2/M chuỗi/Nc này/P lần_lượt/R là/V 827/M và/CC 111/M siêu_thị/N  /EOS
+Với/E việc/N liên_tục/A mở_rộng/V địa_bàn/N hoạt_động/V doanh_thu/N và/CC lợi_nhuận/N của/E Thế_giới/N Di_động/V cũng/R tiếp_tục/V tăng_trưởng/V mạnh/A
+Tổng/N doanh_thu/N toàn/R hệ_thống/N đạt/V 19 0/M tỷ/N đồng/N tăng/V 81%/M so/V với/E cùng/A kỳ/N
+Doanh_thu/N từ/E hệ_thống/N siêu_thị/N thegioididong/V com/V chiếm/V hơn/A 70%/M  /M  /N
+Lợi_nhuận/N sau/E thuế/N của/E MWG/Np đạt/V 835/M tỷ/N đồng/N tăng/V 83%/M và/CC  /A hoàn_thành/V 60%/M kế_hoạch/N năm/N  /EOS
+Theo/E kế_hoạch/N hồi/N đầu/N năm/N công_ty/N dự_định/V mở/V thêm/R 150/M siêu_thị/N mới/R trong/E năm/N 2016/M bao_gồm/V 100/M siêu_thị/N Thegioididong/Np và/CC 50/M siêu_thị/N Điện_máy/N Xanh/Np
+Trong/E khoảng/N 3/M tháng/N gần/A đây/P giá/N cổ_phiếu/N MWG/Np biến_động/V mạnh/A từ/E khoảng/N 70 0/M đồng/Nu lên/V mức/N trên_dưới/N 140 0/M đồng/Nu mỗi/M đơn_vị/N

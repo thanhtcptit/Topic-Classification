@@ -1,0 +1,11 @@
+Sony/N trình_làng/N máy_chiếu/N 4K/N hỗ_trợ/V HDR/Np
+VW520ES/N có/V những/L cải_tiến/N theo/V xu_hướng/N nội_dung/N số/N năm/N 2016/M cụ_thể/N là/V nội_dung/N chất_lượng/N 4K/N HDR/Np thiết_bị/N hỗ_trợ/V bật/V tắt/N HDR/Np cho/V nội_dung/N hoặc/N tự/N động/V nhận_diện/N nội/N dung/N đang/R phát/V có/V phải/N chuẩn/A HDR/Np High_Dynamic_Range/Np hay/C không/R đưa/V độ/N tương/N phản/V động/V lên/V đến/E 300000/M 1/M qua/N kết_nối/N nguồn/N phát/V từ/E cổng/N HDMI/Np
+Tuổi/N thọ/N đèn_chiếu/V gia_tăng/V lên/R 6000/M giờ/N so/V với/E 4000/M giờ/N của/E thế_hệ/N trước/N
+Máy/N sở_hữu/V tầm/N nền/N SXRD/Np cải_tiến/V cho/V hình/N ảnh/N gốc/N chuẩn/A 4K/Np không/R bao_gồm/V các/L điểm/N ảnh/N pixel/N giả/A lập/V nên/V màu_sắc/N chính_xác/A hơn/R
+Máy/N hỗ_trợ/V nội_dung/N 3D/N chuẩn/A 4K/N với/E công_nghệ/N RF/Np
+Trải_nghiệm/N thực_tế/N ban/N đầu/N cho/V thấy/V nội_dung/N 4K/N có/V màu_sắc/N hiển_thị/N chính_xác/A nhưng/C không/R nịnh/V mắt/N người/N xem/V bằng/E HDR/Np cho/V hình/N ảnh/N rực_rỡ/A hơn/R
+Tuy_nhiên/C một_số/N bối_cảnh/N màu/N sẽ/R bị/V lem/V nhoè/N do/N nội_dung/N nguồn/N phát/N không/R đúng/A chuẩn/N 4K/M HDR/Np
+Đây/P là/V xu_hướng/N nội_dung/N số/N chất_lượng/N cao/N sẽ/R được/V các/L nhà/N sản_xuất/V nội_dung/N hướng/V tới/E trong/N năm/N nay/P
+Người/N sử/N dụng/N có_thể/A tinh_chỉnh/N hình_ảnh/N phù_hợp/V với/E nhu_cầu/N thưởng_thức/N của/E mình/P qua/V chức_năng/N cân/V chỉnh/N cài/V sẵn/A trong/N máy/N
+Các/L công_cụ/N chỉnh/N màu/N cho/V phép/N hiệu_chỉnh/N sắc_thái/N hue/N độ/N bão_hoà/A saturation/N và/CC độ/N sáng/A của/E từng/N màu/N riêng_biệt/N và/CC chỉnh/N không_gian/N màu/N lần_lượt/V cho/E màu/N đỏ/N xanh/A lá/N và/CC xanh/A dương/N đến/V mức_độ/N mong_muốn/V
+Một_số/N thông_số/N kĩ_thuật/N tham_khảo/N của/E máy_chiếu/N Sony/Np VPLVW/Np 520ES/M

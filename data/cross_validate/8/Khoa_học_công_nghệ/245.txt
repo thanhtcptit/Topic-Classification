@@ -1,0 +1,36 @@
+Bạn/N có/V biết/V camera/N điện_thoại/N làm/V được/R những/L chuyện/N này/P
+Vài/L năm/N trước/N hãng/N IKEA/Np phát_triển/V một/M ứng_dụng/N mới/A rất/R thú_vị/A với/E chức_năng/N này/P
+Theo/E đó/P khách/N hàng/N có_thể/R dùng/V điện_thoại/N hay/C máy_tính_bảng/N chiếu/V vào/R một/M căn/Nc phòng/N trong/E nhà/N của/E họ/N và/CC đặt/V vào/V đó/P một/M món/N đồ_đạc/N giả_định/N sẽ/R trang_bị/V thêm/V
+Hình_ảnh/N 3D/N trên/N ứng_dụng/N này/P sẽ/R lập_tức/V hiển_thị/V một/M hình_ảnh/N sống_động/A như/C thật/N về/V tương_quan/N của/E vật_dụng/N đó/N với/E không_gian/N xung_quanh/N mặc_dù/N trên/E thực_tế/N vật/N này/P chưa/R hề/T tồn_tại/V
+Tính_năng/N thực_tế/N ảo/N này/P giúp/V khách/N hàng/N hình_dung/V được/V trước/N một/M đồ/N nội_thất/N có/V phù_hợp/N hay/C không/R với/E không_gian/N bài_trí/N của/E họ/P trước/E khi/N mua/V
+Ngay/T sau/N ứng_dụng/N của/E IKEA/Np là/V ứng_dụng/N Amikasa/Np chạy/V trên/E nền_tảng/N iOS/N
+Amikasa/N không_chỉ/N giúp/V bạn/N trang_trí/V nội_thất/N mà/C chòn/N chèn/V cả/P các/L trang_trí/N thuộc/V về/R thị_giác/V khác/A trong/E những/L bối_cảnh/N thực_tế/N kiểu/N như/N giấy/N dán/V tường/N
+Bấm/V vào/V đây/N để/E truy_cập/V trang/N cho/E tải_về/N ứng_dụng/N Amikasa/Np miễn_phí/V cho/V điện_thoại/N iPhone/M hoặc/N máy_tính_bảng/N iPad/M
+Còn/C nếu/C bạn/N dùng/V điện_thoại/N Android/Np thì/C có_thể/A tải/N phần_mềm/N có/V chức_năng/N tương_tự/A Home_Design/Np 3D/N tại/V đây/P miễn_phí/V
+2/M Quét/Np scan/V tài_liệu/N
+Hãng_Adobe/Np vừa/R tung/V ra/R ứng_dụng/V cho/V phép/N người_dùng/N sử_dụng/V camera/N trên/N smartphone/N quét/N chuyển/V các/L tài_liệu/N sang/V định_dạng/N PDF/Np
+Chỉ/R cần/V hướng/V ống_kính/N camera/N của/E iPhone/N hay/C thiết_bị/N điện_thoại/N Android/Np vào/V tài_liệu/N ứng_dụng/N này/P sẽ/R sử_dụng/V tính_năng/N nhận_diện/N kí_tự/N quang_học/N OCR/Np để/E quét/V phần/N text/N và/CC lưu/V lại/R ở/V dạng/N PDF/Np
+Bấm/V vào/V đây/N để/E tải/N ứng_dụng/V về/V máy/N miễn_phí/V cho/V thiết_bị/N iOS/N
+và/N bấm/V vào/V đây/N để/E tải/N cho/V thiết_bị/N Android/Np
+Ngoài_ra/X bạn/N có_thể/R tham_khảo/V thêm/V các/L ứng_dụng/N khác/A như/A Evernote_Scannable/Np có/V tính/N phí/N hoặc/N Google_Drive/Np miễn_phí/V
+Video/N ứng_dụng/N miễn_phí/V quét/V tài_liệu/N thành/V dạng/N PDF/Np của/N Adobe/Np Nguồn/N Adobe/Np
+3/M Dịch/Np trực_tiếp/V
+Vài/L năm/N trước/N khi/N ứng_dụng/N Word_Lens/Np được/V tung/V ra/R thị_trường/N nhiều/A người/N đã/R hết_hồn/A vì/E khả_năng/N đọc/V các/L bảng/N chỉ_dẫn/V bằng/E tiếng/N nước_ngoài/N của/N nó/P
+Hiện_tại/N có/V nhiều/A ứng_dụng/N khác/A đã/R tiếp_tục/V được/V ra_đời/V giúp/V bạn/N có_thể/A chuyển_ngữ/V nhiều/A loại/N menu/N cũng/R như/A các/L kí_hiệu/N bằng/E các/L thứ/N tiếng/N khác/A nhau/N sang/V ngôn_ngữ/N có_thể/R hiểu/V được/R nhờ/V sử_dụng/V chiếc/Nc camera/N nhỏ_bé/A trên/N smartphone/N
+Tuy_nhiên/C ứng_dụng/N miễn_phí/V được/R ưa_chuộng/V nhất/A hiện_nay/N vẫn/R là/V Google_Translate/Np
+Nhấp/Np vào/V đây/N để/E tải_về/V ứng_dụng/N cho/V thiết_bị/N Android/Np và/CC vào/V đây/P cho/V thiết_bị/N iOS/N
+4/M Hiểu/N về/V rượu_vang/N
+Rượu_vang/N nổi/V tiếng_là/N một/M đồ_uống/N với/E nhiều/A thông_tin/N phức_tạp/A không/R dễ/A nắm_bắt/V
+Trước/E đây/P những/L tín_đồ/N của/E rượu_vang/N thậm_chí/R còn/R phải/V ghi_nhớ/V tất_cả/N những/L thông_tin/N liên_quan/V tới/E các/L nhãn_mác/N rượu_vang/N hoặc/N phải/V tra_cứu/V trong/E sách/N khi/N cần/V
+Tuy_nhiên/C với/E ứng_dụng/N Vivino/Np bạn/N có_thể/A đọc/V vanh_vách/A các/L thông_tin/N liên_quan/V tới/E một/M chai/N rượu_vang/A chỉ/R sau/E một/M thao_tác/N soi/V ống_kính/N camera/N của/E điện_thoại/N vào/V nhãn/N chai/N
+Cơ_sở/N dữ_liệu/N của/E ứng_dụng/N Vivino/Np hiện/N có/V hơn/A 3/M triệu/N loại/N rượu_vang/N
+Vẫn/R bấm/V vào/V đây/N để/E tải/N ứng_dụng/N cho/E iOS/N và/CC đây/P là/V ứng_dụng/N cho/V Android/Np
+5/M Camera/Np an_ninh/N
+Đây/P có_thể/A là/V cách/N tận_dụng/N khá/R tốt/A một/M chiếc/Nc smartphone/N cũ/A khi/N bạn/N muốn/V lên_đời/V với/E thiết_bị/N khác/A
+Với/E sự/N trợ_giúp/V của/E ứng_dụng/N Manything/Np bạn/N có_thể/A biến/V chiếc/N camera/N trên/N smartphone/N thành/V camera/N giám_sát/N nhà_cửa/N con_cái/N vật_nuôi/V hay/V bất_cứ/N thứ/N gì/P cần/V để_mắt/V
+Với/E hai/M thiết_bị/N smartphone/N cùng/A cài_đặt/N ứng_dụng/N Manything/Np một/M cái/Nc đóng/N vai_trò/N điều_khiển/V cái/N còn/V lại/R bạn/N sẽ/R có/V hệ_thống/N camera/N giám_sát/V an_ninh/N 2424/M tiết_kiệm/N nhất/M
+Ứng_dụng/N này/P mới/R chỉ/R có/V cho/V thiết_bị/N iOS/N và/CC miễn_phí/V bạn/N vào/V đây/P để/E tải_về/V và/CC làm/V theo/E các/L hướng_dẫn/N để/V cài_đặt/V
+Video/N dịch/N bằng/E camera/N điện_thoại_thông_minh/X Nguồn/N GoogleYoutube/N
+6/M Kính/Np phóng_đại/V
+Tính_năng/N zoom/N to/A lên/V kích_thước/N của/E một/M hàng/N chữ/N nhỏ/A nào/P đó/P trên/E menu/N hay/N trên/E một/M tài_liệu/N nào/P đó/P có_thể/A là/V tác_dụng/N ít/A người/N để_ý/V của/E camera/N điện_thoại/N trong/E trường_hợp/N họ/N quên/V kính/N đọc/V sách/N
+Chỉ/R cần/V hướng/V ống_kính/N camera/N của/E điện_thoại/N vào/V dòng/N chữ/N và/CC lựa_chọn/V tính_năng/N phóng/V to/A bạn/N sẽ/R thoải_mái/A lựa_chọn/V kích_cỡ/N chữ/N mà/C thị_lực/N của/E mình/N cho/V phép/N

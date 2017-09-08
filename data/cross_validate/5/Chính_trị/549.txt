@@ -1,0 +1,6 @@
+Bộ/N Chính/Np trị/V điều_động/V lãnh_đạo/N tỉnh/N ra/V trung_ương/N
+Sáng/N 28/2/M ông/N Tô_Huy_Rứa/Np Ủy_viên/N Bộ/N Chính/T trị/V Bí_thư/N Trung_ương/N Đảng_Trưởng/Np ban/N Tổ_chức/N Trung_ương/N  /A đã/R trao/V quyết_định/N của/E Bộ/N Chính/Np trị/V về/E việc/N phân_công/V ông/N Trần_Sỹ_Thanh/Np Ủy_viên/N dự_khuyết/V Trung_ương/N Đảng/Np nguyên/A Bí_thư/N tỉnh_ủy/N Bắc_Giang/Np nhận/V nhiệm_vụ/N Phó/Z chủ_nhiệm/N Ủy_ban/N kiểm_tra/V Trung_ương/N
+Chức_danh/N Bí_thư/N tỉnh_ủy/N được/V giao/V cho/E ông/N Bùi_Văn_Hải/Np nguyên/A Phó/Z bí_thư/N tỉnh_ủy/N Chủ_tịch/N tỉnh/N Bắc_Giang/Np
+Chiều/N cùng/A ngày/N ông/N Tô_Huy_Rứa/Np cũng/R trao/V quyết_định/N của/E Bộ/N Chính/Np trị/V bổ_nhiệm/V ông/N Trần_Văn_Túy/Np Ủy_viên/N Trung_ương/N Đảng_Bí/Np thư/N tỉnh_ủy/N Trưởng_đoàn/N Đại_biểu/N Quốc_hội/N tỉnh/N Bắc_Ninh/Np giữ/V chức_vụ/N Phó_trưởng/N ban/N Tổ_chức/N Trung_ương/N
+Vị_trí/N Bí_thư/N tỉnh_ủy/N Bắc_Ninh/Np được/V giao/V cho/E ông/N Nguyễn_Nhân_Chiến_Chủ/Np tịch/V tỉnh/N
+Trước/E đó/P Bộ/N Chính/T trị/V cũng/R đã/R điều_động/V và/CC bổ_nhiệm/V lãnh_đạo/N các/L tỉnh/N Hà_Tĩnh_Kon_Tum_Yên_Bái/Np và/CC Tuyên_Quang/Np

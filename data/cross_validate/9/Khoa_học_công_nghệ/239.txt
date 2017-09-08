@@ -1,0 +1,23 @@
+Cách/N ngăn_chặn/V TV/Np thông_minh/A do/E thám/N chúng_ta/N
+Từ/E chuyện/N các/L cáo_buộc/N cho/V rằng/C công_nghệ/N thông_minh/A của/E TV/Np dễ/N bị/V mã/V độc/A tấn_công/V một_cách/N đáng/R kinh_ngạc/V tới/V việc/N nhiều/A người/N tố_cáo/V một_số/N tính_năng/N của/E TV/Np thông_minh/N đã/R xâm_phạm/V quyền/N riêng_tư/A của/N họ/P
+Thật/T may/A là/V nếu/C bạn/N không/R thích/V một_số/N tính_năng/N có_thể/A đe_doạ/V tới/V quyền/N riêng_tư/A của/E mình/N ở/E TV/Np thông_minh/N bạn/N vẫn/R có_thể/A lựa_chọn/V việc/N tắt/V nó/P đi/V trong/E phần/N cài_đặt/N
+Video/N hướng_dẫn/V cách/N thao_tác/V cài_đặt/N chống/V theo_dõi/V trên/E các/L TV/Np thông_minh/N Nguồn/N The_Kim_Komando_Show/Np Youtube/Np
+Và/C đây/P là/V hướng_dẫn/N cho/V 3/M dòng/N sản_phẩm/N TV/Np thông_minh/A phổ_biến/A hơn/R cả/T của/E các/L hãng/N
+1/M Vizio/N
+Gần/A đây/P Vizio/Np bị/V chỉ_trích/V tơi_bời/V sau/E khi/N người_dùng/V nhận/V ra/R quảng_cáo/V phát/V trên/N TV/Np nhà/N họ/P gần/A như/C lúc_nào/N cũng/R giống/V nhau/N
+Đó/P là/V vì/E các/L TV/Np thông_minh/A của/E Vizio/Np có/V khả_năng/N theo_dõi/V những/L gì/N chủ_nhân/N thường/A xem/V và/N sau/N đó/P tuỳ_chỉnh/V các/L quảng_cáo/N phát/V trên/N TV/Np sao/N cho/E phù_hợp/V với/E mối/N quan_tâm/N của/N họ/P
+Chuyện/N này/P xảy/V ra/V ngay/T cả/T khi/N bạn/N sử_dụng/V các/L thiết_bị/N bên/N ngoài/N để/E streaming/V các/L chương_trình/N TV/Np như/C Amazon_Fire/Np hay/V Roku/Np
+Do/E đó/P muốn/V tắt/V bỏ/V tính_năng/N theo_dõi/N này/P bạn/N hãy/R vào/V phần/N thiết/N lập/V System/Np của/E TV/Np rồi/C thao_tác/V Reset/Np amp/V
+Admit/N Smart_Interactivity/Np Off/Np
+Samsung/N
+Các/L TV/Np thông_minh/A của/E Samsung/Np có/V một/M tính_năng/N gây/V nghi_ngại/V với/E những/L người/N cẩn_thận/A đó/P là/V hệ_thống/N ra_lệnh/N bằng/E giọng/N nói/V
+Có_thể/A ra_lệnh/V cho/V TV/Np bằng/E giọng/N nói/V thật/R tuyệt_vời/A nhưng/C điều/N khiến/V người_dùng/N lo_ngại/N chính/A là/V ở/E chỗ/N Samsung/Np lưu/V lại/R dữ_liệu/N giọng/N nói/V đó/P và/N gửi/V cho/E các/L công_ty/N bên/N thứ_ba/N
+Theo/E nhiều/A phương_diện/N điều/N này/P thậm_chí/R còn/V đáng/V ngại/V hơn/A vì/E nó/P không_chỉ/N là/V sở_thích/N của/E bạn/N với/E phim_ảnh/N hay/C các/L chương_trình/N truyền_hình/N nữa/N đó/P còn/V là/V giọng/N nói/V thật/A của/N bạn/N
+Tất_nhiên/N hiện_tại/N Samsung/Np và/CC các/L chi_nhánh/N của/E họ/P không/R hề/V có/V ý_định/N xấu/A nào/P trong/E việc/N sử_dụng/V các/L dữ_liệu/N này/P nhưng/C rõ_ràng/A không_thể/R là/V ngẫu_nhiên/A khi/N họ/P chọn/V cách/N lưu/V lại/R giọng/N nói/V người_dùng/A trong/E quá_trình/N sử_dụng/V như/C vậy/P
+Để/E tắt/V tính_năng/N này/P hãy/R vào/V phần/N Smart_Hub/Np của/E TV/Np và/CC thao_tác/V tiếp/V Terms/Np amp/V
+Policy/Np SyncPlus/N and/N Marketing/Np Disable/Np
+Điều/N may_mắn/A là/V hầu_hết/A các/L loại/N TV/Np thông_minh/A của/E LG/Np đều/R không/R sử_dụng/V tính_năng/N do_thám/N ở/V chế_độ/N cài_đặt/N mặc_định/N của/E hệ_thống/N nữa/R
+Tuy_nhiên/C nếu/C bạn/N mua/V lại/R TV/Np này/P đã/R qua/V sử_dụng/V hoặc/N đã/R có/V một/M ai/N khác/A cài_đặt/V tính_năng/N có/V tên/N là/C Live_Plus/Np lên/V nó/N thì/C nguy_cơ/N bị/V theo_dõi/V vẫn/R sẽ/R xảy/V ra/R
+Do_vậy/C để/N đảm_bảo/V chiếc/N TV/Np thông_minh/A của/E LG/Np trong/E nhà/N mình/N thực_sự/N an_toàn/A bạn/N hãy/R thao_tác/V theo/E các/L bước/N Options/Np LivePlus/V Off/Np
+Sau/E khi/N tiến_hành/V các/L bước/N phòng_thủ/V rồi/C bạn/N hãy/R thoải_mái/A tận_hưởng/V những/L tiện_ích/N đặc_biệt/A của/E một/M chiếc/Nc TV/Np thông_minh/A
+Chẳng_hạn/N như/C bạn/N có/V biết/V mình/N có_thể/R sử_dụng/V TV/Np thông_minh/A để/E nhận/V các/L thông_báo/N thời_tiết/N định_kì/N hay/C lướt/V web/N không/N

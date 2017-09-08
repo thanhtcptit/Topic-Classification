@@ -1,0 +1,30 @@
+Hacker/N theo_dõi/V bạn/N qua/V
+củ/N sạc/N điện_thoại/N
+Các/L chuyên_gia/N của/E hãng/N bảo_mật/V Kaspersky_Lab/Np vừa/R tiến_hành/V kiểm_tra/V một_số/L smartphone/N chạy/V nhiều/A phiên_bản/N của/E hệ_điều_hành/N Android/Np và/CC iOS/V để/E tìm_hiểu/V xem/V thiết_bị/N trao_đổi/V những/L dữ_liệu/N gì/P khi/N được/V kết_nối/V sạc/N bằng/E PC/Np hoặc/N máy/N Mac/Np
+Kết_quả/N vô_cùng/N bất_ngờ/A khi/N smartphone/N đã/R để/V lộ/V một/M loạt/N thông_tin/N bao_gồm/V tên/N thiết_bị/N nhà/N sản_xuất/V loại/N số/N series/N thông_tin/N firmware/N thông_tin/N hệ_điều_hành/N hệ_thống/N tập/N tindanh_sách/V tập_tin/N ID/Np chip/V
+Ý/Np tưởng/V đã/R thành/V hiện_thực/N
+Vào/E năm/N 2014/M một/M ý_tưởng/N đã/R được/V trình_bày/V tại/E diễn_đàn/N Black_Hat/Np rằng/C điện_thoại_di_động/N có_thể/A bị/V lây_nhiễm/V với/E phần_mềm/N độc_hại/A chỉ/R đơn_giản/A bằng/V cách/N cắm/V sạc/N cho/V nó/N vào/V nguồn/N sạc/N giả_mạo/N
+Giờ_đây/N 2/M năm/N sau/A lần/N công_bố/V chính_thức/A đó/P chuyên_gia/N tại/E Kaspersky_Lab/Np đã/R mô_phỏng/V lại/R thành_công/V kết_quả/N
+Họ/P chỉ/R cần/V sử_dụng/V một/M PC/Np thông_thường/A và/CC cáp/V USB/Np micro/N chuẩn/A trang_bị/V bộ/N lệnh/N đặc_biệt/A được/V gọi_là/N ATcommand/V các/L nhà/N nghiên_cứu/V đã/R có_thể/A can_thiệp/V vào/R smartphone/N và/CC lặng_lẽ/A cài/V ứng_dụng/V vào/V thiết_bị/N
+Mặc_dù/C không/R sử_dụng/V phần_mềm/N độc_hại/N nào/P nhưng/C việc/N này/P đã/R góp_phần/V gây/V hại/V đến/V smartphone/N
+Mặc_dù/N thông_tin/N về/V các/L trường_hợp/N thực_tế/A về/E nguồn/N sạc/N giả_mạo/N chưa/R được/V công_bố/V nhưng/C việc/N đánh_cắp/V dữ_liệu/N từ/E điện_thoại/N được/V kết_nối/V với/E máy_tính/N đã/R từng/R bị/V phát_hiện/V trước/N đây/P
+Ví_dụ/N thủ_pháp/N này/P từng/R được/V sử_dụng/V vào/E năm/N 2013/M trong/E chiến_dịch/N gián_điệp/N mạng/N Red_October/Np
+Và/C nhóm/N Hacking_Team/Np cũng/R sử_dụng/V kết_nối/N máy_tính/N để/E chạy/V phần_mềm/N độc_hại/N trên/N thiết_bị/N
+Tất_cả/L những/L mối/N đe_doạ/N này/P đã/R tìm/V ra/R cách/N khai_thác/V việc/N trao_đổi/V dữ_liệu/N ban_đầu/N được/V cho/V là/C an_toàn/A giữa/N smartphone/N và/CC PC/Np mà/C nó/P được/V kết_nối/V
+Bằng/Np cách/V kiểm_tra/V thông_tin/N danh_tính/N nhận/V từ/N thiết_bị/N được/V kết_nối/V hacker/N đã/R có_thể/R biết/V được/R model/N của/E thiết_bị/N nạn_nhân/N sử_dụng/V và/N bắt_đầu/V tấn/N công_bằng/N việc/N khai_thác/V có/V chọn_lọc/N
+Việc/N này/P sẽ/R không/R dễ/A thành_công/V nếu/C smartphone/N không/R tự_động/A trao_đổi/V dữ_liệu/N với/E PC/Np khi/N kết_nối/V qua/R cổng/N USB/Np
+Củ/N sạc/N giả_mạo/N
+Cục/N điều_tra/V liên_bang/N Mỹ/Np FBI/Np vừa/R cảnh_báo/V các/L đối_tác/N tư_nhân/N cẩn_trọng/A với/E các/L thiết_bị/N giả_mạo/N củ/N sạc/N USB/Np nhưng/C có/V khả_năng/N theo_dõi/V thu_thập/V các/L thông_tin/N được/V gõ/V trên/N bàn_phím/N không/R dây/N một_cách/N bí_mật/A
+Theo/E cảnh_báo/N tội_phạm/N mạng/N đã/R phát_triển/V một/M phiên_bản/N tuỳ_biến/N của/E thiết_bị/N KeySweeper/N và/CC có_thể/R đặt/V nó/N tại/E các/L văn_phòng/N nhà/N riêng/A
+để/E thu_thập/V các/L thông_tin/N liên_quan/V đến/E bảo_mật/N cá_nhân/N hoạt_động/V kinh_doanh/N của/E doanh/N nghiệp/N
+KeySweeper/N là/V một/M thiết_bị/N giá/N rẻ/A có/V khả_năng/N hoạt_động/V như/C một/M củ/N sạc/N USB/Np nhưng/C nó/P lại/R có_thể/R ngấm_ngầm/V đăng_nhập/N giải_mã/N và/CC gửi/V cho/E chủ_nhân/N tất_cả/N những/L gì/N người_dùng/A gõ/V trên/N bàn_phím/N không/R dây/N của/N Microsoft/Np
+KeySweeper/N có/V khả_năng/N theo_dõi/V trực_tiếp/V các/L thao_tác/N trên/E bàn_phím/N sau/N đó/P gửi/V thông_tin/N thu_thập/V được/V như/C tên/N người_dùng/N mật_khẩu/N hoặc/N đường_dẫn/V các/L trang_web/N qua/V SMS/Np cho/V chủ_nhân/N
+Đặc_biệt/A bên/N trong/N nó/N có/V chứa/N pin/N với/E khả_năng/N sạc/N nên/C nó/P có_thể/V hoạt_động/V ngay/R cả/P khi/N đã/R bị/V rút/V khỏi/R ổ/N điện/N
+Thiết_bị/N này/P được/V tạo/V ra/R hồi/N năm_ngoái/N bởi/E một/M hacker/N mũ/N trắng/A có/V tên/N Samy_Kamkar/Np
+Sau/E khi/N tạo/V ra/R KeySweeper/V Samy_Kamkar/Np không_những/N biểu_diễn/V cho/E mọi/L người/N thấy/V khả_năng/N của/E nó/P mà_còn/N hướng_dẫn/V cách/N tạo/V ra/R củ/N sạc/N USB/Np gián_điệp/N
+Đây/P có/V vẻ/N là/V sai_lầm/A của/E chuyên_gia/N này/P bởi/N hacker/N đã/R biết/V cách/V tận_dụng/V thiết_bị/N theo/V một_cách/N khác/A
+Không/R rõ/V trong/E thực_tế/N đã/R xuất_hiện/V bao_nhiêu/N thiết_bị/N biến_thể/N từ/V KeySweeper/N và/CC liệu/V nó/P đã/R có_mặt/V và/N được/V sử_dụng/V tại/E Việt_Nam/Np hay/C chưa/R nhưng/C đây/P thực_sự/N là/V mối/N hiểm_hoạ/N tiềm_tàng/N trong/E cách/N văn_phòng/N làm_việc/V trong/E nhà_riêng/N của/E mỗi/L người_dùng/N chúng_ta/N
+Để/E tự/P bảo_vệ/V mình/N trước/A nguy_cơ/N bị/V tấn_công/V từ/E nguồn/N sạc/N không/R xác_định/V và/N máy_tính/N không/R đáng/V tin/N cây/N Kaspersky_Lab/Np khuyên/V nên/V thực_hiện/V những/L điều/N sau/A
+Chỉ/R sử_dụng/V điểm/N sạc/N USB/Np và/CC máy_tính/N đáng/V tin/N để/V sạc/V thiết_bị/N
+Bảo_vệ/V điện_thoại_di_động/N bằng/E mật_khẩu/N hoặc/N nhận_biết/V dấu/N vân/N tay/N và/CC không/R mở/V khoá/N khi/N đang/R sạc/V
+Sử_dụng/V công_nghệ/N mã_hoá/N và/CC nơi/N chứa/V thông_tin/N an_toàn/N khu_vực/N được/V bảo_vệ/V trên/E thiết_bị/N di_động/N được/V dùng/V để/E tách/V riêng/A thông_tin/N nhạy_cảm/A để/E bảo_vệ/V dữ_liệu/N

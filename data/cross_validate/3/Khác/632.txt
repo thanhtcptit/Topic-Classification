@@ -1,0 +1,43 @@
+Những/L mã/N độc/A khét_tiếng/A mọi/L thời_đại/N
+Ở/E giai_đoạn/N đầu/N của/E Internet/Np sâu/A máy_tính/N được/V viết/V ra/R chủ_yếu/A với/E mục_đích/N thử_nghiệm/V  /V phát_tán/V càng/R rộng/A càng/R tốt/A nhằm/V  /A gây/V tiếng_vang/V
+Tuy_nhiên/C càng/R về/V sau/N nhiều/A hacker/N bắt_đầu/V chuyển/V sang/V dùng/V virus/N tấn_công/V máy_tính/N vì/E tiền/N nhắm/V tới/E những/L mục_tiêu/N nhất_định/A thay_vì/V lây_lan/V trên/E diện/N rộng/A
+Rạng/A sáng/N ngày/N 3/11/1988/M sâu/A Morris/Np được/V cha_đẻ/N của/E nó/P sinh_viên/N 23/M tuổi/N Robert_Tappan_Morris/Np thả/V ra/R trên/E mạng/N Internet/Np khi/N đó/P vẫn/R đang/R ở/V trong/E thời_kỳ/N sơ_khai/A
+Chỉ/R vài/L giờ/N sau/A virus/N đơn_giản/A với/E 99/M dòng/N mã/N lập_trình/A này/P đã/R tràn_ngập/V hàng/R nghìn/M máy_tính/N Sun_Microsystems/Np và/CC VAX/Np chạy/V hệ_điều_hành/N Unix/Np buộc/V các/L nhà/N quản_trị/V phải/V ngắt/V kết_nối/V với/E mạng/N
+Sâu_Morris/Np là/V một/M phần/N của/E dự_án/N nghiên_cứu/V và/CC không/R được/V thiết_kế/V để/E gây/V tổn_thất/N do_đó/C sinh_viên/N  /A Morris/Np bị/V kết_tội/V nhưng/C được/R hưởng/V án_treo/N và/CC nộp/V khoản/N tiền/N phạt/V 10 0/M USD/Nu  /M Hiện/N  /V Morris/Np là/V nhà_khoa_học/N máy_tính/N tại/E Viện_Công/Np nghệ/N  /M Massachussetts/Np /V Mỹ/Np /V
+Điểm/N thú_vị/A là/V  /N Morris/Np là/V con_trai/N của/E một/M nhà_khoa_học/N ở/E Cơ_quan/N An_ninh/N Quốc_gia/Np Mỹ/Np NSA/Np còn/V sâu/A  /M WannaCry/Np đang/R gây/V hoang_mang/V khắp/A thế_giới/N được/V viết/V dựa/V trên/E mã/N bị/V đánh_cắp/V từ/E NSA/Np
+Tháng/N 5/2000/M khoảng/N 50/M triệu/N máy_tính/N ở/E Philippine/Np Australia/Np châu/N Âu/Np và/CC Mỹ/Np đã/R bị/V nhiễm/V virus/N I_Love_You/Np hay/C còn/R gọi_là/X Love_Bug/Np với/E mức/N thiệt_hại/A lên/V đến/E gần/A 10/M tỷ/Nu USD/Nu  /M Nó/P lây_lan/V rộng/A do/E người/N dùng/V Windows/Np nhận/V được/R email/N trông/V có_vẻ/V đến/V từ/E người/N quen_biết/V với/E tiêu_đề/N ILOVEYOU/Np cùng/A file/N đính/N kèm/V gây/V tò_mò/V
+Khi/N mở/V file/N virus/N lập_tức/R thâm_nhập/V máy_tính/N gửi/V bản_sao/N tới/E mọi/L địa_chỉ/N trong/E Outlook/N của/E người/N nhận/V
+Hai/M sinh_viên/N người/N Philippine/Np là/V Reonel_Ramones/Np và/CC Onel/Np de/V Guzman/Np được/V xác_định/V là/V tác_giả/N nhưng/C thoát/V tội/N do/E khi/N đó/P chưa/R có/V luật/N về/V hành_vi/N sử_dụng/V máy_tính/N trái_phép/A ở/E nước/N này/P  /EOS
+Trong/E khi/N đó/P nhờ/V sâu/A này/P Trend_Micro/Np trở_nên/V phát_đạt/A khi/N là/V công_ty/N phần_mềm/N đầu_tiên/A tìm/V ra/R mã/N I_Love_You/Np và/CC phân_phối/V chương_trình/N diệt/V virus/N miễn_phí/V lên/R Internet/Np
+Sự_kiện/N I_Love_You/Np cảnh_báo/V sự/Nc thiếu/A an_toàn/A của/E hệ_thống/N máy_tính/N nhưng/C bắt_đầu/V đưa/V phần_mềm/N chống/V virus/N từ/E một/M sản_phẩm/N kèm/V theo/V máy/N trở_thành/V một/M ngành/N kinh_doanh/V thật_sự/A
+Tháng/N 7/2001/M Code_Red/Np tràn/V vào/E hàng/N trăm_nghìn/N máy_tính/N với/E tốc_độ/N nhanh/A chưa/R từng/R thấy/V trước/E đó/P thông_qua/V máy_chủ/N quản_lý/V thông_tin/N Microsoft/Np IIS/Np
+Ít_nhất/X 300 0/M trang_web/N đã/R trở_thành/V nạn_nhân/N bị/V tấn_công/V deface/N /N thay_đổi/V giao_diện/N /A trong/E đó/P có/V cả/P những/L website/N của/E Lầu_Năm_Góc/Np /V Mỹ/Np /V
+Virus/N này/P còn/R có/V khả_năng/N tự/P tái_thế/V vào/E ngày/N mùng/N 1/M hàng/N tháng/N và/CC chỉ/R trong/E hai/M tháng/N 7-8/2001/M đã/R thổi/V bay/V 2,6/M tỷ/N USD/Np của/E các/L doanh_nghiệp/N tổ_chức/V trước/E khi/N Microsoft/Np tung/V ra/R bản/N vá/V vô_hiệu_hóa/V nó/P
+Đến/E nay/P chưa/R ai/P được/V chỉ/R đích_danh/V là/V tác_giả/N Code_Red/Np nhưng/C có/V những/L dấu_hiệu/N cho/V thấy/V sâu/A này/P có/V nguồn_gốc/N từ/E Trung_Quốc/Np  /V Đã/R bị/V người/N Trung_Quốc/Np tấn_công/V cũng/R là/V một/M trong/E những/L thông_điệp/N xuất_hiện/V trên/E các/L website/N nhiễm/V virus/N này/P  /V Giống/A
+WannaCry/Np Code_Red/Np khai_thác/V lỗ_hổng/N vốn/N đã/R được/V phát_hiện/V trong/E hệ_thống/N và/CC nhắm/V tới/E những/L máy_tính/N chưa/R cập_nhật/V bản/N vá/V
+Tháng/N 1/2003/M sâu/A Slammer/Np ra_đời/V với/E tốc_độ/N lây_lan/V kinh_hoàng/V 75 0/M máy_tính/N trong/E 10/M phút/Nu và/CC hạ/V gục/V các/L ISP/N quan_trọng/A
+Giống_Code_Red/Np Slammer/Np khai_thác/V lỗi/N tràn/V bộ/N đệm/N trong/E cơ_sở_dữ_liệu/N máy_chủ/N SQL/Np của/E Microsoft/Np gây/V tắc_nghẽn/V đường/N truyền/V Internet/N trên/E toàn/N châu/N Á/Np châu/N Âu/Np và/CC Bắc_Mỹ/Np
+Trong/E khi/N Microsoft/Np đang/R vật_lộn/V với/E Slammer/Np hai/M đại_dịch/N Sobig/Np và/CC Blaster/Np xuất_hiện/V tấn_công/V hàng/N trăm_nghìn/N máy_tính/N chỉ/R trong/E vài/L tuần/N trong/E đó/P có/V Việt_Nam/N và/CC gây/V thiệt_hại/A hàng/R tỷ/M USD/Nu
+Ẩn/Np trong/E mã/N nguồn/N tệp_tin/N Msblast e/Np còn/R có/V dòng/N thông_điệp/N của/E tác_giả/N Bill_Gates/Np sao/P ông/N lại/R khiến/V cho/E điều/N này/P xảy_ra/V
+Hãy/R ngừng/V kiếm/V tiền/N và/CC sửa_chữa/V phần_mềm/N của/E ông/N đi/V
+Những/L máy_tính/N đã/R nhiễm/V mỗi/L khi/N kết_nối/V Internet/Np được/V vài/L phút/N liền/A tự_động/A bị/V shutdown/V
+Hai/M virus/N này/P được/R tạo/V ra/R với/E ý_đồ/N phá_hoại/V hơn/A bất_cứ/R loại/N sâu/A nào/P khác/A khiến/V hệ_thống/N mạng/N toàn_cầu/N tê_liệt/A
+Tốc_độ/N lây_lan/V của/E Code_Red/Np Slammer/Np hay/C Blaster/Np dù/C nhanh/A cũng/R không/R sánh/V kịp/A MyDoom/Np
+Sâu/A phát_tán/V qua/E email/N trên/E máy_tính/N Windows/Np xuất_hiện/V vào/E tháng/N 1/2004/M này/P đến/E nay/P vẫn/R là/V virus/N máy_tính/N lan_truyền/V nhanh_nhất/A thế_giới/N
+Nó/P được/V thiết_kế/V như/C một/M thông_điệp/N báo/N lỗi/N khiến/V người/N dùng/V cả_tin/N bấm/V vào/V vô_tình/A biến/V họ/P thành/V spammer/N gửi/V thư/N rác/N tới/E tất_cả/P những/L địa_chỉ/N email/V có/V trong/E hòm_thư/N
+Tập_đoàn/N phần_mềm/N mã/N mở/V SCO/Np treo/V thưởng/V  /A 250 0/M USD/Nu cho/E ai/P cung_cấp/V thông_tin/N tìm/V ra/R kẻ/N đã/R thiết_kế/V và/CC phát_tán/V sâu/A này/P
+Ngay/T sau/E đó/P Microsoft/Np cũng/R tuyên_bố/V sẵn_sàng/A trả/V số/N tiền/N tương_tự/A cho/E ai/P hỗ_trợ/V các/L nhà_chức_trách/N bắt_giữ/V tác_giả/N
+Tại_Việt_Nam/Np MyDoom/Np bắt_đầu/V xuất_hiện/V ngày/N 27/1/M và/CC lây_lan/V rất/R nhanh/A
+Hệ_thống/N của/E Bkav/Np khi/N đó/P ghi_nhận/V trung_bình/A mỗi/M giờ/N có/V 180/M email/N dính/V virus/N MyDoom/Np
+Ra_đời/V vào/E tháng/N 11/2008/M Conficker/Np được/V lập_trình/V để/E khai_thác/V lỗi/N trong/E phiên_bản/N Windows/Np 2000/M XP/Np Vista/Np Server/Np 2003/M và/CC Server/Np 2008/M
+Sâu/A này/P rất/R khó/A bị/V phát_hiện/V và/CC có_thể/R lây_nhiễm/V qua/E email/N USB/Np ổ_cứng/V ngoài/N hay/C thậm_chí/R điện_thoại/N thông_minh/A mà/C không/R cần/V có/V sự/Nc tác_động/V của/E người/N sử_dụng/V
+Ngay/T khi/N xâm_nhập/V hệ_thống/N Conficker/Np vô_hiệu_hóa/V công_cụ/N bảo_mật/V dịch_vụ/N cập_nhật/V /M update/N /A của/E Windows/Np
+Chỉ/R trong/E ngày/N 13/1/2009/M hệ_thống/N bị/V nhiễm/V Conficker/Np bất_ngờ/A tăng/V từ/E 2,4/M triệu/N lên/V 3,5/M triệu/N
+Tổng_số/N máy_tính/N nhiễm/V sâu/A này/P ước_tính/V trong/E khoảng/N 9/M triệu/M đến/E 15/M triệu/N trên/E toàn_cầu/N trong/E đó/P có/V những/L hệ_thống/N của/E Bộ/N Quốc/Np phòng/N Anh/N Hải_quân/N Pháp/Np lực_lượng_vũ_trang/N Đức/Np
+Việt_Nam/Np đứng/V thứ/N 5/M thế_giới/N về/E số/N PC/Np nhiễm/V Conficker/Np với/E tỷ_lệ/N 5,6%/M tương_đương/V 73 0/M hệ_thống/N trong/E khi/N Trung_Quốc/Np đứng/V đầu/N với/E 17,57%/M
+WannaCry/Np là/V một/M biến_thể/N của/E mã/N độc/A tống_tiền/V /N ransomware/N /M còn/R có/V tên/N gọi/V khác/A là/C WannaCrypt0r/Np 2 M hay/C WCry/Np bắt_đầu/V bùng_phát/V trên/E toàn/N thế_giới/N từ/E ngày/N 11/5/M
+Ransomware/Np nguy_hiểm/A bởi/E chúng/P hiểu/V dữ_liệu/N của/E người/N dùng/V luôn/R quan_trọng/A và/CC việc/N giữ/V dữ_liệu/N làm/V con_tin/N sẽ/R có/V hiệu_quả/N hơn/R là/V chỉ/R đánh_cắp/V hoặc/CC xóa/V đi/V
+Chỉ/R sau/E hai/M ngày/N xuất_hiện/V WannaCry/Np đã/R gây/V ảnh_hưởng/V tới/E 10 0/M tổ_chức/N 200 0/M cá_nhân/N trong/E khoảng/N 150/M quốc_gia/N trên/E thế_giới/N
+Việt_Nam/Np nằm/V trong/E top/N 20/M quốc_gia/N vùng/N lãnh_thổ/N bị/V ảnh_hưởng/V nhất/A bên_cạnh/N Ukraina/Np Ấn/V Độ/N Trung_Quốc/Np Đài_Loan/Np
+Chiều/N 16/5/M thống_kê/V từ/E Hệ_thống/N giám_sát/V virus/N của/E Bkav/Np cho/E thấy/V tại/E Việt_Nam/Np đã/R có/V hơn/R 1 0/M máy_tính/N bị/V lây_nhiễm/V mã/V độc/A tống_tiền/V WannaCry/Np
+Trong/E đó/P khoảng/N 1 0/M máy_tính/N được/V ghi_nhận/V tại/E 243/M cơ_quan/N doanh_nghiệp/N và/CC khoảng/N 300/M máy_tính/N là/V của/E người/N sử_dụng/V cá_nhân/N

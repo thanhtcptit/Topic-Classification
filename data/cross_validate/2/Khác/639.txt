@@ -1,0 +1,31 @@
+Những/L cách/N bật/V sẵn/A điều_hòa/N trước/E khi/N về/V nhà/N
+Điều_khiển_từ_xa/X của/E hầu_hết/L các/L loại/Nc điều_hòa/N đều/R có/V cụm/N nút/N điều_khiển/V tính_năng/N hẹn/V giờ/N với/E dòng/N chữ/N Timer/Np
+Trong/E đó/P nút/N On/Np để/E cài_đặt/V giờ/N bật/V máy/N còn/V Off/Np để/E cài_đặt/V giờ/N tắt/V máy/N
+Người/N dùng/V có_thể/R sử_dụng/V nút/N Set/Cancel/Np để/E cài_đặt/V chế_độ/N này/P và/CC cụm/N nút/N mũi_tên/V lên/R xuống/R để/E chỉnh/V giờ/N mong_muốn/V
+Khi/N cài_đặt/V xong/R trên/E bảng/N hiển_thị/N sẽ/R xuất_hiện/V giờ/N đã/R chọn/V
+Lưu_ý/V để/E tính_năng/V này/P hoạt_động/V đúng/A người/N dùng/V cần/V lưu_ý/V thời_gian/N đang/R cài_đặt/V cho/E điều_hòa/N là/V chính_xác/A
+Một_số/L máy_điều_hòa/N còn/R có_thể/A hẹn/V giờ/N bật/V rồi/C tắt/V máy/N tự_động/A
+Khi/N đó/P trên/E màn_hình/N sẽ/R hiện/V đồng_thời/R cả/P hai/M thông_báo/N về/E giờ/N bật/V và/CC tắt/V máy/N hoặc/CC ngược_lại/X
+Công_tắc/N có/V tên/N gọi/V Switch/Np Timer/Np là/V thiết_bị/N hỗ_trợ/V kiểm_soát/V việc/N sử_dụng/V điện/N theo/V thời_gian/N
+Giống/A một/M chiếc/Nc đồng_hồ/N được/V gắn/V thêm/R người/N dùng/V có_thể/R sử_dụng/V nó/P cho/E nhiều/A mục_đích/N như/C chiếu/N sáng/N điều_hòa/N cấp_nước/N
+Nguyên_tắc/N hoạt_động/V của/E nó/P là/V kết_hợp/V giữa/E đồng_hồ/N và/CC công_tắc/N để/E tự_động/A tắt/V hoặc/CC bật/V nguồn/N điện/N vào/E thời_điểm/N định/V sẵn/A
+Thiết_bị/N này/P thường/R được/V gắn/V vào/E bảng/N đèn/N hoặc/CC tủ/N điện/N và/CC kiểm_soát/V điện/N theo/E chu_kỳ/N 24/M giờ/Nu hay/C hàng/N tuần/N
+Ví_dụ/V người/N dùng/V có_thể/R cài_đặt/V giờ/N bật/V điều_hòa/N từ/E 17h00/M đến/E 19h00/M khi/N đi/V làm/V về/V và/CC ăn/V tối/N
+Sau/E đó/P tắt/V từ/E 19h00/M đến/E 23h00/M khi/N cả/P gia_đình/N ra/V ngoài/N rồi/C bật/V trong/E lúc/N ngủ/V từ/E 23h00/M tới/E 4h00/M sáng/N hôm_sau/N
+Hai/M phương_thức/N trên/E dù/N khá/R hữu_hiệu/A thì/C vẫn/R có/V nhược_điểm/N là/C không_thể/R can_thiệp/V hay/C thay_đổi/V từ/E xa/A
+Trong/E trường_hợp/N người/N sử_dụng/V không/R ở/V nhà/N đúng/A thời_điểm/N máy/N vẫn/R tự/P hoạt_động/V gây/V lãng_phí/V
+Để/E khắc_phục/V bạn/N có_thể/A sử_dụng/V ổ/N điện/N thông_minh/A
+Khác/A với/E các/L ổ_cắm/N điện/N có/V chức_năng/N hẹn/V giờ/N thông_thường/A ổ_cắm/A thông_minh/A có/V khả_năng/N kết_nối/V với/E mạng/N không/R dây/A như/C Wi-Fi/Np giúp/V người/N dùng/V kết_nối/V và/CC điều_khiển/V các/L thiết_bị/N qua/V ứng_dụng/V trên/E điện_thoại/N
+Theo/E đó/P bạn/N có_thể/A bật_tắt/V thiết_bị/N từ/E xa/A hay/C hẹn/V giờ/N bật_tắt/V một_cách/N dễ_dàng/A
+Bên_cạnh/N đó/P ứng_dụng/V đi/V kèm/V còn/R giúp/V quản_lý/V kiểm_soát/V các/L thông_số/N như/C nhiệt_độ/N cường_độ/N dòng_điện/N điện_áp/N  /M Người/N dùng/V nên/C tìm_hiểu/V kỹ/A và/CC lựa_chọn/V trước/E khi/N mua/V để/E đảm_bảo/V an_toàn/N cho/E bản_thân/N và/CC các/L thiết_bị/N điện/N trong/E nhà/N
+Một_số/L dòng/N điều_hòa/N hiện_đại/A của/E Samsung/Np Gree/Np LG/Np
+đã/R có/V khả_năng/N kết_nối/V thông_minh/A với/E thiết_bị/N di_động/V qua/V Wi-Fi/Np
+Người/N dùng/V có_thể/R dễ_dàng/A điều_chỉnh/V nhiệt_độ/N bật_tắt/N hẹn/V giờ/N
+bằng/E ứng_dụng/N dù/C ở/E trong/E phòng/N hay/C cách/V xa/A hàng/N cây_số/N qua/E mạng/N Internet/Np
+Ứng_dụng/N còn/R cho_phép/V kiểm_tra/V lỗi/N phát_sinh/V và/CC thông_báo/V đến/E người/N dùng/V
+Tất_nhiên/A phương_thức/N hiện_đại/A này/P cũng/R đòi_hỏi/V chi_phí/N lớn/A hơn/R bao_gồm/V cả/P chi_phí/N lắp_đặt/V hệ_thống/N mạng/N tại_gia/V bên_cạnh/N mức/N giá/N khá/R cao/A của/E bản_thân/N chiếc/Nc điều_hòa/N
+Các/L dòng/N máy_điều_hòa/N hiện_nay/N đều/R có/V khả_năng/N làm/V mát/A nhanh/A trong/E khoảng/N 5-10/M phút/Nu tùy/V không_gian/N phòng/N
+Do_đó/C người/N dùng/V không/R cần/V phải/V chờ/V quá/R lâu/A để/E tận_hưởng/V sự/Nc thoải_mái/A của/E bầu_không_khí/N do/E điều_hòa/N mang/V lại/R
+Trong/E khi/N đó/P nếu/C hẹn/V giờ/N bật/V máy/N từ/E trước/N người/N dùng/V có_thể/R bị/V sốc/N nhiệt/N do/E chênh_lệch/A nhiệt_độ/N quá/R cao/A giữa/E bên/N ngoài/N và/CC bên/N trong/N nhà/N
+Điều/N này/P có_thể/R ảnh_hưởng/V không/R tốt/A tới/E sức_khỏe/N thậm_chí/R gây/V nguy_hiểm/N đặc_biệt/A với/E trẻ_em/N hay/C người/N lớn_tuổi/A
+Biện_pháp/N hợp_lý/A nhất/A để/E giảm/V nhiệt/N là/V nhanh_chóng/A uống/V nước/N bật/V quạt/N số/N nhẹ/A trong/E khi/N chờ/V nhiệt_độ/N phòng/N giảm/V dần/R từ/E điều_hòa/N

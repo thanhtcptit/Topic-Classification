@@ -1,0 +1,20 @@
+Nhiều/A thiết_bị/N gian_lận/A có_thể/R xuất_hiện/V trong/E kỳ/N thi/V THPT/Np quốc_gia/N
+Trong/E chuyến/N kiểm_tra/V công_tác/N chuẩn_bị/V thi/V THPT/Np quốc_gia/N ở/E Hải_Phòng/Np Quảng_Ninh/Np /M ngày/N 14-15/M //X 6/M /Nu Cục_phó/N An_ninh/N Chính_trị/N nội_bộ/N /N Bộ/N Công/N an/M /Nu Nguyễn_Bạch_Đằng/Np cảnh_báo/V một_số/L hình_thức/N dùng/V công_nghệ_cao/N để/E gian_lận/A thi_cử/V  /EOS
+Có/V thiết_bị/N vỏ/N máy_tính/N nhưng/C ruột/N là/V điện_thoại/N i/V Phone/Np có_thể/R chụp/V ảnh/N đề/N thi/V chuyển/V ra/R ngoài/N và/CC nhận/V giải/N đề_từ/V ngoài/N gửi/V vào/R  /M Có/V
+thiết_bị/N dán/V mặt/N đồng_hồ/N nhưng/C là/V điện_thoại/N
+Tai_nghe/N của/E nó/P chỉ/R bằng/E hạt/N gạo/N đặt/V vào/E trong/E tai/N  /EOS
+Lãnh_đạo/N Bộ/N Công/N an/M nhấn_mạnh/V giám_thị/V phải/V kiểm_tra/V kỹ/A máy_tính/N đồng_hồ/N của/E thí_sinh/N xem/V có/V đúng/A chức_năng/N để/E ngăn_chặn/V các/L thiết_bị/N công_nghệ/N thu/V và/CC phát/V tín_hiệu/N mang/V vào/E phòng/N thi/V
+Ngoài_ra/C những/L phòng/N thi/V gần/A nhà/N dân/N cũng/R cần/V tăng_cường/V người/N giám_sát/V phía/N ngoài/N
+Theo/E lý_giải/V của/E đại_diện/N Công_an/N Hải_Phòng/Np thị_trường/N Việt_Nam/Np đang/R bán/V loại/N ống_nhòm/N có_thể/A quan_sát/V vật/N xa/A 2/M km/Nu
+Với/E thiết_bị/N này/P người/N sử_dụng/V chỉ/R cần/V chọn/V vị_trí/N thuận_lợi/A rồi/C gắn_kết/V với/E điện_thoại/N thông_minh/A là/V chụp/V rõ/A được/R đề/V thi/V trong/E phòng/N của/E thí_sinh/N
+Đề/Np đáp_án/N do_đó/C có_thể/R được/V đẩy/V lên/R Internet/Np khi/N thời_gian/N làm/V bài/N chưa/R hết/V  /EOS
+Theo/E Quy/Np chế/V thi/V THPT/Np quốc_gia/N và/CC xét/V công_nhận/V tốt_nghiệp/V THPT/Np thí_sinh/N chỉ/R được/V mang/V vào/E phòng/N thi/V các/L loại/N máy_tính/N bỏ_túi/V không/R có/V chức_năng/N soạn_thảo/V văn_bản/N không/R có/V thẻ/N nhở/V các/L loại/N máy_ghi_âm/N và/CC ghi_hình/V chỉ/R có/V chức_năng/N ghi/V thông_tin/N mà/C không/R truyền/V được/R thông_tin/N và/CC không/R nhận/V được/R tín_hiệu/N âm_thanh/N hình_ảnh/N trực_tiếp/A nếu_không/C có/V thiết_bị/N hỗ_trợ/V
+Thí_sinh/N mang/V vật_dụng/N trái_phép/A vào/E phòng/N thi/V đưa/V đề/N thi/V ra/E ngoài/N hoặc/CC nhận/V bài/N giải/N từ/E ngoài/N vào/E phòng/N thi/V sẽ/R bị/V đình_chỉ/V thi/V
+Kỳ/N thi/V THPT/Np quốc_gia/N năm/N 2016/M có/V 200/M thí_sinh/N bị/V đình_chỉ/V thi/V nhiều/A trong/E số/N đó/P mang/V điện_thoại_di_động/N vào/V phòng/N
+Một/M trường_hợp/N ở/E TP_HCM/Np cầm/V theo/E đồng_hồ/N thông_minh/A có/V thẻ/N nhớ/V kết_nối/V bluetooth/N
+Thiết_bị/N này/P được/V liệt/A vào/E dạng/N lưu_trữ/V truyền/V phát/V thông_tin/N bị/V cấm/V mang/V vào/E phòng/N thi/V
+Trước/E kỳ/N thi/V 2016/M Phòng_Cảnh/Np sát/A phòng_chống/V tội_phạm/N sử_dụng/V công_nghệ_cao/N Công_an/N Hà_Nội/Np cũng/R phát_hiện/V thu_giữ/V hàng/R trăm/M thiết_bị/N tai_nghe/N siêu/Z nhỏ/A được/V một_số/L người/N tích_trữ/A rao/V bán/V trên/E mạng/N xã_hội/N và/CC các/L trang_web/N bất_hợp_pháp/A phục_vụ/V nhu_cầu/N gian_lận/A thi_cử/V
+Từ/E ngày/N  /A 22/M  /Nu đến/E 24/6/M khoảng/N 860 0/M thí_sinh/N cả/P nước/N sẽ/R dự/V thi/V THPT/Np quốc_gia/N và/CC xét/V tuyển/V đại_học/N cao_đẳng/N sư_phạm/V
+Trong/E đó/P hơn/R 643 0/M /Nu 75%/M /N thí_sinh/N thi/V để/E lấy/V kết_quả/N xét/V tuyển/V đại_học/N
+Thí_sinh/N sẽ/R làm/V 5/M bài/N thi/V gồm/V 3/M bài/N độc_lập/N bắt_buộc/V Toán/Np Văn/Np Ngoại_ngữ/N lựa_chọn/V một/M trong/E hai/M bài/N thi/V tổ_hợp/N Khoa_học_tự_nhiên/N /A Lý/Np Hóa/Np Sinh/Np /V hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Trừ_Văn/Np các/L môn/N còn/V lại/R đều/R thi_trắc_nghiệm/V

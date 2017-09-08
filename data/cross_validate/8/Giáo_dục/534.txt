@@ -1,0 +1,19 @@
+Hôm_nay/N Hà_Nội/Np công_bố/V điểm/N thi/V vào/E lớp/N 10/M
+Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np cho_biết/V tối/N 19/6/M các/L khâu/N chấm/V thi/V vào/E lớp/N 10/M đã/R hoàn_tất/V
+Ngày/N 20/6/M các/L tổ/N chấm/V thi/V thực_hiện/V khớp/N phách/N ngẫu_nhiên/A 20%/M tổng_số/N bài/N thi/V theo/E quy_chế/N đối_chiếu/V điểm/N trên/E bài/N với/E điểm/N nhập/V vào/E hệ_thống/N nhằm/V tránh/V sai_sót/N
+Hôm_nay/N /A 21/6/M /Nu Sở/N Giáo/N dục/V sẽ/R công_bố/V điểm/N thi/V
+Ngoài/E việc/N đến/V trực_tiếp/A địa_điểm/N thi/V để/E xem/V kết_quả/N thí_sinh/N có_thể/R tra_cứu/V điểm/N trên/E website/N của/E sở_tại/A địa_chỉ/N hanoi/A edu /V hoặc/CC hệ_thống/N tổng_đài/V 1080/M
+Cách/V tính/V điểm/N vào/E lớp/N 10/M năm/N nay/P vẫn/R theo/V công_thức/N Trong/E đó/P điểm/N THCS/Np là/V tổng_số/N điểm/N tính/V theo/E kết_quả/N học_tập/V và/CC rèn_luyện/V của/E 4/M năm_học/N THCS/Np nếu/C lưu_ban/V lớp/N nào/P thì/C lấy/V kết_quả/N năm_học/N lại/R của/E lớp/N đó/P
+Hạnh_kiểm/N tốt/A và/CC học_lực/N giỏi/A là/V 5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N giỏi/A hoặc/CC hạnh/V điểm/N tốt/A và/CC học_lực/N khá/R là/V 4,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N khá/R là/V 4/M điểm/N Hạnh_kiểm/N trung_bình/A và/CC học_lực/N giỏi/A hoặc/CC hạnh_kiểm/N tốt/A và/CC học_lực/N trung_bình/A là/V 3,5/M điểm/N Hạnh_kiểm/N khá/R và/CC học_lực/N trung_bình/A hoặc/CC hạnh_kiểm/A trung_bình/A và/CC lực/N học/V khá/R là/V 3/M điểm/N
+Trường_hợp/N còn/V lại/R là/V 2,5/M điểm/N
+Điểm/N thi/V là/V tổng/N điểm/N hai/M bài/N thi/V Ngữ_văn/N và/CC Toán/Np /A đã/R nhân/V hệ_số/N 2/M /Nu chấm/V theo/E thang/N 10/M điểm/N lẻ/A đến/V 0,25/M
+Chỉ/R học_sinh/N không/R vi_phạm/V quy_chế/N trong/E kỳ/N tuyển_sinh/V và/CC không/R có/V bài/N thi/N nào/P bị/V điểm/N 0/M mới/R được/V đưa/V vào/E diện/N xét/V tuyển/V
+Điểm/N cộng/V thêm/V là/C tổng/N của/E điểm/N ưu_tiên/V và/CC khuyến_khích/V tối_đa/A là/V 6/M
+/N Chi_tiết/A các/L trường_hợp/N được/V cộng/V điểm/N /V
+Sau/E khi/N biết/V điểm/N thi/V thí_sinh/N có/V nhu_cầu/N phúc_khảo/V bài/N thi/V có_thể/R nộp/V đơn/N về/E các/L Phòng_Giáo/Np dục/V hạn/N cuối/N là/V ngày/N 28/6/M
+Kết_quả/N phúc_khảo/V sẽ/R được/V thông_báo/V vào/E ngày/N 11/7/M
+Điểm_chuẩn/V vào/E lớp/N 10/M chuyên/A và/CC lớp/N 10/M THPT/Np công_lập/V sẽ/R được/V Sở/N Giáo/Np dục/V công_bố/V ngày/N 26-27/M //X 6/M
+Trước/E đó/P ngày/N 9/6/M hơn/R 76 0/M sĩ_tử/N Hà_Nội/Np bước/V vào/E kỳ/N tuyển_sinh/V lớp/N 10/M THPT/Np với/E hai/M môn/N Toán/Np Ngữ_văn/N
+Ngày/N 10-11/M //X 6/M gần/A 7 0/M thí_sinh/N thi/V vào/E trường/N chuyên/A tiếp_tục/V làm/V bài/N môn/N tiếng/N Anh/N điều_kiện/N và/CC môn/N chuyên/A
+Các/L trường/N công_lập/V Hà_Nội/Np chỉ/R lấy/V gần/A 57 0/M chỉ_tiêu/N
+Những/L thí_sinh/N không/R trúng_tuyển/V phải/V lựa_chọn/V học/V ở/E các/L trường/N tư_thục/N trung_tâm/N giáo_dục/V thường_xuyên/A hoặc/CC các/L trường/N trung_cấp/N chuyên_nghiệp/A

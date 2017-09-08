@@ -1,0 +1,11 @@
+Quân_đội/N Mỹ/Np muốn/V kích/V não/N người/N để/E tạo/V ra/R siêu/Z chiến_binh/N
+Cơ_quan/N Nghiên_cứu/V Các/L dự_án/N phòng_thủ/V Tiên_tiến/A DARPA/Np của/E Mỹ/Np đang/R đầu_tư/V vốn/N cho/E chương_trình/N Huấn_luyện/V Hệ/N thần_kinh/N có/V mục_đích/N TNT/Np
+Mục_tiêu/N là/V nghiên_cứu/V sử_dụng/V điện/N kích_thích/V não/N bộ/N cải_thiện/V khả_năng/N học_tập/V và/CC tăng/V tốc_độ/N huấn_luyện/V cho/E binh_sĩ/N Mỹ_Gizmodo/Np hôm_nay/N đưa/V tin/N
+Nếu/C thành_công/V TNT/Np sẽ/R giúp/V người/Nc lính/N nhanh_chóng/A hoàn_thiện/V các/L kỹ_năng/N phức_tạp/A vốn/R đòi_hỏi/V hàng/R nghìn/M giờ/Nu huấn_luyện/N điển_hình/N là/V việc/N học/V ngoại_ngữ/N
+DARPA/Np đã/R cấp_vốn/V cho/E 8/M dự_án/N khác_nhau/A để/E phục_vụ/V chương_trình/N TNT/Np
+Các/L nhà_khoa_học/N đang/R tìm_hiểu/V cơ_cấu/N sinh_hóa/V giúp/V bộ_não/N dễ/A thích_nghi/V với/E việc/N học/V khi/N được/V kích_thích/V
+Hiệu_ứng/N này/P được/V Đại_học/N Texas/Np nghiên_cứu/V sau/E khi/N nhận/V khoản/N đầu_tư/V 8/M 5/M triệu/M USD/Nu từ/E DARPA/Np
+Một/M nhóm/N sẽ/R làm_việc/V với/E chuyên_gia/N phân_tích/V tình_báo/N và/CC ngoại_ngữ/N để/E tối_ưu_hóa/V quy_trình/N học/V
+DARPA/Np đang/R so_sánh/V giữa/E kỹ_thuật/N cấy_ghép/N thiết_bị/N trực_tiếp/A vào/V não/N bộ/N với/E kích_thích/N bên/N ngoài/N nhằm/V tránh/V nguy_hiểm/A cho/E tính_mạng/N binh_sĩ/N cũng_như/C các/L tác_dụng/N không/R mong_muốn/V trong/E khi/N thử_nghiệm/V
+TNT/Np được/V cho/V là/V sẽ/R kéo_dài/V trong/E 4/M năm/N
+DARPA/Np muốn/V biện_pháp/N kích_thích/A này/P tăng/V ít_nhất/A 30%/M kết_quả/N học_tập/V huấn_luyện/V cho/E binh_sĩ/N

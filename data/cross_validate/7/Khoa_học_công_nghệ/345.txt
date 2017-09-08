@@ -1,0 +1,16 @@
+Vừa/R đầu/N năm/N tuyến/N cáp_quang/N nối/V Internet_Việt_Nam/Np đi/V quốc_tế/N đã/R bị/V gián/V đoán/V 
+Cụ_thể/A tuyến/N cáp_quang/N biển/N AAG/Np mà/C hiện/N nhiều/A nhà/N mạng/N tại/E Việt_Nam/Np đang/R sử_dụng/V đã/R gặp/V sự_cố/N chập_chờn/V không/R ổn_định/V vào/E sáng/N ngày/N 8/1/M 
+Đơn_vị/N quản_lý/V tuyến/N cáp/N AAG/Np sau/E đó/P đã/R lập_tức/R tiến_hành/V kiểm_tra/V và/CC xác_định/V nguyên_nhân/N của/E sự_cố/N 
+Nguyên_do/N ban_đầu/N của/E sự_cố/N được/V xác_định/V là/V do/E lỗi/N rò/V điện/N vị_trí/N xảy_ra/V sự_cố/N thuộc/V khu_vực/N bờ/N biển/N Vũng_Tàu/Np 
+Sự_cố/N này/P khiến/V tốc_độ/N truy_cập/V Internet/N của/E các/L nhà_cung_cấp/N dịch_vụ/N viễn_thông/V tại/E Việt_Nam/Np đang/R khai_thác/V trên/E tuyến/N cáp/N này/P đều/R bị/V ảnh_hưởng/V 
+Hậu_quả/N của/E sự_cố/N đã/R khiến/V cho/E việc/N liên_lạc/V trao_đổi/V thông_tin/N đi/V nước_ngoài/N của/E người/N dùng/V trong/E nước/N như/C lướt/V web/N với/E các/L trang_web/N đặt/V máy_chủ/N ở/E nước_ngoài/N chủ_yếu/A tại/E Mỹ/Np dịch_vụ/N email/V gọi/V điện/N Internet/Np ra/V quốc_tế/N bị/V ảnh_hưởng/V do/E lương/N lượng/N chuyển/V sang/V sử_dụng/V các/L hướng/N dự_phòng/V khác/A và/CC nhiều/A khả_năng/N bị/V nghẽn/V do/E các/L hướng/N dự_phòng/V không/R đủ/A sức/N đáp_ứng/V 
+Tuy_nhiên/C sự_cố/N chỉ/R xảy_ra/V với/E các/L liên_lạc/N ở/E quốc_tế/N với/E các/L dịch_vụ/N trang_web/N đặt/V máy_chủ/N trong/E nước/N …/A không/R bị/V ảnh_hưởng/V bởi/E sự_cố/N này/P 
+Hiện/N chưa/R rõ/A thời_điểm/N sự_cố/N sẽ/R được/V hoàn_tất/V khắc_phục/V 
+Trên/E thực_tế/N việc/N sự_cố/N gặp/V phải/A trên/E tuyến/N cáp_quang/N AAG/Np đã/R trở_nên/V khá/R quen_thuộc/A trong/E thời_gian/N qua/V mà/C hầu_như/R năm/N nào/P cũng/R gặp/V phải/A 
+Đây/P là/V sự_cố/N đầu_tiên/A của/E cáp/N AAG/Np trong/E năm/N 2017/M 
+Trước/E đó/P trong/E năm/N 2016/M đã/R có/V 4/M lần/N cáp/V AAG/Np bị/V đứt/V và/CC hoặc/CC tạm/A ngưng/V hoạt_động/V để/E bảo_trì/V lần_lượt/V vào/E các/L tháng/N 3/M 6/M 8/M và/CC đầu/N tháng/N 9/2016/M gây/V không/R ít/A khó_khăn/A và/CC bất_tiện/A cho/E người/N dùng/V Internet/N trong/E nước/N 
+Trước/E đó/P vào/E cuối/N tháng/N 12/M vừa_qua/X tuyến/N cáp_quang/N biển/N hướng/N đi/V quốc_tế/N APG/Np Asia_Pacific_Gateway/Np vừa/R được/V các/L doanh_nghiệp/N viễn_thông/N tại/E Việt_Nam/Np đưa/V vào/R khai_thác/V phục_vụ/V nhu_cầu/N người/N tiêu_dùng/V trong/E nước/N như/C một/M giải_pháp/N để/E thay_thế/V và/CC san_sẻ/V lưu_lượng/V với/E tuyến/N cáp_quang/N AAG/Np tuy_nhiên/C hiện/N tuyến/N cáp_quang/A này/P mới/R chỉ/R được/V đưa/V vào/R vận_hành/V nên/C vẫn/R chưa_thể/R khai_thác/V được/R tối_đa/A lưu_lượng/N của/E tuyến/N cáp/N 
+Ban/N thông/V ban_đầu/N của/E tuyến/N cáp_quang/N APG/Np hiện/N chỉ/R đạt/V 4Tbps/Np so/V với/E băng_thông/N tối_đa/A lên/R tới/E 54/M Tbps/Np 
+AAG/Np là/V một/M trong/E những/L hệ_thống/N cáp/N ngầm/A xuyên/V đại_dương/N lớn/A nhất/R thế_giới/N với/E độ/N dài/A hơn/R 20.000km/M kết_nối/V Đông_Nam/Np Á/Np với/E nước/N Mỹ/Np thông_qua/V Thái_Bình_Dương/Np được/V đưa/V vào/R sử_dụng/V từ/E tháng/N 11/2009/M 
+Kể/V từ/E khi/N đưa/V vào/R sử_dụng/V cho_đến/E nay/P tuyến/N cáp/N này/P đã/R không/R ít/A lần/N gặp/V sự_cố/N hầu_hết/R xảy_ra/V sụ/N cố/V trong/E phân_đoạn/N nối_liền/V giữa/E Hồng_Kông/Np và/CC Singapore/Np 
+T.Thủy/Np 

@@ -1,0 +1,25 @@
+Công_ty/N cho/V nhân_viên/N 100/M USD/Nu tiền/N massage/N mỗi/M tháng/N
+Khi/N được/V hỏi/V lý_do/N không/R cho/V nhân_viên/N nhiều/A ưu_đãi/V gần_như/R tất_cả/P CEO/Np đều/R nói/V rằng/C đó/P là/V vì/E ngân_sách/N hạn_hẹp/A
+Tuy_nhiên/C Jason_Fried/Np CEO/Np hãng/N phát_triển/V website/Np Basecamp/Np lại/R không/R cho/V như_vậy/X
+Tôi/P thích/V liên_tục/A đưa/V ra/R nhiều/A chính_sách/N hơn_nữa/X để/E giúp/V nhân_viên/N thoải_mái/A và/CC hạnh_phúc/A hơn/R
+Nhưng_mà/C giờ/N tôi/P hết/V ý_tưởng/N rồi/C Fried/Np cho_biết/V
+Ngoài/E mức/N lương/N hào_phóng/A chính_sách/N chăm_sóc/V sức_khỏe/N lương/N hưu/V nghỉ_phép/V nhân_viên/N Basecamp/Np còn/R được/V 5 0/M USD/Nu tiền/N du_lịch/V hằng/R năm/N 100/M USD/Nu cho/E dịch_vụ/N massage/V tại/E nhà/N mỗi/M tháng/N 100/M USD/Nu thực_phẩm/N tươi_sống/A 16/M tuần/N nghỉ/V chăm_sóc/V con/N sau/E sinh/V và/CC nghỉ/V hưởng/V lương/N sau/E mỗi/M 3/M năm/N
+Công_ty/N còn/R rút/V ngắn/A thời_gian/N làm_việc/V mùa_hè/N xuống/R còn/V 4/M ngày/N 32/M giờ/Nu mỗi/M tuần/N
+Cách/N tiếp_cận/V của/E Basecamp/Np với/E quyền_lợi/N nhân_viên/N dựa/V trên/E quan_điểm/N coi/V chuẩn_mực/N cuộc_sống/N là/V điều/N quan_trọng/A nhất/A
+Thay_vì/V tính_toán/V nhân_viên/N có/V đạt/V năng_suất/N cao/A không/R hay/C sẽ/R mang/V về/R thêm/V bao_nhiêu/P doanh_thu/N nếu/C được/V hưởng/V quyền_lợi/N Fried/Np coi/V những/L điều/N này/P là/V hiển_nhiên/N
+Một/M trong/E những/L lý_do/N khiến/V Basecamp/Np có_thể/R làm/V được/R tất_cả/P việc/N này/P là/V quy_mô/N công_ty/N khá/R nhỏ/A chỉ/R khoảng/A hơn/R 50/M người/N
+Tuy_nhiên/C Fried/Np cho_biết/V còn/R một/M nguyên_nhân/N khác/A là/V họ/P tự_chủ/V về/E tài_chính/N và/CC không/R có/V hội_đồng_quản_trị/N
+Chúng_tôi/P làm/V mọi/L thứ/N mình/P muốn/V rất/R nhanh_chóng/A anh/N nói/V
+Khi/N một/M nhân_viên/N có/V ý_tưởng/N về/E chính_sách/N mới/R họ/P có_thể/R đề_xuất/V thông_qua/V một/M tài_liệu/N chung/A
+Sau/E đó/P những/L người/N khác/A sẽ/R bỏ_phiếu/V đánh_giá/V
+Nếu/C đủ/A số_lượng/N ủng_hộ/V Fried/Np sẽ/R cân_nhắc/V tính/N khả_thi/A của/E nó/P
+Thường/N thì/C nếu/C họ/P đề_xuất/V việc/N hợp_lý/A chúng_tôi/P sẽ/R thông_qua/V anh/N nói/V
+Basecamp/Np thành_lập/V năm/N 1999/M
+Vài/L năm/N gần/A đây/P họ/P có/V rất/R ít/A nhân_viên/N ra_đi/V
+Một_số/M rời/V công_ty/N ngay/T trong/E năm/N đầu/N chủ_yếu/A vì/E không/R phù_hợp/V
+Tuy_nhiên/C nếu/C đã/R vượt/V qua/R mốc/N một/M năm/N họ/P thường/R gắn_bó/V trong/E thời_gian/N khá/R dài/A
+Hơn/A 90%/M nhân_sự/N tại/E đây/P đã/R ở/V Basecamp/Np hơn/A 4/M năm/N
+Dĩ_nhiên/A các/L chính_sách/N ưu_đãi/V có_thể/R là/V một/M phần/N nguyên_nhân/N
+Mục_tiêu/N cuối_cùng/A của/E Fried/Np là/V giữ_chân/V nhân_viên/N ở/V lại/R công_ty/N chứ/C không/R phải/V ở/V văn_phòng/N
+Hãy/R ra/V ngoài/N tận_hưởng/V thời_tiết/N đi/V chơi/V cuối/N tuần/N hay/C đi/V du_lịch/V
+Chúng_tôi/P muốn/V mọi/L người/N tách/V được/R khỏi/V xu_hướng/N cuồng/V công_việc/N hiện_tại/N anh/N nói/V

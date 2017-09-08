@@ -1,0 +1,29 @@
+​/N Thông_minh/N lựa_chọn/V tổ_hợp/N xét/V tuyển/N
+Danh_sách/N những/L tổ_hợp/N các/L trường/N thường/N dùng/V để/E xét/V tuyển/N thí_sinh/N
+Dưới/E đây/P là/V lời/N khuyên/V của/E các/L chuyên_gia/N tuyển_sinh/N
+PGSTS/Np Nguyễn_Phong_Điền/Np trưởng_phòng/N đào_tạo/V Trường/N ĐH/N Bách_khoa/N Hà_Nội/Np Nên/C ưu_tiên/V các/L tổ_hợp/N xét/V tuyển/N có/V điểm/N thi/V cao/N
+Nhìn/V tổng_thể/A thì/C thấy/V rõ/A các/L trường/N ĐH/N tốp/N trên/N thường/R chỉ/R xét/V tuyển/V theo/V 24/M tổ_hợp/N xét/V tuyển/N
+Tuy_nhiên/C các/L trường/N tốp/N giữa/N và/CC tốp/N dưới/N có/V số_lượng/N tổ_hợp/N xét/V tuyển/V nhiều/A hơn/R với/E mong_muốn/N nguồn/N tuyển/N đa_dạng/N mở_rộng/V hơn/R
+Với/E các/L trường/N ngành/N có/V nhiều/A tổ_hợp/N xét/V tuyển/N thì/C thí_sinh/N nên/C ưu_tiên/V chọn/V tổ_hợp/N xét/N tuyển/V gồm/V các/L môn/N thi/V mà/C thí_sinh/V đạt/V điểm_cao/N hơn/A sẽ/R có/V ưu_thế/A hơn/R trong/E xét/N tuyển/N
+Tuy_nhiên/C thí_sinh/N cần/V phải/V lưu_ý/V nguyên_tắc/N xét/V tuyển/N của/E các/L trường/N
+Trong/E đó/P nhiều/A trường/N đặt/V quy_tắc/N cùng/A ngành/N xét/V tuyển/N nhưng/C điểm_chuẩn/V các/L tổ_hợp/N khác/A nhau/N là/V khác/A nhau/N
+Nhưng/C cũng/R có/V trường/N xác_định/V một/M điểm_chuẩn/N chung/V ở/E một/M ngành/N với/E tất_cả/N các/L tổ_hợp/N xét/V tuyển/N
+Kinh_nghiệm/N cho/V thấy/V kể_cả/N các/L trường/N quy_định/N các/L mức/N điểm_chuẩn/N khác/A nhau/N giữa/E các/L tổ_hợp/N xét/V tuyển/N khác/A nhau/N thì/N mức/N điểm/N chênh_lệch/A này/P cũng/R không/R quá/V 15/M điểm/N
+Để/E tránh/V rơi/V vào/R bẫy/V tuyển_sinh/N năm/N nay/P thí_sinh/A cần/V bình_tĩnh/A
+Không_chỉ/N đánh_giá/V dựa/V vào/R mức/N điểm/N của/E mình/N phải/V căn_cứ/V trên/N phổ/N điểm/N chung/A của/E từng/N môn/N Bộ/N GDĐT/N sẽ/R công_bố/V để/V biết/V điểm/N thi/V mình/N đạt/V được/R ở/V mức/N nào/P trong/E so_sánh/N chung/A với/E các/L thí_sinh/N khác/A
+TS/N Nguyễn_Đào_Tùng/Np trưởng_phòng/N quản_lí/N đào_tạo/V Học_viện/N Tài_chính/N
+PGSTS/Np Cao_Quốc_An/Np trưởng_phòng/N đào_tạo/V Trường/N ĐH/N Lâm_nghiệp/N Việt_Nam/Np Chọn/V thêm/V tổ_hợp/N sẽ/R thêm/V cơ_hội/N trúng_tuyển/V
+Năm/N nay/P Trường/N ĐH/Np Lâm_nghiệp/N Việt_Nam/Np mở_rộng/V tổ_hợp/N xét/V tuyển/N ở/V một_số/N ngành/N đào_tạo/V nâng/V tổng_số/N tổ_hợp/N xét/V tuyển/N của/E hơn/N 30/M ngành/N chuyên_ngành/N đào_tạo/V của/E trường/N lên/E hơn/A 10/M tổ_hợp/N
+Trong/E đó/P lần/N đầu_tiên/A tổ_hợp/N C15/N ngữ_văn/N toán/N khoa_học_xã_hội/X được/V dùng/V làm/V căn_cứ/N xét/V tuyển/V cho/E một/M loạt/N ngành/N chuyên_ngành/N như/C quản_trị/N dịch_vụ/N du_lịch/V và/N lữ_hành/N kiến_trúc/N cảnh_quan/N thiết_kế/V nội_thất/N kế_toán/N kinh_tế/N
+Với/E những/L trường/N mở_rộng/V tổ_hợp/N xét/V tuyển/N thì/C thí_sinh/N sẽ/R tăng/V cơ_hội/N trúng_tuyển/V khi/N đăng_kí/V nhiều/A tổ_hợp/N
+Có_thể/A trước/N đây/P ngành/N kế_toán/N kinh_tế/N chỉ/N xét/V tuyển/N thí_sinh/V theo/V tổ_hợp/N các/L môn/N thuộc/V khoa_học_tự_nhiên/X
+Nhưng/C năm/N nay/P thí_sinh/V có/V điểm/N thi/V bài/N khoa_học_xã_hội/N tốt/A cũng/R có_thể/A đăng_kí/V theo/V tổ_hợp/N phù_hợp/V
+Ngoài_ra/N chính/A thí_sinh/N đã/R đăng_kí/V theo/V các/L tổ_hợp/N truyền_thống/N vào/E các/L ngành/N này/P nhưng/C nếu/C kết_quả/N bài/N thi/V khoa_học_xã_hội/X tốt/N cũng_nên/N đăng_kí/V bổ_sung/V để/E tăng/V cơ_hội/N trúng_tuyển/V
+PGSTS/Np Nguyễn_Minh_Hà/Np Trường/N ĐH/Np Mở/V TPHCM/Np Hai/Np điều/N cần/V lưu_ý/V
+Nhiều/A tổ_hợp/N xét/V tuyển/N cũng/R là/V thuận_lợi/A cho/V thí_sinh/N
+Tuy_nhiên/C các/L em/N cần/V lưu_ý/V hai/M điều/N sau/A
+Thứ/N nhất/M nên/N liệt_kê/V ra/V những/L ngành/N trường/N cùng/C các/L tổ_hợp/N xét/N tuyển/N của/E ngành/N đó/N mà/C các/L em/N muốn/V chọn/V
+Sau/E đó/P các/L em/N bỏ/V điểm/N của/E mình/N vào/E tổ_hợp/N nào/N điểm_cao/N thì/C lấy/V điểm/N ngành/N đó/N để/V đăng_kí/V
+Thứ_hai/N các/L em/N nên/V lưu_ý/V tiêu_chí/N phụ/V trong/E các/L tổ_hợp/N như/C yêu_cầu/N về/V ngoại_ngữ/N nhân/N đôi/N môn/N nào/P đó/P
+NGỌC/N HÀ/M HB/Np
+ghi/V

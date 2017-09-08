@@ -1,0 +1,9 @@
+Card/N chuyên/A đồ_hoạ/V Firepro/Np giá/N rẻ/A
+Card/N đồ_hoạ/N AMD/Np FirePro/V ™/N W4300/M được/V tối_ưu/N hoá/V cho/E các/L ứng_dụng/N CAD/N Computer/Np Aided_Design/Np mới/A nhất/A bao_gồm/V Autodesk_Auto/Np CAD/N Inventor/Np Revit/Np Dassault_Systèmes/Np SOLIDWORK/Np hay/C Catia/Np PTC/Np Creo/Np Siemens/Np NX/Np
+Các/L nhà/N phát_triển/N còn/R được/V AMD/Np FirePro/V ™/N W4300/N mang/V đến/R một/M môi_trường/N làm_việc/V đa_nhiệm/A với/E khả_năng/N xuất/V ra/R tới/V 6/M màn_hình/N khác/A nhau/N lẫn/V hỗ_trợ/V các/L độ_phân_giải/N siêu/N nét/N lên/V tới/N 4K/M hoặc/N 5K/M khi/N kích_hoạt/V chế_độ/N tăng_tốc/V OIT/Np trong/N SOLIDWORKS/Np
+AMD/Np FirePro/V ™/N W4300/N được/V xây_dựng/V hoàn_toàn/A dựa/V trên/E kiến_trúc/N đồ_hoạ/N GCN/Np nổi_tiếng/A của/E AMD/Np trong/E đó/P tối_ưu/A hoá/V việc/N ứng_dụng/V và/N phát_huy/V hiệu_năng/N tối_đa/A bằng/V các/L tính_năng/N nổi_bật/A sau/N
+Bộ/N nhớ/V 4GB/N chuẩn/N GDDR5/Np phục_vụ/V cho/E nhu_cầu/N xử_lí/V các/L dự_án/N lớn/V
+AMD/Np Eyefinity_Technology/Np cho/V khả_năng/N xuất/V đa/N màn_hình/N tạo/V môi_trường/N làm_việc/N đa_nhiệm/N tốt/A nhất/A với/E tối_đa/N 6/M màn_hình/N lẫn/N độ_phân_giải/N siêu/N cao/A lên/V đến/R 4K/M hoặc/N 5K/M
+AMD/Np FirePro/V ™/N W4300/M được/V trang_bị/V 4/M cổng/N Display_Port/Np chuẩn/A 12a/Np vừa/R hỗ_trợ/V xuất/N 6/M màn_hình/N qua/V chế_độ/N MST/Np và/CC tích_hợp/V công_nghệ/N AMD/Np FreeSync/V cho/V phép/N đồng_bộ/N hoá/V tốc_độ/N khung/N hình/N ứng/N với/E tần_số/N của/E màn_hình/N tránh/V các/L hiện_tượng/N xé/V hình/N ảnh_hưởng/V đến/E công_việc/N lẫn/N giải_trí/V
+Hỗ_trợ/V thư_viện/N OpenCL/N 20/M với/E nhiều/A tính_năng/N mới/A cho/V phép/N các/L lập_trình_viên/N làm_việc/V một_cách/N linh_động/A hơn/R
+Ngoài/E ra/V AMD/Np PowerTune/N còn/R cho/V phép/N tối_ưu/N hoá/V điện_năng/N sử_dụng/V của/E GPU/Np cũng/R như/C công_nghệ/N ZeroCore/N giảm_thiểu/N điện_năng/N tiêu_thụ/V khi/N hệ_thống/N chuyển/V sang/V chế_độ/N chờ/V

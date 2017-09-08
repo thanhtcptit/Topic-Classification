@@ -1,0 +1,8 @@
+﻿Sao/P lùn/V đe_dọa/N dội/V mưa/N tiểu/V hành_tinh/N vào/E hệ/N Mặt_Trời/Np
+Sao/P lùn/V  /N HIP/Np 85605/M một/M trong/E 14/M sao/N đang/R hướng/V đến/E Trái_Đất/Np có/V khả_năng/N bắn/V các/L tiểu/N hành_tinh/N trong/E đám/Nc mây/N tinh_vân/A Oort/Np vào/E hệ/N Mặt_Trời/Np đe_dọa/V sự/N sống/V trên/E Trái_Đất/N  /M Express/Np  /M ngày/N 15/7/M đưa/V tin/N
+Khả_năng/N  /V sao/P này/P đến/V được/V Oort/Np ở/E rìa/N hệ/N Mặt_Trời/Np là/V 90%/M theo/E các/L chuyên_gia/N  /A Dù/C các/L vật_thể/N hiếm/A khi/N gặp/V nhau/N trong/E vũ_trụ/N do/E khoảng_cách/N rất/R xa/A nhưng/C  /V tác_động/N từ/E lực/N hấp_dẫn/V của/E một/M ngôi_sao/N là/V rất/R lớn/A Alan_Duffy/Np nhà/N vật_lý_học/N vũ_trụ/V tại/E đại_học/N Swinburn_Australia/Np phân_tích/V
+Theo/E  /N Duffy/Np các/L vật_thể/N được/V neo/V lỏng_lẻo/A bên/N trong/N Oort/Np có_thể/R rung/V lắc/V chỉ/R vì/E tác_động/N của/E một/M lực/N cách/N đó/P một/M năm_ánh_sáng/N
+Các/L vật_thể/N tại/E đây/P cũng/R từng/R bị/V bắn/V vào/E hệ/N Mặt_Trời/Np do/E tác_động/N của/E sao/P ở/E gần/A
+Tiến_sĩ/N Coryn_Bailer_Jones/Np của/E Viện_Thiên/Np văn_học/V Mac_Planck_Đức/Np  /V trong/E nghiên_cứu/V đăng/N trên/E tạp_chí/N Astronomy/Np &/CC Astrophysics/Np  /M cho_biết/V sau/E khoảng/N 240/M 000/M năm/N tới/V HIP/Np 85605/M  /N có/V khả_năng/N cách/V Trái_Đất/Np khoảng/A ba/M năm_ánh_sáng/N
+Vị_trí/N của/E  /N HIP/Np 85605/M  /N có_thể/A không/R chính_xác/A do/E trở_ngại/N trong/E việc/N đo_lường/V
+HIP/Np 85605/M nằm/V trong/E chòm_sao/N Hercules/Np cách/V Mặt_Trời/Np khoảng/A 18/M 28/M năm_ánh_sáng/N

@@ -1,0 +1,13 @@
+Bkav/Np đã/R phát_hiện/V mã/V độc/N lây_nhiễm/N ở/V Việt_Nam/Np
+Như_Tuổi_Trẻ/Np đã/R đưa/V tin/N trước/E đó/P hiện/N đang/R có/V cuộc/N tấn_công/V mạng/N trên/N quy_mô/N toàn_cầu/N
+Mã/N độc/A tống_tiền/N Wanna_Crypt/Np 0r/M chỉ/N trong/E vài/L giờ/N đã/R lây_nhiễm/V hơn/A 100000/M máy_tính/N tại/E 74/M quốc_gia/N trên/N thế_giới/N
+Wanna_Crypt/Np 0r/M tấn_công/N vào/V máy/N nạn/N nhận/V qua/R file/N đính/N kèm/V email/N hoặc/N link/N độc_hại/A như/C các/L dòng/N ransomware/N khác/A
+Tuy_nhiên/C mã/N độc/A này/P được/V bổ_sung/V khả_năng/N lây_nhiễm/V trên/E các/L máy_tính/N ngang_hàng/N
+Wanna_Crypt/N 0r/N sẽ/R quét/V toàn_bộ/N các/L máy_tính/N trong/E cùng/N mạng/N để/V tìm_kiếm/V thiết_bị/N chứa/V lỗ_hổng/N EternalBlue/N của/E dịch_vụ/N SMB/Np trên/E hệ_điều_hành/N Windows/Np
+Từ/E đó/P mã/N độc/A có_thể/A lây_lan/V vào/E các/L máy/N có/V lỗ_hổng/N mà/C không/R cần/V người_dùng/V phải/V thao_tác/V trực_tiếp/A với/E file/N đính/N kèm/V hay/C link/V độc_hại/N
+Các/L chuyên_gia/N của/E Bkav/Np cho/V biết/V đã/R khá/R lâu/A mới/R lại/R xuất_hiện/V loại/N virus/N phát_tán/N rộng/A qua/E Internet/Np kết_hợp/V với/E khai_thác/N lỗ_hổng/N để/E lây/V trong/E mạng/N LAN/Np
+Các/L virus/N tương_tự/N trước/N đây/P chủ_yếu/A được/V hacker/N sử_dụng/V để/E ghi_điểm/V chứ/N không/R mang/V tính_chất/N phá_hoại/V kiếm/V tiền/N trực_tiếp/A
+Wanna_Crypt/Np 0r/N có_thể/A xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A vì/N vừa/R lây_lan/V nhanh/N vừa/R có/V tính/N phá_hoại/V nặng_nề/A
+Theo/E ông/N Vũ_Ngọc_Sơn/Np Phó_Chủ_tịch/N phụ_trách/V mảng/N Chống/V mã/N độc/A của/E Bkav/Np kiểu/N lây_nhiễm/N của/E mã/N độc/N Wanna_Cprypt/Np 0r/Np tuy/C không/R mới/A nhưng/C cho/V thấy/V xu_hướng/N tận_dụng/V các/L lỗ_hổng/N mới/A để/E tấn_công/V kiếm/V tiền/N sẽ/R còn/V được/V hacker/N sử_dụng/V nhiều/A trong/E thời_gian/N tới/V đặc_biệt/A là/V các/L lỗ_hổng/N của/N hệ_điều_hành/N
+Bkav/Np cũng/R khuyến_cáo/N người_dùng/N cần/V cập_nhật/V bản/N vá/V càng/R sớm/A càng/R tốt/A khẩn_trương/V backup/V các/L dữ_liệu/N quan_trọng/A trên/N máy_tính/N
+Ngoài_ra/C chuyên_gia/N an_ninh/N mạng/N cũng/R khuyến_cáo/N người_dùng/A nên/C mở/V các/L file/N văn_bản/N nhận/V từ/E Internet/N trong/E môi_trường/N cách_ly/N Safe_Run/Np và/CC cài/V phần_mềm/N diệt/V virus/N thường_trực/V trên/E máy_tính/N để/E được/V bảo_vệ/V tự_động/N

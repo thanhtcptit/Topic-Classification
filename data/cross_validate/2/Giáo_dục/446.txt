@@ -1,0 +1,11 @@
+Hơn/A 7.200/M thí_sinh/N đăng_ký/V vào/V trường/N quân_đội/N bị/V sai/A quy_định/N 
+Ban/N Tuyển/Np sinh/V quân_sự/N Bộ/N Quốc/Np phòng/N đề_nghị/V các/L thí_sinh/N có/V tên/N trong/E danh_sách/N kiểm_tra/V lại/R nguyện_vọng/N đăng_ký/V xét/V tuyển/V để/E kịp_thời/A điều_chỉnh/V trong/E thời_gian/N từ/E ngày/N 15/7/M đến/E 23/7/M 
+Các/L trường/N Quân_đội/N đã/R công_bố/V danh_sách/N thí_sinh/N đăng_ký/V sơ_tuyển/V đăng_ký/V xét/V tuyển/V có/V sai_sót/N hoặc/CC chưa/R đúng/A quy_định/N trên/E trang/N thông_tin/N điện_tử/N của/E trường/N thông_báo/V tới/E thí_sinh/N và/CC gửi/V công_văn/N thông_báo/V tới/E các/L sở/N giáo_dục/V và/CC đào_tạo/V và/CC Ban/N tuyển_sinh/V quân_sự/N các/L tỉnh/N thành_phố/N 
+Được/V biết/V lỗi/N phát_hiện/V sai_sót/N này/P là/V sau/E khi/N nhập/V dữ_liệu/N hồ_sơ/N đăng_ký/V sơ_tuyển/V theo/E phần_mềm/N của/E Bộ/N Quốc/Np phòng/V các/L trường/N Quân_đội/N đã/R tải/N dữ_liệu/N đăng_ký/V xét/V tuyển/V của/E thí_sinh/N từ/E Cổng/N thông_tin/N tuyển_sinh/V của/E Bộ/N GD/Np ĐT/Np để/E đối_sánh/V và/CC phát_hiện/V một/M loạt/Nc sai_sót/N trong/E hồ_sơ/N của/E thí_sinh/N 
+Cụ_thể/A có/V hơn/R 1.800/M thí_sinh/N đã/R sơ_tuyển/V vào/E trường/N quân_đội/N nhưng/C chưa/R đăng_ký/V xét/V tuyển/V vào/E bất_cứ/R nguyện_vọng/N nào/P ở/E trường/N quân_đội/N 
+Những/L thí_sinh/N này/P nếu/C muốn/V xét/V tuyển/V vào/E trường/N quân_đội/N bắt_buộc/V phải/V đăng_ký/V nguyện_vọng/N bổ_sung/V vào/E các/L ngành/N trường/N quân_đội/N 
+Danh_sách/N xem/V TẠI_ĐÂY/Np Thí_sinh/N có/V đăng_ký/V sơ_tuyển/A nhưng/C đăng_ký/V xét/V tuyển/V vào/E trường/N quân_đội/N lại/R không/R phải/V nguyện_vọng/N 1/M vì/E theo/E quy_định/N của/E Ban/N Tuyển/Np sinh/V quân_sự/N Bộ/N Quốc/Np phòng/N thí_sinh/N muốn/V xét/V tuyển/V vào/E trường/N quân_đội/N bắt_buộc/V phải/V đăng_ký/V nguyện_vọng/N 1/M 
+Trường_hợp/N thí_sinh/N gửi/V hồ_sơ/N xét/V tuyển/V nguyện_vọng/N 1/M vào/E trường/N không/R nộp/V hồ_sơ/N sơ_tuyển/V thì/C không/R được/V xét/V tuyển/V nguyện_vọng/N 1/M vào/E trường/N đó/P 
+Theo/E thống_kê/V có/V hơn/R 5.200/M thí_sinh/N chưa/R hiểu/V đúng/A về/E nguyên_tắc/N tuyển_sinh/V quân_đội/N nên/C đăng_ký/V không/R đúng/A 
+Những/L thí_sinh/N này/P dù/E có/V đăng_ký/V nguyện_vọng/N 1/M thì/C chắc_chắn/A cũng/R vẫn/R không/R được/V tham_gia/V xét/V tuyển/V vào/E các/L trường/N Quân_đội/N 
+Thí_sinh/N xem/V danh_sách/N TẠI_ĐÂY/Np Nhật_Hồng/Np 

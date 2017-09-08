@@ -1,0 +1,15 @@
+Găng_tay/N chuyển_ngữ/V giúp/V trò_chuyện/V với/E người/N khiếm_thính/N
+Nhận/V thấy/V khó_khăn/N trong/N giao_tiếp/V giữa/N người/N bình_thường/A và/CC những/L người/N khiếm_thính/V Lê_Ngọc_Anh/Np nghiên_cứu/V và/CC cho/V ra_đời/V một/M sản_phẩm/N lạ/A găng_tay/N chuyển_ngữ/N
+Vô_tình/N xem/V được/V đoạn/V clip/N trên/N kênh/N YouTube/N giới_thiệu/V mô_hình/N đôi/N găng_tay/N chuyển_ngữ/A của/E nhóm/N sinh_viên/N Mỹ/Np Ngọc_Anh/Np sinh_viên/N chuyên_ngành/N kĩ_thuật/V cơ/N điện_tử/N ĐH/N Bách_khoa/N ĐH/N Đà_Nẵng/Np dành/V trọn/N ba_tháng/N nghỉ_hè/N tìm_tòi/N học_hỏi/V lắp_ráp/V dần/R hoàn_thiện/V sản_phẩm/N cho/E người/N khiếm_thính/A Việt_Nam/Np
+Ngọc_Anh/Np tìm/V đến/E các/L câu_lạc_bộ/N dạy/V ngôn_ngữ/N kí_hiệu/N ngôn_ngữ/N hình_thể/N ở/E TP/Np Đà_Nẵng/Np trực_tiếp/V tiếp_xúc/V với/E người/N mắc/V chứng/N câm/A điếc/A Anh/N nghiên_cứu/V logic/N chuyển_động/N của/N bàn_tay/N
+Sản_phẩm/N được/V làm/V với/E hình_dạng/N đôi/M găng_tay/N thực_hiện/V chuyển_ngữ/N thông_qua/V các/L kí_hiệu/N cử_động/V tay/N sau/N đó/P phát/V ra/R tiếng_nói/N để/E những/L người/N bị/V câm/V có_thể/A hiểu/V hoặc/N phát/V lên/R dòng/N chữ/N trên/E màn_hình/N LCD/Np để/E người/N bị/V điếc/N có_thể/R đọc/V và/N hiểu/V được/R cuộc/N giao_tiếp/V
+Dựa/V trên/E các/L cảm_biến/N uốn/N cong/A được/V thiết_kế/V cho/E từng/N ngón/N tay/N Ngọc_Anh/Np sử_dụng/V một/M cảm_biến/N gia_tốc/N để/E thuật/V lại/R các/L chuyển_động/N nhỏ/A nhất/R của/N bàn_tay/N
+Các/L dữ_liệu/N hình_thể/N này/P được/V vi_xử_lí/N Arduino_Nano/Np kiểm_tra/V độ_chính_xác/N so/V với/E bảng/N ngôn_ngữ/N kí_hiệu/N Việt_Nam/Np
+Với/E 27/M kí_tự/N chữ_cái/N của/E hệ/N ngôn_ngữ/N Việt/Np Ngọc_Anh/Np vẫn/R đang/R tiếp_tục/V hoàn_thiện/V sản_phẩm/N cải_thiện/V khả_năng/N thao_tác/V nhanh/A hơn/R để/E phù_hợp/V với/E người/N khuyết_tật/N
+Do/E thuận/N tay_phải/N nên/C lúc/N sáng_tạo/N mình/P đã/R làm/V găng_tay/N bên/N phải/A lúc/N xử_lí/V tín_hiệu/N trên/N máy_tính/N phải/V sử_dụng/V tay_trái/N nên/C rất/R bất_tiện/A
+Ngoài_ra/C mình/P còn/R gặp/V khó_khăn/A ở/E việc/N tìm/V được/R một/M người/N bạn/N cộng_sự/N cùng/A đam_mê/N Ngọc_Anh/Np bộc_bạch/V
+Với/E giá_thành/N chỉ/R 300000/M đồng/Nu một/M chiếc/Nc găng_tay/N thông_minh/A mình/P hi_vọng/V sản_phẩm/N sẽ/R phần_nào/N thực_hiện/V giấc/N mơ/V giao_tiếp/V của/E những/L con_người/N không/R may_mắn/A trong/N xã_hội/N
+Hi_vọng/N sẽ/R lan_toả/V đến/E những/L người/N đam_mê/V công_nghệ/N như/C mình/P cùng/A nhau/N chế_tạo/V sản_phẩm/N phục_vụ/V cộng_đồng/N Ngọc_Anh_hào/N hứng/V nói/V
+TS/N Nguyễn_Danh_Ngọc/Np giảng_viên/N khoa/N cơ_khí/N ĐH/N Bách_khoa/N ĐH/N Đà_Nẵng/Np cho/V biết/V Ý/Np tưởng/V của/E Ngọc_Anh/Np đã/R được/V đánh_giá/V rất/R cao/A
+Sản_phẩm/N nhân_văn/N này/P sẽ/R là/V công_cụ/N đắc_lực/V phục_vụ/N giao_tiếp/V cho/E nhiều/A người/N khiếm_thính/V
+Sản_phẩm/N vừa/R đoạt/V giải/N nhất/A cuộc/N thi/V Sinh_viên/N nghiên_cứu/V khoa_học/N năm/N 2017/M do/N Đoàn_Trường/Np ĐH/Np Bách_khoa/V ĐH/Np Đà_Nẵng/Np phối_hợp/V cùng/N Sở/N Khoa_học/N và/CC công_nghệ/N Đà_Nẵng/Np tổ_chức/V

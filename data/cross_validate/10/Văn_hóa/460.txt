@@ -1,0 +1,36 @@
+Long_trọng/A lễ/N tưởng_niệm/V 250/M năm/N ngày/N mất/V danh_nhân/N Nguyễn_Quý_Kính/Np 
+Chủ_tịch/N nước/N Trần_Đại_Quang/Np Thủ_tướng/N Chính_phủ/N Nguyễn_Xuân_Phúc/Np Phó_Chủ/Np tịch/V nước/N Đặng_Thị_Ngọc_Thịnh/Np Phó_Thủ/Np tướng/N Chính_phủ/N Vương_Đình_Huệ/Np Bí_thư/N Thành_ủy/N Hà_Nội_Hoàng_Trung_Hải/Np đã/R trang_trọng/A gửi/V hoa/N tưởng_niệm/V 250/M năm/N ngày/N mất/V danh_nhân/N Nguyễn_Quý_Kính/Np 
+Tham_dự/V buổi/N lễ/N có/V ông/N Dương_Trung_Quốc/Np Phó_Chủ/Np tịch/V Tổng_thư_ký/N Hội/N khoa_học/N Lịch_sử/N Việt_Nam/Np PGS.TS/Np Trần_Đức_Cường/Np Phó_Chủ/Np tịch/V Hội_Hoa/Np khọc/V Lịch_sử/N Việt_Nam/Np PGS.TS/Np Nguyễn_Đức_Nhuệ/Np Phó_Viện/Np trưởng/Z Viện_Sử/Np học/V Việt_Nam/Np ông/Nc Nguyễn_Quý_Hồng/Np Trưởng_Đại/Np diện/N dòng_họ/N Nguyễn_Quý/Np ông/Nc Đào_Đức_Toàn/Np Phó_Bí/Np thư/N Thành_ủy/N Hà_Nội/Np ông/Nc Nguyễn_Tài_Dũng/Np Bí_thư/N Đảng_ủy/N phường/N Đại_Mỗ/Np quận/N Nam_Từ_Liêm/Np và/CC đông_đảo/A con_cháu/N hậu_duệ/N của/E các/L bậc/N tiền_nhân/N dòng_họ/N Nguyễn_Quý/Np 
+Lễ_Trao_Tượng/M đồng/Nu danh_nhân/N Nguyễn_Quý_Kính/Np diễn/V ra/R tại/E Nhà_Bái/Np đường/N Văn_Miếu/Np Quốc_Tử_Giám/Np Hà_Nội/Np 
+Phát_biểu/V và/CC dẫn_dắt/V Lễ_Trao_Tượng/Np đồng/Nu danh_nhân/N Nguyễn_Quý_Kính/Np ông/Nc Dương_Trung_Quốc/Np khẳng_định/V Cách/V đây/P đúng/A 15/M năm/N cũng/R tại/E nơi/N đây/P Hội_Khoa/Np học/V Lịch_sử/N Việt_Nam/Np đã/R trao_tặng/V bức/N tượng/N cụ/N Thám_hoa/Np Nguyễn_Quý_Đức/Np cho/E dòng_họ/N Nguyễn_Quý/Np 
+Tất_cả/P những/L điều/N đó/P liên_tưởng/V đến/E đạo_nghĩa/N của/E dân_tộc/N uống_nước_nhớ_nguồn/X ôn_cố_tri_tân/X để/E tạo_dựng/V cho/E đời_sống/N hiện_tại/N 
+Với/E ý_nghĩa/N ấy/P buổi/N lễ/N tưởng_niệm/V và/CC trao/V tượng/N ngày/N hôm_nay/N bày_tỏ/V sự/N tri_ân/V với/E các/L bậc/N tiền_nhân/N và/CC cũng/R để/E nhắc_nhở/V con_cháu/N hậu_duệ/A những/L thế_hệ/N nối_tiếp/V sự_nghiệp/N đời/N xưa/A tiếp_tục/V gây_dựng/V truyền_thống/A trong/E cuộc_sống/N ngày/N hôm_nay/N 
+Ông/Nc Nguyễn_Quý_Hồng/Np Trưởng_Đại/Np diện/N dòng_họ/N Nguyễn_Quý/Np đã/R trân_trọng/V cảm_ơn/V các/L lãnh_đạo/N Đảng/N Nhà_nước/N cùng/A quan_khách/N đã/R gửi/V hoa/N và/CC tham_dự/V Lễ_Tưởng/Np niệm/V 250/M năm/N ngày/N mất/V và/CC Trao_Tượng/Np đồng/Nu danh_nhân/N Nguyễn_Quý_Kính/Np 
+Tiếp/V ngay/R sau/N Lễ_Trao_Tượng/Np đồng/N là/V Lễ/N rước/V Tượng/N và/CC an_vị/V Tượng/N tại/E Từ_đường/N dòng_họ/N Nguyễn_Quý/Np ở/E Đại_Mỗ/Np Từ_Liêm/Np Hà_Nội/Np )/A 
+Dòng_họ/N Nguyễn_Quý/Np là/V một/M trong/E những/L dòng_họ/N có/V nhiều/A đời/N nối/V nhau/N làm/V quan/N và/CC đóng_góp/V rất/R lớn/A đối_với/E sự/Nc phát_triển/V của/E đất_nước/N trên/E nhiều/A lĩnh_vực/N chính_trị/N kinh_tế/N văn_hóa/N giáo_dục/N …/V Tiêu_biểu/A là/C gia_đình/N Nguyễn_Quý_Đức/Np ba/M đời/N kế_tiếp/V nhau/N đỗ_đạt/V cao/A và/CC đều/R trở_thành/V trụ_cột/N của/E triều_đình/N là/V những/L danh_nhân/N danh_thần/N 
+Cả/P ba/M cha_con/N ông/N cháu/N đều/R được/V truy_phong/V Đại_vương/N và/CC Phúc_thần/N 
+Cha/N là/V Nguyễn_Quý_Đức/Np 1648-1720/M đỗ/V Thám_hoa/N khoa/N thi/V năm/N Bính_Thìn/Np niên_hiệu/V Vĩnh_Trị/Np thứ/N nhất/M 1676/M 
+Con/N là/V Nguyễn_Quý_Ân/Np 1673-1722/M đỗ/V Hoàng_giáp/N khoa/N thi/V năm/N Ất/M Mùi/N niên_hiệu/N Vĩnh_Thịnh/Np thứ/N 11/M 1715/M 
+Cháu/N là/V Nguyễn_Quý_Kính/Np 1693-1766/M đỗ/V Hương_cống/N làm/V đến/E Tham_tụng/N Thượng_thư/N bộ/N Lễ/N 
+Cụ/N Nguyễn_Quý_Kính/Np tự/P là/V Thức_Khâm/Np thụy/N là/V Trung_Liệt/Np 
+Năm_22/M tuổi/N 1714/M cụ/N thi/V đỗ/V Hương_cống/N được/V tuyển/V vào/E Thị/Np nội/N văn/N chức/N rồi/C thăng/V Lễ/N bộ/N lang/N trung/N thời/N vua/N Lê_Dụ_Tông/Np 
+Năm_1732/M thời/N vua/N Lê_Thuần_Tông/Np cụ/N được/V thăng/V chức/N Thái/Np bộc/V tự/P khanh/V Thanh_Hoa/Np sứ/V năm/N sau/A làm/V Thị/N giảng/N rèn/V dạy/V em/N chúa/N Trịnh_Giang/Np là/V Trịnh_Doanh/Np 
+Năm_1734/M thụ/N chức/N Thái/Np thường/R tự/P khanh/V Thiêm/Np sau/A Thị/Np nội/N Thư/Np tả/V Hộ/N phiên/N 
+Năm_1738/M thời/N vua/N Lê/Np Ý_Tông/Np cụ/N lĩnh/V chức/N Bồi/V tụng/N Công/N bộ/N hữu/V thị_lang/A năm/N sau/A thăng/V Lại/R bộ/N Hữu/Np thị_lang/V 
+Minh_Đô/Np vương/V Trịnh_Doanh/Np lên_ngôi/V chúa/N thay/V Trịnh_Giang/Np phần_lớn/N là/V nhờ/V sự/Nc quyết_đoán/A và/CC mưu_trí/A của/E cụ/N Nguyễn_Quý_Kính/Np 
+Năm_1740/M cụ/N bàn/V với/E Trịnh_Doanh/Np khuyên/V Lê/Np Ý_Tông/Np thoái_vị/V làm/V Thái_Thượng/Np hoàng/V lui/V về/R ở/E điện/N Kiền_Thọ/Np truyền/V ngôi/N lại/R cho/E Hoàng/Np điệt/V là/V Duy_Diêu/Np Tức_Lê_Hiển_Tông/Np 
+Trịnh_Doanh/Np làm/V theo/E lời/N cụ/N Duy_Diêu/Np lên_ngôi/V Hoàng_đế/N lấy/V niên_hiệu/N là/V Cảnh/N hưng/V 
+Lòng/N dân/N trong/E nước/N được/V yên_vui/V 
+Trịnh_Doanh/Np lên_ngôi/V Chúa/Np đã/R phải/V đem/V quân/N đi/V đánh/V dẹp/V các/L cuộc/N nổi_loạn/V 
+Cụ/N Nguyễn_Quý_Kính/Np ở/E nhà/N lưu/V thủ/V kinh_thành/N đốc/N xuất/V đinh/N phu/N phụ_nữ/N dong/V cờ/N đánh/V trống/A làm/V kế/N nghi_binh/N 
+Quân_Ninh_Xá/Np nghĩ/V trong/E kinh_thành/N phòng_thủ/V chắc_chắn/A nên/C tức_tốc/R rút/V binh/N 
+Năm_Cảnh/Np hưng/V thứ/N 18/M (/Nu 1757/M cụ/N 75/M tuổi/N 
+Sau/E nhiều/A lần/N dâng/V khải/N xin/V về/V trí_sĩ/N cụ/N mới/R được/V vua_chúa/V chấp_thuận/V và/CC xếp/V vào/E hàng/N Quốc/Np lão/N tham_dự/V triều_chính/N được/V cấp/V kiệu/N Hậu/N bình/N xe/N ngựa/N và/CC một/M đội/N cơ/N binh/N 500/M người/N đưa/V về/R tận/E làng/N 
+Năm_1758/M vua_chúa/V lại/R tuyên/V triệu/N khởi/V phục/V xếp/V cụ/N vào/E bậc/N ngũ/N lão/N ở/E luôn/R Tư_Đệ/Np tại/E kinh_đô/N 
+Năm_1761/M cụ/N xây/V miếu/N Thái_Sơn_Bắc_Đẩu/Np bên/N bờ/N Tùng_Khê/Np nay/P thuộc/V thôn/N Phú_Thứ/Np xã/N Tây_Mỗ/Np để/E nghỉ_ngơi/V 
+Từ/E năm_1762/N vua_chúa/N thường/R cùng/A cụ/N về/V quê/N và/CC ngự/V bút/N ban/N cho/E cụ/N 4/M chữ/N đại_tự/N Kiều/Np mộc/A đại_xa/N 
+Cụ/N mất/V vào/E năm/N Bính_Tuất/Np 1766/M hưởng_thọ/N 74/M tuổi/N 
+Được/V tin/N vua_chúa/N về/V dự/V tang/N khóc/V rằng/C Thầy/N ôi/A 
+Công/N thầy/N mở/V nước/N cho/E tôi/P và/CC lạy/V trước/E linh/N tọa/V 
+Triều_đình/N còn/R cấp/V hai_mươi/N nghìn/N quan_tiền/N để/E quan/N Lễ/N phiên/N ở/V lại/R trông_nom/V việc/N tế_lễ/V cho/E trọn/A 3/M năm/N đồng_thời/R sắc/V cho/E cả/P xã/N trong/E tổng/N thờ/V cụ/N làm/V thành_hoàng/N làng/N 
+Một_số/L hình_ảnh/N tại/E Lễ_Tưởng/Np niệm/V và/CC Trao_Tượng/Np đồng/Nu danh_nhân/N Nguyễn_Quý_Kính_Phương_Nhung/Np 

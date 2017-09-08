@@ -1,0 +1,17 @@
+Cảnh_giác/V bệnh/N viêm/N não/N vào/E mùa/N nguy_hiểm/N
+Bệnh/N viêm/N não/N thường/A xảy/V ra/R thành/V dịch/N vào/E các/L tháng/N 5/M 6/M 7/M gặp/N nhiều/A nhất/A ở/V trẻ_em/N từ/E 28/M tuổi/N đến/V 1012/M tuổi/N
+Theo/E số_liệu/N ghi_nhận/V tại/E Bệnh_viện/N Nhi_đồng/N TP/Np Cần_Thơ/Np từ/E đầu/N năm/N 2017/M đến/N nay/P số/N ca/N viêm/V não/N nhập_viện/V lên/V đến/R 30/M trường_hợp/N trong/N đó/P nhiều/A ca/N không/R xác_định/V được/R loại/N virút/N viêm/N não/N nào/P
+Tại/E khoa/N hồi_sức/N tích_cực/N chống/V độc/N Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np vừa/R điều_trị/V một/M bệnh_nhi/N viêm/N não/N Nhật_Bản/Np rất/R nặng/A
+Bệnh_nhi/N VT/Np
+12/M tuổi/N ở/E xã/N Đông_Phú/Np huyện/N Châu_Thành/Np Hậu_Giang/Np vào/V viện/N sốt/V ngày/N thứ/N 3/M trước/N đó/P tại/V nhà/N bé/N sốt/V cao/N liên_tục/A 2/M ngày/N uống/V thuốc/N hạ/V sốt/N không/N giảm/V
+Khi/N nhập_viện/N bé/N đã/R ở/V tình_trạng/N tiếp_xúc/V chậm/N sốt/V 400C/N bác_sĩ/N điều_trị/N chẩn_đoán/N sốt/V siêu_vi/N nghi_ngờ/V viêm/N não/N
+Sau/E khi/N có/V kết_quả/N xét_nghiệm/N công_thức/N máu/N chọc/N dò/V dịch/N não/N tuỷ/N kết_quả/N chẩn_đoán/N bệnh_nhi/A bị/V viêm/N não/N
+Diễn_biến/V bệnh/N ngày_càng/N nặng/A bệnh_nhi/N lơ_mơ/N co/V gồng/N thở/V dồn_dập/A được/V đặt/V nội/N khí_quản/N và/CC thở/V máy/N
+Sau/E đó/P bệnh_nhi/A có/V kết_quả/N xét_nghiệm/V máu/N từ/E Viện_Pasteur/Np xác_định/V viêm/N não/N Nhật_Bản/Np tiên_lượng/V bệnh/N rất/N nặng/A
+Bác/N sĩ/N Hà_Anh_Tuấn/Np trưởng/N khoa/N hồi_sức/N tích_cực/N chống/V độc/N Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np cho/V biết/V viêm/N não/N là/V bệnh/N nhiễm_khuẩn/N cấp_tính/N hệ/N thần_kinh_trung_ương/N chủ_yếu/A do/E virút/N gây/V ra/R
+Các/L virút/N thường/R gây/V viêm/N não/N ở/E trẻ_em/N là/V viêm/N não/N Nhật_Bản/Np Enterovirus/Np Herpes/Np simplex/V
+Bệnh/N có_thể/A lây/V qua/V đường/N muỗi/N đốt/V viêm/N não/N Nhật_Bản/Np đường/N hô_hấp/N Herpes/Np hoặc/N đường/N tiêu_hoá/N Enterovirus/Np
+Điều/N nguy_hiểm/A là/V viêm/N na/N ̃/V o/N Nhâ/Np ̣/V t/N Ba/Np ̉/V n/N không/R có/V triệu_chứng/N dưới/N 1/M số/N người/N bị/V bệnh/N này/P có/V biểu_hiện/N lâm_sàng/N
+Triệu_chứng/N ban_đầu/N thường/R bao_gồm/V sốt/V cao/N đột_ngột/A và/CC liên_tục/A đau_đầu/V buồn_nôn/N nôn_mửa/N
+Hiện_nay/N đang/R vào/V mùa/N dịch_bệnh/V viêm/N não/N rất/R khó/A phân_biệt/V rõ_ràng/N các/L loại/N viêm/N não/N bệnh/N có/V tỉ_lệ/N tử_vong/N cao/A nếu/C sống/V cũng/R để/V lại/R rất/R nhiều/A di_chứng/N về/V sau/N
+Vì_vậy/C việc/N phòng_bệnh/V là/V hết_sức/N cần_thiết/A các/L gia_đình/N nên/C đưa/V trẻ/N đi/V tiêm/V phòng/N văcxin/V các/L loại/N viêm/N não/N thường/R gặp/V đề/N phòng/N muỗi/N đốt/V

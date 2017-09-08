@@ -1,0 +1,18 @@
+Chàng_trai/N Hà_Tĩnh/Np giành/V 30/M điểm/N khối/N A/N
+Nguyễn_Quang_Dũng/Np học_sinh/N trường/N THPT/Np chuyên/A Hà_Tĩnh/Np đang/R là/V thí_sinh/N dẫn_đầu/V cả/P nước/N về/V điểm/N xét/V tuyển/V khối/N A/N với/E số/N điểm/N tuyệt_đối/A 3/M môn/N Toán/Np Lý/Np Hóa/Np
+Ngoài_ra/C môn/N Ngữ_văn/N em/N được/V 6/M tiếng/N Anh/Np 7,2/M và/CC Sinh_học/N 8,75/M
+Dáng/N người/N cao/A nước_da/N ngăm/N đen/A khuôn_mặt/N sáng/N Dũng/Np cười/V hiền/A tâm_sự/V khi/N biết/V kết_quả/N em/N cũng/R không/R quá/R bất_ngờ/A bởi/E từ/E lúc/N làm/V bài/N thi/V xong/V đã/R dự_đoán/N sẽ/R đạt/V điểm/N tuyệt_đối/A
+Sinh_ra/V trong/E gia_đình/N công_chức/N bố_mẹ/N làm/V giáo_viên/N ngay/T từ/E nhỏ/N Dũng/Np đã/R được/V định_hướng/V theo/V học/V các/L môn/N chuyên/A về/E khối/N A/N đặc_biệt/A học/V tốt/A và/CC đam_mê/V môn/N Vật_lý/N
+Em/N bị/V cuốn_hút/V bởi/E các/L định_luật/N Vật_lý/N học/V một_cách/N say_sưa/A mà/C không_bao_giờ/N chán/V Dũng/Np nói/V
+Vì_thế/C em/N từng/R đạt/V giải/N nhất/A kỳ/N thi/V học_sinh/N giỏi/A tỉnh/N môn/N Vật_lý/N năm/N lớp/N 10/M năm/N lớp/N 11/M và/CC 12/M lần_lượt/R đạt/V giải/N khuyến_khích/V giải/V 3/M
+Nam_sinh/N chia_sẻ/V để/E đạt/V kết_quả/N cao/A trong/E kỳ/N thi/V THPT/Np quốc_gia/N em/N chỉ/R học/V ở/E trường/N rồi/C về/V nhà/N luyện/V đề/N trên/E mạng/N
+Những/L bài/N nào/P quá/R khó/A em/N thường/R trao_đổi/V với/E thầy_giáo/N chủ_nhiệm/N và/CC các/L bạn/N để/E cùng/A tìm/V ra/R đáp_án/N
+Em/N học/V không/R có/V quy_tắc/N học/V nào/P cả/T thời_gian/N ôn_luyện/V cũng/R không/R cố_định/V
+Những/L lúc/N tâm_lý/N thoải_mái/A thì/C em/N ngồi/V học/V còn/C khi/N căng_thẳng/A em/N chơi/V bóng_chuyền/N bóng_bàn/N
+Nó/P giúp/V rèn_luyện/N bản_thân/N và/CC minh_mẫn/A đầu_óc/N Dũng/Np nói/V
+Dù/C đạt/V điểm/N tuyệt_đối/A khối/N A/N chàng_trai/N quê/N Hà_Tĩnh/Np vẫn/R khá/R dè_dặt/A trong/E việc/N lựa_chọn/V trường/N đại_học/N để/E nộp/V hồ_sơ/N
+Dũng/Np từng/R định/V học/V ngành/N thiên/N về/E nghiên_cứu/V khoa_học/N song/C vẫn/R đang/R có/V nhiều/A hướng/N suy_nghĩ/V
+Thời_gian/N tới/V em/N và/CC mọi/L người/N trong/E gia_đình/N sẽ/R cùng/A bàn_bạc/V để/E đưa/V ra/R quyết_định/N
+Thầy_Trần_Việt_Hùng/X giáo_viên/N Vật_lý/N đánh_giá/V Dũng/Np thông_minh/A khiêm_tốn/A ý_thức/N tự/P học/V rất/R cao/A
+Với/E những/L bài/N Vật_lý/N khó/A Dũng/Np luôn/R tự/P mày_mò/V và/CC đưa/V ra/R những/L lời_giải/N rất/R hay/A
+Môn_Vật/Np lý/N rất/R ít/A học_sinh/N đạt/V điểm/N tuyệt_đối/A 8/M năm/N trở_lại/V đây/P Dũng/Np là/V thí_sinh/N duy_nhất/A của/E trường/N đạt/V điểm/N 10/M thầy/N Hùng/Np nói/V

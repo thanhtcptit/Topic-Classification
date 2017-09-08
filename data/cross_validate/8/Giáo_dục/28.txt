@@ -1,0 +1,11 @@
+Thanh_Hoá/Np bác/N tin_đồn/N đã/R có/V điểm/N thi/V THPT/Np quốc_gia/N
+Chiều/N 306/M trên/N một_số/N diễn_đàn/N mạng/N xuất_hiện/V đường_dẫn/N link/V chia_sẻ/V về/E việc/N truy_cập/V tra_cứu/V điểm/N thi/V THPT/Np quốc_gia/N đã/R có_thể/A thực_hiện/V với/E thí_sinh/N thi/V tại/N Thanh_Hoá/Np
+Tuy_nhiên/C khi/N đăng_nhập/V vào/E các/L đường_dẫn/N này/P thí_sinh/V hoàn_toàn/A không/R thu_nhận/V được/R thông_tin/V kết_quả/N thi/V như/A giới_thiệu/V
+Dù/C không/R ai/P truy_cập/V được/R điểm/V thi/V nhưng/C tốc_độ/N lan_truyền/V của/E đường/N link/N vẫn/R chóng_mặt/V
+Nhiều/A thí_sinh/N không/R tra_cứu/V điểm/N được/V lại/R nghi_ngờ/V do/E nghẽn/N mạng/N chưa/R truy_cập/V được/R ngay/R nên/V tiếp_tục/N chờ_đợi/V và/CC truy_cập/V lại/V liên_tục/A
+Trao_đổi/V với/E Tuổi_Trẻ/N ông/N Dương_Đình_Hoán/Np quyền/N trưởng_phòng/N Khảo_thí/N và/CC Kiểm_định/N chất_lượng/N giáo_dục/N Sở/N GD/Np ĐT/N Thanh_Hoá/Np khẳng_định/V thông_tin/N lan_truyền/V rằng/N Sở/N GD/Np ĐT/Np Thanh_Hoá/Np đã/R công_bố/V điểm/N thi/V THPT/Np quốc_gia/N 2017/M là/V tin_đồn/N thất_thiệt/N
+Hiện_tại/N Ban/N chấm/V thi/N của/E Thanh_Hoá/Np mới/R hoàn_thành/V ngày/N thứ/N hai_chấm/N bài/N thi/V tự/N luận/V
+Còn/C bài/N trắc_nghiệm/N thì/C hiện/N chưa/R bắt_đầu/V chấm/V do/E chưa/N hoàn_tất/V các/L quy_trình/N để/E chuyển/V dữ/N liệu/V bài/N thi/V gốc/N về/V Bộ/Np GDĐT/N
+Với/E tiến_độ/N như/C vậy/P dự_kiến/V phải/V đến/R ngày/N 67/M Sở/N GD/Np ĐT/Np Thanh_Hoá/Np mới/R có_thể/A công_bố/V kết_quả/N thi/V THPT/Np quốc_gia/N ông/N Hoán/Np nói/V
+Năm/N 2017/M Ban/N chấm/V thi/V THPT/Np quốc_gia/N tại/E Thanh_Hoá/Np sẽ/R phải/V chấm/V hơn/R 100000/M bài/N trắc_nghiệm/N
+Với/E bài/N thi/N tự/V luận/V ngữ_văn/N sở/N đã/R huy_động/V đến/V 170/M giáo_viên/N tham_gia/V chấm/V bài/N chia/V làm/N 4/M tổ/N chấm/V

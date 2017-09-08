@@ -1,0 +1,15 @@
+Kiến_nghị/N khoá/N IMEI/Np điện_thoại/N bị/V mất_cắp/V
+Trong/E trường_hợp/N không/R nhớ/V không/R biết/V số/N IMEI/Np của/E thiết_bị/N thì/C cung_cấp/V các/L số/N điện_thoại/N được/V gọi/V gần/A nhất/A để/E cơ_quan/N cảnh_sát/N điều_tra/V tìm_kiếm/V số/N IMEI/Np của/N thiết_bị/N
+Đồng_thời/N người/N dân/N phải/V cam_kết/V mình/N là/V chủ_sở_hữu/N thiết_bị/N di_động/N và/CC chịu/V trách_nhiệm/N trước/E pháp_luật/N về/V cam_kết/N này/P
+Sau/E khi/N xác_thực/N IMEI/Np của/E thiết_bị/N di_động/N đã/R bị/V mất/V cơ_quan/N cảnh_sát/N điều_tra/V sẽ/R tập/V hợp_thành/V danh_sách/N và/CC yêu_cầu/V các/L doanh_nghiệp/N viễn_thông/N di_động/V chặn/V dịch_vụ/N nghe/V gọi/V 3G/N từ/E các/L thiết_bị/N này/P
+Trong/E trường_hợp/N người/N dân/N tìm/V lại/R được/V thiết_bị/N IMEI/Np sẽ/R được/V xoá/V khỏi/V danh_sách/N và/CC thiết_bị/N được/R sử_dụng/V bình_thường/A
+Ông/Nc Cường/Np nhìn_nhận/V đây/P là/V một/M giải_pháp/N khả_thi/A và/CC được/V các/L nước/N như/C Mỹ/Np Anh/Np Pháp/Np Ấn_Độ/Np Úc/Np
+thực_hiện/V để/E ngăn_chặn/V tội_phạm/N trộm_cắp/N thiết_bị/N di_động/N
+Tuy_nhiên/C sẽ/R có/V một_số/N khó_khăn/A khi/N áp_dụng/V phương_pháp/N chặn/V IMEI/Np như/A về/V mặt/N pháp_lí/N Luật/Np viễn_thông/V và/CC các/L nghị_định/N hướng_dẫn/V chỉ/R quy_định/N doanh_nghiệp/N viễn_thông/N quản/N lí_số/N thuê_bao/N di_động/N SIM/Np chưa/R quy_định/N người/N sử_dụng/V thiết_bị/N di_động/N phải/V khai_báo/V IMEI/Np máy/N để/E doanh_nghiệp/N định_danh/N thiết_bị/N trước/E khi/N cung_cấp/V SIM/Np cũng/R như/A chưa/R quy_định/N doanh_nghiệp/N viễn_thông/N được/V phép/N ngăn_chặn/V IMEI/Np vô_hiệu_hoá/N thiết_bị/N di_động/V như/C các/L nước/N trên/E thế_giới/N đã/R làm/V
+Về/E mặt/N kĩ_thuật/N hiện_nay/N các/L thiết_bị/N di_động/N sử_dụng/V hệ_điều_hành/N Android/Np có_thể/R thay_đổi/V số/N IMEI/Np can_thiệp/V vào/E phần_cứng/N để/E thay_đổi/V và/N còn/R có/V trường_hợp/N trùng/V số/N IMEI/Np trên/E các/L dòng/N điện_thoại/N giá/N rẻ/A Trung_Quốc/Np
+Bên_cạnh/N đó/P viễn_thông/N Internet/Np hiện/N không/R có/V giới_hạn/N biên_giới/N địa_giới/N hành_chính/N nên/C không_thể/N chỉ_thực/V hiện_tại/N riêng/A TPHCM/Np
+Do_vậy/C Sở/N Thông_tin/N truyền_thông/N TPHCM/Np phối_hợp/V với/E Công_an/N TPHCM/Np sẽ/R kiến_nghị/V Bộ/N Thông_tin/N truyền_thông/N Bộ/N Công_an/N ban_hành/V thông_tư/N liên_tịch/V hoặc/N quyết_định/N liên_quan/V cho/V phép/N triển_khai/V phương_án/N kĩ_thuật/N ngăn_chặn/V IMEI/Np thiết_bị/N di_động/V
+Từ_căn/N cứ/R pháp_lí/V đó/P các/L tập_đoàn/N doanh_nghiệp/N viễn_thông/N thực_hiện/V đồng_loạt/N đồng_bộ/A trên/E cả/A nước/N phương_án/N này/P
+Số/N IMEI/Np là/V số/N nhận_dạng/N thiết_bị/N di_động/V trên/E toàn/N thế_giới/N là/V một/M dãy/Nc số/N gồm/V 15/M số/N chứa/V thông_tin/N xuất_xứ/N kiểu_mẫu/N và/CC số/N xêri/N của/E một/M thiết_bị/N di_động/N
+Số/N IMEI/Np thường/R được/V in/V trên/E tem/N máy/N nằm/V phía/N dưới/N pin/N
+Người_dùng/N có_thể/R bấm/V 06/M để/E số/N IMEI/Np hiện/V ra/R trên/E màn_hình/N điện_thoại_di_động/N

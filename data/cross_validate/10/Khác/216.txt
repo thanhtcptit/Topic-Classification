@@ -1,0 +1,11 @@
+Thiết_bị/N cảnh_báo/N co_giật/N động_kinh/N của/E nữ_sinh/N lớp/N 11/M
+Thiết_bị/N có/V hình_dạng/N đồng_hồ/N đeo/V tay/N gắn/V bốn/M cảm_biến/N cảm_biến/N điện/N da/N đeo/V vào/E hai/M ngón/N tay/N cảm_biến/N nhiệt/N hồng_ngoại/N ở/V tai/N cảm_biến/N nhịp/N tim/N giúp/V cảnh_báo/N co_giật/N động_kinh/N
+Hai/M nữ_sinh/N Trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np TPHCM/Np đã/R nghiên_cứu/V và/CC phát_triển/V thiết_bị/N cảnh_báo/N sớm/N cơn/N co_giật/N động_kinh/N dựa/V trên/E tín_hiệu/N điện/N da/N EDA/Np
+Đó/P là/V bạn/N Dương_Nguyễn_Minh_Anh/Np và/CC Nguyễn_Thị_Kim_Ngân/Np cùng/C học/V lớp/N 11A1/M
+Sản_phẩm/N đoạt/V giải/N nhất/N bảng/N C/Np cuộc/N thi/V Sáng_tạo/V thanh/N thiếu_nhi/N TPHCM/Np năm/N 2017/M do/N Trung_tâm/N Phát_triển/V khoa_học/N và/CC công_nghệ/N trẻ/N tổ_chức/V
+Qua/E năm_tháng/N mày_mò/N hai/M nữ_sinh/N đã/R nhờ/V sự/N tư_vấn/V từ/E bác_sĩ/N giảng_viên/N sinh_viên/N Trường/N ĐH/N Bách_khoa/N ĐHQG/N TPHCM/Np và/CC đàn_anh/N tại/E trường/N để/V hoàn_thành/V ý_tưởng/N
+Thiết_bị/N có/V hình_dạng/N đồng_hồ/N đeo/V tay/N mang/V theo/V bốn/M cảm_biến/N cảm_biến/N điện/N da/N đeo/V vào/E hai/M ngón/N tay/N cảm_biến/N nhiệt/N hồng_ngoại/N ở/V tai/N cảm_biến/N nhịp/N tim/N
+Hai/M nữ_sinh/N viết/V thuật_toán/N phát_hiện/V co_giật/N để/E lập_trình/V trên/N bo_mạch/N Arduino/Np ưu_tiên/A thông_số/N điện/N da/N và/CC nhịp/N tim/N điện/N da/N và/CC nhiệt_độ/N
+Nhận/V thông_số/N sinh_học/N từ/E cơ_thể/N người/N thiết_bị/N gửi/V dữ_liệu/N về/V phần_mềm/N trên/N điện_thoại_thông_minh/N qua/V sóng/N bluetooth/N và/CC đổ/V chuông/N cảnh_báo/V
+Hạn_chế/V của/E thiết_bị/N hiện_tại/N là/V chỉ/N đánh_giá/V trên/E một/M ngưỡng/N cố_định/A trong/E khi/N thông_số/N sinh_học/N mỗi/M người/N khác/A nhau/N độ/N tuổi/N giới_tính/N tình_trạng/N sức_khoẻ/N
+Phương_pháp/N máy/N học/V trong/E trí_tuệ_nhân_tạo/N là/V tương_lai/N của/E thiết_bị/N này/P giúp/V thiết_bị/N học/N và/CC hiểu/V từng/N người_dùng/N cụ_thể/A Kim_Ngân/Np nói/V thêm/V

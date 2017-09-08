@@ -1,0 +1,11 @@
+Tạo/V pin_năng_lượng_mặt_trời/N bằng/E vật_liệu/N mới/R
+Vật_liệu/N mới/R là/V một/M hợp_chất/N bao_gồm/V vonfam/N và/CC gốm/N có_thể/R được/V sử_dụng/V để/E tạo/V ra/R máy/N phát/V nhiệt/N chịu_nhiệt/V với/E khả_năng/N duy_trì/V nhiệt_độ/N ổn_định/A ở/E mức/N 1 0/M độ/N C/Np Phát_hiện/V này/P tạo/V ra/R một/M kỷ_lục/N về/E hiệu_suất/N ổn_định/V nhiệt/N và/CC là/V một/M bước_tiến/N lớn/A trong/E lĩnh_vực/N quang/N nhiệt_điện/N Shanhui_Fan/Np giáo_sư/N kỹ_thuật/N điện/N của/E Đại_học/N Stanford/Np cho_biết/V
+Một/M pin_năng_lượng_mặt_trời/N thông_thường/A gồm/V chất_bán_dẫn/N silicon/N có_thể/A hấp_thụ/V ánh_sáng/N mặt_trời/N và/CC chuyển_đổi/V trực_tiếp/A thành/V năng_lượng/N điện/N
+Tuy_nhiên/C chúng/P không/R hoàn_toàn/A hiệu_quả/N và/CC chỉ/R phản_ứng/V với/E ánh_sáng/N hồng_ngoại/N
+Sóng/N ánh_sáng/N năng_lượng/N cao/A hơn/A bao_gồm/V phần_lớn/N quang_phổ/V ánh_sáng/N có_thể/R nhìn/V thấy/V được/R sẽ/R bị/V lãng_phí/V như/C nhiệt/N trong/E khi/N đó/P sóng/N ánh_sáng/N năng_lượng/N thấp/A hơn/R chỉ/R đơn_giản/A đi/V qua/E các/L tấm/N điều_khiển/V năng_lượng/N mặt_trời/N
+Về/V cơ_bản/A các/L nhà_nghiên_cứu/N biến_đổi/V ánh_sáng/N thành/V bước_sóng/N ngắn/A hơn/A để/E truyền/V tế_bào/N năng_lượng/N mặt_trời/N
+Điều/N này/P làm/V tăng/V hiệu_quả/N về/E mặt/N lý_thuyết/N của/E pin/N mặt_trời/N đến/E 80%/M  /EOS
+Theo/E Paul_Braun/Np giáo_sư/N khoa_học/N vật_liệu/N tại/E Illinois/Np đồng_tác_giả/N nghiên_cứu/V cho_biết/V về/E mặt/N lý_thuyết/N các/L pin_năng_lượng_mặt_trời/N một/M mối/N nối/V chỉ/R có_thể/R đạt/V được/R 34%/M hiệu_quả/N nhưng/C trên/E thực_tế/N thì/C không/R đạt/V được/R mức_độ/N này/P bởi/E chúng/P mất/V phần_lớn/N năng_lượng/N mặt_trời/N trong/E quá_trình/N chuyển_đổi/V
+Do_đó/C nhóm/N nghiên_cứu/V cố_gắng/V khắc_phục/V hạn_chế/V này/P bằng/E quá_trình/N quang/V nhiệt_điện/N và/CC một/M máy/N nhiệt/N phát/V chịu_nhiệt/N đặc_biệt/A
+Việc/N chuyển_đổi/V nhiệt_năng/N thành/V ánh_sáng/N hồng_ngoại/N cho_phép/V các/L pin_năng_lượng_mặt_trời/N hấp_thụ/V và/CC tạo/V ra/R điện/N hay/C còn/R gọi_là/X quang/V nhiệt_điện/N
+Trước_đây/N các/L nhà_khoa_học/N từng/R cố_gắng/V thiết_kế/V một/M hệ_thống/N quang/N nhiệt_điện/N nhưng/C không/R thành_công/V

@@ -1,0 +1,10 @@
+Tiến_sĩ/N Australia/Np cấm/V 6/M đứa/Nc con/N làm/V bài_tập/V về/V nhà/N
+Tiến_sĩ/N  /M Justin_Coulson/Np một/M trong/E những/L chuyên_gia/N về/V hướng_dẫn/V làm/V cha_mẹ/N hàng_đầu/N ở/E Australia/Np đồng_thời/R là/V cha/N của/E 6/M đứa/Nc con/N giải_thích/V rằng/C ông/N không/R thấy/V bằng_chứng/N khoa_học/N nào/P cho/V thấy/V làm/V bài_tập/V về/E nhà/N có_thể/R hữu_ích/A cho/E bọn/Nc trẻ/N và/CC rằng/C chúng/P có_thể/R thậm_chí/R gây/V stress/V cho/E các/L con/N  /M Thật/R ngạc_nhiên/V với/E nhiều/A cha_mẹ/N và/CC cả/P giáo_viên/N rằng/C ngày_càng/X nhiều/A số_liệu/N cho/V thấy/V bài_tập/V về/E nhà_ở/N lứa/N tuổi/N tiểu_học/N là/V vô/V tác_dụng/N và/CC thậm_chí/R có/V ảnh_hưởng/V tiêu_cực/A đến/E kết_quả/N học_tập/V của/E chúng/P ông/N giải_thích/V trên/E blog/N cá_nhân/N
+Đó/P là/V chưa/R kể/V loại/Nc công_việc/N này/P gây/V sức_ép/N lên/V giáo_viên/N và/CC từ/E đó/P tạo/V ra/R căng_thẳng/A ngược_lại/C cho/E lũ/N trẻ/A theo/V vị/N chuyên_gia/N
+Kết_quả/N là/V tôi/P thực_sự/A đã/R cấm/V các/L con/N đụng/V đến/E vở/N bài_tập/V về/V nhà/N trước/E khi/N vào/V trung_học/N ông/N nói/V trên/E tờ/N  /M news/N
+Một_số/L nghiên_cứu/N cũng/R từng/R tìm/V ra/R mối/N liên_hệ/V trực_tiếp/A giữa/E bài_tập/N về/V nhà/N và/CC sự/Nc trầm_cảm/V lo_lắng/V ở/E trẻ/N
+Bài_tập/V về/E nhà/N cũng/R gây/V xung_đột/V trong/E gia_đình/N và/CC vắt/V kiệt/V thời_gian/N trẻ/A có_thể/R dùng/V cho/E các/L hoạt_động/N khác/A  /M Tiến_sĩ/N cho/V rằng/C trẻ/N sẽ/R thích_nghi/V tốt/A hơn/R khi/N được/V 14-15/M tuổi/N mà/C không/R cần/V 8/M năm/N cặm_cụi/V làm/V bài_tập/V về/E nhà/N như/C hiện_nay/N  /EOS
+Tuy_vậy/C ông/Nc bố/N này/P cho/V rằng/C để/E trẻ/A đọc/V sách/N ở/E nhà/N trước/E khi/N đi/V ngủ/V lại/R vô_cùng/R hữu_ích/A trẻ/N cần/V đọc/V to/A đọc/V chậm/A các/L vấn_đề/N lên/V
+Ngừng/V lại/R và/CC trao_đổi/V về/E nội_dung/N những/L điều/N đã/R đọc/V
+Khiến/V việc/N đọc/V với/E trẻ/N trở_nên/V thú_vị/A và/CC đọc/V những/L sách/N trẻ/A thực/V yêu_thích/V  /EOS
+T/Np

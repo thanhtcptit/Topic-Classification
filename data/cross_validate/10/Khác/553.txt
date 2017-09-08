@@ -1,0 +1,11 @@
+Nhà_Xinh/Np khai_trương/V cửa_hàng/N thứ/N 8/M tại/E Hà_Nội/Np
+/M Nguồn/N Nhà_Xinh/Np /M Tòa/N nhà/N F4/Np KĐT/Np Yên_Hòa/Np Đường_Trung_Kính/Np quận/N Cầu_Giấy/Np
+/M 1000/M m2/Nu /M
+ĐT/Np /M 84 M /N 3782/M 1761/M L4-04/M Tầng/N 4/M TTTM/Np Vincom_Center/Np 54/M Nguyễn_Chí_Thanh/Np Đống_Đa/Np
+/A 700/M m2/Nu /M
+ĐT/Np /M 84 M /N 3761/M 7666/M |/M Tòa/N nhà/N E1/Np Chung_cư/N Rừng_Cọ/Np KĐT/Np Ecopark/Np Hưng_Yên/Np /A 300/M m2/Nu /M
+ĐT/Np /M 84/M 4/M /Nu 6262/M 0739/M Số/N 6/M Lê_Thánh_Tông/Np Q/Np
+Hoàn_Kiếm/Np
+ĐT/Np /M 84 M /N 3716/M 1161/M //X 3715/M 1151/M Số/N 12/M Tôn_Đức_Thắng/Np Q/Np
+Đống_Đa/Np
+Số/N ĐT/Np /M 84/M

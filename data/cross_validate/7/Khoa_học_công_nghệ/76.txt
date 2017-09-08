@@ -1,0 +1,8 @@
+Tai/N nghe/V biến/N tiếng/N ồn/N thành/V tiếng/N sóng/N biển/N suối/N róc_rách/A
+Hush/N hay/A còn/V gọi_là/N mặt_nạ/N của/E tiếng/N ồn/N sở_hữu/V công_nghệ/N biến/V tiếng/N ồn/N bên/N ngoài/N tai/N nghe/V thành/V một/M âm_thanh/N dễ_chịu/A nhẹ_nhàng/N hoặc/N biến/V mất/V hoàn_toàn/N
+Ví_dụ/N như/A sóng/N biển/N mưa/V tiếng/N hò_reo/V tiếng/N cháy/V nổ/V suối/N róc_rách/N cơn/N bão/N và/CC cả/P tiếng/N ngáy/V
+Mỗi/L bên/N tai/N nghe/V đều/R có/V bộ/N điều_khiển/N âm_lượng/N to_nhỏ/N khác/A nhau/N và/CC pin/V lên/V đến/R 10/M tiếng/N
+Ưu_điểm/N mà/C Hush/Np mang/V đến/R là/V Binaural/Np beats/V có_thể/V phát/V theo/V nhịp/N nghe/V của/E tai/N Binaural/Np beats/A là/V âm_thanh/N giúp/V con_người/N tập_trung/V thiền_định/N thư_giãn/N tăng/V sức/N sáng_tạo/V ổn_định/N thần_kinh/N và/CC đưa/V con_người/N vào/R những/L giấc_ngủ/N sâu/A
+Ngoài_ra/C nút/N tai/N nghe/V này/N còn/R có_thể/R kết_nối/V Bluetooth/Np để/E thông_báo/V tin_nhắn/N hoặc/N cuộc_gọi/N mà/C không/R làm/V họ/P bị/V giật_mình/V ngay/R cả/P khi/N họ/N đang/R ngủ/V
+Hush/Np có_thể/A chạy/V được/R trên/N hệ_điều_hành/N iOS/N hoặc/N Android/Np
+Hush/Np hiện/N có/V giá/N 149/M USD/Nu

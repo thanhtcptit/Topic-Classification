@@ -1,0 +1,13 @@
+Cháy_chợ/N đêm/N Phú_Quốc/Np lúc/N 3g/M sáng/N
+Vụ/N cháy/V xảy/V ra/R vào_khoảng/N 3g/M sáng/N ngày/N 37/M
+Theo/E ghi_nhận/N có/V khoảng/N 10/M gian_hàng/N bị/V thiêu/V rụi/N
+Người/Nc dân/N cho/V biết/V ngửi/V thấy/V mùi/N khét/A từ/E một/M quán/N ăn/V của/E chợ/N đêm/N sau/N đó/P bốc_lửa/V
+Lửa/N sau/N đó/P lan/V ra/V một/M cửa_hàng/N quần_áo/N rồi/C lan/V ra/R các/L gian_hàng/N lân_cận/A
+Theo/E thông_tin/N bước_đầu/N vị_trí/N cháy/V xuất_phát/V từ/E 1/M gian_hàng/N gần/A quán/N cà_phê/N Cung/Np sau/N đó/P lửa/N lan/V về/V hướng/N Văn_phòng/N Ban/N quản_lí/V chợ/N
+Các/L gian_hàng/N này/P chủ_yếu/A bán/V quần_áo/N nên/C dễ/A bắt/V lửa/N và/CC lan/V nhanh/A
+Nhận/V được/R tin/N báo/V cảnh_sát/N phòng/V cháy/V chữa_cháy/V tại/E địa_phương/N đã/R điều/V 3/M xe/N chữa_cháy/V và/CC rất/R đông/A chiến_sĩ/N đến/V dập/V lửa/N
+Ông/Nc Huỳnh_Quang_Hưng/Np Phó/Z chủ_tịch/N UBND/Np huyện/N Phú_Quốc/Np cũng/R đã/R đến/V chỉ_đạo/V chữa_cháy/N
+Ông/Nc Hưng/Np cho/V biết/V hiện_tại/N đang/R tập_trung/V vào/E việc/N chữa_cháy/V điều_tra/V nguyên_nhân/N và/CC thống_kê/N thiệt_hại/N sẽ/R tính/V sau/N
+Đến/E khoảng/N 5h30/M thì/N đám/N cháy/V cơ_bản/A được/V dập/V tắt/N
+Ông/N Trần_Quốc_Bình/Np Trưởng/Np ban/N quản_lí/V chợ/N đêm/N Phú_Quốc/Np cho/V biết/V trước_mắt/N sẽ/R đề_nghị/V cơ_quan_chức_năng/N cho/V cô_lập/V điện/N nước/N khu_vực/N bị/V cháy/V để/V sửa_chữa/V khắc_phục/V
+Những/L khu_vực/N còn/V lại/V chợ/N vẫn/R hoạt_động/V bình_thường/A để/E phục_vụ/V du_khách/N

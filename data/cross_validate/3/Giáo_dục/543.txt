@@ -1,0 +1,23 @@
+Nhiều/A đại_học/N ở/E Sài_Gòn/Np lo_lắng/V vì/E ít/A thí_sinh/N nhập_học/V
+Sáng/N 19/8/M ông/N Phạm_Thái_Sơn/Np –/M Phó_phòng/N Đào_tạo/N Đại_học/N Công_nghiệp/N Thực_phẩm/N TP_HCM/Np –/V cho_biết/V trường/N mới/R nhận/V được/R khoảng/N 2 0/M giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N xác_nhận/V nhập_học/V trong/E tổng_số/N 3 0/M chỉ_tiêu/N hệ/N đại_học/N
+Ông/N dự_báo/V con_số/N này/P khó/A tăng/V nhiều/A khi/N chỉ/R lác_đác/A vài/L người/N đến/V nộp/V phiếu/N điểm/N vào/E hôm_nay/N ngày/N cuối/N  /M Chiều/N nay/P chúng_tôi/P sẽ/R tổng_hợp/V phiếu/N điểm/N nộp/V về/R theo/E đường/N bưu_điện/N
+Nhiều/A khả_năng/N trường/N phải/V tuyển/V thêm/V nguyện_vọng/N bổ_sung/V ông/Nc Sơn/Np cho_hay/V
+TS/N Trần_Đình_Lý/Np Trưởng_phòng/N Đào_tạo/N  /M Đại_học/N Nông_lâm/Np TP_HCM/Np thông_tin/N trường/N mới/R nhận/V được/R hơn/R 3 0/M phiếu/N điểm/N xác_nhận/V nhập_học/V do/E thí_sinh/N nộp/V trực_tiếp/A trong/E tổng_số/N 5 0/M chỉ_tiêu/N
+Dù/C con_số/N trên/E chưa/R tính/V phiếu/N điểm/N gửi/V qua/E đường/N bưu_điện/N song/C lượng/N thí_sinh/N xác_nhận/V nhập_học/V như/C trên/E là/C đáng/V lo_ngại/V  /EOS
+Trong/E khi/N đó/P  /M Đại_học/N Công_nghiệp/N TP_HCM /Np nhận/V được/R hơn/R 4 0/M phiếu/N điểm/N cho/E hơn/A 6 0/M suất/N tại/E cơ_sở/N chính/T ở/V TP_HCM/Np
+Trường/N đang/R làm/V thủ_tục/N cho/E những/L em/N đã/R xác_nhận/V nhập_học/V đồng_thời/R sẽ/R lên/V kế_hoạch/N tuyển/V bổ_sung/V cho/E đủ/A chỉ_tiêu/N
+Tương_tự/A Đại_học/N Tôn_Đức_Thắng/Np mới/R nhận/V được/R gần/A 4 0/M phiếu/N điểm/N trong/E khi/N có/V đến/T 6 0/M chỉ_tiêu/N /V khoảng/N 65%/M /Nu
+Nhiều/A trường/N khác/A như/C Đại_học/N Mở/V Khoa_học/N Tự_nhiên/A Sư_phạm/N Kỹ_thuật/N Đại_học/N Sư_phạm/N
+cũng/R mới/R nhận/V được/R 70-80/M %/N chỉ_tiêu/N
+Nhiều/A thí_sinh/N chưa/R đến/V nộp/V phiếu/N điểm/N xác_nhận/V nhập_học/V là/V do/E tỷ_lệ/N ảo/A khá/R cao/A khi/N nhiều/A thí_sinh/N trúng_tuyển/V cả/P hai/M trường/N đang/R phân_vân/V lựa_chọn/V PGS /Np Nguyễn_Minh_Hà/Np Trưởng_phòng/N Đào_tạo/N Đại_học/N Mở/V TP_HCM/Np nhận_định/V
+Theo/E ông/N thí_sinh/N có/V điểm_cao/N thường/R nộp/V hồ_sơ/N vào/E một/M trường/N lấy/V điểm_cao/N và/CC một/M trường/N lấy/V điểm/N thấp/A hơn/A để/E yên_tâm/V
+Nhưng/C nếu/C thí_sinh/N trúng/V cả/P hai/M trường/N thường/R sẽ/R chọn/V nơi/N điểm_cao/N nên/C trường/N còn/V lại/R sẽ/R có/V thí_sinh/N ảo/A
+Một/M cán_bộ/N tuyển_sinh/V đại_học/N tại/E TP_HCM/Np cho/V rằng/C trường/N nào/P không/R tuyển/V được/R trên/E 90%/M tổng/N chỉ_tiêu/N sẽ/R gặp/V rất/R nhiều/A khó_khăn/N trong/E việc/N tổ_chức/V giảng_dạy/V tài_chính/N
+Ngay/T cả/P khi/N thí_sinh/V nộp/V phiếu/N điểm/N rồi/C trường/N vẫn/R chưa_thể/R yên_tâm/A vì/E sẽ/R có/V em/N không/R nhập_học/V
+Với/E tình_hình/N hiện_nay/N rất/R nhiều/A trường/N buộc/V phải/V thông_báo/V tuyển/V bổ_sung/V ông/N này/P dự_báo/V
+Một/M số_ít/N trường/N tại/E TP_HCM/Np tỏ/V ra/R an_tâm/A khi/N lượng/N thí_sinh/N xác_nhận/V nhập_học/V đã/R gần/A bằng/E chỉ_tiêu/N như/C Đại_học/N Luật/N Đại_học/N Ngân_hàng/N
+Ông/Nc  /Np Trương_Tiến_Sĩ/Np Phó_phòng/N Đào_tạo/N Đại_học/N Ngân_hàng/N TP_HCM/Np cho_biết/V sau/E khi/N công_bố/V điểm_chuẩn/N thì/C đầu/N tuần/N này/P trường/N đã/R tổ_chức/V nhập_học/V cho/E thí_sinh/N khi/N đến/V nộp/V giấy_báo/V điểm/N thi/V THPT/Np quốc_gia/N
+Hiện/N hơn/R 2 0/M em/N trong/E tổng_số/N 2 0/M thí_sinh/N trúng_tuyển/V đợt/N 1/M đã/R đến/V nhập_học/V và/CC bắt_đầu/V buổi/N sinh_hoạt/V đầu/N năm_học/N từ/E hôm_nay/N
+Theo/E quy_định/N thí_sinh/N có_thể/A nhập_học/V chậm/A 15/M ngày_sau/N ngày/N 19/8/M nên/C nhiều/A khả_năng/N trường/N sẽ/R có/V đủ/A tân_sinh/N viên/N theo/V đúng/A chỉ_tiêu/N để/E bắt_đầu/V năm_học/N mới/R ông/Nc Sĩ/Np nói/V
+Một_số/L trường/N đại_học/N tư_thục/A như/C  /N Đại_học/N Công_nghệ/N TP_HCM/Np Đại_học/N Hoa_Sen/Np
+cũng/R tổ_chức/V nhập_học/V cho/E hàng/N nghìn/M thí_sinh/N ngay/T sau/E khi/N nhận/V phiếu/N điểm/N

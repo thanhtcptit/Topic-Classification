@@ -1,0 +1,31 @@
+Làm_sao/X để/E kiểm_tra/V và/CC chặn/V máy_tính/N nhiễm/V mã/N độc/A nguy_hiểm/A nhất/R hiện_nay/N 
+Cách_thức/N tấn_công/V của/E mã/N độc/A tống_tiền/V WannaCry/Np ra_sao/X 
+Theo/E các/L chuyên_gia/N đến/V từ/E Bkav/Np mã/N độc/A WannaCry/Np được/V xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A vì/E vừa/R lây_lan/V nhanh/A vừa/R có/V tính/N phá_hoại/V nặng_nề/A 
+Kiểu/N lây_nhiễm/V của/E mã/N độc/A tuy/C không/R mới/A nhưng/C cho/V thấy/V xu_hướng/N tận_dụng/V các/L lỗ_hổng/N mới/R để/E tấn_công/V kiếm/V tiền/N sẽ/R còn/V được/V hacker/N sử_dụng/V nhiều/A trong/E thời_gian/N tới/V đặc_biệt/A là/C các/L lỗ_hổng/N của/E hệ_điều_hành/N 
+Bằng_chứng/N đó/P là/V mã/N độc/A tống_tiền/V WannaCry/Np chỉ/R trong/E vài/L giờ/N đã/R lây_nhiễm/V hơn/R 100/M nghìn/N máy_tính/N tại/E hơn/A 100/M quốc_gia/N trên/E toàn/N thế_giới/N 
+Ghi_nhận/V bước_đầu/N từ/E Hệ_thống/N giám_sát/V virus/N của/E Bkav/Np sáng/N 13/5/M đã/R có/V những/L trường_hợp/N lây_nhiễm/V mã/N độc/A này/P tại/E Việt_Nam/Np 
+Con_số/N lây_nhiễm/V được/R dự_báo/V sẽ/R tăng/V mạnh/A vào/E đầu/N tuần/N tới/V với/E số_lượng/N lớn/A máy_tính/N được/V bật/V khi/N mọi/L người/N đi/V làm/V trở_lại/V 
+Một/M hãng/N bảo_mật/V khác/A là/C Kaspersky/Np cũng/R cho_biết/V đã/R phát_hiện/V và/CC ngăn_chặn/V thành_công/V một/M số_lượng/N lớn/A các/L cuộc/N tấn_công/V ransomware/N trên/E khắp/A thế_giới/N 
+Trong/E các/L cuộc/N tấn_công/V này/P dữ_liệu/N được/V mã_hóa/V với/E phần/N mở_rộng/V WCRY/Np được/V thêm/V vào/E tên/N tập_tin/V khiến/V các/L tập_tin/N không/R còn/R có_thể/A tiếp_tục/V sử_dụng/V 
+WannaCry/Np sẽ/R đòi/V người/N dùng/V số/N tiền/N chuộc/V 300/M USD/Nu trả/V bằng/E Bitcoin/Np )/A nếu_không/C sẽ/R xóa/V hết/V các/L dữ_liệu/N đã/R bị/V mã_hóa/V 
+Lưu_ý/V rằng/C số/N tiền/N cần/V thanh_toán/V sẽ/R được/V tăng/V lên/R sau/E một/M lần/N đếm/V ngược/V cụ_thể/A cùng_với/C màn_hình/N hiển_thị/N khác/A làm/V tăng/V mức_độ/N khẩn_cấp/V để/E trả/V tiền/N đe_dọa/V rằng/C người/N dùng/V sẽ/R hoàn_toàn/A mất/V tập_tin/N của/E họ/P sau/E khoảng/N thời_gian/N đã/R thông_báo/V 
+Không/R phải/V tất_cả/P ransomware/N đều/R cung_cấp/V bộ/N đếm/V thời_gian/N này/P như/C WannaCry/Np 
+Giao_diện/N mã/V độc/A WannaCry/Np với/E đồng_hồ/N đếm/V ngược/A thời_gian/N buộc/V người/N dùng/V phải/V trả/V tiền/N chuộc/V Cách/V kiểm_tra/V máy_tính/N đã/R bị/V lây_nhiễm/V mã/V độc/A WannaCry/Np hay/C chưa/R Với/E sự/Nc lây_nhiễm/V nhanh_chóng/A của/E WannaCry/Np một/M câu_hỏi/N được/V nhiều/A người/N đặt/V ra/R đó/P là/V liệu/V máy_tính/N của/E mình/P đã/R bị/V lây_nhiễm/V loại/N mã/N độc/A này/P hay/C chưa/R 
+Mới_đây/X công_ty/N an_ninh/N mạng/N Bkav/Np vừa/R tung/V ra/R công_cụ/N cho_phép/V người/N dùng/V quét/V và/CC kiểm_tra/V xem/V máy_tính/N của/E mình/P có/V đang/R bị/V nhiễm/V WannaCry/Np hay/C không/R 
+Quan_trọng/A hơn/A công_cụ/N này/P có_thể/R kiểm_tra/V và/CC cảnh_báo/V nếu/C máy_tính/N có/V chứa/V lỗ_hổng/N EternalBlue/Np lỗ_hổng/N mà/C WannaCry/Np đang/R khai_thác/V để/E xâm_nhập/V máy_tính/N 
+Bạn_đọc/N có_thể/A download/V công_cụ/N miễn_phí/V tại/E đây/P sau/E đó/P khởi/V chạy/V ngay/R mà/C không/R cần/V cài_đặt/V 
+Sau/E khi/N quét/V xong/R nếu/C xuất_hiện/V hộp_thoại/N cho_biết/V Không/R phát_hiện/V thấy/V mã/N độc/A trên/E máy_tính/N nghĩa_là/X máy_tính/N của/E bạn/N vẫn/R an_toàn/A 
+Bạn/N nên/C sử_dụng/V phần_mềm/N để/E quét/V từng/R phân_vùng/N ổ_cứng/N nhằm/V đảm_bảo/V độ/N sạch/A máy_tính/N của/E mình/P 
+Hướng_dẫn/V download/N và/CC cài_đặt/V bản/N vá/V chống/V mã/N độc/A WannaCry/Np mà/C Microsoft/Np vừa/R phát_hành/V Trong/E trường_hợp/N máy_tính/N của/E bạn/N vẫn/R chưa/R bị/V lây_nhiễm/V loại/N mã/N độc/A WannaCry/Np thì/C việc/N lập_tức/V tải/N bản/N vá/V để/E lấp/V lại/R lỗ_hổng/N bảo_mật/V mà/C WannaCry/Np khai_thác/V để/E xâm_nhập/V vào/E hệ_thống/N là/V điều/N cần_thiết/A để/E đề_phòng/V loại/N mã/N độc/A này/P 
+Microsoft/Np cho_biết/V người/N dùng/V Windows/Np 10/M “/Nu miễn_nhiễm/V với/E loại/N mã/N độc/A WannaCry/Np vì/E các/L bản/N vá/V lỗi/N đã/R được/V Microsoft/Np phát_hành/V trước/E đó/P cho/E người/N dùng/V 
+Trong/E khi/N đó/P với/E người/N dùng/V đang/R sử_dụng/V các/L phiên_bản/N Windows/Np cũ/A hơn/R phải/V lập_tức/R tải/N và/CC nâng_cấp/V các/L bản/N vá/V lỗi/N vừa/R được/V Microsoft/Np phát_hành/V dưới/E đây/P 
+Đối_với/E Windows/Np XP/Np Mặc_dù/C đã/R bị/V Microsoft/Np “/V khai_tử/V và/CC ngừng/V hỗ_trợ/V nhưng/C cho_đến/E nay/P Windows/Np XP/Np vẫn/R đang/R được/V sử_dụng/V khá/R phổ_biến/A trên/E toàn_cầu/N nói_chung/X và/CC tại/E Việt_Nam/Np nói_riêng/X 
+Nếu/C đang/R sử_dụng/V Windows/Np XP/Np bạn/N nên/C lập_tức/V tải/N và/CC cài_đặt/V bản/N vá/V lỗi/N được/V Microsoft/Np phát_hành/V tại/E đây/P (/N dành/V cho/E Windows/Np XP/Np 32-bit/M hoặc/CC tại/E đây/P (/N dành/V cho/E Windows/Np XP/Np 64-bit/M )/Nu 
+Lưu_ý/V nếu/C đang/R sử_dụng/V Windows/Np XP/Np 32-bit/M người/N dùng/V phải/V nâng_cấp/V Windows/Np của/E mình/P lên/R phiên_bản/A Service_Pack/Np 3/M (/Nu SP3/M mới/R có_thể/A cài_đặt/V bản/N vá/V lỗi/N này/P 
+Bạn/N có_thể/A tiến_hành/V nâng_cấp/V thông_qua/V chức_năng/N Update/Np được/V trang_bị/V trên/E Windows/Np 
+Đối_với/E người/N dùng/V Windows/Np 7/M Cũng/R giống/A Windows/Np XP/Np hiện/N Windows/Np 7/M vẫn/R còn/V một/M lượng/N người/N dùng/V khá/R lớn/A tại/E Việt_Nam/Np nhờ/V vào/E những/L ưu_điểm/N của/E hệ_điều_hành/N này/P 
+Nếu/C đang/R sử_dụng/V Windows/Np 7/M bạn/N có_thể/A download/V bản/N vá/V lỗi/N được/V Microsoft/Np phát_hành/V dành/V cho/E phiên_bản/N 32-bit/M tại/E đây/P và/CC phiên_bản/V dành/V cho/E 64-bit/M tại/E đây/P 
+Đối_với/E người/N dùng/V Windows/Np 8/M Sau/E khi/N phát_hành/V Windows/Np 10/M Microsoft/Np đã/R cho_phép/V người/N dùng/V nâng_cấp/V miễn_phí/V từ/E Windows/Np 8/M lên/V phiên_bản/N Windows/Np 10/M do_vậy/C số_lượng/N người/N dùng/V đang/R sử_dụng/V Windows/Np 8/M không/R còn/V nhiều/A 
+Tuy_nhiên/C trong/E trường_hợp/N bạn/N vẫn/R đang/R sử_dụng/V Windows/Np 8/M thì/C có_thể/R download/V bản/N vá/V lỗi/N dành/V cho/E hệ_điều_hành/N này/P tại/E đây/P (/N dành/V cho/E Windows/Np 32-bit/M hoặc/CC tại/E đây/P (/N dành/V cho/E Windows/Np 64-bit/M )/Nu 
+Lưu_ý/V Sau/E khi/N download/V các/L bản/N vá/V lỗi/N kể/V trên/N bạn/N chỉ/R việc/N tiến_hành/V cài_đặt/V như/C phần_mềm/N bình_thường/A và/CC khởi_động/V lại/R máy_tính/N 
+Gia_Hưng/Np Quang_Huy/Np 

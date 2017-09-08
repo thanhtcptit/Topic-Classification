@@ -1,0 +1,20 @@
+Fed/Np giữ/V nguyên/A lãi_suất/N giá/N vàng/N rơi/V nhanh/A 
+Mở_cửa/V thị_trường/N vàng/N trong/E nước/N sáng/N nay/P 4/5/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 36,4/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,5/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,41/M triệu/M đồng/Nu //X lượng/N 36,49/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P giảm/V mạnh/A mỗi/L chiều/N 170.000/M đồng/lượng/N và/CC 150.000/M đồng/lượng/N so/V với/E giá/N vàng/N chốt/V phiên/N hôm_qua/N 
+Tại/E TPHCM/Np tốc_độ/N rơi/V của/E giá/N vàng/N còn/R nhanh/A hơn/R 
+Cụ_thể/A giá/N vàng/N SJC/Np hiện/N giao_dịch/V ở/E mức/N 36,31/M triệu/M đồng/Nu //X lượng/N 36,54/M triệu/M đồng/Nu //X lượng/N giảm/V mạnh/A 210.000/M đồng/lượng/N và/CC 180.000/M đồng/lượng/N 
+Fed/Np giữ/V nguyên/A lãi_suất/N giá/N vàng/N rơi/V nhanh/A Chốt/N phiên/N giao_dịch/V hôm_qua/N giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V doanh_nghiệp/N niêm_yết/V ở/E mức/N 36,57/M triệu/M đồng/Nu //X lượng/N 36,65/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,58/M triệu/M đồng/Nu //X lượng/N 36,64/M triệu/M đồng/Nu //X lượng/N 
+Tại/E TPHCM/Np giá/N vàng/N SJC/Np chốt/V phiên/N ở/E mức/N 36,52/M triệu/M đồng/Nu //X lượng/N 36,72/M triệu/M đồng/Nu //X lượng/N 
+Trên/E thế_giới/N lúc/N 8h/M sáng/N nay/P giờ/Nu Việt_Nam/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np qua/V niêm_yết/V của/E Kitco.com/Np có/V biên_độ/N tăng/V gần/A 3/M USD/Nu giao_dịch/V ở/E mức/N 1.240,3/M USD/ounce/Np 
+Ngược_lại/X giá/N vàng/N đóng_cửa/V hôm_qua/N 3/5/M ở/E mức/N thấp/A nhất/R trong/E vòng/N 1/M tháng/N do/E đồng/N đô_la/N Mỹ/Np mạnh/A lên/R so/V với/E các/L đồng_tiền/N khác/A sau/E khi/N Cục/N dự_trữ/V liên_bang/N Mỹ/Np Fed/Np ra/R tuyên_bố/V về/E chính_sách/N tiền_tệ/N 
+Cụ_thể/A trong/E thông_cáo/N gửi/V đi/V Fed/Np tuyên_bố/V giữ/V nguyên/A lãi_suất/N chủ_chốt/A và/CC đánh_tiếng/V vẫn/R tiếp_tục/V lộ_trình/N tăng/V dần/R lãi_suất/N 
+Dù/C không/R có/V một/M sự/Nc thay_đổi/V về/E chính_sách/N trong/E cuộc/N họp/V lần/N này/P nhưng/C giới/N đầu_tư/V đang/R đánh_giá/V những/L tín_hiệu/N phát/V ra/R về/E tốc_độ/N tăng/V lãi_suất/N trong/E tương_lai/N của/E Fed/Np 
+Theo/E kế_hoạch/N Fed/Np sẽ/R tăng/V lãi_suất/N 3/M trong/E năm/N 2017/M và/CC 2/M lần/N trong/E năm/N 2018/M 
+Tuy_nhiên/C quyết_định/N tăng/V lãi_suất/N của/E Fed/Np phụ_thuộc/V vào/E rất/R nhiều/A yếu_tố/N 
+Fed/Np đang/R cân_nhắc/V sức_khỏe/N của/E nền/N kinh_tế/N Mỹ/Np cũng_như/C những/L tác_động/N từ/E các/L diễn_biến/N địa_chính/N trị/V trên/E thế_giới/N 
+Ngay/T sau/E tuyên_bố/N của/E Fed/Np giá/N vàng/N giao/V tháng/N 6/M tăng/V trên/E mức/N 1.250/M USD/ounce/Np nhưng/C chỉ/R khoảng/A nửa/M tiếng/Nu sau/E đó/P giá/N lùi/V về/E mức/N 1.247,5/M USD/ounce/Np 
+Kết_thúc/V phiên/N giá/N vàng/N giảm/V 8,5/M USD/Nu tương_đương/V 0,7%/M xuống/V 1.247,50/M USD/ounce/Np mức/N thấp/A nhất/A kể/V từ/E ngày/N 5/4/M 
+Tuy_nhiên/C phân_tích/V kỹ_thuật/N cho/E thấy/V vàng/N vẫn/R có/V xu_hướng/N tăng_giá/V trong/E ngắn_hạn/N 
+Tuy_nhiên/C giá/N vàng/N cần/V thêm/V lực/N để/E giữ/V xu_hướng/N này/P 
+Hiện/N ngưỡng/N kháng_cự/V gần/A nhất/A của/E mặt_hàng/N kim_loại_quý/N là/V 1.260/M USD/ounce/Np và/CC đỉnh/N giá/N dự_báo/V là/V 1.272,4/M USD/ounce/Np Ngưỡng/Np hỗ_trợ/V gần/A nhất_là/X mức/N thấp/A nhất/R tuần/N 1.250/M USD/ounce/Np và/CC sau/E đó/P là/V 1.241,5/M USD/ounce/Np 
+An_Hạ/Np 

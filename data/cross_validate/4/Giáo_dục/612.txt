@@ -1,0 +1,37 @@
+Thí_sinh/N có/V cơ_hội/N duy_nhất/A để/E thay_đổi/V nguyện_vọng/N xét/V tuyển/V đại_học/N
+Theo/E quy_chế/N Tuyển_sinh/V đại_học/N hệ/N chính_quy/V tuyển_sinh/V cao_đẳng/A nhóm/N ngành/N đào_tạo/V giáo_viên/N hệ/N chính_quy/A sau/E khi/N có/V kết_quả/N thi/V THPT/Np quốc_gia/N thí_sinh/V được/R điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V một/M lần/N
+Thời_gian/N thay_đổi/V là/V từ/E ngày/N 15/7/M đến/V 23/7/M
+Trước/E đó/P thí_sinh/V được/R đăng_ký/V không/R giới_hạn/V số/N trường/N và/CC số/N nguyện_vọng/N xét/V tuyển/V đại_học/N cao_đẳng/N
+Có/V 2/M phương_thức/N thay_đổi/V là/V trực_tuyến/A và/CC dùng/V phiếu/N điều_chỉnh/V xét/V tuyển/V
+Với/E phương_thức/N trực_tuyến/A thời_gian/N thay_đổi/V cho/E thí_sinh/N là/V từ/E ngày/N 15/7/M đến/E 17h/M ngày/N 21/7/M
+Thí_sinh/N sử_dụng/V tài_khoản/N và/CC mật_khẩu/V cá_nhân/N đã/R được/V cấp/V để/E điều_chỉnh/V nguyện_vọng/N đăng_ký/V tại/E địa_chỉ/N thisinh/N thithptquocgia u /EOS
+Phương_thức/N này/P chỉ/R chấp_nhận/V khi/N số/N nguyện_vọng/N sau/E khi/N điều_chỉnh/V không/R lớn/A hơn/R số/N đăng_ký/V ban_đầu/N trong/E phiếu/N đăng_ký/V xét/V tuyển/V
+Với/E phương_thức/N phiếu/N thời_gian/N điều_chỉnh/V từ/E 15/7/M đến/E 17h/M ngày/N 23/7/M
+Phương_thức/N này/P dành/V cho/E thí_sinh/N muốn/V điều_chỉnh/V tăng/V thêm/R số/N nguyện_vọng/N so/V với/E số/N đăng_ký/V ban_đầu/N trong/E phiếu/N đăng_ký/V xét/V tuyển/V và/CC phải/V nộp/V bổ_sung/V lệ_phí/N cho/E số/N nguyện_vọng/N tăng/V thêm/V theo/V quy_định/N
+Điểm/N không/R quá/R lệch/A với/E dự_kiến/N thí_sinh/N không/R nên/V điều_chỉnh/V  /N Thứ_trưởng/N Giáo_dục/N và/CC Đào_tạo/N Bùi_Văn_Ga/Np khuyên/V thí_sinh/N bình_tĩnh/A phân_tích/V tình_hình/N trước/E khi/N điều_chỉnh/V nguyện_vọng/N
+Ông/N cho/V rằng/C không/R nên/V thay_đổi/V nếu/C điểm/N thi/V không/R quá/R lệch/A so/V với/E dự_kiến/N ban_đầu/N  /M Trước/N  /V đây/P các/L em/N dự_đoán/N được/V 20/M điểm/N và/CC đăng_ký/V một_vài/L nguyện_vọng/N ở/E mức/N cao/A hơn/A bằng/A và/CC thấp/A hơn/A 20/M điểm/N
+Nếu/C điểm/N thi/V của/E các/L em/N trong/E ngưỡng/N 19,5/M 20,5/M thì/C không/R nên/V điều_chỉnh/V
+Năm/N nay/P nguyên_tắc/N xét/V tuyển/V là/V theo/E điểm/N chứ/C không/R theo/V nguyện_vọng/N  /M Thí/N
+sinh/V đăng_ký/V nguyện_vọng/N 10/M nhưng/C điểm_cao/N hơn/A thí_sinh/N đăng_ký/V nguyện_vọng/N 1/M thì/C vẫn/R trúng_tuyển/V Thứ_trưởng/N giải_thích/V
+Thí_sinh/N chỉ/R nên/C thay_đổi/V nguyện_vọng/N xét/V tuyển/V nếu/C điểm/N thực_tế/A quá/R chênh_lệch/A so/V với/E dự_kiến/N
+Ví_dụ/V thí_sinh/V dự/V  /M kiến/N 20/M điểm/N nhưng/C được/V 27/M hoặc/CC 15/M thì_phải/V điều_chỉnh/N để/E tăng/V khả_năng/N trúng_tuyển/V vào/E các/L trường/N
+Ngoài_ra/C thí_sinh/V nên/C căn_cứ/N vào/V phổ/V điểm/N thi/V THPT/Np quốc_gia/N sẽ/R được/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V sau/E khi/N có/V điểm/N thi/V để/E điều_chỉnh/V nguyện_vọng/N  /M Nếu/C
+phổ/V điểm/N lệch/A về/E phía/N phải/V điểm/N trung_bình/A trước_đây/N là/V 5/M năm/N nay/P tăng/V lên/R 6/M thì/C thí_sinh/N có_thể/R hiểu/V là/V kết_quả/N của/E mình/P phải/V nhích/V thêm/V 1/M điểm/N mới/R mong/V đỗ/V trường/N mà/C trước/E đó/P nghĩ/V là/V vừa/R tầm/N
+Ngày/N 14/7/M công_bố/V điểm_sàn/N xét/V tuyển/V đại_học/N cao_đẳng/N 2017/M là/V năm/N cuối_cùng/A Bộ/N Giáo/N dục/N và/CC Đào_tạo/N quy_định/N điểm_sàn/N để/E đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N cao_đẳng/N sư_phạm/V
+Từ/E mùa/N tuyển_sinh/V năm/N 2018/M trở/V đi/V các/L đại_học/N cao_đẳng/N sư_phạm/V tự/P xác_định/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V cho/E trường/N mình/P
+Điểm_sàn/N được/V xây_dựng/V dựa/V theo/E phổ/N điểm/N thực_tế/N của/E học_sinh/N
+Theo/E Thứ/N trưởng/N Bùi_Văn_Ga/Np số/N điểm/N này/P sẽ/R  /V không/R biến_động/V nhiều/A so/V với/E năm/N trước/A bởi/E  /N chất_lượng/N dạy_học/N trình_độ/N của/E học_sinh/N không_thể/R thay_đổi/V đột_ngột/A
+Khó/A có/V chuyện/N điểm_sàn/V năm/N trước/A là/V 15/M mà/C năm/N nay/P lên/R 18/M hoặc/CC xuống/R 13/M được/R ông/Nc Ga/Np nói/V
+Nhiều/A năm/N nay/P  /N ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V các/L đại_học/N cao_đẳng/N sư_phạm/V là/V 15/M
+Theo/E quy_chế/N các/L đại_học/N  /N đóng/V trên/E địa_bàn/N Tây_Bắc/Np Tây_Nguyên/Np và/CC Tây_Nam_Bộ/Np được/V xét/V tuyển/V thí_sinh/N có/V hộ_khẩu/N thường_trú/V từ/E 3/M năm/N trở_lên/A học/V 3/M năm/N liên_tục/A và/CC tốt_nghiệp/V trung_học/N tại/E các/L tỉnh/N thuộc/V khu_vực/N này/P với/E kết_quả/N thi/V /V tổng/N điểm/N 3/M bài/N thi/V //X môn/N thi/V của/E tổ_hợp/N dùng/V để/E xét/V tuyển/V /N thấp/A hơn/R ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N 1/M điểm/N
+Các/L trường_hợp/N này/P phải/V học/V bổ_sung/V kiến_thức/N một/M học_kỳ/N trước/E khi/N vào/V học/V chính_thức/A
+Chương_trình/N bổ_sung/V kiến_thức/N do/E hiệu_trưởng/N các/L trường/N quy_định/N
+Mỗi/L thí_sinh/N chỉ/R trúng_tuyển/V một/M nguyện_vọng/N Trong/E đợt/N 1/M đối_với/E từng/P trường/N ngành/N thí_sinh/N được/V xét/V tuyển/V bình_đẳng/A theo/E kết_quả/N thi/V không/R phân_biệt/V thứ_tự/N ưu_tiên/A của/E nguyện_vọng/N đăng_ký/V
+Đối_với/E mỗi/L thí_sinh/N nếu/C đăng_ký/V vào/E nhiều/A trường/N //X ngành/N thì/C việc/N xét/V tuyển/V được/R thực_hiện/V theo/E thứ_tự/N ưu_tiên/A của/E các/L nguyện_vọng/N thí_sinh/N chỉ/R trúng_tuyển/V vào/E một/M nguyện_vọng/N ưu_tiên/V cao/A nhất/R có_thể/R trong/E danh_sách/N đã/R đăng_ký/V
+Thí_sinh/N đăng_ký/V xét/V tuyển/V vào/E các/L trường/N thuộc/V Bộ/N Công/N an/M Bộ/N Quốc/Np phòng/V ngoài/E quy_định/N này/P còn/R phải/V thực_hiện/V quy_định/N hướng_dẫn/V của/E Bộ/N liên_quan/V
+Điểm/N xét/V tuyển/V là/V tổng/N điểm/N các/L bài/N thi/V //X môn/N thi/V theo/E thang/N 10/M đối_với/E từng/R bài/N thi/V //X môn/N thi/V của/E từng/R tổ_hợp/N và/CC được/V làm_tròn/V đến/E 0,25/M cộng/V với/E điểm/N ưu_tiên/V đối_tượng/N khu_vực/N
+Đối_với/E thí_sinh/N bằng/E điểm/N ở/E cuối/N danh_sách/N thì/C xét/V trúng_tuyển/V theo/E các/L điều_kiện/N phụ/V do/E mỗi/L trường/N thông_báo/V
+Nếu/C vẫn/R còn/R vượt/V chỉ_tiêu/N thì/C ưu_tiên/V thí_sinh/N có/V nguyện_vọng/N cao/A hơn/R
+Thí_sinh/N trúng_tuyển/V phải/V xác_nhận/V nhập_học/V trong/E thời_hạn/N quy_định/N
+Quá/V thời_hạn/N này/P thí_sinh/N không/R xác_nhận/V nhập_học/V được/R xem/V như/C từ_chối/V và/CC trường/N được/R xét/V tuyển/V thí_sinh/N khác/A trong/E đợt/N bổ_sung/V
+Chậm/A nhất/R ngày/N 1/8/M các/L đại_học/N sẽ/R công_bố/V kết_quả/N tuyển_sinh/V đợt/N 1/M

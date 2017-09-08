@@ -1,0 +1,31 @@
+Trường/N ĐH/Np Công_nghiệp/N Thực_phẩm/N TPHCM/Np tuyển/V 3.760/M chỉ_tiêu/N 
+ /M Thí_sinh/N thi/V tại/E trường/N ĐH/Np Công_nghiệp/N Thực_phẩm/N TPHCM/Np Trường/N tuyển/V hệ/N ĐH/Np vào/E 12/M ngành/N đào_tạo/V và/CC 760/M chỉ_tiêu/N vào/E 11/M ngành/N đào_tạo/V hệ/N CĐ/Np 
+Theo/E ông/Nc Sơn/Np năm/N nay/P có/V 4/M ngành/N đào_tạo/V bậc/N CĐ/Np trường/N không/R tuyển_sinh/V gồm/V Công_nghệ_sinh_học/N Công_nghệ/N kỹ_thuật/N hóa_học/N Công_nghệ/N kỹ_thuật/N môi_trường/N và/CC Công_nghệ/N chế_biến/V thủy_sản/N 
+Cũng/R theo/E ông/Nc Phạm_Thái_Sơn/Np trường/N dành/V 90%/M chỉ_tiêu/N xét/V tuyển/V ĐH/Np từ/E kỳ/N thi/V THPT/Np quốc_gia/N 2015/M đối_với/E những/L tổ_hợp/N môn/N phù_hợp/V chuyên_ngành/N xét/V tuyển/V và/CC 10%/M chỉ_tiêu/N để/E xét/V tuyển/V đại_học/N cho/E xét/V từ/E kết_quả/N học_bạ/V THPT/Np 
+Thông_tin/N về/V học_phí/N trường/N cũng/R cho_biết/V trường/N thu/V 370.000đ/M //X tín_chỉ/N lý_thuyết/N bậc/N ĐH/Np CĐ/Np là/V 295.000đ/M //X tín_chỉ/N 480.000đ/M //X tín_chỉ/N thực_hành/V bậc/N ĐH/Np và/CC CĐ/Np là/V 385.000đ/M //X tín_chỉ/N 
+Dưới/E đây/P là/V chỉ_tiêu/N cụ_thể/A các/L ngành/N vào/E trường/N ĐH/Np Công_nghiệp/N Thực_phẩm/N TPHCM/Np Mã/Np trường/N DCT/Np  /M  /N Tên/N trường/N Ngành/N học/V  /A  /M Mã/Nu ngành/N  /N  /M  /Nu  /M  /N  /V  /A  /M  /Nu  /M  /N  /V  /A  /M  /Nu  /M  /N  /V  /A  /M  /Nu  /M  /N  /V  /A  /M  /Nu  /M  /N Khối/Np xét/V tuyển/V  /M  /N Chỉ_tiêu/N Dự_kiến/V )/A  /M  /Nu Hệ_Đại/Np học/V chính_quy/A  /M Quản_trị/V kinh_doanh/V Chuyên_ngành/N Quản_trị/V kinh_doanh/V tổng_hợp/V 
+Chuyên_ngành/N Quản_trị/V Marketing/Np 
+ /M D340101/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 250/M (/Nu 50/M chỉ_tiêu/N học_bạ/N Tài_chính/N Ngân_hàng/N Chuyên_ngành/N Tài_chính/N doanh_nghiệp/N 
+Chuyên_ngành/N Tài_chính/N nhà_nước/N 
+Chuyên_ngành/N Ngân_hàng/N 
+Toán/N Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np  /A 150/M (/Nu 20/M chỉ_tiêu/N học_bạ/V  /N Kế_toán/N Chuyên_ngành/N Kế_toán/N doanh_nghiệp/N 
+Chuyên_ngành/N Kế_toán/N kiểm_toán/V 
+Chuyên_ngành/N Kế_toán/N ngân_hàng/N 
+ /M D340301/Np  /M  /N 250/M (/Nu 30/M chỉ_tiêu/N học_bạ/N  /M  /N Công_nghệ_sinh_học/N  /M  /N D420201/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Công/Np nghệ/N thông_tin/N Chuyên_ngành/N Công_nghệ_phần_mềm/X 
+Chuyên_ngành/N Hệ_thống/N thông_tin/N 
+Chuyên_ngành/N Mạng/N máy_tính/N &/CC truyền_thông/N 
+Chuyên_ngành/N Thương_mại_điện_tử/X 
+Toán/N Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 300/M (/Nu 30/M chỉ_tiêu/N học_bạ/N Công_nghệ/N chế_tạo_máy/N Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 250/M (/Nu 50/M chỉ_tiêu/N học_bạ/N Công_nghệ/N kỹ_thuật/N điện/N điện_tử/N Chuyên_ngành/N Điện_tử/N 
+Chuyên_ngành/N Điện/N công_nghiệp/N 
+Chuyên_ngành/N Hệ_thống/N năng_lượng/N công_nghiệp/N 
+Chuyên_ngành/N Viễn_thông/Np 
+Chuyên_ngành/N Tự_động_hóa/Np điều_khiển/V 
+ /M D510301/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 250/M (/Nu 50/M chỉ_tiêu/N học_bạ/N Công_nghệ/N kỹ_thuật/N hóa_học/N Chuyên_ngành/N Kỹ_thuật/N phân_tích/V và/CC quản_lý/V chất_lượng/N 
+Chuyên_ngành/N Hóa-Mỹ/Np phẩm/V 
+Chuyên_ngành/N Hữu_cơ/N –/M Dầu_khí/N 
+Chuyên_ngành/N Vô_cơ/N –/M Silicat/Np 
+Chuyên_ngành/N Quá_trình/N và/CC thiết_bị/N 
+ /M D510401/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np 300/M (/Nu 20/M chỉ_tiêu/N học_bạ/N  /Nu Công_nghệ/N kỹ_thuật/N môi_trường/N  /M Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np 200/M (/Nu 25/M chỉ_tiêu/N học_bạ/N  /N Công_nghệ/N thực_phẩm/N  /M Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Công/Np nghệ/N chế_biến/V thủy_sản/N Chuyên_ngành/N Kỹ_thuật/N chế_biến/V thủy_sản/N 
+Chuyên_ngành/N Công_nghệ/N chế_biến/V sản_phẩm/N giá_trị/N gia_tăng/V 
+Chuyên_ngành/N Kiểm_tra/V chất_lượng/N sản_phẩm/N thủy_sản/N 
+ /M D540105/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np  /A 200/M (/Nu 25/M chỉ_tiêu/N học_bạ/N  /N  /V D540110/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np  /V 200/M  /N Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Văn/Np Sử/Np Địa_Toán/Np Văn/Np Tiếng_Anh/Np 80/M (/Nu 10/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 80/M (/Nu 10/M chỉ_tiêu/N học_bạ/N  /N Kế_toán/N  /A Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 80/M (/Nu 10/M chỉ_tiêu/N học_bạ/N  /N Công_nghệ_sinh_học/N  /M  /N C420201/Np  /V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np  /M Công_nghệ_thông_tin/N  /N Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 60/M (/Nu 10/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 60/M (/Nu 20/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 60/M (/Nu 20/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 60/M (/Nu 10/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np 60/M (/Nu 20/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh_Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Văn/Np Tiếng_Anh/Np 80/M (/Nu 20/M chỉ_tiêu/N học_bạ/V Toán/Np Lý/Np Hóa_Toán/Np Lý/Np Tiếng_Anh_Toán/Np Sinh/Np Hóa_Toán/Np Văn/Np Tiếng_Anh/Np 80/M (/Nu 20/M chỉ_tiêu/N học_bạ/N Lê_Phương/Np Email/Np lephuong@dantri.com.vn/V 

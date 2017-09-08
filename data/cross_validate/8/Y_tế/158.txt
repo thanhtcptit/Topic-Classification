@@ -1,0 +1,8 @@
+37/M công_nhân/N nghi/V bị/V ngộ_độc/V sau/N ăn/V ca/N đêm/N
+Rạng/A sáng/N 305/M có/V 37/M công_nhân/N làm_việc/V tại/E nhà_máy/N LG/Np Dislay/Np trong/E KCN/Np Tràng_Duệ/Np huyện/N An_Dương/Np TP/Np Hải_Phòng/Np phải/V nhập_viện/V cấp_cứu/V trong/E tình_trạng/N bị/V chóng_mặt/V buồn_nôn/N nghi/V do/E ngộ_độc/N thực_phẩm/N
+Theo/E lãnh_đạo/N Bệnh_viện/N đa_khoa/N huyện/N An_Dương/Np khoảng/N 4h/M sáng/N 305/M bệnh_viện/N này/P tiếp_nhận/V 37/M bệnh_nhân/N là/V công_nhân/N làm_việc/V tại/E nhà_máy/N LG/Np Dislay/Np trong/E tình_trạng/N chóng_mặt/V buồn_nôn/N nghi/V do/N bị/V ngộ_độc/V thực_phẩm/N
+Một_số/L công_nhân/N còn/R bị/V đi_ngoài/V
+Sau/E khi/N được/V điều_trị/V tích_cực/N đến/V trưa/N cùng/N ngày/N có/V 28/M công_nhân/N được/V cho/V về/V nhà/N điều_trị/V
+Trước/E đó/P tại/N bếp/N ăn/V số/N 3/M và/N 5/M của/E công_ty/N LG/Np Dislay/Np có/V khoảng/N 250/M công_nhân/N ăn/V ca/N đêm/N
+Đến/E khoảng/N 1h30/M ngày/N 305/M thì/N một_số/L công_nhân/N có/V biểu_hiện/N buồn_nôn/N chóng_mặt/V chướng/A bụng/N
+nên/C được/V nhân_viên/N y_tế/N của/E công_ty/N sơ_cứu/N ban_đầu/N sau/N đó/P chuyển/V đến/V bệnh_viện/N

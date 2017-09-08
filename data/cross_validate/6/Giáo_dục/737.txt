@@ -1,0 +1,18 @@
+Điểm_chuẩn/N vào/V lớp/N 10/M trường/N chuyên/A Hà_Nội/Np giảm/V
+Chiều/N 25/6/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M các/L trường/N THPT/Np chuyên/A lớp/N chuyên/A thuộc/V Sở/N  /M THPT/Np chuyên/A Hà_Nội/Np Amsterdam/Np có/V ngưỡng/N đầu_vào/N cao/A nhất/R
+Mức/N điểm_chuẩn/V lớp/N chuyên/A Anh/N và/CC chuyên/A tiếng/N Trung/Np lần_lượt/R là/V 42,25/M và/CC 41,25/M /N thấp/A hơn/A năm/M trước/N 0,25/M điểm/N /V
+Các/L lớp/N chuyên/A còn/V lại/R lấy/V điểm/N 32-36/M
+Riêng/T lớp/N chuyên/A tiếng/N Pháp/Np có/V đầu_vào/N thấp/A nhất_là/X 26,75/M
+Đây/P cũng/R là/V con_số/N thấp/A kỷ_lục/N trong/E nhiều/A năm/N nay/P của/E trường/N cấp/N ba/M danh_tiếng/N bậc/N nhất/A Việt_Nam/Np
+THPT/Np Chu_Văn_An/Np có/V điểm/N đầu_vào/V các/L lớp/N chuyên/A cao/A thứ_hai/N dao_động/V 28,5/M 39,5/M
+Lớp/N chuyên/A Anh/N Lịch_sử/N và/CC Ngữ_văn/N có/V điểm_chuẩn/N cao/A nhất/A lần_lượt/R là/V 39,5/M 35/M và/CC 34/M
+So/V với/E năm_học/N 2016-2017/M mức/N chuẩn/N này/P thấp/A hơn/R 1/M điểm/N  /EOS
+THPT/Np chuyên/A Nguyễn_Huệ/Np có/V điểm_chuẩn/N trong/E khoảng/N 26,5/M 37,5/M
+THPT/Np Sơn_Tây/Np lấy/V từ/E 19,25/M đến/E 30,57/M điểm/N
+Mức/N giảm/V so/V với/E năm/N trước/A của/E các/L trường/N này/P khoảng/A 1,25/M điểm/N
+Năm_học/N 2017-2018/M Hà_Nội/Np có/V hơn/A 76 0/M thí_sinh/N thi/V vào/E lớp/N 10/M THPT/Np trong/E đó/P khoảng/A 7 0/M em/N thi/V vào/E trường/N lớp/N chuyên/A
+Ngoài_ra/C trường/N chuyên/A của/E Đại_học/N Sư_phạm/N Đại_học/N Quốc_gia/Np Hà_Nội/Np cũng/R thu_hút/V hàng/R nghìn/M học_sinh/N đăng_ký/V dự/V thi/V
+Tỷ_lệ/N chọi/V vào/E các/L trường/N này/P còn/R cao/A hơn/R cả/T đại_học/N top/V đầu/N
+Học_sinh/N muốn/V vào/V các/L trường/N chuyên/A /V hoặc/CC lớp/N chuyên/A /V phải/V thi/V 2/M đợt/N đợt/N 1/M cùng/A thí_sinh/V toàn/R thành_phố/N đợt/N 2/M thi/V các/L môn/N chuyên/A
+Điểm/N xét/V tuyển/V vào/E lớp/N chuyên/A là/V tổng_số/N điểm/N hai/M bài/N thi/V Toán/Np Văn/Np không/R chuyên/A điểm/N bài/N thi/V môn/N chuyên/A tương_ứng/V với/E lớp/N chuyên/A /V đã/R tính/V hệ_số/A /M
+Công_thức/N như/C sau/N ĐXT/Np =/M Tổng/N điểm/N các/L bài/N thi/V không/R chuyên/A /V hệ_số/N 1/M /Nu +/M Điểm/N bài/N thi/V chuyên/A /M hệ_số/N 2/M /Nu

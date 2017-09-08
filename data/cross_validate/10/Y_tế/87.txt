@@ -1,0 +1,8 @@
+​/N Cứu/V sống/V người/N bị/V viêm/N nắp/N đường/N thở/V ngưng/N thở/V ngưng/N tim/N
+Đó/P là/V nam/N bệnh_nhân/N 41/M tuổi/N quê/N ở/V Thanh_Hoá/Np đang/R bán/V hàng/N rong/V tại/N TPHCM/Np
+Trước/E khi/N nhập_viện/V Bệnh_viện/N Tai_Mũi_Họng/Np khoảng/A 20/M ngày/N bệnh_nhân/N ăn/V cơm/N với/E cá/N và/CC sau/E đó/P có/V triệu_chứng/N vướng/N họng/N phải/V khạc/V nhổ/V nhiều/A lần/N
+Trước/E khi/N nhập_viện/N khoảng/A 30/M phút/Nu bệnh_nhân/N cảm_thấy/V rất/R mệt/V thay_đổi/V giọng/N nói/V đau/A rát/A cổ/N nên/C nhờ/V người/N quen/V chở/V đến/V bệnh_viện/N Tai_Mũi_Họng/Np
+Bệnh_nhân/N nhập_viện/N trong/N tình_trạng/N tím_tái/A ngưng/N tim/N ngưng/V thở/V
+Khoa_Mũi/Np xoang/V Bệnh_viện/N Tai_Mũi_Họng/Np đã/R khởi_động/V quy_trình/N báo_động/N đỏ/A để/E cấp_cứu/V bệnh_nhân/N
+Với/E những/L triệu_chứng/N trên/E các/L bác_sĩ/N đã/R nghi/V bệnh_nhân/N bị/V viêm/N thanh/N thiệt/N viêm/N nắp/N đường/N thở/V nên/N đã/R đặt/V nội/N khí_quản/N giúp/V thở/V cho/V bệnh_nhân/N mở/V khí_quản/N để/E thông/V đường/N thở/V
+Hiện/N sức_khoẻ/N bệnh_nhân/N đang/R hồi_phục/V

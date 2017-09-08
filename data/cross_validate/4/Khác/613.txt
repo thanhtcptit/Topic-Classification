@@ -1,0 +1,9 @@
+22/M nhà/N phân_phối/V của/E Apple/Np tại/E Trung_Quốc/Np bán/V tài_khoản/N i/V Cloud/Np
+Theo/E Engadget/Np cảnh_sát/N tỉnh/N Chiết_Giang/Np /V Trung_Quốc/Np /V đã/R bắt_giữ/V 22/M nhà/N phân_phối/V của/E Apple/Np với/E cáo_buộc/V bán/V dữ_liệu/N người/N dùng/V i/N Phone/Np iPad/N
+Các/L thông_tin/N được/V giao_dịch/V có/V tài_khoản/N Apple/Np số/N điện_thoại/N
+Tổng_cộng/V các/L nhà/N phân_phối/V này/P đã/R thu/V lợi/N bất_chính/A khoảng/A 7,36/M triệu/M USD/Nu /A hơn/R 126/M tỷ/N đồng/N /V từ/E việc/N bán/V dữ_liệu/N
+Báo_cáo/V không/R tiết_lộ/V số/N tài_khoản/N và/CC thiết_bị/N của/E Apple/Np bị/V ảnh_hưởng/V cũng/R chưa/R rõ/A nạn_nhân/N có/V nằm/V ngoài/E Trung_Quốc/Np hay/C không/R
+Từ/E lâu/A tài_khoản/N Apple/Np đã/R được/V rao/V bán/V trên/E thị_trường/N chợ_đen/N ở/E quốc_gia/N đông/N dân/N nhất/A thế_giới/N mặc_dù/C chủ_yếu/A thông_tin/N có/V được/V từ/E việc/N lừa_đảo/V cài_đặt/V mã/N độc/A
+Vụ/N trên/A đặt/V ra/R câu_hỏi/N công_ty/N công_nghệ/N Mỹ/Np quản_lý/V sao/T mà/C các/L nhà/N phân_phối/V Trung_Quốc/Np có_thể/R truy_cập/V lấy/V cắp/V dữ_liệu/N
+Tháng/N 3/2017/M nhóm/N hacker/N tự_xưng/V Gia_đình/N tội_phạm/N Thổ_Nhĩ_Kỳ/Np nói/V nắm/V trong/E tay/N quyền/N truy_cập/V 300/M triệu/N tài_khoản/N i/V Cloud/Np nhưng/C sẵn_sàng/A xóa/V thông_tin/N đăng_nhập/V nếu/C được/V Apple/Np trả/V một/M khoản/N tiền/N
+Sau/E đó/P đội/N tin_tặc/N tuyên_bố/V đã/R được/V Apple/Np trả/V tiền/N nhưng/C công_ty/N công_nghệ/N Mỹ/Np phủ_nhận/V

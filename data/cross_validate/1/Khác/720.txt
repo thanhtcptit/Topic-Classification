@@ -1,0 +1,27 @@
+Việt_Nam/Np trong/E top/N 20/M nước/N bị/V mã/V độc/A tống_tiền/V tấn_công/V
+Theo/E Kaspersky/Np mã/N độc/A tống_tiền/V  /N WannaCry/Np đang/R lây_lan/V mạnh/A trong/E đó/P chủ_yếu/A gây/V ảnh_hưởng/V tại/E Nga/Np
+Việt_Nam/Np nằm/V trong/E danh_sách/N 20/M nước/N hàng_đầu/N bị/V tấn_công/V bên_cạnh/N Ukraina/Np Ấn/V Độ/N Trung_Quốc/Np Đài_Loan/Np
+THN/M cho_hay/N phạm_vi/N lây_lan/V của/E mã/N độc/A tống_tiền/V này/P đã/R lên/V tới/E 99/M quốc_gia/N số/N máy_tính/N bị/V nhiễm/V không/R ngừng/V tăng/V
+Có/V tổng/N tộng/N 16/M tổ_chức/N của/E Anh/N dính/V WannaCry/Np trong/E đó/P bao_gồm/V Dịch_vụ/N Y_tế/N Quốc_gia/Np Anh/N /M NHS/Np /A buộc/V cơ_sở/N này/P phải/V từ_chối/V bệnh_nhân/N hủy_bỏ/V các/L hoạt_động/N và/CC sắp_xếp/V lại/R lịch/N hẹn/V
+Ransomware/N lớn/A nhất/R lịch_sử/N cũng/R nhắm/V vào/E hãng/N viễn_thông/N  /M Telefónica/Np của/E Tây_Ban_Nha/Np với/E trên/E 85%/M máy_tính/N
+Những/L nạn_nhân/N khác/A còn/R có/V công_ty/N viễn_thông/V Bồ_Đào_Nha/Np hãng/N  /N MegaFon/Np của/E Nga/Np hay/C dịch_vụ/N giao/V hàng/N FedEx/Np
+Người/N dùng/V tại/E Nhật_Bản/Np Thổ_Nhĩ_Kỳ/Np Philippines/Np
+cũng/R bị/V ảnh_hưởng/V
+Tương_tự/A các/L ransomware/N khác/A mã/N độc/A tống_tiền/V dụ/V người/N dùng/V bấm/V vào/E các/L email/N lừa_đảo/V thực_hiện/V tải/N các/L tập_tin/N hay/C ứng_dụng/V độc_hại/A
+Sau/E khi/N nhiễm/V WannaCry/Np quét/V toàn_bộ/L mạng/N nội_bộ/N và/CC lây_lan/V sang/V tất_cả/P máy_tính/N cùng/A hệ_thống/N
+Mã/Np độc/A tống_tiền/V này/P được/V xác_định/V tấn_công/V thông_qua/V lỗ_hổng/N SMB/Np trong/E hệ_điều_hành/N Windows/Np bằng/E cách/N khai_thác/V EternalBlue/Np
+Đáng/V chú_ý/V đây/P cũng/R chính/T là/V điểm/N mà/C  /N Cơ_quan/N An_ninh/N Quốc_gia/Np Mỹ/Np /V NSA/Np /V sử_dụng/V để/E hack/V các/L máy_tính/N
+Mặc_dù/C đã/R được/V Microsoft/Np vá/V từ/E tháng/N 3/M năm_ngoái/N nhưng/C vẫn/R còn/R một/M lượng/N lớn/A máy_tính/N chạy/V Windows/Np 7/M hay/C Server/Np 2008/M chưa/R cài_đặt/V bản/N sửa/V lỗi/N này/P
+Theo/E công_ty/N công_nghệ/N Mỹ/Np WannaCry/Np không/R gây/V ảnh_hưởng/V tới/E các/L máy_tính/N chạy/V Windows/Np 10/M trong/E đợt/N tấn_công/V này/P
+Sau/E khi/N lây_nhiễm/V  /V WannaCry/Np tiến_hành/V mã_hóa/V dữ_liệu/N trên/E máy_tính/N người/N dùng/V với/E các/L định_dạng/N tập_tin/V văn_phòng/N file/V đa_phương_tiện/N mã/V nguồn/N lập_trình/N chứng_chỉ/V mã_hóa/V hay/C tập_tin/V đồ_họa/N
+Tiếp_theo/V nó/P hiển_thị/V thông_báo/N đòi/V tiền/N chuộc/V nếu/C muốn/V giải_mã/V để/E cứu/V dữ_liệu/N
+Với_Wanna/Np Cry/Np kẻ/N đứng/V sau/E mã/N độc/A này/P đòi/V người/N dùng/V trong/E ba/M ngày/N kể/V từ/E thông_báo/N đầu_tiên/A phải/V thanh_toán/V 300/M USD/Nu bằng/E tiền/N ảo/A Bitcoin/Np để/E giải_mã/V
+Nếu/C quá/R thời_hạn/N trên/A số/N tiền/N chuộc/V sẽ/R tăng/V gấp/V đôi/M lên/E mức/N 600/M USD/Nu và/CC sau/E 7/M ngày/N thì/C dữ_liệu/N sẽ/R bị/V mất/V
+Mã/N độc/A hiển_thị/V thông_tin/N hướng_dẫn/V bằng/E 20/M ngôn_ngữ/N khác_nhau/A trong/E đó/P có/V cả/P tiếng/N Việt/Np
+Ngoài_ra/C một/M đồng_hồ/N đếm/V ngược/A cũng/R được/V thiết_kế/V để/E cảnh_báo/V
+Tuy_nhiên/C các/L chuyên_gia/N an_ninh/N cảnh_báo/V rằng/C việc/N chấp_nhận/V trả/V tiền/N chuộc/V không/R đảm_bảo/V người/N dùng/V sẽ/R lấy/V lại/R được/V toàn_bộ/L dữ_liệu/N
+Một_số/L mã/N độc/A tống_tiền/V có_thể/R vòi/N thêm/V các/L khoản/N lớn/A hơn/A hoặc/CC tiếp_tục/V mã_hóa/V trở_lại/V
+Người/N dùng/V được/R khuyến_cáo/N cập_nhật/V phần_mềm/N cho/E các/L thiết_bị/N cá_nhân/N máy_chủ/N lên/V bản/N mới/A nhất/A
+Với/E hệ_điều_hành/N đã/R ngừng/V hỗ_trợ/V như/C Windows/Np XP/Np Vista/Np Windows/Np 8/M Server/Np 2003/M và/CC 2008/M Microsoft/Np cũng/R mới/R tung/V ra/R bản/N vá/V khẩn_cấp/V
+Với/E các/L email/N liên_kết/V không/R đáng/V tin_cậy/V người/N dùng/V được/R khuyến_cáo/N tuyệt_đối/A không/R bấm/V vào/E
+Ngoài_ra/C việc/N cài_đặt/V phần_mềm/N diệt/V virus/N cũng/R giúp/V tăng_cường/V bảo_vệ/V máy_tính/N

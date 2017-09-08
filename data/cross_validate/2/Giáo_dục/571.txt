@@ -1,0 +1,19 @@
+Đại_học/N Quốc_gia/Np TP_HCM/Np ưu_tiên/V tuyển_sinh/V 116/M trường/N THPT/Np
+Trong/E đề_án/N tuyển_sinh/V đại_học/N cao_đẳng/N của/E Đại_học/N Quốc_gia/Np TP_HCM/Np công_bố/V mới_đây/X các/L trường/N thành_viên/N của/E hệ_thống/N này/P sẽ/R ưu_tiên/V xét/V tuyển/V theo/E quy_định/N riêng/A
+Ngoài/E 82/M trường/N chuyên/A năng_khiếu/N đã/R được/V công_bố/V từ/E năm_ngoái/N học_sinh/N của/E 34/M trường/N THPT/Np có/V điểm/N trung_bình/A thi/V THPT/Np quốc_gia/N cao/A nhất/A năm/N 2015/M 2016/M được/V bổ_sung/V vào/E danh_sách/N ưu_tiên/V
+Năm/N nay/P điều_kiện/N nhận/V hồ_sơ/N xét/V tuyển/V chung/A là/C tốt_nghiệp/V THPT/Np có/V điểm/N trung_bình_cộng/N ba/M năm_học/N THPT/Np đạt/V từ/E 6,5/M trở_lên/A với/E bậc/N đại_học/N và/CC 6/M trở_lên/A với/E bậc/N cao_đẳng/N
+Tổng/N chỉ_tiêu/N của/E 6/M trường/N thành_viên/N và/CC khoa/N Y/N trực_thuộc/V là/V 13 5/M bậc/N đại_học/N và/CC 450/M chỉ_tiêu/N bậc/N cao_đẳng/A
+Riêng/T trường/N Đại_học/N Quốc_tế/N sẽ/R dành/V 35%/M tổng/N chỉ_tiêu/N năm/N nay/P xét/V tuyển/V dựa/V vào/E kỳ/N kiểm_tra/V năng_lực/N theo/V dạng/N SAT_II/Np
+Thí_sinh/N dự/V thi/V hai/M môn/N môn/N bắt_buộc/V /N Toán/Np Logic_học/N /A và/CC môn/N tự/P chọn/V /Nc Lý/Np Hóa/Np Sinh/Np tiếng/N Anh/N /Np  /EOS
+Nội_dung/N đề/N thi/V các/L môn_học/N nằm/V trong/E chương_trình/N THPT/Np thời_gian/N làm/V bài/N là/V 1/M giờ/Nu 30/M phút/Nu theo/V hình_thức/N trắc_nghiệm/V
+Đại_học/N Quốc_tế/N cũng/R dành/V 5%/M chỉ_tiêu/N xét/V tuyển/V thẳng/A học_sinh/N đạt/V giải/N trong/E kỳ/N thi/V học_sinh/N giỏi/A quốc_gia/N 50%/M sử_dụng/V kết_quả/N thi/V THPT/Np quốc_gia/N và/CC 10%/M xét/V tuyển/V thẳng/A học_sinh/N giỏi/A các/L trường/N chuyên/A năng_khiếu/A  /EOS
+Trong/E khi/N đó/P trường/N Đại_học/N Kinh_tế/N Luật/N sẽ/R thêm/V một/M tổ_hợp/N thi/V xét/V tuyển/V mới/R là/V Toán/Np Ngoại_ngữ/N và/CC bài/N thi/V Khoa_học_tự_nhiên/N
+Trường/N này/P dành/V đến/E 80%/M tổng/N chỉ_tiêu/N để/E xét/V tuyển/V dựa/V vào/E kết_quả/N thi/V THPT/Np quốc_gia/N
+Trường_Đại/Np học/V Công_nghệ_thông_tin/N tuyển_sinh/V 1 0/M chỉ_tiêu/N với/E nhiều/A ngành/N chất_lượng/N cao/A như/C Kỹ_thuật/N phần_mềm/N Hệ_thống/N thông_tin/N Kỹ_thuật/N máy_tính/N
+Bên_cạnh/N hai/M tổ_hợp/N A00/Np /V Toán/Np Lý/Np Hóa/Np /V và/CC A01/M /N Toán/Np Lý/Np tiếng/N Anh/N /A trường/N này/P xét/V tuyển/V thêm/V một/M tổ_hợp/N mới/R D01/M /N Toán/Np Văn/Np tiếng/N Anh/N /A ở/E tất_cả/P các/L ngành/N
+Khoa/Np Y/N /M Đại_học/N Quốc_gia/Np TP_HCM/Np /V dành/V 175/M chỉ_tiêu/N cho/E hai/M ngành/N Y/N đa_khoa/N và/CC Dược_học/N với/E tổ_hợp/N xét/V tuyển/V B00/M /N Toán/Np Hóa/Np Sinh/V /N
+Tuần/N này/P nhiều/A trường/N đại_học/N tại/E TP_HCM/Np cũng/R công_bố/V đề_án/V tuyển_sinh/V 2017/M  /M Đại_học/N Công_nghiệp/N TP_HCM/Np tăng/V hơn/R 1 0/M chỉ_tiêu/N so/V với/E năm_ngoái/N tuyển/V  /M 8 0/M chỉ_tiêu/N đại_học/N chính_quy/A
+Trường/N này/P chỉ/R xét/V tuyển/V dựa/V vào/E kết_quả/N thi/V THPT/Np quốc_gia/N 2017/M với/E 11/M tổ_hợp/N xét/V tuyển/V  /EOS
+Trong/E khi/N đó/P  /N Đại_học/N Sài_Gòn/Np tuyển/V 3 0/M chỉ_tiêu/N đại_học/N và/CC 60/M chỉ_tiêu/N cao_đẳng/N
+Trường/N ngưng/V tuyển/V bậc/N cao_đẳng/A với/E ngành/N Giáo_dục/N mầm_non/N và/CC Giáo_dục/N tiểu_học/N
+Một_số/L ngành/N đại_học/N có/V chỉ_tiêu/N đại_học/N tăng/V như/C Giáo_dục/N mầm_non/N Giáo_dục/N tiểu_học/N và/CC Công_nghệ_thông_tin/N

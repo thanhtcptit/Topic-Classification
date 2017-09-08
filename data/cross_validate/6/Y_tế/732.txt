@@ -1,0 +1,19 @@
+N Can_thiệp/V vàng/N A cứu/V người/Nc đàn_ông/N bị/V đâm/V 8/M nhát/N
+Người/Nc đàn_ông/N 43/M tuổi/N nhập_viện/V trong/E tình_trạng/N nguy_kịch/A với/E nhiều/A nhát/N dao/N đâm/V vào/E ngực/N trái/N tay_trái/N
+Các/L bác_sĩ/N Bệnh_viện/N huyện/N Bình_Chánh/Np /M TP_HCM/Np /M đã/R phát/V lệnh/N báo_động/V đỏ/A liên_lạc/V Bệnh_viện/N Chợ_Rẫy/Np chuẩn_bị/V sẵn/A tinh_thần/N tiếp_ứng/V
+Bệnh_nhân/N được/V tích_cực/A hồi_sức/V  /N để/E đảm_bảo/V sức_khỏe/N trên/E đường/N chuyển/V viện/N thông/V đường/N thở/V truyền/V dịch/N nhanh/A để/E duy_trì/V huyết_áp/N
+Bác_sĩ/N Phạm_Văn_Khiêm/Np Phó/Z khoa/N Cấp_cứu/V Bệnh_viện/N Chợ_Rẫy/Np cho_biết/V sau/E khi/N nhận/V được/R thông_báo/N bệnh_nhân/N bị/V đâm/V vào/E ngực/N nghi_ngờ/V vết_thương/N tim/N nơi/N này/P đã/R khởi_động/V phương_án/N can_thiệp/V vàng/N
+Kíp/N phẫu_thuật/V bác_sĩ/N gây_mê/V hồi_sức/V được/R huy_động/V sẵn_sàng/A  /M Khoảng/N
+10/M phút/Nu sau/E khi/N xe/N cấp_cứu/V đến/V bệnh_nhân/N đã/R được/V lên/V bàn/N mổ/V ngay/T tại/E khoa/N cấp_cứu/V  /EOS
+Bác_sĩ/N Đoàn_Tri_Hảo/Np Khoa_Ngoại_Lồng/Np ngực/N cho_biết/V lúc/N tiếp_nhận/V bệnh_nhân/N đã/R hôn_mê/V đang/R bóp/V bóng/N nội/N khí_quản/N
+Vùng/N ngực/N trái/A bệnh_nhân/N có/V 8/M vết_thương/N
+Siêu_âm/N tại/E giường/N cho/V thấy/V tràn/V dịch/N màng/N ngoài/E tim/N Xquang/Np phổi/N ghi_nhận/V tràn/V dịch/N màng/N phổi/N phải/V
+Kíp/N phẫu_thuật/V đã/R mở/V lồng_ngực/N khâu/N vết_thương/N mỏm/V tim/N kịp_thời/A giúp/V bệnh_nhân/N thoát/V khỏi/R tình_trạng/N thập_tử_nhất_sinh/X
+Bệnh_nhân/N cũng/R được/V khâu/N vết_thương/N nẹp/V bột/N cẳng_tay/V trái/N
+Bệnh_nhân/N hiện/N hồi_phục/V tốt/A
+Vết_thương/N tim/N quan_trọng/A nhất_là/X thời_điểm/N
+Đôi_khi/R cấp_cứu/V chậm/A một_vài/L phút/N bệnh_nhân/N có_thể/R ảnh_hưởng/V tính_mạng/N hoặc/CC dù/E khâu/N được/V thì/C tiên_lượng/N phục_hồi/V cũng/R chậm/A bác_sĩ/N Hảo/Np nói/V
+Bác_sĩ/N Phạm_Thanh_Việt/Np Trưởng_Phòng_Kế/Np hoạch/V tổng_hợp/V Bệnh_viện/N Chợ_Rẫy/Np cho_biết/V  /A với/E những/L bệnh_nhân/N chấn_thương/A quá/R nặng/A sự/N sống/V được/R tính/V từng/R phút/N từng/R giây/N nếu/C chuyển/V lên/R phòng/N phẫu_thuật/V có_thể/R đe/V đọa/V tính_mạng/N
+Phương_án/N can_thiệp/V vàng/N mổ/V khẩn/A bệnh_nhân/N ngay/T tại/E phòng/N mổ/V khoa/N cấp/N cứu_giúp/V tranh_thủ/V tối_đa/A thời_gian/N để/E giành/V lại/R sự/N sống/V
+Theo/E bác_sĩ/N Việt/Np các/L bác_sĩ/N phòng/N cấp_cứu/V luôn/R trong/E tâm_thế/N sẵn_sàng/A
+Tuy_nhiên/C khi/N tuyến/N dưới/E có/V báo_động/V trước/A sơ_cứu/V ban_đầu/N tốt/A như_thế_này/X thì/C tuyến/N trên/N sẽ/R có/V sự/N chuẩn_bị/V chu_đáo/A và/CC cứu_mạng/V bệnh_nhân/N kịp_thời/A hơn/R

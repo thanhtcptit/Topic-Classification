@@ -1,0 +1,6 @@
+Đồng_Nai/Np Bệnh_nhân/N Zika/Np đầu_tiên/A là/V thai_phụ/N 
+Ngày/N 4/12/M lãnh_đạo/N Sở/N Y_tế/N tỉnh/N Đồng_Nai/Np cho_biết/V Viện_Pasteur/Np TPHCM/Np đã/R có/V thông_báo/V về/E một/M trường_hợp/N nhiễm/V vi_rút/N Zika/Np ở/E Đồng_Nai/Np 
+Theo/E đó/P bệnh_nhân/N nhiễm/V vi_rút/N Zika/Np là/V một/M phụ_nữ/N 24/M tuổi/N mang/V thai/N 29/M tuần/N ngụ/V tại/E khu_phố/N 10/M phường/N An_Bình/Np TP.Biên/Np Hòa/Np Đồng_Nai/Np 
+Sau/E khi/N phát_hiện/V ca/N bệnh/N đầu_tiên/A ngay/T trong/E chiều/N 4/12/M Trung_tâm/N y_tế/N dự_phòng/V Đồng_Nai/Np đã/R triển_khai/V phun/V hóa_chất/N diệt/V muỗi/N diện/N rộng/A tại/E khu_phố/N 10/M phường/N An_Bình/Np TP/Np Biên_Hòa/Np kết_hợp/V diệt/V lăng_quăng/N nhằm/V khống_chế/V không/R để/E xảy_ra/V ca/N mắc/V mới/R trong/E khu_vực/N 
+Sau/E khi/N phát_hiện/V ca/N bệnh/N đầu_tiên/A Sở/N Y_tế/N Đồng_Nai/Np đã/R lên/V kế_hoạch/N họp/V khẩn_cấp/V với/E Ban/N Chỉ/V đạo/N phòng_chống/V và/CC loại_trừ/V dịch_bệnh/N nguy_hiểm/A tỉnh/N Đồng_Nai/Np triển_khai/V ngay/R công_tác/N công_bố/V dịch_bệnh/N do/E virus/N Zika/Np tại/E địa_bàn/N khu_phố/N 10/M phường/N An_Bình/Np TP.Biên/Np Hòa/Np 
+Vĩnh_Thủy/Np 

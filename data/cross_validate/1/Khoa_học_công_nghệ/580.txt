@@ -1,0 +1,10 @@
+Robot/Np tự_hành/V thay_thế/V xe_đẩy/N y_tế/N
+Nhóm/N nghiên_cứu/V thuộc/V Đại_học/N Công_nghệ/N Toyohashi_Nhật_Bản/Np đang/R phát_triển/V một/M robot/N có_thể/A di_chuyển/V mọi/L hướng/N tên/N là/V Terapio/Np
+Nó/P có/V khả_năng/N thay_thế/V chức_năng/N của/E một/M xe_đẩy/N y_tế/N truyền_thống/N chuyên/A vận_chuyển/V dụng_cụ/N đồ_dùng/N y_tế/N cho/E các/L bác_sĩ/N y_tá/N
+Theo/E  /N Gizmag/Np khi/N đi/V cùng_với/C nhân_viên/N y_tế/N Terapio/Np hoạt_động/V ở/E chế_độ/N Theo/V dấu/N Human_Tracking/Np mode/V
+Terapio/Np đi/V theo/E phía/N sau/N nhân_viên/N nó/P được/R phân_công/V trợ_giúp/V và/CC chủ_động/V tránh/V chướng_ngại_vật/N
+Để/E điều_khiển/V vị_trí/N của/E Terapio/Np chính_xác/A hơn/A người/N sử_dụng/V có_thể/R di_chuyển/V nó/P bằng/E tay/N thông_qua/V chế_độ/N Điều_khiển/V Power_Assist/Np mode/V
+Trong/E trường_hợp/N này/P nhân_viên/N đẩy/V nhẹ/A vào/E tay_cầm/N hình_tròn/N phía/N trên/A robot/N
+Nó/P sẽ/R di_chuyển/V theo/E hướng/N người/N đó/P mong_muốn/V
+Ở/E chế_độ/N Quay_vòng/N Round/Np mode/V Terapio/Np ghi/V lại/R những/L dữ_liệu/N quan_trọng/A về/E tình_hình/N bệnh_nhân/N lưu_trữ/V thông_tin/N và/CC hiển_thị/N chúng/P trên/E màn_hình/N cảm_ứng/N LCD/Np
+Trong/E thời_gian/N không/R sử_dụng/V Terapio/Np sẽ/R tập_kết/V tại/E một/M trạm/N sạc/V pin/N cập_nhật/V phần_mềm/N thông_qua/V kết_nối/V với/E máy_chủ/N

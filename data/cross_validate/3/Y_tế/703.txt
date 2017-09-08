@@ -1,0 +1,15 @@
+Giám_đốc/N bệnh_viện/N Hòa_Bình/Np bị/V đình_chỉ/V liên_quan/V 18/M người/N tai_biến/V chạy/V thận/N
+Sở/N Y_tế/N tỉnh/N Hòa_Bình/Np sáng/N 8/6/M công_bố/V quyết_định/V tạm/A đình_chỉ_công_tác/X 3/M cán_bộ/N  /N liên_quan/V vụ/N tai_biến/V chạy/V thận/N tại/E bệnh_viện/N đa_khoa/N tỉnh/N  /M 3/M người/N bị/V kỷ_luật/V gồm/V ông/N Trương_Quý_Dương/Np Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np ông/N Trần_Văn_Sơn/Np nhân_viên/N phòng/N vật_tư/N bệnh_viện/N và/CC điều_dưỡng/V Đỗ_Thị_Điệp/Np ở/E khoa/N Thận/N nhân_tạo/A
+3/M người/N này/P bị/V tạm/A đình_chỉ_công_tác/X để/E phục_vụ/V điều_tra/V và/CC xem_xét/V trách_nhiệm/N liên_quan/V đến/E vụ/N tai_biến/V 18/M bệnh_nhân/N chạy/V thận/N tại/E Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np ngày/N 29/5/M khiến/V 8/M người/N chết/V
+10/M bệnh_nhân/N còn/V lại/R đã/R hồi_phục/V sức_khỏe/N xuất_viện/N sáng/N 8/6/M
+Một/M ngày_sau/N sự_cố/N ông/Nc Dương/Np đã/R xin_lỗi/V bệnh_nhân/N
+Nguyên_nhân/N tai_biến/V ban_đầu/N được/V Hội_đồng/N chuyên_môn/N tỉnh/N Hòa_Bình/Np nhận_định/V có_thể/R do/E nguồn/N nước/N chạy/V thận/N
+Một/M ngày_trước/N tai_biến/A hệ_thống/N nước/N được/V một/M công_ty/N Hà_Nội/Np bảo_dưỡng/V bảo_trì/V  /EOS
+Ngày/N 7/6/M Công_an/N tỉnh/N Hòa_Bình/Np đã/R dựng/V lại/R hiện_trường/N vụ/N tai_biến/V tại/E khoa/N Thận/N nhân_tạo/A bệnh_viện/N đa_khoa/N tỉnh/N
+Công_an/N cũng/R mời/V các/L chuyên_gia/N trong/E lĩnh_vực/N thiết_bị/N y_tế/N tới/V đánh_giá/V về/E chất_lượng/N máy_móc/N và/CC quy_trình/N chạy/V thận/N nhân_tạo/A tại/E bệnh_viện/N
+Sáng/N 29/5/M 18/M bệnh_nhân/N suy/V thận/N mãn/N đang/R chạy/V thận/N nhân_tạo/A ở/E Bệnh_viện/N Đa_khoa/Np tỉnh/N Hòa_Bình/Np đột_ngột/A có/V dấu_hiệu/N bất_thường/A
+8/M người/N lần_lượt/R tử_vong/V 10/M người/N được/V chuyển/V về/E Bệnh_viện/N Bạch_Mai/Np ngay/T trong/E đêm/N hiện/N sức_khỏe/N đã/R hồi_phục/V
+Nguyên_nhân/N gây/V tai_biến/N đang/R được/V điều_tra/V
+Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình_Trương_Quý_Dương/Np gửi/V lời/N  /V xin_lỗi/V  /A các/L bệnh_nhân/N và/CC gia_đình/N
+Bộ/N Y_tế/N đánh_giá/V đây/P là/V ca/N  /V tai_biến/N y_khoa/N nghiêm_trọng/A  /A nhất/R trong/E nhiều/A năm/N qua/V
+Công_an/N tỉnh/N Hòa_Bình/Np  /V khởi_tố/V vụ_án/N  /A để/E điều_tra/V nguyên_nhân/N tai_biến/V

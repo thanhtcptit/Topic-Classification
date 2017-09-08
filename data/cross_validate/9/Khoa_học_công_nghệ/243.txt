@@ -1,0 +1,17 @@
+​/N Cách/V dùng/V phím/N bí/N mật/N Start/Np của/E Windows/Np 10/M
+Và/C thường/R thì/C mỗi/M khi/N bắt_tay/V vào/E công_việc/N chúng_ta/N sẽ/R nhấp/V chuột/V vào/E đó/P và/N lần_lượt/N kích/V chọn/V tới/E các/L phần/N ứng_dụng/N và/CC công_cụ/N liên_quan/V tới/E công_việc/N đang/R làm/V
+Việc/N này/P đôi_khi/N tốn/V khá/R nhiều/A thời_gian/N
+Nhưng/C bạn/N đã/R bao_giờ/P bấm/V chuột/N phải/V vào/V nút/N Start/Np đó/N chưa/R
+Nếu/C bạn/N chưa/R từng/R thì/N đó/P chính/R là/V cú/N nhấp/V chuột/V siêu/N đơn_giản/A mở/V ra/R lối/N tắt/V để/E bạn/N truy_cập/V ngay/A và/N luôn/N vào/V các/L file/N tài_liệu/N hình_ảnh/N và/CC các/L ứng_dụng/N quen_thuộc/A mà/C bình_thường/A nếu/C đi/V theo/V kiểu/N truyền_thống/N bạn/N phải/A mất/V vài/L phút/N để/V tìm/V ra/R chúng/N
+Ở/E phiên_bản/N Windows/Np 10/M các/L kĩ_sư/N lập_trình/N của/E Microsoft/Np đã/R nỗ_lực/V rất/R nhiều/A để/E khiến/V HĐH/N này/P trở_nên/V tiện_dụng/A hơn/R các/L phiên_bản/N trước/N
+Tuy_nhiên/C nếu/C không/R biết/V cách/N đi_tắt/V với/E nút/N Start/Np như/C vừa/N nêu/V ở/V trên/E bạn/N sẽ/R rất/R mất/V thời_gian/N để/E đến/V được/R công_cụ/N phổ_biến/A nhất/A của/E Windows/Np 10/M
+Chẳng_hạn/N nếu/C máy_tính/N của/E bạn/N đang/R chạy/V quá/V chậm/A làm/V thế_nào/N để/E biết/V được_cái/N gì/P đang/R khiến/V nó/P ì_ạch/A như/C vậy/P
+Bằng/Np cách/V đi_tắt/V với/E phím/N Start/Np bạn/N truy_cập/V thẳng/A vào/E phần/N Task_Manager/Np bấm/V chọn/V và/N chờ_đợi/V khoảng/A 1/M phút/Nu bạn/N sẽ/R biết/V những/L chương_trình/N nào/P đang/R hoạt_động/V trên/E máy_tính/N của/N mình/N
+Cũng/R như/C thế/N bạn/N sẽ/R dễ_dàng/A hơn/R trong/E việc/N gỡ/V bỏ/V cài_đặt/N một/M ứng_dụng/N nào/P đó/P khi/N chỉ/R cần/V nhấp/V chuột/N phải/V vào/V nút/N Start/Np chọn/V Programs/Np and/N Features/Np mà/C không/R phải/A chạy/V lòng_vòng/A qua/V nhiều/A thao_tác/N bấm/V chuột/N như/N trước/N
+Tương_tự/A như/C vậy/P phím/N Start/Np thần_thánh/A còn/R giúp/V bạn/N truy_cập/N rất/R nhanh/A vào/E các/L công_cụ/N khác/A như/A Network_Connections/Np Disk_Management/Np Shut_Down/Np
+Còn/V một_cách/N khác/A nữa/R để/V truy_cập/V vào/R nút/N Start/Np bí_ẩn/A của/E Windows/Np 10/M
+Theo/E đó/P bạn/N nhấn/N giữ/V phím/N Windows/Np trên/E bàn_phím/N có/V hình/N cửa_sổ/N và/CC thường/A ở/V góc/N trái/A bên/N dưới/A bàn_phím/N và/CC nhấn/N đồng_thời/N phím/V X/Np
+Công_dụng/N của/E tổ_hợp/N phím/N nóng/A này/P thực_chất/N không/R phải/A là/V một/M bí_mật/N nhưng/C đôi_khi/N có/V những/L mẹo_mực/N mà/C các/L hãng/N công_nghệ/N thường/A không/R chia_sẻ/V rộng_rãi/N
+Họ/P chỉ/R cung_cấp/V cho/E một_số/N người_dùng/N chuyên_nghiệp/A chẳng_hạn/N như/C các/L chuyên_gia/N phát_triển/V ứng_dụng/N cho/V Windows/Np 10/M
+Và/C tổ_hợp/N phím/N tắt/N Windows/Np X/Np này/P có_thể/A rơi/V vào/E trường_hợp/N này/P
+Lưu_ý/V thêm/V Nếu/N bạn/N sử_dụng/V latop/N hay/N máy_tính_bảng/N có/V màn_hình/N cảm_ứng/N bạn/N có_thể/A truy_cập/V vào/E menu/N bí_ẩn/A của/E Windows/Np 10/M bằng/N cách/N chạm/V giữ/V nút/N Start/Np và/CC chờ/V cho/E tới/V khi/N menu/N này/P xuất_hiện/V

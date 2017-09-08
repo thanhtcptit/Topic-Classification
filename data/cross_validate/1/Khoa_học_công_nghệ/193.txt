@@ -1,0 +1,47 @@
+Hiểu/V về/E các/L hình_thức/N huy_động/V vốn/N cho/V startup/V
+Cổ_phần/N Equity/Np
+Với/E hình_thức/N này/P nhà/N đầu_tư/V sẽ/R góp/V vốn/N vào/V startup/N để/E đổi/V lấy/R quyền_sở_hữu/N
+Tỉ_lệ/N cổ_phần/N equity/V stake/N sẽ/R dựa/V trên/E thoả_thuận/N giữa/N công_ty/N startup/N và/CC nhà/N đầu_tư/V
+Cách/V hoạt_động/V Trước/E khi/N thoả_thuận/N huy_động/V vốn/N công_ty/N startup/V sẽ/R định_mức/V giá_trị/N valuation/N của/E công_ty/N mình/N
+Dựa/V trên/E mức/N định_giá/N và/CC số/N vốn/N nhà/N đầu_tư/V cung_cấp/V nhà/N đầu_tư/V sẽ/R sở_hữu/V cổ_phần/N nhất_định/N của/N startup/N
+Khi/N startup/N có/V lời/N hoặc/N bán/V đi/V nhà/N đầu_tư/V sẽ/R nhận/V được/R lợi_tức/V theo/V tỉ_lệ/N sở_hữu/V cổ_phần/N
+Ví_dụ/N cụ_thể/A Startup/Np A/Np quyết_định/V huy_động/V vốn/N cổ_phần/N với/E định_mức/N giá_trị/N doanh_nghiệp/N là/V 1000000/M USD/Nu
+Nhà/N đầu_tư/V X/Np quyết_định/V đầu_tư/V 100000/M USD/Nu vào/E Startup/Np A/Np
+Như/C vậy/P họ/P có/V 10/M cổ_phần/N tại/E Startup/Np A/Np
+Khi/N nào/P nên/V huy_động/V vốn/N cổ_phần/N
+a/N Khi/N bạn/N cần/V một/M đường/N chạy/V dài/A Không/R phải/A doanh_nghiệp/N khởi_nghiệp/V sáng/N tạo/N nào/N cũng/R có_thể/A sinh/V lời/N ngay_lập_tức/N mà/C cần/V một/M khoảng/N thời_gian/N –/N có_khi/N là/V một_vài/N năm/N –/A để/E có_thể/V phát_triển/V một_cách/N ổn_định/A
+Nếu/C bạn/N cần/V một/M khoản/N tiền/N tương_đối/A lớn/A để/E duy_trì/V hoạt_động/N của/E startup/N huy_động/V vốn/N cổ_phần/N là/V một/M lựa_chọn/N tốt/A
+b/N Khi/N bạn/N không/R có/V tài_sản/N thế_chấp/N Để/E tiến_hành/V vay/V vốn/N taking/N out/V loans/N bạn/N sẽ/R phải/V cung_cấp/V tài_sản/N thế_chấp/N để/E đảm_bảo/V bạn/N sẽ/R thực_hiện/V nghĩa_vụ/N nợ/N với/N chủ_nợ/N
+Nếu/C bạn/N không/R có/V tài_sản/N thế_chấp/N lựa_chọn/N thực_tế/N nhất_là/N mời_gọi/V các/L nhà/Nc đầu_tư/V rót/V vốn/N vào/V doanh_nghiệp/N
+c/N Khi/N bạn/N không_thể/A chỉ/V dựa/V trên/E vốn_tự_có/N của/E doanh_nghiệp/N Với/E một_số/N lĩnh_vực/N đòi_hỏi/V rất/R nhiều/A vốn/N capital/V intensitve/N bản_thân/N doanh_nghiệp/N startup/N không_thể/R tự/V cung_cấp/V
+Huy_động/V vốn/N cổ_phần/N là/V phương_án/N cần_thiết/V để/E đảm_bảo/V sự/N tồn_tại/V ban_đầu/A của/N doanh_nghiệp/N
+Vay/V vốn/N Loans/Np
+Vay/V vốn/N đầu_tư/V là/V một/M khái_niệm/N khá/R quen_thuộc/A và/CC dễ/A hiểu/V startup/N sẽ/R vay/V một/M khoản/N tiền/N để/E đầu_tư/V cho/E hoạt_động/N của/E doanh_nghiệp/N với/E lãi_suất/N nhất_định/N
+Cách/V hoạt_động/V Khi/N quyết_định/V huy_động/V vốn/N theo/V phương_thức/N vay/V startup/N sẽ/R thoả_thuận/V với/E chủ_nợ/N về/V lãi_suất/N cho/V vay/V
+Doanh_nghiệp/N cũng/R có_thể/A cung_cấp/V khung/N thời_gian/N dự_kiến/V sẽ/R hoàn_trả/V khoản/N vay/V
+Ngoài_ra/C doanh_nghiệp/N cũng/R cần/V phải/V cung_cấp/V tài_sản/N thế_chấp/N để/E chủ_nợ/V có_thể/A đảm_bảo/V sẽ/R thu_hồi/V khoản/N đã/R cho/V vay/V nếu/N công_ty/N hoạt_động/V không/R như/A mong_muốn/V
+Tài_sản/N thể/N chấp/N càng/R có/V giá_trị/N doanh_nghiệp/N càng/R có/V cơ_hội/N vay/V được/R nhiều/A vốn/N
+Ví_dụ/N cụ_thể/A Startup/Np A/Np quyết_định/V vay/V vốn/N với/E giá_trị/N tổng_cộng/N 100000/M USD/Nu
+Trong/E quá_trình/N thoả_thuận/N Startup/Np A/Np đưa/V ra/R điều_khoản/N lãi_suất/N 5/M một/M năm/N
+Startup/N A/Np đưa/V ra/R tài_khoản/N thế_chấp/N là/V xe_hơi/N của/E các/L thành_viên/N sáng_lập/N
+Khi/N nào/P nên/V vay/V vốn/N
+a/N Khi/N bạn/N cần/V ít/A hơn/R 50000/M USD/Nu Vay/V vốn/N là/V hình_thức/N thích_hợp/N nếu/N doanh_nghiệp/N startup/N cần/V một/M khoản/N tiền/N không/R quá/V lớn/A
+Với/E nhu_cầu/N huy_động/V vốn/N nhỏ/V bán/V cổ_phần/N doanh_nghiệp/N không/R phải/A là/V hình_thức/N hợp_lí/V
+b/N Khi/N bạn/N cần/V vốn/N gấp/A Nếu/C có/V một/M cơ_hội/N thị_trường/N rất/R hấp_dẫn/A nhưng/C bạn/N sẽ/R bỏ/V lỡ/V trừ/N khi/N bạn/N huy_động/V được/V vốn/N ngay_lập_tức/N bán/V cổ_phần/N là/V một/M lựa_chọn/N tồi/N vì/C nó/P là/V một/M quá_trình/N rất/R tốn/V thời_gian/N
+Vay/V vốn/N thường/N cung/N cấp_vốn/V nhanh/A hơn/R và/N bạn/N sẽ/R không/R bỏ/V lỡ/V cơ_hội/N
+c/N Khi/N bạn/N cần/V tiền/N vì/E một/M lí_do/N cụ_thể/A Nếu/C bạn/N cần/V vốn/N để/V thuê/V văn_phòng/N mua_sắm/V máy_móc/N hoặc/N các/L trang_thiết_bị/N khác/A vay/V vốn/N là/V một/M hình_thức/N huy_động/V vốn/N tốt/A
+Bạn/N có_thể/R dùng/V các/L máy_móc/N làm/V tài_sản/N thể/N chấp/N và/CC cung_cấp/V khung/N thời_gian/N cụ_thể/A với/E bên/N cho/V vay/V
+Nợ/N chuyển_đổi/N Convertible/Np note/V
+Nợ/N chuyển_đổi/A là/V hình_thức/N huy_động/V vốn/N kết_hợp/V giữa/N bán/V cổ_phần/N và/CC vay/V vốn/N
+Doanh_nghiệp/N startup/N vay/V vốn/N từ/E các/L nhà/Nc đầu_tư/V và/CC hai/M bên/N đều/R nhất_trí/V rằng/N khoản/N vay/V sẽ/R được/V hoàn_trả/V hoặc/N biến/V thành/V cổ_phần/N trong/N doanh_nghiệp/N tại/E một/M thời_điểm/N trong/N tương_lai/N
+Cách/V hoạt_động/V Các/L điều_khoản/N cụ_thể/A về/V cách/V chuyển_đổi/V từ/E nợ/N thành/N cổ_phần/N sẽ/R được/V xác_định/V lúc/N cho/V vay/V
+Thông_thường/A sẽ/R có/V các/L khoản/N khuyến_khích/V để/E các/L nhà/Nc đầu_tư/V chuyển/V nợ/N thành/N cổ_phần/N ví_dụ/V như/C giảm_giá/N ở/E vòng/N tiếp_theo/N của/E việc/N huy_động/V vốn/N
+Hai/M bên/N cũng/R sẽ/R thoả_thuận/V lãi_suất/N cho/V vay/V như/C hình_thức/N vay/V vốn/N để/E doanh_nghiệp/N startup/N trả/V cho/E nhà/N đầu_tư/V cho/E tới/E khi/N họ/N quyết_định/V chuyển_đổi/V thành/N cổ_phần/N
+Ngoài_ra/C điều_khoản/N cũng/R sẽ/R có/V một/M mức/N định/V giá_trần/N valuation/N cap/N nhằm/V quy/V định_khoản/N tối_đa/A nhà/N đầu_tư/V có_thể/V chuyển_đổi/V nợ/V thành/N cổ_phần/N của/E doanh_nghiệp/N startup/N
+Trước/E khi/N nợ/N được/V chuyển_đổi/V nhà/N đầu_tư/V vẫn/R được/V coi/V là/C chủ_nợ/N không/R nắm/V giữ/V cổ_phần/N của/E doanh_nghiệp/N startup/N nên/C doanh_nghiệp/N vẫn/R sẽ/R có/V toàn_quyền/N kiểm_soát/V hoạt_động/V
+Ví_dụ/N cụ_thể/A Startup/Np A/Np quyết_định/V huy_động/V vốn/N theo/V hình_thức/N nợ/N chuyển_đổi/A với/E số_lượng/N là/V 1000000/M USD/Nu
+Nhà/N đầu_tư/V X/Np chấp_nhận/V cho/V vay/V với/E lãi_suất/N 5/M và/N giảm_giá/N 25/M
+Ở/E vòng/N huy_động/N vốn/N tiếp_theo/V nhà/N đầu_tư/V X/Np sẽ/R nhận/V 1250000/M USD/Nu trong/E cổ_phần/N của/E Startup/Np A/Np
+Khi/N nào/P nên/V huy_động/V theo/V nợ/N chuyển_đổi/N
+Hình_thức/N huy_động/V theo/V nợ/N chuyển_đổi/N thích/V hợp_nhất/N đối_với/E các/L startup/N chưa/R sẵn_sàng/A để/E định_mức/V giá_trị/N doanh_nghiệp/N hoặc/N là/V vì/N còn/V quá/V sớm/A để/E định_giá/V hoặc/N là/V vì/E họ/P tin/V rằng/E giá_trị/N doanh_nghiệp/N sẽ/R tăng/V vọt/N trong/N tương_lai/N
+Nếu/C bạn/N tin/V rằng/C giá_trị/N doanh_nghiệp/N của/E mình/P sẽ/R tăng/V vọt/N trong/N tương_lai/N gần/A nhưng/C bạn/N vẫn/R muốn/V đợi/V và/N bán/V cổ_phần/N vào/V một/M thời_điểm/N khác/A thoả_thuận/N nợ/N chuyển_đổi/A với/E các/L nhà/Nc đầu_tư/V sẽ/R cho/V doanh_nghiệp/N startup/N huy_động/V vốn/N kịp_thời/A cũng/R như/C bảo_vệ/V được/R giá_trị/N cổ_phần/N của/E doanh_nghiệp/N trong/N tương_lai/N

@@ -1,0 +1,13 @@
+Mộ/N vợ/N vua/N Tự_Đức/Np bị/V san_ủi/V Đơn_vị/N thi_công/V xin_lỗi/N
+Chiều/N 276/M ông/N Nguyễn_Văn_Hà/Np chánh/N thanh_tra/N Sở/N Văn_hoá/N thể_thao/N tỉnh/N Thừa_Thiên/Np Huế/Np cho/V biết/V đại_diện/V công_ty/N Chuỗi_Giá_Trị/Np đơn_vị/N thi_công/V bãi/N đỗ/V xe/N lăng/N Tự_Đức/Np đã/R xin_lỗi/V vì/E hành_vi/N san_lấp/V mộ/N vợ/N vua/N Tự_Đức/Np
+Theo/E ông/Nc Hà/Np trong/E buổi/N làm_việc/V giữa/N các/L bên/N liên_quan/V trong/E chiều/N 266/M ông/N Lê_Quốc_Tuấn/Np giám_đốc/N Công_ty/N TNHH/Np TM/Np amp/V
+DV/Np Chuỗi_Giá_Trị/Np đã/R nhận/V trách_nhiệm/N về/V việc/N san_lấp/V ngôi/N mộ/N của/E vợ/N vua/N Tự_Đức/Np mà/C không/R báo_cáo/V cho/E các/L cơ_quan_chức_năng/N
+Ông/Nc Tuấn/Np đã/R gửi/V lời/N xin_lỗi/V đến/R Hội_đồng/N trị_sự/N Nguyễn_Phước/Np tộc/N đến/V mọi/N người/N các/L cơ_quan/N liên_quan/V và/N mong/V được/R tha_thứ/V
+đồng_thời/R cam_kết/V khắc_phục/V mọi/N hậu_quả/N mà/C các/L bên/N liên_quan/N yêu_cầu/N
+Ông/Nc Hà/Np còn/R cho/V biết/V thêm/V sau/N khi/N tiến_hành/V rà_soát/V Thanh_tra/N Sở/N Văn_hoá/N thể_thao/N tỉnh/N kết_luận/V rằng/N ngôi/N mộ/N của/E vợ/N vua/N Tự_Đức/Np bị/V vùi/V lấp/V không/R nằm/V trong/E danh_sách/N các/L công_trình/N được/V xếp_hạng/V di_tích/N
+Tuy_nhiên/C theo/V quan_điểm/N của/E chúng_tôi/P cho_dù/N lăng_mộ/N nào/N của/E bất_kì/N ai/N thì/C cũng/R phải/V được/R ứng_xử/V trân_trọng/N có/V văn_hoá/N và/CC đúng/A quy_định/N pháp_luật/N ông/Nc Hà/Np nói/V
+Còn/R về/V việc/N xử_lí/V vụ_việc/N ông/N Hà/Np cho/V biết/V đang/R chờ/V UBND/Np tỉnh/N chỉ_đạo/V cụ_thể/N nhằm/V xử_lí/V hợp/N tình/N và/CC đúng/A quy_định/N
+Ông/N Phan_Thanh_Hải/Np giám_đốc/N Trung_tâm/N bảo_tồn/V di_tích/N cố_đô/N Huế/Np cho/V biết/V đơn_vị/N cũng/R vừa/R nhận/V được/R đề_xuất/V lập/V hồ_sơ/N hiện_trạng/N để/E phục_dựng/V lại/R lăng_mộ/N của/E vợ/N vua/N Tự_Đức/Np bị/V vùi/V lấp/V
+Tuy_nhiên/C việc/N phục_dựng/V ngôi/N mộ/N tại/E vị_trí/N cũ/A hay/C chuyển/V đi/V nơi/N khách/N còn/R phải/V chờ/V ý_kiến/N của/E UBND/Np tỉnh/N Thừa_Thiên/Np Huế/Np
+Như/C Tuổi_Trẻ_Online/Np đã/R thông_tin/V ngày/N 246/M trong/N hiện_trường/N san_ủi/V khu/N đất/N để/E làm/V bãi/N đỗ/V xe/N ở/V phường/N Thuỷ_Xuân/Np TP/Np Huế/Np đã/R tìm/V thấy/V tấm/N bia/N của/E một/M ngôi/Nc mộ/N khắc/V các/L chữ/N Hán/Np Tiền_Triều_Tài_Nhân_Cửu_Giai_Lê_Thị_Thuỵ_Thục_Thuận_Chi_Mộ/Np
+Trung_tâm/N bảo_tồn/V di_tích/N cố_đô/N Huế/Np xác_định/V đây/P là/V bia/N mộ/N của/E một/M bà/N vợ/N vua/N Tự_Đức/Np

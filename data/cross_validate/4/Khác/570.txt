@@ -1,0 +1,26 @@
+Tủ_lạnh/N thông_minh/A có_thể/R phát_nổ/V vì/E hacker/N
+Các/L thiết_bị/N điện_tử/N thông_minh/A mang/V lại/R tiện_ích/A ngày_càng/X nhiều/A cho/E sinh_hoạt/N trong/E gia_đình/N tuy_nhiên/C các/L mối/N lo/V về/E vấn_đề/N bảo_mật/V cũng_như/C khả_năng/N dễ/A bị/V tổn_thương/V xâm_nhập/V của/E chúng/P cũng/R dần/R được/R chú_ý/V tới/E
+Nhiều/A nhóm/N tội_phạm/N đang/R tìm/V cách/N khai_thác/V lỗ_hổng/N bảo_mật/V nhắm/V vào/E các/L thiết_bị/N điều_chỉnh/V nhiệt_độ/N hay/C hệ_thống/N camera/N theo_dõi/V của/E các/L hộ/N gia_đình/N
+Khi/N nắm/V được/R quyền/N kiểm_soát/V hacker/N có_thể/A vô_hiệu_hóa/V chúng/P từ/E xa/A và/CC đòi/V một/M khoản/N tiền/N chuộc/V để/E trả/V lại/R trật_tự/N
+Đôi_khi/R họ/P thu_thập/V thông_tin/N nhạy_cảm/A về/E chủ_nhân/N ngôi/Nc nhà/N thông_qua/V các/L dữ_liệu/N hình_ảnh/N và/CC thông_tin/N nắm/V rõ/A giờ_giấc/N sinh_hoạt/N
+Đây/P được/V xem/V là/C mặt_trái/N của/E các/L thiết_bị/N không/R dây/N và/CC sự/N tiện_lợi/A
+Các/L nhà_nghiên_cứu/N an_ninh/N mạng/N trên/E thế_giới/N đang/R tìm/V cách/N chống/V lại/R xu_hướng/N này/P bằng/E cách/N mổ_xẻ/V các/L thiết_bị/N thông_minh/A tìm/V ra/R điểm/N yếu/A của/E các/L nhà_sản_xuất/N để/E sửa_chữa/V trước/E khi/N những/L kẻ/N xấu/A có_thể/R tìm/V thấy/V và/CC khai_thác/V
+Ryan_Speers/Np và/CC Gene_Chorba/Np làm_việc/V cho/E Ionic_Security/Np một/M công_ty/N có/V trụ_sở/N ở/E Atlanta/Np Mỹ/Np chuyên/A về/V mã_hóa/V và/CC xáo_trộn/V dữ_liệu/N để/E chỉ/R những/L người/N nhận/V mới/R có_thể/R xem/V các/L thông_tin/N
+Theo/E Popularmechanics/Np mới_đây/X họ/P đã/R thử_nghiệm/V khả_năng/N bảo_mật/V và/CC phòng_vệ/V của/E các/L thiết_bị/N gia_dụng/N sử_dụng/V kết_nối/V Wi-Fi/Np
+Kết_quả/N cho/V thấy/V các/L dữ_liệu/N truyền/V đi/V không/R được/V mã_hóa/V và/CC kiểm_tra/V
+Điều/N đó/P có/V nghĩa_là/X chúng_ta/P có_thể/A V ngửi/V A hoặc/CC theo_dõi/V thông_tin/N liên_lạc/V giữa/E thiết_bị/N với/E người/N dùng/V Speers/Np cho_biết/V
+Với/E công_cụ/N thích_hợp/A họ/P có/V khả_năng/N thay_đổi/V những/L lệnh/N được/V đặt/V ra/R ví_dụ/V việc/N khiến/V miếng/Nc thịt/N trong/E lò_vi_sóng/N bị/V nướng/V cháy/V bất_thường/A do/E để/E quá/R thời_gian/N
+Tất_nhiên/A để/E làm/V được_việc/N này/P kẻ/N tấn_công/V phải/V xâm_nhập/V vào/E mạng/N Wi-Fi/Np của/E thiết_bị/N
+Cách/V thông_thường/A nhất_là/X dụ/V người/N dùng/V mở/V một/M email/N có/V gắn/V mã/N độc/A rồi/C truy_cập/V và/CC điều_khiển_từ_xa/X
+Nhóm/N nghiên_cứu/V đã/R thử_nghiệm/V việc/N xâm_nhập/V bằng/E một/M email/N gắn/V mã/N độc/A để/E chiếm/V quyền/N kiểm_soát/V một/M chiếc/Nc tủ_lạnh/N thông_minh/A của/E Amir_Abramovitch/Np người/N đứng/V đầu/N bộ_phận/N nghiên_cứu/V CyIoT/Np tại/E Israel/Np
+Từ/E phía/N bên/N kia/P Đại_Tây_Dương/Np người/N điều_khiển/V chạy/V ứng_dụng/A của/E chiếc/Nc tủ_lạnh/N trên/E i/N Phone/Np của/E mình/P sau/E đó/P sử_dụng/V phần_mềm/N được/V gọi_là/X Burp/Np trên/E máy_tính_xách_tay/N để/E xem/V thông_tin/N truyền/V tài/N giữa/E ứng_dụng/N và/CC trung_tâm/N dữ_liệu/N của/E chiếc/Nc tủ_lạnh/N thông_minh/A
+Sau/E đó/P hướng_dẫn/V để/E thay_đổi/V nhiệt_độ/N đến/E 34/M độ/N C/N
+Trong/E trường_hợp/N này/P thông_tin/N từ/E ứng_dụng/N vẫn/R được/V gửi/V qua/E mạng/N Internet/Np nhưng/C nó/P đã/R đi/V qua/V phần_mềm/N trên/E laptop/N trước/E
+Tôi/P có_thể/R đánh/V chặn/V các/L dữ_liệu/N sau/E đó/P sửa_đổi/V nó/P thành_viên/N nhóm/N nghiên_cứu/V nói/V
+Không/R giống/A như/C trường_hợp/N của/E lò_vi_sóng/N các/L thông_tin/N truyền/V đi/V của/E tủ_lạnh/N đã/R được/V mã_hóa/V nhưng/C các/L nhân_viên/N kỹ_thuật/N vẫn/R tìm/V được/R cách/N điều_khiển/V thông_qua/V một/M lỗi/N trong/E ứng_dụng/N
+Toàn_bộ/N cuộc/N thử_nghiệm/V diễn/V ra/R trong/E vòng/N 6/M tiếng/Nu
+Nếu/C có/V thêm/V thời_gian/N chúng_tôi/P có_thể/R tìm/V thấy/V những/L điểm/N yếu/A thật_sự/A
+Và/C tôi/P thực_sự/A muốn/V làm/V cho/E nó/P phát_nổ/V Speers/Np nói/V
+Tuy_nhiên/C ở/E thời_điểm/N hiện_tại/N dù/C các/L thiết_bị/N thông_minh/A khá/R dễ/A bị/V tổn_thương/V nhưng/C chúng/P chưa/R thực_sự/A được/V các/L nhóm/N tội_phạm/N mạng/N đánh_giá/V là/V tiềm_năng/N
+Những/L kẻ/N xấu/A đã/R không/R phát_hiện/V ra/R cách/N làm/V thế_nào/P để/E kiếm/V tiền/N từ/E điều/N này/P Kevin_Haley/Np giám_đốc/N phản_ứng/N an_ninh/N của/E Norton_Symantec/Np công_ty/N sản_xuất/V phần_mềm/N diệt/V vi_rút/N nổi_tiếng/A bình_luận/A
+Hoặc/C chưa/R tới/V lúc/N ông/N nói/V thêm/V

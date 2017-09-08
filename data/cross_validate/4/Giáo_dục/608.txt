@@ -1,0 +1,13 @@
+Đại_học/N Luật/N TP_HCM/Np xét/V tuyển/V môn/N Giáo_dục/N công_dân/N
+Theo/E kế_hoạch/N tuyển_sinh/V 2017/M Đại_học/N Luật/N TP_HCM/Np công_bố/V sáng/N 14/1/M tổng/N chỉ_tiêu/N năm/N nay/P của/E trường/N là/V 1 0/M riêng/A ngành/N Luật/N là/V hơn/A 1 0/M
+Trường/N có/V thêm/V ngành/N mới/R Luật_Thương/Np mại/V quốc_tế/N với/E 100/M chỉ_tiêu/N
+Trường/N xét/V tuyển/V các/L tổ_hợp/N truyền_thống/N gồm/V A/N /V Toán/Np Lý/Np Hóa/Np /M A1/M /N Toán/Np Lý/Np tiếng/N Anh/Nc /Np C/Np /V Văn/Np Sử/Np Địa/Np /M D/Np /V Toán/Np Văn/Np Ngoại_ngữ/N /M
+Ngoài_ra/C đại_học/N này/P có/V thêm/V 3/M tổ_hợp/N mới/R gồm/V Văn/Np Sử/Np Ngoại_ngữ/N Văn/Np Giáo_dục/N công_dân/N Ngoại_ngữ/N Toán/Np Giáo_dục/N công_dân/N và/CC Ngoại_ngữ/N /A trong/E đó/P Ngoại_ngữ/N gồm/V tiếng/N Anh/Np Pháp/Np Nhật/Np /V
+Trường/N thực_hiện/V tuyển_sinh/V qua/V hai/M bước/N xét/V tuyển/V và/CC kiểm_tra/V năng_lực/N với/E 3/M tiêu_chí/N điểm/N học_bạ/V điểm/N thi/V THPT/Np quốc_gia/N và/CC điểm/N bài/N thi/V năng_lực/N
+Bước/N đầu_tiên/A sẽ/R xét/V điểm/N trung_bình/A 3/M môn/N thuộc/V tổ_hợp/N các/L môn/N xét/V tuyển/V theo/E các/L khối/N thi/V truyền_thống/N gồm/V học_bạ/N 6/M học_kỳ/N bậc/N THPT/Np /V chiếm/V tỷ_trọng/V 10%/M điểm/N trúng_tuyển/V /N và/CC điểm/N thi/V THPT/Np quốc_gia/N 2017/M /N chiếm/V 50%/M /N  /EOS
+Những/L thí_sinh/N đạt/V yêu_cầu/N xét/V tuyển/V ở/E bước/N trên/A mới/R được/V tham_gia/V bài/N kiểm_tra/V năng_lực/N ở/E bước/N 2/M /Nu chiếm/V 40%/M còn/C lại/R /V
+Nội_dung/N bài/N kiểm_tra/V gồm/V 4/M nhóm/N kiến_thức/N kỹ_năng/N sử_dụng/V ngôn_ngữ/N tiếng/N Việt/Np kiến_thức/N xã_hội/N tổng_hợp/V kiến_thức/N về/E pháp_luật/N và/CC tư_duy/N logic/N khả_năng/N lập_luận/N
+Trong/E tuần/N này/P nhiều/A đại_học/N tại/E TP_HCM/Np tiếp_tục/V công_bố/V phương_án/N tuyển_sinh/V dự_kiến/V
+Trường_Đại/Np học/V Tài_chính/N Marketing/Np sẽ/R xét/V tuyển/V 2 0/M chỉ_tiêu/N dựa/V vào/E kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N
+Bên_cạnh/N 3/M tổ_hợp/N truyền_thống/N gồm/V các/L khối/N A/N A1/Np D1/Np trường/N này/P xét/V tuyển/V bổ_sung/V tổ_hợp/N mới/R gồm/V Toán/Np Văn/Np Khoa_học_tự_nhiên/N cho/E tất_cả/P các/L ngành/N
+Trong/E khi/N đó/P Đại_học/N Khoa_học_xã_hội/N và/CC Nhân_văn/N /V ĐHQG_TP_HCM/Np /V có/V tổng/N chỉ_tiêu/N dự_kiến/V là/V 2 0/M xét/V tuyển/V dựa/V vào/E kết_quả/N thi/V THPT/Np quốc_gia/N và/CC chỉ/R tuyển/V thí_sinh/N đã/R tốt_nghiệp/V THPT/Np với/E điểm/N trung_bình/A 3/M năm_học/N từ/E 6,5/M trở_lên/A

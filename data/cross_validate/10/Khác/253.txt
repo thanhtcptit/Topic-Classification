@@ -1,0 +1,12 @@
+Sinh_viên/N chế_tạo/V camera/N thông_minh/A
+Ba_sinh/N viên/N khoa/N công_nghệ_thông_tin/N Trường/N ĐH/N Khoa_học/N tự_nhiên/N ĐH/N Quốc_gia/N TPHCM/Np Trần_Mai_Khiêm/Np Nguyễn_Phúc_Nguyên/Np và/CC Trịnh_Hoàng_Triều/Np đã/R sáng_tạo/V ra/R Smart_Camera/Np Camera/Np giám_sát/V tích_hợp/N phát_hiện/V đối_tượng/N
+Sản_phẩm/N độc_đáo/A này/P vừa/R đoạt/V giải/N nhì/N Hội/Np thi/N tin_học/N trẻ/A năm/N 2017/M do/N Thành_đoàn/N TPHCM/Np phối_hợp/V một_số/L đơn_vị/N tổ_chức/V vào/E đầu/N tháng/N 62017/M
+Theo/E nhóm/N tác_giả/N ưu_điểm/N nổi_bật/A của/E camera/N này/P là/V phát_hiện/V chính_xác/A các/L đối_tượng/N xuất_hiện/V trong/E khu_vực/N giám_sát/N đặc_biệt/A hiệu_quả/N trong/E những/L trường_hợp/N khả_nghi/V hoàn_cảnh/N thiếu/A sáng/N kể_cả/N khi/N hình_ảnh/N bị/V mờ/N
+lưu_trữ/V dữ_liệu/N lâu_dài/A và/N tiết_kiệm/N
+Cấu_tạo/N và/N cơ_chế/N hoạt_động/V của/E camera/N khá/A đơn_giản/A
+Phần_cứng/N là/V một/M máy_tính/N kết_nối/V với/E một/M camera/N thu_hình/N
+Trong/E máy_tính/N đã/R cài_đặt/V một/M hệ_thống/N phát_hiện/V vật_thể/V cùng/N bộ_phận/N ghi/V lại/R các/L dữ_liệu/N của/E camera/N thu_hình/N
+Khi/N hoạt_động/V hệ_thống/N phát_hiện/V vật_thể/V sẽ/R có/V nhiệm_vụ/N phân_tích/V các/L thông_tin/N nó/P nhận/V được/R nhằm/V phát_hiện/V chính_xác/N đối_tượng/N xuất_hiện/V trong/E khu_vực/N đang/R giám_sát/V
+Cũng/R theo/V nhóm/V tác_giả/N hệ_thống/N camera/N thông_minh/A có_thể/A áp_dụng/V trong/E nhiều/A lĩnh_vực/N khác/A nhau/N như/C đếm/V số_lượng/N vật_nuôi/N trong/N nông_nghiệp/N
+chấm/V công/N tự_động/A phát_hiện/V các/L đối_tượng/N khả_nghi/N
+báo_động/V chống/V trộm/V nhận_dạng/N tội_phạm/N cho/V cơ_quan/N an_ninh/N

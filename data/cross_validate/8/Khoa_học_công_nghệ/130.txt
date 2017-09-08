@@ -1,0 +1,13 @@
+​/N Hai/M cách/N đánh_cắp/N tài_khoản/N ngân_hàng/N phổ_biến/V
+Qua/E phân_tích/V các/L vụ_việc/N các/L chuyên_gia/N an_ninh/N mạng/N Bkav/Np chỉ/R ra/V hai/M cách_thức/N mà/E hacker/N sử_dụng/V để/E chiếm_đoạt/V tài_khoản/N ngân_hàng/N của/E người_dùng/N tại/N Việt_Nam/Np
+Đó/P là/V sử_dụng/V mã/N độc/A đánh_cắp/N thông_tin/N và/CC giả_mạo/N website/N ngân_hàng/N tổ_chức/V tài_chính/N
+Với/E cách/N sử_dụng/V mã/N độc/N hacker/N tạo/V một/M ứng_dụng/N độc_hại/A thường/A là/V núp_bóng/N ứng_dụng/N phổ_biến/A hoặc/N phần_mềm/N bẻ_khoá/N crack/V rồi/C đưa/V lên/R Internet/N
+Khi/N người_dùng/N tải_về/N và/CC sử_dụng/V mã/N độc/N sẽ/R được/V kích_hoạt/V để/E đánh_cắp/V thông_tin/N cá_nhân/N tài_khoản/N mật_khẩu/N
+Sau/E khi/N chiếm/V được/R tài_khoản/N của/E người_dùng/N tội_phạm/N mạng/N sẽ/R tiến_hành/V các/L giao_dịch/N lấy/V cắp/V tiền/N
+Với/E cách/N giả_mạo/N website/N ngân_hàng/N tổ_chức/V tài_chính/N hacker/N tạo/V ra/R các/L website/N có/V giao_diện/N giống_hệt/N trang/N của/E ngân_hàng/N dịch_vụ/N chuyển/V tiền/N
+Bước/N tiếp_theo/V chúng/N mạo_danh/V ngân_hàng/N người_thân/N bạn_bè/N gửi/V đường_dẫn/N trang_web/N đó/P tới/V nạn_nhân/N
+Trên/E trang/N giả_mạo/N người_dùng/N sẽ/R được/V yêu_cầu/V nhập/V thông_tin/N cá_nhân/N tài_khoản/N
+Một_khi/N thực_hiện/V theo/E các/L hướng_dẫn/N này/P là/V người_dùng/N đã/R tự/V cung_cấp/V tài_khoản/N của/E mình/N cho/V hacker/N
+Ông/Nc Ngô_Tuấn_Anh/Np phó/Z chủ_tịch/N phụ_trách/V an_ninh/N mạng/N của/E Bkav/Np cho/V biết/V Để/E không/R trở_thành/V nạn_nhân/N các/L chiêu/N trò/N lừa_đảo/V người_dùng/N lưu_ý/N không_kích/N chuột/V vào/E các/L đường_dẫn/N lạ/A
+Đối_với/C các/L yêu_cầu/N đáng/V ngờ/V nên/V xác_minh/V với/E bạn_bè/N người_thân/N trước/E khi/N cung_cấp/V thông_tin/N
+Tuyệt_đối/A không/R cài/V phần_mềm/N không/R rõ/V nguồn_gốc/N hay/N tải/N các/L ứng_dụng/N không/R phải/A từ/V kho/N chính_thống/N

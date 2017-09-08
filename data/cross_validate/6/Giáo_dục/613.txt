@@ -1,0 +1,6 @@
+Trường_Phổ/Np thông/V Năng_khiếu/N công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M
+Chiều/N 11/6/M trường/N Phổ_thông/N Năng_khiếu/Np công_bố/V điểm_chuẩn/N kỳ/N thi_tuyển/V sinh/V lớp/N 10/M năm_học/N 2017-2018/M
+Năm/N nay/P trường/N tuyển/V 245/M học_sinh/N cho/E cơ_sở/N 1/M ở/E 7/M lớp/N chuyên/A Toán/Np Tin/N Lý/Np Hóa/Np Sinh/Np tiếng/N Anh/Np và/CC Ngữ_văn/N với/E mỗi/L lớp/N không/R quá/R 35/M học_sinh/N
+Hệ/N không/R chuyên/A ở/E cơ_sở/N này/P tuyển/V 135/M học_sinh/N cho/E 3/M lớp/N
+Cơ_sở/N 2/M /Nu quận/N Thủ_Đức/Np /V tuyển/V 210/M học_sinh/N cho/E 6/M lớp/N chuyên/A Toán/Np Lý/Np Hóa/Np Sinh/Np tiếng/N Anh/Np Ngữ_văn/N với/E mỗi/L lớp/N không/R quá/R 35/M học_sinh/N
+Điểm_chuẩn/V vào/E cơ_sở/N 1/M Điểm_chuẩn/Np vào/E cơ_sở/N 2/M Phổ_thông/N Năng_khiếu/Np /V Đại_học/N Quốc_gia/Np TP_HCM/Np /V là/V trường/N chuyên/A hàng_đầu/N tại/E TP_HCM/Np thường_xuyên/A nằm/V trong/E danh_sách/N các/L trường/N có/V điểm/N trung_bình/A thi/V đại_học/N cao/A nhất/A nước/N

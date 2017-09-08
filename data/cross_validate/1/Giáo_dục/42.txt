@@ -1,0 +1,242 @@
+​/N Hà_Nội_công/N bố/N điểm_chuẩn/V THPT/Np công_lập/V khối/N không/N chuyên/A
+Theo/E quy_định/N học_sinh/N trúng_tuyển/N sẽ/R làm/V thủ_tục/N nhập_học/N từ/E ngày/N 276/M đến/V 296/M
+Ngoài_ra/N một_số/N trường/N công_lập/A tự_chủ/N ngoài/N công_lập/N có/V danh_tiếng/N của/E Hà_Nội/Np cũng/R bắt_đầu/V công_bố/V mức/N điểm/N xét/V tuyển/N
+Trong/E ngày/N 266/M trường/N THPT/Np chất_lượng/N cao/A Phan_Huy_Chú/Np cũng/R công_bố/V điểm_chuẩn/N là/V 480/M
+Trường/N THPT/Np Phan_Huy_Chú/Np được/V phép/V tuyển_sinh/N trên/E toàn/N TP/Np Hà_Nội/Np và/CC các/L tỉnh/N thành/V khác/N
+Dưới/E đây/P là/V điểm_chuẩn/N cụ_thể/A của/E các/L trường/N THPT/Np công_lập/V khối/N không/N chuyên/A
+STT/Np
+Trường/N THPT/Np
+Điểm_chuẩn/N
+Ghi_chú/N
+Chu_Văn_An/Np
+555/M
+Tiếng_Nhật/Np 520/M
+Phan_Đình_Phùng/Np
+515/M
+Phạm_Hồng_Thái/Np
+500/M
+Nguyễn_Trãi/Np Ba_Đình/Np
+485/M
+Tây_Hồ/Np
+465/M
+Thăng_Long/Np
+525/M
+Việt_Đức/Np
+520/M
+Tiếng_Nhật/Np 440/M
+Tiếng_Đức/Np 490/M
+Trần_Phú/Np Hoàn_Kiếm/Np
+510/M
+Trần_Nhân_Tông/Np
+490/M
+Tiếng_Pháp/Np 410/M
+Đoàn_Kết/Np Hai_Bà_Trưng/Np
+495/M
+Kim_Liên/Np
+530/M
+Tiếng_Nhật/Np 440/M
+Yên_Hoà/Np
+525/M
+Lê_Quý_Đôn/Np Đống_Đa/Np
+510/M
+Nhân_Chính/Np
+510/M
+Cầu_Giấy/Np
+505/M
+Quang_Trung/Np Đống_Đa/Np
+480/M
+Đống_Đa/N
+480/M
+Trần_Hưng_Đạo/Np Thanh_Xuân/Np
+460/M
+Ngọc_Hồi/Np
+465/M
+Hoàng_Văn_Thụ/Np
+460/M
+Việt_Nam/Np Ba_Lan/Np
+440/M
+Trương_Định/Np
+435/M
+Ngô_Thì_Nhậm/Np
+425/M
+Đông_Mỹ/Np
+370/M
+Nguyễn_Gia_Thiều/Np
+505/M
+Cao_Bá_Quát/Np Gia_Lâm/Np
+465/M
+Lý_Thường_Kiệt/Np
+485/M
+Yên_Viên/Np
+450/M
+Dương_Xá/Np
+425/M
+Nguyễn_Văn_Cừ/Np
+425/M
+Thạch_Bàn/Np
+430/M
+Phúc_Lợi/Np
+435/M
+Liên_Hà/Np
+485/M
+Vân_Nội/Np
+445/M
+Mê_Linh/Np
+465/M
+Đông_Anh/Np
+450/M
+Cổ_Loa/Np
+480/M
+Sóc_Sơn/Np
+450/M
+Yên_Lãng/Np
+380/M
+Bắc_Thăng_Long/Np
+440/M
+Đa_Phúc/Np
+420/M
+Trung_Giã/Np
+415/M
+Kim_Anh/Np
+395/M
+Xuân_Giang/Np
+385/M
+Tiền_Phong/Np
+390/M
+Minh_Phú/Np
+365/M
+Quang_Minh/Np
+355/M
+Tiến_Thịnh/Np
+285/M
+Tự_Lập/Np
+270/M
+Nguyễn_Thị_Minh_Khai/Np
+525/M
+Xuân_Đỉnh/Np
+500/M
+Hoài_Đức/Np A/Np
+470/M
+Đan_Phượng/Np
+430/M
+Thượng_Cát/Np
+460/M
+Trung_Văn/Np
+445/M
+Hoài_Đức/Np B/Np
+425/M
+Tân_Lập/Np
+410/M
+Vạn_Xuân/Np Hoài_Đức/Np
+415/M
+Đại_Mỗ/Np
+405/M
+Hồng_Thái/Np
+385/M
+Sơn_Tây/Np
+475/M
+Tiếng_Pháp/Np 445/M
+Tùng_Thiện/Np
+440/M
+Phổ_thông/N dân_tộc/N nội_trú/N
+370/M
+Quảng_Oai/Np
+370/M
+Ngô_Quyền/Np Ba_Vì/Np
+355/M
+Ngọc_Tảo/Np
+415/M
+Phúc_Thọ/Np
+415/M
+Ba_Vì/Np
+310/M
+Vân_Cốc/Np
+365/M
+Bất_Bạt/Np
+230/M
+Xuân_Khanh/Np
+305/M
+Minh_Quang/Np
+220/M
+Quốc_Oai/Np
+440/M
+Thạch_Thất/Np
+450/M
+Phùng_Khăc_Khoan/Np Thạch_Thất/Np
+410/M
+Hai_Bà_Trưng/Np Thạch_Thất/Np
+390/M
+Minh_Khai/Np
+370/M
+Cao_Bá_Quát/Np Quốc_Oai/Np
+365/M
+Bắc_Lương_Sơn/Np
+310/M
+Lê_Quý_Đôn/Np Hà_Đông/Np
+515/M
+Quang_Trung/Np Hà_Đông/Np
+485/M
+Thanh_Oai/Np B/Np
+400/M
+Chương_Mỹ/Np A/Np
+455/M
+Xuân_Mai/Np
+400/M
+Nguyễn_Du/Np Thanh_Oai/Np
+400/M
+Trần_Hưng_Đạo/Np Hà_Đông/Np
+400/M
+Chúc_Động/Np
+370/M
+Thanh_Oai/Np A/Np
+370/M
+Chương_Mỹ/Np B/Np
+330/M
+Lê_Lợi/Np Hà_Đông/Np
+410/M
+Thường_Tín/Np
+430/M
+Phú_Xuyên/Np A/Np
+375/M
+Đồng_Quan/Np
+360/M
+Phú_Xuyên/Np B/Np
+310/M
+Tô_Hiệu/Np Thường_Tín/Np
+370/M
+Tân_Dân/Np
+300/M
+Nguyễn_Trãi/Np Thường_Tín/Np
+370/M
+Vân_Tảo/Np
+345/M
+Lý_Tử_Tấn/Np
+315/M
+100/M
+Mỹ_Đức/Np A/Np
+405/M
+101/M
+Ứng_Hoà/Np A/Np
+340/M
+102/M
+Mỹ_Đức/Np B/Np
+340/M
+103/M
+Trần_Đăng_Ninh/Np
+300/M
+104/M
+Ứng_Hoà/Np B/Np
+220/M
+105/M
+Hợp_Thanh/Np
+260/M
+106/M
+Mỹ_Đức/Np C/Np
+220/M
+107/M
+Lưu_Hoàng/Np
+220/M
+108/M
+Đại_Cường/Np
+220/M
+VĨNH/M HÀ/N

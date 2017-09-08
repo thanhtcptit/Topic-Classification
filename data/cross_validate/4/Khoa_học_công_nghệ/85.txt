@@ -1,0 +1,12 @@
+Cận_cảnh/N ảnh/N Gear/Np S2/Np phiên_bản/V Sport/Np
+Tuy_nhiên/C lượng/N ứng_dụng/N cho/V Tizen/Np cụ_thể/A là/V sản/N phẩm/N đồng_hồ/N thông_minh/A như/C Gear/Np S2/Np chưa/R nhiều/A
+Hiện/N các/L ứng_dụng/N tập_trung/V vào/E nhóm/N tin_tức/N mạng_xã_hội/N sức_khoẻ/N
+Ngoài_ra/C nhiều/A mẫu/N giao/V diện/N mặt/N đồng_hồ/N khá/R đẹp/A trong/E chợ/N ứng/V dụng/N nhưng/C được/V bán/V với/E giá/N cao/A tầm/N 40000/M VNĐgiao/N diện/N mặt/N đồng_hồ/N so/V với/E các/L mẫu/N miễn_phí/V không/R thật_sự/A ấn_tượng/V
+Là/V đồng_hồ/N thông_minh/A smartwatch/N có/V thiết_kế/N mặt/N tròn/A Gear/Np S2/Np Sport/Np có/V dây/N đeo/V hai/M kích_cỡ/N 42mm/N và/CC 44mm/N có_thể/R tháo/V lắp/N thay_thế/N dễ_dàng/A
+Một/M điểm/N khác/A trong/E thiết_kế/N là/V vòng/N xoay/N thông_minh/A viền/N trên/E mặt/N kính/N
+Vòng/N xoay/N này/P giúp/V lướt/V nhanh/A qua/V các/L danh_sách/N như/C ứng_dụng/N giao/V diện/N đồng_hồ/N kết_hợp/V với/E hai/M nút/N nhấn/N cho/V phép/N điều_khiển/V nhanh/A hơn/R so/V với/E thao_tác/N trên/N màn_hình/N cảm/N ứng/N chạm/V
+Dùng/V thử_nghiệm/N nhận/V thấy/V các/L cảm_biến/N gia_tốc/N kế/A và/CC con/N xoay/V hồi/N chuyển/V của/E Gear/Np S2/Np khá/A nhạy/N
+Màn_hình/N tự/N động/V bật/V sáng/N khi/N tay/N người_dùng/N chuyển_động/V hướng/N mặt/N đồng_hồ/N lên/V ánh/N nhìn/V
+Ngoài_ra/C Gear/Np S2/Np tự/V động/V nhắc/V người_dùng/N đứng/V dậy/V tập_thể/N dục/N sau/N mỗi/L khoảng/N thời_gian/N ngồi/V tại_chỗ/A quá/R lâu/A
+Pin_Gear/Np S2/Np dùng/V được/R gần/A ba/M ngày/N cho/V mỗi/M lần/N sạc/N nếu/C không/R thao_tác/V quá/V nhiều/A trên/N nó/P
+Bộ/N sạc/N không/N dây/N đi/V kèm/V khá/R tiện_lợi/A

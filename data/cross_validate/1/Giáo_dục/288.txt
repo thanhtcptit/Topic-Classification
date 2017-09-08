@@ -1,0 +1,25 @@
+2/M học_sinh/N vào/V thẳng/A đại_học/N nhờ/V sáng_chế/V thiết_bị/N cảnh_báo/V giao_thông/N 
+Hai/M tân_sinh/N viên/N được/V xét/V đặt/V cách/N vào/E Trường_Đại/Np học/V Sư_phạm/N kỹ_thuật/N TP_HCM/Np năm/N nay/P là/V em/N Phạm_Minh_Hiếu/Np và/CC Trần_Thế_Vinh/Np học_sinh/N lớp/N 12/10/M Trường/N THPT/Np Vĩnh_Kim/Np huyện/N Châu_Thành/Np Tiền_Giang/Np 
+Xuất_phát/V từ/E thực_trạng/N một_số/L người_dân/N khi/N tham_gia/V giao_thông/N hiện_nay/N điều_khiển/V phương_tiện/N cố_tình/V vượt/V đèn_đỏ/N hoặc/CC dừng/V xe/N khi/N đèn_đỏ/N báo_hiệu/V không/R đúng/A vạch/N quy_định/N nên/C Hiếu/Np và/CC Vinh/Np nảy_sinh/V ý_tưởng/N sáng_chế/V ra/R thiết_bị/N này/P 
+Vận_dụng/V kiến_thức/N đã/R học/V được/R từ/E nhà_trường/N nghiên_cứu/V thêm/V qua/E sách_báo/N internet/N và/CC trao_đổi/V với/E giáo_viên/N giảng_dạy/V hai/M em/N đã/R sáng_chế/V ra/R thiết_bị/N này/P gồm/V mạch/N điều_khiển/V điện_tử/N sử_dụng/V quang/N trở/V gồm/V phần/N phát/V là/V một/M đèn/N lazer/N có/V nhiệm_vụ/N phát/V ra/R đường/N truyền/V tín_hiệu/N tới/E phần/N thu/V 
+Phần/N thu/V là/V một/M cảm_biến/N sử_dụng/V quang/N trở/V có/V nhiệm_vụ/N nhận/V tín_hiệu/N từ/E phần/N phát/V và/CC điều_khiển/V hoạt_động/V của/E phần/N cảnh_báo/V phần/N cảnh_báo/V là/V một/M hệ_thống/N chuông/N đèn/N cảnh_báo/V được/R mắc/V với/E phần/N thu/V có/V nhiệm_vụ/N phát/V tín_hiệu/N cảnh_báo/V đến/E người/N vi_phạm/V giao_thông/N 
+Các/L thiết_bị/N này/P hoạt_động/V theo/E nguyên_lý/N khi/N đèn/N tín_hiệu/N giao_thông/N chuyển/V sang/V đỏ/A thiết_bị/N sẽ/R hoạt_động/V 
+Khi/N người/N tham_gia/V giao_thông/N dừng/V xe/N vượt/V quá/R vạch/N giới_hạn/V thiết_bị/N sẽ/R phát/V tín_hiệu/N nhắc_nhở/V bằng/E giọng/N nói/V 
+Còn/C khi/N người/N tham_gia/V giao_thông/N cố_tình/V vượt/V đèn_đỏ/N thì/C thiết_bị/N sẽ/R chụp/V ảnh/N 
+Mô_hình/N cảnh_báo/V giao_thông/N sẽ/R thay_thế/V cho/E cảnh_sát/N giao_thông/N túc_trực/V tại/E các/L chốt/N đèn_đỏ/N nhắc_nhở/V nâng/V cao/A ý_thức/N của/E người/N tham_gia/V giao_thông/N 
+Với/E thiết_kế/N đơn_giản/A nhỏ/A gọn/A giá_thành/N khoảng/A 700.000/M đồng/Nu nên/C việc/N lắp_đặt/V trên/E quy_mô/N lớn/A sẽ/R không/R tốn/V nhiều/A chi_phí/N 
+Trước/E khi/N đem/V đi/V dự/V thi/V các/L em/N đã/R đem/V mô_hình/N ra/V thử_nghiệm/V tại/E một/M chốt/N đèn_xanh/N –/M đèn_đỏ/N tại/E nội_ô/N thành_phố/N Mỹ_Tho/Np và/CC được/V nhiều/A người/N đánh_giá/V cao/A 
+Em_Phạm_Minh_Hiếu/Np chia_sẻ/V Khi/N bắt_tay/V vào/E nghiên_cứu/N tụi/Nc em/N cũng/R chưa/R nắm/V được/R nguyên_lý/N hoạt_động/V của/E nó/P ra/R như_thế_nào/X 
+Nhưng/C vào/E buổi/N tối/N em/N đang/R ngủ/V thấy/V đèn/N ngủ/V trong/E nhà/N ban_ngày/N tự/P tắt/V ban_đêm/N sáng/N 
+Bữa/N đó/P em/N tự/P mở/V ra/R thấy/V trong/E đó/P có/V một_số/L mạch/N có/V quang/N trở/V diot/V em/N gặp/V thầy/N hỏi/V mới/R biết/V ra/R nguyên_lý/N hoạt_động/V của/E nó/P là/V tia/Nc lazer/N và/CC mạch/N quang/N trở/V để/E thực_hiện/V ra/R mô_hình/N này/P 
+Thầy_Nguyễn_Văn_Truyền/Np Phó_Hiệu/Np trưởng/N Trường/N THPT/Np Vĩnh_Kim/Np cho_biết/V 2/M em/N Phạm_Minh_Hiếu/Np và/CC Trần_Thế_Vinh/Np rất/R đam_mê/V sáng_tạo/N khoa_học_kỹ_thuật/X 
+Đặc_biệt/A Phạm_Minh_Hiếu/Np khi/N còn/V học/V lớp/N 10/M đã/R sáng_chế/V ra/R mô_hình/N Nhà/N nổi/V trên/E sông/N ”/Np đạt/V giải/N Nhì/Np cấp/V trường/N và/CC giải/N Khuyến_khích/V cấp/N tỉnh/N 
+Trong/E trường/N các/L em/N còn/R tích_cực/A tham_gia/V các/L hoạt_động/N phong_trào/N được/V vinh_dự/A nhận/V nhiều/A Giấy_khen/N Bằng_khen/N của/E Sở/N GD/Np ĐT/Np Tỉnh_đoàn/Np Trung_ương/N Đoàn/Np 
+Thầy_Nguyễn_Văn_Truyền/Np nhận_xét/V Thiết_bị/N giảm_thiểu/V tai_nạn/N giao_thông/N trường/N đánh_giá/V chất_lượng/N rất/R tốt/A đạt/V hiệu_quả/N rất/R cao/A có_thể/R ứng_dụng/V 
+Qua/E hội/N thi/V thấy/V các/L em/N tham_gia/V tích_cực/A các/L em/N tự/P làm/V 
+Đây/P là/V lần/N đầu_tiên/A 2/M em/N này/P đạt/V thành_tích/N cao/A trong/E hội/N thi/V khoa_học_kỹ_thuật/X của/E Nhà_trường/N 
+Nhà_trường/N có/V kế_hoạch/N tổ_chức/V hội/N khi/N KHKT/Np cấp/V trường/N thiết_bị/N nào/P đạt/V giải/N cao/A sẽ/R chọn/V dự/V thi/V cấp/N tỉnh/N ”/Np 
+Thiết_bị/N “/V cảnh_báo/V giao_thông/N của/E 2/M em/N Phạm_Minh_Hiếu/Np và/CC Trần_Thế_Vinh/Np học_sinh/N lớp/N 12.10/M Trường/N THPT/Np Vĩnh_Kim/Np được/V người_dân/N địa_phương/N và/CC các/L ngành/N chức_năng/N đánh_giá/V cao/A 
+Mô_hình/N này/P cần/V được/V các/L cơ_quan/N đơn_vị/N đầu_tư/V nâng_cấp/V để/E ứng_dụng/V vào/E thực_tiễn/N 
+Sáng_kiến/N này/P nếu/C phát_huy/V sẽ/R hỗ_trợ/V đắc_lực/A cho/E lực_lượng/N cảnh_sát/N giao_thông/N giám_sát/V tuần_tra/V kiểm_soát/V phương_tiện/N giao_thông/N giao/V góp_phần/V nhắc_nhở/V mọi/L người/N ý_thức/V hơn/R trong/E việc/N chấp/V hàng/N nghiêm/N Luật_Giao/Np thông/V 
+Theo/E Nhật_Trường/Np VOV/Np 

@@ -1,0 +1,8 @@
+Ca_sĩ/N Uyên_Linh/Np báo/V mất/V túi/N đồ/N 100/M triệu/M đồng/Nu ở/V sân_bay/N
+Theo/E ghi_nhận/V của/E phía/N cảnh_sát/N sáng/N 22/6/M Uyên_Linh/Np đáp/V chuyến/N bay/V từ/E Pháp/Np về/V Sài_Gòn/Np
+Lúc/N đẩy/V xe/N qua/V khu_vực/N máy/N soi/V chiếu/N hải_quan/N nữ/N ca_sĩ/N mang/V theo/E 4/M kiện/V hành_lý/N và/CC một/M túi/N giấy/N
+ /M  /N Do/E nhiều/A đồ/N Uyên_Linh/Np đã/R bỏ/V quên/V lại/R túi/N giấy/N
+Ra/V đến/E ngoài/N phát_hiện/V chưa/R lấy/V túi/N đồ/N cô/N đã/R quay/V lại/R khu_vực/N tìm/V nhưng/C không/R thấy/V  /EOS
+Nữ/N ca_sĩ/V trình_báo/N túi/N đồ/N chứa/V tài_sản/N đồ/N cá_nhân/N trị_giá/V khoảng/A 100/M triệu/M đồng/Nu  /EOS
+Cảnh_sát/N đã/R trích/V camera/N phát_hiện/V người/Nc phụ_nữ/N nước_ngoài/N đã/R cầm/V theo/E túi/N giấy/N  /M Cơ_quan/N điều_tra/V đang/R phối_hợp/V rà_soát/N danh_tính/N truy_tìm/V người/N này/P  /EOS
+Ca_sĩ/N Uyên_Linh/Np từng/R đăng_quang/V tại/E cuộc_thi/N Việt_Nam_Idol/Np năm/N 2010/M

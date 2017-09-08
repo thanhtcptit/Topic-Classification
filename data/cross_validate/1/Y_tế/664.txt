@@ -1,0 +1,14 @@
+Cô_gái/N 22/M tuổi/N suy_kiệt/A do/E u/A buồng_trứng/V khổng_lồ/A
+Chiều/N 5/7/M bác_sĩ/N Lê_Trí_Chinh/Np Trưởng/Np khoa/N Ngoại_phụ/N khoa/N Bệnh_viện/N K/Np cơ_sở/N Tân_Triều/Np /V Hà_Nội/Np /A cho_biết/V vừa/R phẫu_thuật/V thành_công/N ấy/P khối_u/N buồng_trứng/V nặng/A 16/M kg/Nu trong/E bụng/N một/M cô_gái/N 22/M tuổi/N
+Sau/E ca/N mổ/V bệnh_nhân/N từ/E cân/N nặng/A 47/M kg/Nu giảm/V xuống/R chỉ/R còn/R 31/M kg/Nu
+Đây/P là/V khối_u/N buống/N trứng/N lớn/A nhất/R mà/C ê_kíp/V từng/R phẫu_thuật/V
+Cô_gái/N 22/M tuổi/N ở/E huyện/N Lục_Ngạn/N tỉnh/N Bắc_Giang/Np nhập_viện/V ngày/N 29/6/M trong/E tình_trạng/N mệt_mỏi/A suy_kiệt/A khối_u/N to/A vượt/V mặt/N giống_hệt/V đang/R mang/V bầu/N hơn/R 9/M tháng/N
+Bụng/N phát_triển/V to/A dần/R một/M tháng/N gần/A đây/P to/A nhanh/A bất_thường/A khiến/V bệnh_nhân/N khó/A thở/V
+Khối_u/N to/A chèn_ép/A đẩy/V cơ_hoành/N lên/V cao/A khiến/V bệnh_nhân/N buồn_nôn/A nôn/V kèm/V tiểu/N ít/A
+Một/M tuần/N nay/P bệnh_nhân/N không/R đi_lại/V được/R không/R ăn/V được/R chỉ/R nằm/V và/CC phải/V thở/V ôxy/N
+Tháng/N 3/2016/M bệnh_nhân/N mổ/V cắt/V u/A buồng_trứng/V trái/N tại/E Bệnh_viện/N Đa_khoa/N tỉnh/N Bắc_Ninh/Np
+Lần/N này/P sau/E khi/N tiến_hành/V các/L xét_nghiệm/V bác_sĩ/N xác_định/V bệnh_nhân/N có/V u/A buồng_trứng/N to/A theo_dõi/V ung_thư/N nếu_không/C mổ/V kịp_thời/A thì/C nguy_cơ/N tử_vong/V rất/R cao/A
+Theo/E bác_sĩ/N Chinh/Np khối_u/N buồng_trứng/A phải/V chiếm/V toàn_bộ/L ổ_bụng/N bệnh_nhân/N thành/V hóa/N vào/E phúc_mạc/N ổ_bụng/N dính/V và/CC đè/V đẩy/V gan/N cơ_hoành/N dạ_dày/N ruột_non/V lên/R cao/A
+U/Np chèn_ép/V làm/V giãn/N niệu_quản/N và/CC đài/N bể/V thận/N 2/M bên/N
+Ê_kíp/N mổ/V đã/R phẫu_thuật/V gỡ/V dính/V cắt/V bỏ/V khối_u/N buồng_trứng/A và/CC xét_nghiệm/V sinh_thiết/N
+Hiện/N bệnh_nhân/N ổn_định/A được/V tiếp_tục/V theo_dõi/V

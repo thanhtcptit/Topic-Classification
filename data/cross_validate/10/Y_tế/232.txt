@@ -1,0 +1,6 @@
+Hỗ_trợ/V người/N nhiễm/V HIV/Np toàn_bộ/N phí/N mua/V bảo_hiểm_y_tế/X
+Nguồn/N kinh_phí/N thực_hiện/V được/R trích/V từ/E ngân_sách/N quỹ/N khám/V chữa/V bệnh/N cho/E người/N nghèo/A nguồn/N tài_trợ/V viện/N trợ/N
+Hỗ_trợ/V 100/M chi_phí/N mua/V thẻ/N bảo_hiểm_y_tế/N năm/N 2017/M và/N 20/M chi_phí/N cùng/N chi_trả/V đối_với/N thuốc/N kháng/V virut/N HIV/Np thuốc/N ARV/Np năm/N 2017/M cho/N người/N nhiễm/V HIV/Np có/V hộ_khẩu/N tại/E TPHCM/Np và/CC người/N nhiễm/V HIV/Np có/V hộ_khẩu/N tại/E các/L tỉnh/N TP/Np khác/A cư_trú/V trên/E sáu/M tháng/N tại/E TPHCM/Np đang/R tham_gia/V chương_trình/N chăm_sóc/V điều_trị/N HIV/Np AIDS/Np tại/V TPHCM/Np
+Trên/E đây/P là/V nội_dung/N chỉ_đạo/V mới/A nhất/R của/N Phó/Z chủ_tịch/N UBND/Np TPHCM/Np Nguyễn_Thị_Thu/Np liên_quan/V đến/E việc/N hỗ_trợ/V người/N nhiễm/V HIV/Np AIDS/Np
+UBND/Np TP/Np cũng/R yêu_cầu/V Sở/N Y/Np tế/N TP/Np phối_hợp/V cơ_quan/N Bảo_hiểm/V xã_hội/N TP/Np và/CC Sở/N Lao_động/N thương_binh/N amp/N
+xã_hội/N đảm_bảo/V triển_khai/N đúng/A đối_tượng/N không/R để/V xảy/V ra/R việc/N cấp/V trùng/N thẻ/N bảo_hiểm_y_tế/X với/E các/L diện/N đối_tượng/N khác/A được/V ngân_sách/N hỗ_trợ/V mua/V thẻ/N bảo_hiểm_y_tế/X

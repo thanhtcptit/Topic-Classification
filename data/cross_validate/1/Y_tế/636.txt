@@ -1,0 +1,25 @@
+Bé/N trai/N 8/M tuổi/N không_thể/R kiểm_soát/V cơn/Nc cười/V do/E động_kinh/N
+Cậu_bé/N 8/M tuổi/N được/R chẩn_đoán/V mắc/V bệnh/N động_kinh/N thể/R có/V cơn/N cười/V
+Tái/Np khám/V sau/E 15/M ngày/N được/V mổ/V nội_soi/N bố/N bé/N Phúc/Np không/R giấu/V được/R nụ_cười/N hạnh_phúc/N khi/N con/N đã/R không/R còn/V những/L cơn/Nc cười/V không/R kiểm_soát/V
+Bố/N bé/N Phúc/Np cho_biết/V những/L cơn/Nc cười/V bất_thường/A của/E bé/N xuất_hiện/V từ/E khi/N mới/R 4/M tháng/N tuổi/N gia_đình/N không/R cho/V là/V nghiêm_trọng/A
+Lên/V một/M tuổi/N bệnh/N ngày_một/X nặng/A hơn/A bé/N nôn/V trớ/V thức_ăn/N sau/E mỗi/M cơn/N cười/V
+2/M tuổi/N bé/N khám/V  /N tại/E bệnh_viện/N tỉnh/N bác_sĩ/N chẩn_đoán/V bị/V bệnh/N động_kinh/N có/V cơn/N cười/V và/CC không/R xác_định/V được/V nguyên_nhân/N
+Bé/N uống/V thuốc/N chữa/V động_kinh/N nhưng/C không/R đáp_ứng/V  /EOS
+Bệnh/N của/E Phúc/Np ngày_một/X nặng/A cơn/Nc cười/V xuất_hiện/V nhiều/A hơn/R kéo_dài/V hơn/R kèm/V theo/R rối_loạn/V ý_thức/N
+Cười/V có_thể/R xuất_hiện/V bất_cứ/R lúc_nào/N khi/N ăn/V ngủ/V đang/R học/V ảnh_hưởng/V nhiều/A đến/E việc/N học/V cũng_như/C tâm_lý/N của/E trẻ/N
+Mỗi/L ngày/N bé/N có/V đến/V 4-9/M cơn/Nc cười/V kéo_dài/V 30/M giây/N tới/V một/M phút/N sau/E đó/P là/V cơn/N vắng/A ý_thức/N /A khoảng/A 5/M phút/Nu /M
+Từ/E đó/P hai/M bố_con/N bắt_đầu/V hành_trình/N đi/V khắp/A các/L bệnh_viện/N để/E tìm/V cách/N chữa_trị/V  /M Hè/N năm/N 2016/M anh/N Chiến/Np đưa/V con/N đến/E Bệnh_viện/N Việt_Đức/Np /V Hà_Nội/Np /V
+Các/L bác_sĩ/N phát_hiện/V tổ_chức/N mô/P thừa/V trong/E não/N của/E bé/N rất/R nhỏ/A là/V nguyên_nhân/N gây/V cơn/Nc cười/V không_thể/R kiểm_soát/V
+Kích_thước/N của/E tổ_chức/N thừa/A này/P chỉ/R khoảng/A 0,6/M 0,7/M mm/N nên/C nhiều/A khi/N chụp/V cắt_lớp/N cộng_hưởng/N từ/E bác_sĩ/N không/R thấy/V hoặc/CC không/R để_ý/V
+Tìm/V ra/R căn_nguyên/N gây/V bệnh/N điều/N các/L bác_sĩ/N băn_khoăn/A là/C phải/V xử_lý/V tổ_chức/N thừa/A này/P như_thế_nào/X an_toàn/A nhất/R cho/E trẻ/N
+Theo/E giáo_sư/N tiến_sĩ/N Đồng_Văn_Hệ/Np Giám_đốc/N Trung_tâm/N Phẫu_thuật/V Thần_kinh/N Bệnh_viện/N Việt_Đức/Np tổn_thương/N nằm/V giữa/E trung_tâm/N não/N và/CC rất/R nhỏ/A
+Để/E xử_lý/V các/L phẫu_thuật/V viên/N cần/V tạo/V đường/N đi/V qua/E nhu/N mô/P não/N khoang/N não/N thất/Z vì_thế/C đường/N can_thiệp/V cần/V rất/R chính_xác/A nếu_không/C sẽ/R làm/V tổn_thương/V các/L tổ_chức/N lành/A có_thể/R dẫn/V đến/E biến_chứng/N nghiêm_trọng/A như/C mất_trí/V bại_liệt/A
+Ngày/N 25/4/M trẻ/N được/V các/L bác_sĩ/N mổ/V nội_soi/N với/E sự/Nc hỗ_trợ/V giáo_sư/N Olivier_Delelande/Np /M người/N Pháp/Np /M cha_đẻ/N của/E phương_pháp/N mổ/V nội_soi/N chữa/V động_kinh/N  /M Nhờ/V hệ_thống/N định_vị/V thần_kinh/N cung_cấp/V hình_ảnh/N không_gian/N ba/M chiều/N các/L phẫu_thuật/V viên/N tạo/V đường/N đi/V an_toàn/A vào/E trong/E não/N
+Thay_vì/V cắt/V bỏ/V tổ_chức/V thừa/A các/L bác_sĩ/N chỉ/R cắt/V rời/V tổ_chức/V mô/P thừa/A vẫn/R còn/R để/V lại/R cuống/N
+Cách/N mổ/V này/P sẽ/R không/R ảnh_hưởng/V tới/E chức_năng/N não/N để/E trẻ/N có_thể/R phát_triển/V bình_thường/A
+Theo/E giáo_sư/N Hệ/Np khả_năng/N tổ_chức/V thừa/A này/P dính/V lại/R vào/E cuống/N là/V có/V nhưng/C rất/R thấp/A
+Ngay/T sau/N mổ/V khi/N tỉnh/N dậy/V trẻ/A đã/R không/R còn/V những/L cơn/Nc cười/V không/R kiểm_soát/V
+Nếu/C bệnh/N bé/N không/R được/V phát_hiện/V sớm/A và/CC điều_trị/V kịp_thời/A sẽ/R ảnh_hưởng/V tới/E cấu_trúc/N não/N bên/N trong/E
+Đây/P cũng/R là/V lần/N đầu/N bệnh_viện/N thực_hiện/V kỹ_thuật/N nội_soi/N can_thiệp/V não/N cho/E một/M bệnh_nhân/N bị/V động_kinh/N
+Động_kinh/N là/V một/M bệnh_lý/N phức_tạp/A biểu_hiện/V điển_hình/N là/V các/L cơn/Nc co_giật/N sùi/V bọt/N mép/N …/M Bệnh/N có/V nhiều/A thể/R khác_nhau/A nhiều/A khi/N chỉ/R là/V cơn/N vắng/A ý_thức/N rối_loạn/V cảm_giác/N hành_động/N bất_thường/A hoặc/CC những/L cơn/Nc cười/V vô_ý_thức/A
+Trên/E thế_giới/N cứ/R 1 0/M trẻ/N thì_có/X một/M bé/N bị/V động_kinh/N cơn/N cười/V thường/R gặp/V ở/E bé/N trai/N nhiều/A hơn/R bé/N gái/N

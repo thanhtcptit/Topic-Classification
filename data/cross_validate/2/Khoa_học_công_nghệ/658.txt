@@ -1,0 +1,16 @@
+﻿/M Công_nghệ/N hứa_hẹn/V xóa_sổ/V hoàn_toàn/A đại_dịch/N thế_kỷ/N
+Các/L nhà_nghiên_cứu/N tại/E Đại_học/N Temple/Np và/CC Đại_học/N Pittsburgh_Mỹ/Np sử_dụng/V công_nghệ/N chỉnh_sửa/V gene/N CRISPR/Np để/E loại_bỏ/V thành_công/N ADN/Np của/E virus/N HIV/Np ra/V khỏi/V mã/N di_truyền/A của/E chuột/N giúp/V con/Nc vật/N khỏi/V bệnh/N theo/V Cnet/Np
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E tạp_chí/N Molecular_Therapy/Np hôm/N 3/5/M
+Những/L khám_phá/V mới/A nhất/A này/P đem/V lại/R hy_vọng/V cho/E việc/N tìm/V ra/R phương_pháp/N chữa_trị/V HIV/Np một/M loại/Nc virus/N rất/R khó/A để/E loại_bỏ/V hoàn_toàn/A khỏi/V cơ_thể/N người_bệnh/N
+Nhiều/A loại/Nc thuốc/N chống/V virus/N HIV/Np đã/R được/V sử_dụng/V để/E ngăn_chặn/V sự/Nc sao_chép/V của/E virus/N
+Nhưng/C khi/N bệnh_nhân/N ngừng/V uống/V thuốc/N virus/N có_thể/R phát_triển/V trở_lại/V
+Giai_đoạn/N tiếp_theo/V của/E nhóm/N nghiên_cứu/V là/V sử_dụng/V công_nghệ/N chỉnh_sửa/V gene/N CRISPR/Np để/E loại_bỏ/V virus/N HIV/Np trên/E động_vật/N linh_trưởng/N
+Mục_tiêu/N cuối_cùng/A của/E chúng_tôi/P là/V tiến_hành/V thử_nghiệm/V lâm_sàng/N ở/E bệnh_nhân/N là/V con_người/N Kamel_Khalili/Np nhà_nghiên_cứu/N tại/E Đại_học/N Temple/Np cho_biết/V
+Đây/P là/V nghiên_cứu/N đầu_tiên/A sử_dụng/V công_nghệ/N chỉnh_sửa/V gene/N CRISPR/Np để/E ngăn_chặn/V sự/Nc sao_chép/V của/E virus/N HIV/Np và/CC khiến/V chúng/P ngừng/V hoạt_động/V trong/E tế_bào/N động_vật/N
+Công_nghệ/N CRISPR/Np vẫn/R còn/V tương_đối/A mới_mẻ/A và/CC nó/P ít/A được/R sử_dụng/V để/E chỉnh_sửa/V gene/V người/N
+Nhiều/A nhà_khoa_học/N xem/V CRISPR/Np là/V một/M công_cụ/N y_tế/N mang/V tính/N cách_mạng/N và/CC đầy/A tiềm_năng/N
+Nhưng/C cần/V có/V những/L bước_đi/N thận_trọng/A khi/N tiến_hành/V thử_nghiệm/V lâm_sàng/N trên/E người/N
+Năm/N 2015/M Jennifer_Doudna/Np người/N đồng/N sáng_tạo/V công_nghệ/N chỉnh_sửa/V gene/N CRISPR/Np giải_thích/V trong/E một/M cuộc/N nói_chuyện/V trên/E kênh/N TED/Np về/V lý_do/N cô/N và/CC đồng_nghiệp/N kêu_gọi/V tạm/A ngừng/V toàn_cầu/N trong/E việc/N sử_dụng/V CRISPR/Np trong/E các/L ứng/V ứng_dụng/V lâm_sàng/N
+CRISPR/Np chỉ/R nên/V được/R áp_dụng/V khi/N một_số/L câu_hỏi/N đạo_đức/N xung_quanh/N việc/N chỉnh_sửa/V gene/N trên/E cơ_thể/N người/N được/V trả_lời/V thích_đáng/A
+Năm/N 2016/M các/L nhà_nghiên_cứu/N tại/E Đại_học/N Pennsylvania/Np ở/E Philadelphia_Mỹ/Np nhận/V được/R sự/N phê_chuẩn/V sơ_bộ/A từ/E một/M ban/N cố_vấn/N liên_bang/N cho_phép/V sử_dụng/V công_cụ/N CRISPR/Np để/E làm/V thay_đổi/V tế_bào/N miễn_dịch/V nhằm/V chống/V lại/R ung_thư/N
+Cơ_quan/N Quản_lý/V Thực_phẩm/N và/CC Dược_phẩm/N Mỹ/Np  /V FDA/Np cũng/R phê_duyệt/V thử_nghiệm/V này/P

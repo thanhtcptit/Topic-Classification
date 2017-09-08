@@ -1,0 +1,10 @@
+Vòng/N eo/N trên/N 80/M 90cm/N có/V nguy_cơ/N mắc/V tiểu/N đường_cao/N
+Nam_giới/N có/V vòng/N eo/N trên/N 90/M cm/N nữ_giới/N vòng/N eo/N trên/N 80/M cm/N thuộc/V nhóm/N nguy_cơ/N mắc/V bệnh/N cao/A do/E vòng/N eo/N lớn/A là/V mỡ/N tảng/N gia_tăng/N liên_quan/V đến/R tình_trạng/N đề_kháng/V insulin/N và/CC có/V cơ_chế/N bệnh/N sinh/V rất/R rõ/A với/E bệnh/N tiểu_đường/N
+PGSTS/Np Nguyễn_Thy_Khuê/Np Chuyên_gia/N về/V tiểu_đường/N ở/E VN/Np cho_hay/A như/C vậy/P tại/E cuộc/N họp_báo/V ngày/N 306/M nhằm/N tăng_cường/V cung_cấp/V kiến_thức/N cho/E người_bệnh/N tiểu_đường/N
+Nghiên_cứu/V dịch_tễ/N những/L năm/N 1990/M cho/V thấy/V bệnh_nhân/N tiểu_đường/N có/V chỉ_số/N khối/N cơ_thể/N BMI/Np khoảng/N 23/M và/N vòng/N eo/N xấp_xỉ/A 90/M cm/Nu với/E nam/N và/CC 80/M cm/N với/E nữ/N nhưng/C hiện_nay/N thì/N bệnh_nhân/N tiểu_đường/N mập/N hơn/A BMI/Np khoảng/N 25/M và/N vòng/N eo/N lớn/A hơn/R vòng/N eo/N kể/V trên/E bà/N Khuê/Np cho/V biết/V
+Theo/E PGS/Np Khuê/Np thói_quen/N ăn_uống/V và/N vận_động/V thay_đổi/V góp_phần/V làm/V gia_tăng/V bệnh_nhân/N tiểu_đường/N ở/V VN/Np trong/E đó/N có/V việc/N người/Nc Việt/Np đã/R ăn/V gấp/A ba/M lượng/N dầu_mỡ/N lượng/N tinh_bột/N có/V giảm/V nhưng/C rau/N xanh/A không/R thấy/V đổi/V trong/E mấy/L chục/M năm/N gần/A đây/P vẫn/R tiếp_tục/V ở/V mức/N bằng/E 12/M so/N với/N yêu_cầu/V
+Bà/N Khuê/Np cũng/R cho_hay/V chi_phí/N điều_trị/V bệnh/N tiểu_đường/N ở/E VN/Np năm/N 2007/M là/V 320/M triệu/M USD/Nu và/N nếu/C không/R có/V biện_pháp/N thay_đổi/V để/E giảm/V số/N người/N mắc/V chi_phí/N cho/E căn_bệnh/N này/P sẽ/R vượt/V 1/M tỉ/M USD/Nu vào/V 2025/M
+Dịp/N này/P trang_web/N ngaydautien/V
+vn/N được/V ra_mắt/V như/A một/M trang/N thông_tin/N chính_thức/A dành/V cho/E bệnh_nhân/N tiểu_đường/N
+Tại/E đây/P bệnh_nhân/N có/V cơ_hội/N hỏi_đáp/V cùng/N bác_sĩ/N học/V cách/N sống/V khoẻ_mạnh/A cùng/N bệnh/N đánh_giá/N nguy/N cơ/N
+Theo/E bà/N Khuê/Np website/N này/P ra_đời/V nhằm/V tăng_cường/V kiến_thức/N cho/V bệnh_nhân/N tiểu_đường/N đang/R ngày_càng/X gia_tăng/V ở/V VN/Np

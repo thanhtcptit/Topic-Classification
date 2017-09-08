@@ -1,0 +1,12 @@
+Bếp/N ăn/V mới/A khai_trương/V 1/M ngày/N 200/M công_nhân/N ngộ_độc/N
+Sau/E khi/N ăn/V cơm/N của/E một/M bếp/N ăn/V mới/R khai_trương/V một/M ngày/N đến/E đầu/N giờ/N chiều/N 17/M khoảng/N 200/M công_nhân/N của/E Công_ty/N TNHH/Np An_Giang/Np SAMHO/Np thuộc/V Khu_Công_nghiệp/N Bình_Hoà/Np đều/R có/V triệu_chứng/N nôn/N ói/N đau_đầu/V chóng_mặt/N
+Các/L công_nhân/N ngộ_độc/N nằm/V la_liệt/A trong/E khu_công_nghiệp/N Ảnh/Np Bửu_Đấu/Np
+Chiều/N 17/M ông/N Trần_Minh_Nhựt/Np bí_thư/N huyện_uỷ/N Châu_Thành/Np An_Giang/Np cho/V biết/V đến/E thời_điểm/N hiện_tại/N các/L công_nhân/N vẫn/R đang/R được/V các/L y/N bác_sĩ/N của/E Bệnh_viện/N Đa_khoa/N huyện/N Châu_Thành/Np điều_trị/V một_số/N khác/A bức_xúc/A đã/R tự_ý/A chuyển/V viện/N lên/V Bệnh_viện/N Đa_khoa/N Trung_tâm/N An_Giang/Np
+Khoảng/N 11h/M ngày/N 17/M hàng/R ngàn/M công_nhân/N của/E Công_ty/N TNHH/Np An_Giang/Np SAMHO/Np thuộc/V Khu_Công_nghiệp/N Bình_Hoà/Np huyện/N Châu_Thành/Np An_Giang/Np sau/E khi/N ăn/V cơm/N của/E một/M bếp/N ăn/V mới/R khai_trương/V một/M ngày/N thì/C đến/E đầu/N giờ/N chiều/N cùng/A ngày/N nhiều/A công_nhân/N có/V triệu_chứng/N nôn/N ói/N đau_đầu/V chóng_mặt/N
+Ngay/T sau/E đó/P Ban/N quản_lí/V khu_công_nghiệp/N Bình_Hoà/Np đã/R nhanh_chóng/A đưa/V các/L em/N nhập_viện/V ở/V Bệnh_viện/N Đa_khoa/N huyện/N Châu_Thành/Np
+Đồng_thời/R huy_động/V thêm/V nhiều/A xe/N cứu_thương/N của/E các/L xã/N Cần_Đăng/Np Bình_Hoà/Np
+để/E điều/N xe/N cứu_thương/V đến/V chở/V các/L công_nhân/N nhập_viện/N
+Trao_đổi/V với/E Tuổi_Trẻ/N ông/N Trần_Minh_Nhựt/Np bí_thư/N huyện_uỷ/N Châu_Thành/Np cho/V rằng/N huyện/N đã/R tập_trung/V hết/V lực_lượng/N xe/N cấp_cứu/V và/N huy_động/N nhân_lực/N để/E tập_trung/V cứu_chữa/N cho/V các/L công_nhân/N bị/V ngộ_độc/V
+Đến/E thời_điểm/N này/P có/V trên/A 200/M công_nhân/N ngộ_độc/V được/R bố_trí/V nằm/V ở/V bệnh_viện/N Châu_Thành/Np và/CC Bệnh_viện/N Trung_tâm/N đa_khoa/V An_Giang/Np
+Hiện_tại/N các/L công/N nhân/N vẫn/R chưa/R xuất_viện/V
+Đa_số/N có/V chung/A triệu_chứng/N là/V nôn/N ói/V ông/Nc Nhựt/Np nói/V

@@ -1,0 +1,7 @@
+Bắt_giữ/V đối_tượng/N vận_chuyển/V 5.800/M viên/Nc ma_túy/N tổng_hợp/A 
+Khoảng/N 11h40/M ngày/N 15/6/2017/M khi/N đang/R làm/V nhiệm_vụ/N tại/E khu_vực/N đường/N Lê_Đại_Hành/Np khối/N 11/M phường/N Vĩnh_Trại/Np TP/Np Lạng_Sơn/Np tổ/N công_tác/N Phòng_Cảnh/Np sát/A hình_sự/N Công_an/N tỉnh/N Lạng_Sơn/Np phát_hiện/V 1/M người/Nc đàn_ông/N đeo/V trên/E người/N một/M túi/N sách/N màu/N đen/A có/V biểu_hiện/N nghi_vấn/V 
+Đối_tượng/N và/CC tang_vật/N Tổ/N công_tác/N đã/R tiến_hành/V kiểm_tra/V phát_hiện/V bên/N trong/E túi/N sách/N có/V 5.800/M viên/Nc nén/N màu/N hồng/N nghi/V ma_túy/N tổng_hợp/V )/A 
+Tại/E cơ_quan/N công_an/N đối_tượng/N Lâm_Quang_Hòa/Np sinh/V 1973/M trú/V tại/E xã/N Bờ/N Y/Np huyện/N Ngọc_Hồi/Np tỉnh/N Kon_Tum/Np khai/V nhận/V số/N viên/N nén/V trên/N là/V ma_túy/N dạng/N ngựa/N được/V đối_tượng/N mua/V tại/E Lào/Np với/E số/N tiền/N là/V 50/M triệu/M đồng/Nu 
+Hòa/Np định/V đem/V số/N ma_túy/N trên/A lên/R Lạng_Sơn/Np để/E tiêu_thụ/V nhưng/C chưa/R kịp/A thực_hiện/V thì/C đã/R bị/V lực_lượng/N công_an/N phát_hiện/V bắt_giữ/V 
+Vụ_việc/N đang/R tiếp_tục/V được/V điều_tra/V mở_rộng/V 
+Bá_Đoàn/Np 

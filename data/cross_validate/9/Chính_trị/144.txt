@@ -1,0 +1,10 @@
+Xe_khách/N cháy/V rụi/V trên/E quốc_lộ/N 40B/Np lúc/N rạng/A sáng/N
+Đang/R chạy/V trên/E địa_bàn/N miền/N núi/N tỉnh/N Quảng_Nam/Np chiếc/Nc xe_khách/N bất_ngờ/A phát/V lửa/N rồi/C bùng/V cháy/V dữ_dội/A lúc/N rạng/A sáng/N
+Tài_xế/N và/N hành_khách/N trên/E xe/N chỉ/R kịp/A thoát_thân/V
+Theo/V thông_tin/N ban_đầu/N vụ/N cháy/V xảy/V ra/R lúc/N 4h/M sáng/N 296/M trên/N quốc/N lộ/V 40B/N đoạn/N qua/V địa_bàn/N thôn/N Dương_Lâm/Np xã/N Trà_Dương/Np huyện/N Bắc_Trà_My/Np Quảng_Nam/Np
+Thời_điểm/N này/P xe_khách/N giường_nằm/N hơn/A 40/M chỗ/N do/E tài_xế/N Phan_Hồng_Bảo/Np 42/M tuổi/N trú/N xã/N Bình_Tú/Np huyện/N Thăng_Bình/Np Quảng_Nam/Np cầm/V lái/N chở/V 5/M hành_khách/N chạy/V tuyến/N Quảng_Nam/Np TP/Np Huế/Np đến/V địa_điểm/N trên/N thì/C xe/N bất_ngờ/A bị/V bốc/V cháy/V
+Vụ/N cháy/V lớn/A và/N lửa/N bùng_phát/A quá/R nhanh/A nên/C tài_xế/N và/CC hành_khách/N trên/E xe/N chỉ/R kịp/A chạy/V ra/E ngoài/N thoát_thân/N
+Nhận/V được/R thông_tin/V Công_an/N huyện/N Bắc_Trà_My/Np phối_hợp/V lực_lượng/N PCCC/N Quảng_Nam/Np nhanh_chóng/A có_mặt/V tại/E hiện_trường/N dập/V lửa/N
+Đến/V 5h30/M cùng/N ngày/N lực_lượng/N chức_năng/N đã/R khống_chế/V được/R ngọn/N lửa/N
+Tuy_nhiên/C chiếc/Nc xe_khách/N bị/V cháy/V rụi/N còn/V trơ/V khung/N đồ_đạc/N trong/E xe/N bị/V hư_hỏng/N
+Nguyên_nhân/N vụ/N cháy/N đang/R được/V cơ_quan_chức_năng/N điều_tra/V

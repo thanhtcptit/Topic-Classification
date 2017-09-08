@@ -1,0 +1,18 @@
+﻿/M Công_nghệ/N biến/V nước_thải/N thành/V dầu_thô/N sinh_học/N
+Nhà_máy/N xử_lý/V nước_thải/N trong/E tương_lai/N có_thể/R trực_tiếp/A biến/V nước_thải/N thông_thường/A thành/V dầu_thô/N sinh_học/N biocrude/N nhờ/V nghiên_cứu/V của/E  /N Phòng_Thí/Np nghiệm/V Quốc_gia/Np Tây_Bắc_Thái_Bình_Dương/Np PNNL/Np thuộc/V Bộ/N Năng/Np lượng/N Mỹ/Np theo/V Science_Daily/Np
+Các/L nhà_khoa_học/N bắt_chước/V điều_kiện/N địa_chất/N của/E Trái_Đất/Np sử_dụng/V nhiệt_độ/N và/CC áp_suất/N cao/A để/E tạo/V ra/R dầu_thô/N sinh_học/N từ/E nước_thải/N chỉ/R sau/A vài/L phút/N thay_vì/V mất/V hàng/R triệu/M năm/N như/C trong/E tự_nhiên/N
+Sau/E đó/P dầu_thô/V được/R tinh_chế/V bằng/E hoạt_động/N lọc/V dầu/N thông_thường/A
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E trang_web/N của/E PNNL/Np hôm/N 2/M 11/M
+Nước_thải/N hay/C cụ_thể/A hơn/R là/V bùn/N thải/V thường/R được/V xem/V là/C thành_phần/N nguyên_liệu/N không/R tốt/A để/E sản_xuất/V nhiên_liệu/N sinh_học/N vì/E nó/P quá/R ướt/A
+Nhóm/N nghiên_cứu/V tại/E PNNL/Np áp_dụng/V công_nghệ/N hóa_lỏng/N thủy/N nhiệt/N HTL/Np  /V nhằm/V loại_bỏ/V công_đoạn/N sấy/N khô/A trong/E đa_số/L các/L công_nghệ/N chuyển_đổi/V nước_thải/N thành/V dầu_thô/N sinh_học/N hiện_nay/N làm/V giảm/V giá_thành/N sản_xuất/V và/CC không/R tiêu/V tốn/V nhiều/A năng_lượng/N
+Công_nghệ/N HTL/Np biến_đổi/V chất_hữu_cơ/N có/V trong/E nước_thải/N thành/V những/L hợp_chất/N hóa_học/N đơn_giản/A
+Các/L nhà_khoa_học/N làm/V tăng/V áp_suất/N của/E hỗn_hợp/A nguyên_liệu/N đầu_vào/V lên/R 204/M atm/N gấp/V 100/M lần/N so/V với/E áp_suất/N trong/E lốp/N xe_hơi/N
+Bùn/N điều_áp/V sau/E đó/P đi/V vào/E hệ_thống/N lò/N phản_ứng/V hoạt_động/V ở/E khoảng/N 349/M C/N
+Nhiệt_độ/N và/CC áp_suất/N cao/A phá/V vỡ/V bùn/N thải/V thành/V nhiều/A thành_phần/N khác_nhau/A bao_gồm/V dầu_thô/N sinh_học/N và/CC một/M dung_dịch/N lỏng/N
+Bùn/N thải/V đô_thị/N chứa/V rất/R nhiều/A carbon/N cũng_như/C chất_béo/N
+Chất_béo/V tạo/V điều_kiện/N cho/E việc/N chuyển_đổi/V các/L vật_liệu/N khác/A trong/E nước_thải/N như/C giấy_vệ_sinh/N diễn/V ra/R thuận_lợi/N giúp/V bùn/N thải/V di_chuyển/V qua/E lò/N phản_ứng/V một_cách/N dễ_dàng/A và/CC sản_xuất/V dầu_thô/N sinh_học/N có/V chất_lượng/N cao/A
+Khi/N tinh_chế/V dầu_thô/N sinh_học/N sẽ/R trở_thành/V xăng_dầu/N diesel/N và/CC nhiên_liệu/N máy_bay_phản_lực/N Corinne_Drennan/Np chuyên_gia/N nghiên_cứu/V công_nghệ/N năng_lượng/N sinh_học/N tại/E PNNL/Np cho_biết/V
+Công_nghệ/N HTL/Np cũng/R có_thể/R sản_xuất/V dầu_thô/V sinh_học/N từ/E các/L loại/N nguyên_liệu/N hữu_cơ/N ướt/A chẳng_hạn/X như/C chất_thải/N nông_nghiệp/N
+Chúng_tôi/P nghiên_cứu/V và/CC hoàn_thiện/V công_nghệ/N chuyển_đổi/V thủy/N nhiệt/N hơn/A sáu/M năm/N qua/V để/E tạo/V ra/R một/M quy_trình/N liên_tục/A và/CC có/V khả_năng/N mở_rộng/V cho_phép/V sử_dụng/V chất_thải/N ướt/A giống/A như/C bùn/N thải/V Drennan/Np nói/V
+PNNL/Np cấp/V giấy_phép/N công_nghệ/N HTL/Np cho/E tập_đoàn/N Genifuel/Np có/V trụ_sở/N tại/E Utah/Np
+Genifuel/Np đang/R lên/V kế_hoạch/N hợp_tác/V với/E tổ_chức/N Metro_Vancouver_Canada/Np để/E xây_dựng/V một/M nhà_máy/N xử_lý/V nước_thải/N dựa/V trên/E công_nghệ/N HTL/Np đầu_tiên/A ở/E Bắc_Mỹ/Np với/E chi_phí/N dự_án/N ước_tính/V khoảng/A 6/M 6/M 7/M triệu/M USD/Nu

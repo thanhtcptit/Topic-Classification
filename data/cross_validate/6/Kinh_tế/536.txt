@@ -1,0 +1,9 @@
+Giá/N thuê/V đất/N khu_công_nghiệp/N tiếp_tục/V leo_thang/V
+Jones_Lang_La/Np Sale/Np /V JLL/Np /V Việt_Nam/Np vừa/R công_bố/V báo_cáo/V thị_trường/N khu_công_nghiệp/N các/L tỉnh/N phía/N Nam/Np quý/N II/2017/Np
+Theo/E đó/P cả/P vùng/N TP_HCM/Np đều/R xuất_hiện/V tình_trạng/N tăng_giá/V thuê/V đất/N công_nghiệp/N dù/E năm/N 2016/M thị_trường/N đã/R liên_tục/A thiết_lập/V mặt_bằng/N giá/N mới/R
+Cụ_thể/A giá/N thuê/V đất/N trung_bình/A mỗi/M m/Nu 2/M trên/E chu_kỳ/N thuê/V tại/E các/L khu_công_nghiệp/N TP_HCM/Np đã/R vọt/V lên/R 140,2/M USD/Nu mỗi/M m/Nu 2/M cho/E chu_kỳ/N thuê/V trong/E khi/N các/L tỉnh/N thành_phố/N còn/V lại/R giáp_ranh/N Sài_Gòn/Np cũng/R đạt/V mức/N giá/N thuê/V 30-100/M USD/Nu một/M m/Nu 2/M
+Điểm/N đặc_biệt/A là/C thời_hạn/N thuê/V còn/V lại/R của/E khá/R nhiều/A khu_công_nghiệp/N các/L tỉnh/N phía/N Nam/Np đang/R bị/V rút/V ngắn/A dần/R do/E số/N năm/N khai_thác/V sẽ/R bị/V trừ/V đi/V trên/E tổng/N chu_kỳ/N thuê/V đất/N /V phổ_biến/V là/C 50/M năm/N /M
+Nửa/M đầu/N năm/N 2017/M tỷ_lệ/N lấp/V đầy/A các/L khu_công_nghiệp/N phía/N Nam/Np đạt/V gần/A 75%/M tăng/V 120/M điểm/N phần_trăm/N so/V với/E quý/N IV/2016/Np
+Trong/E 5/M tỉnh/N khu_vực/N Đông_Nam_Bộ/Np Bình_Dương/Np và/CC Đồng_Nai/Np là/V những/L điểm/N đến/V hút/V đầu_tư/V công_nghiệp/N nhiều/A nhất/R
+Phân/N khúc/N nhà_xưởng/N xây/V sẵn/A đang/R trở_nên/V phổ_biến/V tại/E nhiều/A khu_công_nghiệp/N phía/N Nam/Np do/E nhu_cầu/N thuê/V của/E các/L doanh_nghiệp/N vừa/R và/CC nhỏ/A có/V xu_hướng/N tăng/V lên/R
+JLL/Np dự_báo/V tỷ_lệ/N lấp/V đầy/A và/CC giá/N thuê/V của/E thị_trường/N khu_công_nghiệp/N vùng/N Đông_Nam_Bộ/Np sẽ/R tiếp_tục/V tăng/V trong/E tương_lai/N chủ_yếu/A nhờ/V vào/E nguồn/N vốn/N đầu_tư/V nước_ngoài/N và/CC những/L nỗ_lực/N từ/E phía/N Chính_phủ/N nhằm/V cải_thiện/V môi_trường/N đầu_tư/V

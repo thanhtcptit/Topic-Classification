@@ -1,0 +1,8 @@
+Thẻ/N nhớ/V MicroSD/N 64GB/N chịu/V được/R nhiệt_độ/N cao/A
+Thẻ/N nhớ/V này/N còn/R tương_thích/V tốt/A với/E tiêu_chuẩn/N kĩ_thuật/N thẻ/N nhớ/V SD/Np version/V 3/M đem/N tới/V khả_năng/N truyền/V dữ_liệu/N lên/V đến/R 20MB/M trên/N giây/N
+Cũng/R nhờ/V vậy/P những/L chiếc/Nc microSD/N Class/Np 10/M trở_thành/N thiết_bị/N lí_tưởng/A trong/E các/L thiết_bị/N sử_dụng/V hệ_điều_hành/N nhúng/N trong/E các/L máy_móc/N công_nghiệp/N trong/E thiết_bị/N tìm/V đường/N GPS/Np hay/V với/E cả/P các/L máy_tính/N nhỏ/A được/V tích_hợp/V trong/E các/L phương_tiện/N di_chuyển/N và/CC có_thể/R chịu/V được/R nhiệt_độ/N từ/E 40°/N C/Np đến/V 85°/N C/Np
+Ngoài/E thẻ/N nhớ/V microSD/N Transcend/Np cũng/R cung_cấp/V một/M loạt/N các/L tiêu_chuẩn/N công_nghiệp/N cho/E thẻ/N nhớ/V SD/Np khi/N sử_dụng/V chip/N nhớ/V flash/N MLC/Np chất_lượng/N cao/A và/CC phù_hợp/V với/E tiêu_chuẩn/N kĩ_thuật/N thẻ/N nhớ/V SD/Np version/V 3/M
+Với/E một/M khả_năng/N hoạt_động/V trong/E môi_trường/N nhiệt_độ/N thay_đổi/V thường_xuyên/A thẻ/N SD/Np vẫn/R có_thể/A cung_cấp/V khả_năng/N tương_thích/V trong/E các/L thiết_bị/N công_nghiệp/N bao_gồm/V máy/N đọc/V mã_vạch/A cầm/V tay/N thiết_bị/N quẹt/N thẻ/V thiết_bị/N quảng_cáo/N đặt/V trên/E xe/N điện_toán/N y_tế/N thiết_bị/N giải_mã/N tính/V hiệu/N
+Ngoài_ra/C những/L chiếc/Nc thẻ/N nhớ/V SD/Np hay/C microSD/V đều/R có/V được/R hai/M tính_năng/N quan_trọng/A đó/P là/V Error_Correction_Code/Np ECC/Np giúp/V phát_hiện/V và/N giải_mã/N chuẩn_xác/N khả_năng/N bị/V lỗi/N khi/N chuyển/V dữ_liệu/N và/N SMART/Np
+giúp/V giám_sát/N tình_trạng/N hiện_tại/N của/E thẻ/N nhớ/V
+Các/L thẻ/N nhớ/V microSD/N và/CC SD/Np Class/Np 10/M có/V dung_lượng/N từ/E 8GB/M 16GB/N 32GB/M và/N 64GB/M

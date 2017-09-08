@@ -1,0 +1,12 @@
+Bệnh_viện/N quận/N xây/V khu/N khám/V bệnh/N kỹ_thuật/N cao/A 320/M tỷ/N đồng/N
+Bác_sĩ/N Trần_Văn_Khanh/Np Giám_đốc/N Bệnh_viện/N quận/N 2/M cho_biết/V khu/N khám/V và/CC điều_trị/V này/P dự_kiến/V khởi_công/V cuối/N năm/N 2017/M và/CC hoạt_động/V vào/E đầu/N năm/N 2019/M
+Dự_án/N có/V quy_mô/N 9/M tầng/N với/E 100/M giường_bệnh/N nội_trú/N cao_cấp/A với/E tổng/N kinh_phí/N khoảng/A 320/M tỷ/M đồng/Nu
+Trong/E hợp_tác/V theo/E hình_thức/N liên_kết/V công/N tư/N này/P đơn_vị/N đầu_tư/V sẽ/R xây_dựng/V cơ_sở_hạ_tầng/N trang_thiết_bị/N y_tế/N trong/E khuôn_viên/N bệnh_viện/N
+Bệnh_viện/N Quận/Np 2/M sẽ/R chuẩn_bị/V nhân_sự/N hợp_tác/V chuyên_môn/N với/E các/L bệnh_viện/N lớn/A các/L trường/N y_khoa/N để/E khám/V chữa/V bệnh/N cho/E người_dân/N và/CC cùng/A chia_sẻ/V lợi_nhuận/N
+Khu/N điều_trị/V sẽ/R được/V trang_bị/V các/L phương_tiện/N chẩn_đoán/V hiện_đại/A như/C hệ_thống/N chụp/V cộng_hưởng/N từ/E thế_hệ/N mới/R giúp/V phát_hiện/V sớm/A chính_xác/A các/L bệnh_lý/N tim_mạch/N cột_sống/N u/A tạng/V trong/E ổ_bụng/N
+Ngoài_ra/C còn/R có/V hệ_thống/N DSA/Np giúp/V chẩn_đoán/V và/CC can_thiệp/V động_mạch_vành/N điều_trị/V thuyên/N tắc/V mạch_máu/N não/N thủ_thuật/N TOCE/Np để/E điều_trị/V ung_thư/N gan/N
+Theo/E bác_sĩ/N Khanh/Np dự_án/N này/P được/V kỳ_vọng/V sẽ/R giảm/V quá_tải/A tại/E bệnh_viện/N cũng_như/C tuyến/N trên/A điều_trị/V chất_lượng/N cao/A phòng_bệnh/V khang_trang/A với/E chi_phí/N vừa_phải/V cho/E người_dân/N quận/N 2/M các/L quận/N huyện/N lân_cận/A cũng_như/C từ/E các/L tỉnh_thành/N
+Dự_tính/V chi_phí/N cho/E một/M lượt/N khám/V bệnh/N chỉ/R khoảng/A 120 0/M đồng/Nu thay_vì/V giá/N tại/E khu/N kỹ_thuật/N cao/A nhiều/A bệnh_viện/N tuyến/N trên/A là/V 200 0-300 0/M đồng/Nu bác_sĩ/N Khanh/Np chia_sẻ/V
+Đây/P là/V khu/N khám/V điều_trị/V theo/E yêu_cầu/N kỹ_thuật/N cao/A đầu_tiên/A ở/E một/M bệnh_viện/N tuyến/N quận/N
+Bệnh_viện/N Quận/Np 2/M là/V bệnh_viện/N đa_khoa/N hạng/N 2/M phục_vụ/V khoảng/N 2 0/M lượt/N khám/V ngoại_trú/N mỗi/M ngày/N và/CC 300/M bệnh_nhân/N nội_trú/N
+Hiện/N nơi/N này/P đã/R làm_chủ/V được/R những/L kỹ_thuật/N khó/A như/C thay/V khớp/N mổ/V sọ/N não/N đặt/V máy/N tạo/V nhịp/N tim/N

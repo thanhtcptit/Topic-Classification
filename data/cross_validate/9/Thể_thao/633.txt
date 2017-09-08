@@ -1,0 +1,71 @@
+Quang_Liêm/Np chia/V điểm/N với/E kỳ_thủ/N số_một/N nước/N Đức/Np
+Naiditsch/Np /V elo/N 2 0/M /N bất_ngờ/A chọn/V phương_án/N phòng_thủ/V Ấn/V Độ/N cổ/A một/M khai_cuộc/V không/R còn/R thường_xuyên/A xuất_hiện/V ở/E các/L trận/N cờ/N đỉnh_cao/V
+Vì/C với/E khai_cuộc/V này/P Đen/Np sẽ/R không/R có/V nhiều/A phương_án/N triển_khai/V quân/N và/CC nhường/V hoàn_toàn/A khu_vực/N trung_tâm/N cho/V Trắng/Np
+Quang_Liêm/Np /V 2 6/M /N thì/C bố_trí/V quân/N hiệu_quả/N để/E tạo_dựng/V thế_trận/N nhỉnh/A hơn/R
+Anh/N thậm_chí/R còn/V hơn/R đối_thủ/N một/M tốt/A sau/E 19 e7/Np
+Ở/E vài/L nước/N kế_tiếp/V máy_tính/N đánh_giá/V ưu_thế/A nghiêng/V hẳn/R cho/E Trắng/Np với/E tốt/A thông/N tại/E ô/N d/N 4/M cùng/C vị_trí/N các/L quân/N ít_nhiều/A thuận_lợi/A
+Tuy_nhiên/C Quang_Liêm/Np đã/R tính_toán/V không/R hợp_lý/A và/CC để/E đối_thủ/N đổi/V quân/N đồng_thời/R đoạt/V luôn/R tốt/A d/N 4/M
+Thế/T cờ/N khi/N đó/P về/V lại/R cân_bằng/A và/CC bước/V vào/E tàn/N cuộc/N xe/N và/CC tượng/N đấu/V xe/N và/CC mã/V
+Kỳ_thủ/N người/N TP M/Np đành/V phải/V chấp_nhận/V chia/V điểm/N sau/E 49/M nước/N đi/V
+Đây/P là/V trận/N hòa/V thứ_tư/N trong/E năm/N ván/N đầu_tiên/A của/E Quang_Liêm/Np tại/E giải/N đấu/V ở/E Đam_Châu/Np năm/N nay/P
+Nhưng/C thành_tích/N này/P cũng/R giúp/V kỳ_thủ/N số_một/N Việt_Nam/Np nối/V dài/A mạch/N bất/V bại/V lên/R 49/M trận/N
+Naiditsch/Np là/V kỳ_thủ/N số_một/N nước/N Đức/Np nhưng/C từ/E năm/N 2015/M anh/N chuyển/V sang/V thi_đấu/V cho/E đội_tuyển/N Azerbaijan/Np
+Ở/E các/L cặp/N đấu/V khác/A Wei_Yi/Np /V 2 8/M /N và/CC Ding_Liren/Np /V 2 3/M /N đều/R có/V những/L chiến_thắng/N quan_trọng/A để/E tiếp_tục/V dẫn/V đầu_bảng/V điểm/N
+Trong/E khi/N đó/P Quang_Liêm/Np giữ/V vị_trí/N thứ_ba/N
+Vào/V ngày_mai/N giải/N sẽ/R nghỉ/V thi_đấu/V một/M ngày/N để/E các/L kỳ_thủ/N tham_gia/V một_số/L  /N hoạt_động/V cộng_đồng/N tại/E tỉnh/N Hải_Nam/Np
+Ở/E ván/N đấu/V thứ_sáu/N Quang_Liêm/Np sẽ/R cầm_quân/V đen/A đối_đầu/V với/E Wang_Hao/Np /M 2 6/M /N
+Đây/P là/V cơ_hội/N tốt/A để/E anh/N kiếm/V thêm/V một/M chiến_thắng/N cải_thiện/V vị_trí/N trên/E bảng/N xếp_hạng/V
+Kết_quả/N ván/N năm/N Wang_Hao/Np /M 2 6/M /N ½/M ½/M Vassily_Ivanchuk/Np /M 2 8/M /N
+Lê_Quang_Liêm/Np /V 2 6/M /N ½/M ½/M Arkadij_Naiditsch/Np /M 2 0/M /N
+Lu_Shanglei/Np /V 2 8/M /N ½/M ½/M Vladimir_Malakhov/Np /M 2 2/M /N
+Wei_Yi/Np /V 2 8/M /N 1/M 0/M Yu_Yangyi/Np /M 2 9/M /N
+Ruslan_Ponomariov/Np /V 2 2/M /N 0/M 1/M Ding_Liren/Np /M 2 3/M /N
+Ba/M vị_trí/N dẫn_đầu/V sau/E ván/N năm_4/M điểm/N Wei_Yi/Np 3,5/M điểm/N Ding_Liren/Np 3/M điểm/N Lê_Quang_Liêm_Biên/Np bản/N ván/N đấu/V Lê_Quang_Liêm/Np vs/V Arkadij_Naiditsch/Np 1/M
+d4/M Nf6/N 2/M
+c4/M g6/N 3/M
+Nc3/M Bg7/N 4/M
+e4/M d6/N 5/M
+Be2/M O/Np O/Np 6/M
+Bg5/M Na6/N 7/M
+Qd2/M c6/N 8/M
+Rd1/M Nc7/N 9/M
+Bf3/M Be6/N 10/M
+b3/M Qc8/N 11/M
+h3/M b5/N 12/M
+cxb5/M cxb5/N 13/M
+Nge2/M b4/N 14/M
+Na4/M Rb8/N 15/M
+Rc1/M Qd8/N 16/M
+O/M O_Bd/Np 7/M 17/M
+Nb2/M Bb5/N 18/M
+Rfd1/M Nd7/N 19/M
+Bxe7/M Qxe7/N 20/M
+Rxc7/M Qd8/N 21/M
+Rc2/M Re8/N 22/M
+Nc4/M Nf6/N 23/M
+Ng3/M d5/N 24/M
+exd5/M Nxd5/N 25/M
+Ne4/M Re7/N 26/M
+Ne5/M f5/N 27/M
+Nc5/M Nc3/N 28/M
+Re1/M Qd6/N 29/M
+Na4/M Bxa4/N 30/M
+bxa4/M Rbe8/N 31/M
+a5/M Bxe5/N 32/M
+dxe5/M Qxd2/N 33/M
+Rxd2/M Rxe5/N 34/M
+Rxe5/M Rxe5/N 35/M
+a6/M Ra5/N 36/M
+Rd8/M +/N Kg7/Np 37/M
+Rd7/M +/N Kf6/Np 38/M
+Rxa7/M Rxa2/N 39/M
+Rb7/M Rxa6/N 40/M
+Rxb4/M Re6/N 41/M
+Rc4/M Nb5/N 42/M
+g3/M Rd6/N 43/M
+Kf1/M Nd4/N 44/M
+Kg2/M Nxf3/N 45/M
+Kxf3/M Rd3/M +/N 46/M
+Kg2/M Rd6/N 47/M
+Kf3/M Rd3/Np +/V 48/M
+Kg2/M Rd6/N 49/M

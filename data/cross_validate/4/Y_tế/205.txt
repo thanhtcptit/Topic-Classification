@@ -1,0 +1,13 @@
+​/N Chữa/Np mù/V thành_công/V cho/E cụ/N ông/N 101/M tuổi/N
+Khoa_Glocom/Np Đáy/N mặt/N Bệnh_viện/N Mắt_Huế/Np vừa/R thực_hiện/V thành_công/V ca/N phẫu_thuật/V đục/N thuỷ_tinh_thể/N cho/E cụ/N ông/N Trần_Lâm/Np năm/N nay/P đã/R 101/M tuổi/N
+Sáng/N 205/M BS/Np CKII/Np Nguyễn_Thế_Hùng/Np phó/N giám_đốc/N Bệnh_viện/N Mắt_Huế/Np cho/V biết/V cụ/N Trần_Lâm/Np 101/M tuổi/N trú/N thôn/N Mỹ_Thạnh/Np xã/N Quảng_Lợi/Np huyện/N Quảng_Điền/Np Thừa_ThiênHuế/N bị/V mù/V hoàn_toàn/A do/E đục/N thuỷ_tinh_thể/N trong/E hơn/A 2/M năm/N nay/P
+Sau/E khi/N nhập/V viện/N ngày/N 135/M cụ/N ông/N được/V các/L bác/N sĩ/N khám/V thuỷ_tinh_thể/N và/N võng_mạc/N
+Ngay/T sau/E đó/P các/L bác_sĩ/N khoa/N Glocom/Np Đáy/N mắt/N đã/R tiến_hành/V phẫu_thuật/V đặt/V một/M thấu_kính/N để/E thay_thế/V thuỷ_tinh_thể/N bị/V mờ/N đục/N ở/E hai/M bên/N mắt/N
+Sau/N phẫu_thuật/V cụ/N Lâm/Np đã/R nhìn/V được/R mọi/N thứ/N và/CC xem/V tivi/N bình_thường/A di_chuyển/V thuận_lợi/A hơn/R
+Cụ/N rất/R mừng/A khi/N thấy/V được/R con_cháu/N mình/N sau/A hơn/R 2/M năm/N chìm/V trong/N bóng_tối/N
+Theo/E BS/Np Hùng/Np quan_niệm/V người/N đã/R già/A không/R nên/V phẫu_thuật/V hoặc/N phẫu_thuật/V không/R thành_công/V sẽ/R bị/V mù_loà/V hoàn_toàn/A sai_lầm/N
+Có/V thể/N tuỳ/V vào/R mức_độ/N của/E bệnh/N và/CC theo/V chỉ_định/N của/E bác_sĩ/N để/N phẫu_thuật/V
+Trường_hợp/N như/A cụ/N Lâm/Np và/CC các/L bệnh_nhân/N trên/N 90/M tuổi/N khác/A đã/R điều_trị/V tại/E bệnh_viện/N tỉ_lệ/N phẫu_thuật/V để/E tìm/V lại/R ánh_sáng/N lên/V đến/R 90/M BS/Np Hùng/Np cho_hay/V
+Được/V biết/V cụ/N Trần_Lâm/Np là/V bệnh_nhân/N trên/E một/M trăm_tuổi/N thứ/N 2/M được/V phẫu_thuật/V thành_công/V tại/E Bệnh_viện/N Mắt_Huế/Np
+Năm/N 2016/M người_bệnh/N cao_tuổi/A nhất/R được/V mổ/V thay/V thuỷ_tinh_thể/N và/CC sáng_mắt/N trở_lại/V đã/R 100/M tuổi/N
+Ngoài_ra/C bệnh_viện/N cũng/R đã/R phẫu_thuật/V thành_công/V cho/E nhiều/A bệnh_nhân/N trên/A 90/M tuổi/N khác/A

@@ -1,0 +1,56 @@
+Dịch_bệnh/N sốt_xuất_huyết/N viêm/N não/N tăng/V đột_biến/N
+TPHCM/Np đã/R có/V 3/M người/N chết/V do/N sốt_xuất_huyết/N SXH/Np
+Các/L tỉnh/N miền/N Tây/Np Hà_Nội/Np số/N ca/N SXH/Np tăng/V hàng/R ngàn/N ca/V bệnh/N
+Ngoài_ra/C bệnh/N viêm/N não/N cũng/R gia_tăng/V nhiều/A nơi/N
+Thống_kê/N của/E Bộ/N Y/Np tế/V cho_hay/V dịch/N SXH/Np đến/V sớm/A hơn/R thường_kì/N ở/E rất/R nhiều/A địa_phương/N
+TPHCM/Np 3/M người/N chết/V do/N SXH/Np
+Theo/E bác_sĩ/N chuyên_khoa/N I_Nguyễn_Anh_Tuấn/Np trưởng_phòng/N kế_hoạch/N tài_chính/N Trung_tâm/N Y/Np tế/N dự_phòng/V TPHCM/Np nguyên_nhân/N là/V do/E mùa/N mưa/N bất_thường/A hơn/R mọi/L năm/N đến/V sớm/A và/N có/V những/L cơn/Nc mưa/N lớn/A
+Số/N ca/N mắc/V bệnh/N tăng/V hơn/R so/V với/E cùng/N kì/N năm/N trước/A
+Theo/E số_liệu/N của/E Trung_tâm/N Y/Np tế/N dự_phòng/V TPHCM/Np số/N ca/N mắc/V bệnh/N SXH/Np liên_tục/A tăng/V trong/E khoảng/N 3/M tuần/N nay/N
+Hiện/N số/N ca/N mắc/V bệnh/N trong/E TP/Np đã/R lên/V đến/T 339/M ca/N
+Riêng/T tuần/N qua/V TPHCM/Np có/V thêm/V một/M người/N mắc/V bệnh/N SXH/Np tử_vong/V nâng/V số/N người/N chết/V do/N SXH/Np thành/V ba/M người/N
+Bác/N sĩ/N Ngô_Ngọc_Quang_Minh/Np trưởng_phòng/N kế_hoạch/N tổng_hợp/V Bệnh_viện/N Nhi_Đồng/Np 1/M cho/V biết/V vì/E SXH/Np đang/R vào/V mùa/N nên/V Bệnh_viện/N Nhi_Đồng/Np 1/M đã/R lập/V một/M đội/N cơ_động/N gồm/V có/V bác_sĩ/N điều_dưỡng/N trực/V 2424/M giờ/N để/E tiếp_nhận/V bệnh_nhi/N kịp_thời/A
+Đồng_thời/R đội/N cơ_động/N này/P cũng/R nhằm/V hỗ_trợ/V các/L bệnh_viện/N bạn/N khi/N cần_thiết/V
+Ngoài_ra/C bệnh_viện/N cũng/R chuẩn_bị/V đầy_đủ/A phương_tiện/N máy_móc/N thuốc/N dịch/N truyền/V máu/N
+để/E kịp_thời/N điều_trị/V cho/V bệnh_nhi/N
+Miền_Tây/Np lưu_ý/V dịch/N SXH/Np viêm/V não/N
+Tại/E khu_vực/N miền/N Tây_Nam_Bộ/Np dịch/V SXH/Np và/CC viêm/N não/N sắp/R đi/V vào/V cao_điểm/N
+Đã/R có/V hàng/R ngàn/N ca/N mắc/V SXH/Np nhiều/A ca/N viêm/V não/N nhập_viện/N
+Tại_Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np một/M lượng/N bệnh_nhi/N rất/R lớn/A đến/V từ/E các/L tỉnh/N trong/N khu_vực/N
+Từ/E đầu/N năm/N đến/V nay/P đã/R có/V khoảng/N 1000/M ca/N SXH/Np nhập_viện/V hơn/A 2000/M ca/N liên_quan/V đến/E SXH/Np đến/V khám/V bệnh/N ngoại_trú/N
+Nơi/N này/P cũng/R tiếp_nhận/V khoảng/A 40/M ca/N bệnh/N viêm/N não/N
+Bác/N sĩ/N chuyên_khoa/N II/M Hà_Anh_Tuấn/Np trưởng/N khoa/N hồi_sức/N tích_cực/N chống/V độc/N Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np khuyến_cáo/N các/L gia_đình/N có/V trẻ/N sốt/V cao/A uống/V hạ/N sốt/N vẫn/R sốt/V lại/R đến/V ngày/N thứ_hai/N thì/C cần/V đưa/V ngay/N trẻ/N đến/V bệnh_viện/N chuyên_khoa/N
+Khoa/Np hồi_sức/V tích_cực/N và/CC chống/V độc/A của/E bệnh_viện/N những/L ngày/N qua/V tiếp_nhận/V nhiều/A trường_hợp/N viêm/N não/N Nhật_Bản/Np B/Np và/CC màng/V não/N não/N mô/N cầu/N bệnh/N SXH/Np
+nhập_viện/N trong/N tình_trạng/N nặng/A
+Lý_do/N người_nhà/N thấy/V trẻ/N sốt/V đau_đầu/V buồn_nôn/N
+nghĩ/V là/C bị/V cảm/V sốt/V thông_thường/A nên/C chỉ/R mua/V thuốc/N uống/V không/R đưa/V đến/V bệnh_viện/N
+Có/V trường_hợp/N nhập_viện/N đã/R trong/N tình_trạng/N lơ_mơ/V do/E viêm/N não/N hay/C sốc/N SXH/Np độ/N IV/Np rất/R nặng/A
+Các/L bác_sĩ/N cho/V biết/V để/E phòng_bệnh/V viêm/N não/N nói_chung/N và/CC SXH/Np quan_trọng/N nhất_là/N phòng/N muỗi/N đốt/V viêm/N não/N Nhật_Bản/Np B/Np và/CC SXH/Np đều/R lây/V qua/V đường/N muỗi/N đốt/V
+Cần/V tiêm/V ngừa/N đầy_đủ/A mũi/N văcxin/N phòng/N viêm/V não/N
+Bác/N sĩ/N Nguyễn_Thị_Thu_Trang/Np trưởng/N khoa/N nhi/N Bệnh_viện/N Nguyễn_Đình_Chiểu/Np Bến_Tre/Np cảnh_báo/V hiện_nay/N ở/E khu_vực/N miền/N Tây_Nam_Bộ/Np bệnh/N viêm/N não/N và/CC SXH/Np đã/R xuất_hiện/V quanh_năm/N ngay/T cả/T mùa/N nắng/N cũng/R có/V bệnh/N SXH/Np và/CC có_khi/N có/V bệnh/N nặng/A
+Đặc_biệt/A SXH/Np xảy/V ra/R ở/V người_lớn/N ngày_càng/N nhiều/A do/N đó/P không/R được/V chủ_quan/V
+Một/M đặc_thù/N ở/E miền/N Tây/Np là/V bà_con/N thường/N tích_trữ/V nước/N mưa/N để/V sử_dụng/V
+Do/E đó/P muỗi/N truyền/V bệnh/N có/V môi_trường/N phát_triển/N
+Đặc_biệt/A ở/E các/L huyện/N giáp/V biển/N cần/V lưu_ý/V diệt/N lăng_quăng/N trong/E các/L hồ/N kiệu/N chứa/V nước/N mưa/N
+Hàng/R trăm/M trẻ/N viêm/N não/N ở/E phía/N Bắc/Np
+Theo/E thông_tin/N từ/E Bệnh_viện/N Nhi/Np T/Np
+Ư/N Hà_Nội/Np từ/E đầu/N năm/N 2017/M đến/E nay/N khoa/N truyền_nhiễm/N Bệnh_viện/N Nhi/Np T/Np
+Ư/Np đã/R điều_trị/V 176/M trẻ/N mắc/V viêm/N não/N trong/N đó/N có/V 24/M bé/N mắc/V viêm/N não/N Nhật_Bản/Np riêng/A tháng/N 6/M có/V 21/M bé/N nhập_viện/N
+Bà/N Dương_Thị_Hồng/Np phó/N viện_trưởng/N Viện_Vệ_sinh/N dịch_tễ/N T/Np
+Ư/N cho_hay/N tỉ_lệ/N tiêm_chủng/N văcxin/V ngừa/N viêm/N não/N Nhật_Bản/Np ở/E các/L tỉnh/N có/V bệnh_nhi/N mắc/V bệnh/N không/R thấp/A tuy_nhiên/N các/L cháu/N mắc/V bệnh/N chủ_yếu/A là/V trẻ/N trên/A 5/M tuổi/N ngoài/N đối_tượng/N của/E tiêm_chủng/N mở_rộng/N
+Bà/Nc Hồng/Np khuyến_cáo/N các/L gia_đình/N cho/V trẻ/N đi/V tiêm/V văcxin/N ngừa/N viêm/N não/N Nhật_Bản/Np đúng/A lịch/N trẻ/A trên/N 5/M tuổi/N không/N trong/N diện/N được/V tiêm/V văcxin/N miễn_phí/V nên/C gia_đình/N có_thể/A cho/V trẻ/N tiêm_chủng/V dịch_vụ/N mũi/N văcxin/V nhắc/V lại/R để/V phòng_bệnh/V
+Theo/E Bệnh_viện/N Nhi/Np T/Np
+Ư/N viêm/N não/N Nhật_Bản/Np là/V bệnh/N có/V tỉ_lệ/N tử_vong/N để/V lại/R di_chứng/N nặng/A như/C liệt/N rối_loạn/V về/E vận_động/V ngôn_ngữ/N trí_tuệ/V
+Riêng/T dịch/N SXH/Np cũng/R tăng/V mạnh/A ở/V Hà_Nội/Np
+Tính/V đến/V giữa/N tháng/N 6/M một_số/N khu_vực/N trọng_điểm/N như/C quận/N Đống_Đa/Np đã/R có/V gần/A 500/M người/N mắc/V bệnh/N với/E 88/M ổ/N dịch/N tăng/V gấp/N gần/N 9/M lần/N so/V với/E cùng/N kì/N năm_ngoái/N
+Chỉ/R riêng/T quận/N Hoàng_Mai/Np có/V trên/N 340/M người_bệnh/N 83/M ổ/N dịch/N 28/M ổ/N đang/R hoạt_động/V số/N mắc/N tăng/V gấp/V gần/N 7/M lần/N so/V với/E cùng/N kì/N
+Các/L quận/N Cầu_Giấy/Np Ba_Đình/Np Hoàn_Kiếm/Np có/V số/N mắc/N tăng/V 55/M lần/N so/V với/E cùng/N kì/N
+Chú/Nc ý/N các/L triệu_chứng/N
+Theo/E bác_sĩ/N Nguyễn_Thị_Thu_Trang/Np về/V triệu_chứng/N cả/P hai/M bệnh/N SXH/Np và/CC viêm/V não/N đều/R có/V triệu_chứng/N sốt/V cao/N và/CC có_thể/A xảy/V ra/R ở/V cả/P trẻ_em/N và/N người_lớn/N
+Riêng/T SXH/Np có/V triệu_chứng/N kèm/V theo/R là/V đau/V nhức/N khá/R rõ/A đau/N cơ/N đau/V hốc/N mắt/N và/CC biếng/V ăn/V
+Bên_cạnh/N đó/P là/V triệu_chứng/N biếng/N ăn/V buồn_nôn/N nôn/N đau/V bụng/N
+Rõ/A hơn/R nữa_là/N chảy_máu/N răng/N và/CC xuất_huyết/V dưới/N da/N
+Nhưng/C lưu_ý/N SXH/Np không/R phải/V trường_hợp/N nào/P cũng/R chảy_máu/V răng/N máu_cam/N xuất_huyết/V dưới/N da/N
+Không/R nên/V trông_chờ/V các/L triệu_chứng/N này/N để/E khẳng_định/V bệnh/N SXH/Np khi/N thấy/V sốt/V cao/A ngày/N thứ/N 2/M 3/M thì/N nên/V đi/V khám/V sớm/A
+Về/V viêm/N não/N Nhật_Bản/Np ngoài/N sốt/V cao/A thì/C ảnh_hưởng/V đến/V thần_kinh/N khiến/V người_bệnh/N lừ_đừ/A nhức/V đầu/N nôn/N ói/V co_giật/V
+Các/L triệu_chứng/N này/P sẽ/R xảy/V ra/R trong/E 3/M ngày/N đầu/N

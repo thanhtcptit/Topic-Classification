@@ -1,0 +1,13 @@
+Người/N bán/V hàng/N rong/V đột_ngột/A viêm/N nắp/N đường/N thở/V làm/V ngưng/V tim/N
+Bác_sĩ/N Trần_Phan_Chung_Thủy/Np Giám_đốc/N Bệnh_viện/N Tai_Mũi_Họng/Np TP_HCM/Np cho_biết/V nếu/C cấp_cứu/V chậm/A vài/L phút/N bệnh_nhân/N nguy_cơ/N không/R giữ/V được/R mạng/N sống/V hoặc/CC có_thể/R mất/V chức_năng/N não/N sống/V thực_vật/N
+Khi/N vào/V viện/N bệnh_nhân/N đã/R  /V khó/A thở/V tím_tái/A mạch/N huyết_áp/N không/R đo/V được/R tiêu/V tiểu/N không/R tự_chủ/V  /EOS
+Bác_sĩ/N Nguyễn_Quang_Tú/Np trưởng/Z ca/N trực/V cấp_cứu/V cho_biết/V trước/E tình_trạng/N bệnh_nhân/N thập_tử_nhất_sinh/X bệnh_viện/N đã/R kích_hoạt/V báo_động/V đỏ/A  /M Các/L bác_sĩ/N nhanh_chóng/A đặt/V nội/N khí_quản/N mở/V khí_quản/N khai_thông/V đường/N thở/V hồi_phục/V tim/N
+giúp/V bệnh_nhân/N thoát/V khỏi/R nguy_kịch/A  /EOS
+Theo/E bác_sĩ/N Tú/Np bệnh_nhân/N bị/V viêm/V thanh/N thiệt/A tức/C viêm/N nắp/N đường/N thở/V  /M Bình_thường/A thanh/N thiệt/A vốn/N mềm_mại/A mỏng_manh/A
+Khi/N ăn_uống/V thanh/N thiệt/A sẽ/R đóng/V không/R cho/V thức_ăn/N nước/N uống/V lọt/V xuống_đường/V thở/V
+Ở/E bệnh_nhân/N này/P khảo_sát/V thấy/V phù_nề/A bít/V tắt/V đường/N thở/V
+Viêm/N thanh/N thiệt/A cấp/N có/V nhiều/A nguyên_nhân/N thường/R do/E cảm/V cúm/N lâu/A ngày/N hóc/V xương/N thời_gian/N dài/A gây/V nhiễm_trùng/A
+Trước/E nhập_viện/V khoảng/A 20/M ngày/N bệnh_nhân/N ăn/V cơm/N với/E cá/N có/V cảm_giác/N vướng/V họng/N nên/C nghĩ/V là/C hóc/N xương/N
+Gần/A đây/P ông/N thường/R đau/V họng/N thay_đổi/V giọng/N nói/V cho/V rằng/C do/E hóc/N xương/N nên/C không/R đi/V khám/V
+Bác_sĩ/N khuyến_cáo/N khi/N có/V biểu_hiện/N bất_thường/A như/C khàn/V tiếng/N đau/V họng/N khó/A thở/V
+nên/C đi/V khám/V sớm/A

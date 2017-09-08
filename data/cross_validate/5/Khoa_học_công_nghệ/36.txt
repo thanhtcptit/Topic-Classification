@@ -1,0 +1,33 @@
+Android/N 70/M đến/V tay/N người_dùng/N có/V gì/N hay/N
+Theo/E thông_báo/N từ/E blog/N chính_thức/N Google/Np Android/Np Android_Nougat/Np mang/V tới/N khả_năng/N cá/N nhân_hoá/V nhiều/A hơn/A như/C các/L biểu_tượng/N cảm_xúc/N emoji/V đa_dạng/N
+Android/N 70/M Nougat/Np hỗ/V trợ/N đavị/N trí/N multilocation/N đồng_nghĩa/V các/L ứng_dụng/N có_thể/A biến_tấu/V nội_dung/N dựa/V theo/R thiết_lập/N vị_trí/N của/E bạn/N ví_dụ/N kết_quả/N tìm_kiếm/V hiển_thị/N nội/N dung/N theo/V các/L ngôn/N ngữ/N được/V chọn/V
+Khả_năng/N xử/V lí/V đa_nhiệm/N thể_hiện/V rõ/A hơn/R cho/V phép/N các/L ứng_dụng/N chạy/V song_song/A trên/E màn_hình/N thiết_bị/N có/V thể/N điều_chỉnh/N kích_cỡ/N của/E từng/N cửa/N sổ/N ứng_dụng/A
+Ngoài_ra/X người_dùng/N có_thể/R trả_lời/V nhanh/A các/L thông_báo/N như/C báo/N tin_nhắn/V hay/N tán_gẫu/V chat/N mà/C không/R cần/V mở_cửa/V sổ/N ứng/V dụng/N đó/P
+Cả/P hai/M tính_năng/N trên/N đều/R đã/R được/V các/L nhà/N sản_xuất/V thiết_bị/N Android/Np như/C Samsung/Np LG/Np HTC/Np
+tối/N ưu/N trong/E gói/N giao_diện/N riêng/A của/E mình/P từ/E lâu/N nhưng/C nay/N mới/R được/V đưa/V vào/E bản/N Android/Np gốc/N
+Tương_tự/A với/E phần/N Quick_Settings/Np nhưng/C có/V thêm/V một/M tính_năng/N bổ_sung/V rất/R hay/A cho/V phép/N nhập/V thêm/V bất_kì/N tác_vụ/V nhanh/A nào/N vào/V bên_cạnh/N các/L phần/N như/C Tắtmở/Np WiFi/V Bluetooth/Np Âm_thanh/V
+Google/Np cho/V biết/V đã/R cải_tiến/V tình_trạng/N ngốn/V pin/N từ/E phiên_bản/N Android/Np 60/M Marshmallow/Np với/E Doze/Np và/CC tiếp_tục/V cải_tiến/V trong/E Nougat/Np tiêu_xài/V pin/N thông_minh/A hơn/R nhưng/C cũng/R chú_thích/N còn/V tuỳ_thuộc/V vào/V nhiều/A yếu_tố/N như/C kết/N nối_mạng/N thiết_lập/V mạng/N các/L tính_năng/N hay/C ứng/V dụng/N đang/R mở/V
+Một/M cập_nhật/N nhỏ/A nhưng/C lại/R khá/R hay/A cho/E Data_Saver/Np tính_năng/V cho/V phép/N người_dùng/N thiết_lập/V các/L tuỳ/N chọn/V sử_dụng/V mạng/N dữ_liệu/N 3G/N 4G/M sao/N cho/V hiệu_quả/N
+Điều/N này/P sẽ/R tiết_kiệm/V kha_khá/N tiền/N trả/V cho/E dữ_liệu/N bị/V xài/V âm_thầm/A bởi/E các/L ứng_dụng/N chạy/V ở/E hậu_trường/N mà/C người_dùng/N phổ/N thông_thường/N không/R biết/V
+Thậm_chí/R bạn/N có_thể/R dùng/V Data_Saver/Np khoá/N Facebook/Np xài/V mạng/N 3G/Np đang/R mở/V để_dành/V cho/E các/L ứng_dụng/N cần_thiết/N khác/A
+Sẽ/R sớm/V cho/E người_dùng/N Android_Nougat/Np thấy/V sự/N hữu_ích/A và/CC làm/V họ/P hài_lòng/V là/V nền_tảng/N xử_lí/N đồ_hoạ/N 3/M chiều/N 3D/M Vulkan/Np đã/R có_mặt/V trên/E thiết_bị/N di_động/N
+Theo/E đó/P các/L thiết_bị/N như/C smartphone/N và/CC tablet/N cao_cấp/A trang_bị/N chip/N xử_lí/N đa/N nhân/N và/CC bộ_nhớ/N RAM/Np 3GB/N 4/M GB/Np trở/V lên/R có_thể/A cho/E những/L trải_nghiệm/N game/N đồ_hoạ/N cao_cấp/A mượt_mà/A hơn/R gần/A như/C trên/N laptop/N
+Bên_cạnh/N Vulkan/Np là/V Daydream/Np đưa/V người_dùng/N vào/E thế_giới/N nội_dung/N thực_tế/N ảo/N VR/Np sẽ/R sớm/V phổ_biến/V trên/E thiết_bị/N di_động/N cuối/N năm/N nay/P và/N năm/N 2017/M
+Đáng/V chú_ý/V Google/Np đưa/V khâu/N cập_nhật/V updating/N cho/V Android/Np vào/V hậu/N nền/N hệ_thống/N đồng_nghĩa/N người_dùng/V Android_Nougat/Np về/V sau/N không/N phải/V chờ/V đến/R 1520/M phút/N ở_không/V smartphone/N hay/N tablet/N của/E mình/P cài_đặt/V xong/V mới/R sử_dụng/V được/R thiết_bị/N
+Phần/N cập_nhật/V và/N tối_ưu/N bản/N cập_nhật/V với/E các/L ứng_dụng/N được/V làm/V âm_thầm/A trong/E khi/N bạn/N sử_dụng/V máy/N
+Bị/V đánh_giá/V bảo_mật/N yếu/N Google/Np tăng/V thêm/R tuỳ/N chọn/V mã_hoá/N dữ_liệu/N vào/V từng/N tập_tin/N thay_vì/V cả/P bộ_nhớ_trong/N hay/C thẻ/V nhớ/V
+Nougat/N cho/V người_dùng/N chỉ_định/N ứng_dụng/N chỉ/R được/V truy_xuất/V dữ_liệu/N trong/E thư_mục/N nào/P thay_vì/V toàn_bộ/N bộ_nhớ_trong/N hay/C thẻ/N nhớ/V như/C trước/N
+Thu_hẹp/N quyền_hạn/N tò_mò/V của/E các/L ứng_dụng/N
+Ngoài_ra/C Nougat/Np áp_dụng/V Direct_Boot/Np khởi_động/V trực_tiếp/A pv/V giúp/V thiết_bị/N khởi_động/N nhanh/A hơn/R các/L ứng_dụng/N khởi_động/V theo/V máy/N chạy/V trong/E môi_trường/N an_toàn/N trước/E khi/N người_dùng/N mở/V khoá/N màn_hình/N để/N sử_dụng/V
+Phiên_bản/N Android/Np for/V Work/Np dùng/V trong/E môi_trường/N doanh_nghiệp/N có/V thêm/V những/L tính_năng/N an_ninh/N riêng/A cao_cấp/A hơn/R
+Thiết_bị/N nào/R có_thể/V nâng/V cấp/N Android/N 70/M Nougat/Np
+Những/L thiết/N bị/V đón/V bản/N nâng_cấp/V Android_Nougat/Np đầu_tiên/A không/R ai/N khác/A ngoài/N gia/N đình/N Nexus/Np của/E Google/Np gồm/V các/L thiết/N bị/V Nexus/Np 6/M Nexus/Np 5X/M Nexus/Np 6P/M Nexus/Np 9/M Nexus_Player/Np Pixel/Np C/Np
+và/N loại_bỏ/V Nexus/Np 5/M cùng/N Nexus/Np 7/M 2013/M ra/V khỏi/V cuộc_chơi/N
+Ngày/N 69/M tới/N đây/P LG/Np V20/Np là/V một/M trong/E những/L smartphone/N cao/A cấp/N đầu_tiên/A tích_hợp/V sẵn/A Android/Np 70/M Nougat/Np khi/N ra_mắt/V
+Bản/N nâng_cấp/V phân_phối/V qua/R OTA/Np OvertheAir/N lần_lượt/V tới/V tay/N người_dùng/N từ/N hôm_nay/N
+Nếu/C không/R muốn/V chờ/V đợi/V người_dùng/N có_thể/R tự/V tải/N file/N cài/V đặt/V và/N thực_hiện/V nâng_cấp/N thủ_công/N
+Tuy_nhiên/C người_dùng/N phổ_thông/N được/V khuyến/N cáo/N nên/C chờ/V bản/N cài/V đặt/V tự/N động/V OTA/Np để/E tránh/V những/L trục_trặc/N có_thể/A xảy/V ra/R khi/N nâng_cấp/V thủ_công/N
+Google/N đối_mặt/V tình_trạng/N phân/V mảnh/N với/E Android/Np dù/N Android/Np 60/M Marshmallow/Np phát_hành/V một/M năm/N trước/A nhưng/C hiện/N theo/V thống_kê/N của/E Google/Np chỉ/R mới/R có/V 152/M người_dùng/N Android/Np được/V sử_dụng/V 848/M còn/V lại/R đứng/V bên/N lề/N những/L cách_tân/N mà/N phiên_bản/V mới/A đem/V lại/R
+Tình_trạng/N phân/V mảnh/N đến/V từ/E việc/N các/L nhà/N sản_xuất/V OEM/Np thiết_bị/N Android/Np đều/R tích_hợp/V thêm/V các/L ứng_dụng/N dịch_vụ/N và/CC gói/V giao_diện/N dễ/A sử_dụng/V hơn/A cho/E khách/N hàng/N của/N mình/N
+Đơn_cử/N như/A Samsung/Np có/V TouchWiz/N HTC/Np có/V Sense/Np Sony/Np LG/Np Oppo/Np Xiaomi/Np
+nên/C khi/N Android/Np có/V phiên_bản/N mới/R các/L nhà/N sản_xuất/N này/P phải/V tối_ưu/A cho/V phù_hợp/V với/E các/L sản_phẩm/N của/E mình/P chậm_trễ/N rất/R lâu/A trong/E việc/N phát_hành/V bản/N nâng_cấp/V

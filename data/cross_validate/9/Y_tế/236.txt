@@ -1,0 +1,26 @@
+Chuỗi/N sự_kiện/N 10000/M bước/N chân/N kéo_dài/V đến/E hết/V tháng/N 8/M
+Sự_kiện/N lễ/N phát_động/V chuỗi/N sự_kiện/N 10000/M bước/N chân/N Thay_đổi/V cuộc_sống/N sáng/N 145/M đã/R diễn/V ra/R thành_công/V tốt_đẹp/A
+Báo/N Tuổi_Trẻ/Np gửi/V lời/N cảm_ơn/V chân_thành/A đến/E các/L lãnh_đạo/N TPHCM/Np các/L sở/N ban_ngành/N cùng/N đơn_vị/N tham_gia/V tổ_chức/V phối_hợp/N
+Lãnh_đạo/N Thành_uỷ/N TPHCM/Np
+Lãnh_đạo/N HĐND/N TPHCM/Np
+Lãnh_đạo/N UBND/Np TPHCM/Np
+Lãnh_đạo/N Sở/N Y/Np tế/V TPHCM/Np
+Lãnh_đạo/N Sở/N Du_lịch/V TPHCM/Np
+Lãnh_đạo/N Sở/N Văn_hoá/N thể_thao/N TPHCM/Np
+Ban/N thường_vụ/N Thành_đoàn/N TPHCM/Np
+Hội_Liên_hiệp/N thanh_niên/N VN/Np TPHCM/Np
+Hội_Sinh_viên/N TPHCM/Np
+Trung_tâm/N Dinh_dưỡng/V TPHCM/Np
+Ban/N giám_hiệu/N cùng/N tập_thể/N sinh_viên/N các/L trường/N ĐH/N Tôn_Đức_Thắng/Np ĐH/Np Công_nghiệp/N thực_phẩm/N ĐH/N Tài_chính/N marketing/N CĐ/N Quốc_tế/N TPHCM/Np CĐ/M nghề/N Du_lịch/V Sài_Gòn/Np
+Công_ty/N CP/Np Sữa/Np VN/Np Vinamilk/Np
+Công_ty/N Spotlight_Media/Np
+Các/L nghệ_sĩ/N nhóm/N nhạc/N người_mẫu/A và/CC toàn_thể/N hơn/A 5000/M người/N dân/N TPHCM/Np và/CC các/L tỉnh/N lân_cận/A cư_dân/N Phú_Mỹ_Hưng/Np Q7/Np TPHCM/Np
+Chuỗi/N sự_kiện/N 10000/M bước/N chân/N Thay_đổi/V cuộc_sống/N sẽ/R tiếp_tục/V các/L hoạt/N động_từ/N nay/P đến/V hết/V tháng/N 82017/M
+Ban/N tổ_chức/V mong/V tiếp_tục/V nhận/V được/R sự/N hỗ_trợ/V tham_gia/V của/E đông_đảo/N các/L tổ_chức/N doanh_nghiệp/N người/Nc dân/N TPHCM/Np và/CC cả/T nước/N
+Chương_trình/N lễ/N phát_động/V chuỗi/N sự_kiện/N 10000/M bước/N chân/N Thay_đổi/V cuộc_sống/N diễn/V ra/R tại/E khu_vực/N xung_quanh/N toà/N nhà/N Vinamilk_Tower/Np đường/N Tân_Trào/Np PT/Np ân/V Phú/Np Q7/Np TPHCM/Np với/E hơn/N 5000/M người/N đã/R cùng/A tham_gia/V đi/V bộ/N
+Phó/Z bí_thư/N Thành_uỷ/N chủ_tịch/N HĐND/N TPHCM/Np Nguyễn_Thị_Quyết_Tâm/Np phó/Z chủ_tịch/N HĐND/Np Phạm_Đức_Hải/Np giám_đốc/N Sở/N Y/Np tế/V Nguyễn_Tấn_Bỉnh/Np giám_đốc/N Sở/N Du_lịch/V Bùi_Tá_Hoàng_Vũ/Np phó/N giám_đốc/N Sở/N Văn_hoá/N thể/N thao/N Mai_Bá_Hùng/Np TSBS/Np Trần_Thị_Mỹ_Hạnh/Np phó/N giám_đốc/N Trung_tâm/N dinh_dưỡng/N TPHCM/Np
+đã/R dẫn_đầu/V đoàn/N đi/V bộ/N
+Cùng/A tham_gia/V đi/V bộ/N còn/R có/V hoa_hậu/N Diễm_Hương/Np và/CC con_trai/N nhỏ/A mới/R 28/M tháng/N tuổi/N á_hậu/N Lệ_Hằng/Np diễn_viên/V Ái_Phương/Np
+Dòng/N người/N kéo_dài/V cả/P cây_số/N di_chuyển/V nhanh/A theo/V hướng_dẫn/N đi/V bộ/N nhanh/N của/N huấn_luyện_viên/N
+Đến/E 8g/N sau/N 45/M phút/N đi/V bộ/N những/L người/N đầu_tiên/A đã/R về/V đến/E sân_khấu/N chính/N kết_thúc/V vòng/N đi/V bộ/N của/E mình/N
+Chương_trình/N do/C báo/N Tuổi_Trẻ/Np và/CC Hội/Np sinh_viên/N Hội/Np liên_hiệp/N thanh_niên/N VN/Np TPHCM/Np phối_hợp/V tổ_chức/V với/E sự/N đồng_hành/V của/E Công_ty/N cổ/A phần/N sữa/N Việt_Nam/Np Vinamilk/Np

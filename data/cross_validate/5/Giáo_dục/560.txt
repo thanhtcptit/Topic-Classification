@@ -1,0 +1,5 @@
+24/M mã_đề/N tiếng/N Anh/Np thi/V THPT/Np quốc_gia/N
+Năm_ngoái/N 90%/M thí_sinh/N bị/V điểm/V dưới/E trung_bình/A môn/N Ngoại_ngữ/N tập_trung/V 2-4/M
+Tỷ_lệ/N thí_sinh/V đạt/V điểm/N 2,25/M chiếm/V cao/A nhất/R
+Số/N bài/N bị/V điểm/V liệt/A /M từ/E 1/M trở/V xuống/R /M khoảng/N 1%/M /Nu 52/M em/N /V
+Thí_sinh/N đạt/V được/R từ/E 5/M điểm/N trở_lên/A chiếm/V khoảng/A 8,8%/M

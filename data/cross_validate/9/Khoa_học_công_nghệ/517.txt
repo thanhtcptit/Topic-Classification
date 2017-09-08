@@ -1,0 +1,17 @@
+Anh/N phát_triển/V máy_bay/N tự/P liền/R cánh/N bị/V nứt/V
+Chúng_tôi/P lấy/V cảm_hứng/N thiết_kế/V từ/E con_người/N
+Nếu/C chúng_ta/P không/R tiến_hóa/V để/E chịu/V được/V vết_thương/N da/N người/N sẽ/R dày/A như/C da/N tê_giác/N
+Tuy_nhiên/C khi/N con_người/N bị_thương/V sẽ/R chảy_máu/V da/N đóng/V vảy/N giúp/V liền/R vết_thương/N
+Chúng_tôi/P tạo/V ra/R vật_liệu/N có/V chức_năng/N tự/P liền/R giống/A da/N người/N  /V giáo_sư/N Duncan_Wass/Np trưởng/Z nhóm/N nghiên_cứu/V thuộc/V đại_học/N Bristol_Anh/Np nói/V
+Theo/E Sputnik/Np để/E chế_tạo/V ra/R loại/Nc cánh/N này/P nhóm/N nghiên_cứu/V đã/R đưa/V những/L khối/N cầu_siêu/V nhỏ/A vào/E vật_liệu/N carbon/N sợi/N tổng_hợp/V dùng/V để/E chế_tạo/V vỏ/N máy_bay/N
+Khi/N xảy_ra/V va_chạm/V hay/C nứt/V trên/E thân/N hay/C cánh/N máy_bay/N những/L khối/N cầu/N sẽ/R giải/V phỏng/N chất_lỏng/N vá/V lại/R chỗ/N hư_hại/V
+Tuy_nhiên/C thời_gian/N vá/V còn/R phụ_thuộc/V vào/E nhiệt_độ/N bên/N ngoài/N máy_bay/N nhiệt_độ/N càng/R cao/A tốc_độ/N tự/P liền/R càng/R nhanh/A
+Công_nghệ/N này/P hiện/N chỉ/R có_thể/A tự/P sửa_chữa/V những/L vết/N nứt/V vỡ/V nhỏ/A trên/E cánh/N và/CC thân/N máy_bay/N
+Tuy_nhiên/C các/L nhà_khoa_học/N tin_tưởng/V công_nghệ/N này/P sẽ/R sớm/A được/V đưa/V vào/E ứng_dụng/N trong/E đời_sống/N với/E màn_hình/N điện_thoại/N các/L thiết_bị/N thể_thao/N hay/C sơn/V móng/N tay/N  /V CNN/Np hôm/N 6/6/M đưa/V tin/N Không_quân/N Mỹ/Np đang/R phát_triển/V một/M loại/Nc máy_bay/N siêu_thanh/A không/R người/N lái/V có_thể/R bay/V gần/A hai/M km/Nu trong/E vòng/N một/M giây/N
+Theo/E kế_hoạch/N dự_án/N này/P sẽ/R hoàn_thành/V vào/E năm/N 2023/M
+Hồi/N tháng/N 5/2013/M quân_đội/N Mỹ/Np thử_nghiệm/V lần/N cuối/A loại/Nc máy_bay/N siêu_thanh/A mới/R có/V tên/N X/Np 51Waverider/Np
+Theo/E kết_quả/N công_bố/V chiếc/Nc X/Np 51/M đã/R đạt/V đến/E tốc_độ/N siêu_thanh/V Mach/Np 5/M gấp/V 5/M lần/N tốc_độ/N âm_thanh/N tương_đương/A 6/M 115/M km/Nu //X h/N
+Công_nghệ/N siêu_thanh/N này/P là/V nhân_tố/N tiềm_năng/N thay_đổi/V cuộc_chơi/N thay_đổi/V bản_chất/N chiến_tranh/N Thiếu_tá/N Không_quân/N Mỹ_Thomas_Masiello/Np nhận_định/V
+Trung_Quốc/Np và/CC Nga/Np cũng/R đang/R phát_triển/V công_nghệ/N này/P
+Những/L chiến/N cơ/N này/P có_thể/R được/V phóng/V từ/E xa/A đi/V nhanh/A đến/E mức/N không_thể/R định_vị/V được/R cho_đến/E khi/N tiếp_cận/V mục_tiêu/N
+Tuy_nhiên/C Mica_Endsley/Np trưởng_ban/N khoa_học/N Không_quân/N Mỹ/Np cho_biết/V còn/R một_số/L trở_ngại/N trong/E việc/N phát_triển/V hệ_thống/N dẫn/V đường/N và/CC vật_liệu/N mới/R để/E chế_tạo/V máy_bay/N siêu_thanh/V

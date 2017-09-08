@@ -1,0 +1,25 @@
+Học_sinh/N nông_thôn/N học/V xuyên/V quốc_gia/N
+Cô/N Trần_Thị_Thuý/Np giáo_viên/N tiếng/N Anh/Np Trường/Np THPT/Np Đức_Hợp/Np Kim_Động/Np Hưng_Yên/Np ứng_dụng/V phương_pháp/N dạy_học/V mới/R giúp/V học_sinh/N vùng/N nông_thôn/N học_tập/V tiếng/N Anh/Np thông_qua/V trao_đổi/V trực_tuyến/A với/E các/L học_sinh/N khác/A trên/N thế_giới/N
+Sau/N thời_gian/N hoàn_thành/V khoá/N học/V chuẩn/N giáo_viên/N tiếng/N Anh/Np theo/V đề_án/N ngoại_ngữ/N quốc_gia/N 2020/M cô/N Thuý/Np tâm_niệm/V không_thể/R dừng/V lại/V ở/E đó/P mà/C phải/V chủ_động/V tìm_tòi/N hơn_nữa/N những/L kiến_thức/N dạy_học/N mới_mẻ/A để/E truyền_đạt/V đến/E học_sinh/N của/N mình/N
+Sau/E đó/P cô/N Thuý/Np biết/V đến/R nhóm/N Cộng_đồng/N giáo_viên/N sáng_tạo/A Việt_Nam/Np MIE/Np Experts_Vietnam/Np
+Từ/E cộng_đồng/N này/P được/V học_hỏi/V trao_đổi/V kinh_nghiệm/N với/E các/L đồng_nghiệp/N khắp/A cả/N nước/N cô/N Thuý/Np biết/V đến/R phương_pháp/N dạy_học/V mới/A thông_qua/V ứng_dụng/N giáo_dục/N của/N Microsoft/Np
+Kết_nối/N với/E các/L bạn/N nước_ngoài/N
+Với/E việc/N áp_dụng/V ứng_dụng/N này/P cùng/A với/E các/L học_sinh/N của/E mình/N cô/N Thuý/Np đã/R đoạt/V giải/N nhì/N cuộc/N thi/N Giáo_viên/N sáng_tạo/V trên/E nền_tảng/N công_nghệ_thông_tin/N do/E Bộ/N GDĐT/N phối_hợp/V với/E Microsoft/Np tổ_chức/V vào/E tháng/N 82016/M
+Tiếp/V sau/N đó/P cuối/N tháng/N 3/M vừa_qua/N cô/N Thuý/Np cùng/C với/C 4/M giáo_viên/N khác/A đến/V từ/E Hà_Nội/Np và/CC TPHCM/Np được/V chọn/V đại_diện/N cho/E Việt_Nam/Np tham_gia/V Diễn_đàn/N giáo_dục/N toàn_cầu/N do/E Microsoft/Np tổ_chức/V tại/E Toronto/Np Canada/Np
+Nhóm/N của/E cô/N Thuý/Np đã/R đoạt/V giải_thưởng/N đặc_biệt/A
+Trở/V về/R từ/E diễn_đàn/N nói/V trên/N cô/N Thuý/Np tiếp_tục/V triển_khai/V đến/E học_sinh/N của/E mình/N phương_pháp/N dạy_học/V mới/A
+Với/E mỗi/M chủ_đề/N hằng/R tuần/N học_sinh/N được/V chuẩn_bị/V trước/N nội_dung/N qua/V ứng_dụng/N Power_Point/Np để/E thuyết_trình/V trao_đổi/V với/E các/L bạn/N học_sinh/N đến/V từ/E Nhật_Bản/Np Ai_Cập/Np Pakistan/Np Ấn_Độ/Np
+Giáo_viên/N sẽ/R chỉ/V đóng/V vai_trò/N là/V người/N tổ_chức/V còn/V các/L em/N học_sinh/N là/V những/L người/N chủ_động/N thể_hiện/V quan_điểm/N trao_đổi/V với/E nhau/N trong_suốt/N buổi/N học/V
+Em/N Lê_Tuấn_Duy/Np một/M trong/E các/L học_sinh/N được/V trải_nghiệm/N phương_pháp/N học/V tiếng/N Anh/Np của/E cô/N Thuý/Np cho/V biết/V Cả/P lớp/N em/N vô_cùng/N hào_hứng/N thích_thú/N muốn/V biết/V các/L bạn/N học_sinh/N nước_ngoài/N học/V như/C thế_nào/N nước/N họ/N nói/V tiếng/N Anh/Np có/V như/N nước/N mình/N không/R
+Những/L tò_mò/N đó/P đã/R khiến/V em/N và/CC các/L bạn/N trong/E lớp/N rất/N vui/A khi/N được/V kết_nối/V trò_chuyện/V với/E học_sinh/N nước_ngoài/N
+Cần/V nhân/V rộng/A hơn_nữa/N
+Cô/N Thuý/Np cho/V biết/V thêm/V phương_pháp/N dạy_học/N sử_dụng/V nền_tảng/N công_nghệ_thông_tin/N không/R phải/A mới_mẻ/A ở/E Việt_Nam/Np nhưng/C với/E miền/N Bắc/Np nói_chung/N và/CC tỉnh/N Hưng_Yên/Np nói_riêng/N vẫn/R chưa/R được/V ứng_dụng/V nhiều/A
+Theo/E cô/N Thuý/Np việc/N kết_nối/V thành_công/V với/E các/L lớp_học/N nước_ngoài/N đòi_hỏi/V giáo_viên/N Việt_Nam/Np phải/V có/V sự/N phối_hợp/V chặt_chẽ/A với/E giáo_viên/N quốc_tế/N đồng_thời/N sắp_xếp/V thời_gian/N hợp_lí/A để/E buổi/N học/V xuyên/N quốc_gia/N có_thể/R diễn/V ra/R
+Điều/N này/P mất/V thời_gian/N và/CC công_sức/N bên_cạnh/N khó_khăn/A do/N chênh_lệch/N múi_giờ/V giữa/N các/L quốc_gia/N
+Ngoài/E học/V xuyên/N quốc_gia/N người/N giáo_viên/N cũng/R có_thể/A linh_hoạt/A chủ_động/V bố_trí/V ngay/R cho/E học_sinh/N của/E mình/P giờ/N học/V tiếng/N Anh/Np liên/N tỉnh_thành/N qua/V trao_đổi/V trực_tiếp/A với/E học_sinh/N các/L tỉnh/N thành_phố/N khác/A trong/E cả/N nước/N
+Phó/N hiệu_trưởng/N Hà_Quang_Vinh/Np nhận_xét/V với/E phương_pháp/N dạy/V tiếng/N Anh/Np phổ_biến/V trước/N đây/P giáo_viên/N chỉ/R chú_trọng/V cho/E học_sinh/N lí_thuyết/N kĩ_năng/N viết/V nhằm/V phục_vụ/V cho/E các/L kì/N thi/V
+Trong/E khi/N đó/P kĩ_năng/V cần_thiết/A nhất/A cho/E học_sinh/N khi/N học/V ngoại_ngữ/N vẫn/R phải/V là/V giao_tiếp/N trao_đổi/V
+Học_sinh/N ở/E vùng/N nông_thôn/N đang/R còn/V rất/R yếu_kém/A về/E mặt/N này/P
+Đây/P là/V điều/N nhà_trường/N đang/R muốn/V cải_thiện/V
+Trao_đổi/V với/E Tuổi_Trẻ/N ông/N Đoàn_Vân_Phong/Np chánh_văn_phòng/N Sở/N GDĐT/N tỉnh/N Hưng_Yên/Np cho/V biết/V thời_gian/N tới/V sở/N sẽ/R mời/V cô/N Thuý/Np trực_tiếp/A báo_cáo/V và/N giới_thiệu/V về/V phương_pháp/N dạy_học/N mới/A của/E mình/P trước/N đại_diện/V giáo_viên/N các/L trường/N THPT/Np trong/N tỉnh/N
+Nếu/C phương_pháp/N dạy_học/N mới/A này/P được/V đánh_giá/V là/V hiệu_quả/N sở/N sẽ/R cho/V triển_khai/V rộng_rãi/N trong/E toàn/N ngành/N giáo_dục/N của/N tỉnh/N

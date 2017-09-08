@@ -1,0 +1,11 @@
+Quá_tải/N nghiêm_trọng/N bệnh_viện/N chạy/V thận/N đến/E gần/A sáng/N
+Ngày/N 226/M BS/Np Phan_Thạch_Khuê/Np trưởng/N khoa/N lọc/V máu/N Bệnh_viện/N Đa_khoa/N tỉnh/N Lâm_Đồng/Np cho/V biết/V khoa/N lọc/N máu/N của/E bệnh_viện/N đang/R trong/E tình_trạng/N quá_tải/A nghiêm_trọng/A
+Theo/E BS/Np Khuê/Np hiện/V các/L máy/N chạy/V thận/N hết/V công_suất/N với/C 4/M cangày_đêm/N thường_xuyên/A phục_vụ/V cho/V hơn/A 200/M người/N bệnhtuần/V
+Việc/N quá_tải/V đã/R kéo_dài/V hơn/A hai/M tháng/N
+Các/L máy/N được/V đầu_tư/V hiện/N không/R còn/V đủ/A để/E chạy/V thận/N nhân_tạo/A cho/E những/L người_bệnh/N bị/V suy/V thận/N
+Theo/E tính_toán/N của/E Bệnh_viện/N Đa_khoa/N tỉnh/N Lâm_Đồng/Np với/E số_lượng/N máy/N lọc/V máu/N như/C hiện_nay/N nếu/N thực_hiện/V lọc/V máu/N đúng/N chuẩn/N đúng/A công_suất/N chỉ/R đáp_ứng/V được/V cho/V khoảng/N 140/M người/N bệnhtuần/V
+Để/E đáp_ứng/V được/R lượng/N bệnh/N các/L máy/N phải/V hoạt_động/V liên_tục/A đến/V tận/R 1h/M sáng/N hôm/N sau/A
+Chu_kì/N nghỉ/N của/E máy/N điều_dưỡng/N bác_sĩ/N là/V cực/A ngắn/A
+Việc/N máy/N chạy/V thận/N quá_tải/N tiềm_ẩn/V nhiều/A nguy_cơ/N liên_quan/V đến/E chất_lượng/N điều_trị/N BS/Np Khuê/Np nói/V
+Hiện_nay/N số/N người_bệnh/N có/V nhu_cầu/N lọc/V máu/N cao/A hơn/R rất/R nhiều/A để/E đáp_ứng/V cần/V có/V thêm/V khoảng/A 20/M máy/N lọc/V thận/N
+Theo/E thông_tin/N từ/E Sở/N Y/Np tế/N Lâm_Đồng/Np tình_trạng/N quá_tải/A chạy/V thận/N nhân_tạo/A còn/R diễn/V ra/R ở/E các/L cơ_sở/N khác/A như/C Trung_tâm/N Y/Np tế/N TP/Np Đà_Lạt/Np và/CC Bệnh_viện/N Đa_khoa/N 2/M Lâm_Đồng/Np TP/Np Bảo_Lộc/Np

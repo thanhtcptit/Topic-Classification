@@ -1,0 +1,40 @@
+Phần_mềm/N giải/N toán/N thông_minh/A Math_Solver/Np của/E người/N Việt/Np
+Phần_mềm/N giải/N toán/N thông_minh/A do/E một/M thạc_sĩ/N công_nghệ_thông_tin/N người/N Việt/Np sáng_tạo/A đang/R được/V hàng/N chục/M ngàn/N người_ở/N nhiều/A nước/N tải_về/N sử_dụng/V và/N đánh_giá/V tốt/A
+Phần_mềm/N Math_Solver/Np do/E thạc_sĩ/N Phạm_Khắc_Cảnh/Np xây_dựng/V các/L thuật_toán/N cùng/C với/C sự/N hỗ_trợ/V của/E các/L giáo_viên/N THPT/Np giảng_viên/N các/L trường/N ĐH/N
+Anh/N Cảnh/Np vốn/R là/V học_sinh/N chuyên/A toán/Nc Trường/Np THPT/Np chuyên/V Trần_Hưng_Đạo/Np Bình_Thuận/Np đam_mê/V toán/N nhưng/C lại/R chọn/V học/V ngành/N công_nghệ_thông_tin/N Trường/N ĐH/N Bách_khoa/N ĐHQG/N TPHCM/Np sau/N đó/P là/V thạc_sĩ/N công_nghệ_thông_tin/N tại/E Trường/N ĐH/N Khoa_học/N tự_nhiên/A ĐHQG/M TPHCM/Np
+Dẫu/C vậy/P đam_mê/N toán_học/N ở/E anh/N vẫn/R cháy_bỏng/V
+Năm/N 2015/M anh/N Cảnh/Np bắt_tay/V xây_dựng/V phần_mềm/N giải/N toán/N của/E riêng/A mình/N
+Nhanh/A và/N chính_xác/A
+Được/V đưa/V lên/R kho/N ứng_dụng/N Play_Store/Np và/CC Apple_Store/Np cách/V đây/P khoảng/A 4/M tháng/N đến/V nay/N Math_Solver/Np đã/R có/V gần/A 100000/M lượt/N người/N tải_về/V phần_lớn/N là/V sinh_viên/N theo/V độ/N tuổi/N khai_báo/N
+Lượt/N tải_về/N tập_trung/V ở/E Việt_Nam/Np Ấn_Độ/Np Nga/Np Mỹ/Np châu/N Âu/Np một_vài/N nước/N Đông_Nam/Np Á/Np
+Từ/E hai/M ngôn_ngữ/N ban_đầu/N Việt/Np Anh/Np đến/V nay/N phần_mềm/N đã/R bổ_sung/V các/L ngôn_ngữ/N Nga/Np Thái/Np Hàn/Np Trung/Np đang/R hoàn_thiện/V ngôn_ngữ/N Nhật/Np và/CC Campuchia/Np
+Phần_lớn/N người_dùng/V trên/E hai/M kho/N ứng_dụng/N trên/N đánh_giá/N Math_Solver/Np tốt/A giải/N nhanh/A và/N chính_xác/A
+Phần_mềm/N này/P có_thể/A giải/V nhiều/A dạng/N toán/N khác/A nhau/N từ/E phổ_thông/N đến/V ĐH/N như/C vẽ/V đồ_thị/N hệ/N phương_trình/V tích_phân/N phương_trình/N bất_phương_trình/N đạo_hàm/N giới_hạn/N chuỗi/N số/N phương_trình_vi_phân/X cực_trị/N hàm_số/N ma_trận/N
+Người_dùng/N muốn/V giải/V toán/N ở/V dạng/N nào/P nhập/V vào/R phần/N đó/P sau/N đó/P nhập_đề/V
+Tuỳ/Np vào/V mức_độ/N khó/A của/E bài_toán/N phần_mềm/N chỉ/R mất/V vài/L giây/N để/E đưa/V ra/R kết_quả/N với/E lời_giải/N chi_tiết/N
+Anh/Nc Cảnh/Np cho/V biết/V đây/P là/V phần_mềm/N giải/N toán/N dựa/V vào/R trí_tuệ_nhân_tạo/X
+Từ/E những/L nền_tảng/N toán_học/N được/V lập_trình/N ban_đầu/N phần_mềm/N sẽ/R ghi_nhớ/V kinh_nghiệm/N qua/E những/L lần/N giải/V để/E sau/N đó/P vận_dụng/V và/N giải/V những/L bài_toán/N tốt/A hơn/R
+ThS/N La_Thanh_Hùng/Np giảng_viên/N toán/N Trường/N ĐH/Np Sài_Gòn/Np cho/V biết/V phần_mềm/N giải/N tương_đối/A chính_xác/A các/L dạng/N toán/N khác/A nhau/N ở/E bậc/N ĐH/N với/E thời_gian/N giải/N nhanh/A đáp_ứng/V được/R yêu_cầu/V tham_khảo/N của/E người/N sử_dụng/V
+Còn/C theo/V giáo_viên/N toán/N Nguyễn_Tăng_Vũ/Np Trường_Phổ_thông/N năng_khiếu/N ĐHQG/N TPHCM/Np ngoài/N đáp_số/N phần_mềm/N Math_Solver/Np còn/R đưa/V ra/R lời_giải/N chi_tiết/A theo/V từng/R bước/N giải/N nên/N rất/R hữu_ích/A để/E học_sinh/N sinh_viên/N kể_cả/N giáo_viên/N tham_khảo/V
+Đánh_giá/V về/R mức_độ/N chính_xác/A khi/N giải/N toán/N của/E phần_mềm/N ThS/N Phạm_Thanh_Phong/Np trưởng/N bộ_môn/N toán/N Trường/N ĐH/N Kinh_tế/N tài_chính/N TPHCM/Np nói/V Đối_với/N toán/N bậc/N phổ_thông/N kết_quả/N đưa/V ra/R chính_xác/A khoảng/N 95/M
+với/E toán/N bậc/N ĐH/N ở/V khối/N trường/N kinh_tế/N phần_mềm/N giải/N chính_xác/A khoảng/N 90/M
+Tuy_nhiên/C với/E các/L bài_toán/N của/E khối/N trường/N ĐH/N kĩ_thuật/N phần_mềm/N chỉ/R có_thể/A giải/V chính_xác/A khoảng/A 70/M vì/E chương_trình/N toán/N ở/V khối/N này/P sâu/A và/CC khó/A hơn/R
+Những/L dạng/N toán/N đặc_biệt/A lạ/A phần_mềm/N chưa/R thể/R giải/V được/R
+Tiếp_tục/V hoàn_thiện/V
+Với/E sự/N hỗ_trợ/V của/E một_số/N giảng_viên/N ĐH/N và/CC giáo_viên/N toán/N THPT/Np về/V ngân_hàng/N đề/N và/CC lời_giải/V hệ_thống/N định_lí/N toán_học/N khoảng/N 10000/M đề/N toán/N đủ/A các/L dạng/N khác/A nhau/N đã/R được/V anh/N Cảnh/Np đưa/V vào/R để/E phần_mềm/N xử_lí/N
+Mất/V hai/M năm/N xây_dựng/V nền_tảng/N toán_học/N cũng/R như/C kĩ_thuật/N anh/N Cảnh/Np viết/V thuật_toán/N để/E sau/N khi/N giải/V mỗi/N bài_toán/N phần_mềm/N sẽ/R ghi_nhớ/V và/N tích_luỹ/N kinh_nghiệm/N giải_quyết/V những/L bài_toán/N khó/A hơn/R
+Hiện/N tôi/P vẫn/R căn_cứ/V vào/E các/L góp_ý/N của/E người_dùng/N để/E tiếp_tục/V hoàn_thiện/V các/L tính_năng/N của/E phần_mềm/N anh/N Cảnh/Np cho_hay/V
+Theo/E anh/N Cảnh/Np Math_Solver/Np hướng/V đến/E mục_tiêu/N phổ_thông/A hơn/R so/V với/E các/L phần_mềm/N của/N nước_ngoài/N
+tập_trung/V các/L dạng/N toán/N phổ_quát/V và/N đối_tượng/N chính/A vẫn/R là/V học_sinh/N sinh_viên/N với/E lời_giải/N chi_tiết/N giúp/V họ/N tham_khảo/V
+Phần_mềm/N hiện/N chưa/R có/V chương_trình/N giải/V hình_học/N tính_toán/V ma_trận/N và/CC mình/P vẫn/R đang/R tiếp_tục/V xây_dựng/V
+Chúng_tôi/P đặt/V vấn_đề/N Nếu/N so_sánh/V với/E các/L ứng_dụng/N của/E nước_ngoài/N đâu/N là/V ưu_điểm/N của/E phần_mềm/N này/P
+Anh/Nc Cảnh/Np cho/V biết/V các/L phần_mềm/N của/E nước_ngoài/N khi/N muốn/V sử_dụng/V người_dùng/N phải/V trả/V phí/N
+Ngoài_ra/C mặc_dù/N đã/R tải/N phần_mềm/N về/V nhưng/C muốn/V sử_dụng/V phải/V có/V kết_nối/N Internet/Np
+Trong/E khi/N đó/P Math_Solver/Np cho/V người_dùng/A sử_dụng/V hoàn_toàn/A miễn_phí/V dù/N không/R có/V Internet/N vẫn/R sử_dụng/V được/R nên/V tiện_dụng/V hơn/A cho/V người_dùng/N
+Hơn_nữa/C có/V một_số/L dạng/N toán/N các/L phần_mềm/N nước_ngoài/N chưa/R hỗ_trợ/V như/C tính/N giới_hạn/N hàm_số/A lượng_giác/A và/CC Math_Solver/Np khai_thác/V điều/N này/P
+Hỗ_trợ/V học/V sinh_học/N hoá/N
+Ngoài/E các/L chức_năng/N giải/N toán/N Math_Solver/Np còn/R hỗ_trợ/V học/V sinh_học/N hoá/N
+Tuy_nhiên/C với/E môn/N hoá_học/N phần_mềm/N mới/R chỉ/R giới_hạn/V ở/E các/L công_thức_hoá_học/N cũng/R như/C trắc_nghiệm/V kiến_thức/N hoá/N chưa/R có/V nhiều/A tính_năng/N như/C môn/N toán/N
+Người/N thực_hiện/V nội_dung/N hoá_học/N trong/E Math_Solver/Np là/V chị/N Nguyễn_Thị/Np Ý_Nhi/Np vợ/N anh/N Cảnh/Np
+Chị/Nc Nhi/Np vốn/R là/V học_sinh/N chuyên_hoá/N Trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np TPHCM/Np tốt_nghiệp/V ngành/N hoá/N Trường/N ĐH/N Bách_khoa/N ĐHQG/M TPHCM/Np
+Khi/N chồng/N bắt_tay/V xây_dựng/V phần_mềm/N giải/N toán/N chị/N Nhi/Np cũng/R liên_hệ/V với/E nhiều/A giáo_viên/N hoá/V những/L học_sinh/N giỏi/A hoá/N nhờ/V hỗ_trợ/V ngân_hàng/N đề/N trắc_nghiệm/V hoá/N và/CC các/L kiến_thức/N hoá_học/N để/V đưa/V vào/R phần_mềm/N này/P

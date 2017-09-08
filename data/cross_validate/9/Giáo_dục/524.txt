@@ -1,0 +1,29 @@
+Thí_sinh/N có/V 10/M ngày/N để/E phúc_khảo/V bài/N thi/V THPT/Np quốc_gia/N
+Theo/E quy_chế/N thi/V THPT/Np quốc_gia/N 2017/M mọi/L thí_sinh/N đều/R có/V quyền/N phúc_khảo/V bài/N thi/V
+Thí_sinh/N đăng_ký/V dự/V thi/V ở/E đâu/P thì/C nộp/V đơn/N phúc_khảo/V ở/E đó/P  /EOS
+Từ/E ngày/N 8/M đến/E hết/V 17/7/M các/L điểm/N thu/V hồ_sơ/N đăng_ký/V sẽ/R nhận/V đơn/N phúc_khảo/N của/E thí_sinh/N
+Trong/E 15/M ngày/N kể/V từ/E ngày/N hết/V hạn/N nhận/V đơn/N phúc_khảo/N Hội_đồng/N thi/V phải/V công_bố/V và/CC gửi/V kết_quả/N phúc_khảo/V cho/E thí_sinh/N  /EOS Như_vậy/C chậm/A nhất/R ngày/N 2/8/M thí_sinh/N sẽ/R biết/V được/R kết_quả/N phúc_khảo/A bài_làm/A của/E mình/P
+Phúc_khảo/V bài/N tự/P luận/V Chênh/Np 0,25/M điểm/N trở_lên/A thì/C được/V điều_chỉnh/V điểm/N Việc/N phúc_khảo/V mỗi/L bài/N thi/V tự/P luận/V do/E 2/M cán_bộ/N chấm/N thi/V thực_hiện/V và/CC phải/V chấm/V bằng/E mực/N có/V màu/N khác/A với/E màu/N mực/N được/V dùng/V chấm/N trước/E đó/P trên/E bài_làm/N của/E thí_sinh/N  /M Kết_quả/N chấm/V phúc_khảo/V bài/N thi/V tự/P luận/V do/E Ban/N Thư/Np ký/V Hội_đồng/N thi/V xử_lý/V  /EOS
+Nếu/C kết_quả/N chấm/V của/E hai/M cán_bộ/N chấm/V phúc_khảo/N giống/A nhau/N thì/C lấy/V kết_quả/N đó/P làm/V điểm/N phúc_khảo/V và/CC giao/V bài/N thi/V cho/E hai/M cán_bộ/N chấm/V phúc_khảo/N ký/V xác_nhận/V
+Nếu/C kết_quả/N chấm/V của/E hai/M cán_bộ/N chấm/V phúc_khảo/N có/V sự/Nc chênh_lệch/A thì/C rút/V bài/N thi/V giao/V cho/E Trưởng_ban/N Phúc_khảo/N tổ_chức/V cho/E cán_bộ/N thứ_ba/N chấm/V trực_tiếp/A trên/E bài_làm/N của/E thí_sinh/N bằng/E mực/N màu/N khác/A
+Kết_quả/N chấm/N của/E 2/M trong/E 3/M cán_bộ/N chấm/V phúc_khảo/N giống/A nhau/N thì/C lấy/V điểm/N giống/A nhau/N làm/V điểm/N phúc_khảo/V
+Nếu/C kết_quả/N chấm/V của/E cả/P ba/M cán_bộ/N chấm/V phúc_khảo/N lệch/A nhau/N thì/C Trưởng_ban/N Phúc_khảo/N lấy/V điểm/N trung_bình_cộng/N của/E 3/M lần/N chấm/V làm_tròn/V đến/E hai/M chữ_số/N thập_phân/V làm/V điểm/N phúc_khảo/V rồi/C ký_tên/V xác_nhận/V
+Bài/N thi/V có/V điểm/N phúc_khảo/V lệch/A so/V với/E điểm/N chấm/V đợt/N đầu/N /N đã/R công_bố/V /A từ/E 0,25/M trở_lên/A thì/C được/V điều_chỉnh/V điểm/N
+Trường_hợp/N điểm/N phúc_khảo/V lệch/A so/V với/E điểm/N chấm/V đợt/N đầu_từ/N 0,5/M trở_lên/A thì_phải/V tổ_chức/V đối_thoại/V trực_tiếp/A giữa/E các/L cán_bộ/N chấm/V thi/V đợt/N đầu/N và/CC cán_bộ/N chấm/V phúc_khảo/N /A có/V ghi/V biên_bản/N /M
+Nếu/C thấy/V có/V biểu_hiện/V tiêu_cực/N thì/C xử_lý/V theo/V quy_định/N
+Điểm/N chính_thức/A của/E bài/N thi/V sau/E phúc_khảo/N được/V Trưởng_ban/N Phúc_khảo/N trình/V Chủ_tịch/N Hội_đồng/N thi/V ký/V duyệt/V
+Bài/N thi_trắc_nghiệm/V Điểm/N chấm/V lại/R là/V điểm/N thi/V chính_thức/A Việc/N chấm/V lại/R bài/N thi_trắc_nghiệm/V được/V thí_sinh/N đề_nghị/V phúc_khảo/V sẽ/R tiến_hành/V theo/V các/L bước/N sau/A Khi/N có_mặt/V đầy_đủ/A thành_viên/N của/E tổ/N chấm/N phúc_khảo/A bộ_phận/N giám_sát/V tổ/N chấm/V phúc_khảo/N sẽ/R mở/V niêm_phong/N và/CC rút/V bài/N phúc_khảo/V  /M Bộ_phận/N giám_sát/V và/CC thành_viên/N tổ/N chấm/V phúc_khảo/N đối_chiếu/V từng/R câu/N trả_lời/V đã/R tô/N trên/E phiếu/N trả_lời/V trắc_nghiệm/V với/E kết_quả/N tệp/N đã/R quét/V lưu/V trong/E máy_tính/N
+Nếu/C có/V sai_lệch/N tổ/N chấm/V phúc_khảo/N phải/V in/V phiếu/N chấm/V /N từ/E phần_mềm/N chấm/N thi/V /V trước/N và/CC sau/E khi/N sửa/V để/E lưu/V làm/V hồ_sơ/N
+Cần/V xác_định/V nguyên_nhân/N dẫn/V đến/E sự/N sai_lệch/V
+Bài/N thi/V sau/E khi/N đối_chiếu/V phải/V được/V niêm_phong/V lại/R bộ_phận/N giám_sát/V và/CC thành_viên/N tổ/N chấm/V phúc_khảo/N cùng/A ký/V niêm_phong/N sau/E đó/P được/V lưu_giữ/V theo/V quy_định/N
+Kết_thúc/V việc/N chấm/V phúc_khảo/N tổ/N chấm/V phúc_khảo/N lập/V biên_bản/N tổng_kết/V có/V chữ_ký/N của/E tất_cả/P thành_viên/N và/CC bộ_phận/N giám_sát/V  /M Khi/N
+điểm/N chấm/V lại/R chênh_lệch/A so/V với/E điểm/N chấm/V lần/N trước/A thì/C điểm/N phúc_khảo/V là/V điểm/N mới/A của/E bài/N thi/V
+Khi/N tiến_hành/V các/L công_việc/N liên_quan/V đến/E phúc_khảo/N phải/V có/V ít_nhất/A từ/E hai/M người/N trở_lên/A
+Quan_hệ/N giữa/E số_báo_danh/N với/E số/N phách/N được/V tuyệt_đối/A giữ/V bí_mật/A và/CC không/R được/V ghép/V đầu/N phách/N
+Ngày/N 30/6/M Thứ_trưởng/N Giáo_dục/N và/CC Đào_tạo/N Bùi_Văn_Ga/Np cho_biết/V điểm/N thi/V THPT/Np quốc_gia/N và/CC ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V đại_học/N /M điểm_sàn/N /A có_thể/R được/V công_bố/V sớm/A hơn/R kế_hoạch/N ban_đầu/N
+Theo/E lịch_trình/N ngày/N 7/7/M là/V hạn/N cuối/A các/L Sở/N Giáo/N dục/V công_bố/V điểm/N thi/V
+Tuy_nhiên/C địa_phương/N nào/P chấm/V xong/R sớm/A có_thể/A gửi/V kết_quả/N lên/E Bộ/N để/E đối_sánh/V
+Khi/N đã/R chuẩn/A địa_phương/N  /A công_bố/V trước/A không/R phải/V đợi/V đến/E ngày/N 7/7/M
+Dự_kiến/V hội_đồng/N điểm_sàn/V sẽ/R họp/V vào/E ngày/N 11-12/M //X 7/M và/CC công_bố/V điểm_sàn/A phổ/V điểm/N ngay/T sau/N đó/P
+Từ/E ngày/N 15/7/M thí_sinh/N cả/P nước/N có_thể/R bắt_đầu/V điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V đại_học/N
+Kết_quả/N trúng_tuyển/V đại_học/N cao_đẳng/N sư_phạm/V đợt/N 1/M sẽ/R được/V các/L trường/N công_bố/V trước/E 17h/M ngày/N 1/8/M

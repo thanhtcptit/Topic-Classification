@@ -1,0 +1,11 @@
+Công_an/N Hà_Nội/Np Có_thể/R khởi_tố/V vụ/N đánh/V người/N vì/E nhắc/V đổ/V rác/N đúng/A chỗ/N
+Sáng/N nay/P thiếu_tướng/N Đoàn_Duy_Khương/Np /M Giám_đốc/N Công_an/N Hà_Nội/Np /V cho_hay/N cơ_quan/N điều_tra/V đang/R xác_minh/V và/CC sẽ/R xử_lý/V nghiêm/N vụ/N hành_hung/V nữ/N công_nhân/N môi_trường/N đô_thị/N dù/C là/V hình_sự/N hay/V hành_chính/N
+Theo/E tướng/N Khương/Np nếu/C thương_tật/N của/E nạn_nhân/N Trần_Thị_Thanh/Np đủ/A mức/N để/E truy_cứu/V trách_nhiệm/N hình_sự/N với/E thủ_phạm/N nhà_chức_trách/N sẽ/R khởi_tố/V vụ_án/N
+Trường_hợp/N không/R đủ/A cũng/R phải/V xử_lý/V nghiêm/N về/E mặt/N hành_chính/N người/N đứng/V đầu/N Công_an/N Hà_Nội/Np nói/V và/CC cho_hay/V hiện/N chưa/R có/V kết_quả/N giám_định/V thương_tích/N
+Ông/Nc Khương/Np đánh_giá/V ý_thức/N của/E một_số/L người_dân/N ở/E mặt_phố/N chưa/R cao/A vụ/N hành_hung/V chị/N Thanh/Np là/V ví_dụ/V
+Theo/E nhà_chức_trách/N khoảng/N 19h20/M ngày/N 15/6/M khi/N bị/V chị/Nc Thanh/Np nhắc_nhở/V do/E vứt/V rác/N vương_vãi/V trên/E vỉa_hè/N người/Nc phụ_nữ/N tên/N Diệp/Np /M 32/M tuổi/N /A đã/R to_tiếng/A  /EOS
+Trên/E phố/N Nguyễn_Hữu_Huân/Np /M quận/N Hoàn_Kiếm/Np Hà_Nội/Np /A chị/N Diệp/Np gọi/V người_nhà/N đến/E tìm/V nữ/N công_nhân/N môi_trường/N để/E nói_chuyện/V
+Trong/E lúc/N xô_xát/V chị/Nc Thanh/Np bị/V đánh/V bất_tỉnh/A phải/V nhập_viện/V cấp_cứu/V với/E nghi_vấn/N bị/V thương_tổn/V não/N Hiện/N Diệp/Np đã/R bị/V cảnh_sát/N triệu_tập/V
+Chủ_tịch/N UBND/Np Hà_Nội_Nguyễn_Đức_Chung/Np cho/V rằng/C việc/N đánh/V chị/N Thanh/Np là/V hành_vi/N rất/R đáng/V lên_án/V  /M Lãnh_đạo/N thành_phố/N yêu_cầu/V Bệnh_viện/N Thanh_Nhàn/Np điều_trị/V tốt/A nhất/R cho/E bệnh_nhân/N này/P
+Công_ty/N TNHH_MTV/Np Môi_trường/N đô_thị/N Hà_Nội/Np /V Urenco/Np /V có/V trách_nhiệm/N hỗ_trợ/V chị/Nc Thanh/Np sớm/A vượt/V qua/R khó_khăn/N
+Theo/E  /M Giám_đốc/N Bệnh_viện/N Thanh_Nhàn/Np tình_trạng/N sức_khỏe/N của/E chị/Nc Thanh/Np đã/R ổn_định/A hơn/R

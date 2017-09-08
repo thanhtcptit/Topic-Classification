@@ -1,0 +1,16 @@
+Hãng/N thẻ/N tặng/V nhà_hàng/N 10 0/M USD/Nu nếu/C từ_chối/V tiền_mặt/N
+Kế_hoạch/N mới/A của/E hãng/N thẻ_tín_dụng/N Mỹ/Np có/V tên/N Thử_thách/V không/R tiền_mặt/N của/E Visa/N
+Họ/P sẽ/R thuyết_phục/V các/L nhà_hàng/N quán/N café/N và/CC xe/N thức_ăn/N lưu_động/V ngừng/V nhận/V thanh_toán/V bằng/E tiền_mặt/N
+Việc/N này/P sẽ/R buộc/V khách_hàng/N phải/V dùng/V thẻ_tín_dụng/N hoặc/CC các/L dạng/N thanh_toán/V điện_tử/N
+Visa/N sẽ/R cung_cấp/V tới/E 500 0/M USD/Nu cho/E 50/M chủ/N cửa_hàng/N thực_phẩm/N nhỏ/A cam_kết/V tham_gia/V thử_thách/V 100%/M không/R tiền_mặt/V của/E chúng_tôi/P thông_cáo/N của/E Visa/N cho_biết/V
+Nếu/C chọn/V tham_gia/V cửa_hàng/N sẽ/R nhận/V được/R 10 0/M USD/Nu hỗ_trợ/V từ/E Visa/Np để/E nâng_cấp/V công_nghệ/N
+Có_thể/R là/V lắp_đặt/V nền_tảng/N chấp_nhận/V thanh_toán/V từ/E điện_thoại/N đồng_hồ/N thông_minh/A hay/C các/L thiết_bị/N khác/A
+Các/L hãng/N thẻ_tín_dụng/N tính/V phí/N xử_lý/V thẻ/N và/CC các/L chi_phí/N khác/A với/E những/L công_ty/N chấp_nhận/V thanh_toán/V thẻ/N
+Tuy_nhiên/C khoản/N tiền/N đó/P có_thể/R làm/V giảm/V lợi_nhuận/N của/E các/L công_ty/N nhỏ/A và/CC thậm_chí/R quyết_định/V sự/Nc sống_còn/V của/E các/L cửa_hàng/N lưu_động/V
+Tuy_nhiên/C Visa/Np cho_biết/V họ/P đã/R chứng_minh/V được/R cắt_giảm/V tiền_mặt/N có_thể/R giúp/V các/L công_ty/N nhỏ/A
+Họ/P đã/R thực_hiện/V một/M nghiên_cứu/N với/E các/L nhà_hàng/N trên/E khắp/N Mỹ/Np
+Theo/E đó/P khi/N  /N ngừng/V nhận/V tiền_mặt/N  /V các/L cơ_sở/N này/P đã/R thu/V về/E hàng/N tỷ/M USD/Nu mỗi/M năm/N
+Chỉ/R riêng/A tại/E New_York_City/Np Visa/Np cho_biết/V các/L công_ty/N đã/R có/V thêm/V 6,8/M tỷ/Nu USD/Nu doanh_thu/N và/CC tiết_kiệm/A hơn/A 186/M giờ/Nu lao_động/N mỗi/M năm/N
+Tuy_vậy/C báo_cáo/N này/P vẫn/R chưa/R được/V công_bố/V
+Khi/N được/V hỏi/V liệu/V có/V mở_rộng/V chương_trình/N không/R tiền_mặt/V sang/E các/L mảng/N khác/A ngoài/E nhà_hàng/N Giám_đốc/N giải_pháp/N doanh_nghiệp/N của/E Visa/Np Jack_Forestell/Np chỉ/R cho_biết/V chương_trình/N hiện_tại/N là/V một/M phần/N của/E sáng_kiến/N lớn/A
+Hãng/N đang/R đánh_cược/V mọi/L người/N sẽ/R tự_do/A hơn/R khi_không/A phải/V mang/V theo/E tiền_mặt/N

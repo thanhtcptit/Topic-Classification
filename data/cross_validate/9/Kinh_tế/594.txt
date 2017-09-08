@@ -1,0 +1,11 @@
+Công_ty/N chăn_nuôi/V bò/N của/E Bầu_Đức/Np bác/N tin_đồn/N hủy/V niêm_yết/V
+Công_ty/N Nông_nghiệp/N Quốc_tế/N Hoàng_Anh_Gia_Lai/Np /V Mã/Np CK/Np HNG/Np /M vừa/R có/V thông_tin/N chính_thức/A gửi/V đến/E nhà_đầu_tư/N cho_biết/V  /M tin_đồn/N cổ_phiếu/N HNG/Np của/E công_ty/N sẽ/R hủy/V niêm_yết/V là/C không/R chính_xác/A
+Doanh_nghiệp/N này/P khẳng_định/V  /A không/R có/V chủ_trương/N bãi/N yết/N đồng_thời/R cũng/R không/R  /V vi_phạm/V các/L quy_định/N của/E cơ_quan/N quản_lý/V dẫn/V tới/E bị/V hủy/V niêm_yết/V bắt_buộc/V
+Những/L ngày/N qua/V công_ty/N đã/R nhận/V được/R nhiều/A thắc_mắc/N về/E việc/N có/V thông_tin/N cổ_phiếu/N HNG/Np sẽ/R hủy/V niêm_yết/V
+Việc/N này/P đã/R gây/V hoang_mang/V cho/E không/R ít/A nhà_đầu_tư/N công_ty/N cho_biết/V  /EOS Do_đó/C Nông_nghiệp/N Hoàng_Anh_Gia_Lai/Np khuyến_nghị/V nhà_đầu_tư/N nên/C tiếp_cận/V nguồn/N thông_tin/N chính_thức/A từ/E công_ty/N Ủy_ban/N Chứng_khoán/N Nhà_nước/N để/E có/V tin/N xác_thực/A thay_vì/V mua_bán/V theo/E các/L tin_đồn/N thất_thiệt/V
+Gần/A đây/P cổ_phiếu/N HNG/Np bị/V bán/V mạnh/A giá/N cổ_phiếu/V giảm/V kỷ_lục/N chỉ/R còn/V 5 0/M đồng/Nu một/M đơn_vị/N mức/N thấp/A nhất/A kể/V từ/E khi/N lên/V sàn/N
+Nông_nghiệp/N Hoàng_Anh_Gia_Lai/Np có/V vốn_điều_lệ/N hơn/A 7 0/M tỷ/Nu đồng/Nu khi/N mới/R lên/V sàn/N đã/R lọt/V vào/E câu_lạc_bộ/N tỷ/V đô/N vì/E có/V vốn/N hóa/V gần/A 24 0/M tỷ/Nu
+Công_ty/N này/P niêm_yết/V từ/E giữa/N tháng/N 7/2015/M với/E giá/N 33 0/M đồng/Nu  /M Tuy_nhiên/C ngay/T sau/E đó/P cổ_phiếu/N HNG/Np đã/R lao/V dốc/N mạnh/A cùng_với/C giá/N cao_su/N và/CC cọ_dầu/N  /EOS
+Công_ty/N Nông_nghiệp/N Quốc_tế/N Hoàng_Anh_Gia_Lai/Np được/V thành_lập/V vào/E năm/N 2010/M hoạt_động/V với/E 4/M ngành_nghề/N chính/T gồm/V trồng/V và/CC chế_biến/V các/L sản_phẩm/N từ/E cây/Nc cao_su/N cây/Nc cọ_dầu/N cây/Nc mía/N cùng_với/C chăn_nuôi/V bò/N tại/E Việt_Nam/Np Lào/Np và/CC Campuchia/Np
+Hiện_nay/N đội_ngũ/N nhân_viên/N của/E công_ty/N có/V gần/A 14 0/M người/N
+Tập_đoàn/N Hoàng_Anh_Gia_Lai/Np đang/R sở_hữu/V 80%/M vốn/N và/CC ông/Nc Đoàn_Nguyên_Đức/Np cũng/R giữ/V chức/N Chủ_tịch/N Hội_đồng_quản_trị/N tại/E đây/P

@@ -1,0 +1,7 @@
+​/N Bắt/V tàu/N chở/V 1200/M tấn/N than/N không/N giấy_tờ/N
+Ngày/N 156/M Bộ/N tư_lệnh/N Vùng_Cảnh_sát/N biển/N 1/M phát_hiện/V và/N tạm/N giữ/V một/M tàu/N hàng/N chở/V khoảng/N 1200/M tấn/N than_cám/N nhưng/C không/R có/V hồ_sơ/N giấy_tờ/N chứng_minh/N tính/N hợp_pháp/A của/E toàn_bộ/N số/N than/N trên/N
+Tại/E thời_điểm/N kiểm_tra/N tàu/N có/V 4/M thuyền_viên/N do/E ông/N Trần_Văn_Tuấn/Np 47/M tuổi/N trú/V tại/E phường/N Ninh_Phúc/Np TP/Np
+Ninh_Bình/Np làm/V thuyền_trưởng/N
+Qua/E xác_minh/N cơ_quan_chức_năng/N xác_định/N tàu/N này/P thuộc/V Công_ty/N TNHH/Np Cường_Thịnh/Np trụ/N sở_tại/A xã/N Quang_Thiện/Np huyện/N Kim_Sơn/Np tỉnh/N Ninh_Bình/Np
+Tàu/N đang/R chở/V than/N từ/E Quảng_Ninh/Np đến/V Hưng_Yên/Np
+Hiện_Bộ/Np tư_lệnh/N Vùng_Cảnh_sát/N biển/N 1/M đã/R tạm/V giữ/V tàu/N số/N than/V trên/N để/E tiếp_tục/V điều_tra/V

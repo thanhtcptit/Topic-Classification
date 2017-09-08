@@ -1,0 +1,9 @@
+Trường_Công/Np nghiệp/N thực_phẩm/N TP_HCM/Np giảm/V 700/M chỉ_tiêu/N đại_học/N
+Ngày/N 27/3/M ông/N Phạm_Thái_Sơn/Np /M Phó_giám_đốc/N Trung_tâm/N tuyển_sinh/V Đại_học/N Công_nghiệp/N thực_phẩm/N TP_HCM/Np /M cho_hay/N trường/N đã/R điều_chỉnh/V chỉ_tiêu/N  /V hệ/N chính_quy/A  /A còn/R 2 0/M  /N ở/E 17/M ngành/N đại_học/N giảm/V 700/M chỉ_tiêu/N so/V với/E con_số/N công_bố/V từ/E đầu/N năm/N
+Điều/N này/P được/V cho/V là/V  /N thực_hiện/V chủ_trương/N của/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N về/E việc/N điều_chỉnh/V giảm/V chỉ_tiêu/N đại_học/N
+Trong/E đó/P 90%/M chỉ_tiêu/N xét/V tuyển/V từ/E điểm/N thi/V THPT/Np quốc_gia/N và/CC 10%/M chỉ_tiêu/N xét/V tuyển/V từ/E kết_quả/N 3/M năm/N THPT/Np
+Một_số/L ngành/N có/V số_lượng/N chỉ_tiêu/N lớn/A Công_nghiệp/N thực_phẩm/N 270/M Công_nghệ/N chế_tạo_máy/N 210/M Công_nghệ_sinh_học/N 200/M Công_nghệ/N Kỹ_thuật/N điện/N điện_tử/N 210/M
+Việc/N điều_chỉnh/V chỉ_tiêu/N giảm/V ở/E bậc/N đại_học/N cũng/R nhằm/V chuẩn_bị/V nguồn_lực/N cho/E việc/N đào_tạo/V trình_độ/N thạc_sĩ/N các/L ngành/N Công_nghệ/N thực_phẩm/N Công_nghệ_sinh_học/N Công_nghệ/N kỹ_thuật/N môi_trường/N và/CC Công_nghệ/N cơ_khí/N ông/Nc Sơn/Np nói/V
+Trong/E buổi/N họp_báo/V thường_kỳ/N quý/N 1/M Thứ_trưởng/N Bộ/N Giáo/N dục/V Bùi_Văn_Ga/Np cho_biết/V tổng/N chỉ_tiêu/N đào_tạo/V năm/N nay/N của/E toàn/N hệ_thống/N giáo_dục/V đại_học/N giảm/V
+Cụ_thể/A chỉ_tiêu/N của/E các/L trường/N đại_học/N cao_đẳng/N cả/P nước/N là/V hơn/A 390 0/M giảm/V 30 0/M so/V với/E năm/N trước/E
+Điều/N này/P phù_hợp/V với/E xu_hướng/N giảm/V quy_mô/N đại_học/N mà/C Bộ/N đã/R đề/V ra/R

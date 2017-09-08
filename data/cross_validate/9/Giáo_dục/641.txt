@@ -1,0 +1,11 @@
+Gần/A 2 0/M thí_sinh/N được/V tuyển/V thẳng/A vào/E ĐHQG_TP_HCM/Np
+Trường_Đại/Np học/V Khoa_học/N Tự_nhiên/A vừa/R thông_báo/V tuyển/V thẳng/A 522/M thí_sinh/N được/V chọn/V từ/E các/L trường/N THPT/Np chuyên/A năng_khiếu/N và/CC trường/N phổ_thông/N có/V điểm/N trung_bình/A kết_quả/N thi/V cao/A nhất/R trong/E hai/M năm/N 2015/M 2016/M
+Những/L ngành/N có/V số_lượng/N thí_sinh/V được/R tuyển/V thẳng/A cao/A nhất_là/X Khoa_học/N máy_tính/N và/CC Công_nghệ_thông_tin/N Hóa_học/N Công_nghệ_sinh_học/N Toán_học/N Sinh_học/N
+Một_số/L trường/N có/V học_sinh/N trúng_tuyển/V theo/E diện/N này/P cao/A nhất/R gồm/V THPT/Np chuyên/A Lê_Hồng_Phong/Np TP_HCM/Np /M 54/M em/N /A Phổ_thông/N Năng_khiếu/Np ĐHQG_TPHCM/Np /M 47/M em/N /A THPT/Np Gia_Định/Np TP_HCM/Np /M 34/M em/N /V
+Trước/E đó/P trường/N Đại_học/N Bách_khoa/N cũng/R công_bố/V kết_quả/N xét/V tuyển/V diện/N ưu_tiên/V theo/E quy_chế/N tuyển_sinh/V của/E Bộ/N Giáo/Np dục/V /M 119/M thí_sinh/N /V và/CC theo/V quy_định/N riêng/A của/E ĐHQG_TP_HCM/Np /V 693/M thí_sinh/N /V
+Các/L ngành/N và/CC nhóm/N ngành/N kỹ_thuật/N có/V lượng/N trúng_tuyển/V cao/A gồm/V Điện/Np Điện_tử/N Điện_tử/N Truyền_thông/N Điều_khiển/V và/CC tự_động_hóa/V Hóa_học/N Cơ/N điện_tử/N Nhiệt/Np
+Theo/E danh_sách/N tuyển/V thẳng/A của/E Đại_học/N Bách_khoa/N trường/N THPT/Np Gia_Định/Np /V TP_HCM/Np /V có/V nhiều/A học_sinh/N nhất/A với/E 73/M em/N THPT/Np chuyên/A Lê_Hồng_Phong/Np 49/M Phổ_thông/N Năng_khiếu/N 37/M
+Trường_Đại/Np học/V Khoa_học_xã_hội/N và/CC Nhân_văn/N ưu_tiên/V xét/V tuyển/V 360/M thí_sinh/N diện/N học_sinh/N giỏi/A quốc_gia/N học_sinh/N đoạt/V giải/N khoa_học_kỹ_thuật/X quốc_gia/N và/CC học_sinh/N khuyết_tật/N
+Báo_chí/N Đông/N phương/N học/V ngôn_ngữ/N Anh/N là/V những/L ngành/N có/V số_lượng/N thí_sinh/V được/R tuyển/V thẳng/A nhiều/A nhất/R
+Tương_tự/A trường/N Đại_học/N Công_nghệ/N Thông_tin/N  /M vừa/R công_bố/V danh_sách/N trúng_tuyển/V bổ_sung/V diện/N ưu_tiên/A xét/V tuyển/V học_sinh/N giỏi/A theo/E quy_định/N của/E ĐHQG_TP_HCM/Np với/E 170/M thí_sinh/N và/CC theo/V quy_chế/N của/E Bộ/N với/E 24/M thí_sinh/N
+Thí_sinh/N có_thể/A xem/V danh_sách/N trúng_tuyển/V thủ_tục/N và/CC thời_hạn/N xác_nhận/V nhập_học/V trên/E cổng/N thông_tin/N tuyển_sinh/V của/E các/L trường/N này/P

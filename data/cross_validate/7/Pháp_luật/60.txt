@@ -1,0 +1,22 @@
+Hacker/N 19/M tuổi/N lừa/N chiếm_đoạt/N 1410/M thẻ/N cào/V điện_thoại/N
+Nguyễn_Trường_Xuân/Np đã/R lập/V 6/M website/N giả_mạo/N hệ/N thống/V game/N garena/N lừa/V nhắn_tin/N khuyến_mãi/V nạp/N thẻ/N cào/V cho/E người/N chơi/V để/E chiếm_đoạt/V tiền/N thẻ/N và/CC tài_khoản/N game/N của/E nhiều/A người/N
+Sáng/N 276/M cơ_quan/N cảnh_sát/N điều_tra/V Công_an/N TP/Np Đà_Nẵng/Np đã/R tống_đạt/V quyết_định/N khởi_tố/V bị_can/N và/CC bắt/V tạm/A giam/V 3/M tháng/N với/E Nguyễn_Trường_Xuân/Np 19/M tuổi/N sinh_viên/N một/M trường/N cao_đẳng/N ở/V Đà_Nẵng/Np về/V tội/N sử_dụng/V mạng/N máy_tính/N mạng/N viễn_thông/V mạng/N internet/V hoặc/N thiết_bị/N số/N thực_hiện/V hành_vi/N chiếm_đoạt/V tài_sản/N
+Theo/E đội/N cảnh_sát/N phòng_chống/V tội_phạm/N công_nghệ_cao/N thuộc/V Phòng/N cảnh_sát/N kinh_tế/N PC46/Np Công_an/N Đà_Nẵng/Np qua/V công_tác/N nghiệp_vụ/N cơ_quan/N công_an/N phát_hiện/V Xuân/Np lập/V và/CC quản_trị/V các/L website/N có/V giao_diện/N giống/N với/E website/N ganera/N
+vn/N của/E công_ty/N CP/Np giải_trí/V và/CC thể_thao/N điện_tử/N Việt_Nam/Np
+Sau/E đó/P Xuân/Np gửi/V tin_nhắn/N thông_báo/V cho/E các/L thuê_bao/N điện_thoại/N với/E nội_dung/N dụ/N nạp/N tiền/N qua/V các/L website/N này/P sẽ/R nhận/V được/R khuyến_mãi/V gấp/V 10/M lần/N giá_trị/N thẻ/N nạp/N và/CC nhận/V được/R các/L gói/N quà/N trong/E game/N online/N của/E hệ_thống/N garena/N
+Khi/N người/N chơi/V nạp/N tiền/N thẻ/V qua/E các/L website/N này/P sẽ/R bị/V chiếm_đoạt/V thẻ/N cào/V và/CC các/L tài_khoản/N game/N của/N garena/N
+Tại/E cơ_quan/N công_an/N Xuân/Np khai/V nhận/V từ/N tháng/N 122015/M đến/N tháng/N 12017/M Xuân/Np mua/V tên_miền/N thiết_lập/N và/CC sử_dụng/V 6/M website/N giả_mạo/N hệ_thống/N của/E game/N garena/N để/E lừa_đảo/V chiếm_đoạt/N thẻ/N cào/V điện_thoại/N của/E người_dùng/N
+Tất_cả/N 6/M website/N đều/R do/E Xuân/Np tạo/V email/N đăng_kí/N mở/V các/L tài_khoản/N trong/E trang/N website/N qui_đổi/N thẻ/N cào/V vippay/N
+vn/N tích_hợp/V vào/E các/L website/N lừa_đảo/N để/E nhận/V được/R số/N thẻ/N cào/V điện_thoại/N do/E các/L bị/N hại/V nộp/V vào/R
+Khi/N người/N chơi/V game/N nạp/N mã_số/N mã/N sere/V thẻ/N cào/V điện_thoại/N tại/E các/L website/N giả_mạo/N thì/C sẽ/R tự_động/A chuyển/V vào/E tài_khoản/N vippay/N với/E mức/N quy_đổi/N từ/E 1820/M giá_trị/N thẻ/N nạp/N
+Xuân/N cũng/R lập/V 5/M tài_khoản/N vippay/N để/E quy_đổi/V thẻ/N cào/V
+Xuân/N khai/V trong/E quá_trình/N phạm_tội/V đã/R lừa_đảo/V chiếm_đoạt/V được/R 1410/M thẻ/N cào/V điện_thoại/N và/CC hơn/A 66000/M tài_khoản/N game/N garena/N
+Số/N tiền/N thiệt_hại/N đến/E nay/N cơ_quan/N công_an/N xác_định/V được/R là/V hơn/A 140/M triệu/M đồng/Nu
+Theo/E PC46/N Xuân/Np sử_dụng/V phương_thức/N thủ_đoạn/N mới/A so/V với/E hình_thức/N lừa_đảo/N trúng/V thưởng/V trước/N đây/P
+Đó/P là/V chủ_yếu/N đánh/V vào/R tâm_lí/N của/E các/L game/N thủ/V tham_gia/V các/L game/N online/V trong/E hệ_thống/N game/N garena/V bằng/E cách/N gửi/V tin_nhắn/N như/C Thông_báo/N tài_khoản/N của/E bạn/N là/V 1/M trong/E 100/M tài_khoản/N may_mắn/A trúng/V thưởng/N xem/V chi_tiết/N tại/E web/N riotgamesgarena/N
+com/N
+Khi/N đăng_nhập/V vào/E website/N này/P sẽ/R có/V thông_báo/V khuyến_mãi/N khi/N nạp/V thẻ/N điện_thoại/N để/E nhận/V các/L phần/N quà/N trong/E game/N online/N và/CC tài_khoản/N điện_thoại/N sẽ/R nhận/V trúng/V thưởng/N sẽ/R nhận/V được/R gấp/V 10/M lần/N giá_trị/N thẻ/N cào/V
+Khi/N người/N chơi/V đăng_nhập/N thì/C sẽ/R bị/V hack/V chiếm/V quyền/N quản_trị/V tài_khoản/N
+Sau/E khi/N chiếm/V tài_khoản/N đối_tượng/N sử_dụng/V tài_khoản/N này/P để/E gửi/V tin_nhắn/N spam/V đến/R tài_khoản/N khác/A
+Nếu/C người/N chơi/V cứ/R nạp/V thẻ/N cào/V điện_thoại/N tại/E trang_web/N này/P để/E được/V hưởng/V khuyến_mãi/N thì/C web/N sẽ/R tự_động/A nạp/V vào/E tài_khoản/N điện_tử/N của/N đối_tượng/N
+Trước/E đó/P Tuổi_Trẻ/Np cũng/R đã/R có/V nhiều/A tin/N bài/N phản_ánh/V về/V tình_trạng/N hàng_loạt/N thanh_thiếu_niên/N ở/V thị_trấn/N hacker/N Nam_Phước/Np Duy_Xuyên/Np Quảng_Nam/Np bị/V bắt/V vì/E lập/V các/L trang_web/N lừa/V chiếm/V tiền/N

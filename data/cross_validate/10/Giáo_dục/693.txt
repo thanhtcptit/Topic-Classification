@@ -1,0 +1,5 @@
+Điểm_chuẩn/V vào/E Trung_học/N Thực_hành/V ĐH/Np Sư_phạm/N TP_HCM/Np
+Điểm_chuẩn/N năm_học/N 2017-2018/M vào/E lớp/N chuyên/A Toán/Np là/V 27,5/M Văn/Np 25,3/M và/CC chuyên/A tiếng/N Anh/N 28,5/M
+Học_sinh/N trúng_tuyển/V nộp/V hồ_sơ/N nhập_học/V ngày/N 16/6/M và/CC tựu_trường/N 21/8/M
+Với/E hơn/R 1 0/M thí_sinh/N dự/V thi/V giành/V 105/M chỉ_tiêu/N tỷ_lệ/N chọi/V vào/E các/L lớp/N chuyên/A của/E Trung_học/N Thực_hành/V năm/N nay/P khá/R cao/A 1/M chọi/V 12/M
+Năm_ngoái/N điểm_chuẩn/N cao/A nhất/A vào/E trường/N thuộc/V về/E môn/N Toán/Np với/E 30,5/M điểm/N Văn/Np 26/M và/CC tiếng/N Anh/N 29/M

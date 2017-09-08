@@ -1,0 +1,10 @@
+​/N Tuyển_sinh/N vào/E lớp/N 6/M Trường_Trần_Đại_Nghĩa/Np 1/M chọi/N 7/M
+Nếu/C so_sánh/V với/E những/L năm/N từ/E 2014/M trở/N về/V trước/A thì/C tỉ_lệ/N chọi/V như/N trên/N thuộc/V dạng/N dễ_thở/N
+Nguyên_nhân/N do/C 3/M năm/N gần/A đây/P Trường_Trần_Đại_Nghĩa/Np tăng/V chỉ_tiêu/N tuyển_sinh/V vào/E lớp/N 6/M mỗi/M năm/N tuyển/N 525/M hoặc/N 600/M học_sinh/N
+Trong/E khi/N đó/P từ/E năm/N 2014/M trở/V về/R trước/A trường/N chỉ/R tuyển/V từ/E 360/M đến/E 400/M học_sinh/N tỉ_lệ/N chọi/N luôn/N ở/V mức/N 1/M 10/M
+111/M
+Năm/N nay/P các/L thí_sinh/N sẽ/R làm/V bài/N khảo_sát/V năng_lực/N bằng/E tiếng/N Anh/Np trong/E thời_gian/N 90/M phút/N vào/V ngày/N 3062017/M
+Thí_sinh/N có_mặt/V lúc/N 7h/M
+phát/N đề/N lúc/N 7h55/M
+thí_sinh/N bắt_đầu/V làm/V bài/N lúc/N 8h/M
+HOÀNG/M HƯƠNG/N

@@ -1,0 +1,20 @@
+​/N Tin_nhắn/N di_động/V SMS/Np dần/R bị/V RCS/Np thay_thế/V
+Khởi_động/N từ/E năm/N 2008/M như/C một/M dự_án/N của/E Hiệp_hội/N Di_động/N Toàn_cầu/N chuẩn/A tin_nhắn/N RCS/Np được/V ca_ngợi/V sẽ/R trở_thành/V chuẩn/N tin_nhắn/N thế_hệ/N tiếp_theo/V của/E tin_nhắn/N truyền_thống/N SMS/Np
+Về/V cơ_bản/N RCS/Np là/V một/M tiêu_chuẩn/N mới/A cho/V tin_nhắn/V cho/E các/L nhà/N mạng/N
+27/M đối_tác/N và/CC 1/M tỉ/N thuê_bao/N
+Tin_nhắn/N RCS/Np không_chỉ/N gửi/V được/R văn_bản/N text/V như/C SMS/Np mà_còn/N tích_hợp/V các/L tính_năng/N khác/A tương_tự/A các/L dịch_vụ/N nhắn_tin/V hiện_đại/A như/C WhatsApp/N hay/N Viber/Np bao_gồm/V nhắn_tin/V theo/V nhóm/N gọi/V điện/N qua/V Internet/Np chia_sẻ/V file/V chia_sẻ/V hình_ảnh/N độ_phân_giải/N cao/A đọc/V hoá_đơn/N
+Trong/E các/L tháng/N qua/V Google/Np đã/R đạt/V được/R thoả_thuận/N cung_cấp/V chuẩn/N tin_nhắn/N RCS/Np với/E nhà/N mạng/N Sprint/Np ở/V Mỹ/Np Rogers/Np ở/V Canada/Np và/CC Telenor/Np ở/V một_số/L khu_vực/N thuộc/V châu/N Âu/Np và/CC châu/N Á/Np
+Các/L nhà/Nc mạng/N này/P đại_diện/N cho/V hơn/A 1/M tỉ/N thuê_bao/N di_động/V trên/N toàn_cầu/N
+Tuy_nhiên/C để/N có_thể/V được/R sử_dụng/V rộng_rãi/N Google/Np cũng/R cần/V phải/V thuyết_phục/V các/L nhà/N sản_xuất/V thiết_bị/N di_động/V trong/E việc/N cài_đặt/V ứng_dụng/N chuẩn/N tin_nhắn/N này/P trong/E phần/N cài_đặt/N mặc_định/N của/N họ/N
+Tới/E nay/P Google/Np cũng/R đã/R đạt/V được/R thoả_thuận/V về/R vấn_đề/N này/P với/E các/L nhà/Nc sản_xuất/N điện_thoại_thông_minh/X như/C Vodafone/Np Orange/Np Deutsche_Telekom/Np và/CC Globe/Np LG/Np Motorola/Np Sony/Np HTC/Np ZTE/Np Micromax/Np Nokia/Np Archos/Np BQ/Np Cherry_Mobile/Np Condor/Np Fly/Np General_Mobile/Np Lanix/Np LeEco/V Lava/Np Kyocera/Np MyPhone/V QMobile/N Symphony/Np and/N Wiko/Np cùng/A có_mặt/V trong/E các/L thiết_bị/N Pixel/Np và/CC Android_One/Np của/E chính/T Google/Np
+Theo/E đó/P với/E các/L điện_thoại/N mới/A sản_xuất/V ứng_dụng/N nhắn_tin/N Android_Messages/Np đã/R tích_hợp/V chuẩn/N tin_nhắn/N RCS/Np sẽ/R được/V cài_đặt/V sẵn/A để/E thay_thế/V ứng_dụng/N nhắn_tin/V hiện_tại/N là/V Messages/Np
+Còn/C với/E các/L điện_thoại/N đã/R có/V trên/A thị_trường/N người_dùng/N cần/V tải/N về/V ứng_dụng/N cập_nhật/V Android_Messages/Np
+Google/Np sẽ/R tiếp_tục/V làm_việc/V thêm/V với/E nhiều/A đối_tác/N là/V các/L nhà/Nc mạng/N và/CC các/L nhà/N sản_xuất/V điện_thoại_di_động/N khác/A trên/E toàn/N thế_giới/N để/E phủ_sóng/V tối_đa/N chuẩn/N tin_nhắn/N RCS/Np
+Nhìn/V từ/E góc_độ/N kĩ_thuật/N chuẩn/A tin_nhắn/N RCS/Np không/R hề/V giới/N hạn_dùng/V với/E các/L thiết_bị/N Android/Np
+Nhưng/C vì/C Apple/Np không/R tham_gia/V nên/N trước_mắt/N có_thể/R thấy/V trong/E một/M thời_gian/N tới/V chuẩn/N tin_nhắn/N này/P vẫn/R chỉ/R là/V công_nghệ/N liên_quan/V tới/E các/L thiết_bị/N Android/Np
+Nhiều/A ứng_dụng/N tiềm_năng/N
+Theo/E Techjuice/N trước_nay/N các/L doanh_nghiệp/N hầu_hết/N vẫn/R chỉ/V dùng/V tin_nhắn/N thô/N toàn/N chữ/N để/E liên_lạc/V thông_tin/N với/E khách/N hàng/N
+Tuy_nhiên/C việc/N nâng_cấp/V lên/R chuẩn/N tin_nhắn/N RCS/Np sẽ/R giúp/V họ/P có/V phương_tiện/N để/E tương_tác/V hiệu_quả/N hơn/A
+Chẳng_hạn/N một/M tin_nhắn/N xác_nhận/V đặt/V chỗ/N trước/A của/E hãng/N bay/N gửi/V tới/R khách/N hàng/N với/N chuẩn/N RCS/Np có_thể/R sẽ/R cung_cấp/V thêm/V cả/R phần/N check/N in/V thẻ/N lên/V máy_bay/N thông_tin/N cập_nhật/V về/E chuyến/N bay/V và/N sơ_đồ/N ga/N tới/V
+Chính/T vì/C những/L tiện_ích/N tiềm_năng/N đó/P Google/Np đã/R tạo/V thêm/V một/M Chương_trình/N tiếp_cận/V sớm/N giúp/V các/L doanh_nghiệp/N có_thể/R học/V và/N ứng_dụng/N công_nghệ/N này/P trở_thành/V những/L nơi/N đầu_tiên/A cung_cấp/V trải_nghiệm/N tin_nhắn/N nâng/V cao/A theo/V chuẩn/N RCS/Np tới/V khách/N hàng/N của/N họ/N
+Các/L doanh_nghiệp/N như/C Uber/Np Subway/Np VirginTrains/V và/CC nhiều/A doanh_nghiệp/N khác/A đang/R tham_gia/V chương_trình/N này/N của/N Google/Np

@@ -1,0 +1,17 @@
+Trả/V lại/R tiền/N mua/V thuốc/N điều_trị/V cho/E người_dân/N Kon_Tum/Np phơi/V nhiễm/V HIV/Np
+Theo/E  /N tiến_sĩ/N Hoàng_Đình_Cảnh/Np Phó_Cục/Np trưởng/N Phòng_chống/V HIV/AIDS/Np Bộ/N Y_tế/N theo/V quy_định/N thuốc/N ARV/Np chỉ/R được/V cấp/V miễn_phí/V cho/E những/L người/N bị/V phơi/V nhiễm/V do/E nghề_nghiệp/N khi/N đang/R làm/V nhiệm_vụ/N như/C cán_bộ/N y_tế/N lực_lượng_vũ_trang/N tổ/N công_tác/N cai_nghiện/V
+Tuy_nhiên/C 10/M người_dân/N phơi/V nhiễm/V HIV/Np khi/N tham_gia/V cấp_cứu/V nạn_nhân/N HIV/Np bị/V tai_nạn/N giao_thông/N hôm/N 30/6/M là/V trường_hợp/N đặc_biệt/A
+Vì_thế/C Cục/N đã/R chỉ_đạo/V Sở/N Y_tế/N Kon_Tum/Np cấp/V miễn_phí/V thuốc/N ARV/Np để/E điều_trị/V dự_phòng/V cho/E cả/P cán_bộ/N y_tế/N lẫn/V người_dân/N
+Bộ/N Y_tế/N chỉ_đạo/V Trung_tâm/N Phòng_chống/V HIV/AIDS/Np Kon_Tum/Np trả/V lại/R tiền/N cho/E 2/M người_dân/N đã/R mua/V thuốc/N ARV/Np
+Những/L người/N này/P trước/E đó/P bị/V bác_sĩ/N trung_tâm/N từ_chối/V cấp/V thuốc/N miễn_phí/V và/CC phải/V bỏ/V tiền/N triệu/N để/E mua/V
+ /M Tiến_sĩ/N Cảnh/Np cũng/R cho/V rằng/C việc/N Trung_tâm/N Phòng_chống/V HIV/AIDS/Np tỉnh/N Kon_Tum/Np bán/V thuốc/N ARV/Np cho/E người_dân/N là/V vi_phạm/V quy_định/N
+Lý_do/N là/V trung_tâm/N không/R có/V chức_năng/N bán/V thuốc/N mà/C chỉ/R được/V phép/N tư_vấn/V và/CC giới_thiệu/V người_dân/N mua/V thuốc/N ARV/Np tại/E những/L hiệu/N thuốc/N có/V bán/V loại/N thuốc/N này/P
+Đây/P là/V vấn_đề/N cần/V rút/V kinh_nghiệm/N trong/E toàn/N ngành/N tiến_sĩ/N Cảnh/Np nói/V
+Bộ/N Y_tế/N cũng/R kiến_nghị/V chi_trả/V bảo_hiểm_y_tế/X đối_với/E việc/N điều_trị/V cho/E người/N nhiễm/V HIV/AIDS/Np cũng_như/C điều_trị/V dự_phòng/V phơi/V nhiễm/V hoặc/CC nghi/V phơi/V nhiễm/V HIV/Np bằng/E thuốc/N ARV/Np
+Việc/N chi_trả/V bảo_hiểm/N này/P giúp/V đảm_bảo/V dự_phòng/V và/CC điều_trị/V kịp_thời/A đạt/V hiệu_quả/N cao/A
+Trưa/N 30/6/M ôtô/N 16/M chỗ/N chở/V khách/N chạy/V trên/E đường/N Hồ_Chí_Minh/Np hướng/V Kon_Tum/Np đi/V Đà_Nẵng/Np đến/E xã/N Đăk_Hring/Np huyện/N Đăk_Hà/Np /V Kon_Tum/Np /V va_chạm/V với/E ôtô/N 16/M chỗ/N chạy/V hướng/N ngược_lại/C
+Cú/N tông/V trực_diện/N khiến/V 2/M xe/N biến_dạng/V rách/A toạc/V kính/N vỡ/V văng/V tung_tóe/A một/M người/N tử_vong/V tại_chỗ/A 3/M người/N tử_vong/V ở/E bệnh_viện/N hơn/A 10/M người/N bị_thương/V
+Các/L nạn_nhân/N được/V chuyển/V vào/E Trung_tâm/N Y_tế/N huyện/N Đăk_Hà/Np sơ_cứu/V người/N còn/R sống/V được/R chuyển/V đến/E bệnh_viện/N tỉnh/N
+Đến/E khi/N công_an/N lập/V biên_bản/N kiểm_thảo/V tử_vong/N mới/R phát_hiện/V một/M nạn_nhân/N tử_vong/N đã/R nhiễm/V HIV/Np đang/R điều_trị/V ARV/Np ngoại_trú/V tại/E bệnh_viện/N tỉnh/N  /EOS
+Đến/E chiều/N 3/7/M có/V 34/M người/N tham_gia/V cấp_cứu/V và/CC có/V dính/V máu/N nạn_nhân/N HIV/Np đã/R được/V uống/V thuốc/N phơi/V nhiễm/V HIV/Np trong/E đó/P 24/M người/N thuộc/V Trung_tâm/N y_tế/N huyện/N Đăk_Hà/Np và/CC 10/M người_dân/N
+Tất_cả/P đã/R được/V cấp/V thuốc/N ARV/Np miễn_phí/V điều_trị/V dự_phòng/V

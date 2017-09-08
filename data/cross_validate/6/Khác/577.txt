@@ -1,0 +1,22 @@
+Lợi_bất_cập_hại/X với/E M sáng_kiến/N V lắp/V một/M điều_hòa/N cho/E hai/M phòng/N
+Gần/A đây/P nhiều/A người/N rỉ_tai/V nhau/N thông_tin/V lắp/V một/M điều_hòa/N cỡ/N lớn/A cho/E 2/M phòng/N nhỏ/A vừa/R đỡ/V phải/V mua/V nhiều/A điều_hòa/N vừa/R làm/V mát/A hiệu_quả/N và/CC đỡ/V tốn/V điện/N
+Tuy_vậy/C cách/N này/P không/R phải/V lúc_nào/N cũng/R hiệu_quả/A  /EOS
+Công_thức/N tính/V điện_năng/N tiêu_thụ/V của/E điều_hòa/N là/V A/N =/V P/Np x/V t/N trong/E đó/P A/N là/V số/N điện/N tiêu_thụ/V P/Np là/V công_suất/N của/E máy/N và/CC t/N là/V thời_gian/N bật/V máy/N
+Cụ_thể/A tùy/V loại/Nc điều_hòa/N máy/N 9 0/M BTU/Np bật/V ở/E 16/M độ/N C/N trong/E vòng/N 10/M giờ/Nu sẽ/R tốn/V khoảng/N 7,5/M đến/E 12,5/M số/N điện/N
+Nếu/C bạn/N dùng/V hai/M máy/N này/P sẽ/R tốn/V 15-25/M số/N điện/N
+Trong/E khi/N đó/P công_suất/N của/E máy/N 12 0/M BTU/Np thường/R vào_khoảng/X 9,5/M 16/M kwh/Nu nếu/C bật/V trong/E vòng/N 10/M giờ/Nu bạn/N chỉ/R tốn/V 9,5/M đến/E 16/M số/N điện/N
+Bạn/N có_thể/A kiểm_tra/V công_suất/N của/E máy/N trong/E tờ_rơi/N hoặc/CC bảng/N thông_số/N kỹ_thuật/N của/E sản_phẩm/N
+Khi/N so_sánh/V sản_phẩm/N của/E cùng/A một/M thương_hiệu/N và/CC mẫu_mã/N ta/P thấy/V máy/N 12 0/M BTU/Np thường/R có/V công_suất/N cao/A hơn/A máy/N 9 0/M BTU/Nu khoảng/N 20-25/M %/Nu
+Như_vậy/C nếu/C lắp/V một/M máy/N 12 0/M BTU/Np cho/E đồng_thời/R 2/M phòng/N 16m2/M chúng_ta/P sẽ/R tiết_kiệm/V hơn/R là/C lắp/V mỗi/L máy/N 9 0/M BTU/Np với/E điều_kiện/N hai/M phòng/N có/V nhu_cầu/N làm/V mát/A như/C nhau/N  /EOS
+Tuy_nhiên/C thực_tế/N là/V hiếm/A khi/N chúng_ta/P sử_dụng/V điều_hòa/N cả/P hai/M phòng/N như/A nhau/N
+Trong/E một/M thời_điểm/N có_thể/R phòng/N này/P có/V người/N nhưng/C phòng/N kia/P lại/R không/R phòng/N này/P cần/V lạnh/A hơn/R nhưng/C phòng/N kia/P lại/R không/R cần/V lạnh/A
+Ngoài_ra/C dù/C bật/V điều_hòa/N nhưng/C trong/E cùng/A một/M phòng/N độ/N lạnh/A ở/E các/L vị_trí/N cũng/R không/R đều/R nhau/N
+Vị_trí/N nào/P nằm/V trực_tiếp/A trên/E đường/N tỏa/V gió/N sẽ/R lạnh/A hơn/R  /M Bạn/N có_thể/R thấy/V trong/E một_số/L văn_phòng/N nhân_viên/N gần/A luồng/N gió/N của/E điều_hòa/N phải/V mặc/V thêm/R áo_khoác/N trong/E khi/N người/N ngồi/V xa/A vẫn/R thấy/V nóng/A
+Để/E không/R nhân_viên/N nào/P thấy/V nóng/A người_ta/P buộc/V phải/V hạ/V thấp/A nhiệt_độ/N điều_hòa/N trong/E khi/N nếu/C lắp/V nhiều/A máy/N nhỏ/A xung_quanh/N ta/P có_thể/R tăng/V nhiệt_độ/N điều_hòa/N lên/V mà/C mọi/L người/N vẫn/R mát/A
+Bạn/N nên/V nhớ/V trong/E trường_hợp/N nhiệt_độ/N phòng_không/V bật/V điều_hòa/N là/V 34/M độ/N C/N thì/C khi/N bật/V điều_hòa/N  /N tăng/V nhiệt_độ/N lên/R 25/M độ/N C/N bạn/N có_thể/R tiết_kiệm/V được/R 50%/M điện_năng/N tiêu_thụ/V bất_kể/R máy/N đó/P có/V công_suất/N bao_nhiêu/P /N nếu/C nhiệt_độ/N phòng/N khi_không/V bật/V điều_hòa/N cao/A hơn/R thì/C bạn/N tiết_kiệm/V được/R ít/A điện/N hơn/A /M
+Cũng/R vì/E nhu_cầu/N sử_dụng/V khác_nhau/A nên/C trong/E các/L phòng/N họp/V nhà_hàng/N có/V không_gian/N rộng/A người_ta/P vẫn/R lắp/V nhiều/A máy/N nhỏ/A ở/E xung_quanh/N chứ/C không/R lắp/V một/M máy/N lớn/A
+Thực_tế/N một_số/L người/N cũng/R lắp/V một/M điều_hòa/N cho/E hai/M phòng/N nhưng/C lý_do/N chính/T không/R phải/V để/E tiết_kiệm/V mà/C vì/E kết_cấu/V nhà/N có/V vấn_đề/N ví_dụ/V sống/V ở/E chung_cư/N cũ/A tường/N khó/A khoan/V để/E lắp/V điều_hòa/N nên/C họ/P đành/V chọn/V giải_pháp/N lắp/V một/M điều_hòa/N công_suất/N lớn/A
+Họ/P không/R đục/A tường/N giữa/E hai/M phòng/N để/E đặt/V điều_hòa/N mà/C thường/R lắp/V điều_hòa/N trong/E một/M phòng/N rồi/C mở_cửa/V thông/V nhau/N tỏa/V hơi/N lạnh/A sang/V phòng/N bên_cạnh/N
+Đương_nhiên/A phòng/N hưởng/V ké/V hơi/R lạnh/A chỉ/R đỡ/V nóng/A phần_nào/L
+Trong/E trường_hợp/N chỉ/R sử_dụng/V phòng/N có/V lắp/V máy_điều_hòa/N thì/C đóng/V kín/A cửa/N phòng/N đó/P và/CC tăng/V nhiệt_độ/N lên/R 28-29/M độ/N
+Nhờ/V thế/P họ/P cũng/R tiết_kiệm/V được/R điện/N tương_đương/A với/E lắp/V điều_hòa/N công_suất/N nhỏ/A mà/C bật/V ở/E nhiệt_độ/N thấp/A

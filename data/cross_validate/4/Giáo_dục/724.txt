@@ -1,0 +1,14 @@
+Hà_Nội/Np hạ/V điểm_chuẩn/V vào/E lớp/N 10/M trường/N chuyên/A
+Chiều/N 29/6/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N Hà_Nội/Np công_bố/V hạ/V điểm_chuẩn/N vào/E lớp/N 10/M của/E ba/M trường/N thuộc/V Sở/N gồm/V  /M THPT/Np chuyên/A Hà_Nội/Np Amsterdam/Np  /V THPT/Np chuyên/A  /V Nguyễn_Huệ/Np lớp/N chuyên/A của/E THPT/Np Chu_Văn_An/Np
+Điểm/N đầu_vào/V nhiều/A lớp/N hạ/V xuống/V 0,5/M 3/M điểm/N so/V với/E điểm_chuẩn/N công_bố/V ngày/N 25/6/M
+Cụ_thể/A trường/N THPT/Np chuyên/A Hà_Nội/Np Amsterdam/Np hạ/V điểm_chuẩn/A của/E một/M lớp/N Tin_học/N từ/E 36,5/M xuống/E 36/M điểm/N  /M THPT/Np
+chuyên/A Nguyễn_Huệ/Np có/V 10/11/M lớp/N chuyên/A hạ/V chuẩn/N
+Trong/E đó/P lớp/N chuyên/A Pháp/Np Nga/Np hạ/V sâu/A nhất_là/X 3/M điểm/N lớp/N chuyên/A Anh/N Địa/N giảm/V 2,5/M điểm/N  /M Các/L
+lớp/N khác/A hạ/V từ/E 0,5/M đến/E 2/M điểm/N
+Trường/N THPT/Np Chu_Văn_An/Np có/V 6/M trên/E tổng_số/N 10/M lớp/N chuyên/A hạ/V 1-2/M điểm_chuẩn/N so/V với/E mức/N công_bố/V trước/E đó/P  /EOS
+Năm_học/N 2017-2018/M Hà_Nội/Np có/V hơn/A 76 0/M thí_sinh/N thi/V vào/E lớp/N 10/M THPT/Np trong/E đó/P khoảng/A 7 0/M em/N thi/V vào/E trường/N lớp/N chuyên/A
+Ngoài_ra/C trường/N chuyên/A của/E Đại_học/N Sư_phạm/N Đại_học/N Quốc_gia/Np Hà_Nội/Np cũng/R thu_hút/V hàng/R nghìn/M học_sinh/N đăng_ký/V dự/V thi/V
+Tỷ_lệ/N chọi/V vào/E các/L trường/N này/P còn/R cao/A hơn/R cả/T đại_học/N top/V đầu/N
+Học_sinh/N muốn/V vào/V các/L trường/N chuyên/A /V hoặc/CC lớp/N chuyên/A /V phải/V thi/V 2/M đợt/N đợt/N 1/M cùng/A thí_sinh/V toàn/R thành_phố/N đợt/N 2/M thi/V các/L môn/N chuyên/A
+Điểm/N xét/V tuyển/V vào/E lớp/N chuyên/A là/V tổng_số/N điểm/N hai/M bài/N thi/V Toán/Np Văn/Np không/R chuyên/A điểm/N bài/N thi/V môn/N chuyên/A tương_ứng/V với/E lớp/N chuyên/A /V đã/R tính/V hệ_số/A /M
+Công_thức/N như/C sau/N Điểm/N xét/V tuyển/V =/M Tổng/N điểm/N các/L bài/N thi/V không/R chuyên/A /V hệ_số/N 1/M /Nu +/M Điểm/N bài/N thi/V chuyên/A /M hệ_số/N 2/M /Nu

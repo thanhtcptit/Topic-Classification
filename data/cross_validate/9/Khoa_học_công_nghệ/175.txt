@@ -1,0 +1,53 @@
+Cần/V biết/V trước/E khi/N nâng_cấp/V lên/R Windows/Np 10/M
+Sau/E đây/N là/V một_số/N thông_tin/N cần/V biết/V trước/E khi/N quyết_định/V nâng_cấp/V hay/C chọn_lựa/V nền_tảng/N Windows/Np 10/M Nhịp_Sống_Số/Np chọn_lọc/V theo/V dạng/N hỏi/V đáp/V
+Vì_sao/N tôi/P cần/V nâng_cấp/V lên/R Windows/Np 10/M
+Có/V nhiều/A lí_do/N để/E nâng_cấp/V lên/R phiên_bản/N này/P
+Ngoài/E những/L cải_tiến/N lại/R cho/V phù_hợp/V theo/E phản_hồi/N người_dùng/N như/C trình/V đơn/N Start/Np điều_khiển/V cảm_ứng/N chạm/N và/CC điều_khiển/V bằng/E chuột/N cùng/N bàn_phím/N
+Microsoft/Np tích_hợp/V nhiều/A tính_năng/N mới/A trình_duyệt/V mới/R Microsoft_Edge/Np bảo_mật/V phụ_tá/N ảo/N Cortana/Np còn/R hạn_chế/V theo/V thị_trường/N phát_hành/V
+Khi/N nâng_cấp/V lên/R Windows/Np 10/M các/L phần_mềm/N sau/N sẽ/R bị/V gỡ/V bỏ/V Windows_Media_Centre/Np các/L gadget/N trong/E Windows/Np 7/M ba/N trò_chơi/N Dò/Np mìn/N Minesweeper/Np Hearts/Np và/CC Solitare/Np xếp/V bài/N Windows_Live_Essentials/Np và/CC OneDrive/N
+Windows/N 10/M có/V miễn_phí/V như/C nhiều/N thông_tin/N đăng_tải/N
+Windows/N 10/M chỉ/N miễn_phí/V cho/E người_dùng/N nâng_cấp/V từ/E Windows/Np 7/M và/N Windows/Np 88/M
+1/M có/V bản_quyền/N
+Thời_hạn/N nâng_cấp/V miễn_phí/V là/V một/M năm/N kể/V từ/E ngày/N phát_hành/V đến/R ngày/N 2972016/M
+Các/L phiên_bản/N dùng/V lậu/N không/R được/V nâng_cấp/V miễn_phí/V
+Cấu_hình/N máy_tính/N nào/P đáp_ứng/V yêu_cầu/N của/E Windows/Np 10/M
+Về/V hệ_điều_hành/N nếu/N đang/R dùng/V Windows/Np 7/M bạn/N cần/V nâng_cấp/V lên/R Windows/Np 7/M Service_Pack/Np 1/M SP1/Np
+Và_Windows/Np 81/M Update/Np nếu/C đang/R dùng/V Windows/Np 8/M
+Cấu_hình/N máy_tính/N thấp/A nhất/A chip/N xử_lí/N CPU/Np có/V tốc_độ/N xung/V nhịp/N 1GHz/M trở/N lên/V bộ_nhớ/N RAM/Np 1GB/M cho/V bản/N Windows/Np 10/M 32/M bit/N và/CC 2GB/N RAM/Np nếu/C dùng/V Windows/Np 10/M 64/M bit/N
+Ổ/N cứng/N dung_lượng/V 16GB/N để/E cài_đặt/V bản/N 32/M bit/N và/CC 20GB/N cho/V bản/N 64/M bit/N
+Chip/N đồ_hoạ/N tích_hợp/N hỗ_trợ/V DirectX/N 9/M và/N driver/N WDDM/Np 10/M hoặc/N tải/N driver/N mới/A nhất/R cho/V card/N màn_hình/N rời/V từ/E website/N nhà/N sản/N xuất/V để/E tương_thích/V tốt/A với/E Windows/Np 10/M
+Cấu_hình/N trên/N là/V mức/N thấp/A nhất/A nhưng/C để/E khai_thác/V tối_đa/A sức_mạnh/N của/E phiên_bản/N hệ_điều_hành/N mới/R bạn/N nên/V chọn/V mức/N cấu_hình/N cao/A hơn/R đặc_biệt/A là/V bộ_nhớ/N RAM/Np và/CC dung/N lượng/N ổ_cứng/N
+Đối_với/C các/L bạn/N nâng_cấp/V từ/E Windows/Np 7/M SP1/Np và/CC Windows/Np 81/M hãy/N dọn_dẹp/V ổ/N C/Np \/V và/CC lưu_ý/V sao/N lưu/V dữ_liệu/N trước/E khi/N nâng/V cấp/N xem/V Sao/N lưu/V dữ/N liệu/V cho/V Windows/Np miễn_phí/V và/CC Sao/N lưu/V dữ/N liệu/V cho/E MS/Np Outlook/Np
+Đáp_ứng/V các/L yêu_cầu/N trên/E làm_gì/N để/E nâng_cấp/V Windows/Np 10/M
+Máy_tính/N đang/R dùng/V Windows/Np 7/M SP1/Np hay/N Windows/Np 81/M có/V kết_nối/N Internet/Np sẽ/R xuất_hiện/V một/M biểu/N tượng_hình/N cửa_sổ/N hiển_thị/V ở/E góc/N phải/A trên/V thanh/N tác_vụ/N taskbar/N
+Nhấn/Np vào/V biểu_tượng/N này/P nhấn/V tiếp/V vào/R Reserve/Np your/V free/N upgrade/N để/E đặt/V chỗ/N nhận/V Windows/Np 10/M miễn_phí/N nâng_cấp/V
+Tôi/P sẽ/R nhận/V phiên_bản/N nâng/V cấp/N Windows/Np 10/M nào/N
+Xem/V Windows/Np 10/M sẽ/N có/V 7/M phiên_bản/N khác/A nhau/N
+Nâng_cấp/V từ/E Windows/Np 7/M SP1/Np
+Phiên_bản/N
+Phiên_bản/N
+Windows/N 7/M Starter/Np
+Windows/N 10/M Home/Np
+Windows/N 7/M Home_Basic/Np
+Windows/N 7/M Home_Premium/Np
+Windows/N 7/M Professional/Np
+Windows/N 10/M Pro/Np
+Windows/N 7/M Ultimate/Np
+Nâng_cấp/V từ/E Windows/Np 81/M Update/Np
+Phiên_bản/N
+Phiên_bản/N
+Windows/N 7/M Starter/Np
+Windows/N 10/M Home/Np
+Windows/N 7/M Home_Basic/Np
+Windows/N 7/M Home_Premium/Np
+Windows/N 7/M Professional/Np
+Windows/N 10/M Pro/Np
+Windows/N 7/M Ultimate/Np
+Phần_mềm/N đang/R dùng/V của/N tôi/P có/V tương_thích/N Windows/Np 10/M
+Nếu/C bạn/N đang/R dùng/V máy_tính/N tại/E công_ty/N cần/V cẩn_trọng/A vì/E khâu/N nâng_cấp/V và/N cài_đặt/N Windows/Np 10/M sẽ/N gỡ/V bỏ/V các/L phần_mềm/N phục_vụ/V công_việc/N chuyên_biệt/A mà/C công_ty/N cài_đặt/V
+Ngoài_ra/C các/L phần_mềm/N bảo_mật/V anti/N virus/N và/CC tường/N lửa/N firewall/N cũng/R sẽ/R bị/V gỡ/V bỏ/V
+Do/E đó/P cần/V bảo_lưu/V đăng/V kí/N bản_quyền/N và/CC thiết/N lập/V để/E cài_đặt/V lại/R sau/E khi/N nâng_cấp/V Windows/Np 10/M
+Hầu_hết/X các/L phiên_bản/N mới/A nhất/A của/E những/L chương_trình/N anti/N virus/N đều/R đã/R sẵn_sàng/V cho/V Windows/Np 10/M
+Cài/V lại/R Windows/Np 10/M
+Bạn/N có_thể/A cài/V lại/R Windows/Np 10/M hoặc/N cài/V một/M bản/N Windows/Np 10/M mới/N sau/E khi/N nâng_cấp/V lên/R Windows/Np 10/M từ/N Windows/Np 7/M SP1/Np hay/N Windows/Np 81/M trên/N cùng/A một/M máy_tính/N
+Không/R cần/V mua/V hay/C thực_hiện/V nâng_cấp/V lại/R

@@ -1,0 +1,13 @@
+Khả_năng/N sống/V bất_tử/A trong/E thế_giới/N ảo/A của/E con_người/N
+Theo/E Express/Np công_nghệ/N transhumanism/V cải_lão_hoàn_đồng/X trong/E tương_lai/N có_thể/R giúp/V con_người/N tồn_tại/V ở/E bên/N ngoài/N cơ_thể/N vật_lý/N chuyển_đổi/V tâm_trí/N của/E họ/P thành/V dữ_liệu/N kỹ_thuật_số/N để/E tải/N lên/V một/M máy_tính/N có/V cấu_hình/N cao/A giúp/V con_người/N sống/V bất_tử/A trong/E thế_giới/N ảo/A
+Ray_Kurzweil/Np giám_đốc/N kỹ_thuật/N của/E Google/Np tin/V rằng/C transhumanism/N sẽ/R trở_thành/V hiện_thực/N vào/E năm/N 2045/M
+Tuy_nhiên/C để/E viễn_cảnh/V trên/E trở_thành/V hiện_thực/N con_người/N phải/V vượt/V qua/R những/L trở_ngại/N rất/R lớn/A về/E kỹ_thuật/N và/CC nhận_thức/V
+Não/N người/N chứa/V hàng/R nghìn/M tỷ/N kết_nối/V với/E khoảng/N 86/M tỷ/Nu tế_bào/N nơron/V thần_kinh/N
+Để/E xây_dựng/V tâm_thức/N kỹ_thuật_số/N chúng_ta/P cần/V bản_đồ/N hóa/V những/L kết_nối/V trong/E não/N
+Với/E tốc_độ/N phát_triển/V hiện_nay/N của/E máy_tính/N và/CC công_nghệ/N hình_ảnh/N con_người/N có_thể/A làm/V điều/N này/P trong/E vài/L thập_kỷ/N tới/V nhưng/C chỉ/R áp_dụng/V với/E bộ_não/N đã/R chết/V
+Ngay/T cả/P khi/N tạo/V ra/R biểu_đồ/V kết_nối/V của/E bộ_não/N sống/V chúng_ta/P phải/V xác_định/V được/R chính_xác/A cách_thức/N các/L tế_bào/N thần_kinh/N tương_tác/V tại/E mỗi/L điểm/N giao/V nhau/N
+Đây/P là/V vấn_đề/N ở/E mức_độ/N phân_tử/V và/CC các/L nhà_nghiên_cứu/N không/R biết/V có/V bao_nhiêu/P phân_tử/V trong/E não/N
+Việc/N mô_phỏng/V một_số/L khía_cạnh/N hoạt_động/V của/E não/N không/R đảm_bảo/V khả_năng/N mô_phỏng/V thành_công/V bộ_não/N hoàn_chỉnh/V
+Để/E hiểu/V về/E máy_tính/N chúng_ta/P cần/V theo_dõi/V dòng_điện/N và/CC điện_áp/N ở/E mỗi/L bộ_phận/N tạo/V ra/R nó/P cũng_như/C hiểu/V về/E electron/N
+Con_người/N thiết_kế/V máy_tính/N với/E hoạt_động/N chuyển/V mạch/N của/E các/L bán_dẫn/N tạo/V nên/C một/M bản_đồ/N rõ_ràng/A với/E trạng_thái/N mạch/N logic/N kỹ_thuật_số/N theo/E hệ/N nhị_phân/V gồm/V số/N 1/M và/CC số/N 0/M
+Nhưng/C bộ_não/N hình_thành/V do/E quá_trình/N tiến_hóa/V và/CC không/R phải/V sản_phẩm/N thiết_kế/V nên/C rất/R khó/A bản_đồ/N hóa/N hoạt_động/V của/E bộ_não/N sang/V dạng/N thông_tin/N kỹ_thuật_số/N

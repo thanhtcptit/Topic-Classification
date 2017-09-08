@@ -1,0 +1,28 @@
+Nhà_khoa_học/N Nga/Np thử_nghiệm/V động_cơ/N cho/E tốc_độ/N 1/M 000/M km/giây/N
+Đây/P là/V nghiên_cứu/N của/E nhà_khoa_học/N Vladimir_Leonov/Np người/N từng/R đạt/V Giải_thưởng/N Nhà_nước/N Liên_bang/N Nga/Np cũng/R là/V tác_giả/N của/E nhiều/A nghiên_cứu/V về/E lý_thuyết/N siêu/Z hợp_nhất/V superunification/N
+Ông/N giới_thiệu/V về/E thử_nghiệm/V này/P trên/E trang_web/N về/E lý_thuyết/N siêu/Z hợp_nhất/N của/E mình/P
+Các/L động_cơ/N đẩy/V hiện_nay/N đều/R hoạt_động/V dựa/V trên/E nguyên_lý/N phản_lực/N
+Lực/N đẩy/V vật_thể/A về/E phía/N trước/N luôn/R phải/V đi/V kèm/V với/E sự/Nc phóng/V ra/R một/M khối_lượng/N vật_chất/N tương_ứng/V về/E phía/N sau/N
+Chuyển_động/V cơ_học/N cũng/R cần/V có/V các/L cơ_cấu/N truyền/V động/N trên/E nguyên_tắc/N cũng/R là/V sử_dụng/V phản_lực/N để/E di_chuyển/V
+Theo/E Leonov/Np động_cơ/N phản/V hấp_dẫn/V hay/C còn/R gọi_là/X động_cơ/N lượng_tử/N hoạt_động/V dựa/V trên/E lý_thuyết/N siêu/Z hợp_nhất/N coi/V chân_không/N là/V môi_trường/N đàn_hồi/V lượng_tử/N hóa/V không/R thời_gian/N lượng_tử/V hóa/N có_thể/R đẩy/V một/M vật_thể/N chuyển_động/V mà/C không/R cần/V phóng/V vật_chất/N về/E hướng/N ngược_lại/C
+Đây/P là/V lý_thuyết/N đầu_tiên/A mô_tả/V cấu_trúc/N của/E một/M môi_trường/N không/R trọng_lượng/N là/V chân_không/N
+Lực/N đẩy/V phản/N hấp_dẫn/V được/R tạo/V ra/R từ/E bên/N trong/N của/E vật_thể/N mang/V động_cơ/N này/P
+Động_cơ/N lượng_tử/V được/V các/L nhà_khoa_học/N Nga/Np thử_nghiệm/V thành_công/V năm/N 2009/M với/E động_cơ/N có_thể/A sinh_ra/V một/M lực/N đẩy/V ngang/A có/V cường_độ/N khoảng/A 500/M N/Np mỗi/M xung/N
+Đến/E đầu/N năm/N 2014/M sau/E nhiều/A cải_tiến/V với/E thiết_bị/N nặng/A 54/M kg/Nu động_cơ/N có_thể/A tạo/V ra/R lực/N đẩy/V theo/E phương/N thẳng_đứng/A với/E cường_độ/N 5/M 000/M –/N 7/M 000/M N/Np mà/C chỉ/R tiêu_thụ/V một/M k/N W/Np và/CC gia_tốc/N đạt/V 10/M –/Nu 12/M m/s2/N
+Những/L thí_nghiệm/N này/P chứng_minh/V lực/N hấp_dẫn/V đã/R được/R trung_hòa/V xác_nhận/V tính/N đúng_đắn/A của/E lý_thuyết/N siêu/Z hợp_nhất/N
+Để/E so_sánh/V với/E cùng/A công_suất/N 1/M kW/Nu động_cơ/N tên_lửa/N hiện_nay/N chỉ/R có_thể/R tạo/V ra/R một/M lực/N đẩy/N 1/M N/Np nghĩa_là/X động_cơ/N mới/R có/V hiệu_suất/N gấp/V 5/M 000/M lần/N
+Theo/E Lebanov/Np động_cơ/N tên_lửa/A thông_thường/A có/V trọng_lượng/N 100/M tấn/Nu chỉ/R chở/V được/R tải_trọng/N có_ích/A khoảng/A 5/M tấn/Nu hiệu_suất/N 5%/M còn/V động_cơ/N lượng_tử/V trọng_lượng/N 100/M tấn/Nu có_thể/A chở/V được/R 90/M tấn/Nu hàng/N hiệu_suất/N 90%/M
+Tốc_độ/N tối_đa/A của/E thiết_bị/N gắn/V động_cơ/N phản/V vật_chất/N có_thể/R lên/V tới/E 1/M 000/M km/giây/N nghĩa_là/X tàu_vũ_trụ/N có_thể/A bay/V tới/E sao/P Hỏa/Np trong/E vòng/N 42/M giờ/Nu và/CC tới/V Mặt_Trăng/Np chỉ/R mất/V 3/M 6/M giờ/Nu
+Thời_gian/N di_chuyển/V bằng/E máy_bay/N có/V lắp/V động_cơ/N phản/V hấp_dẫn/V giữa/E Moscow/Np và/CC New_York/Np sẽ/R giảm/V từ/E 10/M giờ/Nu xuống/R còn/R một/M giờ/N
+Năng_lượng/N cung_cấp/V cho/E động_cơ/N đến/V từ/E phản_ứng/N nhiệt_hạch/N lạnh/A CNF/Np
+Theo/E kỹ_sư/N người/N Ý_Andrea_Rossi/Np với/E nhiên_liệu/N nickel/N hiệu_quả/N chuyển_đổi/V năng_lượng/N cao/A hơn/A nhiên_liệu/N hóa_học/N một_triệu/M lần/N
+Nói/V cách/N khác/A một/M kg/Nu nickel/N cho/E năng_lượng/N tương_đương/A một_triệu/M kg/Nu xăng/N
+Máy_bay/N sẽ/R chỉ/R cần/V nạp/V năng_lượng/N một/M lần/N để/E bay/V trong/E vài/L năm/N
+Theo/E Leonov/Np nếu/C trang_bị/V công_nghệ/N này/P cho/E ôtô/N xe/N có_thể/R chạy/V trên/E mọi/L địa_hình/N kể_cả/X mặt_nước/N
+Khi/N đó/P một/M kg/Nu nhiên_liệu/N nickel/N sẽ/R đủ/A cho/E xe/N chạy/V quãng/N đường/N 10/M triệu/M km/Nu
+Đẩy_mạnh/V khoa_học_kỹ_thuật/X là/V con/Nc đường/N phát_triển/V sống_còn/V của/E Nga/Np hiện_nay/N tiến_sĩ/N Leonov/Np nói/V trong/E cuộc/N phỏng_vấn/V với/E truyền_thông/N Nga/Np hồi/N đầu/N năm/N
+Nền/N kinh_tế/N của/E chúng_ta/P chủ_yếu/A dựa/V vào/E việc/N bán/V tài_nguyên/N hóa_thạch/A do_đó/C bị/V các/L chính_sách/N trừng_phạt/V của/E phương/N Tây/Np ảnh_hưởng/V nặng_nề/A
+Tuy_nhiên/C những/L biện_pháp/N trừng_phạt/V này/P có_vẻ/X như/C đã/R làm/V thức_tỉnh/N nước/N Nga/Np
+Chúng_ta/P buộc/V phải/V hiện_đại_hóa/V và/CC nhanh_chóng/A phát_triển/V kinh_tế/N trong/E khoảng/N 2/M 3/M năm/N
+Đặng_Tiểu_Bình/Np bắt_đầu/V công_cuộc/N hiện_đại_hóa/V Trung_Quốc/Np lúc/N đã/R  /V 74/M tuổi/N trong/E bối_cảnh/N nền/N kinh_tế/N Trung_Quốc/Np đương_thời/V rất/R khó_khăn/A
+Còn_Putin/Np mới/R có/V 62/M tuổi/N thôi/T

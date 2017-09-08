@@ -1,0 +1,34 @@
+Ác_mộng/N lỗi/N pin/N chưa/R qua/V Samsung_Galaxy_Note/Np 7/M lại/R bị/V tố/V lỗi/N loạn/V cảm_ứng/N 
+Test/N lỗi/N Galaxy_Note/Np 7/M của/E thành_viên/N trên/E diễn_đàn/N công_nghệ/N ở/E VN/Np chia_sẻ/V Một/M người/N dùng/V tại/E Việt_Nam/Np đã/R đăng_tải/V thông_tin/N trên/E một/M diễn_đàn/N công_nghệ/N lớn/A về/E tình_trạng/N máy/N Galaxy_Note/Np 7/M bị/V loạn/V cảm_ứng/V sau/E khi/N nâng_cấp/V bản/N cập_nhật/V mới/R 
+Cụ_thể/A thành_viên/N này/P chỉ/R ra/V 5/M điểm/N sau/E khi/N tổng_kết/V lại/R vấn_đề/N bị/V loạn/V cảm_ứng/V của/E thiết_bị/N 
+Thứ/N nhất/A khi/N gõ/V bàn_phím/N mặc_định/V (/N hoặc/CC bàn_phím/N khác/A thỉnh_thoảng/R gặp/V lỗi/N không/R nhận/V một/M phím/N nào_đó/P 
+Ban_đầu/N thành_viên/N này/P nghĩ/V rằng/C việc/N gõ/V thiếu/A là/V do/E tay/N chạm/V chưa/R đúng/A vị_trí/N phím/A 
+Tuy_nhiên/C khi/N kiểm_tra/V kỹ/A thì/C hiện_tượng/N này/P xảy_ra/V với/E tần_suất/N đủ/A lớn/A để/E nhận/V ra/R đây/P là/V lỗi/N của/E máy/N chứ/C không/R phải/V lỗi/N do/E người/N dùng/V 
+Ở/E điểm/N thứ/N 2/M người/N dùng/V này/P chỉ/R ra/V rằng/C khi/N nhấn/V giữ/V vào/E 1/M điểm/N hay/C 1/M biểu_tượng/N bất_kỳ/A trên/E màn_hình/N nhưng/C máy/N không/R nhận/V giống/A như/C bị/V đơ/V cảm_ứng/N 
+Theo/E người/N dùng/V này/P trước/E thì/C thỉnh_thoảng/R gặp/V 1/M lần/N còn/V hiện_giờ/N thì/C xảy_ra/V thường_xuyên/A 
+Điểm/N thứ/N 3/M mà/C thành_viên/N này/P chỉ/R ra/V lỗi/N đó/P là/V sử_dụng/V thao_tác/V vuốt/V không/R được/V như_ý/A 
+Thành_viên/N này/P cho_biết/V khi/N zoom/V (/N phóng/V to/A ảnh/N rồi/C di_chuyển/V qua_lại/V hoặc/CC di_chuyển/V qua_lại/V để/E xem/V các/L bức/Nc ảnh/N trong/E bộ/N sưu_tập/V thì/C thỉnh_thoảng/R thấy/V ảnh/N không/R di_chuyển/V giống/N như_không/X nhận/V cảm_ứng/N 
+Đồng_thời/R điểm/N thứ/N 4/M và/CC 5/M cũng/R tương_tự/A khi/N sử_dụng/V bản_đồ/N bị/V lỗi/N khi/N vuốt/V và/CC sử_dụng/V trình_duyệt/N đều/R không/R mượt/A khi/N vuốt/V qua_lại/V kéo/V thả/V đều/R khó_khăn/A 
+Samsung_Galaxy_Note/Np 7/M chính/T hãng/N gặp/V lỗi/N loạn/V cảm_ứng/N Đáng/V chú_ý/V thành_viên/N này/P cho_biết/V thêm/V trước/E đó/P máy/N đều/R không/R gặp/V tình_trạng/N này/P nhưng/C sau/E khi/N nâng_cấp/V lên/R phiên_bản/N mới/A nhất/R gần/A đây/P vào/E ngày/N 27/8/M máy/N bỗng_dưng/R trở/V bệnh/N 
+Do_đó/C thành_viên/N này/P suy_đoán/V khả_năng/N lỗi/N không/R liên_quan/V đến/E phần_cứng/N mà/C do/E phần_mềm/N 
+Thành_viên/N này/P cũng/R chia_sẻ/V đã/R thử/V đến/E việc/N tháo/V cover/N hoặc/CC miếng/Nc dán/V màn_hình/N nhưng/C đều/R vẫn/R gặp/V tình_trạng/N như/C trên/N 
+Việc/N khởi_động/V lại/R reset/V máy/N đều/R không/R khắc_phục/V được/R lỗi/N này/P 
+Thậm_chí/R khi/N cài/V thêm/V các/L launcher/N giao_diện/V từ/E bên/N thứ/N 3/M )/Nu lỗi/N vẫn/R y_nguyên/A 
+Ở/E một/M diễn_biến/N khác/A diễn_đàn/N lớn/A tại/E Việt_Nam/Np cũng/R mở/V ra/R một/M luồng/N hội_thoại/N để/E hỏi/V ý_kiến/N các/L thành_viên/N về/E việc/N có/V gặp/V phải/V lỗi/N trên/A hay/C không/R 
+Đáng/V chú_ý/V có/V đến/T 64%/M người/N được/V hỏi/V cho/V rằng/C đang/R gặp/V phải/V tình_trạng/N loạn/V cảm_ứng/N trên/E Galaxy_Note/Np 7/M 
+Trước/E đó/P nhiều/A người/N dùng/V khác/A ở/E Việt_Nam/Np cũng/R tố/V Galaxy_Note/Np 7/M bị/V lỗi/N bootloop/V lỗi/N này/P sẽ/R gây/V ra/R tình_trạng/N máy/N sẽ/R tự/P khởi_động/V lặp/V lại/R liên_tục/A và/CC không_thể/R vào/V màn_hình/N chính/T 
+Lý_do/N cho/E việc/N gặp/V lỗi/N này/P đó/P là/V xung_đột/N giữa/E ứng_dụng/N và/CC hệ_điều_hành/N trên/E phân_vùng/N ext/N 2/M hoặc/CC ext/V 3/M 
+Sáng/N 3/9/M đại_diện/N truyền_thông/N của/E Samsung_Việt_Nam/Np ông/Nc Nguyễn_Trí_Thông/Np cho_biết/V Công_ty/N có/V nhận/V được/R phản_hồi/V lỗi/N tự/P khởi_động/V lại/R máy/N từ/E phía/N thị_trường/N người/N dùng/V và/CC các/L thành_viên/N trên/E những/L diễn_đàn/N nhưng/C chưa/R có/V thống_kê/V chính_thức/A 
+Công_ty/N điện_tử/N Samsung_Việt_Nam/Np cũng/R đã/R thông_báo/V đến/E tập_đoàn/N để/E kiểm_tra/V và/CC khi/N có/V câu/N trả_lời/V sẽ/R công_bố/V đến/E giới/N truyền_thông/N 
+Chi_tiết/A về/E việc/N này/P hiện/N vẫn/R chưa_thể/R thông_báo/V vì/E cần/V có/V các/L số_liệu/N báo_cáo/V cụ_thể/A 
+Nhưng/C xét/V về/E góc_độ/N người/N tiêu_dùng/V Samsung/Np đặt/V quyền_lợi/N người/N dùng/V lên/R hàng_đầu/N và/CC nếu/C có/V gặp/V lỗi/N hãy/R mang/V máy/N đến/E các/L trung_tâm/N bảo_hành/V gần/A nhất/R để/E được/V tư_vấn/V và/CC đổi/V máy/N mới/R 
+Bạn/N có_thể/A chọn/V nhiều/A mục/N 
+Bình_chọn/V của/E bạn/N sẽ/R được/V công_khai/V 
+Dẫn/V báo_cáo/V từ/E Viễn_Thông/Np A/Np nhà_bán_lẻ/N này/P cho_biết/V họ/P ghi_nhận/V được/R 165/M trường_hợp/N bao_gồm/V các/L lỗi/N chính/A như/C tự_động/A treo/V //X máy/N không/R lên/V màn_hình/N sạc/N không/R vào/V //X tự_động/A tắt/V nguồn/N //X máy/N tự/P reset/V lại/R nhiều/A lần/N trong/E ngày/N //X treo/V logo/N 
+Cũng/R trong_sáng/A 3/9/M đại_diện/N từ/E Samsung_Việt_Nam/Np thông_qua/V báo_chí/N cũng/R đã/R khuyến_nghị/V người/N tiêu_dùng/V hãy/R mang/V sản_phẩm/N Galaxy_Note/Np 7/M đến/E các/L trung_tâm/N bảo_hành/V chính_thức/A của/E hãng/N để/E được/V tư_vấn/V và/CC đổi/V máy/N mới/R 
+Động_thái/N này/P của/E Samsung/Np nhằm/V đảm_bảo/V quyền_lợi/N người/N tiêu_dùng/V chứ/C không/R phải/V là/C việc/N thu_hồi/V sản_phẩm/N có/V nguy_cơ/N bị/V lỗi/N 
+Bên_cạnh/N đó/P các/L nhà_bán_lẻ/N lớn/A cũng/R vừa/R có/V động_thái/N đảm_bảo/V quyền_lợi/N của/E người/N dùng/V 
+Trong/E đó/P nhà_bán_lẻ/N FPT/Np Shop/Np và/CC Thế_giới/N Di_động/V sẽ/R đổi/V máy/N mới/R Galaxy_Note/V 7/M hoă/V ̣/M c/N đô/N ̉/M i/N sang/V sa/V ̉/M n/N phâ/N ̉/M m/Nu kha/V ́/M c/N tương_đương/V hoă/V ̣/M c/N hoàn/V lại/R tiền/N 100%/M cho/E khách_hàng/N đã/R mua/V máy/N tại/E hai/M nhà_bán_lẻ/N này/P 
+Bạn_đọc/N sở_hữu/V Samsung_Galaxy_Note/Np 7/M gặp/V lỗi/N có_thể/A gửi/V thông_tin/N cụ_thể/A và/CC hình_ảnh/N video/N về/V địa_chỉ/N email/V congnghe@dantri.com.vn/N 
+Trân_trọng/V cảm_ơn/V 
+Gia_Hưng/Np Gia_Khoa/Np 

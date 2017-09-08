@@ -1,0 +1,9 @@
+Sacombank/Np thay/V tổng_giám_đốc/N
+Ngân_hàng/N Sài_Gòn_Thương/Np tín/V /N Sacombank/Np /M vừa/R công_bố/V thông_tin/N thay_đổi/V nhân_sự/N cấp/N cao/A  /M Theo/E đó/P Hội_đồng_quản_trị/N ngân_hàng/N này/P đã/R thông_qua/V việc/N từ/E nhiệm_chức/N Tổng_giám_đốc/N của/E ông/N Phan_Huy_Khang/Np theo/V nguyện_vọng/N cá_nhân/N kể/V từ/E ngày/N 3/7/M
+Đồng_thời/R ban/N quản_trị/V bổ_nhiệm/V bà/N Nguyễn_Đức_Thạch_Diễm/Np hiện/N là/V Phó_tổng/N giám_đốc/N Sacombank/Np phụ_trách/V hoạt_động/V xử_lý/V nợ/N giữ/V chức/N Tổng_giám_đốc/N thay_thế/V cho/E ông/N Phan_Huy_Khang/Np
+Thời_gian/N bổ_nhiệm/V bà/N Diễm/Np giữ/V chức/N Tổng_giám_đốc/N là/V 5/M năm/N
+Trong/E thời_gian/N chờ_đợi/V Ngân_hàng/N Nhà_nước/N phê_duyệt/V chức_danh/N Tổng_giám_đốc/N HĐQT/Np thống_nhất/V giao/V bà/N Diễm/Np giữ/V chức_quyền/N Tổng_giám_đốc/N và/CC là/V người/N thực_hiện/V công_bố/V thông_tin/N của/E Sacombank/Np kể/V từ/E 3/7/2017/M
+Bà/N Diễm/Np có/V trình_độ/N thạc_sĩ/N quản_trị/V kinh_doanh/V và/CC 17/M năm/N kinh_nghiệm/N trong/E li/Nu ̃/M nh/N vực/N tài_chính/N ngân_hàng/N và/CC  /V là/V một/M trong/E số/N 20/M phó/N Tổng_giám_đốc/N của/E Sacombank/Np từ/E năm/N 2014/M
+Ở/E ngân_hàng/N bà/Nc Diễm/Np phụ_trách/V hoạt_động/V xử_lý/V nợ/N
+Trước/E đó/P tại/E Đại_hội_đồng/Np cổ_đông/N thường_niên/A năm/N tài_chính/N 2015/M 2016/M diễn/V ra/R ngày/N 30/6/M Sacombank/Np đã/R bầu/V ra/R HĐQT/Np BKS/Np nhiệm_kỳ/N mới/R trong/E đó/P ông/Nc Dương_Công_Minh/Np giữ/V vị_trí/N Chủ_tịch/N
+Ông/Nc Minh/Np hiện/V là/V Chủ_tịch/N HĐQT/Np Công_ty/N Him_Lam/Np

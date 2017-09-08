@@ -1,0 +1,32 @@
+Ứng_dụng/V công_nghệ/N ozone/N diệt/V khuẩn/N cho/E máy_bơm/N nước/N
+Công_nghệ/N này/P được/V ứng_dụng/V trên/E cơ_chế/N làm/V sạch/A tự_nhiên/N của/E ozone/N giúp/V nước_sạch/N khuẩn/A mà/C không/R bị/V thay_đổi/V thành_phần/N
+Ozone/Np là/V chất/N làm/V sạch/A tự_nhiên/N có/V khả_năng/N thanh_lọc/V không_khí/N sát_khuẩn/V tiêu/N độc/A khử/V mùi/N
+Chất/N này/P đã/R được/V sử_dụng/V trong/E sản_xuất/V các/L thiết_bị/N phục_vụ/V đời_sống/N đặc_biệt/A là/C trong/E y_học/N
+Không/R giống/A các/L chất/N làm/V sạch/A khác/A ozone/V không/R tạo/V thành/V các/L hợp_chất/N như/C clo/N  /A không/R tồn_tại/V trong/E nước/N sau/E khi/N phát_huy/V tác_dụng/N
+Do_đó/C nước/N khi/N qua/V bơm/N kháng/N khuẩn/N trở_nên/V sạch/A khuẩn/N mà/C không/R bị/V thay_đổi/V thành_phần/N
+Sản_phẩm/N đã/R được/V đăng_ký/V bằng_sáng_chế/N giải_pháp/N hữu_ích/A tại/E Cục/N Sở/N hữu/N trí_tuệ/A Việt_Nam/Np
+Theo/E giáo_sư/N Nguyễn_Hoàng_Nghị/Np chủ_nhiệm/N đề_tài/N nghiên_cứu/V về/E ozone/N Đại_học/N Bách_Khoa/Np ozone/V được/R biết/V đến/R là/V một/M vật_chất/N làm/V sạch/A tự_nhiên/N quý_giá/A
+Trong/E tự_nhiên/N ozone/V hình_thành/V trong/E khí_quyển/N từ/E phân_tử/N oxy/N dưới/E tác_động/N của/E tia_cực_tím/N
+Khi/N trời/N mưa/V hiện_tượng/N sấm_sét/N sẽ/R sản_sinh/V ra/R ozone/N làm/V sạch/A không_khí/N
+Do_đó/C sau/E mỗi/M đợt/N sấm_sét/N thường/R không_khí/N trong_lành/A hơn/R
+Ozone/Np có/V công_thức_hoá_học/N là/V O3/Np không/R bền_vững/A khó/A bảo_quản/V dễ/A phân_giải/V trong/E thời_gian/N ngắn/A nếu/C được/V tiếp_xúc/V với/E hơi_nước/N thì/C sự/Nc phân_giải/V sẽ/R nhanh/A hơn/R
+O3/M khi/N phân_giải/V tạo/V thành/V phân_tử/N oxy/N O2/Np và/CC nguyên_tử/V oxy/N O/Np
+Các/L nguyên_tử/N Oxy/N O/Np mang/V điện_tích/N âm/A nên/C sẽ/R liên_tục/A giành_giật/V các/L điện_tử/N từ/E các/L tế_bào/N khỏe_mạnh/A để/E trung_hòa/V
+Các/L tế_bào/N bị/V mất/V oxy/N sẽ/R bị/V lão_hóa/V và/CC chết/V đi/V rất/R nhanh/A
+Đó/P  /V là/V nguyên_lý/N diệt/V khuẩn/N khử/V mùi/N của/E ozone/N
+Nhờ/E khả_năng/N này/P nó/P được/R sử_dụng/V vào/R diệt/V khuẩn/N ở/E Hà_Lan/Np từ/E những/L năm_1880/N
+Tuy_nhiên/C các/L ứng_dụng/N chủ_yếu/A cho/E ngành/N y_tế/N hoặc/CC xử_lý/V nước/N diện/N hẹp/A như/C sục/V rau_quả/N lọc/V không_khí/N
+Đây/P là/V lần/N đầu_tiên/A ozone/V được/R Kangaroo/Np ứng_dụng/V vào/E xử_lý/V nước/N diện/N rộng/A và/CC trực_tiếp/A
+Ông/N Lại_Trung_Tùng_Viện/Np trưởng/N Viện/N nghiên_cứu/V và/CC phát_triển/V sản_phẩm/N của/E Kangaoo/Np cho_biết/V ý_tưởng/N hình_thành/V sản_phẩm/N xuất_phát/V từ/E nhu_cầu/N sử_dụng/V của/E người_dân/N
+Theo/E ông/Nc Tùng/Np đặc_thù/V nguồn/N nước/N tại/E Việt_Nam/Np có/V 3/M nguồn/N chính/T nước/N giếng_khoan/V nước/N mưa/V và/CC hệ_thống/N nước_sạch/N đã/R xử_lý/V đầu/N nguồn/N
+Tuy_nhiên/C với/E cả/P 3/M nguồn/N nước/N này/P mức_độ/N nhiễm_khuẩn/V đều/R rất/R lớn/A
+Các/L loại/N nước/N như/C nước/N giếng_khoan/V sông_hồ/N và/CC nước/N mưa/V không_chỉ/C nhiễm_khuẩn/A mà/C các/L thành_phần/N tạp_chất/N hữu_cơ/A
+Riêng/T với/E hệ_thống/N nước_sạch/N dù/C đã/R được/V xử_lý/V đầu/N nguồn/N nhưng/C vẫn/R bị/V nhiễm/V khuẩnlại/V khi/N nước/N được/V cấp/V về/E các/L hộ/N gia_đình/N qua/V các/L đường_ống/N
+Do_đó/C Kangaroo/Np đã/R đưa/V ra/R giải_pháp/N xử_lý/V nước/N cuối/N nguồn/N
+Theo/E đó/P ngay/T tại/E mỗi/M hộ/N gia_đình/N ngay/T khi/N sử_dụng/V ozone/N sẽ/R được/V trộn/V vào/E nước/N và/CC phát_huy/V tác_dụng/N trực_tiếp/A của/E nó/P
+Nghiên_cứu/N và/CC thí_nghiệm/V cho/V thấy/V khả_năng/N diệt/V khuẩn/N của/E máy_bơm/N nước/N ozone/N là/V 99%/M các/L loại/N vi_khuẩn/A như/C khuẩn/N đường/N ruột/N khuẩn/A lao/V đều/R bị/V tiêu_diệt/V trong/E nước/N này/P
+Bên_cạnh/N đó/P sản_phẩm/N còn/R giúp/V tăng/V oxy/N trong/E nước/N kết_tủa/V asen/N thuốc_trừ_sâu/N khử/V mùi/N các/L chất/N tồn_dư/N trong/E nước/N
+Đối_với/E hộ/N gia_đình/N bơm/V nước/N ozone/N Kangaroo/Np kháng/V khuẩn/N có_thể/R được/V sử_dụng/V cho/E làm/V sạch/A khử/N độc/A rau/N củ/N làm_đẹp/V da/N trị/V mụn/N diệt/V khuẩn/N làm/V mau/A lành/A các/L vết_thương/N ngoài/E da/N hỗ_trợ/V điều_trị/V các/L bệnh/N mẩn/N ngứa/V ngoài/E da/N …/A Trong/E nông_nghiệp/N và/CC nuôi_trồng/V thủy_sản/N có_thể/R sử_dụng/V cho/E chăn_nuôi/N khử/V mùi/N chuồng_trại/N tưới/V cây/N giúp/V giảm/V sâu_bệnh/N
+Ngoài_ra/C bơm/V nước/N ozone/N còn/R dùng/V diệt/V khuẩn/N bơm/V nước/N tuần_hoàn/V cho/E ao_hồ/N vừa/R tiết_kiệm/V được/R thời_gian/N thau/N rửa/V ao/N vừa/R cung_cấp/V oxy/N cho/E nước/N diệt/V khuẩn/N giúp/V tôm_cá/N khoẻ_mạnh/V lớn/A nhanh/A hơn/R
+Phát_minh/N này/P cũng/R có_thể/R được/V ứng_dụng/V vào/E xử_lý/V nước/N hồ/N bơi/V giúp/V diệt/V các/L loại/N vi_khuẩn/N nguy_hiểm/A như/C amip/V ăn/V não/N người/N …/A Sản_phẩm/N đã/R được/V nghiên_cứu/V thử_nghiệm/V và/CC kiểm_định/V trong/E vòng/N một/M năm/N với/E các/L kiểm_định/V kỹ_lưỡng/A của/E Tổng_cục/N tiêu_chuẩn/N đo_lường/N chất_lượng/N Việt_Nam/Np cơ_quan/N kiểm_định/V Trung_ương/N với/E khả_năng/N diệt/V khuẩn/N đến/E 99%/M khử/N asen/V đến/V 70%/M
+Máy/N sẽ/R được/V ra_mắt/V trong/E thời_gian/N tới/V đại_diện/N nhà_sản_xuất/N nói/V thêm/V

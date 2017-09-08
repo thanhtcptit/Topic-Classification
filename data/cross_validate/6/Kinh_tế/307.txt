@@ -1,0 +1,12 @@
+Thêm/V doanh_nghiệp/N đa_cấp/N đóng_cửa/V vì/E hoạt_động/V không/R hiệu_quả/N 
+Công_ty/N TNHH/Np My_Fortuna/Np có/V trụ_sở/N chính/T tại/E 37/M2/Np khu_đô_thị/N Yên_Hòa/Np phường/N Yên_Hòa/Np quận/N Cầu_Giấy/Np thành_phố/N Hà_Nội/Np Việt_Nam/Np 
+Giấy/N chứng_nhận/V đăng_ký/V hoạt_động/V bán/V hàng/N đa_cấp/N do/E Cục/N Quản/Np lý/N Cạnh_tranh/V –/N Bộ/N Công_Thương/Np cấp/V lần/N đầu/N ngày/N 1/2/2016/M cấp/N sửa_đổi/N bổ_sung/V lần/N thứ/N 1/M ngày/N 7/12/2016/M 
+Lý_do/N chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/A là/V do/E thay_đổi/V phương_thức/N kinh_doanh/V 
+Phạm_vi/N chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/N trên/E toàn_quốc/N từ/E ngày/N 12/2/2017/M 
+Trong/E khi/N đó/P Công_ty/N Cổ_phần/N Queenet_Quốc/Np tế/V có/V trụ_sở/N chính/T tại/E Khu/N 3/M Thị_trấn/N Trạm_Trôi/Np huyện/N Hoài_Đức/Np thành_phố/N Hà_Nội/Np Việt_Nam/Np 
+Giấy/N chứng_nhận/V đăng_ký/V hoạt_động/V bán/V hàng/N đa_cấp/N được/V cấp/V lần/N đầu/N ngày/N 7/10/2015/M cấp/N sửa_đổi/N bổ_sung/V lần/N thứ/N 1/M ngày/N 20/1/2016/M 
+Lý_do/N chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/N theo/E Cục/N Quản/Np lý/N Cạnh_tranh/V là/V do/E doanh_nghiệp/N hoạt_động/V không/R hiệu_quả/N không/R thu/V được/R lợi_nhuận/N 
+Phạm_vi/N chấm_dứt/V hoạt_động/V bán/V hàng/N đa_cấp/N trên/E toàn_quốc/N từ/E ngày/N 20/2/2017/M 
+Trong/E vòng/N 90/M ngày/N kể/V từ/E ngày/N Cục/N Quản/Np lý/N Cạnh_tranh/V ban_hành/V thông_báo/N này/P Công_ty/N TNHH/Np My_Fortuna/Np và/CC Công_ty/N Cổ_phần/N Queenet_Quốc/Np tế/V có/V trách_nhiệm/N hoàn_thành/V các/L nghĩa_vụ/N đối_với/E người/N tham_gia/V bán/V hàng/N đa_cấp/V theo/E quy_định/N của/E pháp_luật/N 
+Cục/N Quản/Np lý/N Cạnh_tranh/V cho_biết/V người/N tham_gia/V bán/V hàng/N đa_cấp/N nếu/C có/V có/V bất_kỳ/A khiếu_nại/V về/E việc/N Công_ty/N chưa/R hoàn_thành/V các/L nghĩa_vụ/N đối_với/E người/N tham_gia/V bán/V hàng/N đa_cấp/N có_thể/A gửi/V trực_tiếp/A tới/E Công_ty/N hoặc/CC Cục/N để/E được/V giải_quyết/V theo/V đúng/A quy_định/N của/E pháp_luật/N 
+Phương_Dung/Np 

@@ -1,0 +1,11 @@
+Tốc_độ/N Internet_Việt_Nam/Np gần/A thấp/A nhất/A khu_vực/N
+Akamai_Technologies/Np hãng/N quản_lý/V lưu_lượng/N Internet/Np và/CC các/L dịch_vụ/N điện_toán/N đám/Nc mây/N công_bố/V kết_quả/N khảo_sát/V tình_hình/N sử_dụng/V Internet/Np tại/E các/L khu_vực/N trên/E thế_giới/N
+Tốc_độ/N Internet/Np toàn_cầu/N là/V 7,2/M Mb/giây/Np và/CC Việt_Nam/Np may_mắn/A ở/E mức/N trên/N trung_bình/A với/E chỉ_số/N 9,5/M Mb/giây/Np tăng/V 15%/M so/V với/E quý/N trước/N và/CC tăng/V tới/E 89%/M so/V với/E cùng/A kỳ/N năm_ngoái/N cao/A nhất/R trong/E khu_vực/N châu/N Á/Np Thái_Bình_Dương/Np
+Chỉ/R 11%/M kết_nối/V Internet/Np trong/E nước/N đạt/V trên/E 15/M Mb/giây/Np nhưng/C tỷ_lệ/N này/P cũng/R đã/R là/V bước_tiến/N vượt_bậc/V khi/N tăng/V tới/E 1 2%/M so/V với/E năm_ngoái/N
+Tuy_nhiên/C xét/V riêng/A trong/E khu_vực/N Việt_Nam/Np vẫn/R nằm/V ở/E nhóm/N sau/E khi/N đứng/V thứ/N 9/15/M cùng_với/C Trung_Quốc/Np /V xếp/V thứ/N 12/15/M /Nu
+Hàn_Quốc/Np không_chỉ/C dẫn_đầu/V khu_vực/N mà_còn/C đứng_số/V một/M thế_giới/N với/E tốc_độ/N khủng/N 28,6/M Mb/giây/Np
+Các/L nước/N khác/A của/E châu/N Á/Np lọt/V vào/E top/N 10/M thế_giới/N là/V Hong_Kong/Np /V thứ_tư/N /A Singapore/Np /M thứ/N 7/M /Nu và/CC Nhật/Np /V thứ/N 8/M /Nu
+Những/L vị_trí/N còn/V lại/R của/E top/N 10/M thuộc/V về/E Na_Uy/Np Thụy_Điển/Np Thụy_Sĩ/Np Phần_Lan/Np Đan_Mạch/Np và/CC Mỹ/Np
+Về/V kết_nối/V Internet/Np trên/E thiết_bị/N di_động/N tốc_độ/N của/E Việt_Nam/Np là/V 5,3/M Mb/giây/Np chỉ/R cao/A hơn/R Malaysia/Np và/CC Ấn/V Độ/N trong/E khu_vực/N trong/E khi/N Australia/Np dẫn_đầu/V với/E 15,7/M Mb/giây/Np
+Akamai/Np là/V công_ty/N có/V trụ_sở/N tại/E Mỹ/Np cung_cấp/V nền_tảng/N nội_dung/N và/CC phân_phối/V mạng/N máy_tính/N lớn/A nhất/A thế_giới/N
+Kết_quả/N khảo_sát/V mà/C Akamai/Np đưa/V ra/R theo/V quý/N từ/E năm/N 2008/M đến/E nay/P được/V giới/N chuyên_môn/N đánh_giá/V cao/A về/E độ/N tin_cậy/V

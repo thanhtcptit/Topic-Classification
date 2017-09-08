@@ -1,0 +1,7 @@
+Nga/Np phát_triển/V tên_lửa/A hành_trình/N chính_xác/A tầm/N bắn/V 1 0/M km/Nu
+Tổng_giám_đốc/N tập_đoàn/N tên_lửa/V chiến_thuật/N /V KTRV/Np /V Nga/Np Boris_Obnosov/Np cho_biết/V nước/N này/P sẽ/R phát_triển/V một/M loạt/Nc tên_lửa/N hành_trình/N không/R đối/V đất/N chính_xác/A có/V khả_năng/N tấn_công/V  /V mục_tiêu/N từ/E khoảng_cách/N 1 0/M km/Nu Tass/Np ngày/N 20/7/M đưa/V tin/N
+Chúng_tôi/P đang/R phát_triển/V một/M loạt/Nc phiên_bản/N tên_lửa/A mới/R với/E tầm/N bắn/V 200/M km/Nu 400/M km/Nu 600/M km/Nu và/CC 1 0/M km/Nu
+Tôi/P tin/V rằng/C trước/E năm/N 2020/M chúng_tôi/P sẽ/R chắc_chắn/V giới_thiệu/V loạt/N tên_lửa/N này/P ông/Nc Obnosov/Np tuyên_bố/V khi/N được/V hỏi/V về/E việc/N liệu/V Nga/Np có/V sản_xuất/V phiên_bản/N tương_tự/A tên_lửa/V hành_trình/N tầm/N xa/A có/V độ_chính_xác/N cao/A JASSM/Np của/E Mỹ/Np hay/C không/R
+Theo/E quan_chức/N quân_sự/N Nga/Np việc/N phát_triển/V loạt/N tên_lửa/N chính_xác/A có/V tầm/N bắn/V khác_nhau/A là/V cần_thiết/A bởi/E trong/E một_số/L trường_hợp/N việc/N sử_dụng/V tên_lửa/N tầm/N xa/A không/R đạt/V được/R hiệu_quả/N cao/A
+Tên_lửa/N hành_trình/N chính_xác/A cao/A JASSM/Np của/E Mỹ/Np được/V dùng/V để/E tấn_công/V các/L mục_tiêu/N cố_định/A và/CC di_động/V trong/E mọi/L điều_kiện/N thời_tiết/N từ/E khoảng_cách/N ngoài/E tầm/N hoạt_động/V của/E lưới/N phòng_không/V đối_phương/N
+Tên_lửa/N JASSM/Np có/V tầm/N bắn/V 370/M km/Nu trong/E khi/N mẫu/N cải_tiến/V  /A JASSM-ER/Np có_thể/R tấn_công/V mục_tiêu/N từ/E 1 0/M km/Nu

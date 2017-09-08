@@ -1,0 +1,13 @@
+Chứng_khoán/N Rồng_Việt/Np chuyển/V 70/M triệu/N cổ_phiếu/V sang/V sàn/N HOSE/Np
+Sáng/N nay/P hơn/A 70/M triệu/M cổ_phiếu/N của/E Công_ty_cổ_phần/N Chứng_khoán/Np Rồng_Việt/Np /M mã/N CK/Np VDS/Np /V chính_thức/A giao_dịch/V trên/E sàn/N HOSE/Np với/E giá/N tham_chiếu/N 11 0/M đồng/Nu một/M cổ_phiếu/N
+Biên_độ/N dao_động/V giá/N trong/E phiên/N giao_dịch/V đầu_tiên/A +/M //X 20%/M
+Chưa/R đầy/A nửa/L tiếng/N xuất_hiện/V trên/E bảng/N điện_tử/N HOSE/Np gần/A 37 0/M cổ_phiếu/N được/V sang_tay/V với/E giá/N bình_quân/A 13 0/M đồng/Nu một/M cổ_phiếu/N
+Vốn/N hoá/V thị_trường/N của/E công_ty/N được/V đẩy/V lên/R xấp_xỉ/A 938/M tỷ/N đồng/N
+Trước/E đó/P Chứng_khoán/Np Rồng_Việt/Np đã/R huỷ/V niêm_yết/V trên/E sàn/N HNX/Np để/E thực_hiện/V thủ_tục/N chuyển/V sàn/N
+Trong/E phiên/N giao_dịch/V cuối_cùng/A giá/N cổ_phiếu/N tăng/V gần/A 10%/M so/V với/E phiên/N trước/E đó/P và/CC đóng_cửa/V tại/E mức/N 13 0/M đồng/Nu một/M cổ_phiếu/N Theo/V báo_cáo/V tài_chính/N hợp_nhất/V vừa/R được/V công_bố/V doanh_thu/N và/CC lợi_nhuận/N sau/E thuế/N quý/N II/2017/Np lần_lượt/R đạt/V 103/M tỷ/N đồng/N và/CC 33/M tỷ/N đồng/N tương_ứng/V tăng/V gấp/V đôi/M và/CC gấp/V 3/M lần/N so/V với/E cùng/A kỳ/N năm_ngoái/N
+Luỹ/Np kế/V 6/M tháng/N đầu/N năm/N doanh_thu/N hơn/A 166/M tỷ/N đồng/N lợi_nhuận/N sau/E thuế/N trên/E 57/M tỷ/N
+Tổng/N tài_sản/N của/E công_ty/N vào_khoảng/X 1 2/M tỷ/N đồng/N trong/E đó/P tài_sản/N ngắn_hạn/N chiếm/V tới/E 97%/M chủ_yếu/A là/V các/L khoản/N cho/V vay/V từ/E giao_dịch/N ký_quỹ/V và/CC hợp_tác/V đầu_tư/V
+Cơ_cấu/N nguồn/N vốn/N cân_bằng/A giữa/E nợ/N phải/V trả/V và/CC vốn/N chủ_sở_hữu/N
+Ban/N lãnh_đạo/N công_ty/N đánh_giá/V thị_trường_chứng_khoán/X Việt_Nam/Np diễn_biến/V tích_cực/A với/E giá_trị/N thanh/N khoản/N tốt/A hơn/R so/V với/E cùng/A kỳ/N năm/N trước/A là/V yếu_tố/N chính/A tác_động/V đến/E khoản/N biến_động/V lợi_nhuận/N
+Hoạt_động/V tự/P doanh/V giao_dịch/V ký_quỹ/N và/CC kinh_doanh/V môi_giới/N mang/V lại/R nguồn/N thu/V đáng_kể/A cho/E công_ty/N
+Ngoài_ra/C doanh_thu/N từ/E các/L tài_sản/N tài_chính/N bao_gồm/V việc/N bán/V các/L tài_sản/N tài_chính/N chênh_lệch/A đánh_giá/V đầu_tư/V tiền/N lãi/N và/CC cổ_tức/N phát_sinh/V …/N cũng/R ghi_nhận/V 28,6/M tỷ/N đồng/N

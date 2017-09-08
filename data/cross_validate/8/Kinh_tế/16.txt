@@ -1,0 +1,9 @@
+Vietcombank/N được/V bình_chọn/N là/V ngân_hàng/N uy_tín/A nhất/A VN/Np 2017/M
+Công_ty/N cổ_phần/N Báo_cáo/V đánh_giá/N VN/Np Vietnam_Report/Np vừa/R công_bố/V danh_sách/N Top/Np 10/M Ngân_hàng/N thương_mại/N VN/Np uy_tín/N năm/N 2017/M trong/E đó/P Ngân_hàng/N TMCP/Np Ngoại_thương/N VN/Np Vietcombank/Np được/V bình_chọn/V ở/E vị_trí/N dẫn_đầu/N trong/E bảng/N xếp_hạng/N
+Danh_sách/N được/V đơn_vị/N đánh_giá/V xây_dựng/V dựa/V trên/E sự/N tổng_hợp/V các/L đánh/N giá_như/N báo_cáo/V tài_chính/N kiểm_toán/N năm/N gần/A nhất/R điều_tra/V khảo_sát/V về/V mức_độ/N nhận_biết/V và/CC sự/N hài_lòng/V của/E khách/N hàng/N với/E các/L sản/N phẩmdịch_vụ/N của/E ngân_hàng/N cũng/R như/A phỏng_vấn/V sâu/A nhóm/N chuyên_gia/N tài_chính/N về/V vị_thế/N và/CC uy_tín/N của/E các/L ngân_hàng/N trong/N ngành/N
+Ngoài_ra/C đơn_vị/N đánh_giá/N còn/R điều_tra/V khảo_sát/V bản_thân/N các/L ngân_hàng/N được/V thực_hiện/V trong/E tháng/N 52017/M về/V quy_mô/N vốn/N tốc_độ/N tăng_trưởng/V doanh_thu/N lợi_nhuận/V kế_hoạch/N hoạt_động/V trong/N năm/N
+5/M tháng/N đầu/N năm/N 2017/M huy_động/N vốn/N của/E Vietcombank/Np tăng_trưởng/V ở/V mức/N hơn/A 6/M cao/A hơn/R mức/N bình_quân/N của/E toàn/N ngành/N
+Tín_dụng/N tăng_trưởng/N tương_đương/A 10/M cao/A nhất/A trong/E nhiều/A năm/N trở_lại/V đây/P
+Chất_lượng/N tín_dụng/N được/V kiểm_soát/V với/E tỉ_lệ/N nợ_xấu/N và/CC tỉ_lệ/N nợ/N nhóm/N 2/M được/V khống_chế/N ở/V mức/N tương_đương/V 148/M
+Lợi_nhuận/N trước/N thuế/N đạt/V trên/N 4300/M tỉ/M đồng/Nu tăng/V 26/M so/V với/E cùng/N kì/N năm/N trước/A
+Tổ_chức/N xếp_hạng/V tín_nhiệm/N quốc_tế/N Moody/Np s/N mới_đây/N cũng/R đã/R công_bố/V Báo_cáo/N xếp_hạng/N tín_nhiệm/N Vietcombank/Np với/E đánh_giá/N ngân_hàng/N có/V chất_lượng/N tài_sản/N tốt/A nhất/A trong/E các/L ngân_hàng/N tại/N VN/Np

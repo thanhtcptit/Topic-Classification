@@ -1,0 +1,12 @@
+Coi_chừng/N mở/V trang/N applecom/N nhưng/C không/R phải/A của/N Apple/Np
+Trong/E khi/N nhìn/V tổng_thể/A thì/C phương_thức/N tấn_công/V này/N đã/R rất/R cũ/A nhưng/C gần/A đây/P nó/P lại/R nổi/V lên/R gắn/V với/E những/L phiên_bản/N của/E các/L trình_duyệt/N phổ_biến/N hiện_nay/N như/C Google_Chrome/Np Mozilla_Firefox/Np và/CC Opera/Np
+Các/L trình_duyệt/N này/P thể_hiện/V các/L kí_tự/N unicode/N trên/E các/L tên_miền/N như/C những/L kí_tự/N thông_thường/A điều/N khiến/V cho/E chúng_ta/N không_thể/A nhận/V ra/R đó/P là/V những/L tên_miền/N lừa_đảo/N
+Ví_dụ/V như/A trong/E trường_hợp/N kẻ/V lừa_đảo/V hoàn_toàn/A có_thể/A đăng_kí/V tên_miền/N xnpple43dcom/V thành/N tên_miền/N tương_tự/A như/C аpple/N
+com/N chuyên_gia/N an_ninh/N mạng/N người/N Trung_Quốc_Xudong_Zheng/Np giải_thích/V
+Đây/P là/V một/M ví_dụ/N cụ_thể/A
+Trong/E hình_ảnh/N này/P аpple/V
+com/N sử_dụng/V kí/N tự/N dạng/N mẫu/N Cyrillic/Np а/V U/Np 0430/M thay/N cho/V kí_tự/V theo/E mẫu/N ASCII/Np a/N U/Np 0041/M để/E làm/V một/M trang_web/N giả/A
+Điều/N này/P được/V gọi_là/N phương_thức/N tấn/N công_bằng/A một/M từ/N cùng/N chữ/N
+Hiện_tại/N phương_thức/N tấn_công/V này/N không/R có/V tác_dụng/N trên/E các/L trình_duyệt/N Internet_Explorer/Np Microsoft_Edge/Np và/CC and/N Safari/Np
+Đối_với/N Chrome/Np sau/E khi/N có/V những/L cảnh_báo/N về/V lỗi/N kĩ_thuật/N này/P từ/E hồi/N tháng/N 1/M họ/N đã/R tìm/V cách/N khắc_phục/V
+Trong/E khi/N việc/N sửa_chữa/V lỗ_hổng/N này/P sẽ/R được/V thực_hiện/V trên/E trình_duyệt/N Chrome_Canary/Np nó/P sẽ/R được/V đưa/V vào/R phiên_bản/N Chrome/Np 58/M được/N thông_báo/V ra_mắt/V vào/E tuần/N tới/V

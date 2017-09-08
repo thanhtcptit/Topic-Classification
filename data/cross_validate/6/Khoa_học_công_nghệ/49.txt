@@ -1,0 +1,13 @@
+Obi_Worldphone/Np giới_thiệu/V MV1/Np giảm_giá/V SF1/Np và/CC SJ15/M
+Nối_tiếp/N kiểu_dáng/N thiết_kế/V đặc_trưng/A của/E hai/M đàn_anh/N SF1/Np và/CC SJ15/M ra_mắt/N năm/N 2015/M MV1/Np thuộc/V nhóm/N smartphone/N màn_hình/N lớn/A IPS/Np 5/M inch/N phablet/N với/E độ_phân_giải/N HD/Np 720p/M 294ppi/N
+Tầm/N giá/N bán/V ra/R thị_trường/N rơi/V vào_khoảng/N 32/M triệu/N đồng/N MV1/Np ở/V phân/N khúc/N bình_dân/A sở_hữu/N chip/N xử_lí/N bốn/N nhân/N Qualcomm_Snapdragon/Np 212/M 13GHz/N và/CC 1GB/M RAM/Np
+Máy/N có/V bộ_nhớ_trong/N 16GB/M mở_rộng/N tối_đa/N 64GB/N qua/V thẻ/N nhớ/V microSD/N
+Máy/N có/V camera/N sau/N 8MP/N và/CC camera/N trước/N 2MP/M
+Dùng/V hệ_điều_hành/N Android/Np 51/M Obi/Np MV1/Np là/V smartphone/N hai/M SIM/Np MicroSIM/V và/CC NanoSIM/N hỗ_trợ/V kết/N nối_mạng/N 4G/N 3G/N và/CC GSM/Np WiFi/V 80211b/N gn/N Bluetooth/Np
+không/R bao_gồm/V kết_nối/N NFC/Np
+Pin/N 2500/M mAh/N liền/N khối/N và/CC âm_thanh/N nổi/V DTS/Np
+Bên_cạnh/N giới_thiệu/V MV1/Np Obi_Worldphone/Np công_bố/V giá/N bán_lẻ/V mới/A cho/V hai/M sản_phẩm/N ra_mắt/N 2015/M gồm/N Obi/Np SF1/Np phiên_bản/V 3GB/M RAM/Np là/V 5499000/M VNĐ/N và/CC Obi/Np SJ15/M giá/N 2699000/M VNĐ/N
+Obi/N SF1/Np nằm/V ở/E phân/N khúc/N smartphone/N 5/M inch/N tầm/N trung/N sở_hữu/V đến/E 3GB/M RAM/Np công_nghệ/N âm_thanh/N vòm/N Dolby_Audio/Np
+Camera/Np 13MP/N với/E cảm_biến/N Sony_Exmor/Np
+Obi/N SJ15/M cũng/R là/V smartphone/N 5/M inch/N giá/N mềm/A hơn/R có/V Pin/Np 3000/M mAh/N
+Mức/N giá/N mới/A cho/V phép/N tiếp_cận/V bộ/N ba/N sản_phẩm/N có/V thiết_kế/N đặc_trưng/A riêng/A của/E Obi/Np dễ_dàng/A hơn/R

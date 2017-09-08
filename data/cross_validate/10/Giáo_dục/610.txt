@@ -1,0 +1,6 @@
+Đại_học/N Dược/Np lấy/V 26,75/M điểm/N
+Đại_học/N Dược_Hà_Nội/Np công_bố/V điểm/N trúng_tuyển/V đại_học/N hệ/N chính_quy/V ngành/N Dược/Np là/V 26,75/M tổ_hợp/N các/L môn/N xét/V tuyển/V là/V Toán/Np Lý/Np Hóa/Np ​/V Những/L thí_sinh/N trúng_tuyển/V nộp/V bản_chính/N Giấy/N chứng_nhận/V kết_quả/N thi/V THPT/Np quốc_gia/N năm/N 2016/M cho/E trường/N để/E khẳng_định/V nhập_học/V hạn/N cuối/N nộp/V là/C hết/V 17h30/M ngày/N 19/8/M
+Thí_sinh/N có_thể/A nộp/V trực_tiếp/A tại/E trường/N hoặc/CC qua/V bưu_điện/N bằng/E thư/N chuyển_phát/V nhanh/A
+Thí_sinh/N không/R nộp/V đầy_đủ/A giấy_tờ/N trên/E trong/E thời_gian/N quy_định/N xem/V như/C từ_chối/V nhập_học/V
+Theo/E đó/P năm/N nay/P Đại_học/N Dược_Hà_Nội/Np có/V 617/M thí_sinh/N trúng_tuyển/V
+Trước/E đó/P nhà_trường/N đã/R tuyển/V thẳng/A 71/M thí_sinh/N thuộc/V diện/N ưu_tú/V đạt/V giải/N nhất/A nhì/N ba/M môn/N Hóa_học/N kỳ/N thi/V học_sinh/N giỏi/A quốc_gia/N

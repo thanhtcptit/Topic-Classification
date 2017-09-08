@@ -1,0 +1,20 @@
+39%/M thanh_niên/N châu/N Á/Np muốn/V mua/V ôtô/N không/R người/N lái/V
+Microsoft/Np châu/N Á/Np vừa/R tiến_hành/V một/M cuộc/N khảo_sát/V đối_với/E thanh_niên/N tại/E Australia/Np Trung_Quốc/Np Hong_Kong/Np Ấn/V Độ/N Indonesia/Np Nhật_Bản/Np Hàn_Quốc/Np Malaysia/Np New_Zealand/Np Philippines/Np Singapore/Np Đài_Loan/Np Thái_Lan/Np và/CC Việt_Nam/Np để/E hiểu/V hơn/R về/E vai_trò/N công_nghệ/N với/E giới/N trẻ/A  /M Kết_quả/N phát_kiến/V công_nghệ/N số/N 1/M mà/C công_dân/N trẻ/A cảm_thấy/V có/V nhiều/A ảnh_hưởng/N nhất/R tới/V cuộc_sống/N chính/T là/V trí_tuệ_nhân_tạo/X /M AI/Nu /M  /EOS
+Những/L người/N được/V hỏi/V cho/V rằng/C tương_lai/N gắn/V liền/R với/E AI/Np sẽ/R rực_rỡ/A
+39%/M muốn/V dùng/V xe_hơi/N có/V kết_nối/V hoặc/CC không/R người/N lái/V
+36%/M nghĩ/V rằng/C các/L robot/N phần_mềm/N sẽ/R giúp/V cải_tiến/V năng_suất/N và/CC 19%/M tin_tưởng/V robots/N sẽ/R là/V bạn/N đồng_hành/V của/E con_người/N
+Giới/N trẻ/A châu/N Á/Np cũng/R tỏ/V ra/R lạc_quan/A khi/N họ/P đồng_thuận/V rằng/C AI/Np và/CC những/L công_nghệ/N mới/A sẽ/R giúp/V họ/P đạt/V năng_suất/N hơn/A kết_nối/V tốt/A hơn/R với/E những/L người/N khác/A và/CC cải_thiện/V sức_khỏe/N cả/P vật_lý/N lẫn/V tinh_thần/N
+Đại_diện/N cho/E 60%/M giới/N trẻ/A thế_giới/N thanh_niên/N tại/E khu_vực/N châu/N Á/Np –/V Thái_Bình_Dương/Np được/V đánh_giá/V là/C có/V hiểu_biết/N tốt/A và/CC ủng_hộ/V các/L sản_phẩm/N mới/R có/V ứng_dụng/N AI/Np
+Điều/N này/P được/V lý_giải/V là/V do/E nền/N kinh_tế/N tăng_trưởng/V nhanh/A
+Việc/N gia_tăng/V tiêu_chuẩn/N sống/V giúp/V người/N trẻ/A châu/N Á/Np nắm_bắt/V tốt/A làn_sóng/N AI/Np như/C xe_hơi/N không/R người/N lái/V hay/R robot/N
+Không_chỉ/C là/V người/N tiêu_dùng/V đơn_thuần/A lực_lượng/N chuyên_gia/N công_nghệ/N tại/E châu/N Á/Np cũng/R được/V đánh_giá/V là/V người/N tiên_phong/A
+Microsoft/Np đưa/V ví_dụ/V về/E trung_tâm/N nghiên_cứu/V của/E hãng/N tại/E Trung_Quốc/Np nơi/N hơn/A 200/M chuyên_gia/N đang/R đưa/V các/L thành_tố/N AI/Np vào/E trong/E những/L sản_phẩm/N mà/C nhiều/A người/N đang/R sử_dụng/V hàng/N ngày/N
+Tại/E Ấn/V Độ/N các/L chuyên_gia/N của/E hãng/N đã/R hợp_tác/V cùng/A nhóm/N nghiên_cứu/V nông_nghiệp/N ICRISAT/Np xây_dựng/V một/M ứng_dụng/N sử_dụng/V AI/Np để/E thu_thập/V phân_tích/V các/L dữ_liệu/N gieo_trồng/N và/CC thời_tiết/N nhằm/V giúp/V nông_dân/N canh_tác/V tốt/A hơn/R
+Dự_án/N thử_nghiệm/V năm_ngoái/N đã/R cho/V kết_quả/N vụ/N mùa/N tăng/V 30%/M về/E sản_lượng/N “/M Sự_thật/N là/V AI/Np đang/R ở/V thời_điểm/N trứng_nước/N
+Nhưng/C sẽ/R không/R lâu/A nữa/R AI/Np có_mặt/V ở/E mọi/L thiết_bị/N mọi/L nơi/N như/C ôtô/N các/L thiết_bị/N bếp/N nhà/N khu_phố/N nơi/N làm_việc/V
+Và/C chúng_ta/P sẽ/R giao_tiếp/V với/E AI/Np
+Điều/N này/P làm/V nhiều/A người/N lo_sợ/V
+Bởi/E khoa_học_viễn_tưởng/X từng/R có/V thời_gian/N dài/A mô_tả/V về/E máy/N thông_minh/A nhưng/C phi/N đạo_đức/N cố/V cai_trị/V con_người/N không/R ngừng/V
+Nhưng/C không/R phải/V vậy/P
+Nếu/C thực_thi/V đúng/A AI/Np hứa_hẹn/V sẽ/R mang/V lại/R những/L điều/N tốt_đẹp/A và/CC an_toàn/A hơn/R cho/E thế_giới/N
+Và/C cuộc_sống/N con_người/N khi/N đi/V cùng/A AI/Np sẽ/R năng_suất/N thịnh_vượng/V với/E kết_quả/N tốt_đẹp/A hơn/A bao_gồm/V cả/P khu_vực/N đang/R phát_triển/V mạnh_mẽ/A là/V châu/N Á”/Np ông/Nc  /Np Ralph_Haupter/Np Chủ_tịch/N Microsoft/Np châu/N Á/Np phân_tích/V

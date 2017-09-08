@@ -1,0 +1,14 @@
+Công_nghệ/N biến/V da/N người/N thành/V màn_hình/N cảm_ứng/N di_động/V
+Xinhua/Np hôm/N 11/8/M đưa/V tin/N công_nghệ/N i/A Skin/Np do/E các/L nhà_khoa_học/N tại/E Viện_Max_Plank_Đức/Np thiết_kế/V sẽ/R cho_phép/V mọi/L người/N điều_khiển/V điện_thoại/N thông_minh/A bằng/E cách/N vuốt/V những/L hình/N xăm/V dán/V trên/E mu/N bàn_tay/N
+Thực_chất/N i/N Skin/Np là/V những/L máy/N cảm_biến/V siêu/Z mỏng/A có_thể/R dán/V ở/E vị_trí/N linh_hoạt/A trên/E da/N giống/N một/M hình/N xăm/V tạm_thời/A giúp/V biến/V da/N người/N thành/V một/M màn_hình/N cảm_ứng/N lớn/A
+Theo/E nhà_phát_triển/N Martin_Weigel/Np công_nghệ/N này/P sẽ/R tạo/V nên/C một/M cuộc/N cách_mạng_hóa/V trong/E thế_giới/N thiết_bị/N đeo/V tay/N
+Weigel/Np cho_biết/V Những/L thiết_bị/N điện_tử/N hiện_nay/N chủ_yếu/A sử_dụng/V các/L linh_kiện/N cứng/A gây/V cảm_giác/N khó_chịu/A khi/N mang/V trên/E cơ_thể/N và/CC hạn_chế/V về/E vị_trí/N sử_dụng/V như/C cổ_tay/N hoặc/CC trên/E đầu/N
+Nhưng/C máy/N cảm_biến/V của/E chúng_tôi/P là/V loại/N rất/R linh_hoạt/A và/CC dễ/A thay_đổi/V kích_cỡ/N nên/C có_thể/R dán/V ở/E nhiều/A vị_trí/N ví_dụ/V như/C phía/N sau/N tai/N hoặc/CC mu/V bàn_tay/N
+Nhờ/C vậy/P chúng_ta/P sẽ/R có/V màn_hình/N nhập/V dữ_liệu/N lớn/A hơn/A hẳn/R các/L thiết_bị/N điện_tử/N thông_thường/A Khác/A với/E màn_hình/N plasma/N hoặc/CC LED/Np iSkin/Np được/V làm/V từ/E cao_su/N silicon/N có/V tính/N tương_hợp/A sinh_học/N do_đó/C các/L máy/N cảm_biến/V có_thể/R nhận_biết/V cử/V động_chạm/V ngay/T cả/T khi/N bị/V kéo/V căng/A hoặc/CC uốn/V cong/A
+Với/E mẫu/N thử_nghiệm/V người/N dùng/V có_thể/R trả_lời/V các/L cuộc_gọi/N đến/E chơi/V nhạc/N điều_chỉnh/V âm_lượng/N điện_thoại/N bằng/E cách/N chạm/V vào/E da/N
+Nhóm/N phát_minh/N cũng/R thiết_kế/V một/M bàn_phím/N cuộn/V cho_phép/V đánh_máy/V trên/E mu/N bàn_tay/N
+Weigen/Np chia_sẻ/V họ/P lấy/V cảm_hứng/N sáng_tạo/V máy/N cảm_biến/V da/N từ/E công_nghệ/N robot/V
+Lúc/N đầu/N công_nghệ/N này/P được/V dùng/V để/E đem/V đến/V cho/E những/L con/Nc robot/N cảm_giác/N quen_thuộc/A với/E cơ_thể/N người/N và/CC da/N người/N
+Tuy_nhiên/C chúng_tôi/P đã/R xem_xét/V cách/N sử_dụng/V nó/P như/C một/M làn/Nc da/N thứ_hai/N trên/E cơ_thể/N để/E điều_khiển/V các/L thiết_bị/N di_động/V Công_nghệ/N mới/R còn/V được/R áp_dụng/V để/E tạo/V ra/R các/L bộ_phận/N có/V khả_năng/N cảm_nhận/V va_chạm/V áp_lực/N và/CC nhiệt_độ/N
+Nhưng_Wiegel/Np và/CC đồng_nghiệp/N vẫn/R ấp_ủ/V một/M kế_hoạch/N lớn/A hơn/R
+“/N Chúng_tôi/P đang/R nghiên_cứu/V cách/N sử_dụng/V cơ_thể/N như/C nguồn/N phát_điện/N và/CC khai_thác/V điện/N trực_tiếp/A từ/E thân_nhiệt/N hoặc/CC huyết_áp/N Wiegel/Np nói/V

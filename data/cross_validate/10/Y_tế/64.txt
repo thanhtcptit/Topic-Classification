@@ -1,0 +1,7 @@
+Dư/N mỡ/N nguy_cơ/N ung_thư/N cao/A
+Mỡ/N trong/E người/N dư/A quá/N mức/N đặc_biệt/A là/V vùng/N thắt_lưng/N là/V biểu_thị/N quan_trọng/A của/E chỉ_số/N khối/N cơ_thể/N BMI/Np trong/E sự/N gia_tăng/V nguy_cơ/N một_số/N ung_thư/N đã/R được/V biết/V liên_quan/V đến/E béo/N phì/N
+Một/M nghiên_cứu/N tổng_hợp/N gần/A đây/P thuộc/V Cơ_quan/N quốc_tế/N Nghiên_cứu/V ung_thư/N tại/E Lyon/Np Pháp/Np cho/V biết/V
+Nghiên_cứu/V 43419/M người/N có_tuổi/N trung_bình/A bị/V béo/N phì/A từ/E Đan_Mạch/Np Đức/Np Hi_Lạp/Np Hà_Lan/Np Bắc_Ireland/Np Na_Uy/Np và/CC Tây_Ban_Nha/Np trong/E 12/M năm/N có/V 1656/M trường_hợp/N ung_thư/N liên_quan/V béo/N phì/N
+Cụ_thể/A như/C ung_thư/N vú/N phụ_nữ/N sau/N mãn_kinh/N đại/V trực_tràng/N thực_quản/V dưới/N tâm/N vị/N gan/A bàng_quang/N tuỵ/N nội/N mạc/N tử_cung/N buồng_trứng/N và/CC thận/N
+Kết_quả/N cho/V thấy/V BMI/Np cao/A gia_tăng/V nguy_cơ/N ung_thư/N liên_quan/V béo/N phì/N là/V 11/M
+Tương_tự/N chu_vi/N vòng/A bụng/N và/CC tỉ_số/N chu_vi/N vòng/A bụng/N và/CC hông/N cao/A gia_tăng/N nguy_cơ/N ung_thư/N lần/N lượt_là/V 13/M và/N 15/M

@@ -1,0 +1,18 @@
+Bộ_trưởng/N Y_tế/N yêu_cầu/V truy/V trách_nhiệm/N vụ/N 18/M người/N bị/V tai_biến/V khi/N chạy/V thận/N
+Trưa/N 30/5/M Bộ_trưởng/N Kim_Tiến/Np đã/R đến/V Bệnh_viện/N Bạch_Mai/Np thăm_hỏi/V 10/M bệnh_nhân/N được/V chuyển/V đến/R từ/E Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np sau/E sự_cố/N nghi/V sốc/N phản_vệ/V khi/N chạy/V thận/N nhân_tạo/A
+Bộ_trưởng/N nhìn_nhận/V Đây/P là/V sự_cố/N y_khoa/N rất/R trầm_trọng/A  /EOS
+Bộ_trưởng/N yêu_cầu/V phải/V tìm/V ra/R nguyên_nhân/N xử_lý/V nghiêm/N sai_phạm/V nếu/C có/V
+Quan_trọng/A nhất_là/X ngành/N y_tế/N cần/V dốc/V toàn_lực/N cấp_cứu/V các/L bệnh_nhân/N còn/V lại/R
+Bệnh_viện/N Bạch_Mai/Np được/V đề_nghị/V khẩn_trương/V hỗ_trợ/V khoa/N Thận/N nhân_tạo/A Bệnh_viện/N Đa_khoa/N tỉnh/N Hoà_Bình/Np nhanh_chóng/A ổn_định/V để/E không/R gián_đoạn/V lâu/A quá_trình/N lọc/V máu/N chu_kỳ/N của/E hơn/A 100/M bệnh_nhân/N trên/E địa_bàn/N tỉnh/N  /M Bệnh_viện/N Bạch_Mai/Np cũng/R miễn_phí/V 100%/M những/L chi_phí/N ngoài/E bảo_hiểm_y_tế/N cho/E các/L nạn_nhân/N chuyển/V về/V điều_trị/V tại/E đây/P
+Khoa_Thận_Nhân/Np tạo/V Bạch_Mai/Np cũng/R sẽ/R cử/V cán_bộ/N lên/V Hòa_Bình/Np hỗ_trợ/V về/E mặt/N chuyên_môn/N
+Dự_kiến/V chiều/N cùng/A ngày/N phó_giáo_sư/N Nguyễn_Quốc_Anh/Np Giám_đốc/N Bệnh_viện/N Bạch_Mai/Np cùng/A giáo_sư/N Trần_Gia_Bình/Np Trưởng/Np khoa/N Hồi_sức/V tích_cực/A bệnh_viện/N lên/V Hòa_Bình/Np đón/V nốt/N một/M bệnh_nhân/N nặng/A còn/V lại/R về/E Hà_Nội/Np để/E thuận_tiện/V cho/E việc/N chăm_sóc/V
+10/M bệnh_nhân/N được/V chuyển/V đến/E Bệnh_viện/N Bạch_Mai/Np hiện/V tình_trạng/N sức_khỏe/N ổn_định/V
+Một/M người/N có/V các/L chỉ_số/N chưa/R ổn_định/A nên/C đang/R được/V lọc/V máu/N liên_tục/A dự_kiến/V trong/E thời_gian/N ngắn/A là/V có_thể/R tốt/A hơn/R
+Sáng/N 29/5/M 18/M người/N đang/R chạy/V thận/N bỗng_dưng/R có/V biểu_hiện/N nghi/V sốc/N phản_vệ/V
+7/M người/N không_thể/R qua/V khỏi/R một/M nữ/N bệnh_nhân/N đang/R trong/E tình_trạng/N nguy_kịch/A 10/M người/N được/V chuyển/V về/E Bệnh_viện/N Bạch_Mai/Np ngay/T trong/E đêm/N
+Bệnh_viện/N đa_khoa/N Hòa_Bình/Np phối_hợp/V với/E cơ_quan/N công_an/N niêm_phong/V máy_móc/N trang_thiết_bị/N và/CC thuốc_men/N tại/E Khoa_Thận/Np nhân_tạo/A để/E điều_tra/V
+Hiện_Khoa_Thận/Np nhân_tạo/A đã/R tạm/A dừng/V tiếp_nhận/V bệnh_nhân/N
+Nguyên_nhân/N gây/V tai_biến/N đang/R được/V điều_tra/V
+Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình_Trương_Quý_Dương/Np gửi/V lời/N xin_lỗi/V các/L bệnh_nhân/N và/CC gia_đình/N
+Bộ/N Y_tế/N đánh_giá/V đây/P là/V ca/N tai_biến/V y_khoa/N nghiêm_trọng/A nhất/R trong/E nhiều/A năm/N qua/V
+Cả/P nước/N mỗi/M năm/N có/V hàng/R triệu/M trường_hợp/N được/V lọc/V máu/N tại/E 1 0/M cơ_sở/N y_tế/N tại/E tất_cả/P các/L tuyến/N

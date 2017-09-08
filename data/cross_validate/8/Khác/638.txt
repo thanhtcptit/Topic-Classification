@@ -1,0 +1,25 @@
+5/M nhóm/N hacker/N Nga/Np nguy_hiểm/A nhất/A thế_giới/N
+Từng/R hoạt_động/V khá/R âm_thầm/A nhưng/C hacker/N Nga/Np đã/R nổi/V lên/R như/C một/M thế_lực/N ngầm/A trên/E không_gian/N mạng/N khi/N tấn_công/V hàng_loạt/N các/L mục_tiêu/N chính_phủ/N
+Sau/E nghi_vấn/N can_thiệp/V vào_cuộc/N bầu_cử/V Tổng_thống/N Mỹ/Np hacker/N Nga/Np lại/R được/V cho/V là/C có/V dính_líu/N đến/E tin_tức/N giả/A khiến/V nội_bộ/N Qatar/Np khủng_hoảng/V bị/V các/L nước/N trong/E khu_vực/N ngừng/V  /M quan_hệ/N ngoại_giao/N
+Theo/E IBTimes/Np có/V khá/R nhiều/A nhóm/N hacker/N Nga/Np hoạt_động/V và/CC không/R ít/A trong/E số/N đó/P có/V liên_hệ/V mật_thiết/A với/E chính_phủ/N nước/N này/P
+Có_thể/R kể/V đến/E 5/M cái/Nc tên/N nguy_hiểm/A nhất/R hoạt_động/V tích_cực/A nhất/A dưới/E đây/P Đây/P được/V xem/V là/C nhóm/N hacker/N tinh_nhuệ/A nhất/A với/E các/L thành_viên/N có/V kiến_thức/N tấn_công/V mạng/N uyên_thâm/V
+Còn/C được/R gọi_là/X Sofacy/Np Pawn_Storm/Np hay/C APT/Np 28/M nhóm/N hacker/N này/P có/V liên_quan/V đến/E cơ_quan/N tình_báo/N Nga/Np GRU/Np
+Fancy_Bear/Np bị/V buộc_tội/V tấn_công/V chống/V lại/R Ủy_ban/N Quốc_gia/Np Dân_chủ/Np Mỹ/Np /V DNC/Np /V cũng_như/C các/L tổ_chức/N tư_vấn/V cho/E chính_phủ/N Mỹ/Np
+Ngoài/E nước/N này/P nhóm/N còn/R được/V cho/V là/V can_thiệp/V vào/E hệ_thống/N mạng/N của/E các/L tổ_chức/N chính_phủ/N khác/A bao_gồm/V Đức/Np Đan_Mạch/Np Pháp/Np
+Những/L cuộc/N tấn_công/V của/E nhóm/N thường/R xảy_ra/V trước/E những/L thời_điểm/N nhạy_cảm/A như/C bầu_cử/V trưng_cầu_dân_ý/X
+Cũng/R có/V liên_kết/V với/E chính_phủ/N Nga/Np nhưng/C Cozy_Bear/Np lại/R được/V cho/V là/C nằm/V trong/E Dịch_vụ/N An_ninh/N Liên_bang/N Nga/Np /V FSB/Np /V
+Nhóm/N này/P chủ_yếu/A thực_hiện/V các/L cuộc/N tấn_công/V mạng/N theo/V phương_thức/N bí_mật/A lâu_dài/A thay_vì/V đánh/V nhanh/A rút_gọn/N
+Mục_tiêu/N của/E nhóm/N là/V các/L tổ_chức/N quân_sự/N nhà_máy/N sản_xuất/V xe_tăng/N và/CC các/L tổ_chức/N tư_nhân/N khác/A trên/E toàn_cầu/N
+So/V với/E Fancy_Bear/Np Cozy_Bear/Np có/V số_lượng/N thành_viên/N ít/A hơn/R
+Là/V một/M nhóm/N ít/A được/V biết/V đến/R nhưng/C Turla/Np là/V nhóm/N hacker/N hoạt_động/V cực_kỳ/R hiệu_quả/N của/E Nga/Np
+Trong/E một/M thập_niên/N hoạt_động/V nhóm/N này/P được/V xem/V là/C tác_giả/N của/E vụ/N tấn_công/V chống/V lại/R Bộ/N Quốc_Phòng_Mỹ/Np /V DoD/Np /V vào/E năm/N 2008/M  /EOS
+Ngoài_ra/C nạn_nhân/N của/E nhóm/N này/P còn/R có/V một_số/L cơ_quan/N chính_phủ/N quốc_tế/N các/L đại_sứ_quán/N cũng_như/C các/L trung_tâm/N y_tế/N phòng_thí_nghiệm/N nghiên_cứu/V dược_phẩm/N
+Gần/A đây/P các/L nhà/N bảo_mật/V còn/R phát_hiện/V nhóm/N có/V liên_quan/V đến/E việc/N giấu/V và/CC điều_khiển/V mã/N độc/A trong/E tài_khoản/N Instagram/Np của/E Britney_Spears/Np và/CC can_thiệp/V vào/E hệ_thống/N các/L nhà_cung_cấp/N Internet/Np qua/V vệ_tinh/N tại/E Trung_Đông/Np
+Nhóm/N này/P cũng/R được/V xem/V là/C có/V liên_hệ/V mật_thiết/A với/E các/L tổ_chức/N tình_báo/N thuộc/V chính_phủ/N Nga/Np
+Năm/N 2015/M nhóm/N nhận/V trách_nhiệm/N tấn_công/V website/N của/E chính_phủ/N Đức/Np và/CC của/E thủ_tướng/N Angela_Merkel/Np
+Hiện/N khá/R ít/A thông_tin/N về/E nhóm/N này/P nhưng/C các/L chuyên_gia/N đánh_giá/V  /A CyberBerkut/Np cực_kỳ/A nguy_hiểm/A
+Thông_tin/N chi_tiết/A các/L lỗ_hổng/N của/E Yahoo/Np bị/V phơi_bày/V năm_ngoái/N đã/R để/V lại/R hậu_quả/N nặng_nề/A khi/N hàng/R triệu/M tài_khoản/N người/N dùng/V bị/V rò_rỉ/V và/CC Yahoo/Np cũng/R lao_đao/V
+Mặc_dù/C chưa/R rõ/A ai/P tấn_công/V hãng/N này/P nhưng/C các/L chuyên_gia/N cho/V rằng/C nhóm/N hacker/N thực_hiện/V phi_vụ/N trên/E có/V liên_kết/V với/E Nga/Np
+Các/L chuyên_gia/N cho_biết/V cơ_quan/N tình_báo/N Nga/Np FSB/Np đã/R tuyển_dụng/V 2/M hacker/N gồm/V Karim_Baratov/Np /V một/M người/N Kazakhstan/Np sống/V ở/E Canada/Np /A và/CC Alexsey_Belan/Np /V một/M tội_phạm/N mạng/N Nga/Np hiện/N bị/V FBI/Np truy_nã/V /A tấn_công/V vào/E Yahoo/Np và/CC đánh_cắp/V tài_khoản/N người/N dùng/V
+Sau/E cuộc/N tấn_công/V một/M lượng/N lớn/A dữ_liệu/N của/E các/L nhà_báo/N quan_chức/N chính_phủ/N và/CC các/L công_ty/N khác/A đã/R được/V cung_cấp/V cho/E Nga/Np
+Tuy_nhiên/C chính_phủ/N nước/N này/P vẫn/R im_lặng/V trước/E các/L cáo_buộc/V

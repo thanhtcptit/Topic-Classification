@@ -1,0 +1,15 @@
+1/M 000/M cán_bộ/N cấp/N cao/A trong/E diện/N kiểm_tra/V giám_sát/V tài_sản/N
+Sáng/N 27/5/M bà/N Lê_Thị_Thủy_Phó/Np chủ_nhiệm/N Ủy_ban/N Kiểm_tra/V Trung_ương/N cho_biết/V Bộ/N Chính/T trị/V vừa/R ban_hành/V quy_định/N số/N 85/M về/E  /N kiểm_tra/V giám_sát/V việc/N kê_khai/V tài_sản/N của/E cán_bộ/N diện/N Bộ/N Chính/T trị/V Ban_bí_thư/N quản_lý/V
+Chủ_thể/N của/E công_việc/N kiểm_tra/V giám_sát/V này/P là/V Bộ/N Chính/T trị/V Ban_bí_thư/N và/CC Ủy_ban/N kiểm_tra/V Trung_ương/N
+Số_lượng/N cán_bộ/N chịu/V tác_động/V của/E quy_định/N khoảng/N 1/M 000/M người/N bà/N Thủy/Np nói/V và/CC giải_thích/V thêm/R không/R phải/V tất_cả/P cán_bộ/N thuộc/V diện/N Bộ/N Chính/T trị/V Ban_bí_thư/N quản_lý/V đều/R sẽ/R được/V kiểm_tra/V giám_sát/V
+Công_việc/N nêu/V trên/E chỉ/R tiến_hành/V nếu/C có/V 3/M yếu_tố/N
+Đầu_tiên/N khi/N cơ_quan/N và/CC tổ_chức/V có/V thẩm_quyền/N ban_hành/V kế_hoạch/N yêu_cầu/V kiểm_tra/V giám_sát/V
+Tiếp_theo/V trường_hợp/N xuất_hiện/V đơn/N thư/N kiến_nghị/V phản_ánh/V có/V căn_cứ/N về/E việc/N kê_khai/V tài_sản/N không/R trung_thực/A của/E cán_bộ/N
+Và/C cuối_cùng/A khi/N cán_bộ/N có/V dấu_hiệu/N vi_phạm/V các/L quy_định/N của/E Đảng_Nhà/Np nước/N về/E kê_khai/V tài_sản/N
+Theo/E lãnh_đạo/N Ủy_ban/N Kiểm_tra/V Trung_ương/N các/L quy_định/N hiện_hành/V về/E kê_khai/V tài_sản/N thu_nhập/N và/CC kiểm_tra/V giám_sát/V vẫn/R triển_khai/V bình_thường/A không/R phải/V vì/E có/V quy_định/N 85/M mà/C thay_đổi/V
+Điều/N này/P được/R hiểu/V là/C quy_định/N 85/M chỉ/R áp_dụng/V với/E cán_bộ/N diện/N Bộ/N Chính/T trị/V Ban_bí_thư/N quản_lý/V và/CC được/V áp_dụng/V khi/N có/V 3/M yếu_tố/N cần_thiết/A để/E cơ_quan_chức_năng/N vào_cuộc/V
+Quá_trình/N kiểm_tra/V giám_sát/V sẽ/R xem_xét/V tài_sản/N của/E cán_bộ/N và/CC vợ/N hoặc/CC chồng_con/V  /N chưa/R thành_niên/A
+Nếu/C cơ_quan_chức_năng/N phát_hiện/V cán_bộ/N nào/P kê_khai/V tài_sản/N không/R trung_thực/A thì/C sẽ/R xử_lý/V theo/E quy_định/N của/E Đảng/Np và/CC Nhà_nước/N
+Các/L cơ_quan/N của/E Đảng/Np đang/R sửa_đổi/V quy_định/N về/E xử_lý/V kỷ_luật/N đảng_viên/N vi_phạm/V trong/E đó/P có/V hình_thức/N xử_lý/V nếu/C kê_khai/V tài_sản/N không/R trung_thực/A không/R đầy_đủ/A bà/N Thủy/Np nói/V và/CC cho_biết/V các/L quy_định/N liên_quan/V đến/E lĩnh_vực/N này/P cũng/R sẽ/R được/V Quốc_hội/N Chính_phủ/N xem_xét/V sửa_đổi/N bổ_sung/V trong/E thời_gian/N tới/V
+Theo/E bà/N Thủy/Np các/L hoạt_động/N kiểm_tra/V giám_sát/V việc/N kê_khai/V tài_sản/N được/V thực_hiện/V theo/E đúng/A quy_trình/N sau/E khi/N có/V kết_luận/N Ủy_ban/N Kiểm_tra/V Trung_ương/N sẽ/R phát_hành/V thông_cáo/V công_khai/A và/CC đầy_đủ/A
+Trả_lời/V câu_hỏi/N về/V quyền/N bảo_vệ/V thông_tin/N cá_nhân/N bà/N Thủy/Np nói/V với/E cán_bộ/N thì/C đã/R có/V quy_định/N là/V bản/N kê_khai/V tài_sản/N phải/V công_khai/V  /N tại/E chi_bộ/N và/CC nơi/N công_tác/V  /N Tới/V đây/P chúng_tôi/P sẽ/R có/V hướng_dẫn/V cụ_thể/A để/E trên/E cơ_sở/N đó/P hàng/N năm/N xây_dựng/V kế_hoạch/N kiểm_tra/V giám_sát/V bao_nhiêu/P cuộc/N bà/N nói/V

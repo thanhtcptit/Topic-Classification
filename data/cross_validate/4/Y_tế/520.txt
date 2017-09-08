@@ -1,0 +1,6 @@
+Kẻ/N mạo_danh/V thanh_tra/N Bộ/N Y_tế/N vòi/N tiền/N địa_phương/N
+Ngày/N 3/7/M Bộ/N Y_tế/N gửi/V cảnh_báo/V đến/E UBND/Np Sở/N Y_tế/N các/L tỉnh_thành/N các/L cơ_sở/N sản_xuất/V kinh_doanh/V cung_ứng/V dịch_vụ/N trong/E lĩnh_vực/N y_tế/N về/V tình_trạng/N xuất_hiện/V kẻ/N mạo_danh/V Thanh_tra/N Bộ/N nhũng_nhiễu/V cơ_sở/N
+Trước/E đó/P Thanh_tra/N Sở/N Y_tế/N TP_HCM/Np nhận/V phản_ánh/V về/E một/M cá_nhân/N tự_xưng/V Thanh_tra/N Bộ/N Y_tế/N đến/E các/L cơ_sở/N sản_xuất/V kinh_doanh/V trong/E lĩnh_vực/N y_tế/N yêu_cầu/V đưa/V phong_bì/N 5/M triệu/M đồng/Nu mỗi/L người/N để/E không/R bị/V kiểm_tra/V xử_lý/V vi_phạm/V
+Thanh_tra/N Bộ/N Y_tế/N khẳng_định/V tất_cả/P cán_bộ/N khi/N đến/V các/L đơn_vị/N làm_việc/V đều/R phải/V có/V quyết_định/N thành_lập/V đoàn/N thanh_kiểm_tra/V hoặc/CC công_văn/N giấy/N giới_thiệu/V do/E lãnh_đạo/N ký/V
+Trong/E đó/P ghi/V rõ/A họ/P tên/N chức_danh/N của/E cán_bộ/N đến/E làm_việc/V nội_dung/N làm_việc/V thời_hạn/N đồng_thời/R phải/V xuất_trình/V thẻ/N thanh_tra/V
+Thanh_tra/N Bộ/N Y_tế/N công_bố/V số/N điện_thoại/N nóng/A 024 732160/M tiếp_nhận/V phản_ánh/V trường_hợp/N mạo_xưng/V là/V cán_bộ/N

@@ -1,0 +1,49 @@
+Biên_soạn/N sách/N bằng/E cách/N photo/V sách/N người/N khác/A
+Một/M cuốn/Nc sách/N về/V kĩ_thuật/N điện/N được/V biên_soạn/V bằng/E cách/N photo/V
+nguyên_bản/N từ/E một/M cuốn/N sách/N của/E người/N khác/A viết/V lại/R phần/N lời_nói_đầu/N và/CC đổi/V tên/N tác_giả/N
+Mới_đây/X một/M nhóm/N giảng_viên/N Trường/N ĐH/Np Bách_khoa/N ĐHQG/Np TPHCM/Np đã/R phát_hiện/V hai/M cuốn/N sách/N của/E các/L tác_giả/N khác/A nhau/N nhưng/C có/V nội_dung/N giống/V nhau/N đến/V từng/P từ/E công_thức/N đơn_vị/N cùng/A một/M nhà_xuất_bản/N NXB/Np
+Theo/E đó/P cuốn/N sách/N Thiết_kế/V cấp_điện/N của/E tác_giả/N Ngô_Hồng_Quang/Np Vũ_Văn_Tẩm/Np do/E NXB/Np Khoa_Học_Và_Kỹ_Thuật/Np ấn_hành/V in/N lần/N thứ/N 9/M có/V sửa_chữa/N bổ_sung/V tháng/N 112011/M đã/R bị/V tác_giả/N Nguyễn_Văn_Tuệ/Np TPHCM/Np photo/V 100/M nội_dung/N đổi/V tựa/N sách/N thành/N Tính_toán/V thiết_kế/V hệ_thống/N phân_phối/V truyền/V tải_điện/N do/E Công_ty/N TNHH/Np văn_hoá/N Trí_Dân/Np TPHCM/Np liên_kết/V với/E NXB/Np Khoa_Học_Và_Kỹ_Thuật/Np ấn_hành/V vào/E tháng/N 12012/M
+Mua/V bản_quyền/N tác_giả/N từ/N
+người/N mang/V sách/N photo/V đến/V
+Theo/E ông/N Trần_Khánh_Duy/Np giám_đốc/N Công_ty/N TNHH/Np TMDV/Np văn_hoá/N Trí_Dân/Np năm/N 2010/M ông/N Nguyễn_Văn_Tuệ/Np tìm/V đến/V công_ty/N này/P mang/V theo/V mấy/N bản_thảo/N cuốn/V sách/N về/V kĩ_thuật/N điện/N và/CC đề_nghị/V hợp_tác/V xuất_bản/V
+Ông/Nc Tuệ/Np nói/V sách/N do/E ông/N biên_soạn/V
+Tôi/P chỉ/R nhìn/V tựa/N sách/N đọc/V sơ/N nội_dung/N và/CC quyết_định/N làm/V hai/M cuốn/N Tính_toán/V thiết_kế/V hệ_thống/N phân_phối/V truyền/N tải_điện/N Thiết_kế/V dây/N quấn/V quấn/V dây/N điện_máy/N của/E ông/N Tuệ/Np ông/N Duy/Np cho/V biết/V
+Ông/Nc Duy/Np cho/V chúng_tôi/N xem/V bản_thảo/N cuốn/V sách/N mà/C ông/N Tuệ/Np đã/R đem/V đến/R có/V tựa/N Thiết_kế/V hệ_thống/N cấp_điện/N và/CC lắp_đặt/V công_trình/N điện/N
+Bản_thảo/N này/P chỉ/R có/V trang/N lời_nói_đầu/N được/R viết_tay/V còn/V lại/V toàn_bộ/N nội_dung/N như/C được/V photocopy/N
+Ngay/T cả/P trong/N lời_nói_đầu/N của/E bản_thảo/N này/P cũng/R có/V nhiều/A đoạn/N chép/N nguyên_văn/N lời_nói_đầu/N cuốn/N sách/N Thiết_kế/V cấp_điện/N của/E tác_giả/N Ngô_Hồng_Quang/Np Vũ_Văn_Tẩm/Np
+Ông/N Duy/Np thừa_nhận/V Thực_sự/N khi/N liên_kết/V xuất_bản/N tôi/P chỉ/R xem/V qua/E nội_dung/N cuốn/N sách/N thôi/T chứ/C không/R biết/V nội_dung/N có/V trùng/N với/E sách/N nào/N khác/A
+Khi/N làm/V hợp_đồng/N mua_bán/V bản_quyền/N ông/N Tuệ/Np có/V đưa/V giấy/N CMND/Np và/CC cam_kết/V về/R bản_quyền/N tác_giả/N
+Dựa/V trên/E bản_thảo/N này/P tôi/P biên_tập/V sắp/V chữ/N lại/N và/CC tổ_chức/V thành/V một/M bản_thảo/N hoàn_chỉnh/A
+Là/V đơn_vị/N liên_kết/V xuất_bản/V chúng_tôi/N thực_hiện/V đầy_đủ/A các/L thủ_tục/N bản_quyền/N tác_giả/N biên_tập/V nội_dung/N không/R sai_trái/A quan_điểm/N chính_trị/N
+Sau/E đó/P tôi/P gửi/V bản_thảo/V ra/R NXB/Np Khoa_Học_Và_Kỹ_Thuật/Np để/E họ/P biên_tập/V và/N cấp/V phép/N rồi/C tôi/P mới/R đưa/V đi/V in/V
+Tuy_nhiên/C theo/V hợp_đồng/N mua_bán/V bản_quyền/N được/V kí_kết/V ngày/N 23112010/M giữa/N Công_ty/N TNHH/Np TMDV/Np văn_hoá/N Trí_Dân/Np và/CC ông/N Nguyễn_Văn_Tuệ/Np QT/Np ân/V Phú/Np TPHCM/Np không/R có/V một/M điều_khoản/N nào/R thể_hiện/V sự/N cam_kết/V của/E tác_giả/N về/V quyền_sở_hữu/N trí_tuệ/N cuốn/N sách/N này/P
+Sau/E khi/N xem/V đối_chiếu/N nội_dung/N giữa/E hai/M cuốn/N sách/N nói/V trên/N chúng_tôi/N mang/V sách/N đến/V cho/E ông/N Duy/Np và/CC ông/N này/P thừa_nhận/V Đúng/A là/V cuốn/N sách/N Tính_toán/V thiết_kế/V hệ_thống/N phân_phối/V truyền/V tải_điện/N được/V copy/V từ/E cuốn/N Thiết_kế/V cấp_điện/N của/E tác_giả/N Ngô_Hồng_Quang/Np
+Tôi/P rất/R bất_ngờ/A
+Thấy/V ông/N Tuệ/Np lớn_tuổi/N rồi/C sinh/V năm/N 1933/M có/V sách/N mảng/N kĩ_thuật/N nội_dung/N rất/R bài_bản/A nên/C tôi/P đồng_ý/V hợp_tác/V làm/V sách/N
+Trước/E khi/N làm/V sách/N này/P tôi/N cũng/R được/V biết/V trên/E thị_trường/N sách/N về/V kĩ_thuật/N ông/N Tuệ/Np đứng_tên/V tác_giả/N rất/R nhiều/A do/E các/L NXB/Np lớn/V ấn_hành/N ông/N Duy/Np nói/V
+Tham_khảo/V nhiều/A sách/N rồi/R biên_soạn/V lại/R
+Chúng_tôi/P tìm/V đến/E nhà/N ông/Nc Nguyễn_Văn_Tuệ/Np ở/E QT/Np ân/V Phú/Np
+Khi/N chúng_tôi/P đưa/V ra/R cuốn/V sách/N Tính_toán/V thiết_kế/V hệ_thống/N phân_phối/V truyền/V tải_điện/N ông/N Tuệ/Np nhận/V ngay/R đó/P là/V sách/N của/E mình/P và/N cho/V biết/V còn/V có/V cuốn/N Thiết_kế/V dây/N quấn/V quấn/V dây/N điện_máy/N cùng/A làm/V chỗ/N Công_ty/N Trí_Dân/Np nữa/R
+Trong/E quá_trình/N công_tác/N tôi/P thường/R để_dành/V nhiều/A tài_liệu/N nghiên_cứu/V
+Sau/E khi/N về/V hưu/V khoảng/N năm/N 1998/M tôi/N ở/V nhà/N đọc/V lại/R tài_liệu/N sách/N cũ/A để/E biên_soạn/V sách/N
+Ông/Nc Tuệ/Np còn/R cho_hay/V Tôi/P tham_khảo/V nhiều/A sách/N rồi/C chọn/V ra/R tổng_hợp/V biên_soạn/V lại/R cho/V phù_hợp/V với/E tên/N gọi/V của/E sách/N làm/V thành/N bản_thảo/N
+Tôi/P giới_thiệu/V bản_thảo/N đến/V NXB/Np nhà_sách/N nào/P coi/V thấy/V nội_dung/N phù_hợp/V muốn/V kinh_doanh/V thì/C người_ta/N mua/V lại/R bản_thảo/V
+về/V họ/P đánh_máy/V đồ_hoạ/N biên_tập/V lại/R để/E in/V sách/N xuất_bản/V
+Tôi/P bán/V bản_thảo/N chỉ/N hưởng/V 10/M giá_bìa/N cuốn/V sách/N
+Chúng_tôi/P tiếp_tục/V đưa/V ra/R cuốn/V Thiết_kế/N cấp_điện/N của/E tác_giả/N Ngô_Hồng_Quang/Np Vũ_Văn_Tẩm/Np
+Ông/Nc Tuệ/Np xem/V qua/R nội_dung/N rồi/C nói/V Sách/N về/E thiết_kế/N điện/N nên/C nội_dung/N cũng/R phải/V giống/V nhau/N thôi/V
+Tôi/P chỉ/R biết/V Ngô_Hồng_Quang/Np là/V giáo_viên/N dạy/V Trường/N ĐH/N Bách_khoa/N thôi/T chứ/C không/R quen/V
+Tôi/P thấy/V ông/N Quang/Np viết/V sách/N giỏi/A hay/N nên/C tôi/P mua/V về/R học/V làm_việc/V và/N sau_này/N nghỉ/V hưu/V tôi/P lấy/V tài_liệu/N này/P tham_khảo/V để/E biên_soạn/V sách/N
+Lừa/V đơn_vị/N liên_kết/V và/CC cả/T nhà_xuất_bản/N
+Theo/E TS/N Huỳnh_Bá_Lân/Np nguyên/N giám_đốc/N NXB/Np ĐHQG/M TPHCM/Np hiện_nay/N các/L NXB/Np chỉ/V thường/R làm_việc/V với/E các/L đơn_vị/N liên_kết/V tư_nhân/N ít/A khi/N làm_việc/V trực_tiếp/A với/E tác_giả/N sách/N
+Những/L đơn_vị/N liên_kết/V mua/V bản_quyền/N tác_giả/N tự/N tổ_chức/V bản_thảo/N chịu/V trách_nhiệm/N về/V tác_quyền/N sau/N đó/P đưa/V sang/V các/L NXB/Np để/E liên_kết/V xuất_bản/N
+Nhân_thân/N của/E tác_giả/N thể_hiện/V trên/E hợp_đồng/N mua_bán/V bản_quyền/N
+Những/L thủ_tục/N về/V nguồn_gốc/N sách/N đó/P đều/R do/E công_ty/N liên_kết/V chịu/V trách_nhiệm/N
+Trước/E đây/P ông/Nc Nguyễn_Văn_Tuệ/Np thường/R bán/V bản_quyền/N tác_giả/N cho/V Doanh_nghiệp/N sách/N Thành_Nghĩa/Np và/CC đơn_vị/N này/P thường/R liên_kết/V với/E NXB/Np ĐHQG/M TPHCM/Np để/E ấn_hành/V sách/N
+NXB/Np chỉ/R có/V trách_nhiệm/N biên_tập/V bản_thảo/A xem/V nội_dung/N có/V phù_hợp/N hay/C không/R
+Cách/V đây/P 78/M năm/N vì/N có/V người/N phát_hiện/V một/M cuốn/N sách/N của/E tác_giả/N Nguyễn_Văn_Tuệ/Np lấy/V nội_dung/N từ/E sách/N của/E tác_giả/N khác/A nên/C chúng_tôi/N có/V mời/V Doanh_nghiệp/N sách/N Thành_Nghĩa/Np lên/V làm_việc/N
+Họ/P có/V đưa/V ra/R hợp_đồng/N mua_bán/V bản_quyền/N với/E ông/N Tuệ/Np cùng/A bản_thảo/N chép/V tay/N cuốn/N sách/N
+Sau/N đó/P chúng_tôi/N mời/V ông/N Tuệ/Np đến/V để/E làm/V rõ/A
+Tại/E đây/P ông/N Tuệ/Np đã/R thừa_nhận/V có/V tham_khảo/V một_số/N sách/N thấy/V hay/N nên/C chép/V lại/R
+Rõ_ràng/N ông/N Tuệ/Np đã/R lừa/V đơn_vị/N liên_kết/V và/CC cả/T NXB/Np
+Từ/E đó/P chúng_tôi/P từ_chối/V làm/V sách/N của/E tác_giả/N này/N ông/Nc Lân/Np nói/V

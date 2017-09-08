@@ -1,0 +1,29 @@
+6/M bệnh_nhân/N tử_vong/N khi/N đang/R chạy/V thận/N nhân/N tạo/V
+Tin/V từ/E Bệnh_viện/N đa_khoa/N Hoà_Bình/Np cho_hay/V một/M vụ/N tai_biến/N nghi/V do/E sốc/N phản_vệ/N vừa/R xảy/V ra/R ngày/N 295/M
+Theo/E đó/P 18/M bệnh_nhân/N suy/V thận/N mãn/N sốc/N khi/N đang/R được/V chạy/V thận/N nhân_tạo/A 6/M người/N tử_vong/V
+Theo/E thông_tin/N từ/E lãnh_đạo/N Bệnh_viện/N đa_khoa/N tỉnh/N Hoà/Np Bình/Np khoảng/A 7h/M sáng/N 295/M Khoa/Np điều_trị/N lọc/V máu/N Bệnh_viện/N đa_khoa/N tỉnh/N Hoà/Np Bình/Np đã/R tiếp_nhận/V điều_trị/N lọc/V máu/N chu_kì/N cho/V 18/M bệnh_nhân/N
+Sau/E khi/N thực_hiện/V quy_trình/N lọc/V máu/N được/V khoảng/N 2/M giờ/Nu 18/M bệnh_nhân/N có/V dấu_hiệu/N sốc/N phản_vệ/A
+Sau/E khi/N phát_hiện/V sự_việc/N các/L bác/N sĩ/N đã/R dừng/V điều_trị/N và/CC tập_trung/V cấp_cứu/V các/N nạn_nhân/N
+Tuy/C nhiên/N khoảng/A 9h30/M có/V bệnh_nhân/N tử_vong/N
+Tính/V đến/E thời_điểm/N 17h/M cùng/N ngày/N đã/R có/V 6/M nạn_nhân/N tử_vong/N
+Các/L nạn_nhân/N tử_vong/N gồm/V Bùi_Văn_Huyền/Np sinh/V năm/N 1971/M trú/N tại/E huyện/N Cao_Phong/Np
+Bùi_Văn_Chính/Np sinh/V năm/N 1967/M trú/N tại/E huyện/N Lạc_Thuỷ/Np
+Nguyễn_Thị_Minh/Np sinh/V năm/N 1963/M trú/N tại/E phường/N Đồng_Tiến/Np
+Lê_Thị_Chung/Np sinh/V năm/N 1959/M trú/N tại/E phường/N Tân_Hoà/Np
+Đinh_Thị_Thu_Hằng/Np sinh/V năm/N 1981/M trú/N tại/E xã/N Sủ_Ngòi/Np Quách_Thị_Phượng/Np sinh/V năm/N 1948/M trú/N tại/E huyện/N Lương_Sơn/Np
+Tiến/V sĩ/N Trương_Quý_Dương/Np Giám_đốc/N bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np cho/V biết/V ngay/T sau/E khi/N xảy/V ra/R sự_việc/N phía/N bệnh_viện/N đã/R xin/V ý_kiến/N chỉ_đạo/V từ/E phía/N Bệnh_viện/N Bạch_Mai/Np Hà_Nội/Np
+Theo/E các/L bác/N sĩ/N từ/E Bệnh_viện/N Bạch_Mai/Np việc/N chuyển/V tuyến/N cho/E các/L bệnh_nhân/N trong/E tình_trạng/N sốc/N phản_vệ/N nặng/A không/R đảm_bảo/V có_thể/N gây/V suy/V tim/N suy/V hô_hấp/N do_vậy/N bệnh_viện/N đã/R không/R thực_hiện/V chuyển/V tuyến/N đối_với/E các/L bệnh_nhân/N
+Ngoài/E số/N bệnh_nhân/N tử_vong/N hiện/V các/L bệnh_nhân/N còn/V lại/R cũng/R đang/R được/V điều_trị/V tích_cực/N ngay/T tại/E bệnh_viện/N và/CC Bệnh_viện/N đa_khoa/N thành_phố/N Hoà/Np Bình/Np theo/V phác_đồ/N điều_trị/V chung/A
+Tuy_nhiên/C chưa/R thể/R tiên_lượng/V được/V về/V hiệu_quả/N cứu/V chữa/V do/E bệnh_nhân/N suy/V thận/N mãn/V nhiều/A năm/N bị/V suy_giảm/V miễn_dịch/V rất/R khó_khăn/A khi/N điều_trị/V
+Về/V nguyên_nhân/N dẫn/V đến/R sự_việc/N đáng/V tiếc/V trên/E ông/N Dương/Np nói/V hiện/N cũng/R chưa/R xác_định/V được/R nguyên_nhân/N
+Toàn_bộ/N thuốc/N hoá/N chất/N phục_vụ/V điều_trị/N lọc/V máu/N cho/V các/L bệnh_nhân/N đã/R được/V niêm_phong/V để/E các/L cơ_quan_chức_năng/N điều_tra/V
+Phía/N bệnh_viện/N cũng/R đã/R đề_nghị/V Bệnh_viện/N Bạch_Mai/Np cử/V đội_ngũ/N y/N bác/N sĩ/N có/V chuyên_môn/N cao/A lên/R hỗ_trợ/V điều_trị/N cho/V các/L bệnh_nhân/N còn/V lại/V
+Được/V biết/V khoa/N điều_trị/N lọc/V máu/N của/E bệnh_viện/N này/P được/V thành_lập/V cách/V đây/P 10/M năm/N
+Chiều/N cùng/C ngày/N một/M kíp/N chuyên_gia/N về/V thận/N nhân_tạo/A và/N dị_ứng/N của/E Bệnh_viện/N Bạch_Mai/Np đã/R đến/V Hoà/Np Bình/Np hỗ_trợ/V điều_trị/N và/CC cấp_cứu/V cho/E các/L nạn_nhân/N còn/V lại/V
+Dự_kiến/N tối/N cùng/A ngày/N sẽ/R có/V thêm/V một/M kíp/N thầy_thuốc/N tiếp_tục/V đến/V Hoà/Np Bình/Np
+Theo/E ông/N Nguyễn_Hữu_Dũng/Np trưởng/N Khoa/Np thận/N nhân_tạo/A Bệnh_viện/N Bạch_Mai/Np trong/E y/N văn/N từng/R có/V trường_hợp/N bệnh_nhân/N sốc/N và/CC tử_vong/N khi/N đang/R được/V lọc/V máu/N chu_kì/V nhưng/C tại/E Việt_Nam/Np trong/E nhiều/A năm/N gần/A đây/P đây/P là/V vụ_việc/N nghiêm_trọng/A nhất/R được/V ghi_nhận/V
+Chiều/N 295/M ông/N Lương_Ngọc_Khuê/Np cục_trưởng/N Cục/N Quản_lí/N khám/V chữa/V bệnh/N Bộ/Np Y/Np tế/N cũng/R đã/R đến/V Hoà_Bình/Np để/E hỗ_trợ/V giải_quyết/V vụ_việc/N
+Trao_đổi/V với/E Tuổi_Trẻ/N ông/N Phạm_Hồng_Tuyến/Np giám_đốc/V Công_an/N tỉnh/N Hoà/Np Bình/Np cho/V biết/V cơ_quan/N công_an/N đã/R nhận/V được/R thông_tin/V về/V vụ_việc/N có/V 6/M bệnh_nhân/N tử_vong/N sau/E khi/N chạy/V thận/N nhân/N tạo/V tại/E Bệnh_viện/N đa_khoa/N tỉnh/N Hoà/Np Bình/Np
+Theo/E ông/N Tuyến/N cơ_quan/N công_an/N đã/R vào_cuộc/V phối_hợp/V cùng/A với/N Sở/N Y/Np tế/V Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np để/E làm/V rõ/A nguyên_nhân/N vụ_việc/N
+Cơ_quan/N Công_an/N vẫn/R đang/R xác_minh/V nên/V chưa/R thể/R đưa/V ra/R kết_luận/V gì/N
+Nguyên_nhân/N ban_đầu/N sẽ/R do/E cơ_quan/N y_tế/N cung_cấp/V ông/Nc Tuyến/N nói/V

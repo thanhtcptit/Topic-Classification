@@ -1,0 +1,8 @@
+​/N Tạm/Np dừng/V hợp_đồng/N với/E phòng_khám/N nghi/N lạm_dụng/V BHYT/Np
+Bảo_hiểm/N xã_hội/N Việt_Nam/Np vừa/R phát/V thông_báo/N cho/V biết/V đã/R tạm/V dừng/V hợp_đồng/N với/E Phòng_khám/N đa_khoa/N Tâm_Đức/Np tỉnh/N Bình_Phước/Np để/E làm/V rõ/A nghi_vấn/N lạm_dụng/V bảo_hiểm_y_tế/X
+Theo/E Bảo_hiểm/N xã_hội/N Việt_Nam/Np lí_do/V vì/E phòng_khám/N này/P thiếu/V bác/N sĩ/N ngoại_khoa/N tuy_nhiên/N quý/N 1/M vừa_qua/N phòng_khám/N vẫn/R đề_nghị/V thanh_toán/V 600/M ca/N khám/V ngoại/N
+Bảo_hiểm/N cho/V rằng/C việc/N Tâm_Đức/Np miễn/V phần/N cùng/N chi_trả/V từ/E 520/M chi_phí/N khám/V chữa/V bệnh/N tuỳ/N nhóm/N bệnh_nhân/N để/E thu_hút/V người/N tới/V khám/V là/C tạo/V ra/R nhu_cầu/N khám/V bệnh/N ảo/N
+Bảo_hiểm/N xã_hội/N Việt_Nam/Np cũng/R cho/V biết/V phòng_khám/N Tâm_Đức/Np đã/R để/V y/N sĩ/N đa_khoa/N khám/V chữa/V bệnh/N về/V y_học/N cổ_truyền/N
+Phòng_khám/N không/R được/V cấp/V phép/N thực_hiện/V kĩ_thuật/N phục_hồi/V chức/N năng/N nhưng/C vẫn/R được/V Sở/N Y/Np tế/N phê_duyệt/V làm/V một_số/N dịch_vụ/N
+Bác/N sĩ/N y_học/N cổ_truyền/N làm_việc/V tại/E phòng_khám/N chưa/R có/V đủ/A điều_kiện/N hành_nghề/V tại/E Tâm_Đức/Np vì_vậy/N theo/V hợp_đồng/N thì/C bác/N sĩ/N sẽ/R khám/V chữa/V bệnh/N vào/E ngày/N nghỉ/N
+Nhưng/C thực_tế/N hồ_sơ/N đều/R kí/V vào/E giờ_hành_chính/N theo/N Bảo_hiểm/N xã_hội/N Việt_Nam/Np là/V sai/N quy_định/N

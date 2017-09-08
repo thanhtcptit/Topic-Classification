@@ -1,0 +1,12 @@
+Bộ/N sưu_tập/V font/V chữ/N theo/E phong_cách/N viết_tay/V độc_đáo/A 
+Thông_thường/A những/L font/N chữ/N trên/E máy_tính/N thường/R được/V thiết_kế/V một_cách/N khá/R đẹp_mắt/A và/CC cân_đối/V 
+Tuy_nhiên/C không/R phải/V bao_giờ/P cân_đối/N cũng/R đã/R là/V đẹp/A mà/C những/L font/N chữ/N với/E thiết_kế/N xô/V lệch/A đôi_khi/R cẩu_thả/V đúng/A theo/E phong_cách/N chữ_viết/N tay/N thông_thường/A lại/R tạo/V nên/C những/L ấn_tượng/N riêng/A 
+Những/L font/N chữ/N theo/E phong_cách/N viết_tay/V có_thể/R tạo/V nên/C những/L nét/N cá_tính/N riêng/A đặc_biệt/A khi/N bạn/N sử_dụng/V những/L font/Nc chữ/N này/P cho/E những/L đoạn/N trang_trí/V trên/E thiệp/N mừng/V những/L file/N văn_bản/N hay/C trang_trí/V trên/E hình_ảnh/N Download/V bộ/N sưu_tập/V font/V chữ/N mang/V phong_cách/N chữ_viết/N tay/N miễn_phí/V tại/E đây/P hoặc/CC tại/E đây/P 
+Sau/E khi/N download/V giải/N nén/V file/N download/V được/R 
+Bạn/N kích/V đúp/V vào/E từng/P file/N định_dạng/V ttf/N để/E xem/V trước/E nội_dung/N kiểu/N font/V chữ/N 
+Nếu/C gặp/V 1/M kiểu/N font/V chữ/N ưng_ý/V bạn/N kích/V chuột/N phải/V vào/V font/V chữ/N chọn/V Install/Np để/E cài_đặt/V và/CC sử_dụng/V hoặc/CC bạn/N cũng/R có_thể/A nhấn/V nút/N Install/Np ngay/R trên/E hộp_thoại/N xem/V trước/E kiểu/N font/N để/E cài_đặt/V font/V chữ/N mới/A cho/E máy_tính/N của/E mình/P 
+Trong/E trường_hợp/N muốn/V cài_đặt/V đồng_thời/R nhiều/A font/N chữ/N bạn/N copy/V các/L file/N chứa/V font/V chữ/N muốn/V cài_đặt/V sau/E đó/P truy_cập/V vào/E thư_mục/N Fonts/Np trên/E hệ_thống/N theo/E đường_dẫn/N C/Np \/M Windows/Np \/V Fonts/Np và/CC copy/V file/N chứa/V font/V chữ/N muốn/V cài_đặt/V vào/E thư_mục/N này/P 
+Sau/E khi/N cài_đặt/V bạn/N đã/R có_thể/A chọn/V font/N chữ/N này/P để/E sử_dụng/V trong/E các/L phần_mềm/N soạn_thảo/V văn_bản/N phần_mềm/N biên_tập/V chỉnh_sửa/V ảnh/N …/M Bạn/N nên/C ghi_nhớ/V tên/N của/E những/L font/Nc chữ/N mình/P mới/R cài_đặt/V để/E có_thể/R tìm_kiếm/V dễ_dàng/A khi/N sử_dụng/V 
+Lưu_ý/V những/L font/Nc chữ/N này/P chỉ/R hiển_thị/V trên/E những/L máy_tính/N đã/R được/V cài_đặt/V kiểu/N font/N này/P 
+Do_vậy/C những/L văn_bản/N sử_dụng/V font/N chữ/N này/P bạn/N chỉ/R nên/C in/V chúng/P ra/V trên/E giấy/N để/E giữ/V nguyên/A font/N chữ/N hoặc/CC sử_dụng/V chúng/P để/E trang_trí/V trong/E các/L tác_phẩm/N đồ_họa/A và/CC hình_ảnh/N 
+Phạm_Thế_Quang_Huy/X 

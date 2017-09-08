@@ -1,0 +1,7 @@
+Quận/N 11/M không/N tuyển_sinh/V lớp/N 1/M tiếng/N Anh/Np tự/V chọn/V
+Năm_học/N tới/V các/L trường/N tiểu_học/N trên/E địa_bàn/N quận/N sẽ/R dạy/V tiếng/N Anh/Np theo/V 3/M chương_trình/N
+Chương_trình/N Tiếng_Anh/Np tăng_cường/V tổ_chức/V tại/E các/L trường/N Tiểu_học/N Lạc_Long_Quân/Np Đề_Thám/Np Phú_Thọ/Np Lê_Đình_Chinh/Np Hưng_Việt/Np Phùng_Hưng/Np Trần_Văn_Ơn/Np Trưng_Trắc/Np Hoà_Bình/Np Nguyễn_Bá_Ngọc/Np Hàn_Hải_Nguyên/Np Nguyễn_Thi/Np
+Chương_trình/N tiếng/N Anh/Np theo/V đề_án/N của/E Bộ/N GDĐT/N tiếp_tục/V thực/V hiện_tại/N trường/N Tiểu_học/N Quyết_Thắng/Np Thái_Phiên/Np Nguyễn_Thị_Nhỏ/Np Phạm_Văn_Hai/Np Lê_Đình_Chinh/Np và/CC Âu_Cơ/Np
+Chương_trình/N tiếng/N Anh/Np tích_hợp/V thực/N hiện_tại/N trường/N Tiểu_học/N Trưng_Trắc/Np Lạc_Long_Quân/Np
+Được/V biết/V chương_trình/N tiếng/N Anh/Np tự/V chọn/V được/R đánh_giá/V là/C không/R hiệu_quả/N nên/C ngày_càng/N ít/A phụ_huynh/N lựa_chọn/V cho/V học_sinh/N theo/V học/V
+HHG/Np

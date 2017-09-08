@@ -1,0 +1,39 @@
+​/N Chiến_lược/N tổng_thể/A để/E bảo_đảm/V hệ_thống/N thông_tin/N hàng_không/V
+Hồi/N tháng/N 72016/M dư_luận/N từng/R nóng/N lên/V khi/N Vietnam_Airlines/Np và/CC các/L cụm_cảng/N hàng_không/N bị/V tấn_công/V đồng_loạt/N
+Khi/N ấy/P nhiều/A tổ_chức/N đã/R tham_gia/V ứng_cứu/V sự_cố/N và/CC cho/V biết/V đây/P là/V cuộc/N tấn_công/V có/V chủ_đích/N tin_tặc/N có_thể/A đã/R cài/V virus/N vào/V trong/N hệ_thống/N từ/E rất/N lâu/A trước/E khi/N bung/V phá/V
+Tới/V đầu/N tháng/N 32017/M một/M lần/N nữa/R ngành/N hàng_không/N dính/V đạn/N của/N hacker/N
+Tuy_nhiên/C khác/A với/E mục_đích/N phá_hoại/N lần/N này/P hai/M hacker/N ở/E độ/N tuổi/N 15/M đã/R tấn_công/V vào/E các/L website/N của/E các/L cảng_hàng_không/N Tân_Sơn_Nhất/Np Tuy_Hoà/Np Rạch_Giá/Np Đà_Nẵng/Np Phú_Quốcvới/Np mục_tiêu/N cảnh_báo/V lỗ_hổng/N cũng/R như/A muốn/V
+nổi_tiếng/A
+Trong/E một/M báo_cáo/N của/E mình/P Công_ty/N An_ninh/N mạng/N Bkav/Np từng/R cho/V biết/V có/V tới/N 40/M website/N tại/E Việt_Nam/Np tồn_tại/V lỗ_hổng/N
+Lãnh_đạo/N một/M tập_đoàn/N lớn/A từng/R thẳng_thắn/N nhìn_nhận/V hệ_thống/N công_nghệ/N tại/E nhiều/A tổ_chức/N mắc/V những/L lỗi/N căn_bản/N
+Thậm_chí/N tại/E các/L doanh_nghiệp/N tương_đối/N lớn/A chỉ/R trong/E một/M ngày/N rà_soát/V các/L kĩ_thuật_viên/N của/E đơn_vị/N này/N đã/R bắt_gặp/V rất/R nhiều/A vấn_đề/N và/CC chỉ/R cần/V một/M hacker/N có/V trình_độ/N bình_thường/A sử_dụng/V kĩ_thuật/N phổ_biến/N là/V có_thể/N truy_nhập/V được/V vào/V hệ_thống/N
+Khi/N các/L vụ_việc/N tấn_công/V mạng/N diễn/V ra/R dư_luận/N và/CC doanh_nghiệp/N đều/R sục_sôi/V
+Thế/T nhưng/C chỉ/R sau/E khoảng/N một/M tuần/N khi/N cuộc/N tấn_công/V đã/R hết/V có/V vẻ/N như/A mọi/N chuyện/N lại/R đâu/R vào/V đó/P
+Theo/E Cục/N An_toàn/N thông_tin/N có/V bốn/M nguyên_nhân/N quan_trọng/A gây/V ra/R mất/V an_toàn/N thông_tin/N
+Đó/P là/V việc/N quản_trị/V không/R định_kì/V thường_xuyên/A cập_nhật/V phần_mềm/N dẫn/V đến/R bị/V đối_tượng/N khai_thác/V lỗ_hổng/N đã/R biết/V để/V tấn_công/V
+sử_dụng/V chung/A hạ_tầng/N giữa/N các/L trang_web/N nhưng/C lại/R thiếu/V quan_tâm/V tới/E chính_sách/N an_toàn/A thông_tin/N phù_hợp/A dẫn/V đến/R có/V nguy_cơ/N cao/A về/E việc/N bị/V khai_thác/V tấn_công/V từ/E các/L trang_web/N của/E các/L tổ_chức/N cá_nhân/N khác/A đang/R sử_dụng/V chung/A hạ_tầng/N
+thiếu/V đội_ngũ/N chuyên_gia/N sẵn_sàng/V ứng_cứu/V và/N xử_lí/V các/L sự_cố/N về/E an_toàn/N thông_tin/N
+thiếu/N đầu_mối/N liên_lạc/V để/E kịp_thời/N chia_sẻ/V thông_tin/N
+Đây/P là/V điều/N này/P là/V vô_cùng/N nguy_hiểm/A bởi/E theo/V một/M báo_cáo/N của/E Trung_tâm/N ứng_cứu/V khẩn_cấp/N máy_tính/N Việt_Nam/Np thuộc/V Bộ/N Thông_tin/N và/CC Truyền_thông/N năm/N 2016/M đơn_vị/N này/P ghi_nhận/V 134375/M sự_cố/N tấn_công/V mạng/N của/E cả/P ba/N loại_hình/N phishing/V lừa_đảo/N malware/N mã/N độc/A và/CC deface/N tấn_công/V thay_đổi/V giao_diện/N
+Nếu/C đem/V so_sánh/V với/E 2015/M số_lượng/N vụ/N tấn_công/V mạng/N gấp/V hơn/A 42/M lần/N năm/N 2015/M là/V 31585/M sự_cố/N tấn_công/V mạng/N
+Đầu_tư/V đồng_bộ/N
+Các/L chuyên_gia/N về/V bảo_mật/V cho/V rằng/C hiện/N nhiều/A tổ_chức/N hiện/V chưa/R nhận_thức/V đúng/A vai_trò/N cũng/R như/C cách_thức/N bảo_đảm/N an_toàn/N thông_tin/N nên/C giải_quyết/V sự_cố/N theo/E tính/N thời_điểm/N chưa/R sẵn_sàng/A về/V năng_lực/N kĩ_thuật/V để/E đánh_giá/V đúng/A nguy_cơ/N rủi_ro/A của/E đơn_vị/N mình/N
+Nói_riêng/V về/V ngành/N hàng_không/V trong/E ngành/N này/P hiện/N có/V ba/M hệ_thống/N thông_tin/N độc/A lập_là/A của/E Vietnam_Airlines/Np các/L cảng_hàng_không/N và/CC hệ_thống/N điều_khiển/N bay/V
+Nói/V nôm_na/N giống/A như/C là/V các/L cảng_hàng_không/N là/V bến_xe/N Mỹ_Đình/Np và/CC còn/V Vietnam_Airlines/Np giống/V các/L hãng/N xe/N Hoàng_Long/Np Thanh_Long/Np
+Do/E đó/P nếu/C chỉ/R riêng/A một_mình/N Vietnam_Airline/Np bảo_vệ/V hệ_thống/N CNTT/Np của/E mình/P một_cách/N bài_bản/A thì/C vẫn/R chưa/R đủ/V
+Tất_cả/N các/L thành_phần/N tham_gia/V cấu_thành/V nên/N ngành/N hàng_không/N cũng/R đều/R cần/V phải/V đầu_tư/V đồng_bộ/A để/E các/L hệ_thống/N này/P vận_hành/V trơn_tru/N và/N an_toàn/A
+Thực_tế/N cũng/R cho/V thấy/V sau/N vụ/N hacker/N tấn_công/V vào/E cuối/N tháng/N 72016/M nhiều/N đơn_vị/N nhận/V ra/R rằng/C việc/N đầu_tư/V một/M hệ_thống/N bảo_mật/N hiện_đại/A thôi/V chưa/R đủ/A còn/R cần/V phải/V liên_tục/A nâng_cấp/V liên_tục/A theo_dõi/V và/N bảo_vệ/V
+Bởi/E lẽ/N hacker/N luôn/R sử_dụng/V các/L kĩ_thuật/N tinh_vi/N liên_tục/A sáng_tạo/V ra/R mã/V độc/A để/E tấn_công/V hệ_thống/N công_nghệ_thông_tin/N và/CC chỉ/R cần/V lơ_là/V một_chút/N thì/C dù/C hệ_thống/N có/V được/R bảo_vệ/V bằng/E một/M phần_mềm/N hiện_đại/A cũng/R sẽ/R bị/V chọc/V thủng/N
+Tuy_nhiên/C phải/V nhìn_nhận/V rằng/C các/L cuộc/N tấn_công/V vừa_qua/N của/E hacker/N vẫn/R chỉ/R là/V phần/N nổi/V của/E tảng/N băng/N
+Chúng_ta/P đầu_tư/V hệ_thống/N công_nghệ_thông_tin/N từ/E lâu/N nhưng/C gần/A đây/P mới/R thực_sự/A chú_trọng/V vào/E an_toàn/N thông_tin/N
+Bởi_vậy/N các/L tổ_chức/N cần/V có/V một/M chiến_lược/N toàn_diện/A để/E giải_quyết/V tận/N gốc/N các/L vấn_đề/N mất/V an_toàn/N thông_tin/N
+Theo/E đó/P các/L tổ_chức/N doanh_nghiệp/N cần/V rà_soát/V lại/R hệ_thống/N nhằm/V phát_hiện/V hệ_thống/N đã/R bị/V xâm_nhập/V chưa/R và/N làm/V sạch/A khắc_phục/V các/L lỗ_hổng/N bảo_mật/V còn/V tồn_tại/V
+xây_dựng/V hệ_thống/N chính_sách/N toàn_diện/A đảm_bảo/V mọi/N thành_phần/N đều/R có/V chính_sách/N bảo_mật/V đồng_thời/N cần/V có/V hệ_thống/N tự_động/N để/E quản_lí/V giám_sát/N chính_sách/N tập_trung/V
+xây_dựng/V chương_trình/N kiểm_định/N an_toàn/A thông_tin/N với/E tất_cả/P các/L sản_phẩm/N trước/E khi/N đưa/V lên/R hoạt_động/N chính_thức/A và/CC giám_sát/V an_toàn/N thông_tin/N 247/M để/E xử_lí/V các/L vấn_đề/N kịp_thời/N
+Cần/V rà_soát/V nhiều/A khâu/N để/E đảm_bảo/V an_toàn/A
+Đại_diện/N Công_ty/N CMC/Np InfoSec/V khuyến_cáo/N các/L công_ty/N không/R nên/V sử_dụng/V dịch_vụ/N hosting/V chung/A shared/N hosting/N mà/N nên/C thuê/V máy_chủ/N riêng/A dedicated/N hoặc/N đặt/V máy_chủ/N của/E mình/N collocation/V tại/E các/L công_ty/N hosting/N có/V uy_tín/N
+Ngoài_ra/C các/L đơn_vị/N này/N cần/V thuê/V ngoài/N dịch_vụ/N tấn_công/V đánh_giá/V penentration/N testing/V được/R thực_hiện/V bởi/E các/L công_ty/N uy_tín/N được/V Bộ/N Thông_tin/N và/CC Truyền_thông/N cấp/V phép/N hoạt_động/V và/N dịch_vụ/N này/P phải/V được/V thực_hiện/V trước/E khi/N đưa/V trang_web/N vào/V vận_hành/V
+Việc/N thực_hiện/V tấn_công/N đánh_giá/V định_kì/N trong/E vòng/N 3/M đến/N 6/M thánglần/N kể_cả/N khi_không/N cập_nhật/V mã_nguồn/N trang_web/N hoặc/N ra_mắt/V phiên_bản/N mới/A
+Theo/E các/L chuyên_gia/N việc/N bảo_đảm/V an_toàn/N thông_tin/N không_chỉ/N giúp/V tổ_chức/N doanh_nghiệp/N có/V một/M cơ_thể/N khoẻ_mạnh/N mà_còn/N nâng/V cao/A uy_tín/N của/E mình/P với/E khách/N hàng/N
+Bên_cạnh/N đó/P chỉ/R khi/N các/L hệ_thống/N công_nghệ_thông_tin/N trong/E nước/N đủ/N mạnh/A chúng_ta/N mới/A đối_phó/V được/R với/E các/L cuộc/N tấn_công/V mạng/N thậm_chí/N là/V chiến_tranh/N mạng/N từ/V bên/N ngoài/N
+Do/E đó/P bên_cạnh/N việc/N đầu_tư/V công_nghệ/N xây_dựng/V đội_ngũ/N nhân_sự/N các/L tổ_chức/N có_thể/N lựa_chọn/V phương_án/N sử_dụng/V các/L đơn_vị/N chuyên/A về/E an_toàn/N thông_tin/N từ/E các/L doanh_nghiệp/N tin_cậy/N để/E bảo_đảm/V an_toàn/N cho/V hệ_thống/N

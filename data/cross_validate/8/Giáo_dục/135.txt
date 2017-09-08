@@ -1,0 +1,11 @@
+Trường/N đại_học/N đặt/V máy/N khảo_sát/V mức_độ/N hài_lòng/V sinh_viên/N
+Bạn/N cảm_thấy/V như/C thế_nào/N khi/N làm_việc/V với/E phòng/N công_tác/N sinh_viên/N đó/P là/V câu/N hỏi/V khảo_sát/V trên/E màn_hình/N cảm_ứng/N đặt/V trước/E phòng/N công_tác/N sinh_viên/N của/E Trường/N ĐH/N Công_nghệ/N thông_tin/N ĐHQG/M TPHCM/Np
+Hệ_thống/N này/P giúp/V nhà_trường/N thay_đổi/V cách/N lắng_nghe/V sinh_viên/N
+Để/E trả_lời/V câu/N hỏi/V trên/E sinh_viên/N chọn/V một/M trong/E năm/N biểu_tượng/N cảm_xúc/N cực_kì/A thất_vọng/V buồn/N bình_thường/A vui/N và/CC cực_kì/V hài_lòng/N
+Máy/N cũng/R đề_nghị/V sinh_viên/N để/V lại/R vài/N dòng/N góp_ý/N cụ_thể/A
+Ở/E mức_độ/N dùng/V thử/V trường/N chưa/R đặt/V mua/V công_cụ/N đánh_giá/V nên/N dữ_liệu/N thu_thập/V từ/E máy/N chỉ/R được/V tổng_hợp/V dưới/N dạng/N file/N Excel/Np và/CC gửi/V về/R máy_tính/V do/E trưởng_phòng/N công_tác/N sinh_viên/N quản_lí/N
+Đây/P là/V công_nghệ/N của/E một/M công_ty/N startup/N do/E các/L cựu/N học_sinh/N Trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np sáng_lập/V cùng/A nhóm/N kĩ_sư/N người/N Mỹ/Np và/CC Việt_Nam/Np phát_triển/V tại/E Mỹ/Np với/E tên/N gọi/V ConfiguRate/N phần_mềm/N đánh_giá/V nhanh/A
+Mỗi/L máy/N khảo_sát/V là/V một/M máy_tính_bảng/N kết_hợp/V camera/N hoạt_động/N 2424/M giờ/N hệ_thống/N máy/N giúp/V thống_kê/V dữ_liệu/N và/CC đưa/V ra/R khuyến_nghị/V
+Hệ_thống/N có/V nhiệm_vụ/N chuyển/V thông_tin/N và/CC góp_ý/N của/E sinh_viên/N thành/N dữ_liệu/N đám/N mây/N tổ_chức/N quản_lí/N có_thể/A xem/V thông_tin/N ngay/N tức_thời/N chị/N Trần_Thị_Kiều_Oanh/Np đại_diện/V công_ty/N cho/V biết/V
+Tuỳ/N nhu_cầu/N đơn_vị/N sử_dụng/V máy/N có_thể/R đặt/V nhiều/A loại/N câu/N hỏi/V khác/A nhau/N
+Máy/N khảo_sát/V mức_độ/N hài_lòng/V trực_tiếp/A từ/E sinh_viên/N tạo/V hứng_thú/N cho/E các/L bạn/N khi/N đến/V phòng/N công_tác/N sinh_viên/N và/CC khuyến_khích/V tinh_thần/N học_hỏi/V sáng_tạo/N khởi_nghiệp/N của/E các/L bạn/N ông/N Nguyễn_Văn_Toàn/Np trưởng_phòng/N công_tác/N sinh/V viên/N cho/V biết/V

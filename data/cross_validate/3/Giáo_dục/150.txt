@@ -1,0 +1,28 @@
+Điểm_chuẩn/N vào/V lớp/N 10/M Trường_Phổ_Thông_Năng_Khiếu/Np
+Nhấn/Np vào/V đây/N để/E tải/N bảng/N điểm/N
+Theo/E đó/P điểm_chuẩn/V vào/V học/V tại/E cơ_sở/N 1/M của/N trường/N
+Chuyên_Toán/N 30/M điểm/N
+Chuyên_Tin/Np thi/V Tin_học/N 2363/M
+Chuyên_Tin/Np thi/V Toán/Np 2888/M
+Chuyên/N Vật_lí/V thi/V Lý/Np 2838/M
+Chuyên_Vật_lí/N thi/V Toán/Np 2750/M
+Chuyên_Hoá_học/N 3113/M
+Chuyên_Sinh_học/N thi/V Sinh/Np 2408/M
+Chuyên_Sinh_học/N thi/V Toán/Np 2663/M
+Chuyên/N Tiếng_Anh/Np 3380/M
+Chuyên_Ngữ_văn/N 2750/M
+Lớp_Không/Np chuyên/V 1713/M
+Điểm_chuẩn/N vào/V học/V tại/E Cơ_sở/N 2/M
+Chuyên_Toán/Np 2300/M
+Chuyên_Vật_lí/N thi/V Lý/Np 2175/M
+Chuyên_Vật_lí/N thi/V Toán/Np 2150/M
+Chuyên/N Hoá_học/V 2550/M
+Chuyên_Sinh_học/N thi/V Sinh/Np 1970/M
+Chuyên_Sinh_học/N thi/V Toán/Np 2050/M
+Chuyên_Tiếng_Anh/Np 2605/M
+Chuyên_Ngữ_văn/N 2300/M điểm/N
+Theo/E hội_đồng/N tuyển_sinh/N Trường_Phổ_Thông_Năng_Khiếu/Np thí_sinh/V đạt/V điểm/N thi/V như/N trên/N đồng_thời/N đạt/V các/L tiêu_chuẩn/N sau/N mới/A trúng_tuyển/V
+Xếp/N loại/N hạnh_kiểm/N học_lực/N cả/N năm_học/N của/E các/L lớp/N cấp/N trung_học_cơ_sở/N từ/E khá/N trở/V lên/R
+Xếp/N loại/N tốt_nghiệp/V trung_học_cơ_sở/N từ/E khá/N trở/V lên/R
+Thi/V đủ/A các/L bài/N thi/V quy_định/N không/R vi_phạm/V Quy_chế/N trong/N kì/N thi/V tuyển_sinh/N và/CC các/L bài/N thi/V đều/N đạt/V điểm/N lớn/A hơn/R 2/M
+HOÀNG/M HƯƠNG/N

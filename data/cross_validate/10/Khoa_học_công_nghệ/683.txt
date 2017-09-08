@@ -1,0 +1,9 @@
+﻿/M Loại/N giấy/N in/V có_thể/R tái_sử_dụng/V hơn/R 80/M lần/N
+Một/M nhóm/N nghiên_cứu/V quốc_tế/N vừa/R công_bố/V sản_phẩm/N giấy/N mới/R có_thể/A in/V bằng/E ánh_sáng/N và/CC xóa/V đi/V để/E dùng/V lại/R nhiều/A lần/N trên/E tạp_chí/N Nano_Letters_Engineers_Garage/Np hôm/N 3/M 2/M đưa/V tin/N
+Loại/N giấy/N này/P sử_dụng/V tính_chất/N thay_đổi/V màu_sắc/N khi/N tiếp_xúc/V với/E ánh_sáng/N của/E một_số/L hóa_chất/N
+Giấy/N in/V thông_thường/A sau/E khi/N được/V phủ/V một/M lớp/N phân_tử/V nano/N mỏng/A sẽ/R trở_thành/V loại/Nc giấy/N mới/R có_thể/A sử_dụng/V tia_cực_tím/N để/E in/V
+Ngoài_ra/C chữ_viết/N trên/E giấy/N có_thể/R dễ_dàng/A bị/V xóa_bỏ/V khi/N nó/P được/R làm/V nóng/A ở/E nhiệt_độ/N 120/M độ/N C/N
+Vì_thế/C loại/Nc giấy/N này/P có_thể/R tái_sử_dụng/V hơn/R 80/M lần/N  /V Mục_đích/N của/E sản_phẩm/N này/P là/V nhằm/V giảm/V các/L ảnh_hưởng/N tiêu_cực/N về/E kinh_tế/N và/CC môi_trường/N trong/E quá_trình/N sản_xuất/V giấy/N
+Điều/N quan_trọng/A nhất/A trong/E nghiên_cứu/N của/E chúng_tôi/P đó/P là/V tạo/V ra/R loại/Nc giấy/N mới/R có/V hình_dạng/N và/CC tạo/V cảm_giác/N giống/A giấy/N thường/R
+Tuy_nhiên/C chúng/P có_thể/R in/V và/CC xóa/V nhiều/A lần/N mà/C không/R cần/V thêm/V mực/N
+Loại/N giấy/N này/P sẽ/R đem/V đến/E giá_trị/N lớn/A về/E kinh_tế/N và/CC môi_trường/N cho/E xã_hội/N hiện_đại/A Yandong_Yin/Np làm_việc/V tại/E trường/N Đại_học/N California_Mỹ/Np thành_viên/N nhóm/N nghiên_cứu/V cho_biết/V

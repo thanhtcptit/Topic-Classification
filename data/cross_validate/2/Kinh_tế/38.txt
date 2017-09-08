@@ -1,0 +1,52 @@
+Mã/N độc/A đòi/V tiền/N chuộc/V Petya/Np lan/V đến/R châu/N Á/Np
+Chúng_tôi/N khuyến_cáo/N tất_cả/N các/L tổ_chức/N về/V việc/N sao/N lưu/V dữ_liệu/N
+Dữ_liệu/N được/V sao/N lưu/V đúng/A lúc/N và/CC đúng/A cách/N sẽ/R rất/R hữu_dụng/A khi/N cần/V phục_hồi/V lại/R các/L tập_tin/N gốc/N trong/E trường_hợp/N xấu/N nhất_là/N dữ_liệu/N bị/V mất/V
+Sau/E khi/N ghi_nhận/V các/L trường_hợp/N tấn/N công_bằng/N mã/N độc/A đòi/V tiền/N chuộc/V tại/E Ukraine/Np và/CC Nga/Np ngày/N 276/M mã/N độc/A mới/R nhanh_chóng/A được/R báo_cáo/V tấn_công/V các/L hệ_thống/N của/E những/L tập_đoàn/N lớn/A của/E châu/N Âu/Np sau/N đó/P
+Có/V vẻ/N chúng/N chỉ/V tập_trung/V vào/E các/L tập_đoàn/N doanh_nghiệp/N lớn/A và/CC các/L cơ_quan/N chính_quyền/N
+Sang/V ngày/N 286/M giới/N doanh_nghiệp/N ở/E khu_vực/N châu/N Á/Np Thái_Bình_Dương/Np bắt_đầu/V báo_cáo/V về/E những/L trường_hợp/N lây_nhiễm/V tương_tự/N
+Ấn_Độ/Np Úc/Np xác_nhận/V dính/V mã/N độc/A Petya/Np
+Theo/E Hãng/N tin/N Reuters/Np trong/E ngày/N 286/M một/M trong/E ba/M hệ_thống/N mạng/N của/E Jawaharlal_Nehru_Port/Np JNPT/Np tại/E thành_phố/N Mumbai/Np cảng/N container/N lớn/A nhất/A của/E Ấn_Độ/Np bị/V sụp/V mạng/N
+Đây/P là/V hệ_thống/N mạng/N do/E Hãng/N tàu/N AP/Np MollerMaersk/V MAERSKbCO/N của/E Đan_Mạch/Np vận_hành/V và/CC được/V báo_cáo/V có/V liên_đới/N đến/V tận/N hệ_thống/N bên/N thành_phố/N Los_Angeles/Np Mỹ/Np
+Ông/N Anil_Diggikar/Np chủ_tịch/N JNPT/Np kể/V với/E Reuters/Np rằng/C công_ty/N phải/V cho/V xếp/V container/N theo/V kiểu/N thủ_công/N
+Cùng/A ngày/N 286/M nhật_báo/N Los_Angeles_Times/Np đưa/V tin/N mã/V độc/A Petya/Np đã/R tấn_công/V vào/E hệ_thống/N máy_tính/N tại/E nhà_ga/N lớn/A nhất/A của/E cảng/N Los_Angeles/Np khiến/V mọi/N hoạt_động/V tê_liệt/N
+Các/L nhà_ga/N của/E cảng/N Los_Angeles/Np do/E Tập_đoàn/N vận_tải/V biển/N AP/Np MollerMaersk/V của/E Đan_Mạch/Np điều_hành/N chiếm/V khoảng/N 16/M hạm_đội/N tàu/N thế_giới/N đã/R phải/V đóng_cửa/V trong/E nhiều/A giờ/N do/E hệ_thống/N công_nghệ_thông_tin/N IT/Np của/E công_ty/N bị/V nhiễu_loạn/V
+Công_ty/N Beiersdorf/Np nhà/N sản_xuất/V sản_phẩm/N bảo_vệ/N da/N Nivea/Np đặt/V tại/E Ấn_Độ/Np và/CC Công_ty/N Reckitt_Benckiser/Np RBL/Np cũng/R xác_nhận/V với/E Reuters/Np rằng/C một_số/L hệ_thống/N mạng/N của/E mình/P bị/V nhiễm/V mã/N độc/A mới/R có/V tên/N gọi/V Petya/Np
+Tại_Úc/Np một/M quan_chức/N quản_lí/N doanh_nghiệp/N xác_nhận/V với/E Hãng/N tin/N Reuters/Np rằng/C hệ_thống/N mạng/N của/E một/M nhà_máy/N sản_xuất/V sôcôla/N Cadbury/Np bị/V nhiễm/V mã/V độc/A
+Việc/N sản_xuất/V của/E nhà_xưởng/N Hobart/Np trên/E đảo/N Tasmania/Np của/E Úc/Np đã/R phải/V ngừng/V từ/E tối/N 276/M do/E hệ_thống/N máy_tính/N tắt/V ngúm/N
+Chủ/N sở_hữu/N của/E Cadbury/Np là/V Tập_đoàn/N Mondelez_International_Inc/Np MDLZO/Np đã/R phát/V đi/R thông_báo/V về/R vấn_đề/N trục_trặc/N kĩ_thuật/N mạng/N với/E các/L đơn_vị/N của/E mình/N khắp/A toàn_cầu/N
+Các/L công_ty/N bảo_mật/V Kaspersky_Lab/Np và/CC FireEye/N Inc/Np FEYEO/Np thông_tin/V với/E Hãng_Reuters/Np rằng/N họ/P đã/R ghi_nhận/V những/L vụ/N tấn_công/V vào/E các/L doanh_nghiệp/N ở/E một_số/N quốc_gia/N trong/E khu_vực/N châu/N Á/Np Thái_Bình_Dương/Np nhưng/C không/R cung_cấp/V thêm/V chi_tiết/N
+Máy_tính/N Việt_Nam/Np có_thể/A bị/V tấn_công/V
+Theo/E đánh_giá/N của/E Hãng/N bảo_mật/V Kaspersky_Lab/Np với/E Tuổi_Trẻ/Np mã/N độc/A Petya/Np nguy_hiểm/A hơn/R WannaCry/V từng/R gây/V ra/V cuộc/N tấn_công/V toàn_cầu/N hồi/N tháng/N 5/M vừa_qua/N do/E mã_hoá/N toàn_bộ/N ổ_cứng/N và/CC có/V khả_năng/N lây_lan/V rộng/A trong/E mạng/N nội_bộ/N
+Đây/P là/V một/M vụ/N tấn_công/V vô_cùng/R phức_tạp/N bao_gồm/V nhiều/A hình_thức/N tấn_công/V
+Trong/E đó/P một/M chi_tiết/N rất/R đáng/V chú_ý/V là/V một/M lỗ_hổng/N EternalBlue/N từng/R bị/V khai_thác/V trong/E các/L cuộc/N tấn_công/V của/E mã/N độc/A WannaCry/N tháng/N trước/N đã/R được/V chỉnh_sửa/V và/N được/V sử_dụng/V cho/E sự/N lây_lan/V lần/N này/P trong/E mạng_lưới/N doanh_nghiệp/N
+Chuyên_gia/N bảo_mật/V Nguyễn_Minh_Đức/Np giám_đốc/V hệ_thống/N bảo_mật/N thông_minh/A Cyradar/Np đánh_giá/V Với/E tốc_độ/N lây_lan/V và/CC danh_sách/N các/L nạn_nhân/N của/E Petya/Np tại/E châu/N Âu/Np chúng_ta/N có_thể/R thấy/V độ/N nguy_hiểm/A của/E nó/P không/R thua_kém/V gì/N WannaCry/N
+Cùng/A khai_thác/V lỗ_hổng/N tương_tự/A nên/C việc/N Petya/Np có_thể/A lây_lan/V sang/V khu_vực/N châu/N Á/Np và/CC Việt_Nam/Np là/V hoàn_toàn/A có_thể/A xảy/V ra/R
+Do/C đã/R có/V những/L đề_phòng/N và/CC chuẩn_bị/V hạ_tầng/N từ/E vụ/N WannaCry/N nên/C các/L doanh_nghiệp/N tổ_chức/N Việt_Nam/Np sẽ/R có_thể/A đỡ/V vất_vả/V hơn/R trong/E khâu/N sẵn_sàng/A ứng_phó/V
+Tuy_nhiên/C chúng_ta/P cũng/R không/R nên/V chủ_quan/V vì/E nếu/C đã/R bị/V lây_nhiễm/V thì/C không/R có/V gì/P đảm_bảo/V cho/E việc/N trả/V tiền/N mà/C lấy/V lại/R được/R dữ_liệu/N cả/T
+Cùng/A chung/N đánh_giá/V ông/N Vũ_Ngọc_Sơn/Np phó/Z chủ_tịch/N phụ_trách/V mảng/N chống/V mã/N độc/N thuộc/V Tập_đoàn/N Bkav/Np cũng/R cho/V rằng/E khả_năng/N phát_tán/V mã/N độc/A tại/E Việt_Nam/Np trong/E thời_gian/N tới/V là/V cao/N
+Mã/N độc/A Petya/Np kết_hợp/V nhiều/A hình_thức/N phát_tán/V và/N hình_thức/N khai_thác/V lỗ_hổng/N SMB/Np trong/E hệ_điều_hành/N Windows/Np giống/V như/C cách_thức/N WannaCry/N lây_nhiễm/N tháng/N trước/N
+Do_vậy/C khả_năng/N phát_tán/V của/E mã/N độc/A này/N cao/A hơn/R WannaCry/N ông/N Sơn/Np nhận_định/V
+Theo/E thống_kê/N của/E Công_ty/N an_ninh/N mạng/N CMC/Np Infoset/Np Việt_Nam/Np hiện/N vẫn/R còn/V hơn/A 9700/M máy_chủ/N có/V nguy_cơ/N lây_nhiễm/V rất/R cao/A với/E các/L mã/N độc/A khai_thác/V qua/R EnternalBlue/V
+Phần_lớn/N các/L máy_chủ/N này/P thuộc/V về/R các/L tập_đoàn/N công_ty/N và/CC tổ_chức/V lớn/V
+Mặc_dù/N ở/E thời_điểm/N hiện_tại/N chưa/R phát_hiện/V trường_hợp/N lây_nhiễm/V cụ_thể/N tại/E Việt_Nam/Np tuy_nhiên/N với/V tình_trạng/N các/L máy_chủ/N và/CC máy/N cá_nhân/N dùng/V không/R được/V vá/V như/C hiện_tại/N việc/N lây_lan/V ồ_ạt/N tại/E Việt_Nam/Np trong/E thời_gian/N ngắn/A là/V điều/N có_thể/A xảy/V ra/R
+Dễ/Np bị/V lây_nhiễm/V nhất_là/X các/L hòm_thư/N điện_tử/N do/E doanh_nghiệp/N tổ_chức/N tự/N vận_hành/V đặc_biệt/A là/V các/L máy_chủ/N chạy/V mail/N servers/N trên/N Windows/Np
+Các/L tổ_chức/N doanh_nghiệp/N sở_hữu/V địa_chỉ/N email/V dạng/N tenabcgovvn/N hoặc/N tenabccomvn/N cần/V hết_sức/N lưu_ý/V đại_diện/N CMC/Np Infoset/Np cảnh_báo/V
+Cần/V làm_gì/N
+Bà/N Võ_Dương_Tú_Diễm/Np đại_diện/V Kaspersky_Lab/Np tại/E Việt_Nam/Np khuyến_cáo/N tất_cả/N đơn_vị/N đang/R sử_dụng/V hệ_điều_hành/N Windows/Np XP/Np và/CC Windows/Np 7/M về/E việc/N cài_đặt/V bản/N vá/V MS17/N 010/M của/E Microsoft/Np để/E bảo_vệ/V trước/N đợt/N tấn_công/V này/N
+Bên_cạnh/N đó/P người_dùng/A và/CC các/L tổ_chức/N nên/V nghiêm_túc/N thực_hiện/V các/L biện_pháp/N phòng_vệ/A như/C sau/N
+Không/R truy_cập/V vào/E các/L đường_dẫn/N hoặc/N các/L tập_tin/N đính/N kèm/V trong/E email/N trong/E các/L tin_nhắn/N trừ/V khi/N xác_nhận/V được/R những/L tập_tin/N đính/N kèm/V và/N đường_dẫn/N này/P là/V an_toàn/N
+Sử_dụng/V tính_năng/N AppLocker/N của/E hệ_điều_hành/N Windows/Np để/E vô_hiệu_hoá/V bất_cứ/N tập_tin/N thực_thi/N nào/P có_mang/V tên/N perfc/N
+dat/N cũng/R như/A của/E tính_năng/N PSExec/N một/M phần/N của/N Sysinternals_Suite/Np
+Sử_dụng/V công_cụ/N phòng_chống/V mã/N độc/A tống_tiền/N miễn_phí/N của/E Kaspersky_Lab/Np để/E tăng_cường/V bảo_vệ/V
+Các/L quản_trị/N viên/N bộ_phận/N an_ninh/N mạng/N cần/V thông_báo/V cho/R người_dùng/A trong/E tổ/N chứccông_ty/N biết/V về/E mã/N độc/N mới/A để/E nâng/V cao/A cảnh_giác/N
+Trang_bị/V ngay/R biện_pháp/N bảo_vệ/V hiệu_quả/N trước/A mã/N độc/A đòi/V tiền/N chuộc/V cho/E các/L thiết_bị/N của/N bạn/N
+Microsoft/N nhìn_nhận/N kẽ/N hở/N của/N Windows/Np
+Tập_đoàn/N Microsoft/Np xác_nhận/V vụ/N tấn_công/V mạng/N bằng/E mã/N độc/A đòi/V tiền/N chuộc/V bắt_đầu_từ/N ngày/N 276/M là/V do/N khai_thác/V kẽ/N hở/N của/E hệ_điều_hành/N Windows/Np
+Một/M người_phát_ngôn/N của/E tập_đoàn/N công_nghệ/N hàng_đầu/N của/E Mỹ/Np xác_nhận/V với/E Hãng/N tin/N AFP/Np Mã/Np độc/A đòi/V tiền/N chuộc/V đã/R sử_dụng/V nhiều/A kĩ_thuật/N để/E phát_tán/V lây_nhiễm/V gồm/V cả/P công_cụ/N vá/V lỗi/N MS17/N 010/M do/N Microsoft/Np sử_dụng/V để/E vá/V lỗi/N cho/E các/L hệ_điều_hành/N từ/E Windows/Np XP/Np cho/V đến/V Windows/Np 10/M
+Trong/E vụ/N tấn_công/V mã/N độc/N WannaCry/A hồi/N tháng/N 5/M phía/N Microsoft/Np đã/R gửi/V thông_báo/N yêu_cầu/V khách/N hàng/N của/E mình/P sử_dụng/V bản/N vá/V lỗi/N MS17/M 010/M
+Người/N phát_ngôn/N của/E Microsoft/Np cũng/R kêu_gọi/V khách/N hàng/N cẩn_thận/A khi/N mở/V các/L tệp_tin/N không/R rõ/V nguồn/N bởi/E mã/N độc/A đòi/V tiền/N chuộc/N thường/R sử_dụng/V thư_điện_tử/N để/V phát_tán/V
+Cơ_quan/N an_ninh/N Quốc_gia/N Mỹ/Np có/V dính_líu/N
+Trang_Wiki/Np Leaks/Np ngày/N 286/M đã/N tiê/V ́/N t/V lô/N ̣/N ră/N ̀/N ng/V ca/N ́/V c/N công/N cu/N ̣/N tâ/N ́/N n/V công/N ma/N ̣/N ng/N đươ/N ̣/N c/N cho/V la/N ̀/N của/E Cơ_quan/N An_ninh/N Quô/Np ́/V c/N gia/N My/Np ̃/V NSA/Np đa/N ̃/N đươ/N ̣/N c/N sư/N ̉/N du/N ̣/N ng/N trong/E cuô/N ̣/N c/N tâ/N ́/N n/V công/N ma/N ̣/N ng/N quy_mô/N lơ/N ́/N n/N lần/N này/P
+Đài/N truyền_hình/N CNN/Np đưa/V tin/N Ca/N ́/V c/N nha/N ̀/N nghiên/N cư/N ́/N u/N cho/V ră/N ̀/N ng/N vu/N ̣/N tâ/N ́/N n/V công/N ngày/N 276/M sư/N ̉/N du/N ̣/N ng/N mô/N ̣/N t/N lô/N ̃/N hô/V ̉/N ng/N cu/N ̉/N a/N hê/N ̣/N điê/N ̀/N u/N ha/N ̀/N nh/N Windows/Np vơ/V ́/N i/N tên/N go/N ̣/N i/V EternalBlue/N đê/N ̉/N tâ/V ́/N n/N công/N ma/N ̣/N ng/N lươ/N ́/N i/N ca/N ́/V c/N công_ty/N
+Ma/N ̃/N đô/N ̣/N c/N WannaCry/V trước/E đây/P cũng/R đa/N ̃/N tâ/N ̣/N n/N du/N ̣/V ng/N khai/V tha/V ́/N c/N lô/N ̃/N hô/V ̉/N ng/N EternalBlue/N va/N ̀/N đươ/N ̣/N c/N biê/N ́/N t/N tơ/N ́/N i/N như/C mô/N ̣/N t/N trong/E ca/N ́/V c/N công/N cu/N ̣/N tâ/N ́/N n/V công/N ma/N ̣/N ng/N của/N NSA/Np
+Trươ/N ́/N c/N đo/V ́/N trang/N WikiLeaks/N đa/N ̃/V cung/N câ/N ́/N p/N dư/N ̃/N liê/N ̣/N u/N vê/N ̀/N EternalBlue/N va/N ̀/V ca/N ́/V c/N chương/N tri/N ̀/N nh/N tâ/N ́/V n/N công/N ma/N ̣/N ng/N kha/N ́/N c/N cho/V ră/N ̀/N ng/V ca/N ́/V c/N chương/N tri/N ̀/N nh/N na/N ̀/N y/N do/E NSA/Np pha/V ́/N t/N triê/N ̉/N n/N va/N ̀/N đươ/N ̣/N c/N các/L cơ_quan/N đặc_biệt/A của/E My/Np ̃/N sư/N ̉/N du/N ̣/N ng/N

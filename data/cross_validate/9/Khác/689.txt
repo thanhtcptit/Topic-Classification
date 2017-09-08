@@ -1,0 +1,3 @@
+Invoke/Np bộ/N loa/N đầu_tiên/A tích_hợp/V trợ_lý/N ảo/A Cortana/Np
+Song_song/A với/E cuộc_chiến/N về/E phần_cứng/N nhiều/A hãng/N công_nghệ/N đang/R chạy_đua/V để/E trở_thành/V hãng/N sở_hữu/V trợ_lý/N ảo/A thông_minh/A nhất/A hiện_diện/V trên/E nhiều/A thiết_bị/N nhất/A
+Có_thể/R kể/V đến/E Apple/Np với/E Siri/Np  /M Microsoft/Np với/E Cortana/Np Google/Np có/V Assistant/Np và/CC mới_đây/X là/V Samsung/Np với/E Bixby/Np

@@ -1,0 +1,31 @@
+Mã/N độc/A khét_tiếng/A WannaCry/Np khiến/V cả/P thế_giới/N hoảng_loạn/V như_thế_nào/X 
+Đồn/N cảnh_sát/N Trung_Quốc/Np tê_liệt/A Theo/V thông_tin/N từ/E 95cn.org/M mã/N độc/A WannaCry/Np đã/R bị/V lây_nhiễm/V vào/E máy_tính/N của/E một_số/L đồn/N cảnh_sát/N tại/E Trung_Quốc/Np khiến/V cho/E việc/N quản_lý/V của/E cảnh_sát/N bị/V đình_trệ/V 
+Nhiều/A phòng/N cảnh_sát/N giao_thông/N phòng/N quản_lý/V nhập_cư/V tại/E Trung_Quốc/Np phải/V đóng_cửa/V vì/E mã/N độc/A này/P để/E tìm/V phương_án/N giải_quyết/V 
+Không_chỉ/C có/V các/L đồn/N cảnh_sát/N của/E Trung_Quốc/Np là/V nạn_nhân/N của/E WannaCry/Np mà/C các/L trụ/N ATM/Np thuộc/V ngân_hàng/N Bank/Np of/E China/Np tại/E quốc_gia/N này/P cũng/R bị/V ảnh_hưởng/V 
+95cn/M dẫn_chứng/V một_số/L hình_ảnh/N về/E trụ/N ATM/Np sử_dụng/V hệ_điều_hành/N Windows/Np bị/V mã/V độc/A này/P tấn_công/V và/CC hiện/N thông_báo/V về/E thông_tin/N mã/V độc/A 
+Đây/P là/V ngân_hàng/N lớn/A tại/E Trung_Quốc/Np ghi_nhận/V có/V mã/N độc/A xâm_nhập/V 
+Ngừng/V sản_xuất/V xe/N vì/E mã/N độc/A Tính/V đến/E thời_điểm/N này/P ít_nhất/X đã/R có/V 2/M hãng/N sản_xuất/V xe/N lên_tiếng/V về/E việc/N bị/V mã/V độc/A này/P tấn_công/V làm/V tê_liệt/A hệ_thống/N đó/P là/V Nissan/Np Nhật_Bản/Np và/CC Renault/Np hãng/N xe/N sản_xuất/V xe_hơi/N lớn/A thứ/N 2/M của/E Pháp/Np 
+Trong/E đó/P Renault/Np bị/V ảnh_hưởng/V nặng_nề/A khi/N phải/V ngừng/V hoạt_động/V sản_xuất/V của/E mình/P tại/E các/L nhà_máy/N ở/E Pháp/Np Slovenia/Np và/CC Romania/N 
+Riêng/T với/E Nissan/Np hãng/N này/P cho_biết/V nhà_máy/N ở/E thành_phố/N Sunderland/Np Anh/N đã/R bị/V tấn_công/V bởi/E loại/N mã/N độc/A nguy_hiểm/A này/P nhưng/C không/R công_bố/V mức_độ/N thiệt_hại/A 
+Mạng_lưới/N dịch_vụ/N y_tế/N quốc_gia/N Anh/N tê_liệt/A NHS/Np Mạng_lưới/N dịch_vụ/N y_tế/N quốc_gia/N Anh/N bất_ngờ/A bị/V tê_liệt/A trên/E quy_mô/N lớn/A vào/E ngày/N 12/5/M khi/N bị/V tấn_công/V mạng/N bởi/E mã/N độc/A WannaCry/Np 
+Vụ/N tấn_công/V này/P gây/V xáo_trộn/V các/L hoạt_động/N của/E NHS/Np trong/E việc/N chăm_sóc/V sức_khỏe/N các/L bệnh/N nhận/V 
+Cơ_sở_dữ_liệu/X của/E mạng_lưới/N NHS/Np bị/V đóng_băng/V các/L nhân_viên/N y_tế/N không_thể/R truy_cập/V đến/E dữ_liệu/N của/E các/L bệnh_nhân/N 
+Những/L cuộc/N hẹn/V với/E các/L bệnh_nhân/N đều/R bị/V hủy_bỏ/V 
+Các/L hacker/N yêu_cầu/V mạng_lưới/N này/P phải/V trả/V 230/M bảng/N Anh/N để/E mở/V khóa/N máy_tính/N //X máy/N và/CC trong/E thời_hạn/N 7/M ngày/N nếu_không/C chi_trả/V các/L dữ_liệu/N sẽ/R bị/V xóa/V 
+Đến/E ngày/N 13/5/M tức/C sau/E 1/M ngày/N của/E cuộc/N tấn_công/V Chính_phủ/N Anh/N đã/R công_bố/V khôi_phục/V được/R 97%/M cơ_sở/N thuộc/V mạng_lưới/N NHS/Np và/CC đưa/V vào/E hoạt_động/N trở_lại/V bình_thường/A 
+Thực_tế/N có/V khoảng/N 20%/M cơ_sở/N dịch_vụ/N y_tế/N bị/V ảnh_hưởng/V 
+Đánh/V sập/V 1/M game/N online/V lớn/A tại/E Thái/Np lan/V Mã/N độc/A này/P tiếp_tục/V gây/V khiếp_sợ/V khi/N đánh/V sập/V một/M tựa/N game/N online/V mang/V tên/N Blade/Np &/CC Soul/Np nổi_tiếng/A của/E Thái_Lan/Np do/E Garena/Np phát_hành/V 
+Đại_diện/N Garena/Np đã/R đăng_tải/V thông_báo/V về/E tình_trạng/N và/CC lý_giải/V rằng/C một_số/L máy_chủ/N của/E nhà/N phát_hành/V bị/V lây_nhiễm/V mã/V độc/A WannaCry/Np 
+Các/L hacker/N đã/R mã_hóa/V dữ_liệu/N và/CC yêu_cầu/V đòi/V tiền/N chuộc/V 
+Tuy_nhiên/C Garena_Online/Np thông_báo/V các/L dữ_liệu/N của/E khách_hàng/N vẫn/R an_toàn/A và/CC đang/R tìm/V các/L biện_pháp/N để/E loại_bỏ/V mã/N độc/A này/P ra/V khỏi/V máy_chủ/N 
+Nhiều/A quốc_gia/N bị/V tấn_công/V liên_tục/A Đức/Np Nga/Np Tây_Ban_Nha/Np Mỹ/Np đang/R là/V quốc_gia/N bị/V ảnh_hưởng/V nặng_nề/A về/E các/L cuộc/N tấn_công/V mạng/N trên/E quy_mô/N lớn/A 
+Đối_với/E Đức/Np mã/N độc/A này/P tấn_công/V vào/E ngàng/N đường_sắt/N gây/V ảnh_hưởng/V cho/E một_số/L nhà_ga/N và/CC quầy/N bán/V vé/N 
+Tại_Nga/Np cũng/R chung/V tình_trạng/N khi/N mã/N độc/A này/P quấy_rối/V ngành/N đường_sắt/N 
+Mã/N độc/A này/P tấn_công/V hệ_thống/N công_nghệ_thông_tin/N ngày/N đường_sắt/N của/E Nga/Np nhưng/C không/R ảnh_hưởng/V đến/E vận_hành/V 
+Mã/N độc/A này/P cũng/R lây_nhiễm/V vào/E một_số/L ngân_hàng/N ở/E Nga/Np nhưng/C chưa/R có/V bất_cứ/R phát_hiện/V nào/P cho/V thấy/V rò_rỉ/V thông_tin/N của/E khách_hàng/N 
+Riêng/T với/E Tây_Ban_Nha/Np mã/N độc/A này/P đã/R nhắm/V đến/E một/M hãng/N viễn_thông/N lớn/A là/V Telefonica/Np ảnh_hưởng/V đến/E một_số/L máy_tính/N của/E nhà/N mạng/N này/P 
+Tuy_vậy/C đại_diện/N hãng/N này/P lên_tiếng/V vụ/N tấn_công/V vẫn/R chưa/R ảnh_hưởng/V đến/E thông_tin/N của/E khách_hàng/N 
+Theo/E bảng/N đồ/N WannaCry/Np tấn_công/V của/E Intel/Np hiện_tại/N quốc_gia/N bị/V ảnh_hưởng/V nghiêm_trọng/A nhất/R đó/P là/V các/L khu_vực/N ở/E Châu_Âu/Np Mỹ/Np và/CC Trung_Quốc/Np 
+Tại_Việt_Nam/Np Hà_Nội/Np và/CC TPHCM/Np cũng/R đã/R xuất_hiện/V trên/E bản_đồ/N khu_vực/N bị/V ảnh_hưởng/V 
+Người/N dùng/V cá_nhân/N và/CC các/L doanh_nghiệp/N cần/V đề_cao/V cảnh_giác/V nếu/C có/V sự_việc/N đáng/V ngờ/V hãy/R liên_hệ/V ngay/R với/E nhà_chức_trách/N để/E ngăn_chặn/V và/CC tránh/V sự/Nc phát_tán/V trên/E diện/N rộng/A 
+Gia_Hưng/Np 

@@ -1,0 +1,40 @@
+Nhập_nhèm/N ghi/V nhãn/N sữa/N
+Bộ/N Y/Np tế/N chuẩn_bị/V sửa_đổi/V Quy_chuẩn/N kĩ_thuật/N quốc_gia/N sữa/N dạng/N lỏng/N
+Theo/E đó/P khái_niệm/N sữa/N tiệt_trùng/N sẽ/R bị/V bãi_bỏ/V và/N thay_thế/V bằng/E khái_niệm/N sữa/N hoàn_nguyên/N và/CC sữa/N hỗn_hợp/N
+Có_thể/A từ/E tuần/N tới/V thị_trường/N sẽ/R buộc/V phải/V thay_thế/V dần/R sản_phẩm/N sữa/N tiệt_trùng/A bằng/A các/L tên/N gọi/V mới/A
+Theo/E ông/N Nguyễn_Thanh_Phong/Np cục_trưởng/N Cục/N An_toàn/A thực_phẩm/N Bộ/N Y/Np tế/V sữa/N tiệt_trùng/N sẽ/R phải/V đổi/V thành/N sữa/N hoàn_nguyên/N và/CC sữa/N hỗn_hợp/N
+Sữa/N tiệt_trùng/N không/R phải/A sữa_tươi/V
+Theo/E các/L chuyên_gia/N thị_trường/N sữa_tươi/N của/E VN/Np khá/N đặc_thù/A
+Hiện/N có/V 3/M loại/N sữa/N nước/N đang/R được/V nhiều/A người/N tiêu_dùng/V hiểu/V là/V sữa_tươi/N nhưng/C được/V chế_biến/V theo/V 3/M cách/N với/E nguyên_liệu/N rất/R khác/A nhau/N
+Sữa_tươi/N 100/M sữa_tươi/N pha/V với/E sữa/N bột/N và/CC sữa/N bột/N pha/V hoàn_toàn/A
+Với/E loại/N thứ_hai/N và/CC thứ_ba/N các/L nước/N trên/E thế_giới/N vẫn/R gọi_là/N sữa/N bột/N hoàn_nguyên/V
+Tuy_nhiên/C do/C không/R quy_định/N rõ/A tỉ_lệ/N sữa_tươi/V nguyên_liệu/N trên/E nhãn/N nên/C nhiều/A doanh_nghiệp/N tận_dụng/V nhãn_hiệu/N sữa/N tiệt_trùng/N trong/E khi/N sữa/N tiệt_trùng/N và/CC sữa/N thanh_trùng/N hiện_nay/N có/V nhiều/A người/N tiêu_dùng/V không/R phân_biệt/V được/R
+Sữa/N thanh_trùng/N là/V sữa_tươi/N 100/M được/V thanh_trùng/V và/N hạn/N sử_dụng/V ngắn/N từ/E 34/M ngày/N
+Còn/C sữa/N tiệt_trùng/N thành_phần/N bao_gồm/V sữa_tươi/N và/CC thực_chất/N có/V sữa/N bột/N pha/V lại/V
+Trao_đổi/V với/E Tuổi_Trẻ/Np một/M chuyên_gia/N về/V thực_phẩm/N cho/V rằng/C cách/N gọi/V sản_phẩm/N là/C sữa/N tiệt_trùng/N có_thể/A gây/V những/L hiểu/N lầm/V vì/E cách/N gọi/V gần/A giống/A như/C sữa/N thanh_trùng/N sản_phẩm/N 100/M sữa_tươi/N
+Giải_thích/V về/E việc/N dự_tính/V bỏ/V tên/N sản_phẩm/N sữa/N tiệt_trùng/N ông/N Nguyễn_Thanh_Phong/Np cho/V biết/V quy_chuẩn/N sữa/N dạng/N lỏng/N hiện_hành/V ban_hành/N năm/N 2010/M bảy/M năm/N đã/R qua/V và/N cần/V có/V những/L thay_đổi/N để/E phù_hợp/V quy_chuẩn/N tương_tự/A của/N quốc_tế/N
+Ông/Nc Phong/Np cho_hay/V sau/N phiên/N họp/V với/E các/L nhà/Nc sản_xuất/N Hiệp_hội/N Sữa/Np VN/Np các/L chuyên_gia/N cuối/N tuần/N trước/A có_thể/A tuần/N tới/V Bộ/N Y/Np tế/V sẽ/R ban_hành/V quy_chuẩn/N VN/Np về/V sữa/N dạng/N lỏng/N mới/R trong/E đó/P chia/V ra/R sản_phẩm/N sữa_tươi/N là/V 100/M sữa_tươi/N như/C hiện_nay/N còn/V tên/N gọi/V sữa/N tiệt_trùng/N sẽ/R loại_bỏ/V để/E thay/V bằng/E sữa/N hoàn_nguyên/N và/CC sữa/N hỗn_hợp/N
+Trong/E khi/N đó/P theo/V thống_kê/N năm/N 2014/M của/N Tổng_cục/N Thống_kê/N có/V tới/N hơn/A 70/M số_lượng/N sữa/N nước/N trên/E thị_trường/N ở/E VN/Np là/V sữa/N hoàn_nguyên/N phần/N còn/V lại/V là/V sữa_tươi/N từ/E các/L vùng/N nguyên_liệu/N của/E các/L công_ty/N trong/N nước/N
+Ủy/N ban/N Khoa_học/N công_nghệ/N và/CC môi_trường/N Quốc_hội/N cũng/R từng/R cho/V rằng/N lượng/N sữa_tươi/N nguyên_liệu/N còn/R thiếu/V trong/E khi/N cách/V ghi/V nhãn/N sản_phẩm/N hiện_nay/N khiến/V người/N tiêu_dùng/V dễ/A nhầm_lẫn/V một_số/N sản_phẩm/N sữa/N hoàn_nguyên/A với/E sữa_tươi/N ảnh_hưởng/V đến/V quyền/N được/R minh_bạch/N thông_tin/N người_dùng/N thiếu/V cơ_sở/N lựa_chọn/V đúng/A sản_phẩm/N
+Doanh_nghiệp/N chưa/R thông/V
+Tuy_nhiên/C theo/V thông_tin/N của/E Tuổi_Trẻ/Np một/M nhà/N sản_xuất/V sản_phẩm/N sữa_tươi/N vẫn/R chưa/R đồng_thuận/V với/E cách/N phân_chia/N mới/A của/E Bộ/N Y/Np tế/V
+Thực_ra/V từ/E lâu/N đã/R có/V cuộc/N tranh_cãi/V kéo_dài/A giữa/E các/L nhà/N sản_xuất/V sữa/N dạng/N lỏng/N ở/V VN/Np
+Trong/E đó/P có/V hai/M phe/N chính/A phe/N sữa_tươi/N và/CC phe/N nhập_khẩu/V sữa/N bột/N về/V chế_biến/V thành/N sữa/N dạng/N lỏng/N
+Bất/N phân/N thắng_bại/N nên/C Bộ/N Y/Np tế/V từng/R có/V văn_bản/N đề_nghị/V Thủ_tướng/N phân_xử/N
+Nhưng/C đề_nghị/N này/P đã/R được/V hoàn_trả/V về/R Bộ/N Y/Np tế/V vì/E việc/N xây_dựng/V quy_chuẩn/N hoàn_toàn/A nằm/V trong/E thẩm_quyền/N của/E Bộ/N Y/Np tế/V
+Theo/E ông/N Nguyễn_Thanh_Phong/Np việc/N phân_chia/V tên/N gọi/V sữa/N dạng/N lỏng/V tới/V đây/P phải/V đáp_ứng/V các/L yêu_cầu/N về/V bảo_vệ/V người/N tiêu_dùng/V và/CC phát_triển/V sản_xuất/N
+Người/N tiêu_dùng/V cần/V được/V hiểu/V đúng/A về/E sản_phẩm/N nhưng/C cũng/R cần/V tránh/V thay/V tên/N gọi/V khiến/V doanh_nghiệp/N tốn_kém/V và/CC có/V nguy_cơ/N bị/V ế/A hàng/R vì/E người/N tiêu_dùng/V e_ngại/N
+Tuy_nhiên/C giám_đốc/N kinh_doanh/V một/M công_ty/N sữa/N trong/E nước/N cho/V biết/V nếu/C quy_định/N này/P có/V hiệu_lực/N doanh_nghiệp/N phải/V xem/V như/C làm/V lại/R nhận_diện/V thương_hiệu/N từ/E đầu/N cho/V không/R ít/A sản_phẩm/N sữa/N nước/N khá/A vất_vả/A
+Việc/N này/P cũng/R giống/A như/C đổi/V tên/N họ/P lại/R cho/V sản_phẩm/N doanh_nghiệp/N phải/V tiến_hành/V công_bố/V lại/R sản_phẩm/N in_ấn/N thiết_kế/V thậm_chí/N các/L tên/N sản_phẩm/N trên/N trang_web/N cũng/R phải/V thay_đổi/V rất/R nhọc/A vị/N này/P cho/V biết/V
+Nhưng/C đáng/V lo/V nhất_là/N làm_sao/N thuyết_phục/N được/V người/N tiêu_dùng/V
+Ngày_trước/N khi/N cơ_quan/N quản_lí/V bắt_buộc/V sữa/N bột/N phải/V bổ_sung/V thêm/R từ/E thực_phẩm/N bổ_sung/V trên/E bao_bì/N thị_trường/N đã/R bị/V chững/V lại/R rất/R nhiều/A ông/N cho/V biết/V thêm/V
+Sẽ/R yêu_cầu/V ghi/V nhãn/N rõ/A hơn/R
+Theo/E ông/N Nguyễn_Thanh_Phong/Np cùng/A với/E việc/N thay_đổi/V cách/N gọi/V một/M trong/E những/L sản_phẩm/N sữa/N dạng/N lỏng/V bán_chạy/N trên/E thị_trường/N quy_chuẩn/N mới/A sẽ/R yêu_cầu/V các/L nhà/N sản_xuất/V ghi/V rõ/N thành_phần/N sản_phẩm/N và/CC chỉ_tiêu/N chất_lượng/N chủ_yếu/A lên/V bao_bì/N
+Theo/E dự_kiến/N của/E Bộ/N Y/Np tế/V tới/V đây/P sữa_tươi/V sẽ/R có/V 4/M loại/N sữa_tươi/N tiệt_trùng/N nguyên_chất/N sữa_tươi/N thanh_trùng/N nguyên_chất/N sữa_tươi/N tiệt_trùng/N sữa_tươi/N thanh_trùng/N
+Với/E sản_phẩm/N sữa/N tiệt_trùng/N có/V pha/N sữa/N bột/N sẽ/R phải/V chuyển_đổi/V thành/N sữa/N hoàn_nguyên/N và/CC sữa/N hỗn_hợp/N
+Nhiều/A nước/N không/R có/V sữa/N hoàn_nguyên/N
+Một/M chuyên_gia/N nghiên_cứu/V về/E thị_trường/N sữa/N của/E VN/Np cho_hay/N tại/E các/L nước/N có/V ngành/N nuôi/V bò/N sữa/N phát_triển/V như/N Mỹ/Np Úc/Np New_Zealand/Np hay/V một_số/N quốc_gia/N châu/N Âu/Np không/R có/V khái_niệm/N sữa/N hoàn_nguyên/A vì/E đều/N sử_dụng/V 100/M là/V sữa_tươi/N
+Do_vậy/C người/N tiêu_dùng/V chỉ/R phân_biệt/V sữa_tươi/V được/R xử_lí/V theo/V hình_thức/N thanh_trùng/V hay/V tiệt_trùng/N
+Tại/E các/L quốc_gia/N phải/V nhập_khẩu/V sữa/N các/L công_ty/N có/V hai/M lựa_chọn/N là/V nhập_khẩu/N sữa/N nước/N đóng_hộp/N hoặc/N sữa/N bột/N về/V để/E hoàn_nguyên/V pha/V loãng/A thành/N nước/N bổ_sung/V thêm/V các/L chất/N để/E tái_tạo/V chất_lượng/N và/CC hương_vị/N như/N sữa_tươi/N
+Nhập_khẩu/N sữa_tươi/V nguyên/N hộp/N rất/R đắt_đỏ/A nên/C các/L công_ty/N ưu_tiên/V mua/V sữa/N bột/N về/V pha/V loãng/A vì/E có/V những/L thời_điểm/N giá/N sữa/N bột/N trên/E thế_giới/N giảm/N rất/R sâu/A từ/E đó/P mới/R có/V khái_niệm/N sữa/N tiệt_trùng/N không/R nói/V rõ/A nguồn_gốc/N là/V sữa_tươi/N hay/C sữa/N bột/N được/V hoàn_nguyên/V
+TRẦN/M MẠNH/N

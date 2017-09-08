@@ -1,0 +1,10 @@
+Khám/V bệnh/N ở/E bác_sĩ/N trẻ/A an_toàn/A hơn/R bác_sĩ/N già/A
+Bác_sĩ/N lớn_tuổi/A thường/R tạo/V cảm_giác/N tin_tưởng/V bởi/E kinh_nghiệm/N dày_dặn/V nhưng/C một/M nghiên_cứu/N mới_đây/X gợi_ý/V tìm/V gặp/V bác_sĩ/N trẻ/A sẽ/R tốt/A hơn/R cho/E bệnh_nhân/N
+Theo/E Men/V N s/N Health/Np nhóm/N nhà_khoa_học/N từ/E Đại_học/N Harvard/Np /V Mỹ/Np /V do/E ông/Nc Yusuke_Tsugawa/Np dẫn_đầu/V đã/R quan_sát/V 19 0/M bác_sĩ/N cùng/A bệnh_nhân/N của/E họ/P và/CC phát_hiện/V tuổi/N bác_sĩ/N có/V liên_hệ/V với/E tình_trạng/N người_bệnh/N
+Cụ_thể/A tỷ_lệ/N bệnh_nhân/N tử_vong/N của/E bác_sĩ/N dưới/E 30/M tuổi/N là/V thấp/A nhất/A đạt/V 10,8%/M tiếp/V đó/P là/V bác_sĩ/N 40-49/M tuổi/N với/E 11,1%/M và/CC bác_sĩ/N 50-59/M tuổi/N với/E 50-59/M tuổi/N
+Bước/N sang/V tuổi/N 60/M các/L bác_sĩ/N để/E mất/V 12,1%/M bệnh_nhân/N  /EOS
+Sự/N chênh_lệch/A tuy/C không/R quá/R lớn/A nhưng/C vẫn/R nên/V lưu_ý/V nhóm/N nghiên_cứu/V nhấn_mạnh/V
+Lý_giải/V hiện_tượng/N này/P ông/Nc Tsugawa/Np cho_biết/V y_học/N là/V lĩnh_vực/N phát_triển/V vô_cùng/R nhanh_chóng/A
+Cùng_với/C thời_gian/N tay_nghề/N của/E bác_sĩ/N có_thể/R bị/V đi/V xuống/V và/CC tụt_hậu/V trong/E khi/N lớp/N trẻ/A được/V tiếp_xúc/V với/E các/L phương_pháp/N mới/A nhất/A hiện_đại/A nhất/R  /EOS
+Các/L chuyên_gia/N nhận_định/V công_trình/N của/E Đại_học/N Harvard/Np đã/R đem/V tới/E phát_hiện/V mới_lạ/N giúp/V cộng_đồng/N cẩn_trọng/A hơn/A trong/E quá_trình/N khám/V chữa/V bệnh/N
+Tuy_nhiên/C cần/V lưu_ý/V nó/P nhằm/V mục_đích/N chỉ/R ra/V mối/N liên_hệ/V giữa/E tuổi/N bác_sĩ/N và/CC tỷ_lệ/N tử_vong/N của/E bệnh_nhân/N chứ/C không/R hề/T khẳng_định/V bác_sĩ/N già/A là/V nguyên_nhân/N trực_tiếp/A khiến/V người_bệnh/N qua_đời/V

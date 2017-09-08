@@ -1,0 +1,7 @@
+Mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V vào/E 19/M trường/N Đại_học/N khối/N Quân_đội/N 
+Theo/E đó/P điểm/N nhận/V hồ_sơ/N cao/A nhất/A trong/E khối/N trường/N Quân_đội/N năm/N nay/P là/V 24/M điểm/N xuất_hiện/V ở/E tổ_hợp/N A00/Np và/CC A01/Np đối_với/E nữ/N khu_vực/N phía/N Bắc/Np )/A của/E Học_viện/N Kỹ_thuật/N quân_sự/N tổ_hợp/N D01/Np D02/Np D04/Np đối_với/E nữ/N cả/P khu_vực/N phía/N Bắc/Np và/CC phía/N Nam/Np của/E Học_viện/N Khoa_học_quân_sự/Np 
+Trường_Sĩ/V quan/N Phòng/N hóa/N có/V mức/N điểm/N nhận/V hồ_sơ/N thấp/A nhất/A trong/E khối/N 15/M điểm/N –/N xuất_hiện/V ở/E tổ_hợp/N A00/Np áp_dụng/V đối_với/E thí_sinh/N khu_vực/N miền/N Nam/Np 
+Dưới/E đây/P là/V bảng/N mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V vào/E 19/M trường/N Đại_học/N khối/N Quân_đội/N Lưu_ý/V Học_viện/N Biên_phòng/N tuyển_sinh/V thí_sinh/N phía/N Nam/Np theo/V từng/R quân_khu/N gồm/V 2/M tỉnh/N Quảng_Trị/Np Thừa_Thiên/Np Huế/Quân/Np khu/N 4/M Quân_khu/N 5/M Quân_khu/N 7/M Quân_khu/N 9/M 
+Mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V nêu/V trên/E đã/R bao_gồm/V cả/P điểm/N ưu_tiên/V 
+Mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V theo/E Tổ_hợp/N D01/Np D02/Np D04/Np của/E Học_viện/N Khoa_học_quân_sự/Np là/V điểm/N chưa/R nhân/V hệ_số/N đối_với/E môn/N Ngoại_ngữ/N 
+Lệ_Thu/Np 

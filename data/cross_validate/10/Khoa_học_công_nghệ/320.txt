@@ -1,0 +1,58 @@
+Apple/Np đổi/V tên/N OS_X/Np thành/V MacOS/Np giới_thiệu/V 10/M tính_năng/N mới/A của/E i/N OS/Np 10/M 
+Khai_mạc/V sự_kiện/N WWDC/Np 2016/M Tại/E đây/P Apple/Np đổi/V tên/N OS_X/Np thành/V MacOS/Np giới_thiệu/V 10/M tính_năng/N mới/A của/E i/N OS/Np 10/M 
+Buổi/N tường_thuật/V trực_tuyến/A sự_kiện/N khai_mạc/V WWDC/Np 2016/M của/E Dân_trí/N kết_thúc/V 
+Chúng_tôi/P sẽ/R có/V các/L bài/N viết/V sâu/A xung_quanh/N những/L nét/N mới/A Apple/Np đã/R chia_sẻ/V trong/E sự_kiện/N này/P 
+Cảm_ơn/V các/L bạn/N đã/R quan_tâm/V theo_dõi/V 
+2h/M 00/M Cuối_cùng/N Cook/Np tổng_kết/V sự_kiện/N bằng/E cách/N điểm/N lại/R tất_cả/P những/L gì/P đã/R nhắc/V tới/R trong/E sự_kiện/N watchOS/N tvOS/N macOS/N iOS/N 
+Tim_Cook/Np giới_thiệu/V một/M ứng_dụng/N dành/V cho/E i/N Pad/Np có/V tên/N Swif_Playgrounds/Np ông/N cho_biết/V ứng_dụng/N này/P sẽ/R thay_đổi/V cách/N mọi/L người/N học/V code/A giúp/V các/L lập_trình_viên/N có_thể/R học/V code/N dễ_dàng/A hơn/A 
+Swif_Playgrounds/Np sẽ/R kết_hợp/V ngôn_ngữ_lập_trình/X Swif/Np và/CC sức_mạnh/N của/E i/N Pad/Np 
+Tim_Cook/Np nói/V Chúng_tôi/P tin/V rằng/C lập_trình/N sẽ/R là/V môn_học/N bắt_buộc/V tại/E mọi/L trường_học/N 
+Swift_Playground/Np miễn_phí/V và/CC mở/V ra/R cơ_hội/N cho/E hàng/N nghìn/M trẻ_em/N học/V viết/V ứng_dụng/N i/A OS/Np 
+1h/M 45/M Tim_Cook/Np quay/V trở_lại/V sân_khấu/N Craig/Np quay/V lại/R sân_khấu/N để/E giới_thiệu/V cải/V tiết/N thứ/N 8/M trên/E i/N OS/Np đó/P là/V về/E HomeKit/Np 
+Ứng_dụng/N Home/Np nằm/V ở/E Control_Center/Np cho_phép/V điều_khiển/V nhiều/A thiết_bị/N nhà/N thông_minh/A khác_nhau/A 
+Cải_tiến/V thứ/N 9/M cho/E điện_thoại/N voicemail/V chặn/V spam/N 
+Cải_tiến/V cuối_cùng/A là/V cho/E Messages/Np 
+1h/M 11/M Một/M phụ_nữ/N demo/V các/L tính_năng/N của/E Apple_Music/Np mới/R 1h/M 06/M Eddy_Cue/Np quay/V lại/R sân_khấu/N nói/V về/E các/L tính_năng/N mới/R thứ/N 5/M 6/M 7/M Giao_diện/N mới/A của/E Apple_Maps/Np Apple_Music/Np Apple_News/Np 
+iOS/N 10/M sẽ/R có/V 10/M tính_năng/N mới/R 
+1/M 
+Nhiều/A trải_nghiệm/N người/N dùng/V mới/R Control_Center/Np đơn_giản/A hơn/R 3D/Np Touch/Np thêm/V nhiều/A tính_năng/N 2/M 
+Siri/Np được/V mở/V ra/R cho/E các/L lập_trình_viên/N 3/M 
+Bàn_phím/N i/N OS/Np thông_minh/A hơn/R QuickType/Np 4/M 
+Ứng_dụng/V Photos/Np thêm/V khả_năng/N nhận_diện/V khuôn_mặt/N hỗ_trợ/V bản_đồ/N 
+0h/M 50/M Thông_tin/N cập_nhật/V về/E i/N OS/Np mới/A nhất/A bản/N i/N OS10/Np Người/N dùng/V có_thể/R nâng_cấp/V bản/N mac/V OS/Np Sierra/Np chính_thức/A vào/E tháng/N 8/M 
+Bản/N thử_nghiệm/V sẽ/R có_mặt/V từ/E tháng/N 7/M 
+Người/N dùng/V có_thể/R gửi/V tin/N nhắn/V từ/E Siri_Siri/Np xuất_hiện/V trên/E mac/N OS/Np 
+0h/M 42/M Apple_Pay/Np hoạt_động/V trên/E nền/N web/N 
+Khi/N mua_sắm/V online/V qua/E web/N người/N dùng/V gặp/V nút/N Apple_Pay/Np chỉ/R cần/V xác_thực/A từ/E Touch/Np ID/Np qua/V i/N Phone/Np hoặc/CC Apple_Watch/Np 
+Tính_năng/N Universal_Clipboard/Np người/N dùng/V có_thể/R copy/V qua_lại/V từ/E i/N Phone/Np và/CC paste/V lên/R máy/N i/N Pad/Np hoặc/CC máy/N Mac/Np 
+Có_thể/R mở/V khóa/N máy/N Mac/Np từ/E đồng_hồ/N Apple/Np watch/V Phiên_bản/N mac/V OS/Np được/V công_bố/V lần/N này/P có/V tên/N Sierra/Np 
+Apple/Np đổi/V tên/N OS_X/Np thành/V mac/N OS/Np 
+Hệ_điều_hành/N này/P có_thể/R đồng_bộ/A với/E i/N OS/Np WatchOS/Np 0/M 36/M Phó_chủ_tịch/N Craig_Federighi/Np nói/V về/E OS/Np X/Np 0h/M 30/M Apple/Np chuyển/V sang/V chủ_đề/N nói/V về/E Siri_Người/Np dùng/V có_thể/R sử_dụng/V Siri/Np trên/E tv/N OS/Np để/E điều_khiển/V Smarthome/Np 
+Siri/Np sẽ/R kích_hoạt/V Live_Tune/Np In/Np giúp/V các/L bạn/N truy_cập/V trực_tiếp/A vào/E kênh/N 
+Muốn/V tìm/V thông_tin/N về/E nội_dung/N gì/P người/N dùng/V chỉ/R cần/V nói/V với/E Siri/Np 
+Hiện/N đã/R có/V trên/E 650/M nghìn/N bộ/N phim/N và/CC TV/Np show/N trên/E i/N Tunes/Np 
+Siri/Np thay_đổi/V cách/N chúng_ta/P tương_tác/V với/E tivi/N vì/E giờ_đây/P chúng_ta/P chỉ/R cần/V nói/V với/E nó/P rằng/C mình/P muốn/V xem/V cái/N gì/P như/C chỉ/R cần/V ra_lệnh/V tìm/V những/L bộ/N phim/N hài/A về/E trường_học/N của/E thập_niên/N 80/M Eddy_Cue/Np nói/V 
+Eddy_Cue/Np cho_biết/V hiện/N đã/R có/V 1.300/M kênh/N trên/E Apple/Np TV/Np 
+0h/M 27/M Đến/E phần/N nói/V về/E TV/Np do/E Phó_chủ_tịch/N Eddy_Cue/Np trình_bày/V 
+Ông/N nói/V về/E tv/N OS/Np và/CC Apple/Np TV/Np 
+0h/M 25/M Kevin_Lynch/Np trở_lại/V sân_khấu/N và/CC nói/V Watch/Np OS3/Np là/V bước_tiến/N lớn/A cho/E người/N dùng/V cũng_như/C các/L nhà_phát_triển/N 
+Jay_Blahnik/Np chia_sẻ/V về/E những/L tính_năng/N theo_dõi/V sức_khoẻ/N khả_năng/N kích_thích/V người/N đeo/V vận_động/V tăng_cường/V sức_khỏe/N 
+Apple_Watch/Np còn/R có_thể/A giúp/V các/L bạn/N thở/V tốt/A hơn/R thử/V giãn/A hơn/R thông_qua/V app/N mới/R có/V tên/N Breathe/Np 
+0h/M 20/M Jay_Blahnik/Np bước/V lên/R sân_khấu/N 
+Một/M tính_năng/N mới/A người/N dùng/V có_thể/R nhấn/V số/N SOS/Np 911/M từ/E đồng_hồ/N Kevin_Lynch/Np chia_sẻ/V về/E watch/N OS/Np 3/M 
+Trên/E đồng_hồ/N có/V control/N center/N giao_diện/V mới/R tương_tác/V tốt/A hơn/R có/V khả_năng/N làm/V mới/R thông_tin/N ứng_dụng/A kích_hoạt/A ứng_dụng/V tức_thì/R nhanh/A hơn/R 7/M lần/N so/V với/E bản/N cũ/A trực_quan/A hơn/R 
+Mọi/L người/N sử_dụng/V Apple_Watch/Np đều/R yêu/V nó/P 
+ứng_dụng/N của/E bạn/N gần_như/R phản_hồi/V ngay_tức_thì/R thông_tin/N được/V cập_nhật/V trước/E khi/N bạn/N nhìn/V thấy/V nó/P Kevin_Lynch/Np nói/V 
+0h/M 08/M Tim_Cook/Np nhường/V lại/R sân_khấu/N cho/E Kevin_Lynch/Np 
+Cook/Np nhấn_mạnh/V app/N store/N không/R đơn_thuần/A chỉ/R là/V kho/N ứng_dụng/V 
+Những/L con_số/N ấn_tượng/N về/E các/L kỳ/N WWDC/Np 
+Sau/E 8/M năm/N bắt_đầu_từ/V 500/M ứng_dụng/N hiện/N Apple_Store/Np đã/R vượt/V mốc/N 2/M triệu/N ứng_dụng/V với/E 130/M tỷ/N lượt/N tải/N 
+Trong/E vòng/N 1/M năm/N cộng_đồng/N phát_triển/V đã/R có/V thêm/V 2/M triệu/M thành_viên/N mới/R nâng/V tổng_số/N lên/R 13/M triệu/N nhà_phát_triển/N 
+0h/M 05/M Tim_Cook/Np bước/V lên/R sân_khấu/N vẫy/V tay/N chào/V những/L người/N có_mặt/V trong/E khán_phòng/N 0h/M 00/M Sự_kiện/N chính_thức/A bắt_đầu/V */V */M */N WWDC/Np diễn/V ra/R thường_niên/A vào/E tháng/N 6/M 
+Sự_kiện/N năm/N nay/P bắt_đầu/V khai_mạc/V lúc/N 0h00/M (/Nu giờ/N Việt_Nam/Np ngày/N 14/6/M và/CC kéo_dài/V tới/E hết/V tuần/N 
+Dự_kiến/V Apple/Np sẽ/R ra_mắt/V phiên_bản/V i/N OS/Np OS/Np X/Np watchOS/Np và/CC tv/N OS/Np mới/R 
+Giới/N quan_sát/V cũng/R chờ_đợi/V một/M phiên_bản/N Macbook_Pro/Np 2016/M hoàn_toàn/A mới/R 
+Lễ/N khai_mạc/V dự_kiến/N kéo_dài/V 2/M giờ/Nu đồng_hồ/N 
+Sự_kiện/N năm/N nay/P được/R Apple/Np tổ_chức/V tại/E Bill_Graham_Auditorium/Np thay_vì/V trung_tâm/N Moscone_Center/Np như/C các/L đại_hội/N thường_niên/A 
+Rất/R đông/A các/L nhà/N lập_trình_viên/N đã/R có_mặt/V trong/E khán_phòng/N chờ_đợi/V giờ/N khai_mạc/V 
+Không_khí/N bên/N ngoài/N khán_phòng/N Bảo_Khánh/Np 

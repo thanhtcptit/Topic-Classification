@@ -1,0 +1,10 @@
+Biến/V xe_buýt/N thành/V N khách_sạn/N di_động/V M
+Về/V mặt/N kỹ_thuật/N Cabin/Np vẫn/R là/V một/M chiếc/Nc xe_buýt/N
+Tuy_nhiên/C cảm_giác/N khi/N bạn/N bước/V chân/N từ/E khu/N sinh_hoạt/N chung/A lên/R đến/E giường/N ngủ/V sẽ/R giống/A như/C việc/N nghỉ/V tại/E một/M phòng/N dorm/N và/CC khoang/N hạng/N nhất/A xa_xỉ/A của/E máy_bay/N Currier/Np chia_sẻ/V
+Tuy_nhiên/C giá/N vé/N của/E tuyến/N xe_buýt/N nối/V hai/M thành_phố/N cách/V nhau/N hơn/A 600/M km/Nu này/P là/V không/R rẻ/A
+Mỗi/L hành_khách/N sẽ/R phải/V trả/V 115/M USD/Nu để/E trải_nghiệm/V dịch_vụ/N của/E Cabin/Np
+Thời_gian/N tới/V nếu/C tuyến/N xe/N giữa/E San_Francisco/Np và/CC Los_Angeles/Np vận_hành/V tốt/A Cabin/Np có_thể/R tiếp_tục/V xây_dựng/V thêm/V các/L hành_trình/N từ/E New_York/Np tới/E Boston/Np Boston/Np tới/V Washington/Np
+Trước_đây/N Cabin/Np vẫn/R được/V biết/V đến/V với/E cái/Nc tên/N SleepBus/Np
+Năm_ngoái/N công_ty/N này/P đã/R rất/R thành_công/V khi/N thực_hiện/V một/M chương_trình/N thử_nghiệm/V bán/V vé/N tới/V California/Np với/E giá/N chỉ/R 45/M USD/Nu
+Chương_trình/N đã/R thu_hút/V được/R hơn/A 20 0/M người/N và/CC hết/V vé/N trong/E 3/M ngày/N
+Tháng/N trước/A startup/N này/P cũng/R gọi/V thành_công/V 3/M triệu/M USD/Nu vốn/N tài_trợ/V

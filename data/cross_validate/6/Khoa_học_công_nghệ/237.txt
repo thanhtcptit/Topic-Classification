@@ -1,0 +1,23 @@
+Có/V phải_cái/N smartphone/N đang/R làm_bạn/V mất_ngủ/N
+Theo/E báo/N USA/Np Today/Np Mỹ/Np nghiên_cứu/V khoa_học/N đã/R chỉ/V ra/R bước_sóng/N của/E ánh_sáng/N màu/N xanh/A lá/N nhẹ/A toả/V ra/V từ/E màn_hình/N các/L thiết_bị/N điện_tử/N trong/N đó/N có/V smarphone/N và/CC máy_tính_bảng/N có/V hiệu_ứng/N gây/V ức_chế/V với/E melatonin/N một/M loại/Nc hormone/N vốn/R giúp/V cơ_thể/N bạn/N duy_trì/V được/R nhịp/N sinh_học/N bình_thường/A
+Ánh_sáng/N màn_hình/N thực_sự/N đã/R gây_rối/V nhịp/N đồng_hồ/N sinh_học/N khiến/V não/N bạn/N luôn/R tỉnh/N như/C sáo/N trong/E khi/N đáng_lẽ/N nó/P phải/V đi/V vào/R trạng_thái/V nghỉ_ngơi/N và/N hồi_phục/N
+Để/E khắc_phục/V tình_trạng/N này/P giải_pháp/N tốt/A nhất_là/X bạn/N nên/C tắt/N nguồn/N hoàn_toàn/N điện_thoại/N khi/N tới/V giờ/N ngủ/V
+Tuy_nhiên/C nếu/C vì/E một/M lí_do/N nào/P đó/P bạn/N không_thể/A rời/V xa/V chiếc/N iPhone/N hay/C chiếc/Nc Android/Np bạn/N có_thể/A sử_dụng/V những/L tính_năng/N tích_hợp/V sẵn/A trong/E thiết_bị/N để/E giúp/V duy_trì/V nhịp/N sinh_học/N cần_thiết/A
+Với/E thiết_bị/N iOS/N
+Night_Shift/Np là/V tính_năng/N có/V sẵn/A trong/E điện_thoại/N iPhone/N và/CC iPad/N sẽ/R tự_động/A chuyển/V màu_sắc/N của/E màn_hình/N sang/V những/L gam/N màu/N ấm/A hơn/A vào/E buổi/N đêm/N
+Bằng/Np cách/V giảm/V tối_thiểu/N ánh_sáng/N xanh/A toả/A ra/R từ/E màn_hình/N tính_năng/N Night_Shift/Np có_thể/A hỗ_trợ/V đáng_kể/N cho/V giấc_ngủ/N khi/N nhắc_nhở/V với/E bộ_não/N của/E bạn/N đã/R tới/V giờ/N nghỉ_ngơi/V
+Cách/V bật/V tính_năng/A này/P Vào/E menut/N Settings/Np →/V Display/Np amp/V
+Brightness/N →/N Night_Shift/Np
+Tại/E đây/P bạn/N có_thể/A lên/V kế_hoạch/N thời_gian/N khi/N nào/P tính_năng/V Night_Shift/Np bắt_đầu/V hoạt_động/V hoặc/N đơn_giản/A chuyển/V tab/N Scheduled/Np sang/V phần/N On/Np rồi/C để/V chiếc/Nc điện_thoại/N tự/N xử_lí/V việc/N tắt/V bật/N của/E tính_năng/N này/P
+Nếu/C vì/E lí_do/N nào/N đó/P bạn/N tạm/A ngừng/V sử_dụng/V tính_năng/N Night_Shift/Np bạn/N có_thể/A dùng/V tay/N quét/V ngược/A từ/E phía/N dưới/N màn_hình/N cảm_ứng/N của/E điện_thoại/N mở/V cửa_sổ/N Control_Center/Np và/CC chọn/V vào/E tab/N Night_Shift/Np
+Với/E điện_thoại/N Android/Np
+Phiên_bản/N hệ_điều_hành/N mới/A nhất/A của/E Android/Np còn/R gọi_là/N Android/Np 70/M hay/N Nougal/Np không/R hiểu/V vì_sao/N đã/R vô_hiệu_hoá/V tính_năng/N Night_Mode/Np vốn/N tích_hợp/V sẵn/A trong/E HĐH/N này/P
+Vẫn/R có/V cách/N để/E khối/N phục/V lại/V tính_năng/N đó/P nhưng/C cần/V một/M thủ_thuật/N dài_dòng/N và/CC phức_tạp/A do/E đó/P nếu/C vẫn/R muốn/V sử_dụng/V các/L tính_năng/N đặc_trưng/A như/C của/E Night_Shift/Np trên/E điện_thoại/N iOS/N với/E chiếc/Nc Android/Np của/E mình/N bạn/N có_thể/A chọn/V cách/N cài_đặt/V ứng_dụng/N miễn_phí/V có/V tên/N Twillight/Np
+Twillight/N hoạt_động/V hoàn_toàn/A tương_tự/A như/A Night_Shift/Np
+Căn_cứ/N vào/V thời_gian/N trong/A ngày/N ứng_dụng/V sẽ/R tắt/V ánh_sáng/N xanh/A toả/A ra/R từ/E màn_hình/N smartphone/N
+Ứng_dụng/N này/P sử_dụng/V dữ_liệu/N GPS/Np và/CC thời_gian/N của/E bạn/N để/E đồng_bộ/N hoá/N giữa/N ánh_sáng/N màn_hình/N điện_thoại/N và/CC màu/N sách/N thay_đổi/V phù_hợp/N với/E lúc/N bình_minh/N hay/C hoàng_hôn/N trong/E ngày/N
+Sự/Nc dụng/V chế_độ/N Night_Mode/Np của/E các/L app/N
+Nhiều/A app/N như/C Twitter/Np WhatsApp/V và/CC ngay/T cả/T Google_Maps/Np cũng/R có/V chế_độ/N Night_Mode/Np và/CC bạn/N có_thể/A kích_hoạt/V chế_độ/N này/P trong/E phần/N cài_đặt/N của/E từng/N app/N
+Chế_độ/N Night_Mode/Np sẽ/R thay_thế/V màu_sắc/N sáng/N trắng/A bằng/E những/L màu/N xám/A hoặc/N đen/A sẫm/A hơn/R khiến/V màn_hình/N điện_thoại/N nhìn/V dễ_chịu/A hơn/R trong/E môi_trường/N tối/N
+Tất_nhiên/A không/R phải/A app/V nào/N cũng/R chu_đáo/A như/C vậy/P với/N người_dùng/N
+Tuy_nhiên/C với/E những/L app/N thường_xuyên/A phải/V sử_dụng/V buổi/N đêm/N bạn/N nên/C kiểm_tra/V trước/N xem/V nó/N có/V chế_độ/N này/P trong/E phần/N cài_đặt/N ứng_dụng/N không/N nhé/N

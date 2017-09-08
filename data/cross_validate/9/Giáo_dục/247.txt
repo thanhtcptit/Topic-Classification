@@ -1,0 +1,34 @@
+​/N Từ_Stanford/Np Harvard/Np đến/V Việt_Nam/Np
+Lớn/V lên/R bạn/N muốn/V làm/V nghề/N gì/P là/V câu/N hỏi/V dành/V cho/R trẻ_em/N phổ_biến/V
+Tôi/P biết/V mình/P muốn/V trở_thành/V một/M nhà/N toán_học/N
+Tôi/P đã/R trải/V qua/R những/L năm_học/N phổ_thông/N của/E mình/P bên/N những/L cuốn/Nc sách/N đại_số/N và/CC tham_dự/V vào/R những/L bữa/N tiệc/N số/N
+Thế_giới/N xã_hội/N và/CC học_thuật/N của/E tôi/P xoay/V quanh/V những/L cuộc/N thi/V toán/N và/CC đó/P là/V những/L trải_nghiệm/N chủ_yếu/A của/E tôi/P trong_suốt/N quãng/N đời/N học_sinh/N
+Với/E 800/M điểm/N toán/N SAT/Np điểm/N gần/A tuyệt_đối/A SAT/Np verbal/V 800/M điểm/N SAT/Np Math/Np 2/M và/N điểm/N 5/M trong/E các/L bài/N thi/V AP/Np tôi/P đã/R được/V nhận/V vào/V trường/N ĐH/N Stanford/Np
+Mặc_dù/C ban_đầu/N tôi/P học/V toán_học/N nhưng/C tôi/P đã/R lo_lắng/V với/E việc/N tôi/P có_thể/A tốt_nghiệp/V mà/C không_thể/R trở_thành/V nhà_văn/N như/C tôi/P vẫn/R hằng/R mong_ước/V và/N lo_ngại/V rằng/C tôi/P không/R có/V đủ/A hiểu_biết/V về/E con_người/N cũng/R như/A khoa_học_xã_hội/X trò_chuyện/V về/V toán_học/N cũng/R không/R được/V hấp_dẫn/V trong/E các/L cuộc/N hẹn_hò/V
+Để/E giải_quyết/V những/L lo_lắng/N ấy/P tôi/P tham_dự/V các/L cuộc/N hội_thảo/N sáng_tác/V văn_chương/N và/CC tham_gia/V các/L khoá/N học/V về/V nhân_văn/N
+Nhờ/V đó/P tôi/P trở_nên/V say_mê/V với/E lịch_sử/N và/CC đặc_biệt/A là/V với/E nhà/N toán_học/N người/N Ý/Np của/E thế_kỉ/N 17/M Galileo/Np
+Tôi/P tốt_nghiệp/V đại_học/N Stanford/Np với/E hai/M bằng/N về/V toán_học/N và/N lịch_sử/N
+Với/E mong_muốn/N chuyên_sâu/A vào/E hai/M lĩnh_vực/N này/P tôi/P tiếp_tục/V theo/V học/V thạc_sĩ/N và/CC tiến_sĩ/N chuyên_ngành/N lịch_sử/N khoa_học/N tại/E đại_học/N Harvard/Np
+Cụ_thể/N tôi/P nghiên_cứu/V mạng_lưới/N các/L nhà/N toán_học/N thời/N Galileo/Np đã/R giúp/V cho/E các/L ý_tưởng/N về/V toán_học/N và/CC kĩ_thuật/N phát_triển/V qua/E các/L thời_kì/N lich/N sử/N như/C thế_nào/N
+Cùng/A lúc/N đó/P tôi/P giảng_dạy/V toán_học/N và/CC lịch_sử/N khoa_học/N tại/E Harvard/Np và/CC vinh_dự/N nhận/V được/R giải_thưởng/N vì/E những/L xuất_sắc/N trong/N giảng_dạy/V
+Với/E những/L kinh_nghiệm/N như/C vậy/P có_thể/A sẽ/R có/V người/N hỏi/V tôi/P tại_sao/X tôi/P lại/R đến/V sinh_sống/V tại/E TPHCM/Np và/CC dạy_học/V cho/E các/L bạn/N trẻ/N Việt_Nam/Np
+Ý/N tưởng/V này/N đến/V với/E tôi/P lần/N đầu_tiên/A cách/V đây/P bốn/M năm/N từ/V một/M người/Nc bạn/N của/E tôi/P và/N tôi/P cũng/R không_thể/R đưa/V ra/R được/R lí_do/V một_cách/N rõ_ràng/A
+Nhưng/C tôi/P biết/V chắc_chắn/V rằng/C tôi/P yêu/V và/CC làm/V rất/R tốt/A công_việc/N dạy_học/A
+Gần/A đây/P tôi/P mất/V đi/R một/M người_thân/N rất/R gần_gũi/A với/E mình/P và/N tôi/P quyết_định/V rằng/C việc/N chuyển/V đến/E một/N nơi/N nào/P đó/P mới/R có_thể/V sẽ/R giúp/V tôi/P cảm_thấy/V khuây_khoả/V và/N bớt/V đau_buồn/V
+Công_việc/N làm/V thêm/V trước/E đây/N của/E tôi/P là/V đào_tạo/V các/L em/N học_sinh/N vượt/V qua/R được/V kì/N thi/V tuyển_sinh/V đại_học/N vì_vậy/N tôi/P cảm_thấy/V rất/R thoải_mái/A với/E ý_tưởng/N hỗ_trợ/V các/L em/N với/E các/L bài/N thi/V chuẩn_hoá/V
+Mặc_dù/C ban_đầu/N tôi/P chỉ/R có/V ý_định/N lưu/V lại/R một/M thời_gian/N ngắn/A nhưng/C chính_sự/N nhiệt_tình/N ham/V học_hỏi/N của/E các/L em/N học_sinh/N Việt_Nam/Np đã/R làm/V tôi/P thay_đổi/V ý_định/N
+Với/E sự/Nc gia_tăng/V nhanh_chóng/A tầng_lớp/V trung_lưu/N tại/E Việt_Nam/Np rất/R nhiều/A học_sinh/N hiểu/V rằng/E giáo_dục/N chính/A là/V một/M tấm/N vé/N đảm_bảo/V cho/E các/L em/N có/V một/M cuộc_sống/N tốt_đẹp/A hơn/A
+Cho_dù/N học_sinh/N của/E tôi/P đến/V từ/E các/L gia_đình/N giàu_có/N hay/V khó_khăn/N về/E kinh_tế/N các/L em/N học/V trường/N công/N hay/V trường/N quốc_tế/N hoặc/N các/L em/N học/V trường/N nội_trú/N thì/C tôi/P đều/R cho/V rằng/C có/V một/M chân_lí/N chung/A đó/P là/V việc/N rèn_luyện/V được/R thói_quen/N học_tập/V tốt/A cùng/C với/N phẩm_chất/N đạo_đức/N tốt/A là/V những/L yếu_tố/N quan_trọng/A nhất/A để/V phát_triển/V
+Tôi/P rất/R vui_mừng/A vì/E đã/R góp_phần/V giúp/V hàng/R trăm/M em/N học_sinh/N thực_hiện/V được/R giấc/N mơ/V của/N họ/N
+Tôi/P càng/R tự_hào/V hơn/R khi/N chứng_kiến/V một/M em/N học_sinh/N của/E mình/N đã/R tiến_bộ/V vượt_bậc/V thông_qua/V việc/N tăng/V điểm/N SSAT/Np từ/E 55/M lên/N 80/M trong/E hơn/N 8/M tuần/N hay/C một/M em/N học_sinh/N khác/A có_thể/A tăng/V điểm/N ACT/Np vốn/N đã/R cao/A của/E mình/P lên/V điểm/N gần/A tuyệt_đối/A và/N rồi/C sau/N đó/P em/N học_sinh/N này/P được/V nhận/V vào/V một/M trường/N đại_học/N thuộc/V khối/N Ivy_League/Np
+Tôi/P cũng/R là/V người/N tin/V vào/R câu/N nói/V rằng/C nếu/C bạn/N muốn/V mọi/N việc/N được/V làm/V đúng/A ý/N mình/N thì/C hãy/R tự/P làm/V
+Do/E đã/R chứng_kiến/V rất/R nhiều/A em/N học_sinh/N không/R được/V hướng_dẫn/V học_tập/V phù_hợp/V tôi/P đã/R viết/V cuốn/N Vocabulary_Quest/Np một/M cuốn/N bài_tập/V với/E 1100/M từ_vựng/N học_thuật/N
+Đối_với/C các/L em/N học_sinh/N nhỏ_tuổi/N đang/R có/V ý_định/N học/V nội_trú/N tôi/P đã/R viết/V cuốn/N sách/N Math_Boot_Camp/Np và/CC cuốn/V Verbal_Boot_Camp/Np for/V the/N SSAT/Np Upper/Np
+Sắp/R tới/V tôi/P sẽ/R cho/V ra_mắt/V cuốn/N sách/N toán/N nâng/V cao/A để/E hỗ_trợ/V các/L em/N học_sinh/N ôn_luyện/N Math/Np 2/M SAT/Np Subject/Np test/V
+Trong/E vài/N tháng/N tới/V tôi/P cũng/R sẽ/R cho/V ra_mắt/V một_số/N cuốn/N sách/N bổ_trợ/N khác/A nhằm/V giúp/V các/L em/N học_sinh/N ôn_luyện/N tốt/A hơn/R toàn_bộ/N những/L cuốn/Nc sách/N này/P đều/R có_thể/R mua/V được/R trên/N Amazon/Np
+Ngoài/E việc/N giúp/V cho/E học_sinh/N của/E tôi/P đạt/V kết_quả/N cao/A những/L cuốn/Nc sách/N nói/V trên/N còn/R cho/V phép/N tôi/P được/V trau_dồi/V các/L kĩ_năng/N dạy_học/N của/N bản_thân/N
+Tôi/P vẫn/R tiếp_tục/V tập_trung/V vào/E công_việc/N tư_vấn/V với/E SSAT/Np SAT/Np ACT/Np GMAT/Np AP/Np Calculus/Np IB/Np math/V và/CC SAT/Np math/V subject/N tests/N
+Ngoài/E việc/N gia_sư/V các/L bài/N thi/V chuẩn_hoá/V cho/V các/L em/N học_sinh/N tôi/P muốn/V cho/V các/L em/N thấy/V rằng/C việc/N học_tập/V đòi_hỏi/V các/L em/N phải/V chăm_chỉ/N sáng_tạo/V và/CC không/R có/V đường/N tắt/V dẫn/V đến/R thành_công/V
+Với/E tất_cả/P những/L lí_do/N đó/P tôi/P rất/R tự_hào/V được/V gia_nhập/V vào/R i/N IVY/Np với/E tư_cách/N là/V cộng_sự/N và/CC giám_đốc/N của/N trung_tâm/N
+iIVY/N có/V chung/A quan_điểm/N về/E những/L giá_trị/N đạo_đức/N với/E tôi/P và/N cũng/R là/V một/M trung_tâm/N có/V danh_tiếng/N tốt/A trong/E việc/N hỗ_trợ/V rất/R nhiều/A học_sinh/N Việt_Nam/Np được/V nhận/V vào/R các/L trường/N đại_học/N danh_tiếng/N tại/N Mỹ/Np một_cách/N trung_thực/A và/CC bằng/N thực_lực/N của/E các/L em/N
+Nếu/C các/L bạn/N muốn/V hợp_tác/V với/E tôi/P Justin_Grosslight/Np và/CC i/N IVY/Np vui_lòng/V theo_dõi/V lịch/N học/V của/E trung_tâm/N trên/E trang/N facebook/N hoặc/N các/L bạn/N có_thể/R gọi/V đến/E số/N điện_thoại/N 093/M 516/M 4000/M hay/N gửi/V email/V vào/E địa_chỉ/N contactiivycom/N để/E biết/V thêm/V thông_tin/N chi_tiết/N hoặc/N để/E sắp_xếp/V lịch/N học/V 11/M

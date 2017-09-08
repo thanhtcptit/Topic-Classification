@@ -1,0 +1,8 @@
+Người/Nc phụ_nữ/N cấp_cứu/V với/E bàn_tay/N nằm/V trong/E máy/N xay/V thịt/N
+Bác_sĩ/N Võ_Hòa_Khánh/Np Bệnh_viện/N Chấn_thương/V Chỉnh_hình/N TP_HCM/Np cho_biết/V bệnh_nhân/N vào/E viện/N cấp_cứu/V ngày/N 5/7/M trong/E tình_trạng/N đau_đớn/A với/E máy/N xay/V thịt/N cuốn/V chặt/A cả/T cánh_tay/N
+Trong/E đó/P  /M máng/N xay/V thịt/N gắn/V vào/E cánh_tay/N và/CC các/L ngón_tay/N dập/V nát/A nằm/V trong/E miệng/N máy/N
+Các/L bác_sĩ/N đã/R dùng/V kềm/N cộng/V lực/N cắt/V phần/N máng/N ở/E trên/E cánh_tay/N và/CC tiến_hành/V phẫu_thuật/V cắt/V bỏ/V phần/N bàn_tay/N cũng_như/C cổ_tay/N dính/V vào/E miệng/N máy/N
+Bệnh_nhân/N phải/V hy_sinh/V bàn_tay/N bên/N phải/A để/E giải_thoát/V khỏi/V chiếc/Nc máy/N xay/V  /EOS
+Bệnh_viện/N tiếp_nhận/V khá/R nhiều/A bệnh_nhân/N vào/E cấp_cứu/V vì/E tai_nạn/N do/E máy/N xay/V thịt/N nhưng/C hiếm/A có/V trường_hợp/N mang/V cả/P máy/N theo/V
+Đa_số/L ca/N đều/R không/R cứu/V được/R toàn_vẹn/N bàn_tay/N dập/V nát/A
+Bệnh_nhân/N làm/V phụ/V bếp/N thường/R có/V thói_quen/N lấy/V tay/N khuấy/V thịt/N trong/E máy/N xay/V  /M Bác_sĩ/N khuyến_cáo/N mọi/L người/N cần/V cẩn_trọng/A khi/N xay/V thịt/N thực_hiện/V an_toàn_lao_động/N không/R cho/V tay/N vào/E máy/N để/E phòng_ngừa/V tai_nạn/N

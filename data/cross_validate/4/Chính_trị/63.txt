@@ -1,0 +1,9 @@
+Xế/N hộp/N hất/N văng/V xe_máy/N lên/E vỉa_hè/N 3/M người/N thương_vong/V
+Đến/E 5h30/N sáng/N 27/M lực_lượng/N chức_năng/N thị_xã/N Thuận_An/Np Bình_Dương/Np mới/R hoàn_tất/V khám_nghiệm/V hiện_trường/N vụ/N tai/N nạn/N làm/V một/M người/N chết/V hai/M người/N bị_thương/V
+Thông_tin/N ban_đầu/N khoảng/N 1h/M sáng/N cùng/A ngày/N anh/N Nguyễn_Vũ_Vương/Np 29/M tuổi/N quê/N Lâm_Đồng/Np chạy/V xe_máy/N chở/V hai/M nam/N thanh_niên/N trên/N đường/N Thủ_Khoa_Huân/Np hướng/V từ/E thị_xã/N Tân_Uyên/Np về/V thị_xã/N Thuận_An/Np
+Khi/N đến/V ngã/N tư/M Bình_Chuẩn/Np phường/N Bình_Chuẩn/Np thị_xã/N Thuận_An/Np thì/C bị/V ôtô/N 4/M chỗ/N chạy/V trên/E đường/N ĐT743/Np hướng/V từ/E Bình_Dương/Np đi/V Đồng_Nai/Np tông/V mạnh/A hất/N văng/V lên/R vỉa_hè/N
+Ôtô/N sau/N đó/P tiếp_tục/V lao/V vào/E nhà/N dân/N rồi/C lật/V ngửa/N trên/N vỉa_hè/N
+Tại/E hiện_trường/N xe_máy/N của/E nạn_nhân/N bị/V hất/V văng/V hàng/R chục/M mét/Nu bể/V nát/A biến_dạng/N hoàn_toàn/A
+Nhiều/A mảnh/N vỡ/A rơi/V khắp/A mặt_đường/N
+Anh/N Vương_tử/V vong/N tại_chỗ/A hai/M nam/N thanh_niên/N bị_thương/V nặng/A được/V đưa/V đi/V cấp_cứu/V
+Lực_lượng/N chức_năng/N đã/R phong_toả/A tuyến/N đường/N ĐT743/Np hướng/V từ/E Bình_Dương/Np đi/V Đồng_Nai/Np để/E khám_nghiệm/V hiện_trường/N điều_tra/V

@@ -1,0 +1,23 @@
+Người_hùng/N 22/M tuổi/N vô_tình/A chặn_đứng/V mã/N độc/A tống_tiền/V WannaCry/Np 
+Vào/E ngày/N 13/5/M vừa_qua/X theo/E giờ/N Việt_Nam/Np truyền_thông/N quốc_tế/N và/CC trong/E nước/N đã/R chấn_động/V trước/E sự/Nc lây_lan/V của/E một/M phần_mềm/N gián_điệp/N tống_tiền/V ransomware/N gây/V ảnh_hưởng/N nghiêm_trọng/A tới/E nhiều/A tổ_chức/N toàn_cầu/N như/C FedEx/Np Telefónica/Np hay/C Cục/N Y_tế/N Quốc_gia/Np Anh/N NHS/Np 
+Theo/E Guardian/Np vụ/N lây_lan/V khiến/V nhiều/A hoạt_động/N tại/E Anh/N bị/V ngưng_trệ/V kết_quả/N kiểm_tra/V và/CC hồ_sơ/N của/E bệnh_nhân/N trở_nên/V không/R khả_dụng/V và/CC thậm_chí/R cả/P smartphone/N cũng/R không/R hoạt_động/V 
+Tuy_nhiên/C trong/E khi/N cả/P thế_giới/N đang/R hoang_mang/V lo_sợ/V thì/C cuộc/N tấn_công/V đã/R đột_ngột/A bị/V chặn_đứng/V bởi/E một/M blogger/N được/V biết/V đến/V với/E tài_khoản/N Twitter/Np @/N malwaretechblog/N 
+Theo/E nguồn/N tin/N từ/E Guardian/Np anh/N đã/R cùng/A một/M cộng_sự/N đến/V từ/E công_ty/N bảo_mật/V Proofpoint/Np vô_tình/A kích/V một/M công_cụ/N diệt/V (/N Kill_Switch/Np đối_với/E phần_mềm/N độc_hại/A 
+Được/V biết/V blogger/N giấu/V tên/N này/P mới/R chỉ/R vỏn_vẹn/V 22/M tuổi/N đang/R sống/V tại/E vùng/N Tây-Nam/Np nước/N Anh/N và/CC anh/N chỉ/R tiết_lộ/V danh_tính/N dưới/E tên/N gọi/V MalwareTech/Np 
+Anh/N cũng/R cho_biết/V mình/P đang/R làm_việc/V cho/E Kryptos/Np một/M công_ty/N tình_báo/N có/V trụ_sở/N đặt/V tại/E Los_Angeles/Np 
+Tôi/P đã/R đi/V ăn/V trưa/N với/E một/M người/Nc bạn/N và/CC trở_lại/V công_việc/N vào_khoảng/X 3/M giờ/Nu chiều/N 
+Sau/E đó/P tôi/P đọc/V thấy/V một/M dòng/N tin_tức/N về/E việc/N NHS/Np và/CC các/L tổ_chức/N tại/E Anh/N khác/A bị/V tấn_công/V bởi/E mã/N độc/A anh/N cho_biết/V 
+Tôi/P đã/R ngay_lập_tức/R bắt_tay/V vào/E tìm_hiểu/V vấn_đề/N và/CC sau/E đó/P tôi/P phát_hiện/V thấy/V rằng/C chúng/P đều/R xuất_phát/V từ/E một/M tên_miền/N chưa/R đăng_ký/V 
+Vì/E giá/N của/E tên_miền/N cũng/R tương_đối/A rẻ/A nên/C tôi/P mua/V nó/P luôn/R mà/C chẳng/R suy_nghĩ/V gì/P Đáng/V bất_ngờ/A rằng/C chỉ/R với/E hành_động/N mua/V lại/R tên_miền/N có_giá/A 10.69/M USD/Nu hơn/A 200/M ngàn/N VNĐ/Np blogger/N 22/M tuổi/N đã/R vô_tình/A chặn_đứng/V được/R sự/Nc lây_lan/V của/E phần_mềm/N gián_điệp/N và/CC cứu/V dữ_liệu/N cho/E hàng/N ngàn/M người/N dùng/V có/V kết_nối/V đến/E địa_chỉ/N này/P 
+Sau/E đó/P do/E đã/R sở_hữu/V trong/E tay/N tên_miền/V anh/N chuyển_hướng/V những/L kết_nối/V này/P sang/V một/M máy_chủ/N an_toàn/A và/CC không/R bị/V ảnh_hưởng/V bởi/E hacker/N 
+Chàng/N kỹ_sư/N 22/M tuổi/N sau/E đó/P tìm_hiểu/V ra/V rằng/C khi/N một/M máy_tính/N bị/V nhiễm/V phần_mềm/N mã/N độc/A có/V tên/N WannaCry/Np nó/P sẽ/R bắt_đầu/V đánh_cắp/V thông_tin/N dữ_liệu/N để/E tống_tiền/V người/N dùng/V tuy_nhiên/C chỉ/R khi/N phần_mềm/N liên_hệ/V đến/E một/M địa_chỉ/N web/N được/V đặt/V trước/E nhưng/C không_thể/R kết_nối/V 
+Do_vậy/C một_khi/V phần_mềm/N được/V kết_nối/V thành_công/V đến/E địa_chỉ/N đó/P nó/P sẽ/R tự_động/A hủy/V 
+Mục_đích/N ban_đầu/N của/E chúng_tôi/P chỉ/R là/V theo_dõi/V sự/Nc lây_lan/V của/E WannaCry/Np và/CC xem/V liệu/V có_thể/R khắc_phục/V được/R hậu_quả/N hay/C không/R 
+Tuy_nhiên/C chúng_tôi/P thực_sự/A đã/R chặn_đứng/V sự/Nc lây_lan/V chỉ/R bằng/E cách/N đăng_ký/V tên_miền/N blogger/N trẻ/A tuổi/N nhảy_cẫng/A lên/R vì/E sung_sướng/A 
+Tuy_nhiên/C anh/N cũng/R khuyến_cáo/N rằng/C chừng/N ta/P vẫn/R nên/V cẩn_thận/A bởi/E phương_pháp/N này/P chưa/R thực_sự/A ngăn_chặn/V được/R phần_mềm/N một_cách/N toàn_diện/A 
+Trên/E thực_tế/N việc/N thiết_lập/V Kill_Switch/Np chặn_đứng/A lây_lan/V của/E anh/N sẽ/R không/R giúp_ích/V cho/E bất_cứ/R ai/P đã/R bị/V nhiễm/V phần_mềm/N gián_điệp/N mà/C chỉ/R ngăn/V chúng/P tiếp_tục/V phát_tán/V sang/E các/L máy_tính/N khác/A 
+Anh/N cũng/R cho/V rằng/C những/L cuộc/N tấn_công/V an_ninh/N mạng/N có/V quy_mô/N lớn/A như/C lần/N này/P sẽ/R còn/V tái_diễn/V trong/E tương_lai/N 
+Sau/E ngày/N phát_hiện/V ra/R cuộc/N tấn_công/V mạng/N hàng_loạt/N nhóm/N nghiên_cứu/V cho_biết/V nó/P đã/R lây_lan/V sang/V nhiều/A khu_vực/N trên/E thế_giới/N như/C Bắc_Mỹ/Np Nam_Mỹ/Np dù/C châu/N Âu/Np và/CC Nga/Np vẫn/R là/V những/L quốc_gia/N bị/V ảnh_hưởng/V nặng_nề/A nhất/A 
+Bộ/N Nội/N vụ/N Nga/Np cho_biết/V đã/R có/V khoảng/N 1000/M máy_tính/N bị/V nhiễm/V mã/V độc/A chỉ/R vài/L giờ/N sau/E khi/N cuộc/N tấn_công/V bị/V phát_hiện/V 
+Người/N dùng/V để/E đảm_bảo/V sự/N an_toàn/A cho/E thông_tin/N được/V khuyến_cáo/N nên/C sao/P lưu/V dữ_liệu/N đồng_thời/R nâng_cấp/V lên/R bản/N Windows/Np mới/A nhất/R để/E tăng_cường/V khả_năng/N bảo_mật/V 
+Nguyễn_Nguyễn_Theo_Guardian/Np 

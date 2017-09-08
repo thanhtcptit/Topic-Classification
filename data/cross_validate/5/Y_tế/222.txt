@@ -1,0 +1,9 @@
+Nam/Np thiếu_niên/N bị/V máy/N ép/V keo/N cuốn/N nát_bàn/V tay_trái/N
+11h/N trưa/N 175/M khoa/N Cấp_cứu/V Bệnh_viện/N Chấn_thương/N chỉnh_hình/N TPHCM/Np tiếp_nhận/V ca/N tai_nạn/N lao_động/N nghiêm_trọng/A
+Người/N bị/V tai_nạn/N Chau_Konl/Np 15/M tuổi/N trú/N xã/N Ba_Thi/Np Long_Xuyên/Np An_Giang/Np
+Theo/E hồ_sơ/N bệnh_án/N Chau_Konl/Np cho/V biết/V em/N sinh/V năm/N 2002/M bị/V máy/N ép/V keo/N cuốn/V tay/N làm/V dập/V cháy/V
+Bác/N sĩ/N Trần_Đăng_Khoa/Np phó/N kíp/N trực/V cấp_cứu/V tại/E bệnh_viện/N cho/V biết/V Chau_Konl/Np bị/V tổn_thương/V dập/V cháy/V toàn_bộ/N phần_mềm/N 13/M phía/N dưới/N cánh/N tay_trái/N cẳng_tay/A bàn/V tay_trái/N dập/V cháy/V từ/E trên/N khuỷu/N tay/N xuống/V hết/V bàn/N tay_trái/N
+Hiện/N bé/N đã/R được/V đưa/V vào/R phẫu_thuật/V cắt/V bỏ/V từ/E 13/M phía/N dưới/N cánh/N tay_trái/N tránh/V nguy_cơ/N nhiễm_trùng/N và/CC bảo_tồn/V phần/N tay/N còn/V lại/V
+Tiên/N lượng/N sau/A ca/N phẫu_thuật/V sẽ/R phải/V theo_dõi/V các/L vấn_đề/N nhiễm_trùng/V phục_hồi/N chức_năng/N
+Sau/N ca/N mổ/V bé/N được/V theo_dõi/V và/N điều_trị/V tại/E khoa/N Nhi/Np của/N bệnh_viện/N
+Chau_Konl/Np được/V bạn/N cùng/A làm/V đưa/V nhập_viện/N hiện/N bệnh_viện/N vẫn/R chưa/R liên_lạc/V được/R với/E người_thân/N của/N bé/N

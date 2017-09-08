@@ -1,0 +1,6 @@
+Thiết_bị/N kiểm_tra/N chất_lượng/N không_khí/N di_động/V AirQ/N Check/Np
+AirQ/N Check/Np sẽ/R hiển_thị/V ba/M loại/N thông_tin/N đèn_xanh/N lá/N cây/N chỉ/N chất_lượng/N không_khí/N tốt/A đèn_vàng/N báo/N bình_thường/A và/CC đèn/N màu/N đỏ/N cảnh_báo/V nguy_hiểm/N
+Do/E đó/P người_dùng/V biết/V khi/N họ/N đang/R ở/V trong/E vùng/N không_khí/N chất_lượng/N kém/A
+AirQ/N Check/Np cũng/R phát_hiện/V các/L giá_trị/N UV/Np độ_ẩm/N và/CC nhiệt_độ/N để/V cho/V người/N sử_dụng/V hình_dung/N đầy_đủ/A bầu_không_khí/N họ/P đang/R hít/V thở/V
+Thiết_bị/N này/P không/R hao/V tốn/V pin/N
+Thay/V vào/V đó/P kết_nối/N AirQ/N Check/Np với/E một/M điện_thoại_thông_minh/N bằng/E đầu/N cắm/N MicroUSB/N phổ_thông/N thiết_bị/N sẽ/R chỉ/V lấy/V rất/R ít/A điện/N cần_thiết/A để/E bật/V chạy/V ứng_dụng/N APP/Np và/CC chức_năng/N kiểm_tra/N chất_lượng/N không_khí/N

@@ -1,0 +1,15 @@
+Apple/N thử_nghiệm/V công_nghệ/N nhận_diện/N 3/M D/Np mở/V khoá/N iPhone/M
+Theo/E đó/P thay_vì/N sử_dụng/V công_nghệ/N bảo_mật/V quét/V vân/N tay/N Apple/Np đang/R thử_nghiệm/V tính_năng/N bảo_mật/V bằng/E quét/N hình_ảnh/N 3/M D/Np để/E nhận_diện/V gương_mặt/N chủ_sở_hữu/N iPhone/M
+Nguồn/N tin/N của/E Bloomberg/Np cho/V biết/V trong/E các/L mẫu/N iPhone/M đã/R được/V thiết_kế/V lạ/A và/N dự_kiến/V tung/V ra/R thị_trường/N vào/V nửa/N sau/N năm/N nay/P Apple/Np đang/R thử_nghiệm/V hệ_thống/N bảo_mật/N nâng_cấp/V này/N
+Công_nghệ/N quét/V 3/M D/Np nhận_diện/V gương_mặt/N cho/V phép/N người_dùng/N đăng_nhập/V xác_thực/N các/L lệnh/N thanh_toán/V qua/R mạng/N và/CC vận_hành/V các/L ứng_dụng/N bảo_mật/V khác/A trong/A máy/N
+Cùng/A với/E đó/P Apple/Np cũng/R đang/R thử_nghiệm/V cả/P phương_pháp/N quét/V mống/N mắt/N để/E tăng_cường/V thêm/V tính_năng/N bảo_mật/V cho/E công_nghệ/N quét/N nhận_diện/N 3/M D/Np
+Tốc_độ/N và/N độ_chính_xác/N của/E các/L cảm_biến/N 3/M D/Np là/V những/L điểm/N được/V chú_ý/V nhất/A trong/E công_nghệ/N bảo_mật/V mới/A của/N Apple/Np
+Nó/P có_thể/A quét/V nhận_diện/V gương_mặt/N người_dùng/A và/CC mở/V khoá/N iPhone/M chỉ/N trong/E trong/E thời_gian/N chưa/R tới/V nửa/M giây/N
+Công_nghệ/N này/P cũng/R được/V thiết_kế/V để/R có_thể/V hoạt_động/V ngay/R cả/T khi/N chiếc/N điện_thoại/N đặt/V ở/E vị_trí/N nằm/V ngang/A trên/E mặt/N bàn/N chứ/N không/R nhất_thiết/R phải/V đặt/V sát/A mặt/N
+Hiện_tại/N công_nghệ/N quét/N nhận_diện/N 3/M D/Np vẫn/R đang/R được/V Apple/Np thử_nghiệm/V và/CC có_thể/N sẽ/R chưa/R xuất_hiện/V trên/E các/L thiết_bị/N mới/A
+Tuy_nhiên/C theo/V nguồn/N tin/N của/E Bloomberg/Np Apple/Np đã/R có/V ý_định/N dùng/V công_nghệ/N này/P thay_thế/V công_nghệ/N quét/V bảo_mật/V vân/N tay/N Touch/Np ID/Np của/N họ/N
+Trong/E các/L thử_nghiệm/N người_ta/N nhận/V thấy/V tính_năng/N quét/V bảo_mật/N nhận_diện/N 3/M D/Np thu_thập/V nhiều/A điểm/N dữ_liệu/N hơn/A tính_năng/N quét/N vân/N tay/N do/E đó/P khiến/V nó/P có/V độ/N an_toàn/A cao/A hơn/R
+Năm/N 2013/M Apple/Np tung/V ra/R công_nghệ/N bảo_mật/V Touch/Np ID/Np với/E dòng/N sản_phẩm/N iPhone/N 5s/N để/E mở/V khoá/N điện_thoại/N và/CC bổ_sung/V thêm/V tính_năng/N hỗ_trợ/V xác_thực/N thanh_toán/V và/CC đăng_nhập/V các/L app/N một/M năm/N sau/A đó/P
+Apple/Np không/R phải/A công_ty/N đầu_tiên/A sử_dụng/V các/L dạng_thức/N xác_thực/N sinh_trắc_học/N khác/A nhau/N trong/N sản_phẩm/N
+Ở/E dòng/N sản_phẩm/N mới/A nhất/A của/E Samsung/Np cũng/R đã/R trang_bị/V công_nghệ/N bảo_mật/V quét/N mống/N mắt/N để/E mở/V điện_thoại/N và/CC xác_thực/N thanh_toán/V
+Tuy_nhiên/C tính_năng/N đó/P của/E điện_thoại/N Galaxy/Np S8/Np không/R được/V đánh_giá/V cao/A vì/E một_số/N người_dùng/N đã/R chỉ/V ra/V nguy_cơ/N bảo_mật/V ở/E chỗ/N tính_năng/N này/P có_thể/A bị/V đánh_lừa/V bằng/E các/L hình_ảnh/N chụp/V mắt/N người_dùng/A in/V ra/R

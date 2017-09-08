@@ -1,0 +1,6 @@
+Hàn_Quốc/Np đầu_tư/V trồng/V xoài/N hữu_cơ/N tại/N Đồng_Tháp/Np
+Thông_tin/N từ/E Sở/N NN/Np amp/V
+PTNT/Np tỉnh/N Đồng_Tháp/Np cho/V biết/V Tập_đoàn/N nông_nghiệp/N hữu_cơ/N Narai/Np Hàn_Quốc/Np sẽ/R đầu_tư/V trồng/V xoài/N hữu_cơ/N tại/E địa_phương/N sau/E khi/N khảo_sát/V các/L điều_kiện/N và/CC cơ_hội/N kinh_doanh/V tại/N Đồng_Tháp/Np
+Dự_kiến/N tập_đoàn/N này/P sẽ/R đầu_tư/V trang_trại/N để/E trồng/V xoài/N hữu_cơ/N với/E diện_tích/N khoảng/N 40ha/M sản_phẩm/N sẽ/R được/V xuất/V sang/V thị_trường/N Hàn_Quốc/Np tiêu_thụ/V
+Ngoài_ra/C xoài/N còn/R được/V chế_biến/V thành/V các/L sản_phẩm/N có/V giá_trị/N gia_tăng/V cao/A như/C thực_phẩm/N mĩ_phẩm/N thức/V uống/V
+Đồng_Tháp/Np là/V tỉnh/N có/V diện_tích/N xoài/N lớn/A nhất/R khu_vực/N ĐBSCL/Np với/E hơn/N 9300ha/M sản_lượng/N hằng/R năm/N hơn/R 90000/M tấn/N trồng/V tập_trung/V ở/E huyện/N Cao_Lãnh/Np và/CC TP/Np Cao_Lãnh/Np

@@ -1,0 +1,9 @@
+Phần_mềm/N đọc/V mã/N DNA/Np thực_phẩm/N
+Theo/E Asahi_Shimbun/Np khi/N sử_dụng/V phần_mềm/N này/P người/N sử_dụng/V có_thể/R dễ_dàng/A xác_định/V các/L loại/N thực_phẩm/N tươi_sống/A dựa/V trên/E thông_tin/N trình_tự/N chuỗi/Nc DNA/Np của/E chúng/P
+Các/L nhà_nghiên_cứu/N thuộc/V Đại_học/N Kyoto/Np và/CC hệ/N cao_học/N Nghiên_cứu/V Môi_trường/N Toàn_cầu/N tạo/V ra/R một/M phần_mềm/N có_thể/R so_sánh/V trình_tự/N DNA/Np của/E thực_vật/N cá/N và/CC các/L sinh_vật/N sống/V khác/A có/V trong/E kho/N dữ_liệu/N
+Bằng/Np cách/V so_sánh/V mã_vạch/N DNA/Np phần_mềm/N có_thể/R tự_động/A xác_định/V nguồn_gốc/N của/E các/L loại/N thực_phẩm/N
+Giá/N của/E cá_ngừ/N vây/V vàng/N hoàn_toàn/A khác/A với/E giá/N của/E cá_ngừ/N vây/V xanh/A Thái_Bình_Dương/Np
+Nhưng/C nếu/C cả/P hai/M loại/Nc cá/N đều/R được/V sử_dụng/V khi/N nấu_nướng/V thậm_chí/R các/L chuyên_gia/N cũng/R gặp/V khó_khăn/A trong/E việc/N phân_biệt/V chúng/P
+Giờ_đây/N nhờ/V sử_dụng/V phần_mềm/N đọc/V mã_vạch/N DNA/Np bạn/N có_thể/A dễ_dàng/A phát_hiện/V các/L trường_hợp/N gắn/V sai/A nhãn_mác/N cho/V hai/M loại/Nc cá/N Akifumi_Tanabe/Np người/N đóng/V vai_trò/N quan_trọng/A trong/E quá_trình/N phát_triển/V phần_mềm/N cho_biết/V
+Đối_với/E các/L loại/N thực_phẩm/N mới/R phần_mềm/N cũng/R có_thể/A xác_định/V các/L loại/N trong/E cùng/A một/M họ/N loài/N hoặc/CC chỉ/R ra/V chúng/P thuộc/V các/L loài/N liên_quan/V nào/P
+Các/L kho/N dữ_liệu/N trình_tự/N DNA/Np của/E khoảng/N 288 0/M loại/N sinh_vật/N sống/V bao_gồm/V cả/P nấm/Nc và/CC virus/N hiện/N đã/R được/V thiết_lập/V ở/E Nhật_Bản/Np Mỹ/Np và/CC châu/N Âu/Np

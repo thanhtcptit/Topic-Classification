@@ -1,0 +1,5 @@
+Thẻ/N nhớ/V microSD/N nhảy/V lên/R mốc/N dung/N lượng/N 256GB/M
+Tốc_độ/N ghi/V và/N đọc/V của/E thẻ/N lần_lượt/N ở/V mức/N 95MB/N giây/N đọcghi/V cho/E dòng/N Premium_Edition/Np và/CC 100/M MBgiây/N đọc/V và/N 90MB/N giây/N ghi/V của/E dòng/N Extreme/Np đáp_ứng/V nhu/N cầu_quay/N video/N 4K/N dòng/N Extreme/Np và/CC FullHD/V 1080p/N dòng/N Premium_Edition/Np trên/E máy_quay/N hay/N thiết_bị/N di_động/N đời_mới/N smartphonetablet/N
+Giá/N trung_bình/A của/E loại/N thẻ/N nhớ/V mới/A này/P là/V 149/M USD/Nu tương_đương/N 33/M triệu/N đồng/N 199/M USD/Nu dự_kiến/N ra_mắt/V thị_trường/N cuối/N năm/N 2016/M
+Trong/E tháng/N 6/M SanDisk/N cũng/R phát_hành/V dòng/N ổ_cứng/N thể/N rắn/N SSD/Np Plus/Np cho/V laptop/N và/CC notebook/N phổ_thông/N có/V tốc_độ/N đọc/V dữ_liệu/N 535MB/N giây/N tương_đương/V nhanh/A hơn/A 20/M lần/N so/V với/E các/L ổ_đĩa_cứng/N HDD/Np trên/N laptop/N
+SanDisk/N SSD/Np Plus/Np có/V các/L mức/N dung_lượng/N 120GB/M 240GB/N và/CC 480GB/N sử_dụng/V công_nghệ/N nhớ/V flash/N TLC/Np NAND/Np và/CC bộ_nhớ/V đệm/N SLC/Np tối_đa/N hoá/N tốc_độ/N đọc/V và/N ghi/V dữ_liệu/N

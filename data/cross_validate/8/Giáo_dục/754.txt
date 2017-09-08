@@ -1,0 +1,5 @@
+Điểm_chuẩn/N vào/V Đại_học/N Hoa_Sen/Np
+Đại_học/N Hoa_Sen/Np đã/R công_bố/V mức/N điểm/N trúng_tuyển/V đợt/N 1/M danh_sách/N thí_sinh/N trúng_tuyển/V điểm/N xét/V tuyển/V và/CC chỉ_tiêu/N xét/V tuyển/V đợt/N 2/M các/L ngành/N bậc/N đại_học/N và/CC cao_đẳng/N chính_quy/V
+Theo/E đó/P ngành/N Ngôn_Ngữ_Anh/Np /M môn/N tiếng/N Anh/Np nhân/V hệ_số/N 2/M /V với/E mức/N điểm/N xét/V tuyển/V là/V 20/M ngành/N Toán/Np ứng_dụng/V /M môn/N Toán/Np nhân/V hệ_số/N 2/M /Nu là/V 18/M ngành/N Kinh_Doanh/Np quốc_tế/N là/V 17/M ngành/N Quản_trị/V kinh_doanh/V là/V 16/M
+Riêng/T ngành/N Thiết_kế/V xét/V tuyển/V theo/E tổ_hợp/N môn/N H02/M /N Ngữ_văn/N Phỏng_vấn/V Tuyển_tập/N nghệ_thuật/N /M điểm/N xét/V tuyển/V là/V 18/M
+Những/L ngành/N còn/V lại/R với/E mức/N điểm/N xét/V tuyển/V là/V 15/M

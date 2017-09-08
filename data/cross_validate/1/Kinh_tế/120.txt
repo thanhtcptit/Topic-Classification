@@ -1,0 +1,10 @@
+Techcombank/N tạm/A dừng/V tăng/V vốn/N để/V mua/V lại/R 222/M triệu/N cổ_phiếu/N quỹ/N
+Ngân_hàng/N Kỹ_Thương/Np VN/Np Techcombank/Np vừa/R gửi/V thông_báo/N đến/V Đại_hội/N cổ_đông/N xin/V thông_qua/V đề_xuất/N mua/V lại/R 222/M triệu/N cổ_phiếu/N tương_đương/N 25/M tổng_số/N cổ_phần/N đang/R lưu_hành/V để/E làm/V cổ_phiếu/N quỹ/N
+Việc/N mua/V lại/R cổ_phần/N làm/V cổ_phiếu/N quỹ/N sẽ/R theo/V hình_thức/N chào/V mua/V công_khai/N
+Lý_do/N của/E việc/N mua/V lại/R theo/V Techcombank/Np là/V do/E mong_muốn/N của/E một_số/N cổ_đông/N muốn/V thu/V lại/R lợi_nhuận/N sau/A 6/M năm/N ngân_hàng/N thực_hiện/V chính_sách/N không/R chia/V cổ_tức/N để/E dồn/V vốn/N đầu_tư/V cho/V phát_triển/V
+Giá/N mua/V lại/R sẽ/R do/E Hội_đồng/N quản_trị/V quyết/N nhưng/C không/R thấp/A hơn/A giá/N bình_quân/N của/E cổ_phiếu/N Techcombank/Np được/V ít_nhất/N hai/M công_ty/N chứng_khoán/V thường_xuyên/A niêm/V yết_giá/N trong/N thời_hạn/N 60/M ngày_trước/N ngày/N gửi/V văn_bản/N đăng_kí/V mua/V đồng_thời/N không/R thấp/A hơn/A 23445/M đồngcổ_phần/N
+Techcombank/M đồng/N thời/N đề_xuất/N Đại_hội/N cổ_đông/N phê_duyệt/V thoả_thuận/V với/E HSBC/Np cổ_đông/N lớn/A hiện/N đang/R sở_hữu/V gần/A 20/M vốn/N của/E Techcombank/Np trong/E đó/P HSBC/Np dự_kiến/V có_thể/V thoái/V khoản/N đầu_tư/V tại/E Techcombank/Np thông_qua/V đề_nghị/V mua/V lại/R cổ_phần/N
+Theo/E Techcombank/Np kể/V từ/E năm/N 2012/M HSBC/Np đã/R không/R tham_gia/V vào/E các/L hoạt_động/N quản_trị/V và/N điều_hành/N của/E ngân_hàng/N nên/C không/R gây/V ảnh_hưởng/V đến/E hoạt_động/V kinh_doanh/V
+Việc/N mua/V lại/R sẽ/R tác_động/V đến/V lộ_trình/N thực_hiện/V tăng/V vốn_điều_lệ/N từ/E 8878/M tỉ/M đồng/Nu lên/V 13878/M tỉ/M đồng/Nu theo/V kế_hoạch/N được/V đại_hội/N cổ_đông/N thường_niên/N thông_qua/V
+Do_vậy/C Techcombank/Np cũng/R thông_báo/V tạm/A hoãn/V phương_án/N tăng/V vốn_điều_lệ/N để/V tiến_hành/V mua/V lại/R cổ_phiếu/V quỹ/N
+Hội_đồng/N quản_trị/V Techcombank/Np sẽ/R xem_xét/V phương_án/N tăng/V vốn/N vào/V thời_điểm/N thích/V hợp/N khác/A trong/E năm/N 2017/M

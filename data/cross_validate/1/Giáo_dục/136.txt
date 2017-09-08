@@ -1,0 +1,14 @@
+5/M trường/N THCS/Np Q5/Np tuyển_sinh/V lớp/N 6/M tăng_cường/N tiếng/N Anh/Np
+Đối_tượng/N tuyển_sinh/N là/V học/V sinh_học/N chương_trình/N Tăng_cường/V tiếng/N Anh/Np tại/V 4/M trường/N tiểu_học/N Trần_Bình_Trọng/Np Bàu_Sen/Np Chính_Nghĩa/Np và/CC Lê_Đình_Chinh/Np
+Và/C những/L học_sinh/N này/P phải/V được/V công_nhận/V đạt/V yêu_cầu/N cấp/N tiểu_học/N của/E chương_trình/N và/CC có/V điểm/N toàn/A năm/N từng/N kĩ_năng/N môn/N tiếng/N Anh/Np đạt/V từ/E 6/M điểm/N trở/V lên/V hoặc/N có/V chứng_chỉ/N Cambridge_Flyer/Np đạt/V 1015/M khiên/N hoặc/N TOEFL/Np Primary_Step/Np 2/M đạt/N 35/M huy_hiệu/N
+Những/L trường_hợp/N không/R đạt/V yêu_cầu/N trên/N sẽ/R được/V chuyển/V sang/R học/V lớp/N thường/R theo/V phân/N tuyến/N
+Lớp/N 6/M tăng_cường/N Tiếng_Pháp/Np Thực_hiện/V tại/E Trường_Trung_học/N cơ_sở/N Hồng_Bàng/Np
+Đối_tượng/N tuyển_sinh/N là/V học/V sinh_học/N chương_trình/N song_ngữ/A tiếng/N Pháp/Np tại/E Trường_Tiểu_học/N Minh_Đạo/Np được/V chuyển/V thẳng/A vào/E lớp/N sáu/N song_ngữ/A tiếng/N Pháp_Trường_Trung_học/X cơ_sở/N Hồng_Bàng/Np khi/N đã/R hoàn_thành/V chương_trình/N cấp/N tiểu_học/N và/CC có/V điểm/N kiểm_tra/V định_kì/N cuối/N năm/N mỗi/M môn/N tiếng/N Việt/Np và/CC Toán/Np đạt/V từ/N 8/M điểm/N trở/V lên/V của/N năm_học/N lớp/N năm/N và/CC có/V điểm/N trung_bình/A của/E các/L môn/N tiếng/N Pháp/Np và/CC văn_bằng/N tiếng/N Pháp/Np từ/E 6/M điểm/N trở/V lên/R
+Những/L trường_hợp/N không/R đạt/V yêu_cầu/N trên/N hoặc/N không/R tiếp_tục/V theo/V học/V chương_trình/N tiếng/N Pháp/Np vì/E lí_do/N sức_khoẻ/N sẽ/R được/V sắp_xếp/V học/V lớp/N thường/N tại/E Trường_Trung_học/N cơ_sở/N Hồng_Bàng/Np
+Lớp/N 6/M tăng_cường/N Tiếng_Trung/Np Thực_hiện/V tại/E 2/M trường/N trung_học_cơ_sở/N là/V Mạch_Kiếm_Hùng/Np và/CC Trần_Bội_Cơ/Np
+Đối_tượng/N tuyển_sinh/N là/V học/V sinh_học/N chương_trình/N tăng_cường/V tiếng/N Trung/Np tại/V các/L trường/N tiểu_học/N Huỳnh_Kiến_Hoa/Np Nguyễn_Viết_Xuân/Np Hùng_Vương/Np và/CC Nguyễn_Đức_Cảnh/Np đã/R hoàn_thành/V chương_trình/N cấp/N tiểu_học/N và/CC đã/R được/V công_nhận/V đạt/V yêu_cầu/N cấp/N tiểu_học/N của/E chương_trình/N tăng_cường/N tiếng/V Trung/Np
+Những/L trường_hợp/N không/R đạt/V yêu_cầu/N sẽ/R được/V chuyển/V sang/R học/V lớp/N thường/N tại/E các/L trường/N trung_học_cơ_sở/N Mạch_Kiếm_Hùng/Np và/CC Trần_Bội_Cơ/Np
+Lớp/N 6/M Tiếng_Anh/Np chương_trình/N tích_hợp/V Thực_hiện/V tại/E 2/M trường/N trung_học_cơ_sở/N là/V Hồng_Bàng/Np và/CC Kim_Đồng/Np
+Sĩ_số/N học/V sinhlớp/N không/R vượt/V quá/V 35/M học_sinh/N lớp/N
+Tuyển_sinh/N từ/E số/N học_sinh/N đã/R được/V duyệt/V chính_thức/A vào/V trường/N
+HHG/Np

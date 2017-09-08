@@ -1,0 +1,17 @@
+​/N Hô/Np biến/V màn_hình/N thường/R thành/V cảm_ứng/N
+AirBar/N là/V một/M thiết_bị/N dạng/N plug/N andtouch/N cắm/V và/N chạm/V được/R thiết_kế/V dạng/N thanh/N dài/N nhỏ/A nhẹ/A mỏng/N
+Chiều/N dài/A của/E thanh/N bằng/E chiều/N dài/A màn_hình/N hiển_thị/N 156/M inch/N
+Một/M đầu/N của/E thanh/N AirBar/N là/V dây/N nối/V với/E máy_tính/N thông_qua/N cổng/N USB/Np
+Khi/N sử_dụng/V người_dùng/N chỉ/R việc/N đặt/V thanh/N AirBar/V ngay/N phía/N dưới/N màn_hình/N hiển_thị/N
+Từ_tính/N trong/N AirBar/N sẽ/R dính/V vào/E màn_hình/N giúp/V cố_định/N vị_trí/N của/N AirBar/N
+Ngay/T sau/E khi/N cắm/V vào/E cổng/N USB/Np máy_tính/N thiết_bị/N sẽ/R phát/V một/M màn/N sáng/N bao_phủ/N màn_hình/N hiển_thị/N máy_tính/N
+Tất_nhiên/N người_dùng/N vẫn/R thấy/V màn_hình/N hiển_thị/A như/C bình_thường/N không/R hề/V có/V tấm/N màn/N nào/P che/V mắt/N
+Tấm/Nc màn/N sáng/N này/P có/V tác_dụng/N thu_nhận/V các/L thao_tác/N cảm_ứng/N của/E người/N điều_khiển/V và/N thông_qua/V AirBar/N chuyển/V các/L lệnh/N này/P đến/V máy_tính/N
+Từ/E lúc/N này/P người_dùng/N có_thể/R thực_hiện/V các/L thao_tác/N điều_khiển/V cảm_ứng/V trên/E màn/N hình_như/N chạm/V trượt/N phóng/V to/A cuộn/V
+bằng/E tay/N rất/N dễ_dàng/A giống/A như/C đang/R thao_tác/V trên/E một/M màn_hình/N cảm_ứng/N thật_sự/A
+Theo/E Neonode/Np với/E AirBar/N người_dùng/N còn/R có_thể/R dùng/V găng_tay/N đôi/N đũa/N
+để/E điều_khiển/V trên/E màn_hình/N cảm_ứng/N
+Hiện_Air/Np Bar/Np mới/R chỉ/R hoạt_động/V tốt/A trên/E các/L thiết_bị/N chạy/V hệ_điều_hành/N Windows/Np 8/M Windows/Np 10/M hoặc/N ChromeBook/V
+AirBar/N được/V dự_kiến/V ra_mắt/N chính_thức/A tại/E triển_lãm/N công_nghệ/N CES/Np vào/V tháng/N 12016/M tại/N Las_Vegas/Np Mỹ/Np
+Giá/N bán_lẻ/V dự_kiến/N khoảng/N 49/M USD/Nu
+Sau/E đây/P là/V video/N trình_diễn/N khả_năng/N của/N AirBar/N

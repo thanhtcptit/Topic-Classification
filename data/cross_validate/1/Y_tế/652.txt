@@ -1,0 +1,8 @@
+Chất/N làm/V ngọt/A nhân_tạo/A nguy_hiểm/A cho/E sức_khỏe/N thế_nào/P
+Các/L nhà_nghiên_cứu/N từ/E Đại_học/N Manitoba/Np /N Canada/Np /M  /N cho_biết/V chất/V làm/V ngọt/A nhân_tạo/A là/V chất/N thay_thế/V cho/E đường/N có/V vị/N ngọt/A trong/E khi/N lại/R chứa/V rất/R ít/A năng_lượng/N
+Người_ta/N thường/R sử_dụng/V chất/N làm/V ngọt/A nhân_tạo/A như/C aspartam/N sucralose/N và/CC stevia/N  /M Các/L phát_hiện/V cho/V thấy/V chất/N này/P có/V ảnh_hưởng/N tiêu_cực/A đến/E sự/Nc trao_đổi/V chất/N vi_khuẩn/V đường/N ruột/N và/CC thèm/V ăn/V của/E con_người/N
+Ngoài_ra/C nó/P còn/R gây/V  /V nguy_cơ/N mắc/V bệnh/N cao/A huyết_áp/N và/CC tim_mạch/N
+Nhóm/N nghiên_cứu/V đã/R tiến_hành/V một/M thử_nghiệm/V đối_chứng/N ngẫu_nhiên/A 1 3/M người/N được/V theo_dõi/V trong/E 6/M tháng/N về/E ảnh_hưởng/N của/E chất/N tạo/V ngọt/A đối_với/E việc/N giảm/V cân/N
+Kết_quả/N  /V cho/V thấy/V người/N tiêu_thụ/V chất/N làm/V ngọt/A thì/C giảm/V cân/N không/R hiệu_quả/N
+Nghiên_cứu/V sâu/A hơn/R cho/E thấy/V mối/N liên_hệ/V giữa/E việc/N sử_dụng/V chất/N làm/V ngọt/A nhân_tạo/A và/CC nguy_cơ/N tăng/V cân/N béo/A phì/A cao/A huyết_áp/N tiểu_đường/N bệnh/N tim/N và/CC các/L vấn_đề/N sức_khỏe/N khác/A  /M Dữ_liệu/N từ/E các/L thử_nghiệm/V lâm_sàng/N cho/V thấy/V chất/N tạo/V ngọt/A nhân_tạo/A có/V ảnh_hưởng/V đến/E việc/N bạn/N quản_lý/V trọng_lượng/N của/E cơ_thể/N Ryan_Zarychanski/Np Đại_học/N Manitoba/Np cho_biết/V
+Kết_quả/N nghiên_cứu/V này/P được/V công_bố/V trên/E tờ/N CMAJ/Np /M Canadian_Medical_Association_Journal/Np /M mới_đây/X

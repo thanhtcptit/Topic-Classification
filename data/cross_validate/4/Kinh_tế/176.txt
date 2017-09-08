@@ -1,0 +1,48 @@
+Chi/V tiền/N tỉ/N bảo_mật/V tiền/N vẫn/R mất/V tật/N vẫn/N mang/V
+Tiền/N bỗng_dưng/N bị/V biến/V mất/V trong/E tài_khoản/N bất_chấp/N ngân_hàng/N đã/R đầu_tư/V cả/T chục/M triệu/M USD/Nu hay/N doanh_nghiệp/N đã/R có/V các/L biện_pháp/N bảo_mật/V
+Rủi_ro/N vẫn/R xảy/V ra/R bất_cứ/N lúc_nào/N
+Ông/N Nguyễn_Thành_Nam/Np chủ/N thẻ_tín_dụng/N Visa_Debit/Np của/E ngân_hàng/N V/Np sau/E khi/N ngủ/V dậy/V phát_hiện/V hàng_loạt/N tin_nhắn/N thông_báo/V trừ/V tiền/N trong/E tài_khoản/N với/E số/N tiền/N hơn/R 30/M triệu/M đồng/Nu
+Anh/Nc Hoàng_Minh_Tâm/Np ở/V Hà_Nội/Np bị/V rút/V hết/V số_dư/N 949/M triệu/N đồng/N tại/E ATM/Np S/Np ở/V công_viên/N Lê_Văn_Tám/Np quận/N 1/M TPHCM/Np lúc/N hơn/A 23h/M
+Đó/P chỉ/R là/V vài/N trong/E một_số/N vụ_việc/N tội_phạm/N mạng/N tấn_công/V được/R biết/V đến/R và/N khách/N hàng/N là/V các/L cá_nhân/N
+Điều/N đáng/V nói/V là/V có/V doanh_nghiệp/N bị/V tấn_công/V và/N mất/V số/N tiền/N lớn/A nhưng/C không/R dám/V công_bố/V vì/N lo_ngại/V
+uy_tín/N
+Tốn/V cả/T chục/M triệu/M USD/Nu cho/V bảo_mật/V
+Trao_đổi/V với/E Tuổi_Trẻ/Np nhiều/A ngân_hàng/N cho/V biết/V họ/P rất/R đau_đầu/A với/E tội_phạm/N công_nghệ_cao/N và/CC thời_gian/N qua/R đã/R phải/V đầu_tư/V vào/R bảo_mật/V rất/R lớn/A
+Tổng/N giám_đốc/N một/N ngân_hàng/N cổ/A phần_lớn/N tại/E TPHCM/Np cho/V biết/V mất/V đến/R 18/M tháng/N để/E đạt/V chuẩn/N an_ninh/N được/V 5/M tổ_chức/N thanh_toán/V quốc_tế/N quản_lí/N
+Song_song/N đó/P tổ/N chức/N này/P phải/V đầu_tư/V hệ_thống/N ngân_hàng/N lõi/V rất/R tốn_kém/V chi_phí/N lên/V đến/R vài/M triệu/M USD/Nu đấy/P là/V chưa/R kể/V số/N tiền/N duy_trì/V và/CC đánh_giá/V lại/R hằng/R năm/N khoảng/A 5/M tỉ/Nu đồngnăm/N
+Chưa/R hết/V ngân_hàng/N này/P hằng/R quý/N phải/V thuê/V công_ty/N tư_vấn/V kiểm_tra/V có/V lỗ_hổng/N bảo_mật/V hay/C không/R
+Tổng_chi/V phí/N một/M năm/N chi/V cho/E bảo_mật/N như/C thế/N của/E nhiều/A doanh_nghiệp/N theo/V các/L chuyên_gia/N có_thể/R lên/V tới/T cả/T chục/M triệu/M USD/Nu
+Đại_diện/N một/M ngân_hàng/N khác/A cho/V biết/V mọi/N thứ/N như/C vậy/P chưa/R hẵn/V đã/R xong/V mà/N chi_phí/V nâng_cấp/V thiết_bị/N phần_mềm/N cũng/R rất/R đau_đầu/A vì/E chỉ/R một/M đợt/N nâng_cấp/V đã/R ngốn/V nhiều/A tỉ/M đồng/Nu
+Ông/N Trường_Sơn/Np trưởng_phòng/N thông_tin/V một/M cơ_quan/N tư_vấn/V tại/E TPHCM/Np cũng/R cho/V biết/V đã/R phải/V đầu_tư/V lớn/V vào/E hệ_thống/N tường/N lửa/N bảo_vệ/V trước/N server/N máy_chủ/N phát_triển/V đội_ngũ/N cán_bộ/N chuyên/A về/V công_nghệ_thông_tin/N cho/V công_ty/N đồng_thời/N vẫn/R phải/V thuê/V công_ty/N an_ninh/N mạng/N kiểm_tra/V hệ_thống/N ba/N tháng_một/V lần/N
+Đặc_biệt/A trong/E đợt/N tấn_công/V mã/N độc/N vừa_qua/N công_ty/N ông/N Sơn/Np đã/R phải/V sử_dụng/V thêm/R giải_pháp/N sao/N lưu/V thủ_công/V để/E bảo_vệ/V dữ_liệu/N vì/E lo_sợ/N mã/V độc/A hô/N biến/V tài_sản/N vô_giá/N này/P chỉ/R trong/N nháy_mắt/N
+Chúng_tôi/P phải/V áp_dụng/V thêm/V cách/N mới/A là/V chép/N dữ_liệu/N ra/V các/L ổ_cứng/N rời/V và/N cất/V trong/E két/N sắt/N
+Dù/C rất/R tốn_kém/V nhưng/C phải/N chấp_nhận/V ông/Nc Sơn/Np kể/V
+Bảo_mật/N nửa_vời/N rất/R nguy_hiểm/A
+Qua/E kinh_nghiệm/N nhiều/A năm/N hoạt_động/V tại/E thị_trường/N Việt_Nam/Np bà/N Võ_Dương_Tú_Diễm/Np đại_diện/V Hãng/Np bảo_mật/V Kaspersky_Lab/Np nhận_định/V Doanh_nghiệp/N Việt_Nam/Np vẫn/R luôn/R quan_tâm/V đến/E các/L biện_pháp/N phòng_ngừa/A như/C tường/N lửa/N bảo_mật/V thiết_bị/N cuối/N
+Còn/C những/L quy_trình/N bảo_mật/N chuyên_sâu/A hơn/A như/C phát_hiện/N tấn_công/V xử_lí/N khi/N có/V tấn_công/N và/CC dự_báo/N thì/C chỉ/R một/M số_ít/N doanh_nghiệp/N lớn/A quan_tâm/V
+Giám_đốc/N Công_ty/N bảo_mật/V Nam_Trường_Sơn_Ngô_Trần_Vũ/Np cho/V biết/V nhiều/A doanh_nghiệp/N chưa/R có/V hệ_thống/N mạng/N hoàn_chỉnh/V chẳng_hạn/N như/C chỉ/R có/V 50/M máy_tính/N có/V phần_mềm/N diệt/V virút/N có/V vài/L thiết_bị/N tường/N lửa/N
+Nếu/C cái/Nc gì/P cũng/R nửa_vời/A thì/N rất/R nguy_hiểm/A ông/Nc Vũ/Np nói/V
+Theo/E các/L chuyên_gia/N qua/V đợt/N tấn_công/V mã/N độc/N WannaCry/N vừa_qua/N nhiều/A doanh_nghiệp/N Việt_Nam/Np bị/V thiệt_hại/V nhưng/C âm_thầm/A chi/V tiền/N mua/V lại/R dữ_liệu/N hoặc/N thuê/V khắc_phục/V một/M phần/N nên/N rủi_ro/N vẫn/R tiềm_ẩn/V
+Thậm_chí/R giải_pháp/N xác_thực/A khi/N thanh_toán/V hàng_hoá/N dịch_vụ/N qua/V mạng/N là/V OTP/Np mã/V xác_thực/N được/V gửi/V đến/R điện_thoại/N của/E chủ/N thẻ/N tại/E thời_điểm/N giao_dịch/N rất/R phổ_biến/A nhưng/C thực_tế/N không/R phải/A ngân_hàng/N thương_mại/N nào/P cũng/R cài_đặt/V
+Chính/T vì_thế/C chỉ/R cần/V số/N thẻ_tín_dụng/N và/CC số/N CVV/Np 3/M con_số/N được/V in/V ở/E mặt/N sau/A thẻ_tín_dụng/N bị/V lộ/V kẻ_gian/N có_thể/N lợi_dụng/V để/E rút_tiền/V hoặc/N thanh_toán/V hàng_hoá/N dịch_vụ/N
+Các/L chuyên_gia/N khuyến_cáo/N rằng/N không/R nên/V trao/V hẳn/N thẻ_tín_dụng/N cho/E nhân_viên/N nhà_hàng/N khi/N thanh_toán/V hoá_đơn/N vì/E lí_do/V trên/N
+Cần/V có/V chuẩn/N chung/V về/V bảo_mật/V
+Một_số/N chuyên_gia/N đề_nghị/N cần/V có/V chuẩn/N chung/V trong/E an_ninh/N mạng/N để/V giảm_thiểu/V rủi_ro/A cho/E khách/N hàng/N
+Đơn_cử/N với/E mảng/N ngân_hàng/N tại/E hội_thảo/N Banking/Np VN/Np 2017/M vừa_qua/N ông/N Phan_Thái_Dũng/Np phó/N cục_trưởng/N Cục/N Công_nghệ/N tin_học/N Ngân_hàng/N Nhà_nước/N khuyến_cáo/N các/L ngân_hàng/N thương_mại/N cần/V triển_khai/V giải_pháp/N xác/N thực_khách/N hàng/N phù_hợp/A cho/E các/L dịch_vụ/N ngân_hàng/N số/N không_chỉ/N là/V SMS/Np OTP/Np mà/C cần/V có/V lộ_trình/N chuyển_đổi/V sang/V các/L giải_pháp/N xác_thực/N có/V độ/N an_toàn/A cao/A hơn/A như/C dấu_hiệu/N sinh_trắc_học/N chữ_kí/A điện_tử/N
+Ông/N Nguyễn_Minh_Đức/Np giám_đốc/V hệ_thống/N an_ninh/N mạng/N thông_minh/A Cyradar/Np khuyến_cáo/N doanh_nghiệp/N Việt_Nam/Np cần/V xây_dựng/V hệ_thống/N hướng/V tới/V việc/N nếu/C có/V xảy/V ra/R tấn_công/V thì/C thiệt_hại/N là/V nhỏ/A nhất/R
+Dẫn_chứng/N trường_hợp/N mã/V độc/N WannaCry/N vừa_qua/N nếu/C chỉ/R tập_trung/V ngăn_chặn/V doanh_nghiệp/N vẫn/R có_thể/R bị/V nhiễm/V vì/E mã/N độc/A này/P phát_tán/N thông_qua/V lỗ_hổng/N mới/A còn/R xuất_hiện/V lỗ_hổng/N khác/A trong/N tương_lai/N
+Tuy_nhiên/C nếu/C doanh_nghiệp/N xây_dựng/V một/M chế_độ/N sao/N lưu/N đủ/A tốt/A thì/C dù/E có/V xảy/V ra/R mã_hoá/V thiệt_hại/N cũng/R sẽ/R giảm/V đáng_kể/N
+Nhiều/A ứng_dụng/N bảo_mật/V mới/R bị/V ngó/V lơ/N
+Nhận_định/N này/P vừa/R được/V ngân_hàng/N Hong_Kong/Np Thượng_Hải/Np HSBC/Np đưa/V ra/R trong/E báo_cáo/N Lo/Np ̀/V ng/V tin/N va/N ̀/N o/N co/V ̂/N ng/V nghệ/N
+Báo_cáo/V dựa/V trên/N cơ_sở/N cuộc/N khảo_sát/V với/E sự/N tham_gia/V của/E hơn/N 12000/M người_ở/N 11/M quốc_gia/N do/N HSBC/Np thực_hiện/V
+Báo_cáo/N này/P cho/V thấy/V ca/N ́/V c/N ứng_dụng/N nhu/N ̛/N nhạ/N ̂/N n/N diẹ/N ̂/N n/N va/N ̂/N n/V tay/N gio/N ̣/N ng/N no/N ́/N i/N dù/N hiệu_quả/N ba/N ̉/V o/N mạ/N ̂/N t/N tốt/A từ/E giao_dịch/N ngân_hàng/N đê/N ́/N n/N thanh/N toa/N ́/N n/V qua/R thiê/N ́/N t/N bi/N ̣/N di/N đọ/N ̂/N ng/V nhưng/C lại/R không/R được/V người_dùng/V trên/E thế_giới/N đón_nhận/N do/E thiếu/V tho/N ̂/N ng/V tin/N đâ/V ̀/N y/N đu/V ̉/N
+Nhiều/A người/N chưa/R nghe/V nói/V hoặc/N không/R biết/V về/E công_nghệ/N kích_hoạt/N bằng/E giọng/N nói/V mặc_dù/N công_nghệ/N này/P có/V sẵn/A trên/N nhiều/A loại/N điện_thoại_thông_minh/X
+Ông/N Sabbir_Ahmed/Np giám_đốc/V toàn_quốc/N khối/N dịch_vụ/N tài_chính/N cá_nhân/N và/CC quản_lí/N tài_sản/N HSBC/Np Việt_Nam/Np cho/V rằng/N Việt_Nam/Np hoàn_toàn/A có_thể/A trở_thành/V một/M quốc_gia/N có/V tỉ_lệ/N chấp_nhận/V cao/A đối_với/E các/L công_nghệ/N mới/A do/E dân_số/N trẻ/N
+Tuy_nhiên/C theo/V ông/N Sabbir_Ahmed/Np các/L ngân_hàng/N cần/V phải/V thúc_đẩy/V nhanh/A hơn/R quá_trình/N tăng/N cường_độ/N chấp_nhận/V công_nghệ/N của/E khách/N hàng/N
+AH/Np
+Lưu_ý/N khi/N giao_dịch/V trực_tuyến/N
+Theo/E các/L ngân_hàng/N hiện_nay/N ở/E Việt_Nam/Np tội_phạm/N nhắm/V nhiều/A nhất_là/N giao_dịch/V trực_tuyến/N
+Tuy_nhiên/C tình_trạng/N sử_dụng/V các/L phần_mềm/N không/R có/V bản_quyền/N phổ_biến/V nhiều/A máy_tính/N không/R được/V cài_đặt/V các/L phần_mềm/N diệt/V virút/N
+nên/C dễ/N bị/V tấn_công/V hơn/R
+Các/L ngân_hàng/N cảnh_báo/N người_dùng/N không/R bấm/V vào/E các/L đường/N link/N không/R rõ_ràng/A hoặc/N những/L yêu_cầu/N nhập/V thông_tin/N cá_nhân/N thông_tin/N thẻ/N
+Nên/C gõ/V địa_chỉ/N của/E ngân_hàng/N điện_tử/N trực_tiếp/A vào/V trình_duyệt/N khi/N giao_dịch/V trực_tuyến/N không/R nên/V bấm/V vào/E đường/N link/N kể_cả/N link/N do/E Google/Np đề_xuất/V

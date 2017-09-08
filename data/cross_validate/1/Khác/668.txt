@@ -1,0 +1,12 @@
+Hãng/N phim/N Disney/Np bị/V tấn_công/V nghi_ngờ/V do/E WannaCry/Np
+Trong/E cuộc/N họp/V hôm_qua/N /A 15/5/M /Nu Giám_đốc/N điều_hành/V Disney_Bob_Iger/Np đã/R thông_báo/V đến/E nhân_viên/N tại/E New_York/Np /M Mỹ/Np /V về/E việc/N hãng/N bị/V hacker/N tấn_công/V và/CC bị/V đánh_cắp/V một/M trong/E những/L bộ/N phim/N chưa/R ra_mắt/V
+Phía/N hacker/N đòi/V một/M số_lượng/N tiền/N chuộc/V nhưng/C thay_vì/V trả/V cho/E chúng/P Disney/Np đã/R báo_cáo/V cho/E cơ_quan/N điều_tra/V Liên_bang/N
+Theo/E người/N đứng/V đầu/N Disney/Np hacker/N đã/R đòi/V số/N tiền/N rất/R lớn/A bằng/E Bitcoin/Np nếu_không/C sẽ/R tung/V bộ/N phim/N của/E hãng/N này/P lên/V mạng/N
+Nếu_không/C chịu/V thanh_toán/V sớm/A lần_lượt/R đoạn/N phim/N 5/M phút/Nu 20/M phút/Nu và/CC cao/A hơn/R sẽ/R được/V công_bố/V tùy/V theo/E thời_gian/N trả/V tiền/N nhanh/A hay/R chậm/A
+Mặc_dù/C không/R đề_cập/V đến/E WannaCry/Np nhưng/C một_số/L nguồn/N tin/N nghi_ngờ/V rằng/C mã/N độc/A này/P có/V liên_quan/V đến/E việc/N Disney/Np bị/V tấn_công/V
+Với/E việc/N đang/R bùng_phát/V trên/E hơn/A 150/M quốc_gia/N trong/E đó/P có/V Mỹ/Np mối/N nghi/V này/P không/R phải/V là/C không/R có/V cơ_sở/N
+Theo/E Fortune/Np bộ/N phim/N bị/V hacker/N đánh_cắp/V có_thể/R là/V Pirates/Np of/E the/N Caribbean/Np Dead_Men_Tell_No_Tales/Np được/V trình_chiếu/V ngày/N 26/5/M Cars/Np 3/M của/E Pixar/Np trình_chiếu/V 16/6/M thậm_chí/R là/V Star_Wars/Np The_Last_Jedi/Np trình_chiếu/V 15/12/M
+Nếu/C bị/V rò_rỉ/V sớm/A Disney/Np sẽ/R bị/V tổn_thất/V nghiêm_trọng/A về/E mặt/N doanh_thu/N do/E phim/N chưa/R ra/V rạp/N
+Đây/P không/R phải/V là/V lần/N đầu_tiên/A một/M hãng/N phim/N bị/V tấn_công/V
+Năm/N 2015/M Sony_Pictures/Np cũng/R đã/R bị/V hacker/V đột_nhập/V và/CC lấy/V đi/R nhiều/A tài_liệu/N quan_trọng/A trong/E đó/P có/V một_số/L bộ/N phim/N chưa/R ra_mắt/V
+Gần/A đây/P Orange/Np is/V the/N New_Black/Np bộ/N phim/N đầu_tiên/A của/E Netflix/Np cũng/R đã/R bị/V phát_tán/V trên/E The_Pirate_Bay/Np do/E hãng/N từ_chối/V trả/V tiền/N chuộc/V

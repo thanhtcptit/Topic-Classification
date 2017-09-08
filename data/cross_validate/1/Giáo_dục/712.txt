@@ -1,0 +1,6 @@
+Đại_học/N đầu_tiên/A công_bố/V danh_sách/N trúng_tuyển/V
+Danh_sách/N trúng_tuyển/V cuối_cùng/A sẽ/R được/V công_bố/V trước/E 17h/M ngày/N 1/8/M  /M Các/L thí_sinh/N trúng_tuyển/V nếu/C thay_đổi/V nguyện_vọng/N 1/M sang/V trường/N khác/A có_thể/R sẽ/R không/R có/V tên/N trong/E danh_sách/N trúng_tuyển/V cuối_cùng/A
+Năm/N 2017/M Đại_học/N FPT/Np tuyển/V 2 0/M chỉ_tiêu/N thuộc/V các/L khối/N ngành/N  /N Khoa_học_kỹ_thuật/Np Kinh_tế/N Xã_hội/N và/CC Mỹ_thuật/N ứng_dụng/V  /M Các/L
+tổ_hợp/N xét/V tuyển/V gồm/V A00/Np A01/Np D01/Np D90/Np và/CC D96/Np tuỳ/V theo/E ngành/N học/V thí_sinh/N đăng_ký/V
+Để/E trúng_tuyển/V vào/E Đại_học/N FPT/Np thí_sinh/N cần/V có/V tổng/N điểm/N 3/M môn/N thi/V THPT/Np quốc_gia/N từ/E 15,5/M điểm/N trở_lên/A hoặc/CC điểm/N trung_bình/A học_bạ/N THPT/Np từ/E 6 M trở_lên/A với/E 3/M môn/N tương_ứng/V ngành/N đăng_ký/V học/V tại/E Đại_học/N FPT/Np đủ/A điều_kiện/N sơ_tuyển/V của/E Đại_học/N FPT/Np /V trúng_tuyển/V kỳ/N thi_tuyển/V sinh/V của/E trường/N hoặc/CC đủ/A điều_kiện/N miễn/V thi/V /M
+Các/L thí_sinh/N đạt/V 21/M điểm/N trở_lên/A /A đã/R bao_gồm/V điểm/N ưu_tiên/V /N tổng/N 3/M môn/N thi/V THPT/Np quốc_gia/N hoặc/CC đạt/V 7 N trở_lên/A trung_bình/A học_bạ/N THPT/Np 3/M môn/N tương_ứng/V với/E ngành/N đăng_ký/V trong/E 5/M học_kỳ/N liên_tiếp/A đủ/A điều_kiện/N miễn/V thi/V vào/E Đại_học/N FPT/Np

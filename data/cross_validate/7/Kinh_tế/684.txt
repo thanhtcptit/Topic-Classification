@@ -1,0 +1,11 @@
+Hơn/A 210 0/M tỷ/N đồng/N doanh_thu/N viễn_thông/A trong/E nửa/N đầu/N năm/N
+Bộ/N Thông/Np tin/V &/CC Truyền_thông/N cho_biết/V 6/M tháng/N đầu/N năm/N doanh_thu/N trong/E lĩnh_vực/N viễn_thông/N phát_sinh/V ước/V đạt/V 213 5/M tỷ/N đồng/N /A không/R tính/V phần/N kinh_doanh/V của/E Viettel/Np ở/E nước_ngoài/N /M gấp/V đôi/M so/V với/E mức/N 93 0/M tỷ/N đồng/N của/E cùng/A kỳ/N 2016/M
+Con_số/N này/P được/R tính_toán/V dựa/V trên/E tổng/N doanh_thu/N của/E cả/P doanh_nghiệp/N kinh_doanh/V mạng/N di_động/V và/CC cố_định/V  /EOS
+Trong/E đó/P doanh_thu/N của/E 3/M nhà/N mạng/N di_động/V lớn/A trên/E thị_trường/N viễn_thông/N đều/R tăng_trưởng/V 2/M con_số/N
+Cụ_thể/A Tập_đoàn/N Bưu_chính/N Viễn_thông/N Việt_Nam/Np /V VNPT/Np /V đạt/V  /N 68 0/M tỷ/N đồng/N lợi_nhuận/N gần/A 2 0/M tỷ/Nu tăng/V 15,5%/M so/V với/E cùng/A kỳ/N
+Tập_đoàn/N Viễn_thông/Np Quân_đội/N /M Viettel/Np /V đạt/V doanh_thu/N 117 4/M tỷ/N đồng/N lợi_nhuận/N trước/E thuế/N 21 0/M tỷ/Nu
+Tính/V đến/E cuối/N tháng/N 6/M tính/N chung/A tất_cả/P các/L thị_trường/N trong/E và/CC ngoài/E nước/N Viettel/Np có/V gần/A 100/M triệu/N thuê_bao/V
+Trong/E đó/P thuê_bao/V trong/E nước/N đạt/V hơn/R 61/M triệu/N thuê_bao/N nước_ngoài/N hơn/A 30/M triệu/N
+Tổng_công_ty/N viễn_thông/N di_động/V /N MobiFone/Np /V đạt/V doanh_thu/N 21 0/M tỷ/N đồng/N tăng/V 18,7%/M so/V với/E cùng/A kỳ/N lợi_nhuận/N 2 0/M tỷ/Nu  /EOS
+Bộ/N Thông/Np tin/V &/CC Truyền_thông/N cũng/R cho_biết/V tính/V đến/E hết/V tháng/N 6/M số/N thuê_bao/N 2G/M khoảng/A 68,8/M triệu/M 3G/M khoảng/N 54,2/M triệu/N
+Điện_thoại/N cố_định/A tiếp_tục/V giảm/V chậm/A tổng_số/N thuê_bao/V điện_thoại/N hơn/A 130/M triệu/N trong/E đó/P có/V 7,3/M triệu/N thuê_bao/V cố_định/N

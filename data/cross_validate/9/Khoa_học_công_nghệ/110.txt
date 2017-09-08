@@ -1,0 +1,34 @@
+​/N Xuất_hiện/V mã/N độc/A nguy_hiểm/A gấp_bội/N WannaCry/N
+Nguy_hiểm/N gấp_bội/N WannaCry/N
+Mã/Np độc/A mới/R có/V tên/N là/C EternalRocks/N thuộc/V họ/P sâu/N máy_tính/N
+Trong/E khi/N WannaCry/N chỉ/R sử_dụng/V hai/M công_cụ/N là/V EternalBlue/N và/CC DoublePulsar/N thì/C EternalRocks/N sử_dụng/V đến/R 7/M công_cụ/N gồm/V EternalBlue/N EternalRomance/N EternalChampion/N EternalSynergy/N SMBTouch/N ArchTouch/N và/CC DoublePulsar/N
+Sự/N nguy_hiểm/A của/E EternalRocks/N nằm/V ở/E chỗ/N nó/P cải_trang/V thành/N WannaCry/N để/E lừa/V các/L nhà/N nghiên_cứu/V bảo_mật/V nhưng/C thay_vì/V phát_tán/V ransomware/N mã/N độc/A tống_tiền/N nó/P lại/R âm_thầm/A kiểm_soát/V máy_tính/N bị/V lây_nhiễm/V để/E khởi_động/V các/L cuộc/N tấn_công/V mạng/N trong/N tương_lai/N
+Do/E đó/P trang/N The_Hacker_News/Np đã/R đưa/V ra/R một/M dự_báo/N khá/R tệ_hại/A bạn/N sẽ/R rất/R khó/A có_thể/R tự/P bảo_vệ/V được/R mình/N trước/E các/L cuộc/N tấn_công/V mạng/N trong/N tương_lai/N
+Trong/E khi/N đó/P theo/V khảo_sát/N của/E Công_ty/N an_ninh/N mạng/N Bkav/Np với/E 52/M máy_tính/N tại/E Việt_Nam/Np tức_là/V khoảng/A 4/M triệu/N máy/N chưa/R được/V vá/V lỗ_hổng/N EternalBlue/V các/L máy/N này/P có_thể/A bị/V nhiễm/V WannaCry/N bất_cứ/N lúc_nào/N nếu/N hacker/V mở_rộng/V việc/N tấn_công/V
+Đó/P mứoi/N chỉ/R là/V WannaCry/N chứ/N chưa/R phải/V là/V EternalRocks/N
+Bên_cạnh/N đó/P ông/N Vũ_Ngọc_Sơn/Np Phó/Z chủ_tịch/N phụ_trách/V mảng/N chống/V mã/N độc/N Anti_Malware/Np của/E Bkav/Np cho/V biết/V Chúng_ta/P không/R nên/V quên/V Cơ_quan/N an_ninh/N Mỹ/Np NSA/Np được/V cho/V là/C đã/R sử_dụng/V lỗ_hổng/N này/P để/V do_thám/V
+Do/E đó/P không/R loại_trừ/V khả_năng/N cơ_quan/N gián_điệp/N của/E một/M quốc_gia/N khác/A cũng/R âm_thầm/A khai_thác/V lỗ_hổng/N này/P cài_đặt/V phần_mềm/N gián_điệp/N nằm_vùng/N để/E thực_hiện/V các/L cuộc/N tấn_công/V có/V chủ_đích/N APT/Np
+Với/E 4/M triệu/N máy_tính/N có/V lỗ_hổng/N tại/E Việt_Nam/Np việc/N bị/V cài_đặt/V phần_mềm/N gián_điệp/N để/E tấn_công/V có/V chủ_đích/N sẽ/R nguy_hiểm/A hơn/R nhiều/A thậm_chí/N tiềm_ẩn/V nguy_cơ/N đối_với/N an_ninh/N quốc_gia/N
+Nguy_cơ/N này/P không_thể/A nhận_biết/V rõ/A như/C mã/N độc/A mã_hoá/A tống_tiền/N
+Việt_Nam/Np cần/V ngay_lập_tức/N có/V chiến_dịch/N vá/N lỗ_hổng/N này/P ông/N Vũ_Ngọc_Sơn/Np nhấn_mạnh/V
+Vẫn/R lơ_là/V bảo_mật/V
+Các/L cuộc/N tấn_công/V có/V chủ_đích/N kể/V từ/E sau/N vụ/N Vietnamairlines/Np giữa/N cuối/N năm/N 2016/M đã/R cho/V chúng_ta/N thấy/V được/R hệ_thống/N mạng/N lỏng_lẻo/N thế_nào/N trước/E những/L chiêu_thức/N ngày_càng/N tinh_vi/A của/E kẻ/N tấn_công/V
+Trong/E vụ/N WannaCry/N khi/N mã/N độc/A này/P phát_tán/V trên/E diện/N rộng/A và/CC đã/R có/V nạn_nhân/N tại/E Việt_Nam/Np nhiều/A người_dùng/N công_ty/N tổ_chức/V trong/E nước/N đã/R náo_loạn/V lo_ngại/V cho/E hệ_thống/N mạng/N của/N mình/N
+Trang_bị/V cho/V có/V
+Theo/E bà/N Võ_Vương_Tú_Diễm/Np đại_diện/V hãng/N bảo_mật/V Kaspersky_Lab/Np tại/E Việt_Nam/Np Các/L doanh_nghiệp/N vừa/R và/N nhỏ/A tại/E Việt_Nam/Np hiện/N rất/R đông_đảo/A nhưng/C lại/R ít/A quan_tâm/V và/N đầu_tư/V cho/E bảo_mật/N do/E vấn_đề/N ngân_sách/N hoặc/N chưa/R đánh_giá/V đúng_mức/A mối/N nguy_hiểm/N
+Họ/P có_thể/A chấp_nhận/V sử_dụng/V các/L giải_pháp/N không/R phù_hợp/V với/E quy_mô/N và/CC hoạt_động/V vì/E vấn_đề/N chi_phí/V mà/C bỏ_qua/V các/L lợi_ích/N đề_phòng/N lớn/A hơn/R
+Nói/V cách/N khác/A tâm_lí/V chung/A vẫn/R là/V trang_bị/V cho/E yên_tâm/V mặc_dù/C không/R tin/V là/C mình/N hoàn_toàn/A có_thể/A trở_thành/V nạn_nhân/N rất/R sớm/A
+Theo/E ghi_nhận/N của/E chúng_tôi/P bộ_phận/N công_nghệ_thông_tin/N của/E nhiều/A công_ty/N đã/R phải/V hoạt_động/V hết/V công_suất/N để/E rà_soát/V kiểm_tra/V hệ_thống/N máy_tính/N nội_bộ/N
+Các/L doanh_nghiệp/N lĩnh_vực/N tài_chính/N thương_mại/N thanh_toán/V điện_tử/N thường/A là/V nơi/N dễ/N trở_thành/V mục_tiêu/N trọng_điểm/N của/E các/L cuộc/N tấn_công/V mạng/N
+Thế/T nhưng/C thực_tế/N lại/R có/V nhiều/A doanh_nghiệp/N không/R hề/R biết/V mã/V độc/N đã/R nằm_vùng/V trong/E hệ_thống/N của/E mình/P từ/E rất/N lâu/A
+Chúng_tôi/P cũng/R đã/R từng/R phát_hiện/V ra/V phần_mềm/N gián_điệp/N nằm_vùng/V hơn/A 15/M năm/N trong/E hệ_thống/N của/E một/M doanh_nghiệp/N trong/E lĩnh_vực/N này/P mà/C toàn_bộ/N hệ_thống/N an_ninh/N không/R hề/V hay_biết/V ông/N Nguyễn_Minh_Đức/Np giám_đốc/V hệ_thống/N an_ninh/N mạng/N thông_minh/A Cyradar/Np tiết_lộ/V
+Theo/E ông/N Đức/Np Một/M phần/N nguyên_nhân/N là/V hệ_thống/N lỏng_lẻo/N chưa/R đủ/V tốt/A để/E phát_hiện/V và/CC ngăn_chặn/V các/L tấn_công/N nhưng/C một/M phần/N cũng/R phải/V lưu_ý/V một/M thực_tế/N là/V kẻ/N tấn_công/V hiện_nay/N tinh_vi/A hơn/R rất/R nhiều/A so/V hầu_hết/N đội_ngũ/N bảo_vệ/V mạng/N tại/E các/L tổ_chức/N
+Qua/V trao_đổi/V với/E nhiều/A công_ty/N an_ninh/N mạng/N chúng_tôi/N được/V biết/V họ/N thường_xuyên/A gửi/V các/L thông_tin/N cảnh_báo/N đến/V tổ_chức/V doanh_nghiệp/N thông_qua/V nhiều/A hình_thức/N khác/A nhau/N nhưng/N hầu_hết/A người/N nhận/V đều/R không/R coi_trọng/V cảnh_báo/N
+Ngay/T cả/P một_số/N tổng_công_ty/N lớn/A dù/N đã/R được/V công_ty/N bảo_mật/V liên_hệ/V và/N chỉ/V rõ/A những/L lỗ_hổng/N nguy_cơ/N mất/V dữ_liệu/N đến/E tận/N ban/N lãnh/V đạo/N
+nhưng/C 12/M tháng/N sau/A kiểm_tra/V lại/R các/L lỗ_hổng/N này/P vẫn/R còn/V tồn_tại/V nguy_cơ/N mất/V dữ_liệu/N vẫn/R còn/V đó/P
+Về/V tổng_thể/N ông/N Võ_Đỗ_Thắng/Np giám_đốc/N Trung_tâm/N đào_tạo/V và/N an_ninh/N mạng/N Athena/Np cho/V rằng/N Công_tác/N phòng_thủ/V của/E hệ_thống/N mạng/N doanh_nghiệp/N tổ_chức/N Việt_Nam/Np hiện_nay/N còn/R rất/R yếu/A
+Các/L lãnh_đạo/N cũng/R chưa/R xem/V trọng/N công_tác/V bảo_mật/N dữ_liệu/N chưa/R có/V những/L đầu_tư/N phù_hợp/V
+Nhiều/A tổ_chức/N doanh_nghiệp/N xem/V bộ_phận/N công_nghệ_thông_tin/N là/V bộ_phận/N sai/V vặt/N làm/V đủ/A thứ/N nên/C không/R thể_nào/V đủ/A nguồn_lực/N chống_đỡ/V hay/C phòng_thủ/V khi/N có/V sự_cố/N xảy/V ra/R
+Chỉ/R đến/E khi/N có/V khủng_hoảng/N thì/C lãnh_đạo/N doanh_nghiệp/N tổ_chức/V mới/A quan_tâm/V
+Như/C vậy/P là/V quá/V muộn/A
+Một/M vấn_đề/N nữa_là/N lãnh_đạo/N doanh_nghiệp/N tổ_chức/V hầu/N như_không/N có/V hoặc/N có/V rất/R ít/A kiến_thức/N về/V an_toàn/N thông_tin/N nên/C cũng/R không/R biết/V sẽ/R chỉ_đạo/V thế_nào/N cho/V phù_hợp/V

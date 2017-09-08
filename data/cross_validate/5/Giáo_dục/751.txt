@@ -1,0 +1,29 @@
+Điểm_chuẩn/V vào/E ngành/N y/N quá/R cách_biệt/V
+Thống_kê/V điểm_chuẩn/V các/L trường/N năm/N nay/P cho/V thấy/V nhiều/A trường/N top/N trên/E có/V xu_hướng/N giảm/V đặc_biệt/A là/C khối/N Y_Dược/Np
+Hầu_hết/L ngành/N Y/N đa_khoa/N ngành/N học/V giữ/V vị_trí/N số/N 1/M trong/E danh_sách/N có/V điểm/N đầu_vào/V cao/A nhất/R khối/N Y_dược/N đều/R giảm/V từ/E 0,5/M đến/E 1,25/M điểm/N tùy/V trường/N
+Y/N đa_khoa/N của/E Đại_học/N Y_Hà_Nội/Np lấy/V 27/M điểm/N giảm/V 0,75/M so/V với/E năm_ngoái/N
+Ngành/N Răng_Hàm_Mặt/Np lấy/V 26,75/M giảm/V 0,25/M
+Với/E mức/N điểm_chuẩn/N 23,25/M 27/M trường/N thông_báo/V số/N thí_sinh/N tuyển/V thẳng/A và/CC trúng_tuyển/V là/V 1 5/M vênh/N không/R nhiều/A so/V với/E chỉ_tiêu/N 1 0/M  /M Đại_học/N Y_Hà_Nội/Np áp_dụng/V thêm/V tiêu_chí/N phụ/V thí_sinh/V trúng_tuyển/V vào/E ngành/N Y/N đa_khoa/A và/CC Răng_Hàm_Mặt/Np phải/V đạt/V điểm/N Toán/Np từ/E 8,75/M trở_lên/A  /M Điểm/N trúng_tuyển/V ngành/N Y/N đa_khoa/N của/E Đại_học/N Y_Dược/Np TP_HCM/Np là/V 26,75/M giảm/V 1,25/M so/V với/E năm/N trước/E /N 28/M điểm/N /V
+Tương_tự/A điểm/N các/L ngành/N Răng_Hàm_Mặt/Np Dược_học/Np đều/R giảm/V  /M Ngành/N
+Y_Đa/N khoa/N của/E Đại_học/N Y_dược/N TP_HCM/Np phải/V dùng/V đến/E 2/M tiêu_chí/N phụ/V để/E xét/V tuyển/V
+Môn_Hóa/Np áp_dụng/V cho/E ngành/N Dược_học/N môn/N Sinh_học/N áp_dụng/V cho/E các/L ngành/N còn/V lại/R
+Đại_học/N Y_Khoa_Phạm_Ngọc_Thạch/Np là/V một/M trong/E những/L trường/N cuối_cùng/A khối/N ngành/N Y_Dược/Np công_bố/V điểm_chuẩn/N tối/N 14/8/M
+Điểm/N trúng_tuyển/V năm/N nay/P giảm/V cho/E tất_cả/P ngành/N
+Ngành/N Răng_Hàm_Mặt/Np lấy/V điểm_chuẩn/N cao/A nhất/A với/E 23,2/M
+Y_Đa/A khoa/N giảm/V từ/E 24/M điểm/N năm/N trước/A xuống/R còn/V 22,8/M điểm/N năm/N nay/P
+Tương_tự/A điểm/N trúng_tuyển/V ngành/N Bác_sĩ/N đa_khoa/A của/E Đại_học/N Y_Dược_Thái_Bình/Np giảm/V từ/E 26/M điểm/N năm_ngoái/N xuống/R còn/R 25,5/M năm/N nay/P ngành/N Dược_học/N giảm/V 1,25/M điểm/N từ/E 25,5/M xuống/R còn/V 24,25/M
+Các/L ngành/N Y_học/N cổ_truyền/A Điều_Dưỡng/Np và/CC Y_tế/N công_cộng/A đều/R giảm/V điểm/N so/V với/E năm/N trước/E
+Điểm/N trúng_tuyển/V ngành/N Y_Đa/Np khoa/N của/E Đại_học/N Y_Dược_Huế/Np là/V 26/M cao/A nhất/R trong/E tất_cả/N ngành/N và/CC giảm/V 0,5/M điểm/N so/V với/E năm_ngoái/N  /M Ngành/N
+Y_Đa/N khoa/N của/E các/L trường/N Đại_học/N Y_Dược/Np /V Đại_học/N Thái_Nguyên/Np /M Đại_học/N Y_khoa/N Vinh/Np Đại_học/N Y_dược/N Hải_Phòng/N Đại_học/N Kỹ_thuật/N Y_tế/N Hải_Dương/Np đều/R giảm/V
+Trong/E khi/N điểm_chuẩn/V ngành/N Y_Đa/Np khoa/N Dược_học/N của/E nhiều/A trường/N dao_động/V mức/N 23/M đến/E 27/M thì/C một_số/L đại_học/N ngoài/E công_lập/N chỉ/R cần/V 15/M đến/E 18/M điểm/N đã/R đỗ/V vào/E khối/N y_dược/N
+Năm/N đầu_tiên/A Đại_học/N Kinh_doanh/V và/CC Công_nghệ/N tuyển_sinh/V 200/M chỉ_tiêu/N Y/N đa_khoa/A và/CC 200/M chỉ_tiêu/N Dược_học/N
+Điểm/N trúng_tuyển/V cả/P hai/M ngành/N là/V 18/M
+Theo/E PGS /Np Nguyễn_Thị_Yến/Np Trưởng_phòng/N đào_tạo/V Đại_học/N Y_Hà_Nội/Np điểm_chuẩn/N năm/N nay/P giảm/V phụ_thuộc/V vào/E nhiều/A yếu_tố/N
+Một/M phần/N do/E đề/N thi/V khó/A hơn/R có/V tính/N phân_loại/V tốt/A hơn/R
+Đối_với/E Đại_học/N Y_Hà_Nội/Np số/N thí_sinh/N trúng_tuyển/V vênh/N so/V với/E chỉ_tiêu/N của/E trường/N khoảng/N 10%/M để/E bù_trừ/V lượng/N thí_sinh/N ảo/A
+Bởi/E năm/N nay/P mỗi/M thí_sinh/N được/V đăng_ký/V tối_đa/A 2/M trường/N tổng_cộng/N 4/M nguyện_vọng/N nên/C hệ/N số_ảo/V rất/R lớn/A
+Bà/N Yến/Np cho_hay/V trường/N có/V công_bố/V thêm/V chỉ_tiêu/N nguyện_vọng/N bổ_sung/V không/R thì_phải/N qua_ngày/V 19/8/M mới/R xác_định/V được/R
+Trưởng_phòng/N đào_tạo/V Đại_học/N Y_Hà_Nội/Np cũng/R lưu_ý/V thí_sinh/N đã/R trúng_tuyển/V nhanh_chóng/A nộp/V hồ_sơ/N về/V trường/N trước/E thời_gian/N quy_định/N để/E xác_nhận/V theo/V học/V
+Hết/V ngày/N 14/8/M các/L đại_học/N trực_thuộc/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N đều/R đã/R công_bố/V điểm_chuẩn/A
+Khối/N trường/N công_an/N công_bố/V điểm/N trúng_tuyển/V vào/E sáng/N 15/8/M
+Riêng/T khối/N các/L trường/N quân_đội/N sẽ/R công_bố/V điểm_chuẩn/A sau/E khi/N Ban/N Tuyển/Np sinh/V quân_sự/N Bộ/N Quốc/Np phòng/V họp/V vào/E ngày/N 17/8/M

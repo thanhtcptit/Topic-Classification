@@ -1,0 +1,8 @@
+﻿/M Áo/N tàng_hình/N có_thể/A bẻ/V cong/A ánh_sáng/N
+Các/L nhà_nghiên_cứu/N tại/E Đại_học/N Công_lập/N Navarre/Np NUP_UPNA/Np và/CC Đại_học/N Valencia/Np UPV/Np Tây_Ban_Nha/Np phát_triển/V công_nghệ/N chế_tạo/V áo/N tàng_hình/V che_giấu/V đồ_vật/N khi/N bị/V chiếu/V sáng/N trực_tiếp/A bằng/E cách/N phủ/V quanh/N nó/P vật_liệu/N đặc_biệt/A có/V khả_năng/N uốn/V cong/A ánh_sáng/N
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E tạp_chí/N  /M Physical_Review/Np A/N tháng/N 12/2016/M
+Những/L gì/P chúng_tôi/P cần/V là/V hai/M vật_liệu/N khác_nhau/A với/E độ/N khuếch_tán/A riêng_biệt/V
+Bằng/Np cách/V kết_hợp/V chúng/P với/E nhau/N chúng_tôi/P chế_tạo/V những/L chiếc/Nc áo_choàng/N có_thể/A khiến/V ánh_sáng/N di_chuyển/V quanh/N vật_thể/N để/E làm/V nó/P trông/V như/C biến_mất/V Futurism/Np dẫn/V lời/N  /V Bakhtiyar_Oabayerv/Np thành_viên/N của/E nhóm/N nghiên_cứu/V tại/E Đại_học/N Công_lập/N Navarre/Np cho_biết/V
+Việc/N thực_hiện/V công_nghệ/N mới/R không/R phải/V là/V điều/N dễ_dàng/A do/E nó/P cũng/R có/V một_số/L hạn_chế/V nhất_định/R gây/V trở_ngại/N tới/E quá_trình/N phát_triển/V áo/N tàng_hình/V trong/E tương_lai/N
+Áo/N tàng_hình/V không/R hoạt_động/V đúng/A cách/N khi/N vật_thể/N bị/V chiếu/V bởi/E các/L xung/N ánh_sáng/N ngắn/A Alejandro_Martínez_Abiétar/Np thành_viên/N của/E nhóm/N nghiên_cứu/V nói/V
+Dù/C nhóm/N nghiên_cứu/V chưa_thể/R chế_tạo/V một/M chiếc/Nc áo/N tàng_hình/A hoàn_chỉnh/V trong/E phòng_thí_nghiệm/N nhưng/C công_nghệ/N của/E họ/P hiện_nay/N có_thể/R ứng_dụng/V để/E tăng_tốc/V tín_hiệu/N trong/E truyền/V thông_tin/N quang_học/V chế_tạo/V máy_bay/N tàng_hình/N và/CC phát_triển/V các/L tấm/Nc pin/N năng_lượng/N Mặt_Trời/Np hiệu_quả/N hơn/A

@@ -1,0 +1,20 @@
+860 0/M thí_sinh/N làm/V thủ_tục/N thi/V THPT/Np quốc_gia/N
+Chiều/N 21/6/M khoảng/N 866 0/M thí_sinh/N cả/P nước/N sẽ/R tập_trung/V tại/E các/L điểm/N thi/V THPT/Np quốc_gia/N để/E làm/V thủ_tục/N và/CC đính_chính/N sai_sót/N /A nếu/C có/V /M
+Thí_sinh/N phải/V xuất_trình/V Giấy_chứng_minh/N nhân_dân/N hoặc/CC thẻ/N căn_cước/V công_dân/N và/CC nhận/V Thẻ/N dự/V thi/V
+Nếu/C phát_hiện/V sai_sót/N về/E họ/P tên/N đệm/N tên/N ngày/N tháng/N năm/N sinh/V đối_tượng/N ưu_tiên/V khu_vực/N ưu_tiên/V các/L em/N cần/V báo/V ngay/T cho/E cán_bộ/N của/E Điểm/N thi/V để/E xử_lý/V
+Sau/E khi/N thí_sinh/V có_mặt/V đông_đủ/A tại/E phòng/N thi/V cán_bộ/N coi/V thi/V sẽ/R nhắc/V lại/R lịch/N thi/V phổ_biến/V quy_chế/N như/C đến/E chậm/A quá/R 15/M phút/Nu sau/E khi/N có/V hiệu_lệnh/N tính/V giờ/N làm/V bài/N sẽ/R không/R được/V dự/V thi/V buổi/N đó/P 10/M phút/Nu sau/E khi/N phát/V đề/N phải/V kiểm_tra/V và/CC báo/V lỗi/N đề/N thi/V
+Những/L lỗi/N thiếu/A trang/N rách/A hỏng/A nhòa/A mã_đề/A trong/E các/L môn/N thi/V thành_phần/N của/E bài/N thi/V tổ_hợp/N khác_nhau/A thí_sinh/N phải/V báo_cáo/V ngay/R để/E kịp_thời/A xử_lý/V
+Do/E hầu_hết/R môn/N thi_trắc_nghiệm/N thí_sinh/N sẽ/R được/V giám_thị/V hướng_dẫn/V cặn_kẽ/A việc_làm/N bài/N
+Các/L em/N chỉ/R được/V tô/N bằng/E bút_chì/N đen/A ô/N số_báo_danh/N ô/N mã_đề/V thi/V và/CC ô/N trả_lời/V
+Trường_hợp/N tô/N nhầm/V hoặc/CC muốn/V thay_đổi/V câu/N trả_lời/V cần/V tẩy/V sạch/A chì/N ở/E ô/N cũ/A rồi/C tô/N ô/N mình/P lựa_chọn/V  /M Năm/N 2017/M Bộ/N Giáo/N dục/N và/CC Đào_tạo/N tiếp_tục/V tổ_chức/V kỳ/N thi/V THPT/Np quốc_gia/N với/E mục_tiêu/N xét/V tốt_nghiệp/V và/CC xét/V tuyển/V đại_học/N cao_đẳng/N
+So/V với/E 2/M năm/N trước/A kỳ/N thi/V THPT/Np quốc_gia/N năm/N nay/P có/V nhiều/A thay_đổi/V về/E hình_thức/N số/N môn/N số/N ngày/N và/CC đơn_vị/N tổ_chức/V thi/V
+Năm/N nay/P trừ/V Ngữ_văn/N 8/M môn/N còn/V lại/R thi_trắc_nghiệm/N
+Đây/P cũng/R là/V năm/N đầu_tiên/A Bộ/N Giáo/Np dục/V đưa/V Giáo_dục/N công_dân/N vào/E kỳ/N thi/V cuối_cùng/A của/E học_sinh/N bên_cạnh/N các/L môn/N truyền_thống/N Toán/Np Ngoại_ngữ/N Lý/Np Hóa/Np Sinh/Np Sử/Np Địa/Np  /EOS
+Do/E thi_trắc_nghiệm/N thời_gian/N làm/V bài/N được/V rút/V ngắn/A /N trừ/V Văn/Np 120/M phút/Nu Toán/Np 90/M phút/Nu Ngoại_ngữ/N  /A 60/M phút/Nu các/L môn/N còn/V lại/R 50/M phút/Nu /A tổng/N thời_gian/N thi/V THPT/Np quốc_gia/N giảm/V còn/R 2/M ngày/N rưỡi/M thay_vì/V 4/M ngày/N như/A trước/E
+Sở/N Giáo/Np dục/V giữ/V vai_trò/N chủ_trì/N cụm/N thi/V thay_vì/V để/E các/L trường/N đại_học/N cầm_trịch/V
+Nhằm/V đảm_bảo/V khách_quan/A công_bằng/A cho/E thí_sinh/N các/L trường/N đại_học/N vẫn/R tham_gia/V trông/V chấm/V và/CC giám_sát/V kỳ/N thi/V
+Thí_sinh/N thi/V ngay/T tại/E địa_phương/N cư_trú/V không/R phải/V di_chuyển/V về/E cụm/N thi/V đại_học/N như/C trước/N tránh/V lãng_phí/V thời_gian/N tiền_bạc/N
+Để/E xét/V tốt_nghiệp/V THPT/Np thí_sinh/N sẽ/R làm/V 5/M  /Nc bài/N thi/V gồm/V 3/M bài/N độc_lập/N bắt_buộc/V là/V Toán/Np Văn/Np Ngoại_ngữ/N lựa_chọn/V một/M trong/E hai/M bài/N thi/V tổ_hợp/N Khoa_học_tự_nhiên/N /A Lý/Np Hóa/Np Sinh/Np /V hoặc/CC Khoa_học_xã_hội/X /V Sử/Np Địa/Np Giáo_dục/N công_dân/N /M
+Nếu/C muốn/V tăng/V cơ_hội/N xét/V tuyển/V đại_học/N thí_sinh/N có_thể/A chọn/V thi/V cả/P hai/M bài/N tổ_hợp/N
+Kỳ/N thi/V 2017/M  /N cả/P nước/N có/V khoảng/N 860 0/M thí_sinh/N /V giảm/V hơn/R 27 0/M so/V với/E năm/N trước/E /M  /N sẽ/R dự/V thi/V THPT/Np quốc_gia/N để/E xét/V tốt_nghiệp/V và/CC xét/V tuyển/V đại_học/N cao_đẳng/N sư_phạm/V  /M Hơn/A 643 0/M /Nu 75%/M /N thí_sinh/N thi/V để/E lấy/V kết_quả/N xét/V tuyển/V đại_học/N
+Trong/E khi/N đó/P  /M chỉ_tiêu/N của/E các/L trường/N đại_học/N cao_đẳng/N sư_phạm/V cả/P nước/N là/V hơn/A 392 0/M /Nu giảm/V 30 0/M so/V với/E năm/N trước/A /M

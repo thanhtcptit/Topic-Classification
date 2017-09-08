@@ -1,0 +1,11 @@
+Số/N chuyến/N bay/V chậm/A giờ/N vẫn/R tăng/V
+Tỉ_lệ/N chậm/N huỷ/N chuyến/N của/E các/L hãng/N hàng_không/N đang/R có/V dấu_hiệu/N tăng/V trở_lại/V vào/E mùa/N cao_điểm/N hè/N
+Cụ_thể/A theo/V số_liệu/N của/E Cục/N Hàng_không/N VN/Np tình_trạng/N chậm/A huỷ/N chuyến/N từ/E ngày/N 7/M đến/V 136/M cho/V thấy/V các/L hãng/N hàng_không/N VN/Np đã/R thực_hiện/V tổng_cộng/N 5766/M chuyến/N bay/V thì_có/N đến/V 869/M chuyến/N chậm/N chiếm/V 15/M tỉ_lệ/N chậm/N chuyến/N đang/R ở/V mức/N cao/A nhất/A từ/E đầu/N năm/N đến/V nay/P
+Trong/E đó/P Hãng_Viet/Np Jet/Np dẫn_đầu/V tỉ_lệ/N chậm/A chuyến/N
+Hãng/N này/P đã/R khai_thác/V 2341/M chuyến/N bay/V 502/M chuyến/N bay/V chậm/A giờ/N chiếm/V 214/M số/N chuyến/N bay/V hãng/N thực_hiện/V
+Tương_tự/N Jetstar_Pacific/Np khai_thác/V 503/M chuyến/N chậm/N 63/M chuyến/N bay/V tỉ_lệ/N 119/M số/N chuyến/N thực_hiện/V
+Vietnam_Airlines/Np khai_thác/V 2649/M chuyến/N bay/V 301/M chuyến/N chậm/N tỉ_lệ/N 114/M
+Vasco/N thực_hiện/V ít/A chuyến/N bay/V nhất/A với/E 253/M chuyến/N bay/V 3/M chuyến/N chậm/N tỉ_lệ/N 12/M
+Đánh_giá/V của/E Cục/N Hàng_không/N VN/Np phần_lớn/N nguyên_nhân/N dẫn/V đến/E việc/N chậm/N huỷ/N chuyến/N của/E các/L hãng/N hàng_không/N vẫn/R là/V máy_bay/N về/V muộn/A chiếm/V tỉ_trọng/N 70/M
+Ngoài_ra/X còn/V các/L nguyên_nhân/N như/C trang_thiết_bị/N và/CC dịch_vụ/N tại/E cảng_hàng_không/N quản_lí/N và/CC điều_hành/V bay/V thời_tiết/N kĩ_thuật/N
+Đáng/V lưu_ý/V tỉ_lệ/N chậm/N huỷ/V chuyến/N khoảng/N 2/M tuần/N đầu/N mùa/N cao_điểm/N hè/N đã/R cao/A hơn/A dịp/N cao_điểm/N nghỉ/V lễ/N 304/M và/N 15/M dù/N số/N chuyến/N tăng/V hơn/R không/R đáng_kể/A

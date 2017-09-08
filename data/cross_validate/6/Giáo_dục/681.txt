@@ -1,0 +1,27 @@
+Bí_quyết/N ôn/V thi/V THPT/Np quốc_gia/N môn/N tiếng/N Anh/Np
+Ngày/N 26/3/M Đại_học/N Hà_Nội/Np tổ_chức/V Ngày/N hội/N thông_tin/N tuyển_sinh/V năm/N 2017/M
+Phần/N tư_vấn/V phương_pháp/N ôn_tập/V và/CC làm/V bài/N thi/V môn/N tiếng/N Anh/N trong/E kỳ/N thi/V THPT/Np quốc_gia/N được/V đặc_biệt/A quan_tâm/V
+Là/V khách/N mời/V cô/N Vũ_Mai_Phương/Np người/N nhiều/A năm/N kinh_nghiệm/N giảng_dạy/V và/CC luyện/V thi/V tiếng/N Anh/N trên/E truyền_hình/N chia_sẻ/V những/L tháng/N cuối/A là/V thời_gian/N vàng/N để/E học_sinh/N ôn_tập/V và/CC xây_dựng/V chiến_thuật/N hợp_lý/A ở/E môn/N tiếng/N Anh/Np
+Nhìn/V vào/E hai/M đề/N thi/V minh_họa/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V các/L em/N có_thể/R thấy/V câu_hỏi/N rơi/V vào/E phần/N kiến_thức/N giống/A mọi/L năm/N nhưng/C số_lượng/N giảm/V đặc_biệt/A ở/E dạng/N bài/N khó/A như/C điền/N từ/E vào/V đoạn/N văn/N hay/C đọc/V hiểu/V
+Đề/Np thi/V lại/R không/R có/V phần/N tự/P luận/V nên/C sẽ/R có/V nhiều/A điểm/N tuyệt_đối/A hơn/A cô/Nc Phương/Np phân_tích/V  /M Giáo_viên/N này/P dự_đoán/N độ/N khó/A của/E đề/N thi/V năm/N nay/P chỉ/R bằng/E 80%/M đề/N năm/N 2016/M
+Riêng/T mức_độ/N phân_hóa/V sẽ/R vẫn/R giống/A mọi/L năm/N
+Số/N câu_hỏi/N khó/A chiếm/V khoảng/N 15%/M hoặc/CC có_thể/R nhiều/A hơn/R
+Những/L câu/N này/P  /V thường/R rơi/V vào/E trường_hợp/N ngoại_lệ/N nằm/V ngoài/E quy_tắc/N chung/A của/E một/M vùng/N kiến_thức/N hay/C một/M dạng/N bài/N
+Ví_dụ/V trọng_âm/N của/E danh_từ/N có/V hai/M âm_tiết/N thường/R rơi/V vào/E âm_tiết/N thứ/N nhất/M và/CC câu_hỏi/N sẽ/R chứa/V đáp_án/N mà/C từ/E đó/P ngoại_lệ/N có/V trọng_âm/N rơi/V vào/E âm_tiết/N thứ_hai/N  /EOS
+Phần/N tư_vấn/V cô/N Mai_Phương/Np nhấn_mạnh/V tầm/N quan_trọng/A của/E việc/N học/V từ_vựng/A trong/E đó/P có/V việc/N học/V từ/E những/L bài/N đọc/V hiểu/V
+Học/V từ_vựng/N là/V quá_trình/N dài/A và/CC không/R có/V điểm/N dừng/V cô/Nc Phương/Np nói/V và/CC khuyên/V học_sinh/N nên/C học/V từ_vựng/A 30/M phút/Nu vào/V buổi_sáng/N khi/N mới/R thức_dậy/V và/CC buổi/N tối/N trước/E khi/N đi/V ngủ/V
+Trong/E thời_gian/N nước_rút/N này/P cô/Nc Phương/Np lưu_ý/V học_sinh/N nên/C học/V và/CC ôn_luyện/V từ_vựng/A theo/E hướng/N đa_dạng_hóa/N chứ/C không/R nên/V tập_trung/V vào/E một/M dạng/N bài/N hay/C một/M phần/N kiến_thức/N
+Còn/C gần/A 3/M tháng/N nếu/C các/L em/N chăm_chăm/A học/V từ_vựng/A về/E cụm/N động_từ/N thì/C chắc_chắn/A sẽ/R không/R giành/V được/R điểm_cao/N
+Thay/V vào/E đó/P việc/N học/V từ/E mới/R theo/V chủ_đề/N song_song/A với/E những/L từ/E mới/R liên_quan/V đến/E dạng/N câu_hỏi/N trong/E đề/N thi/V như/C từ_đồng_nghĩa/N trái_nghĩa/N sẽ/R giúp_ích/A hơn/R cô/N nói/V  /EOS
+Giải_đáp/V thắc_mắc/V về/E kỹ_năng/N làm/V bài/N đọc/V hiểu/V cô/Nc Phương/Np nhấn_mạnh/V từ_vựng/N vẫn/R là/V yếu_tố/N quan_trọng/A nhất/A thay_vì/V các/L kỹ_năng/N làm/V bài/N nhanh/A vì/E không/R có/V từ_vựng/N thì/C nhìn/V bài/N đọc/V hiểu/V như/C nhìn/V vào/E bức/Nc tường/N
+Học_sinh/N nên/C làm/V 4/M bài/N đọc/V hiểu/V mỗi/M ngày/N học/V kỹ/A các/L bài/N trong/E sách_giáo_khoa/N và/CC làm/V đề/N thi/V thử/V để/E mở_rộng/V vốn/N từ/E tập/V phân_bố/V thời_gian/N và/CC tăng/V sự/N tự_tin/V
+Cũng/R theo/E cô/Nc Phương/Np khi/N làm/V bài/N đọc/V hiểu/V ở/E nhà/N trước_hết/N phải/V coi/V đó/P như/C bài/N thi/V thực_sự/A để/E rèn_luyện/V tinh_thần/N khả_năng/N phán_đoán/V và/CC chỉ/R được/V dùng/V từ_điển/N để/E dịch/V bài/N khi/N đã/R kiểm_tra/V kết_quả/N
+Dịch/V lại/R tất_cả/P bài/N đã/R làm/V sẽ/R giúp/V các/L em/N nắm/V được/R ý_tưởng/N nhớ/V từ_vựng/A mà/C không/R cần/V ép/V mình/P phải/V thuộc_lòng/V cô/N nói/V
+Để/E đảm_bảo/V không/R mất/V điểm/N oan/A ở/E những/L câu_hỏi/N dễ/A và/CC đạt/V điểm_cao/N nhất/A có_thể/R cô/Nc Phương/Np khuyên/V học_sinh/N cẩn_thận/A khi/N làm/V bài/N không/R nên/V mắc/V những/L lỗi/N ngớ_ngẩn/N như/C điền/N nhầm/V phương_án/N hay/C chưa/R tẩy/V sạch/A đáp_án/N sai/A
+Học_sinh/N cũng/R không/R nên/V bỏ_qua/V yếu_tố/N may_mắn/A
+Loại_trừ/V đáp_án/N và/CC dùng/V trực_giác/N để/E chọn/V một/M phương_án/N có_thể/A giúp/V các/L em/N có/V thêm/V điểm/N ngay/T cả/T ở/E phần/N kiến_thức/N không/R nắm/V chắc/A cô/Nc Phương/Np nói/V
+Thầy_Phạm_Ngọc_Thạch/Np Phó/Z hiệu_trưởng/N Đại_học/N Hà_Nội/Np cho_biết/V năm/N 2017/M nhà_trường/N tuyển_sinh/V ở/E 18/M ngành/N đào_tạo/V đại_học/N chính_quy/A trong/E đó/P 17/M ngành/N xuất_hiện/V môn/N tiếng/N Anh/N trong/E tổ_hợp/N xét/V tuyển/V /N trừ/V ngành/N tiếng/N Việt/Np và/CC Văn_hóa/N Việt_Nam/Np /V và/CC 16/M ngành/N tiếng/N Anh/Np nhân/V hệ_số/N 2/M
+Từ/E thực_tế/N đó/P nhà_trường/N xác_định/V việc/N ôn_luyện/V tiếng/N Anh/N trong/E gần/A 3/M tháng/N cuối/N trước/E kỳ/N thi/V là/V rất/R quan_trọng/A  /EOS
+Đại_học/N Hà_Nội/Np tăng/V 270/M chỉ_tiêu/N trong/E mùa/N tuyển_sinh/V năm/N 2017/M ngoài/E ngành/N Công_nghệ_thông_tin/N các/L ngành/N ngôn_ngữ/N truyền_thống/N của/E trường/N và/CC chuyên_ngành/N được/V dạy/V bằng/E ngoại_ngữ/N đều/R giữ/V nguyên/A hoặc/CC tăng/V từ/E 25/M đến/E 50/M chỉ_tiêu/N  /EOS
+Trong_Ngày/Np hội/N thông_tin/N tuyển_sinh/V năm/N 2017/M Đại_học/N Hà_Nội/Np cho/E học_sinh/N THPT/Np làm/V bài/N trắc_nghiệm/V xác_định/V thiên_hướng/N nghề_nghiệp/N dựa/V trên/E sở_thích/N
+Đây/P là/V một/M trong/E ba/M công_cụ/N thuộc/V Bộ/N Công/N cụ/N Khám_phá/V nghề_nghiệp/N O*/Np NET/Np do/E Ủy_ban/N Nghề_nghiệp/N và/CC Đào_tạo/N thuộc/V Bộ/N Lao/Np động/V Mỹ/Np xây_dựng/V nhằm/V đánh_giá/V nhanh_chóng/A chính_xác/A về/E công_việc/N phù_hợp/V với/E từng/P cá_nhân/N

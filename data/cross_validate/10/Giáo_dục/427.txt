@@ -1,0 +1,12 @@
+Việt_Nam/Np đoạt/V 3/M Huy_chương/N vàng/N Olympic_Hoá/Np học/V quốc_tế/N năm/N 2017/M 
+Cụ_thể/A như/C sau/N 1/M 
+Em_Đinh_Quang_Hiếu/X học_sinh/N lớp/N 12/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Khoa_học/N Tự_nhiên/A Đại_học/N Quốc_gia/Np Hà_Nội/Np Huy_chương/N Vàng/Np 2/M 
+Em_Nguyễn_Bằng_Thanh_Lâm/Np học_sinh/N lớp/N 12/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Hà_Nội/Np Amsterdam/Np thành_phố/N Hà_Nội/Np Huy_chương/N Vàng/Np 3/M 
+Em_Phạm_Đức_Anh/X học_sinh/N lớp/N 11/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Khoa_học/N Tự_nhiên/A Đại_học/N Quốc_gia/Np Hà_Nội/Np Huy_chương/N Vàng/Np 4/M 
+Em_Hoàng_Nghĩa_Tuyến/Np học_sinh/N lớp/N 12/M Trường_Trung/Np học/V phổ_thông/N chuyên/A Phan_Bội_Châu/Np tỉnh/N Nghệ_An/Np Huy_chương/N Bạc/Np 
+Olympic_Hoá/Np học/V quốc_tế/N năm/N 2017/M lần/N thứ/N 49/M tổ_chức/V ở/E Vương_Quốc_Thái_Lan/Np có/V 76/M quốc_gia/N và/CC vùng/N lãnh_thổ/N tham_dự/V với/E tổng_số/N 297/M thí_sinh/N 
+Theo/E bảng/N xếp_hạng/N không/R chính_thức/A Đội_tuyển/N Mỹ/Np xếp/V thứ/N nhất/M 04/M Huy_chương/N Vàng/Np Việt_Nam/Np cùng_với/C Trung_Quốc/Np đều/R đoạt/V 03/M Huy_chương/N Vàng/Np và/CC 01/M Huy_chương/N Bạc/Np và/CC xếp/V thứ_hai/N 
+Điểm/N thi/V của/E các/L thí_sinh/N của/E Việt_Nam/Np đoạt/V Huy_chương/N đều/R xếp/V thứ_hạng/N cao/A trong/E cuộc_thi/N Em_Đinh_Quang_Hiếu/Np đạt/V 92,13/M //X 100/M điểm/N đứng/V thứ/N 9/297/M thí_sinh/N Nguyễn_Bằng_Thanh_Lâm/Np đạt/V 89,67/M //X 100/M điểm/N đứng/V thứ/N 20/297/M thí_sinh/N Em_Phạm_Đức_Anh/Np đạt/V 89,46/M //X 100/M điểm/N đứng/V thứ/N 21/297/M thí_sinh/N Em_Hoàng_Nghĩa_Tuyến/Np đạt/V 85,91/M //X 100/M điểm/N 
+Đây/P là/V kết_quả/N cao/A nhất/A của/E Đội_tuyển/N Việt_Nam/Np tham_dự/V Olympic_Hóa/Np học/V quốc_tế/N từ/E trước/N đến/E nay/N 
+Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N sẽ/R đón/V đoàn/N và/CC chúc_mừng/V thành_tích/N của/E đoàn/N dự/V thi/V Olympic_Hóa/Np học/V quốc_tế/N năm/N 2017/M tại/E Sân_bay/N quốc_tế/N Nội_Bài/Np vào/E hồi/N 18/M giờ/Nu 00/M ngày/N 15/7/2017/M 
+Hồng_Hạnh/Np 

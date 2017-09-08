@@ -1,0 +1,15 @@
+Trí_tuệ_nhân_tạo/X có_thể/R thay_đổi/V thứ_hạng/N các/L hãng/N công_nghệ/N
+Được/V định_nghĩa/A như/C một/M ngành/N của/E khoa_học/N máy_tính/N trí_tuệ_nhân_tạo/X /V AI/Np /V có_thể/R tư_duy/N suy_nghĩ/V học_hỏi/V
+như/C con_người/N với/E khả_năng/N xử_lý/V dữ_liệu/N ở/E mức/N quy_mô/N hơn/A khoa_học/N hơn/A và/CC nhanh/A hơn/R
+Theo/E hãng/N nghiên_cứu/V Tractica/Np /V Mỹ/Np /V với/E khả_năng/N phân_tích/V dữ_liệu/N vượt_trội/A quy_mô/N doanh_thu/N từ/E các/L ứng_dụng/N dựa/V trên/E AI/Np sẽ/R đạt/V 59,7/M tỷ/N USD/Np vào/E năm/N 2025/M
+Chia_sẻ/V tại/E sự_kiện/N Ngày_Công/Np nghệ/N FPT/Np ông/Nc Nguyễn_Thành_Hưng/Np Thứ_trưởng/N Bộ/N Thông/Np tin/V Truyền_thông/N cho_biết/V những/L năm/N qua/V nhiều/A hãng/N công_nghệ/N lớn/A trên/E thế_giới/N đang/R củng_cố/V vị_trí/N dẫn_đầu/V bằng/E ứng_dụng/N trí_tuệ_nhân_tạo/X như/C Google/Np Apple/Np Amazon/Np
+Cuối/N tháng/N 5/M hệ_thống/N trí_tuệ_nhân_tạo/N mang/V tên/N Alpha_Go/Np do/E Google/Np phát_triển/V đã/R đánh_bại/V kỳ_thủ/V cờ_vây/N số_một/N thế_giới/N Ke_Jie/Np
+Microsoft/Np cũng/R công_bố/V nhiều/A phần_mềm/N AI/Np do/E họ/P phát_triển/V như/C có_thể/R nhận_diện/V tâm_trạng/N của/E các/L nhân_vật/N xuất_hiện/V trong/E video/N dịch/N ngôn_ngữ/N bài/N thuyết_trình/V theo/E thời_gian_thực/N
+Đầu/N năm/N 2016/M Apple/Np mua/V lại/R công_ty/N khởi_nghiệp/V về/E trí_tuệ_nhân_tạo/N Emotient/Np dù/E chưa/R rõ/A kế_hoạch/N cụ_thể/A của/E hãng/N này/P
+Ông/Nc Shaun_Ray/Np Kiến_trúc/N sư_trưởng/N khu_vực/N Asean/Np của/E Amazon_Web_Services/Np cũng/R cho_biết/V AI/Np đã/R hiện_diện/V trong/E Amazon/Np từ/E năm/N 1995/M và/CC luôn/R được/V coi/V là/V một/M trong/E những/L mũi_nhọn/N cho/E việc/N phát_triển/V và/CC dẫn_đầu/V thị_trường/N của/E công_ty/N thể_hiện/V bằng/E những/L sản_phẩm/N và/CC dịch_vụ/N như/C Alexa/Np AmazonGo/Np Rekognition/Np Polly/Np
+Những/L công_nghệ/N như/C IoT/Np AI/Np và/CC AR/Np là/V nhân_tố/N chính/T tạo/V nên/C cuộc/N chuyển_đổi/V số/N
+Một/M bước_đi/N chậm_trễ/A có_thể/R khiến/V một/M hãng/N đang/R dẫn_đầu/V thành/V kẻ/N đi_sau/V đồng_thời/R tạo/V cơ_hội/N lớn/A cho/E các/L hãng/N nhỏ/A nhưng/C nhanh_nhạy/A lập/V lại/R trật_tự/N thế_giới/N
+Theo/E ông/Nc Lê_Hồng_Việt/Np Giám_đốc/N Công_nghệ/N FPT/Np Việt_Nam/Np muốn/V phát_triển/V trí_tuệ_nhân_tạo/X trước_hết/N cần/V chuẩn_bị/V về/E nguồn_lực/N và/CC tiếp_cận/V được/V với/E các/L nền_tảng/N của/E những/L nhà_cung_cấp/N lớn/A trên/E thế_giới/N như/C Google/Np IBM/Np DuPont/Np
+FPT/Np cũng/R định_hướng/V xây_dựng/V hệ_sinh_thái/N công_nghệ/N cho/E cộng_đồng/N với/E vai_trò/N là/V đơn_vị/N kết_nối/V
+Đây/P cũng/R là/V một/M trong/E những/L lý_do/N tập_đoàn/N này/P tổ_chức/V sự_kiện/N Tech_Day/Np ngày/N 6/6/M tại/E Hà_Nội/Np với/E chủ_đề/N Trí_tuệ_nhân_tạo/Np
+Tại/E sự_kiện/N FPT/Np cũng/R chính_thức/A công_bố/V ra_mắt/V FPT /Np nền_tảng/V công_nghệ/N trí_tuệ_nhân_tạo/X để/E các/L lập_trình_viên/N tạo/V ra/R giao_diện/V tương_tác/A bằng/E ngôn_ngữ_tự_nhiên/N

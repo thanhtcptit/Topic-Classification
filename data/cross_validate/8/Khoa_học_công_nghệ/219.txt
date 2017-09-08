@@ -1,0 +1,81 @@
+Công_ty/N khởi_nghiệp/V khác_gì/N doanh_nghiệp/N tư_nhân/N
+Cũng/R cần/V phải/V cảm_kích/V những/L show/N truyền/V hình_như/N SharkTank/V và/N Silicon_Valley/Np cũng/R như/A những/L cuốn/Nc phim/N như/C The_Social_Network/Np Mạng/Np xã_hội/N và/CC Jobs/Np cuộc_đời/N của/E Steve_Jobs/Np càng/R ngày/N có/V nhiều/A người/N rời/V bỏ/V công_việc/N 95/M đây/P là/V cách/N nói/V vui/A của/E dân/N công_nghệ/N ám_chỉ/V những/L công_việc/N văn_phòng/N nhàm_chán/N từ/E 9/M giờ/Nu sáng/N đến/E 5/M giờ/Nu chiều/N và/CC mua/V vé/N một_chiều/N bay/V đến/R vùng_đất/N mơ_ước/V Vương_quốc/N Khởi_Nghiệp/Np để/E viết/V nên/V những/L câu_chuyện/N đi/V vào/E lịch_sử/N nhân_loại/N
+Blog_Khởi_nghiệp/N xin/V trích/V lược/N bài/N phân_tích/V chỉ/V rõ/A những/L điểm/N khác_biệt/A của/E một/M công_ty/N khởi_nghiệp/V và/CC một/M công_ty/N tư_nhân/A do/E cô/N Mandela_SchumacherHodge/V một/M gương_mặt/N trong/E danh_sách/N Forbes/Np 30/M Under/Np 30/M diễn_giả/N TEDx/N và/CC là/V doanh_nhân/N đăng_tải/N trên/N trang_cá_nhân/N tại/N Mediumcom/Np
+Khởi/N nghiệp/N có_thể/A bị/V lầm_lẫn/V
+Sau/E khi/N gặp_gỡ/V và/N tư_vấn/V cho/E hàng/R trăm/M doanh_nhân/N khởi_nghiệp/V trong/E hơn/A hai/M năm/N qua/V tôi/P thấy/V rõ/A một/M điều/N rằng/N số/N đông/N không/R hiểu/V được/R hay/V không/R chịu/V tìm_hiểu/V sự/N khác_biệt/A giữa/E hai/M con/Nc đường/N khởi_nghiệp/V startup/N và/CC phát_triển/V doanh_nghiệp/N nhỏ/N
+Thực_tế/N sự/N khác_biệt/A giữa/E hai/M con/Nc đường/N này/P quá/V quan_trọng/A
+Tại_sao/N quan_trọng/A ư/N
+Vì/C nó/P phụ_thuộc/V vào/E tham_vọng/N tăng_trưởng/N tốc_độ/N tăng_trưởng/V vai_trò/N của/E doanh_nghiệp/N trong/E tương_lai/N bạn/N sẽ/R phải/V phát_triển/V một/M chiến_lược/N cụ_thể/A
+Và/C chiến_lược/N đấy/N không/R phải/A là/V một/M chiến_lược/N thông_thường/A có_thể/A tìm/V thấy/V trong/E sách_vở/N hay/N internet/N
+Với/E bài/N viết/N này/P tôi/P muốn/V giúp/V những_ai/N đang/R muốn/V dấn_thân/V vào/E con/Nc đường/N khởi_nghiệp/V làm/V rõ/A một_số/N vấn_đề/N mấu_chốt/N
+Hi_vọng/N là/V sau/N khi/N đọc/V bài/N này/N bạn/N có_thể/R thấy/V được/R sự/Nc khác_biệt/A giữa/E hai/M con/Nc đường/N khởi_nghiệp/V startup/N và/CC phát_triển/V doanh_nghiệp/N nhỏ/N small/V business/N
+Chúc/V các/L bạn/N có_thể/N lựa_chọn/V được/R con/Nc đường/N phù_hợp/V cho/V mình/N
+Đầu_tiên/N tôi/P sẽ/R phải/V cần/V làm/V rõ/A trong/E một_số/N lĩnh_vực/N thuật_ngữ/N startup/N không/R dùng/V để/E thông_báo/V loại_hình/N của/E doanh_nghiệp/N mà/N chủ_yếu/A dùng/V để/E miêu_tả/V trạng_thái/N phát_triển/V của/E doanh_nghiệp/N Ví_dụ/N tất_cả/N các/L tập_đoàn/N lớn/N hiện_nay/N đều/R đã/R từng/R là/V startup/N
+Tuy_nhiên/C trong/E bài/N viết/N này/P tôi/P tập_trung/V vào/V một/M quan_điểm/N duy_nhất/A Thuật_ngữ/N Khởi_nghiệp/N Startup/Np dùng/V để/E miêu_tả/V một/M loại_hình/N doanh_nghiệp/N vì/E nó/P khác/A hoàn_toàn/A với/E những/L doanh_nghiệp/N nhỏ/A Small_Business/Np
+Lý/Np do/E tôi/P cần/V phải/V nhấn_mạnh/V sự/N khác_biệt/A trên/N vì/N theo/V kinh_nghiệm/N của/E tôi/P dường_như/X sẽ/R có/V sự/N khác_biệt/A về/E mặt/N định_hướng/N trong/E bản_thân/N người/N doanh_nhân/N khởi_nghiệp/V
+Ví_dụ/N người/N sáng_lập/V một/M công_ty/N khởi_nghiệp/V Startup/Np sẽ/R muốn/V ra_mắt/V sản_phẩm/N càng/R nhanh/A càng/R tốt/A càng/R lớn/A càng/R tốt/A
+Trong/E khi/N đó/P người/N sáng_lập/V một/M doanh_nghiệp/N nhỏ/A Small_Business/Np sẽ/R có/V xu_hướng/N phát_triển/V doanh_nghiệp/N với/E một/M quy/N mô/N tăng_trưởng/V giới_hạn/N trong/E tầm/N tay/N kiểm_soát/V của/E người/N sáng_lập/V
+Mandela_SchumacherHodge/N
+10/M khác_biệt/N lớn/A giữa/N Khởi_nghiệp/N và/CC Doanh_nghiệp/N nhỏ/A
+Tính/V đột_phá/N Innovation/Np Bạn/N tạo/V ra/R một/M điều/N hoàn/V toán/N mới_lạ/V
+DN/Np nhỏ/N sẽ/R có/V vô_số/N ví_dụ/V về/E những/L doanh_nhân/N đã/R và/N đang/R làm/V cùng/A mô_hình/N kinh_doanh/V giống/N bạn/N
+Ví_dụ/N nhà_hàng/N văn_phòng/N Luật_sư/N tiệm/N hớt_tóc/N
+Bạn/N thậm_chí/N có_thể/R nhắc/V tới/V kinh_nghiệm/N của/E họ/P làm/V nền_tảng/V cho/E ý_tưởng/N kinh_doanh/V của/N bạn/N
+Khởi_nghiệp/V startup/N Tính/Np đột_phá/V là/V điều/N bắt_buộc/V
+Là/V một/M startup/N bạn/N có_thể/R tạo/V ra/R một/M điều/N gì/P đấy/P chưa/R hề/T có/V trên/N thị_trường/N hoặc/N tạo/V ra/R một/M giá_trị/N tốt/A hơn/R so/V với/E những/L thứ/N đang/R có/V sẵn/A
+Ví_dụ/N bạn/N có_thể/R tạo/V ra/R một/M phân/N khúc/N mới/A trong/E sản_xuất/V như/C thiết_bị/N thông/N minh/N đo_lường/N sức_khoẻ/N cá_nhân/A một/M mô_hình/N kinh_doanh/V hoàn_toàn/A mới/A như/A AirBnb/V hoặc/N một/M loại/Nc công_nghệ/N độc_đáo/A chưa/R hề/T thấy/V như/N công_nghệ/N in/V 3D/N
+Tính/V tăng_trưởng/N Công_ty/N của/E bạn/N có_thể/A tăng_trưởng/V đến/E mức/N nào/P
+DN/Np nhỏ/A Doanh_nghiệp/N vừa/R và/N nhỏ/A SMB/Np sẽ/R được/V vận_hành/V trong/E một/M phạm_vi/N nhất_định/A được/V giới_hạn/V bởi/E người/N sáng_lập/V
+Nói/V cách/N khác/A bản_thân/N người/Nc chủ/N doanh_nghiệp/N sẽ/R chủ_động/V giới_hạn/V sự/N tăng_trưởng/V và/CC tập_trung/V phục_vụ/V một/M phân/N khúc/N khách/N hàng/N nhất_định/A
+Startup/Np Một/M công_ty/N khởi_nghiệp/V Startup/Np sẽ/R không/R đặt/V ra/V giới_hạn/V cho/E sự/N tăng_trưởng/V và/CC họ/P có/V tham_vọng/N phát_triển/V đến/E mức/N lớn/A nhất/R có_thể/A
+Họ/P tạo/V ra/R sự/N ảnh_hưởng/V cực/A lớn/A có_thể/A được/V xem/V là/V người/N khai_phá/V thị_trường/N
+Tốc_độ/N Tăng/Np trưởng/N Công_ty/N của/E bạn/N có_thể/A tăng_trưởng/V nhanh/A đến/T mức/N nào/P
+DN/Np nhỏ/N Dĩ_nhiên/N bạn/N sẽ/R muốn/V doanh_nghiệp/N của/E mình/N phát/V triển/N càng/R nhanh/A càng/R tốt/A nhưng/C điều/N quan_tâm/N đầu_tiên/A của/E bạn/N sẽ/R là/V tạo/V ra/R lợi_nhuận/V
+Một_khi/N đạt/V được/R điều/N này/P bạn/N mới/A nghĩ/V đến/R việc/N mở_rộng/V doanh_nghiệp/N
+Startup/N Bạn/N sẽ/R đam_mê/V tăng_trưởng/V công_ty/N càng/R nhanh/A càng/R tốt/A và/CC tạo/V ra/R một/M mô_hình/N kinh_doanh/V có/V tính/N tăng_trưởng/V
+Bạn/N sẽ/R muốn/V nhân_bản/V mô_hình/N kinh_doanh/V thành_công/V của/E mình/P ra/V khắp/A thế_giới/N
+Lợi/N nhuận/N Bạn/N cần/V thời_gian/N bao_lâu/A để/E tạo/V ra/R lợi_nhuận/V và/N giá_trị/N lợi_nhuận/N như/A thế_nào/N
+DN/Np nhỏ/A Người/N sáng_lập/V sẽ/R muốn/V có/V doanh_thu/N từ/V ngay/R ngày/N đầu_tiên/A doanh_nghiệp/N đi/V vào/E hoạt_động/N và/CC tốt/A hơn/A nữa_là/N có/V luôn/N lợi_nhuận/N
+Giá/N trị/N lợi_nhuận/N sẽ/R phụ_thuộc/V vào/E số/N tiền/N mà/C bản_thân/N người/N sáng_lập/V muốn/V kiếm/V được/R cho/V chính/T bản_thân/N họ/P cũng/R như/C sẽ/R phụ_thuộc/V vào/E kế_hoạch/N mở_rộng/V doanh_nghiệp/N
+Startup/N Có_thể/R cần/V đến/V nhiều/A tháng/N thậm_chí/N nhiều/A năm/N để/E có/V được/R doanh_thu/N dù/N rất/R nhỏ/A
+Bạn/N sẽ/R tập_trung/V vào/V phát_triển/V một/M sản_phẩm/N thật_sự/A hữu_ích/A cho/E người_dùng/N nhằm/N có/V được/R một/M lượng/N khách/N hàng/N đông_đảo/A
+Nếu/C kế_hoạch/N thành_công/V lợi_nhuận/N tài_chính/N có_thể/R rất/R khổng_lồ/A
+Uber/Np hiện/N được/V định_giá/V tầm/N năm/N mươi/M tỉ/N đôla/N Mỹ/Np
+Tài/N chính/N Bạn/N cần/V chuẩn_bị/V vốn/N như/A thế_nào/N
+DN/Np nhỏ/A Khi/N khởi_đầu/V ngoài/N tiền_túi/N của/E mình/N bạn/N sẽ/R cần/V dựa/V vào/R đóng_góp/V từ/E gia_đình/N bạn_bè/N vay/V ngân_hàng/N hoặc/N vốn/N góp/V từ/E nhà/N đầu_tư/V
+Tuy_nhiên/C vì/C mục_tiêu/N là/V sống_sót/N bạn/N sẽ/R phải/V quản_lí/V chặt_chẽ/A số/N tiền/N mình/P đang/R vay/V nên/V nhớ/V là/C số/N tiền/N này/P sẽ/R phải/V được/R hoàn_trả/V cùng/A với/N lãi_suất/N
+Startup/N Nhiều/A startups/N bắt_đầu_từ/N chính/A tiền_túi/N của/E người/N sáng_lập/V hoặc/N đóng_góp/V từ/E gia_đình/N và/N bạn_bè/N
+Một_số/N trường_hợp/N thì/C gọi_vốn/N từ/E cộng_đồng/N crowdfunding/N
+Tuy_nhiên/C phần_lớn/N các/L startup/N đều/R phải/V gọn/A vốn/N từ/E các/L Nhà/Nc đầu_tư/V thiên_thần/N angel/N investors/V và/N Quỹ/Np đầu_tư/V mạo_hiểm/N Venture_Capital/Np
+Là/V một/M startup/N bạn/N sẽ/R phải/V hi_vọng/V tăng_trưởng/N cực/N nhanh/A và/CC cần/V một/M lượng/N vốn/N đủ/V mạnh/A để/E đạt/V được/R tham_vọng/N này/P
+Sẽ/R cần/V một/M thời_gian/N dài/A để/E bạn/N có_thể/A tạo/V ra/R doanh_thu/N và/CC có/V lợi_nhuận/N
+Cũng_nên/N nhớ/V rằng/C những/L nhà/Nc đầu_tư/V cho/E startup/N sẽ/R trông_đợi/V nguồn/N lợi_nhuận/N khổng_lồ/A do/E đó/P sẽ/R có/V những/L áp_lực/N bắt_buộc/V cho/R những/L nhà/N sáng_lập/V
+Cũng/R cần/V lưu_ý/V rằng/C có/V nhiều/A ý_kiến/N cho/V rằng/C startup/N không/R phải/A lúc_nào/N cũng/R cần/V dựa/V vào/E các/L Quỹ/Np đầu_tư/V
+Công/N nghệ/N Bạn/N có/V cần/V áp_dụng/V công_nghệ/N
+DN/Np nhỏ/A Không/R bắt_buộc/V nhưng/C sẽ/R có/V nhiều/A công_cụ/N kĩ_thuật/V giúp_ích/N cho/V việc/N điều_hành/V công_ty/N như/C kế_toán/N marketing/N
+Startup/N Công_nghệ/N thường/A là/V đặc_tính/N tiêu_biểu/A của/E sản_phẩm/N từ/E một/M startup/N
+Dù_vậy/N ngay/T cả/T khi/N sản_phẩm/N không/R dựa/V nhiều/A vào/E công_nghệ/N thì/N startup/N cũng/R cần/V áp_dụng/V công_nghệ/N để/E đạt/V được/R mục_tiêu/N kinh_doanh/V cũng/N như/C tham_vọng/N tăng_trưởng/V
+Vòng/N đời/N Công/Np ty/V Công_ty/N của/E bạn/N có_thể/A tồn_tại/V trong/N bao_lâu/N
+DN/Np nhỏ/N 32/M sẽ/N thất_bại/V trong/E ba/M năm/N đầu/A
+Tuy_nhiên/C tỉ_lệ/N này/P vẫn/R còn/V nhiều/A tích_cực/N so/V với/N startup/N
+Startup/N 92/M các/L startups/N sẽ/R thất_bại/V trong/E ba/M năm/N đầu/N thật/R đáng/V tiếc/V đây/P lại/R là/V sự_thật/N
+Kĩ_năng/N Lãnh/Np đạo/N Bạn/N sẽ/R phải/V quản_lí/V bao_nhiêu/N nhân_sự/N
+DN/Np nhỏ/N Số_lượng/N nhân/N viên/N bạn/N phải/V quản_lí/V phụ_thuộc/V vào/E kế_hoạch/N vận_hành/V bạn/N đã/R hoạch_định/V từ/V trước/N
+Startup/N Bởi_vì/N bạn/N mong_muốn/V phát_triển/V càng/R to_lớn/A càng/R tốt/A càng/R nhanh/A càng/R tốt/A bạn/N sẽ/R cần/V phải/V liên_tục/A phát_triển/V kĩ_năng/N lãnh_đạo/N và/CC kĩ_năng/V quản_lí/N
+Cùng/A với/E sự/N tăng_trưởng/V của/E startup/N bạn/N cần/V phải/V có/V sự/N quản_lí/V hiệu_quả/A với/E một/M số_lượng/N thành_viên/N mới/R nhân_viên/N nhà/N đầu_tư/V ban/N cố_vấn/N và/CC các/L đối_tác/N khác/A
+Cuộc_sống/N cá_nhân/N Bạn/N sẽ/R cân_bằng/A giữa/E khởi_nghiệp/N và/CC cuộc_sống/N cá_nhân/N ra/V sao/P
+DN/Np nhỏ/A Nếu/C so_sánh/V với/E startup/N mức_độ/N rủi_ro/N sẽ/R thấp/A hơn/A nhiều/A
+Lợi_thế/N này/P có_thể/R giúp/V bạn/N có/V được/V sự/N cân_bằng/A giữa/E công_việc/N kinh_doanh/V và/N cuộc_sống/N cá_nhân/N
+Tuy_nhiên/C vì/N công_ty/N là/V của/N bạn/N hãy/R luôn/R sẵn_sàng/A chào_đón/V những/L thử_thách/N mà/N bạn/N sẽ/R không_thể/V tìm/V thấy/V ở/V công_việc/N 95/M
+Sẽ/R luôn/R khó_khăn/A và/N thử_thách/N nhưng/C cũng/R sẽ/R có/V đầy/N hi_vọng/N bạn/N có_thể/A cân_bằng/N một_cách/N phù_hợp/V với/E bạn/N
+Startup/N Nếu/C bạn/N nhận/V được/R vốn/N từ/E các/L nhà/Nc đầu_tư/V bạn/N sẽ/R có/V trách_nhiệm/N giúp/V công_ty/N tăng/V trường/N đến/V một/M thời_điểm/N nhà/N đầu_tư/V có_thể/V tối_đa/A hoá/V mức_độ/N lợi_nhuận/V
+Hãy/R luôn/R nhớ/V rằng/C sẽ/R có/V vô_số/L người/N trông_đợi/V vào/R bạn/N vào/V sản_phẩm/N của/E bạn/N vào/E thành_công/N của/N bạn/N
+Cân_bằng/N giữa/E công_việc/N và/CC cuộc_sống/N riêng/A có_thể/A khái_quát/N nôm_na/A như/C Công_việc/N công_việc/N công_việc/N và/CC cuộc_sống/N
+10/M
+Tham/N vọng/N Bạn/N có_thể/A rời/V bỏ/V để/E theo_đuổi/V dự_án/N mới/A
+DN/Np nhỏ/N Mục_tiêu/N của/E bạn/N có_thể/A là/C truyền/V lại/R công_ty/N cho/V các/L thế_hệ/N sau/N trong/E gia_đình/N hoặc/N cũng/R có_thể/A bán/V lại/R cho/V một/M tập_đoàn/N khổng_lồ/N
+Startup/N Tham_vọng/N của/E bạn/N là/V một/M con/Nc đường/N thoái/V vốn/N khổng_lồ/A như/C chào_bán/N cổ_phiếu/V ra/R công_chúng/N IPO/Np
+Đọc/V đến/E đây/P có_thể/R bạn/N tự/N hỏi/V liệu/N Startup/Np có_thể/A trở_thành/V Small_Business/Np hoặc/N ngược_lại/N
+Có/V hoàn_toàn/A có_thể/A nó/P có_thể/A phụ_thuộc/V vào/E chính/N bản_thân/N bạn/N như/C thay_đổi/V kế_hoạch/N tầm/N nhìn/V hay/A sứ_mệnh/N hoặc/N đôi_khi/N phụ_thuộc/V vào/E yếu_tố/N khách_quan/A như/C thị_trường/N thay_đổi/V nhu_cầu/N khách/N hàng/N
+Tôi/P tin/V rằng/C thấu_hiểu/V sự/N khác_biệt/A giữa/N Khởi_nghiệp/N Startup/Np và/CC Doanh_nghiệp/N nhỏ/A Small_Business/Np và/CC nhận_biết/V điểm/N mạnh/A cá_nhân/A của/E chính/N bạn/N là/V những/L yếu_tố/N hết_sức/N quan_trọng/A để/E có_thể/A đến/V được/R đích/N đến/V mơ_ước/N
+Theo/V Mandela_SchumacherHodge/N

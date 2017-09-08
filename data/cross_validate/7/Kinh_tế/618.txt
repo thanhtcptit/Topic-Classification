@@ -1,0 +1,9 @@
+TP_HCM/Np V bêu/N V tên/N 209/M doanh_nghiệp/N nợ/N tiền/N thuế/N
+Trong/E danh_sách/N này/P đứng/V đầu/N về/V nợ/N thuế/N là/V Công_ty/N vận_tải_biển/N và/CC bất_động_sản/N Việt_Hải/Np nợ/N hơn/A 159/M tỷ/N đồng/N
+Kế_tiếp/V là/V Công_ty/N xây_dựng/V công_trình/N và/CC đầu_tư/V địa_ốc/N Hồng_Quang/Np với/E hơn/R 100/M tỷ/N đồng/N
+Các/L công_ty/N tiếp_theo/V như/C Công_ty/N Cát_Long_Hải/Np  /N Công_ty/N TNHH/Np dịch_vụ/N xây_dựng/V Trang_Thiên_Phát/Np  /N Công_ty/N xây_lắp/V công_nghiệp/N  /V nợ/N lần_lượt/R 52,6/M tỷ/N đồng/N 44,4/M tỷ/N đồng/N và/CC 43,9/M tỷ/Nu đồng/Nu
+Cục/N Thuế_Thành/Np phố/N cho_biết/V dù/C cơ_quan/N này/P đã/R áp_dụng/V những/L biện_pháp/N cưỡng_chế/V như/C đề_nghị/V thu_hồi/V giấy/N đăng_ký/V kinh_doanh/V thông_báo/V hóa_đơn/N không/R còn/V giá_trị_sử_dụng/N cưỡng_chế/V tài_khoản/N ngân_hàng/N thông_báo/V bỏ/V địa_chỉ/N kinh_doanh/V
+nhưng/C vẫn/R chưa/R thu/V được/R nợ/V thuế/N
+Đại_diện/N ngành/N thuế/N cho_biết/V sau/E danh_sách/N này/P những/L đơn_vị/N khác/A không/R có/V ý_thức/N trong/E việc/N nộp/V thuế/N cũng/R sẽ/R bị/V bêu/V tên/N
+Trước/E đó/P vào/E cuối/N tháng/N 4/M Cục/N Thuế/Np TP_HCM/Np đã/R công_khai/V 182/M doanh_nghiệp/N nợ/N thuế/N và/CC thực_hiện/V biện_pháp/N ngăn_chặn/V là/V tạm/A dừng/V xuất_cảnh/V với/E những/L đối_tượng/N chây_ì/V nợ/N đồng_thời/R tăng_cường/V thực_hiện/V các/L biện_pháp/N đôn_đốc/V thu/V nợ/N và/CC cưỡng_chế/V nợ/N thuế/N
+Danh_sách/N 10/M công_ty/N nợ/V thuế/N nhiều/A nhất/R

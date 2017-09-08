@@ -1,0 +1,23 @@
+Giá/N vàng/N thấp/A nhất/A hơn/R 1/M tháng/N nhà_đầu_tư/N dò/V đáy/N mua/V vào/R 
+Lúc/N gần/A 10h30/M hôm_nay/N 9/3/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 36,5/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,58/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,51/M triệu/M đồng/Nu //X lượng/N 36,57/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P tăng/V mỗi/L chiều/N 30.000/M so/V với/E thời_điểm/N giá/N vàng/N mở_cửa/V phiên/N 
+Trước/E đó/P mở_cửa/V phiên/N giá/N vàng/N SJC/Np được/V doanh_nghiệp/N niêm_yết/V giao_dịch/V ở/E mức/N 36,47/M triệu/M đồng/Nu //X lượng/N 36,55/M triệu/M đồng/Nu //X lượng/N giảm/V so/V với/E chốt/N phiên/N trước/E 50.000/M đồng/lượng/N ở/E chiều/N mua/V và/CC 60.000/M đồng/lượng/N ở/E chiều/N bán/V 
+Tại/E TPHCM/Np giá/N vàng/N SJC/Np hiện/N được/V doanh_nghiệp/N niêm_yết/V giao_dịch/V ở/E mức/N 36,38/M triệu/M đồng/Nu //X lượng/N 36,63/M triệu/M đồng/Nu //X lượng/N 
+Giá/N vàng/N thấp/A nhất/A hơn/R 1/M tháng/N nhà_đầu_tư/N dò/V đáy/N mua/V vào/E (/N ảnh/N minh_họa/V )/A 
+Phiên/N giao_dịch/V hôm_qua/N mở_cửa/V phiên/N giá/N vàng/N miếng/N niêm_yết/V tại/E mức/N 36,5/M triệu/M đồng/Nu //X lượng/N 36,6/M triệu/M đồng/Nu //X lượng/N giảm/V so/V với/E chốt/N phiên/N trước/E khoảng/N 100.000/M đồng/Nu mỗi/M lượng/N 
+Trong/E phiên/N giá/N vàng/N điều_chỉnh/N tăng/V giảm/V nhẹ/A trong/E biên_độ/N hẹp/A và/CC về/E cuối/N phiên/N giá/N vàng/N chốt/N tại/E 36,52/M triệu/M đồng/Nu //X lượng/N 36,59/M triệu/M đồng/Nu //X lượng/N 
+Thị_trường/N vàng/N trong/E nước/N liên_tục/A ghi_nhận/V các/L mức/N sụt_giảm/V trong/E vài/L phiên/N trở_lại/V đây/P nếu/C tính_từ/V phiên/N đầu/N tuần/N mỗi/L lượng/N vàng/N giảm/V gần/A 300.000/M đồng/lượng/N 
+Ghi_nhận/V từ/E thị_trường/N cho/V thấy/V mức/N giá/N thấp/A nhất/A trong/E hơn/A một/M tháng/N qua/R đang/R nhận/V được/R sự/N quan_tâm/V khá/R lớn/A từ/E nhà_đầu_tư/N 
+Ở/E phiên/N giao_dịch/V hôm_qua/N dữ_liệu/N từ/E DOJI/Np cho_hay/V thị_trường/N vàng/N bắt_đầu/V rục_rịch/A mua/V vàng/N tranh_thủ/V lúc/N giá/N thấp/A 
+Tuy_nhiên/C ở/E những/L phân/N khúc/N khác/A nhiều/A nhà_đầu_tư/N vẫn/R đang/R tiếp_tục/V chờ_đợi/V cơ_hội/N để/E “/V dò/V đáy/N mua/V vào/R 
+Nhiều/A chuyên_gia/N cho/V rằng/C lựa_chọn/V được/R mức/N giá/N kỳ_vọng/V không/R phải/V nhà_đầu_tư/N nào/P cũng/R làm/V được/R 
+Cũng/R bởi_vậy/V việc/N song_hành/V nắm_bắt/V kịp_thời/A những/L diễn_biến/N các/L thông_tin/N quan_trọng/A giao_dịch/V cân_đối/N an_toàn/N được/R ưu_tiên/V hàng_đầu/N 
+Trên/E thế_giới/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np qua/V niêm_yết/V của/E Kitco.com/Np hiện/N có/V biên_độ/N giảm/V nhẹ/A 1/M USD/Nu giao_dịch/V ở/E mức/N 1.207/M USD/ounce/Np 
+Giá/N vàng/N thế_giới/N hôm_qua/N dao_động/V quanh/N biên_độ/N 1.213/M USD/Nu 1.218/M USD/ounce/Np giảm/V hơn/A 3/M USD/Nu trong/E phiên/N giao_dịch/V châu/N Á/Np và/CC Âu/Np 
+Bước/V sang/V phiên/N giao/V di/V ̣/M ch/N Mỹ/Np giá/N vàng/N tiếp_tục/V sụt_giảm/V mạnh/A hơn/R có/V thời_điểm/N vàng/N chạm/V mức/N thấp/A 1.206/M USD/ounce/Np 
+Kết_thúc/V phiên/N giao_dịch/V vàng/N dừng/V tại/E 1.208/M USD/ounce/Np 
+Vàng/Np giảm/V mạnh/A hơn/R trong/E phiên/N Mỹ/Np sau/E khi/N thông_tin/N về/E bảng/N lương/N lĩnh_vực/N tư_nhân/N được/V công_bố/V con_số/N 298.000/M việc/N làm_cao/V hơn/R nhiều/A so/V với/E dự_đoán/N là/C 261.000/M việc_làm/N 
+Số_liệu/N trên/A đã/R thể_hiện/V nền/N kinh_tế/N Mỹ/Np đang/R phục_hồi/V nhanh/A hơn/R dự_kiến/V 
+Hiện/N thị_trường/N đang/R chờ_đợi/V bảng/N lương/N phi/N nông_nghiệp/N Mỹ/Np 
+Bởi/E đây/P là/V thông_tin/N quan_trọng/A cho_biết/V thị_trường/N việc_làm/N của/E Mỹ/Np có/V thực_sự/A hồi_phục/V hay/C không/R và/CC gần_như/R chắc_chắn/A Fed/Np sẽ/R tăng/V lãi_suất/N vào/E ngày/N 14/M 15/3/M nếu/C dữ_liệu/N việc_làm/N công_bố/V khả_quan/A 
+An_Hạ/Np 

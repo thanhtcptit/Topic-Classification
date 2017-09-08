@@ -1,0 +1,15 @@
+Chủ_tịch/N nước/N Trần_Đại_Quang/Np thăm/V chiến_hạm/N Rạng_Đông/Np
+Sáng/N 17/M ngày/N cuối/A của/E chuyến/N thăm/V chính_thức/A Nga/Np Chủ_tịch/N nước/N Trần_Đại_Quang/Np đã/R thăm/V TP/Np
+Saint_Petersburg/N trong/N đó/N có/V Chiến_hạm/N Rạng_Đông/Np con/Nc tàu/N huyền_thoại/N gắn/V với/E cuộc/N Cách_mạng/N Tháng/N 10/M Nga/Np và/CC đã/R từng/R neo/V đậu/V ở/V Cam_Ranh/Np
+Chiến_hạm/N Rạng_đông/N được/V hạ_thuỷ/V vào/E tháng/N 5/M năm/N 1900/M và/N bắt_đầu/V hoạt_động/V vào/E năm/N 1903/M
+Chiến_hạm/N Rạng_đông/N được/V trang_bị/V 42/M khẩu/N pháo/N theo/V bốn/M kích_cỡ/N khác/A nhau/N và/CC 3/M ống_phóng/N ngư_lôi/N
+Chiến_hạm/N có/V trọng_tải/N 7130/M tấn/N tầm/N hoạt_động/V 4000/M hải_lí/N
+Thuỷ_thủ/N đoàn/N gồm/V có/V 570/M người/N trong/E đó/N có/V 20/M sĩ_quan/N
+Chiều/N dài/A của/E chiến_hạm/N là/V 1268/M mét/N chiều/N ngang/A là/V 168/M mét/N độ/N mớn_nước/A là/V 64/M mét/N
+Mùa/N hè/N năm/N 1903/M chiến_hạm/N Rạng_đông/N tham_gia/V Hạm_đội/N Hoàng_gia/N Nga/Np
+Tháng/N 51905/M chiến_hạm/N Rạng_đông/N tham_dự/V trận/N Hải_chiến/N Tsushima/Np và/CC bị/V hư_hỏng/N nặng/A
+Hơn/A 80/M người/N trong/E thuỷ_thủ/N đoàn/N hy_sinh/V hoặc/N bị_thương/V
+Năm/N 1906/M Rạng_đông/N trở/V về/R Nga/Np và/CC trở_thành/V tàu/N huấn_luyện/V học_viên/N sĩ_quan/N hải_quân/N
+Chiến_hạm/N Rạng_Đông/Np với/E tư_cách/N là/V một/M tàu/N bảo_tàng/N đã/R trở_thành/V một/M địa_điểm/N thu_hút/N khách/N du_lịch/V tại/V Saint_Petersburg/Np
+Ngoài_Chiến_hạm/N Rạng_Đông/Np Chủ_tịch/N nước/N còn/R đặt/V vòng_hoa/N tại/E Khu/N tưởng_niệm/N Nghĩa_trang/N Piskaryoskoe/Np Cung_điện/V Mùa_Đông/Np nơi/N trưng_bày/V 3/M triệu/N tác_phẩm/N nghệ_thuật/N của/E thế_giới/N gặp/V Thống_đốc/N Saint_Petersburg/Np I/N
+Poltavchenko/V thăm/V Triển_lãm/N Hải_quân/N và/CC Cung_điện/V Ekaterina/Np

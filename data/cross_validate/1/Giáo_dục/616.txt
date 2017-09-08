@@ -1,0 +1,21 @@
+10/M địa_phương/N có/V điểm/N trung_bình/A Ngữ_văn/N cao/A nhất/R
+Tại/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M Ngữ_văn/N là/V môn/N duy_nhất/A được/V thi/V dưới/E hình_thức/N tự/P luận/V
+Trong/E hơn/A 833 0/M thí_sinh/N chỉ/R có/V em/N Trần_Đình_Duy/Np  /M học_sinh/N chuyên/A Ngoại_ngữ/N trường/N THPT/Np chuyên/A Nguyễn_Bỉnh_Khiêm/Np /V Quảng_Nam/Np /V đạt/V điểm/N tuyệt_đối/A
+Điểm/N trung_bình/A môn/N Văn/Np cả/P nước/N đạt/V 5,51/M nhỉnh/A hơn/R năm/M trước/N 0,36/M điểm/N có/V 510/M em/N bị/V điểm/N liệt/A
+/M Nhấp/Np vào/E thanh/N điểm/N trung_bình/A của/E từng/R địa_phương/N để/E xem/V số_liệu/N cụ_thể/A /A Nếu_như/C ở/E môn/N Toán/Np tổ_hợp/N Khoa_học_tự_nhiên/N và/CC Ngoại_ngữ/N các/L tỉnh/N miền/N núi/N phía/N Bắc/Np đều/R xếp/V ở/E top/N cuối/N thì/C ở/E môn/N Ngữ_văn/N 3/M tỉnh/N thuộc/V khu_vực/N này/P là/V Lạng_Sơn/Np Bắc_Kạn/Np và/CC Điện_Biên/Np đã/R góp_mặt/V trong/E top/N 10/M địa_phương/N có/V điểm/N trung_bình/A cao/A nhất/R
+Thậm_chí/R Lạng_Sơn/Np dẫn_đầu/V ở/E môn_học/N này/P với/E mức/N điểm/N gần/A 6,7/M cao/A hơn/R rất/R nhiều/A so/V với/E trung_bình/A cả/T nước/N
+Phổ/V điểm/N môn/N Văn/Np của/E tỉnh/N Lạng_Sơn/Np rất/R đẹp/A với/E đồ_thị/N lệch/A phải/V
+Số/N thí_sinh/N đạt/V từ/E 7/M đến/E 8/M đều/R trên/E 500/M em/N ở/E mỗi/L mức/N điểm/N /A mỗi/L mức/N chênh/V nhau/N 0,25/M điểm/N /V
+Đặc_biệt/A tỉnh/N này/P chỉ/R có/V hai/M thí_sinh/N bị/V điểm/N liệt/A
+Bắc_Kạn/Np xếp/V vị_trí/N thứ_ba/N với/E 6,27/M điểm/N và/CC Điện_Biên/Np đứng/V thứ_năm/N với/E 6,12/M điểm/N
+7/M vị_trí/N còn/V lại/R trong/E top/N 10/M cho/V thấy/V sự/Nc cân_bằng/A giữa/E miền/N Bắc/Np và/CC miền/N Nam/Np
+Ninh_Bình/Np /V xếp/V thứ/N 4/M /Nu Hà_Nội/Np /A thứ/N 6/M /Nu và/CC Hà_Nam/Np /M thứ/N 9/M /Nu là/V những/L đại_diện/N còn/V lại/R của/E miền/N Bắc/Np
+Trong/E khi/N đó/P An_Giang/Np Long_An/Np Cần_Thơ/Np và/CC Bình_Dương/Np có/V điểm/N trung_bình/A môn/N Văn/Np cao/A nhất/A miền/N Nam/Np
+Nam_Định/Np tỉnh/N có/V điểm/N trung_bình/A môn/N Toán/Np Hóa/V cao/A nhất/A cả/P nước/N xếp/V thứ/N 11/M ở/E môn/N Văn/Np
+TP_HCM/Np đứng/V vị_trí/N 13/M
+Mặc_dù/C có/V một_số/L tỉnh/N dẫn_đầu/V cả/P nước/N nhưng/C khu_vực/N miền/N núi/N phía/N Bắc/Np vẫn/R có/V những/L địa_phương/N nằm/V trong/E nhóm/N tỉnh_thành/N có/V điểm/N trung_bình/A Văn/Np thấp/A nhất/R
+Trong/E đó/P Lai_Châu/Np xếp/V cuối/A với/E mức/N điểm/N 4,2/M
+Là/V tỉnh/N có/V môi_trường/N phát_triển/V giáo_dục/N tương_đối/A tốt/A Quảng_Ninh/Np Khánh_Hòa/Np gây/V bất_ngờ/A khi/N có/V điểm/N Văn/Np kém/A
+Quảng_Ninh/Np xếp/V thứ_hai/N từ/E dưới/N lên/V với/E số/N điểm_chỉ/N ở/E mức/N 4,42/M
+Khánh_Hòa/Np cao/A hơn/R 4/M bậc/N với/E 4,85/M điểm/N
+Bắc_Ninh/Np tỉnh/N đứng/V trong/E top/N đầu/N ở/E môn/N tự_nhiên/A có/V điểm/N Văn/Np thấp/A thứ/N 7/M cả/P nước/N

@@ -1,0 +1,23 @@
+Lương/N IT/Np Việt_Nam/Np có_thể/R đạt/V hơn/R 64/M triệu/N mỗi/M tháng/N
+Báo_cáo/V về/E mức/N lương/N phúc_lợi/N và/CC xu_hướng/N ngành/N IT/Np quý/N I/M và/CC II/M năm/N 2017/M do/E chuyên_trang/N tuyển_dụng/V IT/Np TopDev/Np vừa/R công_bố/V cho_biết/V các/L công_ty/N IT/Np đang/R sẵn_sàng/V trả/V mức/N lương/N từ/E 2 0/M USD/Nu đến/E 2 0/M USD/Nu mỗi/M tháng/N /M tương_đương/V 52,2/M đến/E 64,5/M triệu/M đồng/Nu /V cho/E nhân_sự/N cấp/V giám_đốc/N và/CC cao/A hơn/R
+Tuy_nhiên/C vị_trí/N này/P hiện/N chỉ/R chiếm/V 1%/M nhu_cầu/N của/E thị_trường/N tuyển_dụng/V và/CC hiện/N cũng/R là/V vị_trí/N đang/R khó/A tuyển/V hàng_đầu/N
+Trong/E khi/N đó/P cần/V tuyển/V nhiều/A nhất_là/X các/L lao_động/N có/V trên/N 2/M năm/N kinh_nghiệm/N chiếm/V 75%/M nhu_cầu/N thị_trường/N
+Vị_trí/N này/P đang/R được/V chào_mời/V với/E mức/N lương/N dao_động/V từ/E 750/M USD/Nu đến/E 812/M USD/Nu mỗi/M tháng/N tương_đương/V từ/E 17/M đến/E 18,5/M triệu/M đồng/Nu
+Đa_phần/L các/L vị_trí/N này/P dành/V cho/E kỹ_sư/N phần_mềm/N hoặc/CC Tech_Architect/Np
+Sinh_viên/N công_nghệ_thông_tin/N mới/R ra/V trường/N hiện/N cũng/R có/V triển_vọng/N thu_nhập/N tốt/A với/E mức/N lương/N dao_động/V từ/E 350/M USD/Nu đến/E 520/M USD/Nu tức/C xấp_xỉ/A 8/M đến/E 12/M triệu/M đồng/Nu mỗi/M tháng/N
+TopDev/Np đánh_giá/V chỉ/R sau/E một/M năm/N làm_việc/V thì/C các/L lập_trình_viên/N mới/R ra/V trường/N này/P sẽ/R được/V tăng/V lương/N đáng_kể/V
+Cũng/R theo/E báo_cáo/N do/E mất/V cân_bằng/A cung/N cầu/N trong/E thị_trường/N lập_trình_viên/N có/V chất_lượng/N nên/C cuộc_chiến/N thu_hút/V giữ_chân/V nhân_tài/N giữa/E các/L công_ty/N ngày_càng/X gay_gắt/A
+ /M Java/Np SQL/Np CSS/Np và/CC Javascript/Np là/V những/L kỹ_năng/N được/V nhà/N tuyển_dụng/V săn_đón/V và/CC sẵn_sàng/V trả/V lương/N cao/A nhất/R
+Một_số/L các/L công_ty/N công_nghệ/N đang/R sẵn_lòng/V trả/V mức/N lương/N cao/A hơn/R so/V với/E thị_trường/N và/CC cam_kết/N tăng/V tới/E 20%/M lương/N cho/E các/L ứng_viên/N có/V 2/M năm/N kinh_nghiệm/N đi/V kèm/V với/E đó/P là/V các/L phúc_lợi/N ưu_đãi/V khác/A
+Thậm_chí/R với/E các/L lập_trình_viên/N có/V nhiều/A năm/N kinh_nghiệm/N trong/E những/L lĩnh_vực/N Cloud_Computing/Np Big_Data/Np hay/C AI/Np có_thể/R tìm/V được_việc/N với/E mức/N lương/N dao_động/V từ/E 1 0/M USD/Nu đến/E 1 0/M USD/Nu mỗi/M tháng/N tùy/V theo/E năng_lực/N và/CC vị_trí/N đảm_nhận/V
+Tuy_nhiên/C hiện/N có/V đến/V 42%/M lập_trình_viên/N được/V hỏi/V cho_biết/V muốn/V nhảy/V việc/N
+Lý_do/N phổ_biến/V nhất_là/X không/R hài_lòng/V với/E mức/N lương/N hiện_tại/N chiếm/V 35%/M
+Tuy_nhiên/C báo_cáo/V đánh_giá/N yếu_tố/N ảnh_hưởng/V nhiều/A nhất/R tới/V quyết_định/V đi/V hay/C ở/E của/E lập_trình_viên/N là/V phúc_lợi/N của/E công_ty/N và/CC những/L chính_sách/N đào_tạo/V chuyên_môn/N
+Theo/E khảo_sát/V các/L nhân_viên/N cảm_thấy/V được/R tôn_trọng/V và/CC muốn/V gắn_bó/V lâu_dài/A hơn/A khi/N công_ty/N có/V các/L chính_sách/N phúc_lợi/V phù_hợp/V đặc_biệt/A là/V đào_tạo/V
+Hiện_Việt_Nam/Np vẫn/R đang/R được/V xem/V là/C thiên_đường/N của/E outsourcing/N nhưng/C những/L năm/N gần/A đây/P đã/R có/V sự/N chuyển_mình/V
+Thị_trường/N công_nghệ/N Việt_Nam/Np ghi_nhận/V những/L bước/N thay_đổi/V quan_trọng/A chủ_yếu/A là/V từ/E mô_hình/N outsourcing/N sang/V cung_cấp/V sản_phẩm/N và/CC các/L dịch_vụ/N đa/N ngành/N nhiều/A hơn/R
+Chỉ/R trong/E vòng/N 4/M năm/N trở_lại/V đây/P số_lượng/N việc_làm/N ngành/N IT/Np gia_tăng/V mạnh_mẽ/A nhu_cầu/N tuyển_dụng/V IT/Np tăng/V dần/R đều/R qua/V các/L năm/N
+Đặc_biệt/A năm/N 2016/M tăng/V 45%/M so/V với/E cùng/A kỳ/N năm/N 2012/M
+Dự_báo/V đến/E năm/N 2018/M thị_trường/N tuyển_dụng/V IT/Np cần/V tới/V 350 0/M lập_trình_viên/N tức/C tăng/V gấp/A 20/M lần/N so/V với/E năm/N 2016/M
+Trong/E khi/N đó/P hiện_tại/N thị_trường/N chỉ/R mới/R đáp_ứng/V được/R khoảng/N 200 0/M lập_trình_viên/N tức/C đang/R thiếu/V khoảng/A 150 0/M lập_trình_viên/N
+Tuy_nhiên/C nhiều/A chuyên_gia/N nhận_định/V đây/P chỉ/R là/V sự/Nc thiếu_hụt/V ngắn_hạn/V

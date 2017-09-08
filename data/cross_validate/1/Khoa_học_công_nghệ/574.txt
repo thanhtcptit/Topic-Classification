@@ -1,0 +1,9 @@
+﻿/M Google/Np sáng_chế/V điều_hòa/N xuyên/V thấu/V không/R cánh_quạt/V
+Google/Np đăng_ký/V cấp/N bằng_sáng_chế/N máy_điều_hòa_không_khí/N không/R cánh_quạt/A có_thể/R nhìn/V xuyên/V thấu/V
+Nó/P được/V thiết_kế/V để/E khắc_phục/V các/L nhược_điểm/N của/E điều_hòa/N truyền_thống/N như/C chạy/V ồn_ào/A khí/N nóng/A có_thể/R bay/V ngược/A vào/E trong/E nhà/N chắn/V tầm/N nhìn/V cửa_sổ/N Fox_News/Np hôm/N 10/4/M đưa/V tin/N
+Mẫu/N điều_hòa/N mới/A này/P được/V trang_bị/V thiết_bị/N gọi_là/X vòng/V bay_hơi/N
+Khi/N sử_dụng/V cùng_với/C bộ/N điều_nhiệt/V thông_minh/A nó/P có_thể/R giúp/V làm/V mát/A căn/Nc phòng/N mà/C không/R cần/V tốn/V quá/R nhiều/A điện/N đồng_thời/R không/R dùng/V chất/N làm/V lạnh/A
+Mục_đích/N của/E nó/P là/V bịt/V kín/A cửa_sổ/N bảo_đảm/V hoạt_động/V êm/A và/CC gọn/A hơn/A điều_hòa/N truyền_thống/N Để/E làm/V mát/A hiệu_quả/N thiết_bị/N ứng_dụng/V tính_năng/V làm/V lạnh/A nhiệt_điện/N Peltier/Np cho_phép/V thu/V nhỏ/A kích_thước/N sản_phẩm/N
+Hiệu_ứng/N Peltier/Np tạo/V ra/R chênh_lệch/A nhiệt_độ/N khi/N truyền/V điện_áp/N vào/E các/L điện_cực/N làm/V từ/E vật_liệu/N dẫn_điện/V
+Thiết_kế/V này/P có_thể/R cạnh_tranh/V với/E quạt/N không/R cánh/N Dyson/Np được/V ra_mắt/V vào/E năm/N 2014/M
+Dyson/Np đã/R chi/V khoảng/A 50/M triệu/M USD/Nu để/E phát_triển/V quạt/N không/R cánh/N mang/V tên/N Air_Multiplier/Np

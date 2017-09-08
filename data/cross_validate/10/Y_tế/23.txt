@@ -1,0 +1,13 @@
+Có_thể/A ngăn/V ung_thư/N da/N từ/E protein/N này/P
+Các/L nhà/Nc khoa_học/N đã/R xác_định/V được/V một/M loại/N protein/N giữ/V vai_trò/N kiểm_soát/V quá_trình/N di_căn/N của/E tế/N báo/N ung_thư/N da/N từ/E đó/P mở/V ra/E hướng/N điều_trị/N hiệu_quả/N
+Theo/E hãng/N tin/N AFP/Np trong/E quá_trình/N nghiên_cứu/V trên/E các/L mẫu/N chuột/N đã/R chỉnh_sửa/V gien/N để/E phát_triển/V tế_bào/N ung_thư/N da/N của/E người/N nhóm/N nghiên_cứu/V đã/R phát_hiện/V một/M loại/N protein/N giữ/V vai_trò/N chủ_chốt/A trong/E việc/N hoặc/N thúc_đẩy/V hoặc/N ức_chế/V quá_trình/N di_căn/N của/E tế_bào/N ung_thư/N da/N
+Loại/N protein/N này/P được/V đặt/V tên/N là/V MIDKINE/Np
+MIDKINE/Np sản_sinh/V trong/E quá_trình/N cơ_thể/N người/N bị/V u/N hắc/V sắc_tố/V một/M loại/Nc ung_thư/N da/N nghiêm_trọng/A nhất/R
+Loại/N protein/N này/P sau/N đó/P đã/R di_chuyển/V tới/V các/L bộ_phận/N khác/A trong/E cơ_thể/N chuột/N để/E bắt_đầu/V hình_thành/V khối_u/N ác/N mới/A tức_là/V quá_trình/N di_căn/A
+Trong/E các/L theo_dõi/N trên/E người/N sau/N đó/P nhóm/N nghiên_cứu/V nhận/V thấy/V với/E những/L bệnh_nhân/N bị/V ung_thư/N da/N nếu/C lượng/N MIDLINE/Np trong/E các/L hạch/N bạch_huyết/N của/E họ/N ở/V mức/N cao/A đó/P sẽ/R là/V chỉ/V dấu/N cho/V thấy/V trước/E những/L hậu_quả/N nghiêm_trọng/A hơn/R nhiều/A về/N bệnh_trạng/N
+Tiên_lượng/N này/P cũng/R đúng/A với/E các/L trường_hợp/N người_bệnh/N ung_thư/N da/N ngay/T cả/P khi/N còn/V chưa/R phát_hiện/V thấy/V tế_bào/N ung_thư/N trong/E hạch/N bạch_huyết/N của/N họ/N
+Bà/N Marisol_Soengas/Np thuộc/V Trung_tâm/N nghiên_cứu/V ung_thư/N quốc_gia/N Tây_Ban_Nha/Np ở/V Madrid/Np một/M đồng_tác_giả/N của/E nghiên_cứu/N đăng/N trên/N tạp_chí/N khoa_học/N Nature/Np cho/V rằng/C Với/E protein/N MIDKINE/Np chúng_tôi/P đã/R tìm/V ra/R một/M chiến_lược/N khả_thi/N đáng/V được/V xem_xét/V để/E phát_triển/V thuốc/N điều_trị/V
+Việc/N chẩn_đoán/V sớm/A được/V bệnh/N u/N hắc/N sắc_tố/A là/V điều/N rất/R quan_trọng/A
+Trường_hợp/N tế_bào/N ung_thư/N da/N đã/R bắt_đầu/V di_căn/V thì/C cơ_hội/N cứu/V sống/V người_bệnh/N rất/R thấp/A
+Trong/E nhận_định/N về/V kết_quả/N nghiên_cứu/V cũng/R đăng/V trên/E tạp_chí/N Nature/Np hai/M chuyên_gia/N của/E Mỹ/Np là/V Ayuko_Hoshino/Np và/CC David_Lyden/Np cho/V rằng/N nghiên_cứu/V đã/R cung_cấp/V góc/N nhìn/V sâu/A rất/R cần_thiết/A trong/E việc/N dự_đoán/N nguy_cơ/N di_căn/V ở/E người_bệnh/N ung_thư/N
+Hai/M nhà/N nghiên_cứu/V cho/V rằng/C Kết_quả/N nghiên_cứu/V có_thể/A mở/V cơ_hội/N cho/E những/L chiến_lược/N chẩn_đoán/N và/CC điều_trị/V nhằm/V chặn_đứng/V nguy_cơ/N di_căn/V trước/E khi/N nó/N có/V cơ_hội/N phát_tác/V

@@ -1,0 +1,7 @@
+Người_bệnh/N không/R hài/N lòng/N thủ_tục/N đăng_kí/N khám/V bệnh/N
+Sau/E gần/A một/M tháng/N triển_khai/V ki/N ốt/V khảo_sát/V ý_kiến/N của/E người_bệnh/N tại/E các/L bệnh_viện/N công/N trên/N địa_bàn/N TPHCM/Np khâu/N làm/V thủ_tục/N đăng_kí/N khám/V bệnh/N chiếm/V tỉ_lệ/N không/R hài/A lòng/N cao/A nhất/A với/E 1297/M lượt/N
+Trong/E đó/P khâu/N làm/V thủ_tục/N đăng_kí/N khám/V BHYT/Np chiếm/V 1003/M lượt/N
+Ngày/N 265/M Sở/N Y/Np tế/V TPHCM/Np cho/V biết/V như/C trên/N
+Bảng/N tổng_hợp/A và/CC phân_tích/V kết_quả/N khảo_sát/V của/N Sở/N Y/Np tế/V cho/V thấy/V tỉ_lệ/N không/R hài/N lòng/N đứng/V sau/N thủ_tục/N đăng_kí/N khám/V bệnh/N là/V thái_độ/N ứng_xử/V giao_tiếp/N của/E nhân_viên/N bệnh_viện/N khâu/N mua/V thuốc/N và/CC cấp_phát/N thuốc/N nhà_vệ_sinh/N phục_vụ/V người_bệnh/N cách/V hỏi/V bệnh/N và/CC thăm_khám/N của/E bác_sĩ/N thời_gian/N chờ/V làm/V xét_nghiệm/V chăm_sóc/N người_bệnh/N của/E điều_dưỡng/N tại/N phòng_khám/N
+Từ/E kết_quả/N khảo_sát/N này/P các/L bệnh_viện/N đang/R rà_soát/V nguyên_nhân/N và/CC triển_khai/V các/L can_thiệp/N nhằm/V đáp_ứng/V sự/N mong_đợi/V của/N người_bệnh/N
+Đồng_thời/N Sở/N Y/Np tế/N cũng/R đã/R triển_khai/V hoạt_động/N giám_sát/V thực_tế/N tại/E các/L bệnh_viện/N nhằm/N hỗ_trợ/V hướng_dẫn/V các/L bệnh_viện/N còn/R khó_khăn/A trong/N triển_khai/N nhằm/V cải_tiến/V chất_lượng/N liên_tục/A hướng/V đến/E sự/N hài_lòng/V của/N người_bệnh/N

@@ -1,0 +1,11 @@
+Bắt/V tài_xế/N xe/N container/N hất/V văng/N cảnh_sát/N xuống_đường/V
+Công_an/N huyện/N Can_Lộc/Np Hà_Tĩnh/Np vừa/R ra/V quyết_định/N bắt/V khẩn_cấp/N tài_xế/N xe/N container/N hất/V văng/N chiến_sĩ/N cảnh_sát/N giao_thông/N xuống_đường/V
+Sáng/N 17/M tin/N từ/E công_an/N huyện/N Can_Lộc/Np cho/V biết/V cơ_quan/N điều_tra/V ra_lệnh/N bắt/V tài_xế/N Lưu_Văn_Châu/Np sinh/V năm/N 1991/M trú/N huyện/N Phù_Mỹ/Np tỉnh/N Bình_Định/Np người/N điều_khiển/V xe/N container/N hất/V văng/V một/M chiến_sĩ/N cảnh_sát/N giao_thông/N
+Bước_đầu/N Châu/Np thừa_nhận/V do/E hoảng_loạn/N mới/R dẫn/V đến/R hành_động/V lái/N xe_kéo/N làm/V bị_thương/V một/M chiến_sĩ/N cảnh_sát/N giao_thông/N
+Được/V biết/V khoảng/N 16h30/M chiều/N 306/M đội/N phía/N bắc/N thuộc/V phòng/N CSGT/Np Công_an/N Hà_Tĩnh/Np tuần_tra/V kiểm_soát/V trên/E quốc_lộ/N đoạn/N qua/V xã/N Vượng_Lộc/Np Can_Lộc/Np Hà_Tĩnh/Np đã/R ra/V tín_hiệu/N dừng/V xe/N container/N do/E vi_phạm/V tốc_độ/N
+Tài_xế/N xe/N container/N không/R chấp_nhận/V lỗi/N mà_còn/N lái_xe/V bỏ/V chạy/V
+Vì/C đứng/V phía/N trước/N xe/N nên/C chiến_sĩ/N Nguyễn_Anh_Đức/Np đã/R vội/A bám/V gương/N chiếu/N hậu/A
+Chạy/V được/R khoảng/N 200m/M tài_xế/N xe/N container/N đánh_võng/A hất/N chiến_sĩ/N Đức/Np xuống_đường/V
+Chiến_sĩ/N Đức/Np văng/V trúng/V taluy/N bị/V chấn_thương/V nặng/A được/V đưa/V đi/V cấp_cứu/V
+Do/E bị_thương/N nặng/N anh/N Đức/Np được/V chuyển/V ra/V Bệnh_viện/N Việt_Đức/Np Hà_Nội/Np điều_trị/V
+Hiện_tại/N sức_khoẻ/N anh/N Đức/Np diễn_biến/V tốt/A đang/R được/V các/L y/N bác_sĩ/N chăm_sóc/V theo_dõi/V

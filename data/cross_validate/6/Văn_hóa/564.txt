@@ -1,0 +1,5 @@
+Nhà_hàng/N Việt_Nam/Np sang_trọng/A tại/E khách_sạn/N 100/M tuổi/N ở/E Sài_Gòn/Np
+Nhân/E tháng/N khai_trương/V từ/E nay/P đến/E ngày/N 27/7/M thực_khách/N đến/V dùng_bữa/V tại/E Le_Royal_Saigon/Np nhận/V ưu_đãi/V giảm_giá/N 15%/M trên/E mỗi/M hóa_đơn/N thanh_toán/V và/CC được/V phục_vụ/V miễn_phí/V các/L loại/Nc trà/N cà_phê/N đặc_biệt/A
+Địa_chỉ/N Le_Royal_Saigon/Np Majestic_Hotel/Np số/N 1/M Đồng_Khởi/Np quận/N 1/M TP_HCM/Np
+Hotline/Np 01266/M 666/M 605/M
+Giờ/N hoạt_động/V 11h-14h/M 17h-23h/M

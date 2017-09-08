@@ -1,0 +1,17 @@
+iPhone/N 4S/N không/R nên/V cài/V iOS/N 8/M
+iOS/N 8/M đỏng_đảnh/N với/E iPhone/M 4S/N
+Tương_tự/N trường_hợp/N đỏng_đảnh/N của/E iOS/N 7/M trên/N iPhone/M 4/M một/M năm/N trước/N đây/P iOS/N 8/M cũng/N cơm/N không/R lành_canh/V không/R ngọt/A với/E iPhone/N 4S/M do/E đây/P là/V phiên_bản/N màn_hình/N 35/M inch/N dòng/N iPhone/M màn/N hình/N nhỏ/A nhất/R so/V với/E bốn/N dòng/N iPhone/N còn/V lại/R mà/C iOS/N 8/M hỗ_trợ/N
+Theo/E đó/P một_số/N tính_năng/N và/CC thông_tin/N hiển_thị/A chỉ/R dành/V cho/E iPhone/N màn_hình/N lớn/A sẽ/R xộc_xệch/V trên/N 4S/M
+Cụ_thể/A những/L tính_năng/N mới/A trong/E iOS/N 8/M không/N tương_thích/N iPhone/N 4S/N gồm/V chức_năng/N dự_đoán/N từ/E trong/N bộ_gõ/N ứng_dụng/N bàn_phím/N ảo/A mới/R không/R có/V tuỳ/N chọn/V sắp_xếp/N trong/E ứng_dụng/N Mail/Np widget/V Notification_Center/Np hay/C các/L đề_xuất/N trong/N Spotlight/Np
+Khi/N xử_lí/V trên/N ứng_dụng/N Mail/Np những/L thành_phần/N giao_diện/N mới/R che/V mất/V hầu_hết/N không_gian/N hiển_thị/A
+Bên_cạnh/N đó/P thử_nghiệm/V tốc_độ/N mở/V các/L ứng_dụng/N trên/N iPhone/M 4S/N với/E iOS/N 712/M và/N iOS/N 8/M GM/Np như/C trình_duyệt/N Safari/Np Camera/Np Mail/Np Messages/Np hay/C Calendar/Np đều/A cho/V kết_quả/N iOS/N 7/M nhanh/A hơn/R
+Đôi/M lúc/N các/L ứng_dụng/N báo/N lỗi/N khi/N mở/V và/N buộc/V phải/V mở/V lại/R
+Điều/N này/P không/R khó/A hiểu/V iPhone/N 4S/N có/V cấu_hình/N kĩ_thuật/V thua/V xa/N iPhone/N 5S/M hay/N hai/M dòng/N iPhone/M 6/M và/N iPhone/N 6/M Plus/Np vừa/R ra_mắt/V
+iPhone/N 4S/N dùng/V chip/N xử_lí/N Apple/Np A5/Np so/V với/E A7/Np iPhone/M 5S/Nu hay/N A8/Np iPhone/M 66/M Plus/Np bộ_nhớ/V RAM/Np 512MB/M chỉ/N hỗ_trợ/V băng_tần/N 24/M GHz/N cho/V kết_nối/N không/R dây/N WiFi/N 80211n/M
+Lấy/V một/M ví_dụ/N tương_tự/A các/L hệ_điều_hành/N di_động/V hay/C máy_tính/N như/N Windows/Np 7/M hay/N 8/M cũng/N sẽ/R kén_chọn/V phần_cứng/N thiết/N bị/V mới/R có_thể/R cài_đặt/V và/N thừa_hưởng/V hết/V khả_năng/N mà/C phiên_bản/N mới_đó/N đem/V lại/V
+Ngoài_ra/C trang/N GottaBeMobile/N đăng_tải/N thử_nghiệm/V iOS/N 8/M ngốn/N pin/N nhiều/A hơn/R trên/N iPhone/M 4S/N
+Để/E khắc_phục/V điều/N này/P nếu/C bạn/N đã/R lỡ/V nâng_cấp/V lên/R iOS/N 8/M hãy/N vào/V tắt/V bớt/V những/L thông_báo/N không/R cần_thiết/V ở/E Thiết_lập/N Thông/Np báo/N Settings/Np Notifications/Np tiếp/V tục/N tắt/V Location_Services/Np Settings/Np Privacy/Np Location_Services/Np và/CC khoá/N chức_năng/N làm/V mới/R ứng_dụng/V nền/N Settings/Np General/Np Background_App_Refresh/Np
+Từ/E những/L nguyên_do/N trên/N người_dùng/N không/R nên/V cố_gắng/V nâng_cấp/V lên/R iOS/N 8/M trên/N iPhone/M 4S/N hãy/R giữ/V dùng/V iOS/N 7/M ít_nhất/N cho/E đến/E khi/N Apple/Np phát_hành/V bản/N cập_nhật/V iOS/V 801/M hay/N iOS/N 81/M cải_thiện/N tình_trạng/N trên/N
+iPhone/N 4S/N được/V gì/P khi/N cài/V iOS/N 8/M
+iPhone/N 4S/N nhận/V được/R nhiều/A tính_năng/N mới/A trong/E iOS/N 8/M bao/N gồm/N hỗ_trợ/V những/L phần/N cải_tiến/N mới/A trong/E các/L ứng_dụng/N cài/V sẵn/A của/N Apple/Np
+Tuy_nhiên/C thiếu_vắng/V một_số/N tính_năng/N do/N chỉ/R tương_thích/V với/E phần_cứng/N mới/A gồm/V AirDrop/N TouchID/N Handoff/Np OpenGL/V ES/Np 30/M API/Np đồ_hoạ/V Metal/Np các/L ứng_dụng/N ARM/Np 64/M bit/N

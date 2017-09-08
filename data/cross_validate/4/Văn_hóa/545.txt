@@ -1,0 +1,10 @@
+Du_Lịch_Việt/Np giảm/V 50%/M chùm/Nc tour/N mùa/N thu/V
+Công_ty/N CP/Np Truyền_thông/N Du_Lịch_Việt/Np Trụ_sở/N chính/T 175/M Nguyễn_Thái_Bình/Np phường/N NguyễnTháiBình/Np quận/N 1/M TP_HCM/Np
+Điện_thoại/N /M 028/M /N 730 789/M
+Hotline/Np Du_lịch/N Âu/Np Úc/Np Mỹ/Np 0938 /M 0934 /M
+Du_lịch/N châu/N Á/Np 0938 /M 0938 /M
+Du_lịch/N trong/E nước/N 0909 9 8/M  /M 0903 3 8/M
+Chi_nhánh/Np Hà_Nội/Np 167/M GiảngVõ/Np quận/N Đống_Đa/Np Hà_Nội/Np
+Điện_thoại/N /M 024/M /N 3512 88/M
+Website/N
+Email/V info@dulichviet m /N

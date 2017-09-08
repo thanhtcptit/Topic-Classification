@@ -1,0 +1,3 @@
+Kiểu/N đỗ/V xe/N gây/V hại/V lốp/N tài_xế/N Việt/Np cần/V tránh/V
+Đỗ/V xe/N sát/A vỉa_hè/N hay/C đỗ/V bánh/N trên/E vỉa_hè/N bánh/N dưới/E lòng_đường/N là/V những/L kiểu/N đỗ/V xe/N thường/R gặp/V tại/E Việt_Nam/Np bởi/E điều_kiện/N đường_sá/N chật_chội/A phương_tiện/N đông_đúc/A
+Lỗi/N nhiều/A tài_xế/N có_thể/R gặp/V là/C khi/N canh/V xe/N để/E đỗ/V sát/A vào/E vỉa_hè/N đã/R vào/V quá/R sát/A dẫn/V tới/E lốp/N xe/N một_nửa/N dưới/E lòng_đường/N một_nửa/N trên/E vỉa_hè/N như/C ảnh/N dưới/E đây/P

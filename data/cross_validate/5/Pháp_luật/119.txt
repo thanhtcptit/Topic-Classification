@@ -1,0 +1,9 @@
+Chủ_tịch/N TPHCM/Np nhắc/V cán_bộ/N tham_gia/V các/L vụ/N dân/N kiện/V quan/N
+Chủ_tịch/N UBND/Np TPHCM/Np Nguyễn_Thành_Phong/Np vừa/R ra/V văn_bản/N nhắc_nhở/V các/L cơ_quan/N tham_mưu/V về/V công_tác/N chuẩn_bị/V hồ_sơ/N tham_gia/V tố_tụng/N hành_chính/N
+Trong/E đó/P giao/V Văn_phòng/N UBND/Np TP/Np theo_dõi/V thống_kê/V các/L trường_hợp/N chậm_trễ/N trong/E việc/N cử/V cán_bộ/N hoặc/N không/R chuẩn_bị/V hồ_sơ/N tham_gia/V các/L vụ/N kiện/V hành_chính/N mà/C chủ_tịch/N UBND/Np TP/Np hoặc/CC UBND/Np TP/Np là/V người/N bị/V kiện/V
+Chỉ_đạo/N của/E ông/N Nguyễn_Thành_Phong/Np nêu/V rõ/A UBND/Np TPHCM/Np sẽ/R có/V phê_bình/N đối_với/N cơ_quan/N đơn_vị/N có/V số/N lần/N vi_phạm/V từ/E lần/N thứ/N 3/M trong/E một/M năm/N và/CC hạ/V thi_đua/V năm/N đối_với/N cơ_quan/N đơn_vị/N có/V số/N lần/N vi_phạm/V từ/E lần/N thứ/N 5/M trong/E một/M năm/N
+Chủ_tịch/N UBND/Np TP/Np cũng/R yêu_cầu/V khi/N có/V các/L vụ/N kiện/V hành_chính/N các/L cơ_quan/N liên_quan/V phải/V khẩn_trương/V cử/V người/N phối_hợp/V các/L cơ_quan/N đơn_vị/N trong/E việc/N chuẩn_bị/V hồ_sơ/N tham_gia/V tố_tụng/N
+Đồng_thời/R có/V thông_tin/N phản_hồi/V ngay/A khi/N nhận/V được/R yêu_cầu/V của/N Văn_phòng/N UBND/Np TP/Np theo/V quy_trình/N
+Tránh/V việc/N kéo_dài/V thời_gian/N cử/V người/N chậm/A chuẩn_bị/V hồ_sơ/N thiếu/V phối_hợp/N các/L cơ_quan_chức_năng/N trong/E công_tác/N tham_gia/V tố_tụng/N
+Theo/E đánh_giá/N của/E UBND/Np TPHCM/Np việc/N tham_gia/V tố_tụng/N hành_chính/N của/E các/L cơ_quan/N nhà_nước/N tại/E TP/Np thời_gian/N qua/V chưa/R được/V thực_hiện/V triệt_để/N cơ_quan/N tham/N mưu/N còn/R chậm_trễ/A trong/E việc/N cử/V cán_bộ/N tham_gia/V tố_tụng/N
+Đặc_biệt/A công_tác/N chuẩn_bị/N hồ_sơ/N tham_gia/V tranh_tụng/N tại/E toà_án/N nhân_dân/N các/L cấp/N còn/R chậm_trễ/A gây/V khó_khăn/N cho/V công_tác/N xét_xử/V của/E cơ_quan/N TAND/Np các/L cấp/N tạo/N bức_xúc/N và/CC gây/V tâm_lí/V tiêu_cực/N cho/E người/N khởi_kiện/N

@@ -1,0 +1,12 @@
+Công_cụ/N kiểm_tra/V WannaCry/Np miễn_phí/V
+Trước/E làn_sóng/N lây_lan/V WannaCry/Np tại/E Việt_Nam/Np Bkav/Np đã/R tung/V ứng_dụng/N Malware_Scan/Np để/E người/N sử_dụng/V quét/V xem/V máy_tính/N có/V đang/R bị/V nhiễm/V mã/N độc/A này/P không/R
+Công_cụ/N còn/R có_thể/A kiểm_tra/V và/CC cảnh_báo/V nếu/C máy_tính/N chứa/V lỗ_hổng/N EternalBlue/Np lỗ_hổng/N mà/C WannaCry/Np khai_thác/V để/E xâm_nhập/V máy_tính/N
+Để/E sử_dụng/V người/N dùng/V tải/N ứng_dụng/V về/V máy/N
+Công_cụ/N không/R cần/V cài_đặt/V mà/C có_thể/R chạy/V luôn/R để/E quét/V hỗ_trợ/V truy_xuất/V toàn_bộ/L máy_tính/N hoặc/CC từng/R phân_vùng/V thư_mục/V
+Trong/E khi/N đó/P ứng_dụng/V của/E  /N Công_ty/N Cổ_phần/N Công_nghệ/N An_toàn/A thông_tin/N và/CC Truyền_thông/N Việt_Nam/Np /V Vnist/Np /V lại/R hỗ_trợ/V kiểm_tra/V độ/N an_toàn/A cho/E các/L hệ_thống/N mạng/N lớn/A với/E hàng/R chục/M hàng/R trăm/M máy_tính/N
+/N Xem/V hướng_dẫn/V chi_tiết/N /V
+Theo/E ông/Nc Trần_Quang_Chiến/Np Giám_đốc/N Vnist/Np để/E hạn_chế/V trở_thành/V nạn_nhân/N của/E WannaCry/Np máy_tính/N của/E người/N dùng/V nên/C được/V cập_nhật/V bản/N vá/V MS17-010/Np mà/C Microsoft/Np đã/R ra/V ngày/N 14/03/2017/M /Nu KB4012598/M /N
+Đây/P chính/T là/V lỗ_hổng/N được/V mã/V độc/A sử_dụng/V để/E lây_lan/V từ/E máy/N này/P sang/V máy/N khác/A trong/E các/L hệ_thống/N mạng/N
+Nhằm/V ngăn_chặn/V mã/N độc/A WannaCry/Np xâm_nhập/V hay/C lây_lan/V chuyên_gia/N bảo_mật/V của/E Securitybox/Np khuyến_cáo/N người/N dùng/V ngay_lập_tức/R cập_nhật/V các/L bản/N vá/V hệ_điều_hành/N Windows/Np
+Ngoài_ra/C cần/V tạm/A khóa/N dịch_vụ/N SMB/Np trong/E máy_tính/N cài_đặt/V hay/C cập_nhật/V phần_mềm/N diệt/V virus/N
+/N Xem/V hướng_dẫn/V chi_tiết/N /V

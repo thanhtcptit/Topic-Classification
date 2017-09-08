@@ -1,0 +1,24 @@
+​/N Nadal/Np lần/N thứ/N 10/M vô_địch/N Roland_Garros/Np
+Trận/N chung_kết/N đã/R không/R diễn/V ra/R kịch/N tính/V và/N hấp_dẫn/A như/C chờ_đợi/V khi/N quyền/N chủ_động/V trong_suốt/N trận/N đấu/V hoàn_toàn/N thuộc/V về/R ông/N vua/N sân/N đất/N nện/V Nadal/Np
+Ngược_lại/N Wawrinka/Np có/V trận/N đấu/V dưới/E sức/N anh/N di_chuyển/V mệt_mỏi/A chống_cự/V yếu_ớt/N
+Trong/E ván/N một/M sau/N vài/N bàn/N đấu/V đầu_tiên/N giằng_co/V quyết_liệt/N Wawrinka/Np phạm/V sai_lầm/N cắt/V bóng/N không/R qua/V lưới/N để/E mất/V break/N vào/E tay/N Nadal/Np ở/V bàn/N đấu/V thứ/N 6/M
+Không/R bỏ_qua/V cơ_hội/N ngàn/N vàng/N Nadal/Np gây/V thêm/V sức_ép/N và/CC khiến/V Wawrinka/Np mất/V thêm/V break/N nữa/R ở/V bàn/N đấu/V thứ/N 8/M để/E giành/V thắng_lợi/N ván/N một/M với/N tỉ_số/N 62/M
+Tiếp/V đà/N hưng_phấn/N Nadal/Np khởi_đầu/V ván/N 2/M không_thể/N tốt/A hơn/R khi/N sớm/V giành/V điểm/N break/A ở/E bàn/N đấu/V thứ/N 2/M để/E vượt/V lên/R dẫn/V Wawrinka/Np 20/M rồi/N 30/M
+Tay_vợt/N người/N Tây_Ban_Nha/Np không/R mắc/V sai_lầm/N nào/P trong/E những/L bàn/N đấu/V tiếp_theo/V buộc/V Wawrinka/Np gác/V vợt/N với/E thất_bại/N 36/M ở/E ván/N 2/M
+Sang/V ván/N 3/M mọi/N chuyện/N diễn/V ra/R còn/V dễ_dàng/A hơn/A với/N Nadal/Np
+Chỉ/R mất/V 4/M phút/N tay_vợt/V người/N Tây_Ban_Nha/Np đã/R giành/V được/R điểm/N break/A ở/E bàn/N đấu/V đầu_tiên/N
+Đến/E lúc/N này/P Wawrinka/Np dường_như/N đã/R buông_xuôi/V và/N chấp_nhận/V thất_bại/V giúp/V Nadal/Np dễ_dàng/A giành/V thêm/R 2/M break/N nữa/R ở/V bàn/N đấu/V thứ/N 5/M và/N 7/M để/E khép/V lại/R ván/N ba/N với/E chiến_thắng/N 61/M
+Đây/P là/V lần/N thứ/N 10/M Nadal/Np vô_địch/N Roland_Garros/Np
+Trước/E đó/P tay_vợt/N người/N Tây_Ban_Nha/Np này/P bốn/M lần/N lên_ngôi/V liên_tiếp/N từ/E năm/N 2005/M 2008/M rồi/C sau/N đó/P tiếp_tục/V thống_trị/V giải/N từ/E năm/N 2010/M 2014/M
+Với/E chức/N vô_địch/N Roland_Garros/Np 2017/M Nadal/Np đã/R đi/V vào/E lịch_sử/N khi/N trở_thành/V tay_vợt/N đầu_tiên/A 10/M lần/N vô_địch/N một/M giải/N Grand_Slam/Np trong/E kỉ_nguyên/N mở_rộng/V
+Những/L tay_vợt/N giữ/V kỉ_lục/N về/V số/N lần/N vô_địch/A một/M giải/N Grand_Slam/Np ở/V kỉ_nguyên/N mở/V
+Đơn/N nam/N
+Giải_Úc/Np mở_rộng/V Novak_Djokovic/Np 6/M lần/N
+Giải_Pháp/Np mở_rộng/V Rafael_Nadal/Np 10/M lần/N
+Giải_Wimbledon/Np Pete_Sampras/Np Mỹ/Np Roger_Federer/Np Thuỵ_Sĩ/Np 7/M lần/N
+Giải_Mỹ/Np mở_rộng/V Jimmy_Connors/Np Mỹ/Np Pete_Sampras/Np và/CC Roger_Federer/Np 5/M lần/N
+Đơn/N nữ/N
+Giải_Úc/Np mở_rộng/V Serena_Williams/Np Mỹ/Np 7/M lần/N
+Giải_Pháp/Np mở_rộng/V Chris_Evert/Np Mỹ/Np 7/M lần/N
+Giải_Wimbledon/Np Martina_Navratilova/Np CH/Np CzechMỹ/V 9/M lần/N
+Giải_Mỹ/Np mở_rộng/V Chris_Evert/Np Serena_Williams/Np 6/M lần/N

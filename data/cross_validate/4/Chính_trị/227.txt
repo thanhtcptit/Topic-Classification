@@ -1,0 +1,14 @@
+​/N Người/N chạy/V ôtô/N ngược/V chiều/N trong/E hầm/N Thủ_Thiêm/Np có_thể/A bị/V khởi_tố/V
+Nhận_định/N ban_đầu/A của/E đội/N CSGT/Np quận/N 1/M TPHCM/Np vụ/N xe/N 4/M chỗ/N chạy/V ngược/N chiều/N gây/V tai_nạn/N liên_hoàn/A trong/E hầm/N Thủ_Thiêm/Np gây/V thiệt_hại/A hơn/R 100/M triệu/M đồng/Nu
+Chiều/N 266/M Đội/N CSGT/Np quận/N 1/M cho/V biết/V đã/R chuyển/V hồ_sơ/N vụ/N tai_nạn/N trong/E hầm/N Thủ_Thiêm/Np cho/V Cơ_quan/N điều_tra/V cùng/A cấp/N đề/N làm/V rõ/A
+Sau/E khi/N có/V kết_quả/N thẩm_định/V thiệt_hại/N sẽ/R khởi_tố/V hoặc/N không/R khởi_tố/V hình/N sự_vụ/N tai_nạn/N
+Nhận_định/N ban_đầu/A và/CC mức/N phí/N của/E các/L chủ/N xe/N đòi/V đền_bù/V cao/A hơn/R 100/M triệu/M đồng/Nu nên/N chúng_tôi/N chuyển/V hồ_sơ/N vụ_việc/N cho/E cơ_quan/N điều_tra/V một/M lãnh_đạo/N CSGT/Np quận/N 1/M cho_hay/N
+Trước/E đó/P khuya/N 226/M ông/N Nguyễn_Văn_Sáng/Np 49/M tuổi/N quê/N Quảng_Nam/Np chạy/V ôtô/N 4/M chỗ/N ngược/V chiều/N vào/V hầm/N Thủ_Thiêm/Np hướng/V từ/E quận/N 1/M sang/N quận/N 2/M
+Nhiều/A ôtô/N đi/V đúng/A đường/N né/V kịp/A nhưng/C đến/V giữa/N hầm/N xe/N ông/N Sáng/N lao/V vào/R ba/N ôtô/N chạy/V hướng/N ngược_lại/N nằm/V vắt/V ngang/V đường/N
+Ông/Nc Sáng/N bước/V xuống/V xe/N với/E mùi/N men/N nồng_nặc/A mất/V kiểm_soát/N sau/N đó/P được/V mọi/L người/N đưa/V đến/V bệnh_viện/N
+CSGT/Np xác_định/V ông/N này/P đã/R uống/V bia/N trước/E khi/N lái_xe/N
+Vụ/N tai_nạn/N khiến/V cả/P bốn/M ôtô/N hư_hỏng/N nặng/A
+Hầm_Thủ_Thiêm/Np bị/V phong_toả/V hướng/N từ/E quận/N 2/M đi/V quận/N 1/M khoảng/N 1/M giờ/Nu
+Theo/E luật/N sự/N Nguyễn_Đức_Chánh/Np Đoàn/Np luật/N sự/N TPHCM/Np tại/E khoản/N 1/M điều/N 202/M Bộ/N luật_hình_sự/N 1999/M sửa_đổi/N bổ_sung/V năm/N 2009/M nếu/N thiệt_hại/N 50/M 100/M triệu/M đồng/Nu sẽ/R bị/V truy_cứu/V trách_nhiệm/N hình_sự/N
+Nhưng/C theo/V điểm/N d/N khoản/N 1/M Điều/N 260/M Bộ/N luật/N hình/N 2015/M gây/N thiệt_hại/V về/V tài_sản/N từ/E 100/M đến/E dưới/N 500/M triệu/M đồng/Nu mới/R bị/V truy_cứu/V trách_nhiệm/N hình_sự/N
+Trong/E trường_hợp/N này/P nếu/C có/V áp_dụng/N Bộ/N luật_hình_sự/N năm/N 2015/M người/N lái_xe/N vẫn/R có/V khả_năng/N bị/V xử_lí/V hình_sự/N

@@ -1,0 +1,10 @@
+Bác_sĩ/N bị/V phạt/V tiền/N vì/E chẩn_đoán/V sai/A cho/E bệnh_nhân/N bị/V ung_thư/N
+Theo/E Allsingaporestuff/Np  /M bác_sĩ/N  /V Fernandes/Np đã/R  /V chẩn_đoán/V sai/A cho/E bệnh_nhân/N của/E mình/P rằng/C sức_khỏe/N của/E người/N đó/P đang/R hoàn_toàn/A ổn_định/V trong/E khi/N thực_tế/N bệnh_nhân/N bị/V ung_thư/N kết/V trực_tràng/N
+Bác_sĩ/N này/P có/V  /A 10/M năm/N kinh_nghiệm/N làm_việc/V ở/E chuyên_khoa/N dạ_dày/N ruột/N tại/E bệnh_viện/N Asia_Health/Np Partners/Np
+Theo/E quyết_định/N của/E hội_đồng_kỷ_luật/N vào/E tháng/N 3/M vị/Nc bác_sĩ/N bị/V khiển_trách/V và/CC phải/V nộp/V phạt/V 10 0/M SGD/Nu /A hơn/A 160/M triệu/M đồng/Nu /M
+Ngoài_ra/C bác_sĩ/N còn/R phải/V thanh_toán/V các/L chi_phí/N liên_quan/V cho/E bệnh_nhân/N trong/E đó/P có/V chi_phí/N thuê/V cố_vấn/N pháp_luật/N của/E Hội_đồng/N y_khoa/N Singapore/Np
+Bệnh_nhân/N này/P tới/V bệnh_viện/N kiểm_tra/V sức_khỏe/N hồi/N tháng/N 2/2012/M và/CC sau/E đó/P nhận/V báo_cáo/V y_khoa/N do/E bác_sĩ/N Fernandes/Np kết_luận/V rằng/C chỉ/R dấu/N ung_thư/N là/V bình_thường/A  /M Tuy_nhiên/C kết_quả/N xét_nghiệm/V cho/V thấy/V bệnh_nhân/N có/V mức/N CEA/Np được/V dùng/V để/E kiểm_tra/V protein/N trong/E máu/N của/E bệnh_nhân/N ung_thư/N ruột/N là/V 16,5/M ng/ml/N trong/E khi/N giới_hạn/V bình_thường/A 0/M 5/M ng/ml/Nu
+20/M tháng/N sau/N bệnh_nhân/N được/V một/M bác_sĩ/N khác/A chẩn_đoán/V mắc/V ung_thư/N ruột/N phải/V phẫu_thuật/V và/CC hóa_trị/V 6/M tháng/N
+Tháng/N 6/2014/M bệnh_nhân/N nộp/V đơn/N khiếu_nại/V lên/V SMC/Np
+Trong/E phiên/N họp/V hội_đồng_kỷ_luật/X hồi/N tháng/N 3/M năm/N nay/P SMC/Np kết_luận/V rằng/C do/E sơ_suất/V của/E bác_sĩ/N Fernandes/Np mà/C bệnh_nhân/N mất/V cơ_hội/N điều_trị/V sớm/A
+Bác_sĩ/N Fernandes/Np thừa_nhận/V đã/R không/R chú_ý/V chỉ_số/N CEA/Np bất_thường/A của/E bệnh_nhân/N và/CC đồng_ý/V với/E kết_luận/N của/E SMC/Np

@@ -1,0 +1,24 @@
+Facebook/Np phát_hành/V Oculus_Rift/Np giới/N công_nghệ/N nhốn/N nh/N ​/N áo/N
+Oculus_Rift/Np là/V thiết_bị/N thực_tế/N ảo/N Virtual_Reality/Np hay/C gọi/V tắt/N là/C thiết_bị/N VR/Np
+Hiện/N trên/E thị_trường/N thiết_bị/N VR/Np đã/R lên/V kệ/N còn/R có/V Samsung_Gear/Np VR/Np hợp_tác/V với/E Oculus/Np nhưng/C đây/P là/V sản_phẩm/N tiêu_dùng/V có/V giá_trị/N 100/M USD/Nu và/N buộc/V phải/V dùng/V với/E các/L dòng/N smartphone/N cao_cấp/A của/N Samsung/Np
+Nội_dung/N cho/V Gear/Np VR/Np còn/R bị/V giới_hạn/V bởi/E sức_mạnh/N của/E chip/N và/CC khả_năng/N xử_lí/V đồ_hoạ/N của/E smartphone/N tuy/N có/V đột_phá/N nhưng/C chưa/R thể/R sánh/V bằng/N desktop/N PC/Np
+Oculus_Rift/Np ở/V phân/N khúc/N cao_cấp/A hơn/R đòi_hỏi/V nhiều/A thứ/N nhưng/C cũng/R cho/V bạn/N kết_quả/N tuyệt_vời/A hơn/A về/E chất_lượng/N hình_ảnh/N hiển_thị/V độ_phân_giải/N lên/V đến/R 25K/M 2160/M x/N 1200/M pixel/N hình_ảnh/N 3/M chiều/N lập_thể/N stereoscopic/N 3D/N hình_ảnh/N ít/A bị/V nhoè/V khi/N người_dùng/V chuyển_động/N nhờ/V độ/N làm/V tươi/A 90/M Hz/Np tiêu_cự/V ống_kính/N có_thể/R điều_chỉnh/V từ/E 58/M đến/E 72mm/M phù_hợp/N với/E mắt/N người_dùng/N
+Oculus_Rift/Np kết_nối/V với/E máy_tính_để_bàn/N đáp_ứng/V được/R những/L yêu_cầu/N về/V sức_mạnh/N xử_lí/V và/N khả_năng/N đồ_hoạ/V
+Do/E đó/P không/R phải/A bất_kì/V desktop/N nào/P cũng/R chìu/V lòng/N thiết_bị/N này/P và/N hiện/N chưa/R có/V máy/N Mac/N của/E Apple/Np nào/N kết_thân/V được/V với/N Oculus_Rift/Np
+Máy_tính/N đáp_ứng/V tiêu_chuẩn/N chạy/V với/E Oculus_Rift/Np là/V những/L cỗ/N máy/N desktop/N chuyên/A cho/V game/N tầm/N giá/N từ/E 1500/M USD/Nu trở/V lên/R
+Như/C vậy/P trung_bình/A để/E trải_nghiệm/V VR/Np với/E Oculus_Rift/Np bạn/N cần/V móc/V hầu_bao/N tầm/N 47/M triệu/M đồng/Nu
+Đeo_Oculus_Rift/Np vào/V sẽ/R ra/V sao/P
+Chào_mừng/V bạn/N đến/V với/E thế_giới/N thực_tế/N ảo/N VR/Np một/M không_gian/N 360/M độ/N
+Khác/A với/E việc/N xem/V nội_dung/N hiển_thị/V trên/E màn_hình/N tivi/N trên/E tường/N hai/M kính/N trong/E thiết_bị/N Oculus_Rift/Np kết_hợp/V với/E các/L cảm_biến/N hồng_ngoại/N IR/Np nhận_biết/V chuyển_động/N đầu/N của/E người_dùng/N để/E tạo/V ra/R hình_ảnh/N cảnh_quan/N phù_hợp/V với/E góc/N nhìn/V hiện_tại/N
+Nếu/C chịu_khó/N thiết_lập/V một/M không_gian/N thực_tế/A ảo/N với/E các/L cảm_biến/N ghi_nhận/N vị_trí/N chuyển_động/V hướng/N về/E phía/N người_dùng/N ở/V trung_tâm/N những/L động_tác/N như/C đứng/V lên/R ngồi/V xuống/R bước/V tới/R
+đều/R trở_thành/V động_tác/N của/E bạn/N trong/E thế_giới/N thực_tế/N ảo/N đang/R tham_gia/V
+Ví_dụ/C khi/N bạn/N xem/V một/M nội_dung/N thực_tế/N ảo/A là/V bộ/N phim/N Công_viên/N Khủng_long/A
+Đeo/V kính/N Oculus_Rift/Np bạn/N thấy/V mình/P lọt_thỏm/V trong/E công_viên/N cùng/A các/L khách/N tham_quan/V khác/A bỗng_chốc/N quay/V sang/V trái/N hay/C phải/V hàng_loạt/N người/N tham_quan/V chạy/V thục_mạng/N bạn/N quay/V đầu_ra/N sau/N lưng/N thì/C cả/P bầy/N khủng_long/N ăn/V thịt/N đang/R hùng_hổ/A lao/V tới/V
+Cảm_giác/N của/E bạn/N sẽ/R thế_nào/X
+Đó/P chỉ/R là/V một/M trong/E những/L ví_dụ/N đơn_giản/A nhất/A về/V thực_tế/N ảo/N và/CC với/E những/L phụ_kiện/N như/C tay_cầm/N điều_khiển/N cảm_biến/N nhận_diện/N cử/V động/N đi/V kèm/V Oculus_Rift/Np bạn/N có_thể/A tương_tác/V với/E các/L vật_thể/N đối_tượng/N trong/E nội_dung/N VR/Np
+Các/L game/N thủ/V sẽ/R có/V những/L trải_nghiệm/N tuyệt_vời/A nhờ/V VR/Np trong/E các/L game/N nhập_vai/N anh_hùng/N diệt/V ác_quỷ/N hay/N hồi_hộp/V đưa/V tay/N mở/V từng/N cánh/N cửa/N trong/E game/N kinh_dị/N
+Oculus_Rift/Np có/V 30/M game/N dạo_đầu/N và/CC từ/E đây/P đến/E cuối/N năm/N 100/M game/N dành/V cho/R Rift/Np sẽ/R sớm/V bổ_sung/V vào/E chợ/N nội_dung/N thực_tế/N ảo/A Oculus_Store/Np
+Không_chỉ/N có/V Oculus_Rift/Np một_số/N thiết_bị/N VR/Np như/C HTC/Np Vive/Np 799/M USD/Nu Sony_Play/Np Station/Np VR/Np 399/M USD/Nu lần_lượt/N ra_mắt/V tháng/N 4/M và/N tháng/N 10/M năm/N nay/P càng/R khiến/V ngành/N công_nghiệp/N thực_tế/N ảo/N sục_sôi/N chuẩn_bị/V
+Các/L công_ty/N nghiên_cứu/V thị_trường/N không/R ngần_ngại/V tung/V ra/R những/L con_số/N dự_đoán/N từ/E hàng/R chục/M cho/E đến/E hàng/R trăm/M tỉ/N đôla/N cho/V thị_trường/N VR/Np tiềm_năng/N khổng_lồ/A
+Dữ_liệu/N nghiên_cứu/V từ/E Goldman_Sachs/Np cho/V thấy/V ngành/N công_nghiệp/N VR/Np có_thể/R đáng_giá/V lên/V đến/E 80/M tỉ/M USD/Nu năm/N 2025/M trong/E đó/P 45/M tỉ/N doanh_thu/N mảng/N phần_cứng/N thiết_bị/N VR/Np và/CC 35/M tỉ/M USD/Nu thuộc/V về/E phần_mềm/N nội_dung/N
+Hãng/N nghiên_cứu/V thị_trường/N SuperData/N dự_báo/V doanh_thu/N năm/N 2016/M của/N VR/Np đạt/V 36/M tỉ/M USD/Nu

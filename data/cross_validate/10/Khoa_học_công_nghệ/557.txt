@@ -1,0 +1,12 @@
+﻿/M Hà_Lan/Np sáng_tạo/V nhựa_đường/N tự/P vá/V lành/A ổ_gà/N
+Các/L nhà_nghiên_cứu/N Hà_Lan/Np đang/R phát_triển/V những/L vật_liệu/N có/V khả_năng/N tự/P lành/V tập_trung/V vào/E hai/M vật_liệu/N cơ_bản/A cho/E cơ_sở_hạ_tầng/N là/V bê_tông/N và/CC nhựa_đường/N Tech_Times/Np hôm/N 8/M 5/M đưa/V tin/N
+Nhựa_đường/N được/V sử_dụng/V để/E rải/V bề_mặt/N đường/N bởi/E dễ/A trải/V có/V cấu_trúc/N xốp/N và/CC tạo/V thành/V bề_mặt/N cứng/A khi/N nguội/A
+Tuy_nhiên/C nhược_điểm/N chính/A của/E nhựa_đường/N là/V vật_liệu/N này/P kém/A bền/N và/CC mặt_đường/N rất/R nhanh/A nứt_nẻ/V xuất_hiện/V ổ_gà/N lớn/A
+Theo/E Erik_Schlangen/Np nhà_khoa_học/N vật_liệu/N ở/E Đại_học/N Delft_Hà_Lan/Np nhựa_đường/N tự/P vá/V lành/A có_thể/R là/V giải_pháp/N giúp/V đường_nhựa/N trở_nên/V an_toàn/A và/CC bền_vững/A hơn/R
+Loại/N nhựa_đường/N đã/R qua/V điều_chỉnh/V do/E nhóm/N Schlangen/Np sáng_tạo/V chứa/V những/L sợi/Nc thép/N nhỏ/A có/V tính/N dẫn_điện/V
+Việc/N chạy/V máy_điện/N cảm_ứng/V qua/E lớp/N nhựa_đường/N sẽ/R làm/V vật_liệu/N nóng/A lên/R và/CC cả/P cỗ/N máy/N đóng/V vai_trò/N như/C một/M chiếc/Nc nam_châm/N cho/E những/L sợi/Nc thép/N kết/V lại/R với/E nhau/N và/CC sửa_chữa/V vết/N nứt/V trên/E mặt_đường/N
+Nói/V cách/N khác/A mặt/N đường_nhựa/N chỉ/R có_thể/A tự/P vá/V lành/A nếu/C sử_dụng/V máy_điện/N cảm_ứng/V nhưng/C cách/N làm/V này/P gọn_nhẹ/A và/CC dễ/A thực_hiện/V hơn/R so/V với/E các/L phương_pháp/N sửa/V đường/N hiện_nay/N
+Các/L nhà_khoa_học/N thử_nghiệm/V nhựa_đường/N tự/P vá/V lành/A trên/E 12/M con/Nc đường/N ở/E Hà_Lan/Np
+Schlangen/Np cho_biết/V những/L con/Nc đường_nhựa/N sẽ/R ở/V trong/E tình_trạng/N tốt/A trong/E vòng/N 7/M 10/M năm/N
+Schlangen/Np ước_tính/V loại/N nhựa_đường/N tự/P vá/V lành/A đặc_biệt/A có/V chi_phí/N cao/A hơn/R 25%/M so/V với/E nhựa_đường/N thông_thường/A nhưng/C về/V lâu_dài/A đây/P là/V giải_pháp/N rất/R tiết_kiệm/A vì/E nó/P giúp/V tăng/V gấp/V đôi/M tuổi_thọ/N con/N đường/N
+Theo/E một/M ước_tính/V Hà_Lan/Np có_thể/R tiết_kiệm/V 98/M triệu/M USD/Nu mỗi/M năm/N nếu/C sử_dụng/V nhựa_đường/N tự/P vá/V lành/A cho/E tất_cả/P đường_phố/N

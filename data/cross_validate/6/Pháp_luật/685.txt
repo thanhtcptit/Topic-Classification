@@ -1,0 +1,9 @@
+Đột_nhập/V tiệm/N áo_cưới/N thanh_niên/N chém/V người/N rồi/R tự_sát/V
+Chiều/N 4/7/M Trần_Trọng_Phú/Np /A 21/M tuổi/Nu quê/N Bà/N Rịa/Np Vũng_Tàu/Np /V đột_nhập/V vào/E tiệm/N áo_cưới/N Thành_Nhàn/Np tại/E Thị_trấn/N Long_Thành/Np huyện/N Long_Thành/Np /V Đồng_Nai/Np /V
+Phát_hiện/V anh/N Trần_Đăng_Khoa/Np /V 21/M tuổi/N /A đang/R ngủ/V Phú/Np rút/V dao/N chém/V nhiều/A nhát/N
+Nạn_nhân/N bật/V dậy/V đạp/V Phú/Np văng/V vào/E tường/N rồi/C chạy/V ra/R ngoài/N kêu_cứu/V
+Thấy/V người_dân/N xung_quanh/N lao/V đến/E vây/V bắt/V nghi/V can/V chạy/V vào/E nhà_vệ_sinh/N cố_thủ/V rồi/C  /V cầm/V dao/N đâm/V vào/E ngực/N gục/V tại_chỗ/A
+Phú/Np được/V đưa/V đi/R cấp_cứu/V tại/E Bệnh_viện/N Đa_khoa/N Long_Thành/Np trong/E tình_trạng/N thương_tích/N rất/R nặng/A
+Còn/C anh/N Khoa/Np chỉ/R bị_thương/V nhẹ/A
+Tiệm/N áo_cưới/N là/V căn/Nc nhà/N 4/M tầng/N lúc/N xảy_ra/V sự_việc/N chỉ/R có/V nam/N nhân_viên/N trông_coi/V  /EOS
+Nguyên_nhân/N vụ_việc/N đang/R được/V điều_tra/V

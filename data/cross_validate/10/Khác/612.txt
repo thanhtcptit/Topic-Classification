@@ -1,0 +1,20 @@
+Hacker_Nga/Np đang/R tấn_công/V Mỹ/Np tinh_vi/A hơn/R
+Năm_ngoái/N trước/N và/CC trong/E thời_điểm/N bầu_cử/V Tổng_thống/N Mỹ/Np hacker/N Nga/Np hoạt_động/V khá/R mạnh/A
+Đã/R có/V không/R ít/A cuộc/N tấn_công/V nhằm/V vào/E các/L ứng_viên/N Tổng_thống/N bị/V nghi_ngờ/V xuất_phát/V từ/E đây/P
+Tuy_nhiên/C báo_cáo/V mới/R từ/E Time/Np cho/E thấy/V đó/P chỉ/R là/V bề/N nổi/V của/E tảng/N băng/N chìm/V
+Trong/E ấn_bản/N phát_hành/V ngày/N 18/5/M tạp_chí/N này/P tiết_lộ/V một/M bản/N báo_cáo/V chứa/V nhiều/A thông_tin/N khá/R quan_trọng/A về/E hoạt_động/V không_gian/N mạng/N của/E tin_tặc/N Nga/Np bao_gồm/V cả/P việc/N họ/P hoạt_động/V mạnh_mẽ/A sau/E thời_gian/N bầu_cử/V với/E mức_độ/N tinh_vi/A một_cách/N ấn_tượng/A
+Báo_cáo/V này/P có/V từ/E 2/3/M nhưng/C gần/A đây/P mới/R được/V công_khai/V
+Thay_vì/V nhằm/V vào/E các/L chính_trị_gia/N bằng/E cách/N tấn_công/V email/N giờ_đây/N hacker/N Nga/Np đã/R có/V phương_thức/N tấn_công/V tinh_vi/A hơn/R tạp_chí/N viết/V
+Theo/E báo_cáo/N hacker/N Nga/Np đã/R và/CC đang/R triển_khai/V cách_thức/N tấn_công/V phức_tạp/N bằng/E malware/N tới/V hơn/A 10 0/M nhân_viên/N đang/R làm_việc/V tại/E Bộ/N Quốc/Np phòng/N Mỹ/Np thông_qua/V Twitter/Np
+Tùy_thuộc/V vào/E những/L vấn_đề/N mà/C từng/P người/N quan_tâm/V hacker/V sẽ/R gửi/V các/L liên_kết/V như/C về/V giải/N Oscars/Np sự_kiện/N thể_thao/N
+đến/E người/N đó/P
+Chỉ/R cần/V truy_cập/V liên_kết/V địa_chỉ/N web/N sẽ/R tự_động/A trỏ/N về/V máy_chủ/N ở/E Nga/Np
+Thiết_bị/N truy_cập/V sẽ/R tự_động/A tải/N về/V và/CC cài_đặt/V một/M chương_trình/N cho_phép/V kiểm_soát/V tài_khoản/N máy_tính/N smartphone/N và/CC tài_khoản/N Twitter/Np
+Những/L tài_khoản/N Twitter/Np đã/R bị/V tấn_công/V sau/E đó/P có_thể/R bị/V hacker/V theo_dõi/V theo/V thời_gian_thực/N
+Như_vậy/C nhất_cử_nhất_động/X của/E nạn_nhân/N đều/R bị/V phía/N Nga/Np thu_thập/V và/CC sau/E đó/P phục_vụ/V cho/E các/L mục_đích/N riêng/A
+Theo/E giải_thích/V của/E tạp_chí/N này/P thì/C Mối/N đe_dọa/V sẽ/R đến/V từ/E những/L nhân_viên/N đang/R sử_dụng/V Twitter/Np
+Ví_dụ/V trong/E những/L thời_điểm/N quan_trọng/A như/C thiên_tai/V hay/C một/M cuộc/N tấn_công/V khủng_bố/V các/L tài_khoản/N Twitter/Np tại/E Lầu_Năm_Góc/Np có_thể/R bị/V lợi_dụng/V để/E gửi/V thông_tin/N sai_lệch/A các/L điệp_viên/N Nga/Np từ/E đó/P có_thể/R khuếch_đại/V chúng/P lên/R nhằm/V gây_sự/N hoang_mang/V hoảng_sợ/V
+Ngoài_ra/C tạp_chí/N còn/R trích_dẫn/V thông_tin/N lần/N đầu_tiên/A các/L quan_chức/N Mỹ/Np nhận/V được/R kế_hoạch/N can_thiệp/V chưa/R từng/R có/V của/E Nga/Np vào_cuộc/V bầu_cử/V Tổng_thống/N diễn/V ra/R hồi/N tháng/N 5/2016/M
+Tuy_vậy/C họ/P lại/R không/R biết/V làm_gì/X trước/E những/L thông_tin/N này/P
+Cũng/R liên_quan/V đến/E điều_tra/V việc/N Nga/Np can_thiệp/V bầu_cử/V Tổng_thống/N Mỹ/Np Donald_Trump/Np đang/R bày_tỏ/V sự/N bất_mãn/V khi/N bị/V cáo_buộc/V đội_ngũ/N tranh_cử/V của/E ông/N câu_kết/V với/E Nga/Np
+Ông/N cũng/R cho/V rằng/C mình/P bị/V đối_xử/V bất_công/A hơn/R bất_cứ/R chính_trị_gia/N nào/P khác/A

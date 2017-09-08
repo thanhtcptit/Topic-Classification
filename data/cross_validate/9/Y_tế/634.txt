@@ -1,0 +1,18 @@
+Hai/M kíp/N bác_sĩ/N trắng/A đêm/N mổ/V ghép/V đôi/M tay/N đứt/V lìa/V cho/E chàng_trai/N trẻ/A
+Nam/Np thanh_niên/N 23/M tuổi/N quê/N Bình_Phước/Np bị/V chém/V vào/E hai/M tay/N do/E mâu_thuẫn/N trong/E cuộc/N nhậu/V
+Tay_trái/N bị/V đứt/V rời/V tay_phải/A đứt/V gân/N cơ/N mặt/N trước/A bệnh_nhân/N được/V sơ_cứu/V tại/E địa_phương/N
+Những/L người/N cứu_hộ/V đã/R bảo_quản/V phần/N chi/N đứt/V rời/V của/E nạn_nhân/N trong/E túi/N nilon/N rồi/C chuyển/V lên/R TP_HCM/Np trong/E đêm/N cùng/A người_bệnh/N
+Bác_sĩ/N Nguyễn_Văn_An/Np Bệnh_viện/N Chấn_thương/V Chỉnh_hình/N TP_HCM/Np cho_biết/V 2/M kíp/N mổ/V được/V huy_động/V để/E tiến_hành/V phẫu_thuật/V song_song/A nối/V cả/P hai/M tay/N cho/V bệnh_nhân/N
+Hai/M bác_sĩ/N chịu/V trách_nhiệm/N nối/V gân/N mạch_máu/N cẳng_tay/V phải/V kíp/N mổ/V khác/A lo/V vi_phẫu/N nối/V bàn_tay/N phải/V
+Vết/N chém/V tay_trái/N rất/R bén/V đứt/V rời/V ngay/R xương/N cổ_tay/N nên/C bác_sĩ/N phải/V tháo/V bỏ/V một/M phần/N xương/N để/E đảm_bảo/V ca/N nối/V thành_công/N bác_sĩ/N An/Np chia_sẻ/V
+Trải/V qua/R ca/N phẫu_thuật/V từ/E 1h40/M đến/E 5h/M sáng/N cả/P hai/M bàn_tay/N bệnh_nhân/N được/V nối/V hoàn_tất/V
+Một/M tuần/N sau/N mổ/V hai/M tay/N bệnh_nhân/N đều/R đang/R phục_hồi/V tốt/A
+Bác_sĩ/N An/Np khuyến_cáo/N khi/N gặp/V nạn/N đứt/V rời/V chi/N cần/V sơ_cứu/V đúng/A cách/N và/CC kịp_thời/A đưa/V nạn_nhân/N đến/E cơ_sở/N y_tế/N chuyên_khoa/N trong/E thời_gian/N vàng/N là/V những/L giờ/N đầu/N  /M Trường_hợp/N đứt/V lìa/V chi/P  /V khỏi/R cơ_thể/N cần/V  /V cho/E phần/N đứt/V rời/V vào/E túi/N nilon/N sạch/A buộc/V kín/A lại/R
+Nếu/C có_thể/R thì/C bọc/V phần/N rời/V này/P trong/E miếng/Nc gạc/N trước/E khi/N cho/V vào/E túi/N nilon/N
+Đặt/V túi/N nilon/N trong/E đá/N lạnh/A
+Lưu_ý/V tránh/V để_phần/N đứt/V rời/V tiếp_xúc/V trực_tiếp/A với/E đá/N lạnh/A vì/E dễ/A làm/V mạch_máu/N và/CC dây_thần_kinh/N bị/V hỏng/V
+Phần/N tổn_thương/N còn/V lại/R trên/E cơ_thể/N nên/C băng/N bằng/E băng/N ép/V hay/C vải/N sạch/A để/E hạn_chế/V mất/V máu/N
+Tuyệt_đối/A không/R rắc/V thuốc/N hay/C lá/N dân_gian/N lên/V phần/N vết_thương/N  /EOS
+Nếu/C phần/N chi/V dập/V nát/A vẫn/R chưa/R đứt/V lìa/V vẫn/R còn/V máu/N nuôi_dưỡng/V cần/V lấy/V vải/N sạch/A hoặc/CC gạc/V bọc/V ngay/R phần/N vết_thương/N dập/V nát/A
+Phần/N phía/N trên/A vết_thương/N dập/V nát/A có_thể/R dùng/V tay/N  /V bóp/V chặt/A hoặc/CC băng/V lại/R để/E giúp/V hạn_chế/V mất/V máu/N và/CC chuyển/V đến/E bệnh_viện/N chuyên_khoa/N  /M Trường/N
+hợp/V di_chuyển/V xa/A nên/C băng/N gạc/N kèm/V thanh/N gỗ/N thẳng/A để/E cố_định/V phần/N chi/V sắp/R đứt/V lìa/V trên/E đường/N đi/V

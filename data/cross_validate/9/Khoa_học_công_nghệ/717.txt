@@ -1,0 +1,20 @@
+Công_nghệ/N mới/R phát_hiện/V độc_tố/N trong/E thực_phẩm/N
+Máy_Soeks/Np khá/R tiện_lợi/A và/CC dễ_dàng/A trong/E sử_dụng/V
+Người/N tiêu_dùng/V chỉ/R cần/V chọn/V sản_phẩm/N rau/N củ/N quả/N thịt/N cần/V kiểm_tra/V trên/N danh_bạ/N
+Sau/E đó/P cắm_đầu/V kim/N vào/E mẫu_vật/N cần/V kiểm_tra/V chờ/V khoảng/A 15/M 20/M giây/N sẽ/R cho/V ra/R kết_quả/N hàm_lượng/A cũng_như/C có/V chuẩn/N an_toàn/A để/E so_sánh/V
+Nếu/C thực_phẩm/N an_toàn/A máy/N sẽ/R báo/V màu/N xanh/A nếu/C vượt/V ngưỡng/N thấp/A mấy/L báo/N màu/N vàng/N
+Khi/N vượt/V mức/N nguy_hiểm/N máy/N sẽ/R báo/V màu/N đỏ/A
+Thời_gian/N qua/V thịt/N lợn_thịt/V gà/N trên/E thị_trường/N thường_xuyên/A bị/V phát_hiện/V dương_tính/A với/E các/L chất/N cấm/V nguy_hại/V tới/E sức_khỏe/N con_người/N
+Điển_hình/A là/C chất/N sabultamol/N C13H21NO3/Np là/V chất/N tạo/V nạc/N dùng/V trong/E chăn_nuôi/N săm/V pết/N KNO3/Np là/V hóa_chất/N dùng/V biến/V thịt/N thối/V thành/V thịt/N tươi/A sodium/N nitrat/N NaNO3/Np sodium/V nitrit/N NaNO2/Np giúp/V giữ/V màu/N và/CC bảo_quản/V thực_phẩm/N
+Điểm/N chung/A của/E các/L loại/N hóa_chất/N trên/E đều/R là/V nguyên_tố/N có/V gốc/N nitrat/N hoặc/CC nitrit/N
+Dư_lượng/N nitrat/N N0/Np 3/M trong/E mô/P thực_vật/N vượt/V quá/R ngưỡng/N an_toàn/A được/V xem/V như/C một/M độc_tố/N và/CC tồn_dư/N N0/Np 3/M trong/E thực_phẩm/N sẽ/R ảnh_hưởng/V xấu/A đến/E sức_khỏe/N có_thể/R gây/V ung_thư/N cho/E người/N sử_dụng/V
+Đối_với/E các/L chỉ_tiêu/N về/V vi_sinh_vật/N thuốc/N bảo_vệ/V thực_vật/N kim_loại/N nặng/A khi/N rửa/V sạch/A gọt/V vỏ/N hay/C cách_ly/V trong/E một/M thời_gian/N nhất_định/V sẽ/R xử_lý/V hoặc/CC làm/V giảm/V lượng/N lớn/A độc_tố/N còn/C tồn_dư/V bên/N ngoài/N sản_phẩm/N
+Tuy_nhiên/C với/E nitrat/N thì/C gần_như/R không_thể/R xử_lý/V được/R vì/E nó/P đã/R ngấm/V vào/E trong/E tế_bào/N động/V thực_vật/N
+Vì_vậy/C người/N dùng/V cần/V phát_hiện/V dư_lượng/N nitrat/N vượt/V quá/R ngưỡng/N cho_phép/V để/E không/R sử_dụng/V hoặc/CC giảm/V bớt/V lượng/N nhằm/V tránh/V gây/V hại/V cho/E cơ_thể/N
+Theo/E phương_pháp/N truyền_thống/N muốn/V phát_hiện/V nitrat/N trong/E rau/N củ/N quả/N thịt/N tươi/A có/V vượt/V ngưỡng/N cho_phép/V hay/C không/R cần/V tiến_hành/V lấy/V mẫu_vật/N sinh_hóa/V tại/E các/L phòng/N phân_tích/V
+Hiện_nay/N với/E sự/Nc hỗ_trợ/V của/E máy/N Soeks/Np người/N tiêu_dùng/V sẽ/R biết/V kết_quả/N trong/E vòng/N 15/M 20/M giây/Nu
+Máy_Soeks/Np hoạt_động/V theo/E phương_pháp/N điện/N sinh_hóa/V cho/E kết_quả/N dựa/V trên/E việc/N đánh_giá/V mật_độ/N của/E ion/N nitrat/N
+Sự/N phân_bố/V của/E ion/N nitrat/N tại/E các/L vị_trí/N khác_nhau/A trên/E thực_phẩm/N có_thể/R hoàn_toàn/A khác_nhau/A và/CC thay_đổi/V theo/V thời_gian/N
+Vì_vậy/C để/E có/V kết_quả/N chính_xác/A nhất/R các/L bà/N nội_trợ/V nên/C đo/V ở/E 3/M điểm/N khác_nhau/A trên/E cùng/A một/M loại/N thực_phẩm/N và/CC lấy/V giá_trị/N trung_bình/A để/E đánh_giá/V
+Máy/N đo/V dư_lượng/N nitrat/N Soeks/Np đã/R được/V Cục/N An/Np toàn/R Thực_phẩm/N Bộ/N Y_tế/N cấp/V phép/N lưu_hành/V tại/E Việt_Nam/Np
+Trước/E đó/P hội_đồng/N thẩm_định/V chuyên_môn/N gồm/V đại_diện/N của/E Cục/N An/Np toàn/R Thực_phẩm/N Viện_Dinh/Np dưỡng/V Viện_Kiểm/Np nghiệm/V An_toàn/A thực_phẩm/N Trung_tâm/N kỹ_thuật/N Tiêu_chuẩn/N Đo_lường/Np Chất_lượng/N 1/M đã/R kết_luận/V sản_phẩm/N Soeks_Nuc/Np 019/M 1/M đủ/A điều_kiện/N lưu_hành/V tại/E Việt_Nam/Np khi/N có/V kết_quả/N khá/R tương_đồng/A với/E kết_quả/N phân_tích/V tại/E phòng_thí_nghiệm/N

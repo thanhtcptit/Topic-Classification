@@ -1,0 +1,21 @@
+Mỹ/Np phát_triển/V công_nghệ/N nhìn/V xuyên/V tường/N
+Mang/V tên/N RF/Np Capture/Np thiết_bị/N hoạt_động/V bằng/E cách/N truyền/V và/CC nhận/V tín_hiệu/N không/R dây/N phát/V xuyên/V tường/N
+Khi/N bức_xạ/V không/R dây/N chạm/V đến/E cơ_thể/N người/N nó/P sẽ/R được/V phản_chiếu/V lại/R
+Tín_hiệu/N truyền/V về/E sẽ/R được/V thu_nhận/V và/CC phân_tích/V
+Theo/E nhóm/N nghiên_cứu/V ở/E Viện/N công_nghệ/N Massachusets/Np MIT/Np bức_xạ/N này/P khá/R nhỏ/A chỉ/R bằng/E 1/10/M 000/M bức_xạ/N do/E một/M chiếc/Nc điện_thoại_di_động/N thông_thường/A phát/V ra/R
+Do/C cùng/A loại/N tín_hiệu/N truyền/V về/V từ/E mọi/L vị_trí/N khác_nhau/A trên/E cơ_thể/N nhóm/N nghiên_cứu/V cần/V xử_lý/V tín_hiệu/N một_cách/N chính_xác/A nhằm/V nhận_biết/V nhiều/A bộ_phận/N cơ_thể/N
+Chúng_tôi/P có_thể/R lọc/V những/L tín_hiệu/N có/V ý_nghĩa/N thông_qua/V một/M loạt/N thuật_toán/N
+Chúng/P được/V phát_triển/V để/E giảm/V tối_đa/A tiếng/N ồn/A ngẫu_nhiên/A do/E quá_trình/N phản_chiếu/V sinh_ra/V Gizmag/Np hôm/N 2/11/M dẫn/V lời/N Dina_Katabi/Np giám_đốc/N Trung_tâm/N Vô_tuyến/Np ở/E MIT/Np
+Đầu_tiên/N RF/Np Capture/Np tạo/V ra/R bản/N quét/V 3D/M của/E toàn_bộ/L không_gian/N nhằm/V nhận_biết/V các/L vật_thể/N trong/E môi_trường/N bao_gồm/V cả/P con_người/N
+Khi/N có/V người/N di_chuyển/V trong/E môi_trường/N đó/P thiết_bị/N theo_dõi/V những/L tín_hiệu/N phản_chiếu/V từ/E cơ_thể/N họ/P
+Sau/E đó/P nó/P xâu_chuỗi/V ảnh/N phản_chiếu/V theo/E thời_gian/N và/CC dựng/V lại/R hình_dáng/N con_người/N
+Để/E phân_biệt/V nhiều/A người/N khác_nhau/A nhóm/N nghiên_cứu/V lập_trình/V cho/E thiết_bị/N sử_dụng/V những/L yếu_tố/N như/C hình_dáng/N con_người/N và/CC chiều_cao/N để/E tạo/V ra/R chân_dung/N cụ_thể/A của/E từng/P người/N
+Hiện_nay/N thiết_bị/N có_thể/R vạch/V hình/N bàn_tay/N của/E một/M người/N viết/V vào/E không_khí/N qua/V lớp/N tường/N và/CC cửa/N đóng/V kín/A
+Nó/P có_thể/R phân_biệt/V 15/M cá_nhân/N với/E độ_chính_xác/N lên/R tới/V 90/M %/N
+Công_nghệ/N này/P có/V nhiều/A ứng_dụng/N tiềm_năng/N trong/E thiết_kế/N game/N cấp_cứu/V bệnh_nhân/N và/CC ghi_hình/V chuyển_động/V trong/E sản_xuất/N phim/N
+RF/Np Capture/Np cho_phép/V ghi/V lại/R chuyển_động/V mà/C không/R cần/V các/L máy/N cảm_biến/V cơ_thể/N và/CC có_thể/R theo_dõi/V những/L cử_động/N của/E diễn_viên/N khi/N họ/P ở/E sau/N đồ_vật/N hoặc/CC một/M bức/Nc tường/N Fadel_Adib/Np nghiên_cứu_sinh/N tiến_sĩ/N ở/E MIT/Np và/CC tác_giả/N chính/A của/E nghiên_cứu/N cho_biết/V
+Ngoài_ra/C khả_năng/N ghi_hình/V chuyển_động/V của/E thiết_bị/N còn/R có_thể/A ứng_dụng/V cho/E những/L ngôi/Nc nhà/N thông_minh/A hoặc/CC chăm_sóc/V người/N lớn_tuổi/A
+Chúng_tôi/P đang/R nghiên_cứu/V để/E biến/V công_nghệ/N này/P thành/V một/M thiết_bị/N trong/E gia_đình/N có_thể/A gọi/V cấp_cứu/V nếu/C phát_hiện/V một/M thành_viên/N trong/E nhà/N ngã/V bất_tỉnh/A
+Ngoài_ra/C nó/P có_thể/R được/V dùng/V để/E bật/V đèn/N và/CC TV/Np hoặc/CC điều_chỉnh/V hệ_thống/N sưởi/V khi/N theo_dõi/V vị_trí/N của/E bạn/N trong/E ngôi/Nc nhà/N Katabi/Np nói/V
+Nhóm/N nghiên_cứu/V đang/R trong/E quá_trình/N thương_mại_hóa/V công_nghệ/N thông_qua/V một/M sản_phẩm/N mang/V tên/N Emerald/Np nhằm/V phát_hiện/V và/CC phòng_ngừa/V tai_nạn/N ở/E những/L người/N lớn_tuổi/A
+Họ/P đã/R giới_thiệu/V Emerald/Np trước/E tổng_thống/N Obama/Np tại/E Nhà_Trắng/Np cách/V đây/P vài/L tháng/N

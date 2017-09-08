@@ -1,0 +1,11 @@
+​/V Một/M người/N mất_tích/V 4/M người/N bị_thương/V do/N mưa_lũ/N
+Tin/V từ/E Văn_phòng/N Ban/N chỉ_đạo/V Trung_ương/N về/V Phòng_chống/V thiên_tai/N ngày/N 286/M cho/V biết/V mưa/N lớn/A gây/V thiệt_hại/A cho/E các/L tỉnh/N miền/N núi/N phía/N Bắc/Np và/CC Bình_Thuận/Np 1/M người/N bị/V lũ/N cuốn/V mất_tích/V 4/M người/N bị_thương/V do/N sét/V đánh/V
+Cụ_thể/N tại/E Hà_Giang/Np đã/R xảy/V ra/R trường_hợp/N ông/N Giàng_Mí_Nô/Np 41/M tuổi/N ở/E thôn/N Pả_Vi_Hạ/Np xã/N Pả_Vi/Np huyện/N Mèo_Vạc/Np bị/V nước/N cuốn/V trôi/V cả/P người/N và/CC xe/N khi/N đi/V qua/R địa_phận/N thôn/N Chấu/Np xã/N Xín_Cái/Np
+Hà_Giang/Np có/V 4/M người/N bị_thương/V do/N sét/N đánh/V gồm/V chị/N Phàn_Thị_Xuân/Np 26/M tuổi/N và/CC hai/M con/N Phàn_Thị_Xuyên/Np 4/M tuổi/N Phàn_Văn_Vân/Np 3/M tuổi/N tại/E thôn/N Phiêng_Lang/Np xã/N Khuôn_Lùng/Np huyện/N Xín_Mần/Np
+bà/N Vàng_Thị_Dính/Np tại/E thôn/N Sảng_Chải/Np B/Np xã/N Lũng_Pù/Np huyện/N Mèo_Vạc/Np
+Mưa_lũ/N làm/V hư_hỏng/N 32/M nhà/N Lai_Châu/Np 10/M căn/N Hà_Giang/Np 18/M căn/N Bình_Thuận/Np 4/M căn/N
+Có/V 428/M nhà/N bị/V ngập/V tại/E Lai_Châu/Np và/CC Cao_Bằng/Np
+Mưa_lũ/N cũng/R làm/V thiệt_hại/A 134/M ha/N lúa/N 101/M ha/N hoa_màu/N rau/N chết/V 20/M con/N gia_súc/N
+sạt_lở/V 21780/M m3/Nu đường/N giao_thông/N
+Ước_tính/V tổng/N thiệt_hại/N 21029/M tỉ/M đồng/Nu
+Ngoài_ra/C tại/E Bình_Dương/Np do/E ảnh_hưởng/N của/E xả/N tràn/N hồ/N Dầu_Tiếng/Np nên/V đến/V 9h/M ngày/N 276/M trên/N địa_bàn/N huyện/N Dầu_Tiếng/Np bị/V ngập/V 13/M ha/Nu lúa/N 30/M ha/N cao_su/N

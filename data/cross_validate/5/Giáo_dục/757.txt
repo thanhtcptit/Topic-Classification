@@ -1,0 +1,25 @@
+Chàng_trai/N xứ/N Nghệ/N đạt/V 30/M điểm/N khối/N B/N
+Sáng/N 6/7/M Hồ_Phí_Khánh/Np học_sinh/N THPT/Np Hoàng_Mai/Np /M thị_xã/N Hoàng_Mai/Np Nghệ_An/Np /M đang/R là/V một/M trong/E 4/M thí_sinh/N dẫn_đầu/V cả/P nước/N về/V điểm/N xét/V tuyển/V khối/N B/N với/E số/N điểm/N tuyệt_đối/A 3/M môn/N Toán/Np Hóa/Np Sinh/Np
+Ngoài_ra/C môn/N Lý/Np em/N được/V 8/M Văn/Np 6,5/M và/CC tiếng/N Anh/N 6/M
+Khánh/Np kể/V đêm/N qua/V vào/E bệnh_viện/N huyện/N thăm/V người/N bạn/N bị/V ốm/V nên/C ngủ/V lại/R để/E chăm_nom/V
+Sớm/N nay/P khi/N đứng/V ở/E sảnh/N bệnh_viện/N nhận/V được/R tin/N nhắn/V của/E cô_giáo/N thông_báo/V kết_quả/N điểm/N thi/V khiến/V em/N vỡ/V oà/N
+Em/N đã/R òa/V khóc/V khi/N nhận/V được/R thông_tin/N từ/E cô_giáo/N
+Lấy/V lại/R bình_tĩnh/A em/N gọi/V điện/N thông_báo/V tới/E bố_mẹ/N và/CC một_số/L bạn_bè/N
+Chạy/V xe/N về/V tới/V nhà/N thì/C bố_mẹ/N ôm_chầm/V lấy/V xoa/N xuýt/A thế_là/C em/N lại/R khóc/V vì/E vui_sướng/N Khánh/Np kể/V
+Nam_sinh/N chia_sẻ/V hôm/N hoàn_thành/V kỳ/N thi/V tự/P chấm/V 3/M môn/N khối/N B/N đạt/V điểm/N tuyệt_đối/A
+Song/C em/N vẫn/R có/V chút/N lo_lắng/V vì/E xác_suất/N sai_sót/N vẫn/R có_thể/A xảy_ra/V do/E khối_lượng/N câu_hỏi/N cho/E 3/M môn/N thi/V nhiều/A  /EOS
+Bước/V vào/E mỗi/L môn/N thi/V nhất_là/X môn/N sở_trường/N khối/N B/Np Khánh/Np luôn/R áp_dụng/V nguyên_tắc/N dành/V một/M phút/N lướt/V nhanh/A qua/E cấu_trúc/N toàn/N đề/N thi/V sau/N đó/P làm/V lần_lượt/R từ/E đầu/N đến/E cuối/N
+Vì_vậy/C môn/N Toán/Np và/CC Sinh/Np em/N dư/A 10/M phút/Nu Hóa/V dư/N 5/M phút/Nu sau/E khi/N hoàn_thành/V bài_làm/N
+Em/N làm/V câu/N nào_là/N tự_tin/V chắc/A câu/N đó/P
+Kết_thúc/V bài/N thi/V em/N dù/C có/V thừa/A thời_gian/N nhưng/C chỉ/R xem_lại/V mình/P có/V đánh/V nhầm/V kết_quả/N hay/C không/R chứ/C không/R cần/V tính_toán/V lại/R những/L câu/N đã/R làm/V Khánh/Np nói/V
+Về/V bí_quyết/N học_tập/V và/CC luyện/V thi/V đạt/V kết_quả/N cao/A Khánh/Np cho_biết/V đã/R luyện/V khoảng/N 450/M bộ/N đề/N thi/V thử/V cho/E 3/M môn/N khối/N B/N
+Do_đó/C khi/N tiếp_xúc/V với/E đề/N thi/V em/N không/R bất_ngờ/A  /M Ngoài/N kiến_thức/N học/V ở/E trường/N Khánh/Np thường/R dành/V nhiều/A thời_gian/N cho/V học/V online/V
+Theo/E nam_sinh/N đây/P là/V  /M phương_pháp/N học/V khá/R hay/C bởi/E mọi/L người/N có_thể/R tranh_thủ/V được/R bất_cứ/R thời_gian/N nào/P trong/E ngày/N
+Ở/E mỗi/L bài/N giảng/N của/E giáo_viên/N em/N có_thể/R tương_tác/V bằng/E cách/N nhắn_tin/V trực_tiếp/A để/E hỏi/V hoặc/CC đối_đáp/V
+Với/E số/N điểm/N khối/N B/N tuyệt_đối/A chàng_trai/N quê/N Nghệ_An/Np sẽ/R xét/V tuyển/V vào/E Đại_học/N Y_Hà_Nội/Np
+Từ/E năm/N lớp/N 10/M em/N đã/R ước_mơ/N được/V làm/V bác_sĩ/N  /Np Xem/V đọc/V và/CC chứng_kiến/V thực_tế/N nhiều/A người/N quanh/N mình/P mang/V bệnh_tật/N phần/N vì/E khó_khăn/N mà/C không_thể/R cứu_chữa/V kịp_thời/A em/N đã/R nhiều/A lần/N khóc/V Khánh/Np chia_sẻ/V
+Anh/N Hồ_Phi_Trí/Np /M 44/M tuổi/N bố/N của/E Khánh/Np /Np cho_biết/V đang/R sửa/V xe_máy/N cho/E khách/N thì/C nghe/V con/N điện_thoại/N thông_báo/V nên/C vội_vàng/V đóng/V quán/N về/V nhà/N ôm/V lấy/V con/Nc
+Vợ_chồng/N làm/V nghề/N nông/N lúc/N nhàn_rỗi/A anh/N làm/V thêm/V nghề/N sửa/V xe/N bán/V tạp_hóa/N
+Là/V con/N út/A những/L lúc/N rảnh_rỗi/A Khánh/Np phụ_giúp/V bố_mẹ/N dọn/V hàng/N nấu_nướng/V
+Thầy_Thịnh_Văn_Nam/Np giáo_viên/N dạy/V Sinh/Np online/V đánh_giá/V Hồ_Phi_Khánh/Np thông_minh/A có/V quan_điểm/N học_tập/V rất/R tốt/A
+Trước/E nguồn/N tài_liệu/N trôi_nổi/A trên/E mạng/N rất/R nhiều/A nhưng/C Khánh/Np biết/V lựa_chọn/V để/E có/V nguồn/N kiến_thức/N tốt/A nhất/R

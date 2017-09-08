@@ -1,0 +1,13 @@
+Việt_Nam/Np có/V gần/A 800/M trường_hợp/N nhiễm/V mã/N độc/A WannaCry/N
+Các/L trường_hợp/N bị/V nhiễm/V nằm/V chủ_yếu/A tại/E các/L thành_phố/N lớn/A như/C Hà_Nội/Np Đà_Nẵng/Np TPHCM/Np và/CC các/L tỉnh/N lân_cận/A
+Cụ_thể/N tại/E Hà_Nội/Np số_lượng/N máy/N bị/V lây_nhiễm/V khoảng/A 400/M
+TPHCM/Np là/V 200/M chủ_yếu/N là/V server/N
+Nạn_nhân/N của/E WannaCry/N tại/E Việt_Nam/Np phần_lớn/N là/V các/L doanh_nghiệp/N vừa/R và/N nhỏ/A với/E hệ_thống/N cảnh_báo/N bảo_mật/V khá/R mỏng/A yếu/A
+các/L doanh_nghiệp/N cung_cấp/V và/N cho/V thuê/V server/N tên_miền/V dữ_liệu/N hệ_thống/N và/CC các/L doanh_nghiệp/N kinh_doanh/V trực_tuyến/A có/V các/L hoạt_động/N chia_sẻ/V file/N lưu_trữ/N dữ_liệu/N lớn/A
+Hiện_tại/N chưa/R có/V cách/N nào/N để/E giải_quyết/V việc/N khôi_phục/V các/L file/N đã/R bị/V mã_hoá/V có/V doanh_nghiệp/N đã/R chấp_nhận/V trả/V tiền/N để/E chuộc/V lại/R dữ_liệu/N của/E mình/P theo/V CMC/Np InfoSec/V
+Tuy_nhiên/C số_lượng/N bị/V ảnh_hưởng/V bởi/E WannaCry/N kể/V trên/N chỉ/R là/V con_số/N do/E CMC/Np InfoSec/V ghi_nhận/N
+Trên/E thực_tế/N số_lượng/N trường_hợp/N bị/V nhiễm/V WannaCry/N tại/E Việt_Nam/Np có_thể/R lớn/A hơn/R
+Thống_kê/N của/E BKAV/Np thì/C chỉ/R ra/V có/V tới/N 52/M máy_tính/N tồn_tại/V lỗ_hổng/N EternalBlue/N
+Đây/P là/V lỗ_hổng/N đang/R bị/V mã/V độc/A mã_hoá/N tống_tiền/N WannaCry/N khai_thác/V để/E tấn_công/V mã_hoá/N dữ_liệu/N của/E người_dùng/N trên/E khắp/A thế_giới/N
+Trước/E đó/P các/L đơn_vị/N chuyên_môn/N về/V an_toàn/N thông_tin/N tại/E Việt_Nam/Np cũng/R đưa/V ra/R khuyến_cáo/N xử_lí/N cập_nhật/V bản/N vá/V để/E chống/V mã/N độc/N
+Trung_tâm/N VNCERT/Np cũng/R đã/R phát/V lệnh/N điều_phối/V yêu_cầu/V các/L đơn_vị/N trên/E toàn_quốc/N theo_dõi/V chặn/V kết_nối/N đến/V các/L máy_chủ/N điều_khiển/N mã/V độc/A nguy_hiểm/A này/P

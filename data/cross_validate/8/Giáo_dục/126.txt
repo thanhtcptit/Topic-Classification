@@ -1,0 +1,6 @@
+Trường/N ĐH/N đầu_tiên/A đào_tạo/V nhân_lực/N ngành/N bán_lẻ/V
+Trường/N ĐH/N Công_nghiệp/N TPHCM/Np vừa/R tổ_chức/V khánh_thành/V Trung_tâm/N đào_tạo/V nguồn/N nhân_lực/N LOTTE/Np KOICA/Np IUH/Np LKIC/Np
+Trung_tâm/N LKIC/Np nằm/V trong/E khuôn_khổ/N hợp_tác/V giữa/N chính_phủ/N hai/M nước/N Việt_Nam/Np Hàn_Quốc/Np về/V dự_án/N phát_triển/V toàn_diện/N ngành/N công_nghiệp/N phân_phối/N bán_lẻ/N của/N Việt_Nam/Np
+Theo/E TS/N Nguyễn_Thiên_Tuế/Np hiệu_trưởng/N Trường/N ĐH/N Công_nghiệp/N TPHCM/Np Trung_tâm/N LKIC/Np là/V đơn_vị/N đầu_tiên/A tại/E Việt_Nam/Np chuyên/V đào_tạo/V nguồn/N nhân_lực/N phục_vụ/V trong/E ngành/N công_nghiệp/N bán_lẻ/N
+Với/E chương_trình/N đào_tạo/V phong_phú/N sát/A với/E nhu_cầu/N thực_tế/N từ/E kĩ_năng/N giao_tiếp/V với/E khách/N hàng/N nghiệp_vụ/N quản_lí/N kho/V đến/R nghiệp_vụ/N quản_lí/V sản_phẩm/N marketing/N khả_năng/N ngoại_ngữ/N
+trung_tâm/N dự_kiến/V sẽ/R đào_tạo/V ra/R nguồn/N nhân_lực/N chuyên_nghiệp/A đáp_ứng/V nhu_cầu/N cao/A của/E ngành/N công_nghiệp/N bán_lẻ/N Việt_Nam/Np

@@ -1,0 +1,11 @@
+Nữ/N đại_gia/N thủy_sản/N vụ/N lừa/V hơn/A 1 0/M tỷ/Nu đồng/N lĩnh/V án/N
+Chiều/N 10/7/M TAND/Np tỉnh/N Cà_Mau/Np tuyên_án/V sơ_thẩm/V đối_với/E giám_đốc/N 7/M công_ty/N thủy_sản/N ở/E Cà_Mau/Np cùng/C 8/M người/N từng/R là/V cán_bộ/N Ngân_hàng/N Phát_triển/V Việt_Nam/Np /V VDB/Np Chi_nhánh/Np Minh_Hải/Np /V tội/N Lừa_đảo/V chiếm_đoạt/V tài_sản/N và/CC Vi_phạm/V quy_định/N về/V cho/V vay/V trong/E hoạt_động/N của/E các/L tổ_chức/N tín_dụng/N
+Vụ_án/N được/V xét_xử/V suốt/A hơn/R tháng/N qua/R  /EOS
+Nguyên/Np nữ/N giám_đốc/N Xí_nghiệp/N kinh_doanh/V chế_biến/V thủy_sản/N và/CC xuất_khẩu/V Ngọc_Sinh_Đặng_Thị_Ngợi/Np bị/V kết_án/V cao/A nhất/A với/E 16/M năm/N tù_giam/A dù/C vắng_mặt/V với/E lý_do/N sức_khỏe/N
+Những/L người/N còn/V lại/R chịu/V án_treo/N và/CC án/N tù/N từ/E 1/M năm/N đến/V 14/M năm/N về/V tội/N Lừa_đảo/V chiếm_đoạt/V tài_sản/N
+Cựu_Giám/Np đốc/V VDB/Np Minh_Hải_Trịnh_Tuấn_Mẫn/Np lĩnh/V 12/M năm/N tù_giam/A Phó_giám_đốc/N Vũ_Văn_Hoan/Np nhận/V 7/M năm/N tù/N
+Riêng/T 6/M người/N nguyên/A là/V cán_bộ/N ngân_hàng/N chịu/V án_treo/N và/CC án/N tù/N từ/E 18/M tháng/N đến/V 7/M năm/N tù_giam/V về/E tội/N Vi_phạm/V quy_định/N về/V cho/V vay/V trong/E hoạt_động/N của/E các/L tổ_chức/N tín_dụng/N
+HĐXX/Np còn/V buộc/V 7/M giám_đốc/N các/L doanh_nghiệp/N hoàn_trả/V lại/R hơn/A 1 0/M tỷ/Nu đồng/N đã/R chiếm_đoạt/V cho/E ngân_hàng/N
+Trong/E đó/P bà/N Ngợi/Np phải/V hoàn_trả/V số/N tiền/N cao/A nhất/A hơn/A 300/M tỷ/N đồng/N
+Theo/E cáo_trạng/N từ/E năm/N 2009/M đến/E 2011/M giám_đốc/N 7/M công_ty/N ở/E Cà_Mau/Np chỉ_đạo/V cấp/N dưới/N lập/V hồ_sơ/N tài_chính/N khống/V vay/V vốn/N VDB/Np Minh_Hải/Np rồi/C chiếm_đoạt/V hơn/R 1 9/M tỷ/N đồng/N
+Họ/P bị/V cáo_buộc/V sử_dụng/V số/N tiền/N trái/N mục_đích/N dẫn/V đến/E mất/V khả_năng/N thanh_toán/V

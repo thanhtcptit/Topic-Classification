@@ -1,0 +1,62 @@
+Giải_mã/N M cơn_sốt/N V cổ_phiếu/N Hòa_Phát/Np
+Năm/N 2015/M Tập_đoàn/N Hoà_Phát/Np /V Mã/Np CK/Np HPG/Np /V đạt/V doanh_thu/N 1,2/M tỷ/Nu USD/Nu lợi_nhuận/N sau/E thuế/N 3 4/M tỷ/N đồng/N
+Ngành/N sản_xuất/V thép/N vẫn/R là/V mảng/N sản_xuất/V kinh_doanh/V đóng_góp/V lớn/A nhất/R vào/E cơ_cấu/N doanh_thu/N và/CC lợi_nhuận/N của/E Tập_đoàn/N lần_lượt/R chiếm/V 79%/M và/CC 82%/M  /EOS
+Gần/A đây/P một_số/L quỹ/N ngoại/A đã/R bán/V ra/R lượng/N lớn/A cổ_phiếu/V HPG/Np
+PENM/Np Partners/Np vừa/R thông_báo/V bán/V 8/M triệu/M cổ_phần/N trong/E tháng/N này/P sau/E 8/M năm/N gắn_bó/V
+Trước/E đó/P trong/E tháng/N 5/2016/M quỹ/N cũng/R bán/V 13/M triệu/N cổ_phiếu/V HPG/Np
+Ngoài/E PENM/Np từ/E giữa/N năm/N 2015/M một_số/M quỹ/N ngoại/N khác/A như/C VinaCapital/Np Deutsche_Bank/Np Dragon_Capital/Np đã/R thoái/V bớt/V vốn/N đầu_tư/V tại/E Hoà_Phát/Np
+Tính/V đến/E nay/N khối/N ngoại/N nắm/V giữ/V hơn/R 36%/M cổ_phần/N tập_đoàn/N này/P
+Giới/N đầu_tư/V cho/V rằng/C các/L quỹ/N ngoại/N đang/R tháo_chạy/V khỏi/V Hoà_Phát/Np
+Tuy_nhiên/C sau/E khi/N xem_xét/V kỹ/A động_thái/N rút/V vốn/R có_thể/R thấy/V nguyên_nhân/N không/R nằm/V ở/E phía/N Hoà_Phát/Np mà/C chủ_yếu/A do/E nội_bộ/N các/L quỹ/N muốn/V tái/A cơ_cấu/N đầu_tư/V
+Như/C PEMM/Np hoạt_động/V theo/E mô_hình/N quỹ/N đóng/V trong/E 10/M năm/N mua/V HPG/Np từ/E năm/N 2008/M đến/E nay/P quỹ/N sẽ/R thoái/V vốn/R dần/R để/E thu/V tiền/N về/V hoàn_trả/V cho/E các/L nhà_đầu_tư/N
+Bị/V khối/N ngoại/N bán/V mạnh/A bối_cảnh/N ngành/N thép/N còn/V nhiều/A khó_khăn/N song/C HPG/Np đã/R lội/V ngược/A dòng/N ngoạn_mục/A
+Dòng/N tiền/N vẫn/R đổ/V vào/E HPG/Np thị_giá/N tăng/V tới/E hơn/A 10 0/M đồng/Nu chỉ/R trong/E hai/M tháng/N gần/A đây/P
+Nếu/C tính_từ/V đầu/N năm/N 2016/M HPG/Np đã/R tăng/V trên/E 50%/M
+Hiện/N HPG/Np đang/R giao_dịch/V ở/E mức/N gần/A 40 0/M đồng/Nu
+Hơn_nữa/C HPG/Np cũng/R là/V một/M trụ/N vững_chắc/A của/E thị_trường/N trong/E cơn/Nc khủng_hoảng/N Brexit/Np khi/N vẫn/R giữ/V giá/N khối_lượng/N giao_dịch/V ở/E mức/N khá/R cao/A có/V phiên/N đạt/V trên/E 12/M triệu/N đơn_vị/N
+Xét/V về/E các/L chỉ_số/N ROE/Np tỷ_suất/N sinh_lợi/V trên/E vốn/N chủ_sở_hữu/N Hòa_Phát/Np vẫn/R luôn/R ở/E mức/N cao/A so/V với/E các/L doanh_nghiệp/N sản_xuất/V công_nghiệp/N khác/A
+Cụ_thể/A giai_đoạn/N 2013-2015/M ROE/Np trung_bình/A đạt/V mức/N ấn_tượng/N 26,1%/M trong/E khi/N mức/N trung_bình/A các/L doanh_nghiệp/N sản_xuất/V công_nghiệp/N khác/A khoảng/A trên/E 10%/M tỷ_suất/V lợi_nhuận/N cho/E nhà_đầu_tư/N đạt/V 160,5%/M  /EOS
+Cơn_sốt/N HPG/Np hút/V dòng/N tiền/N lớn/A bắt_nguồn/V từ/E chiến_lược/N phát_triển/V của/E Hoà_Phát/Np trong/E những/L năm/N gần/A đây/P
+Tập_đoàn/N thường/R là/V người/N đến/E sau/N nhưng/C có/V chiến_lược/N đầu_tư/V khá/R bài_bản/A chắc_chắn/A trên/E nền_tảng/N nguồn_lực/N tài_chính/N dồi_dào/A
+Vì_vậy/C công_ty/N không/R ngại/V dấn_thân/V vào/E các/L lĩnh_vực/N mới/R
+Từ/E năm/N 2015/M trở_lại/V đây/P Hoà_Phát/Np có/V nhiều/A thay_đổi/V trong/E chiến_lược/N phát_triển/V khi/N quyết_định/V đầu_tư/V vào/E nông_nghiệp/N cụ_thể/A là/V chăn_nuôi/V bò/N nuôi/V lợn/N và/CC sản_xuất/V thức_ăn/N chăn_nuôi/V
+Đại_gia/N này/P cũng/R đầu_tư/V lớn/A vào/E sản_xuất/V tôn/N mạ/V một/M lĩnh_vực/N mà/C Tập_đoàn/N Hoa_Sen/Np từ/E lâu/A đã/R chiếm_lĩnh/V thị_trường/N trong/E nước/N và/CC thế_giới/N
+Đầu_tư/V vào/E những/L lĩnh_vực/N đã/R có/V quá/R nhiều/A đối_thủ/N lớn/A Hoà_Phát/Np gặp/V nhiều/A ý_kiến/N trái/A chiều/N
+Tuy_nhiên/C xét/V về/E lâu_dài/A nhu_cầu/N đa_dạng_hoá/N ngành_nghề/N của/E Hoà_Phát/Np trong/E lúc/N này/P là/V một/M chiến_lược/N khôn_ngoan/A hướng/V đến/E sự/N phát_triển/V bền_vững/A  /EOS
+Giới/N đầu_tư/V cho/V rằng/C trong/E ngành/N thép/N Hoà_Phát/Np là/V “/M ông_hoàng/N ”/A nhưng/C trong/E nông_nghiệp/N đại_gia/N này/P là/V “/M người/N đến/E sau/N ”/M với/E nhiều/A viễn_cảnh/N được/V dự_báo/V không/R hề/T sáng/N
+Nhóm/N nhà_đầu_tư/N này/P cho/V rằng/C Hoà_Phát/Np nên/C đầu_tư/V tập_trung/V vào/E lĩnh_vực/N cốt_lõi/N khẳng_định/V vị_thế/N số_một/N của/E mình/P thay_vì/V mạo_hiểm/V dấn_thân/V vào/E lĩnh_vực/N nông_nghiệp/N theo/V xu_hướng/N
+Giữa/E bối_cảnh/N đó/P Chủ_tịch/N Hoà_Phát/Np Trần_Đình_Long/Np nhắc/V lại/R câu/N nói/V ông/N đã/R từng/R phát_biểu/V khi/N công_ty/N đầu_tư/V vào/E ngành/N thép/N năm/N 1999/M “/N Hỏi/V 9/M người/N thì/C đến/V 10/M người/N cho/V rằng/C Hòa_Phát/Np sẽ/R thất_bại/V ”/A
+Thực_tế/N ngành/N thép/N đã/R đưa/V Hoà_Phát/Np trở_thành/V doanh_nghiệp/N tỷ/M USD/Nu vào/E năm/N 2014/M và/CC duy_trì/V cho/E tới/E nay/P  /EOS
+Khác/A với/E nhiều/A doanh_nghiệp/N lớn/A như/C Masan/Np chi/V hàng/R tỷ/N đôla/N để/E thâu_tóm/V các/L doanh_nghiệp/N hàng_đầu/N về/E thức_ăn/N chăn_nuôi/V từ/E đó/P gặt_hái/V ngay/T doanh_thu/N Hoà_Phát/Np chọn/V cho/E mình/P con/Nc đường/N từ/E con_số/N 0/M
+Theo/E lãnh_đạo/N tập_đoàn/N này/P Hòa_Phát/Np có/V khả_năng/N tài_chính/N tốt/A nên/C có_thể/R đầu_tư/V bài_bản/A ngay/T từ/E đầu/N
+Đầu/N năm/N 2016/M tập_đoàn/N đã/R góp/V vốn/N thành_lập/V Công_ty/N Phát_triển/V Nông_nghiệp/N Hòa_Phát/Np
+Công_ty/N này/P có/V vốn_điều_lệ/N dự_kiến/V 2 0/M tỷ/N đồng/N trong/E đó/P Hòa_Phát/Np góp/V 99,99%/M hoạt_động/V trong/E lĩnh_vực/N chăn_nuôi/V sản_xuất/V thức_ăn/N chăn_nuôi/V và/CC các/L hoạt_động/N phụ_trợ/V liên_quan/V
+Mục_tiêu/N của/E dự_án/N này/P hoàn_thành/V chuỗi/Nc thức_ăn/N khép_kín/A cho/E việc/N chăn_nuôi/V của/E Hoà_Phát/Np và/CC bán/V ra/R thị_trường/N  /EOS
+Hiện/N công_ty/N đã/R nhập_khẩu/V hơn/R 500/M con/Nc lợn/N cụ_kỵ/A từ/E Đan_Mạch/Np về/V để/E nhân_giống/N
+Dự_kiến/V năm/N 2018/M sẽ/R cung_cấp/V thịt/N lợn/N sạch/A ra/V thị_trường/N
+Mục_tiêu/N năm/N 2021/M Hoà_Phát/Np sẽ/R có/V trên/E một_triệu/M đầu/N lợn/N trên/E cả/P nước/N
+Tập_đoàn/N cũng/R đang/R chi/V hàng/R triệu/M USD/Nu xây_dựng/V khu/N chăn_nuôi/V vỗ_béo/N thâm_canh/A chuẩn_bị/V nhập/V 3 0/M con/N bò/N Australia/Np trong/E tháng/N 8/M
+Sức/N chứa/V có_thể/R lên/V tới/E 50 0/M con_một/N năm/N
+Với/E thị_trường/N tiêu_thụ/V 5 0/M con/Nc bò/N mỗi/M ngày/N nhu_cầu/N thịt/N bò/N bình_quân/A đạt/V 5-6/M kg/Nu một/M năm/N của/E người_dân/N
+Dự_báo/V ngành/N chăn_nuôi/V bò/N sẽ/R còn/V nhiều/A dư/N địa/N để/E phát_triển/V  /EOS
+Hoà_Phát/Np với/E những/L chiến_lược/N táo_bạo/A đầu_tư/V lớn/A cho/E thấy/V tham_vọng/N vẽ/V lại/R bản_đồ/N ngành/N thức_ăn/N chăn_nuôi/V Việt_Nam/Np vốn/N 60%/M nằm/V trong/E tay/N các/L đại_gia/N ngoại/N và/CC chăn_nuôi/V như/C C/Np P_Group/Np Proconco/Np New_Hope/Np Cargill/Np Green_Feed/Np
+Hay/C các/L đối_thủ/N trong/E nước/N như/C Masan/Np Dabaco/Np Minh_Tâm_Group/Np …/V Dù/C ngành/N chăn_nuôi/V được/R dự_báo/V sẽ/R gặp/V khó_khăn/A nhất/A khi/N Việt_Nam/Np gia_nhập/V Hiệp_định/N Đối_tác/N xuyên/V Thái_Bình_Dương/Np /V TPP/Np /V nhưng/C vẫn/R được/V bảo_hộ/V tới/E hơn/A 10/M năm/N
+Không/R ngại/V TPP/Np CEO/Np Hoà_Phát/Np vẫn/R khẳng_định/V ma/N ̉/M ng/Nu thư/N ́/M c/N ăn/V chăn_nuôi/V va/V ̀/N chăn_nuôi/V ky/N ̀/V vo/V ̣/M ng/N se/V ̃/N go/V ́/M p/N 30%/M va/V ̀/M o/N lơ/N ̣/M i/N nhuâ/V ̣/M n/N cu/N ̉/M a/N tâ/V ̣/M p/N đoa/N ̀/V n/N
+Mục_tiêu/N của/E Hòa_Phát/Np trong/E giai_đoạn/N 2016-2020/M là/V đạt/V một_triệu/M tấn/Nu thức_ăn/N chăn_nuôi/V góp_phần/V thay_đổi/V tái/Z cơ_cấu/N nền/N nông_nghiệp/N Việt_Nam/Np từ/E manh_mún/A sang/E sản_xuất/V hàng_hóa/N quy_mô/N lớn/A sử_dụng/V công_nghệ/N hiện_đại/A có_thể/R cạnh_tranh/V với/E các/L doanh_nghiệp/N nước_ngoài/N trong/E thời_kỳ/N hội_nhập/V ngày_càng/X sâu_rộng/V
+Hoà_Phát/N tham_vọng/N sẽ/R đạt/V doanh_thu/N 15 0-20 0/M tỷ/N đồng/N từ/E nông_nghiệp/N
+Công_ty/N Chứng_khoán/Np Vietcombank/Np /V VCBS/Np /V nhận_định/V ma/N ̉/N ng/V cha/N ̆/V n/N nuo/V ̂/M i/N va/V ̀/M thức_ăn/N chăn_nuôi/V chu/V ̛/M a/N đem/V la/V ̣/M i/N lơ/N ̣/M i/N nhuạ/V ̂/M n/N đáng_kể/A trong/E 2-3/M na/N ̆/M m/Nu tơ/N ́/A i/N do/E cần/V tập_trung/V mơ/V ̉/M rọ/N ̂/V ng/N ho/V ̛/M n/N nư/V ̃/M a/N đê/N ̉/M hoa/N ̀/N n/N thiẹ/V ̂/M n/N ho/V ̛/M n/N quy/N tri/V ̀/M nh/N sa/V ̉/M n/N xuâ/V ́/M t/N va/V ̀/M chuô/N ̃/V i/V kinh_doanh/V đê/N ̉/N bă/V ́/M t/N ki/N ̣/M p/N quy/N mo/V ̂/N thi/V ̣/M tru/N ̛/V ơ/N ̀/V ng/N va/V ̀/N mơ/V ̉/V rọ/N ̂/V ng/N thi/V ̣/M phâ/N ̀/A n/V nhanh/A cho/E ́/N ng/V
+Nhưng_Hoà_Phát/Np cho_biết/V trong/E 10/M năm/N tới/V có_thể/A đầu_tư/V từ/E 8 0/M đến/E 10 0/M tỷ/N đồng/N cho/E mảng/N thức_ăn/N chăn_nuôi/V và/CC chăn_nuôi/V
+Đa_dạng_hoá/N ngành_nghề/N song/C Hoà_Phát/Np vẫn/R đẩy_mạnh/V phát_triển/V ngành_nghề/N cốt_lõi/N khi/N mới_đây/X đã/R khởi_công/V xây_dựng/V Nhà_máy/N sản_xuất/V tôn/N mạ/V màu/N Hòa_Phát/Np với/E công_suất/N 400 0/M tấn/Nu năm/N dự_kiến/V đưa/V vào/E hoạt_động/N năm/N 2018/M
+Đây/P là/V những/L sản_phẩm/N trong/E chuỗi/Nc giá_trị/N gia_tăng/V cho/E sản_phẩm/N thép/N ngành_hàng/N chủ_lực/N của/E doanh_nghiệp/N này/P
+Với/E thế/P mạnh/A và/CC hệ_thống/N phân_phối/V sẵn/A có/V việc/N tiêu_thụ/V tôn/N mạ/V không/R gặp/V nhiều/A trở_ngại/N với/E Hoà_Phát/Np khi/N nhu_cầu/N trong/E nước/N và/CC thế_giới/N vẫn/R liên_tục/A tăng/V cao/A  /EOS
+Theo/E nguồn/N tin/N của/E VnExpress/Np hiện/N tập_đoàn/N đã/R lên/V kế_hoạch/N đầu_tư/V một/M siêu/Z dự_án/N thép/N có/V vốn/N đầu_tư/V vài/L tỷ/M USD/Nu
+Cuối/N năm/N 2015/M Hoà_Phát/Np đã/R đi/V khảo_sát/V tại/E Hà_Tĩnh/Np và/CC đề_xuất/V đầu_tư/V tại/E đây/P
+“/M Kế_hoạch/N kinh_doanh/V 28 0/M tỷ/N đồng/N của/E Hoà_Phát/Np là/V tương_đối/A khiêm_tốn/A thực_tế/N có_thể/R đạt/V 29 6/M tỷ/N đồng/N doanh_thu/N và/CC lợi_nhuận/N sau/E thuế/N 3 9/M tỷ/N đồng/N
+EPS/Np dự_kiến/V lên/R tới/V 5 3/M đồng/Nu ”/M VCBS/Np cho_biết/V và/CC khẳng_định/V Hoà_Phát/Np là/V doanh_nghiệp/N có/V nền_tảng/N vững/A cách/N quản_trị/V bài_bản/A đầu_tư/V thận_trọng/N mô_hình/N sản_xuất/V khép_kín/A từ/E thượng_nguồn/N và/CC sử_dụng/V công_nghệ_cao/N  /EOS
+Công_ty/N Chứng_khoán/Np Ngân_hàng/N BIDV/Np /V BSC/Np /M cũng/R nhận_định/V HPG/Np là/V cổ_phiếu/N có_thể/A đầu_tư/V bền_vững/A
+Công_ty/N này/P cho_biết/V giá/N quặng/N sắt/N tiếp_tục/V giảm/V dài_hạn/A do/E ảnh_hưởng/N từ/E Trung_Quốc/Np sẽ/R là/V lợi_thế/N cho/E Hoà_Phát/Np trong/E việc/N phát_triển/V ngành/N thép/N
+Dự_kiến/V năm/N 2016/M tập_đoàn/N sẽ/R nhập_khẩu/V khoảng/A 1,6/M triệu/M tấn/Nu quặng/N
+Hiện_tại/N đang/R nhập/V lớn/A nhất/R từ/E Nam_Phi/Np
+Tô/N ̉/M ng/N sa/V ̉/M n/N lu/N ̛/M ơ/N ̣/N ng/V tie/N ̂/A u/A thu/V ̣/M the/N ́/V p/V xa/A ̂/M y/N dư/V ̣/M ng/N trong/E 5/M tha/V ́/M ng/N 2016/M đa/N ̣/V t/N 679 4/M tâ/Nu ́/M n/N chiê/N ́/M m/Nu 20,3%/M thi/N ̣/V phâ/N ̀/V n/N
+Đặc_biệt/A ống/N thép/N của/E Hoà_Phát/Np đã/R được/V xuất_khẩu/V vào/E Mỹ/Np và/CC Canada/Np với/E thuế/N 0,38%/M làm/V tăng/V lợi_thế/N cạnh_tranh/V trên/E thị_trường/N này/P
+Sản_lượng/N tiêu_thụ/V ống/N thép/N trong/E 5/M tháng/N tăng/V 50%/M lên/E 172 0/M tấn/Nu

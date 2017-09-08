@@ -1,0 +1,17 @@
+Hạt/N ma/N hứa_hẹn/V mỗi/M năm/N chỉ/R cần/V sạc/V pin/V điện_thoại/N một/M lần/N
+LiveScience/Np hôm/N 16/7/M đưa/V tin/N loại/Nc hạt/N bí_ẩn/A này/P được/V nhà/N toán_học/N Hermann_Weyl/Np đề_xuất/V năm/N 1929/M
+Chúng/P không/R có/V khối_lượng/N và/CC có/V các/L spin/N quay/V theo/E hai/M hướng/N đối_xứng/V nhau/N
+Khi/N hai/M hạt/N quay/V theo/V hai/M hướng/N đối_xứng/V tiếp_xúc/V với/E nhau/N chúng/P sẽ/R cùng/A biến_mất/V
+Có/V ba/M loại/Nc hạt/N fermion/N Dirac_Majorana/Np và/CC Weyl/Np
+Hai/M loại/N đầu/N đã/R được/V phát_hiện/V trong/E các/L máy_gia_tốc/N hạt/N còn/V loại/N cuối/N thì/C trước_đây/N chưa/R từng/R được/V tìm/V thấy/V
+Từ/E một/M nghiên_cứu/N năm/N 2011/M cho/V rằng/C có_thể/R tạo/V ra/R Weyl/Np dưới/E các/L điều_kiện/N cụ_thể/A như/C phải/V có/V một/M chất_bán_dẫn/N tính_chất/N nằm/V giữa/E chất/N cách_điện/N và/CC dẫn_điện/V với/E tinh_thể/N có/V tính/N bất/V đối_xứng/V các/L nhà_khoa_học/N thuộc/V Đại_học/N Princeton_New_Jersey/Np đã/R chọn/V được/R vật_liệu/N phù_hợp/V đó/P là/V một/M chất/N được/V tạo/V thành/V bởi/E tantalum/N và/CC asen/N tantalum/V arsenide/N
+Khi/N sử_dụng/V chùm/Nc photon/N ánh_sáng/N bắn/V phá/V các/L điện_tử/N trong/E mạng/N tinh_thể/A của/E hợp_chất/N tantalum/N arsenide/N thoát/V khỏi/R liên_kết/V trong/E mạng/N và/CC di_chuyển/V trong/E khối/N hợp_chất/N
+Nghiên_cứu/N chuyển_động/V của/E các/L điện_tử/N này/P nhóm/N nghiên_cứu/V thấy/V rằng/C chúng/P mang/V các/L đặc_trưng/A của/E Weyl/Np
+Nghiên_cứu/N này/P sẽ/R mở/V ra/R một/M hướng/N ứng_dụng/V chế_tạo/V các/L thiết_bị/N điện_tử/N mới/R
+Tất_cả/P mọi/L thiết_bị/N công_nghệ/N hiện_nay/N đều/R sử_dụng/V các/L điện_tử/N electron/N mang/V điện/N chạy/V trong/E các/L dây_dẫn/N
+Quá_trình/N này/P sinh/V nhiệt/N và/CC làm/V tiêu/N tốn/V năng_lượng/N vô_ích/A
+Nếu/C thay_thế/V các/L electron/N bằng/E các/L hạt/N ma/N Weyl/Np dòng_điện/V chạy/V trong/E mạch/N sẽ/R gần_như/R không/R sinh/V nhiệt/N và/CC chỉ/R cần/V cung_cấp/V rất/R ít/A năng_lượng/N cho/V thiết_bị/N
+Đây/P là/V các/L hạt/N chỉ/R có/V một/M cực/N bắc/N hoặc/CC nam/N đặc_trưng/A bởi/E các/L spin/N
+Bạn/N có_thể/R tưởng_tượng/V nó/P giống/A như/C một/M thanh/Nc nam_châm/N cực/A nhỏ/A chỉ/R có/V một/M cực/N tiến_sĩ/N Weng_Hongming/Np một/M nhà_nghiên_cứu/N về/E hạt/N ma/N phát_biểu/V với/E South_China_Morning_Post/Np
+Điện_thoại_di_động/X nếu/C sử_dụng/V công_nghệ/N này/P sẽ/R chỉ/R cần/V sạc/V mỗi/M năm/N một/M lần/N
+Đây/P cũng/R là/V công_nghệ/N hứa_hẹn/V thay_thế/V các/L chất/N siêu_dẫn/V trong/E các/L máy_tính/N lượng_tử/V tương_lai/N

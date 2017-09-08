@@ -1,0 +1,24 @@
+Sốt_xuất_huyết/N lan/V cả/P nước/N 10/M người/N tử_vong/V
+Theo/E Cục/N Y_tế/N dự_phòng/V Bộ/N Y_tế/N từ/E đầu/N năm/N đến/E nay/P sốt_xuất_huyết/N Dengue/Np xuất_hiện/V tại/E 47/M tỉnh_thành/N với/E hơn/R 36 0/M người_bệnh/N
+10/M người/N tử_vong/V trong/E đó/P 3/M bệnh_nhân/N ở/E Trà_Vinh/Np 2/M tại/E Đồng_Tháp/Np Đồng_Nai/Np Bến_Tre/Np Tiền_Giang/Np TP_HCM/Np Hà_Nội/Np mỗi/M địa_phương/N ghi_nhận/V một/M ca/N tử_vong/V
+Số/N bệnh_nhân/N tập_trung/V chủ_yếu/A tại/E phía/N Nam/Np và/CC tăng/V cao/A ở/E phía/N Bắc/Np
+TP/Np Hà_Nội/Np ghi_nhận/V khoảng/N 1 0/M ca/N bệnh/N tăng/V 2,6/M lần/N so/V với/E cùng/A kỳ/N năm_ngoái/N tập_trung/V nhiều/A ở/E quận/N Đống_Đa/Np Hoàng_Mai/Np Hai_Bà_Trưng/Np Thanh_Xuân/Np và/CC Hà_Đông/Np
+Bệnh_nhân/N rải_rác/A trong/E các/L tháng/N nhưng/C có/V xu_hướng/N tăng/V từ/E giữa/N tháng/N 4/M và/CC tăng/V nhanh/A trong/E những/L tuần/N gần/A đây/P do/E thời_tiết/N chuyển/V nắng_nóng/N và/CC mưa/V nhiều/A
+Hiện/N miền/N Bắc/Np trong/E điều_kiện/N thời_tiết/N thuận_lợi/A cho/E muỗi/N truyền/V bệnh/N sốt_xuất_huyết/N phát_triển/V
+Để/E giảm/V tỷ_lệ/N tử_vong/N Cục/N Quản/Np lý/N Khám/V chữa/V bệnh/N Bộ/N Y_tế/N yêu_cầu/V các/L bệnh_viện/N tập_huấn/V lại/R hướng_dẫn/V chẩn_đoán/V điều_trị/V sốt_xuất_huyết/N dengue/N
+Đường_dây_nóng/N phòng_chống/V dịch/V được/R duy_trì/V hoạt_động/V để/E có_thể/R tư_vấn/V yêu_cầu/V hỗ_trợ/V khi/N cần_thiết/V
+Phương_tiện/N trang_thiết_bị/N thuốc/N dịch/N truyền/V máu/N và/CC các/L chế_phẩm/N của/E máu/N các/L lưu/V đồ/N xử_trí/N để/E cấp_cứu/V người_bệnh/N
+cũng/R phải/V được/V bệnh_viện/N chuẩn_bị/V kỹ/A
+Các/L bệnh_viện/N tuyến/N cuối/N của/E hệ_thống/N điều_trị/V sốt_xuất_huyết/N như/C Bệnh_viện/N Bệnh_Nhiệt/Np đới/V Trung_ương/N Bệnh_viện/N Nhi_Trung/Np ương/V Bệnh_viện/N Nhi_đồng/N 1/M và/CC 2/M của/E TP_HCM/Np
+chủ_động/V chỉ_đạo/V tuyến/N điều_chỉnh/V lại/R quy_trình/N tiếp_nhận/V điều_trị/V người_bệnh/N cho/E phù_hợp/V với/E tình_hình/N của/E từng/P bệnh_viện/N và/CC hỗ_trợ/V các/L cơ_sở/N khám/V bệnh/N chữa/V bệnh/N tuyến/N dưới/E
+Các/L ca/N tử_vong/V phải/V được/V phân_tích/V nguyên_nhân/N để/E rút/V kinh_nghiệm/N nhằm/V hạn_chế/V tối_đa/A các/L trường_hợp/N tương_tự/A
+Người_dân/N được/V khuyến_cáo/N ngủ/V màn/N vào/E ban_ngày/N để/E phòng_bệnh/V sốt_xuất_huyết/N
+Người_bệnh/N sốt_xuất_huyết/N cũng/R ngủ/V màn/N để/E tránh/V muỗi/N đốt/V lây/V bệnh/N cho/E người/N khác/A
+Loại_bỏ/V nơi/N sinh_sản/V của/E muỗi/N diệt/V loăng_quăng/N //X bọ_gậy/A bằng/E cách/N đậy/V kín/A tất_cả/P dụng_cụ/N chứa/V nước/N để/E muỗi/N không/R vào/V đẻ/V trứng/N Thả/V cá/N vào/E các/L dụng_cụ/N chứa/V nước_lớn/N /N bể/V giếng/N chum/N vại/N /M
+Thu_gom/V hủy/V các/L vật_dụng/N phế_thải/V trong/E nhà/N và/CC xung_quanh/N nhà/N như/C chai/N lọ/N mảnh/Nc chai/N mảnh/Nc lu/N vỡ/V ống_bơ/N vỏ/N dừa/N lốp/vỏ/N xe/N cũ/A dọn/V vệ_sinh/V môi_trường/N lật/V úp/V các/L dụng_cụ/N chứa/V nước/N khi_không/N dùng/V đến/E
+Sốt_xuất_huyết/N là/V bệnh/N do/E muỗi/N truyền/V và/CC chưa/R có/V thuốc/N điều_trị/V đặc_hiệu/A
+Bệnh/N do/E virus/N Dengue/Np gây/V ra/R với/E 4/M tuýp/N gây/V bệnh/N được/R ký_hiệu/V là/V D1/Np D2/Np D3/Np D4/Np
+Do/E miễn_dịch/N được/V tạo/V thành/V sau/E khi/N mắc/V bệnh/N chỉ/R có/V tính/N đặc_hiệu/A đối_với/E từng/R tuýp/N nên/C một/M người/N có_thể/A mắc/V bệnh/N 2-3/M lần/N
+Trường_hợp/N nhẹ/A người_bệnh/N sốt/V cao/A đột_ngột/A 39-40/M độ/N C/N kéo_dài/V 2-7/M ngày/N khó/A hạ/V sốt/V đau_đầu/V dữ_dội/A ở/E vùng/N trán/N sau/E nhãn_cầu/N có_thể/R có/V nổi/R mẩn/N phát_ban/V
+Nặng/A hơn/A người_bệnh/N có/V dấu_hiệu/N xuất_huyết/V như/C chấm/N xuất_huyết/V ngoài/E da/N chảy/V máu_cam/N chảy_máu/V chân/N răng/N vết/N bầm/A tím/A chỗ/N tiêm/V nôn/ói/V ra/R máu/N đi_cầu/V phân/N đen/A /A do/E bị/V xuất_huyết/V nội_tạng/N /A đau/V bụng/N buồn_nôn/N chân_tay/N lạnh/A người/N vật_vã/V hốt_hoảng/V
+Nếu_không/C được/V cấp_cứu/V và/CC điều_trị/V kịp_thời/A có_thể/R dẫn/V đến/E tử_vong/N

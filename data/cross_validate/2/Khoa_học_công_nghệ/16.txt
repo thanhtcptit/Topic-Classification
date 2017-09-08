@@ -1,0 +1,10 @@
+MWC/Np 2017/M TCL/Np giới_thiệu/V BlackBerry/N KeyOne/V
+Những/L thông/N tin/N về/V BlackBerry/N KeyOne/N đã/R rò_rỉ/V từ/E cuối/N năm/N 2016/M với/E bí_danh/N BlackBerry/N Mercury/Np khiến/V giới/N hâm_mộ/N Dâu/Np đen/N lẫn/N giới/N công_nghệ/N tò_mò/V về/E những/L mẫu/N smartphone/N BlackBerry/N dùng/V Android/Np và/CC số_phận/N của/N chúng/N
+BlackBerry/N KeyOne/N vẫn/R có/V bàn_phím/N vật_lí/V QWERTY/Np kết_hợp/V cùng/A màn_hình/N cảm_ứng/N 45/M inch/N FullHD/N 1080p/M
+Phần/N bàn_phím/N vật_lí/V có/V nút/N cảm_ứng/N điều_khiển/V như/C Touchpad/Np tích_hợp/V cảm_biến/N nhận_dạng/V dấu/N vân/N tay/N
+Thuộc/V phân/N khúc/N trung/N cao_cấp/A tầm/N giá/N giữa/N 10/M 14/M triệu/M đồng/Nu KeyOne/N dùng/V chip/N xử_lí/N Snapdragon/Np 625/M bộ_nhớ/N RAM/Np 3GB/Np và/CC bộ_nhớ_trong/N 32GB/N kèm/V khe/N cắm/V thẻ/N nhớ/V microSD/N
+Camera/N sau/N 12MP/N và/CC camera/N trước/N 8MP/M
+Dung_lượng/N pin/N 3505/M mAh/N là/V một/M ưu_điểm/N kèm/V tính_năng/N sạc/V nhanh/A Qualcomm_Quick_Charge/Np mà/C theo/E TCL/Np giới_thiệu/V sạc/N 50/M pin/N trong/E 36/M phút/N
+Máy/N có/V cổng/N cắm/V USB/Np TypeC/V USBC/Np
+BlackBerry/N KeyOne/N chạy/V trên/E Android_Nougat/Np 711/M ngoài/N các/L ứng_dụng/N sẵn/N có_của/N Google/Np trên/E Android/Np các/L ứng_dụng/N bảo_mật/V và/CC dịch_vụ/N BlackBerry/V cũng/R cài/V sẵn/A trên/N máy/N
+Theo/V thông_tin/N ban_đầu/N smartphone/N BlackBerry/N KeyOne/N sẽ/R có_mặt/V lần_lượt/N tại/E các/L thị_trường/N từ/E tháng/N 4/M giá/N bán_lẻ/V đề_xuất/N là/V 549/M USD/Nu

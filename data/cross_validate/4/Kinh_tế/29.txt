@@ -1,0 +1,30 @@
+Chân_dung/N 6/M thành_viên/N HĐQT/M Sacombank/Np
+Người/N bí_ẩn/A Dương_Công_Minh/Np Chủ_tịch/N công_ty/N Him_Lam/Np đã/R xuất_hiện/V và/N ngồi/V vào/E chiếc/N ghế_nóng/N Chủ_tịch/N HĐQT/M Sacombank/Np
+Nhưng/C còn/C 5/M người/N nữa/R
+Họ/P là/V ai/P
+Ông/N Dương_Công_Minh/Np Chủ_tịch/N HĐQT/M
+Ông/Nc Kiều_Hữu_Dũng/Np Phó/Z chủ_tịch/N HĐQT/Np
+Ông/Nc Kiều_Hữu_Dũng/Np sinh/V năm/N 1967/M
+Trình_độ/N chuyên_môn/N Thạc_sĩ/N kinh_tế/N
+Ông/Nc Dũng/Np có/V nhiều/A năm/N làm_việc/V trong/E ngành/N ngân_hàng/N trong/E đó/N từng/R giữ/V nhiều/A chức_vụ/N quan_trọng/A như/C cán_bộ/N Vụ/N hợp_tác/N Quốc_tế/N Ngân_hàng/N Nhà_nước/N đại_diện/V cho/E Ngân_hàng/N Nhà_nước/N tại/E Ngân_hàng/N Phát_triển/N châu/N Á/Np
+Ông/Nc Dũng/Np hiện/N là/V Chủ_tịch/N HĐQT/M Công_ty/N Khu/Np du_lịch/V Champarama/Np
+Ảnh/N Quang_Định/Np
+Ông/Nc Phạm_Văn_Phong/Np Thành_viên/V HĐQT/N
+Ông/Nc Phạm_Văn_Phong/Np sinh/V năm/N 1962/M
+Trình_độ/N chuyên_môn/N Thạc_sĩ/N quản_trị/V kinh_doanh/V
+Ông/Nc Phong/Np có/V nhiều/A năm/N làm_việc/V trong/E ngành/N ngân_hàng/N hiện/N là/V Bí_thư/N Đảng_bộ/N Giám_đốc/N Vietcombank_Chi_nhánh/N Đắc_Lắk/Np
+Ảnh/N Quang_Định/Np
+Ông/Nc Nguyễn_Miên_Tuấn/Np Thành_viên/V HĐQT/N
+Ông/Nc Nguyễn_Miên_Tuấn/Np sinh/V năm/N 1977/M
+Trình_độ/N chuyên_môn/N Thạc_sĩ/N kinh_tế/N
+Ông/Nc Tuấn/Np đang/R giữ/V chức_vụ/N Phó_Chủ_tịch/N HĐQT/N Công_ty/N Chứng_khoán/N Rồng_Việt/Np Thành_viên/N HĐQT/N Công_ty/N Pymepharco/Np
+Ảnh/N Quang_Định/Np
+Ông/Nc Nguyễn_Xuân_Vũ/Np Thành_viên/V HĐQT/N
+Ông/Nc Nguyễn_Xuân_Vũ/Np sinh/V năm/N 1981/M hiện/N là/V Phó_tổng/N giám_đốc/N Sacombank/Np
+Trình_độ/N chuyên_môn/N Thạc_sĩ/N tài_chính/N ngân_hàng/N
+Ảnh/N Quang_Định/Np
+Bà/N Lê_Thị_Hoa/Np Thành_viên/N độc_lập/N HĐQT/M
+Bà/N Lê_Thị_Hoa/Np sinh/V năm/N 1961/M
+Trình_độ/N chuyên_môn/N Thạc_sĩ/N kinh_tế/N
+Bà/Nc Hoa/Np hiện/N là/V thành_viên/N HĐQT/M Vietcombank/Np
+Ảnh/N Quang_Định/Np

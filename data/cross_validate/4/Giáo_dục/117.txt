@@ -1,0 +1,22 @@
+​/N Gần/A 60/M thí_sinh/N tại/E Hải_Phòng/Np chọn/V môn/N Sử/Np
+Bài/N thi/V tổ_hợp/N khoa_học_xã_hội/X lên_ngôi/N
+Tại/E buổi/N thông_tin/N với/E báo_chí/N ông/N Nguyễn_Xuân_Trường/Np giám_đốc/N Sở/N GDĐT/Np TP/Np Hải_Phòng/Np cho/V biết/V tại/E Hải_Phòng/Np có/V tổng_cộng/N 18692/M thí_sinh/N đăng_kí/N dự/V thi/V trong/E đó/N có/V 16128/M thí_sinh/N THPT/Np và/CC 1170/M thí_sinh/N GDTX/Np cùng/C với/C 1394/M thí_sinh/N tự_do/A chưa/R tốt_nghiệp/V là/C 424/M đã/N tốt_nghiệp/V là/V 970/M
+Số/N thí_sinh/N chỉ/R thi/V để/E xét/V tốt_nghiệp/N là/V 5496/M chiếm/N 294/M số/N thí_sinh/N thi/V tốt_nghiệp/V và/N đăng_kí/N xét/V tuyển/N là/V 13196/M chiếm/N 706/M
+Điểm/N đặc_biệt/A năm/N nay/P là/V số_lượng/N thí_sinh/N lựa_chọn/V bài/N thi/V tổ_hợp/N khoa_học_xã_hội/X chiếm/V tỉ_lệ/N khá/A cao/A
+Môn_Lịch_Sử/Np đã/R hết/V cảnh/N lèo_tèo/N khi/N số_lượng/N thí_sinh/N đăng_kí/V dự/V thi/V năm/N nay/P tăng/V đột_biến/N 10920/M 18692/M thí_sinh/N
+Thí_sinh/N lựa_chọn/V thi/V môn/N Ngữ_Văn/Np cũng/R đạt/V 18070/M
+Địa_lí/N là/V 10682/M
+GDCD/Np là/V 9318/M
+Toán/N đạt/V 18639/M thí_sinh/N
+Tiếng_Anh/Np 16388/M và/N Sinh_Học/Np là/V 8390/M
+Thống_kê/N sơ_bộ/N có/V đến/R 9281/M thí_sinh/N đăng_kí/N làm/V bài/N thi/V tổ_hợp/N khoa_học_xã_hội/X
+614/M thí_sinh/N đăng_kí/N làm/V cả/P 2/M bài/N thi/V tổ_hợp/N KHTN/Np và/CC KHXH/Np
+28/M thí_sinh/N đăng_kí/N 20/M nguyện_vọng/N
+Năm/N nay/P Bộ/Np GDĐT/Np cho/V phép/N thí_sinh/N được/V đăng_kí/V nguyện_vọng/N xét/V tuyển/N ĐH/N CĐ/Np không/R giới_hạn/V nên/C nhiều/A thí_sinh/N tại/E Hải_Phòng/Np vung/V tay/N khi/N đăng_kí/V nguyện_vọng/N các/L ngành/N nghề/N và/CC trường/N ĐH/N
+Trong/E số/N 13196/M thí_sinh/N đăng_kí/N nguyện_vọng/N xét/V tuyển/N ĐH/N CĐ/Np chỉ/R có/V khoảng/N 1591/M thí_sinh/N đăng_kí/N 1/M nguyện_vọng/N số/N còn/V lại/R đăng_kí/V từ/E 2/M đến/E 20/M nguyện_vọng/N
+Theo/E thống_kê/N sơ_bộ/N tại/E Hải_Phòng/Np có/V 28/M thí_sinh/N đăng_kí/V tới/N 20/M nguyện_vọng/N
+Không/R ít/A thầy/N cô_giáo/N cho/V rằng/C việc/N các/L thí_sinh/N đăng_kí/A quá/R nhiều/A nguyện_vọng/N sẽ/R gây/V khó_khăn/A trong/E việc/N định_hướng/V nghề_nghiệp/N mục_đích/N chọn/V trường/N chọn/N ngành/N của/N bản_thân/N
+Theo/E quy_định/N sau/E khi/N nộp/V phiếu/N đăng_kí/V dự/V thi/V phiếu/N xét/V tuyển/N ĐH/N CĐ/Np đợt/N 1/M cùng/N lệ_phí/N dự/V thi/V lệ_phí/N xét/V tuyển/N trong/E các/L đợt/N xét/V tuyển/N bổ_sung/V thì/C thí_sinh/N sẽ/R tiếp_tục/V nộp/V lệ_phí/N theo/V quy_định/N của/E các/L trường_học/N
+Sau/E khi/N có/V kết_quả/N thi/V THPT/Np quốc_gia/N thí_sinh/V được/V quyền/N điều_chỉnh/V nguyện_vọng/N đăng_kí/N xét/V tuyển/N 1/M lần/N trong/E thời_gian/N quy_định/N bằng/E phương_thức/N trực_tuyến/N hoặc/N trực_tiếp/A tại/E nơi/N đăng_kí/N dự/V thi/V
+Trước/E đó/P thí_sinh/V được/R cung_cấp/V tài_khoản/N và/CC mã_số/N thí_sinh/V tạo/V điều_kiện/N để/E thí_sinh/V thực_hiện/V điều_chỉnh/N trực_tuyến/N không/R phải/A gửi/V hồ_sơ/N qua/E bưu_điện/N hoặc/N đến/V nộp/N tại/N trường_học/N
+TIẾN/M THẮNG/N

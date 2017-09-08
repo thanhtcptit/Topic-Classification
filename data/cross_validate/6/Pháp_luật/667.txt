@@ -1,0 +1,9 @@
+Trung_tá/N CSGT/Np bị/V nam/N thanh_niên/N đi/V xe_máy/N tông/V tử_vong/N
+Chiều/N 10/7/M lãnh_đạo/N Công_an/N tỉnh/N Phú_Thọ/Np cho_biết/V vừa/R khởi_tố/V bị_can/N với/E Đào_Tuấn_Bảo/Np /M 19/M tuổi/N trú/V huyện/N Đoan_Hùng/Np /V để/E điều_tra/V hành_vi/N vi_phạm/V quy_định/N về/E điều_khiển/V phương_tiện/N giao_thông/N đường_bộ/N gây/V hậu_quả/N nghiêm_trọng/A
+Trước/E đó/P ngày/N 28/6/M trung_tá/N Trần_Tuấn_Dung/Np /A 51/M tuổi/N /M tổ_trưởng/N tổ/N tuần_tra/V kiểm_soát/V xử_lý/V vi_phạm/V Phòng/N CSGT/Np Phú_Thọ/Np cùng/C 3/M chiến_sĩ/N khác/A làm/V nhiệm_vụ/N trên/E quốc_lộ/N 2/M thuộc/V thị_trấn/N Đoan_Hùng/Np /M Phú_Thọ/Np /M
+Đến/V 22h/M cùng/A ngày/N khi/N tổ/N công_tác/V làm/V xong/R nhiệm_vụ/N và/CC đứng/V bên/N mép/N đường/N chuẩn_bị/V ra/V về/E
+Đúng/A lúc/N đó/P Đào_Tuấn_Bảo/Np đi/V xe_máy/N lao/V tới/V tông/V trúng/V người/N trung_tá/N Dung/Np
+Cú/N tông/V mạnh/A khiến/V trung_tá/N Dung/Np bị_thương/V nặng/A gục/V trên/E đường/N
+Tổ/N tuần_tra/V đưa/V trung_tá/N Dung/Np vào/V bệnh_viện/N địa_phương/N rồi/C chuyển/V lên/R Bệnh_viện/N Việt_Đức/Np cấp_cứu/V
+Do/E vết_thương/N quá/R nặng/A ông/N Trung/Np không/R qua/V khỏi/R
+Bảo/V bị_thương/V nhẹ/A được/V đưa/V vào/E Bệnh_viện/N đa_khoa/N huyện/N Đoan_Hùng/Np cấp_cứu/V đến/E nay/P đã/R bình_phục/V

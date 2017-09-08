@@ -1,0 +1,24 @@
+Từ/E 1/1/2018/M liên_thông/V kết_quả/N xét_nghiệm/V bệnh_viện/N hạng/N 1/M và/CC đặc_biệt/A
+Theo/E lộ_trình/N ngày/N 1/1/2018/M sẽ/R liên_thông/V kết_quả/N xét_nghiệm/V giữa/E các/L bệnh_viện/N hạng/N đặc_biệt/A và/CC hạng/N I/M
+Đến/E năm/N 2020/M thực_hiện/V liên_thông/V với/E các/L bệnh_viện/N trong/E cùng/A địa_bàn/N tỉnh/N thành_phố/N
+Năm/N 2025/M liên_thông/V xét_nghiệm/V ở/E tất_cả/P các/L cơ_sở/N khám/V chữa/V bệnh/N trên/E toàn_quốc/N
+Bộ/N Y_tế/N ước_tính/V chỉ/R cần/V giảm/V được/R 1%/M số/N xét_nghiệm/V thì/C mỗi/M năm/N chỉ/R tính/V riêng/A số/N xét_nghiệm/V không/R phải/V thực_hiện/V tại/E các/L bệnh_viện/N khoảng/A 4,75/M triệu/M lượt/N
+Tính/N trung_bình/A mỗi/L xét_nghiệm/V có_giá/A 50 0/M đồng/Nu thì/C việc/N các/L bệnh_viện/N công_nhận/V kết_quả/N xét_nghiệm/V của/E nhau/N giúp/V tiết_kiệm/A hơn/R 237/M tỷ/N đồng/N
+Xét_nghiệm/V có/V vai_trò/N quan_trọng/A trong/E chẩn_đoán/V phát_hiện/V và/CC theo_dõi/V tiến_triển/V bệnh/N
+Việc/N các/L bệnh_viện/N chưa/R công_nhận/V kết_quả/N xét_nghiệm/V gây/V tốn_kém/V về/E tiền_bạc/N thời_gian/N của/E người_bệnh/N và/CC ảnh_hưởng/V đến/E cả/P quá_trình/N khám/V chữa/V bệnh/N
+Thực_tế/N có/V hiện_tượng/N lạm_dụng/V xét_nghiệm/V ”/A Thứ_trưởng/N Bộ/N Y_tế/N Nguyễn_Viết_Tiến/Np cho_biết/V tại/E hội_nghị/N triển_khai/V tiêu_chí/N đánh_giá/V mức/N chất_lượng/N phòng/N xét_nghiệm/V y_học/N hướng/N tới/V liên_thông/V kết_quả/N xét_nghiệm/V diễn/V ra/R tại/E Hà_Nội/Np ngày/N 23/6/M
+Thứ_trưởng/N Tiến/Np cho/V rằng/C việc/N liên_thông/V sẽ/R giúp/V nâng/V cao/A kết_quả/N chất_lượng/N xét_nghiệm/V giảm/V những/L chi_phí/N không/R cần_thiết/A
+Cơ_sở/N nào/P làm/V chưa/R tốt/A thì_phải/V tốt/A hơn/R có/V sự/Nc kiểm_tra/V lẫn/V nhau/N cả/P ngoại/N kiểm/V và/CC nội/N kiểm/V  /M Hiện_nay/N chất_lượng/N xét_nghiệm/V giữa/E các/L cơ_sở/N y_tế/N và/CC giữa/E các/L tuyến/N chưa/R đồng_đều/V
+Vì_thế/C để/E liên_thông/V được/R chất_lượng/N xét_nghiệm/V phải/V được/V bảo_đảm/V độ_chính_xác/N và/CC độ/N tin_cậy/V
+Phó_Cục/N trưởng/N Quản_lý/V Khám/V chữa/V bệnh/N Nguyễn_Trọng_Khoa/Np cho_biết/V Bộ/N Y_tế/N đang/R xây_dựng/V tiêu_chí/N đánh_giá/V mức/N chất_lượng/N phòng/N xét_nghiệm/V y_học/N đánh_giá/V mức/N chất_lượng/N phòng/N xét_nghiệm/V danh_mục/N xét_nghiệm/V có_thể/R liên_thông/V
+Tiêu_chí/N đánh_giá/V mức/N chất_lượng/N phòng/N xét_nghiệm/V được/V chia/V nhóm/N thành/V 12/M thành_tố/N liên_quan/V đến/E chất_lượng/N với/E 169/M tiêu_chí/N cụ_thể/A được/R tính/V ra/R 268/M điểm/N
+Căn_cứ/N vào/V số/N điểm/N đạt/V được/R kèm/V với/E một_số/L tiêu_chí/N bắt_buộc/V sẽ/R xếp/V mức/N chất_lượng/N phòng/N xét_nghiệm/V
+Có/V 5/M mức/N chất_lượng/N phòng/N xét_nghiệm/V
+Theo/E nguyên_tắc/N việc/N liên_thông/V chỉ/R áp_dụng/V cho/E một_số/L xét_nghiệm/V khi/N kết_quả/N có/V giá_trị/N trong/E một/M thời_gian/N nhất_định/A
+Bệnh_viện/N chỉ/R công_nhận/V kết_quả/N xét_nghiệm/V của/E bệnh_viện/N khác/A có/V chất_lượng/N tương_đương/A hoặc/CC cao/A hơn/A
+Quyền/N chỉ_định/V xét_nghiệm/V vẫn/R là/V của/E bác_sĩ/N nếu/C thấy/V cần_thiết/A
+Bước_đầu/N Bộ/N Y_tế/N thí_điểm/V mỗi/L chuyên_ngành/N có/V 2-3/M xét_nghiệm/V được/R liên_thông/V sau/E đó/P từng/R bước/N mở_rộng/V xây_dựng/V các/L danh_mục/N xét_nghiệm/V
+Viện_Huyết/Np học/V Truyền/Np máu/N Trung_ương/Np là/V một/M trong/E 2/M đơn_vị/N thử/V đánh_giá/V chất_lượng/N xét_nghiệm/V theo/E tiêu_chí/N của/E Bộ/N Y_tế/N
+Bác_sĩ/N Phạm_Tuấn_Dương/Np Phó_Viện/Np trưởng/N Huyết_học/Np Truyền/Np máu/N Trung_ương/Np cho/V rằng/C để/E đạt/V các/L tiêu_chí/N này/P vừa/R khó/A vừa/R dễ/A
+Tại_Viện/Np có/V 8/M phòng/N xét_nghiệm/V thì/C một_nửa/N có/V kết_quả/N trên/E trung_bình/A có/V kết_quả/N chưa/R đạt/V yêu_cầu/N
+Vì_thế/C theo/E tiến_sĩ/N Dương/Np mỗi/L bệnh_viện/N có/V ưu_tiên/V riêng/A của/E mình/P tập_trung/V vào/E lĩnh_vực/N xét_nghiệm/V thế/P mạnh/A …/V Các/L bệnh_viện/N đa_khoa/V sẽ/R tương_đối/A khó_khăn/A

@@ -1,0 +1,16 @@
+Sử_dụng/V  /N GPS/Np để/E dự_đoán/N bão/N
+Thời_tiết/N khắc_nghiệt/A là/V nguyên_nhân/N chủ_yếu/A dẫn/V đến/E tình_trạng/N hoạt_động/V không/R ổn_định/A của/E hệ_thống_định_vị_toàn_cầu/N /N GPS/Np /V khiến/V tín_hiệu/N thông_tin/N liên_lạc/V bị/V khuếch_tán/V
+Nghiên_cứu/N mới/A nhất/A của/E các/L nhà_khoa_học/N đã/R thay_đổi/V những/L bất_tiện/A này/P thành/V lợi_ích/N mới/A của/E hệ_thống/N GPS/Np  /M Nhóm/N khoa_học/N sử_dụng/V tín_hiệu/N GPS/Np bị/V khuếch_tán/V để/E đo/V tốc_độ/N của/E các/L cơn/Nc gió/N từ/E đó/P họ/P có_thể/R  /V thực_hiện/V các/L phép/N đo/V chính_xác/A hơn/R về/E những/L cơn/Nc bão/N trong/E tương_lai/N
+Tín_hiệu/N GPS/Np được/V phát/V từ/E các/L vệ_tinh/N chuyển_động/V liên_tục/A và/CC gửi/V về/E trái_đất/N thông_qua/V sóng_vô_tuyến/N
+Mỗi/L tín_hiệu/N chứa/V thông_tin/N về/E vị_trí/N và/CC thời_gian/N truyền/V của/E vệ_tinh/N
+Các/L tín_hiệu/N vệ_tinh/N thường/R bị/V phá/V vỡ/V khi/N truyền/V vào/E nước/N và/CC khoảng/N 60%/M tín_hiệu/N sẽ/R bị/V dội/V ngược/A lên/E trời/N
+Sau/E đó/P các/L tín_hiệu/N này/P sẽ/R bị/V phân_tán/V do/E những/L cơn/Nc gió/N thổi/V với/E tốc_độ/N cao/A
+Theo/E  /N Stephen_Katzberg/Np nhà_nghiên_cứu/N tại/E Trung_tâm/N nghiên_cứu/V NASA/Np Langley/Np hiện_tượng/N này/P giống/A như/C khi/N bạn/N thổi/V vào/E một/M bát/N súp/N nóng/A
+Với/E sự/Nc gián_đoạn/V của/E tín_hiệu/N các/L nhà_nghiên_cứu/N sử_dụng/V như/C một/M phương_pháp/N mới/A và/CC ít/A tốn_kém/V để/E đo/V tốc_độ/N gió/N
+Theo/E cách/N tính_toán/V này/P máy/N thu/V GPS/Np đặt/V trên/E máy_bay/N để/E đo/V tốc_độ/N gió/N chính_xác/A hơn/R
+Ngoài/E việc/N đo/V tốc_độ/N gió/N chính_xác/A hệ_thống/N trên/N còn/R giúp/V tiết_kiệm/V chi_phí/N
+Hiện/N để/E đo/V tốc_độ/N gió/N tiêu_chuẩn/N các/L nhà_nghiên_cứu/N sử_dụng/V một/M dụng_cụ/N nhỏ/A gọi_là/X Dropsondes/Np
+Tuy_nhiên/C việc/N này/P rất/R tốn_kém/V khi/N một/M nhiệm_vụ/N thu_thập/V dữ_liệu/N bão/N điển_hình/N sử_dụng/V khoảng/N 20/M Dropsondes/Np với/E chi_phí/N cho/E mỗi/M cái/Nc khoảng/N 750/M USD/Nu
+Dropsondes/Np là/V một/M thiết_bị/N rất/R chính_xác/A nhưng/C do/E chi_phí/N quá/R cao/A khiến/V các/L nhà_khoa_học/N gặp/V nhiều/A khó_khăn/N khi_không/V được/R sử_dụng/V triệt_để/A
+Katzberg/Np cho_biết/V hệ_thống/N tín_hiệu/N GPS/Np mới/R có_thể/A hoạt_động/V liên_tục/A và/CC thu_thập/V thông_tin/N không/R ngừng/V về/E gió/N
+Khi/N sử_dụng/V song_song/A với/E hệ_thống/N Dropsonde/Np dữ_liệu/N thu_thập/V được/R sẽ/R cho/V thấy/V cơn/Nc bão/N rộng/A hơn/A và/CC chính_xác/A hơn/R bao_giờ/P hết/V

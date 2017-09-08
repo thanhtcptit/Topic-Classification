@@ -1,0 +1,14 @@
+​/N Công_cụ/N giải_cứu/N dữ_liệu/N bị/V WannaCry/V chiếm_giữ/N
+Adrien_Guinet/Np đã/R tìm/V ra/R một/M cách_thức/N lấy/V các/L chìa_khoá/N giải_mã/N mã/N hoá/N dữ_liệu/N bởi/N WannaCry/N đã/R thử_nghiệm/V trên/E các/L phiên_bản/N hệ_điều_hành/N Windows/Np XP/Np Windows/Np 7/M x86/N Windows_Vista/Np Windows_Server/Np 2003/M 2008/M
+Khi/N mã/V độc/N WannaCry/N thâm_nhập/V vào/R máy_tính/N nó/P tạo/V ra/R hai/M khoá/N gồm/V một/M khoá/N công_khai/A để/E mã_hoá/V bắt_cóc/N dữ_liệu/N khoá/N bí_mật/A còn/V lại/V dùng/V để/N giải_mã/V
+Tuy_nhiên/C để/V ngăn/V nạn_nhân/N dùng/V khoá/N bí_mật/V để/E tự/V giải_mã/V WannaCry/N xoá/N khoá/N bí_mật/V khỏi/V máy/N tính/V nạn_nhân/N
+Nhưng_Adrien_Guinet/Np tìm/V ra/R Gót/Np chân/N Achilles/Np thứ_hai/N của/E WannaCry/N giúp/V anh/N truy/V vết/N được/V khoá/N bí_mật/V đó/P tạo/V ra/R công_cụ/N tự_động/A cho/E người_dùng/N phổ_thông/N cứu/V dữ_liệu/N
+Công_cụ/N WannaKey/N dựa/V trên/N khám_phá/N của/E Adrien_Guinet/Np tính_toán/V các/L con_số/N để/E tạo/V ra/R khoá/N giải_mã/N
+Bản/N cập_nhật/V WannaKey/N 20/M đã/R được/V đưa/V lên/R thư_viện/N công_cụ/N nguồn/N mở/V GitHub/N tải/N miễn_phí/V tại/N đây/P
+Lưu_ý/N WannaKey/N chỉ/R cứu/V được/R dữ_liệu/N bị/V WannaCry/V mã_hoá/V trên/E máy_tính/N chưa/R khởi_động/V lại/V khi/N bị/V lây_nhiễm/V
+Bên_cạnh/N đó/P máy_tính/N cũng/R chưa/R bị/V các/L ứng_dụng/N tiến_trình/N khác/A chạy/V đè/V lên/V bộ_nhớ/N khiến/V WannaKey/N không_thể/A trích/V xuất/V dữ_liệu/N từ/V đây/P
+Từ/E khám_phá/N của/E Adrien_Guinet/Np một/M hiệp_sĩ/N khác/A tạo/V ra/R công_cụ/N giải_mã/V tên/N WanaKiwi/N của/N Benjamin_Delpy/Np
+WanaKiwi/N đơn_giản_hoá/N toàn_bộ/N tiến_trình/N truy_xuất/N khoá/N giải_mã/N của/E WanaCry/N giải_cứu/N dữ_liệu/N
+Công_cụ/N cũng/R được/V đưa/V lên/R GitHub/N để/E cộng_đồng/N cùng/A sử_dụng/V được/R các/L chuyên_gia/N khác/A như/C Matt_Suiche/Np từ/E hãng/N bảo/V mật/N Comae_Technologies/Np hỗ_trợ/V thử_nghiệm/V trên/N Windows/Np XP/Np Windows/Np 7/M Windows_Vista/Np Windows_Server/Np 2003/M và/N 2008/M
+Người_dùng/N phổ_thông/N cần/V được/V trợ_giúp/V khi/N xử_lí/V với/E WanaKiwi/N vì/E nó/P điều_khiển/V qua/V câu_lệnh/N cmd/N trong/N Windows/Np
+Matt_Suiche/Np có/V hướng_dẫn/V cách/N dùng/V WanaKiwi/N tại/V đây/P

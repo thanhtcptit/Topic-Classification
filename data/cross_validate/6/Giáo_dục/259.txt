@@ -1,0 +1,75 @@
+Hàng/R nghìn/M điểm/N 10/M trong/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M 
+TRA_CỨU_ĐIỂM_THI_THPT_QUỐC_GIA/Np 2017/M TẠI_ĐÂY/Np </M </N Bình_Định/Np 70/M thí_sinh/N đạt/V điểm/N 10/M các/L môn/N Sáng/N 6/7/M Sở/N GD&/Np ĐT/Np Bình_Định/Np đã/R chính_thức/A công_bố/V kết_quả/N thi/V THPT/Np Quốc_gia/Np năm/N 2017/M 
+Theo/E thống_kê/V của/E Phòng_Khảo/Np thí/V và/CC Quản_lý/V chất_lượng/N giáo_dục/N có/V tổng_cộng/N 70/M bài/N thi/V đạt/V điểm/N 10/M rải/V đều/R ở/E 7/M môn/N thi_trắc_nghiệm/V 
+Cụ_thể/A môn/N Toán/Np có/V 3/M điểm/N 10/M Vật_lý/N 1/M điểm/N 10/M Hóa_học/N 26/M điểm/N 10/M Sinh_học/N 9/M điểm/N 10/M tiếng/N Anh/N 16/M điểm/N 10/M Địa_lý/N 4/M điểm/N 10/M và/CC Giáo_dục/N công_dân/N 11/M điểm/N 10/M 
+Môn_Ngữ/Np văn/N môn/N thi/V tự/P luận/V duy_nhất/A có/V 1/M thí_sinh/N đạt/V điểm/N 9,75/M 
+Đó/P là/V Nguyễn_Thị_Trúc_Quyên/Np học_sinh/N Trường/N THPT/Np Nguyễn_Diêu/Np huyện/N Tuy_Phước/Np 
+Thí_sinh/N duy_nhất/A đạt/V điểm/N 10/M môn/N Vật_lý/N là/V Nguyễn_Lâm_Viên/Np học_sinh/N Trường/N THPT/Np Quốc_học/Np Quy_Nhơn/Np TP/Np Quy_Nhơn/Np 
+Theo/E thống_kê/V của/E Sở/N GD&/Np ĐT/Np số/N thí_sinh/N đăng_ký/V dự/V thi/V là/V 17.622/M gồm/V 2.218/M thí_sinh/N chỉ/R xét/V tốt_nghiệp/V 14.292/M thí_sinh/N vừa/R xét/V tốt_nghiệp/V vừa/R xét/V tuyển/V đại_học/N và/CC 1.112/M thí_sinh/N chỉ/R xét/V tuyển/V đại_học/N 
+Sở/N đã/R thành_lập/V 45/M điểm/N thi/V với/E 756/M phòng/N thi/V đặt/V tại/E các/L trường/N THPT/Np trong/E toàn/N tỉnh/N và/CC một_số/L trường/N THCS/Np ở/E Quy_Nhơn/Np 
+Tại_Phú_Yên/Np sáng/N cùng/A ngày/N Sở/N GD&/Np ĐT/Np tỉnh/N này/P cũng/R đã/R công_bố/V điểm/N thi/V THPT/Np Quốc_gia/Np năm/N 2017/M 
+Theo/E đó/P đã/R có/V 50/M điểm/N 10/M và/CC 1309/M điểm/N 9/M ở/E các/L môn/N thi/V 
+Đặc_biệt/A hơn/A một_nửa/M số/N điểm/N 10/M nằm/V ở/E môn/N Hóa_học/N 
+Có/V 50/M thí_sinh/N ở/E Phú_Yên/Np xuất_sắc/A giành/V điểm/N 10/M trong/E kỳ/N thi/V THPT/Np Quốc_gia/Np 2017/M (/Nu ảnh/N Trung_Thi/Np Kỳ/N thi/V THPT/Np Quốc_gia/Np 2017/M tại/E Phú_Yên/Np có/V 10.790/M thí_sinh/N đăng_ký/V tham_gia/V dự/V thi/V 
+Trong/E đó/P môn/N Ngữ_Văn/Np có/V 10.436/M thí_sinh/N môn/N Toán/Np 10.640/M thí_sinh/N môn/N Hóa/Np 6.406/M thí_sinh/N Vật_Lý/Np 6.367/M thí_sinh/N Lịch_sử/N 6.181/M thí_sinh/N Địa_Lý/Np 6.019/M thí_sinh/N Tiếng_Anh/Np 10.040/M thí_sinh/N Giáo_dục/N công_dân/N 5.812/M thí_sinh/N và/CC môn/N Sinh/V 6.242/M thí_sinh/N 
+Theo/E công_bố/V điểm/N thi/V năm/N nay/P trên/E địa_bàn/N tỉnh/N Phú_Yên/Np các/L thí_sinh/N xuất_sắc/A giành/V 50/M điểm/N 10/M và/CC 1309/M điểm/N 9/M ở/E các/L môn/N thi/V gồm/V môn/N Toán/N có/V 4/M điểm/N 10/M và/CC 208/M điểm/N 9/M Hóa_học/N có/V 26/M điểm/N 10/M và/CC 210/M điểm/N 9/M Vật_Lý/Np có/V 2/M điểm/N 10/M và/CC 65/M điểm/N 9/M Tiếng_Anh/Np có/V 6/M điểm/N 10/M và/CC 137/M điểm/N 9/M Sinh_học/N có/V 7/M điểm/N 10/M và/CC 80/M điểm/N 9/M Địa_lý/N có/V 3/M điểm/N 10/M và/CC 128/M điểm/N 9/M Giáo_dục/N công_dân/N 2/M có/V điểm/N 10/M và/CC 415/M điểm/N 9/M …/Nu Hai/M môn/N Ngữ_Văn/Np và/CC Lịch_Sử/Np các/L thí_sinh/N chưa/R nhận/V được/R điểm/N 10/M tuyệt_đối/A 
+Sở/N GD&/Np ĐT/Np tỉnh/N Phú_Yên/Np cho_biết/V Nhìn_chung/N trung_bình/A điểm/N thi/V năm/N nay/N của/E Phú_Yên/Np ở/E các/L môn/N thi/V đều/R tăng/V hơn/R so/V với/E các/L năm/N trước/A 
+Đặc_biệt/A ở/E môn/N Hóa_học/N đã/R có/V 26/M điểm/N 10/M ngoài_ra/X các/L môn/N môn/N Toán/Np Ngữ_văn/N và/CC Tiếng_Anh/Np có/V điểm/N trung_bình/A tăng/V gần/A gấp/V đôi/M so/V với/E năm/N trước/A 
+Riêng/T môn/N Giáo_dục/N công_dân/N lần/N đầu_tiên/A đưa/V vào/R thi/V THPT/Np nhưng/C điểm/N trung_bình/A ở/E môn/N này/P đạt/V 7,51/M là/C khá/R cao/A …/M ”/Nu 
+Nghệ_An/Np 207/M điểm/N 10/M 101/M điểm/N liệt/A Theo/E số_liệu/N Sở/N GD&/Np ĐT/Np Nghệ_An/Np cung_cấp/V cả/P tỉnh/N có/V 207/M em/N đạt/V điểm/N 10/M kỳ/N thi/V THPT/Np quốc_gia/N 2017/M 
+Trong/E đó/P các/L môn/N Hóa_học/N dẫn_đầu/V cả/P tỉnh/N về/V điểm/N 10/M 
+Kết_quả/N chấm/V thi/V THPT/Np quốc_gia/N vừa/R công_bố/V Nghệ_An/Np có/V tất_cả/P 207/M điểm/N 10/M 
+Trong/E đó/P Hóa_học/N là/V môn/N dẫn_đầu/V số_lượng/N điểm/N 10/M tại/E Nghệ_An/Np với/E 91/M bài/N thi/V 
+Môn_Địa/Np lý/N có/V 46/M em/N Ngoại_ngữ/N 26/M em/N Toán/N 22/M em/N Sinh_học/N 9/M em/N Vật_lý/N 6/M em/N và/CC Giáo_dục/N công_dân/N có/V 2/M em/N đạt/V điểm/N 10/M 
+Môn_Ngữ/Np văn/N và/CC môn/N Lịch_sử/N không/R có/V thí_sinh/N nào/P đạt/V điểm/N 10/M 
+Có/V 1/M thí_sinh/N đạt/V 3/M điểm/N 10/M các/L môn/N Toán/Np Hóa_học/N và/CC Sinh_học/N 
+Toàn/Np tỉnh/N Nghệ_An/Np có/V 101/M học_sinh/N bị/V điểm/N liệt/A dưới/E 1/M điểm/N )/A nhiều/A nhất_là/X hai/M môn/N Toán/Np và/CC Ngoại_ngữ/N mỗi/L môn/N 28/M bài/N thi/V )/A môn/N Hóa_học/N có/V 14/M bài/N thi/V môn/N Lịch_sử/N 13/M bài/N thi/V môn/N Vật_lý/N 9/M bài/N thi/V môn/N Sinh_học/N 8/M bài/N thi/V và/CC môn/N Địa_lý/N có/V 1/M bài/N thi/V bị/V điểm/N liệt/A 
+Kiên_Giang/Np 18/M bài/N thi/V đạt/V điểm/N 10/M Sở/N GD/Np ĐT/Np tỉnh/N Kiên_Giang/Np cho_biết/V theo/V kết_quả/N kỳ/N thi/V THPT/Np quốc_gia/N 2017/M toàn/R tỉnh/N có/V 18/M bài/N thi/V đạt/V điểm/N 10/M tuy_nhiên/C môn/N Toán/Np Văn/Np không/R có/V bài/N thi/V nào/P đạt/V điểm/N 10/M 
+Cụ_thể/A trong/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M trên/E địa_bàn/N tỉnh/N Kiên_Giang/Np có/V 11.225/M thí_sinh/N đăng_ký/V dự/V thi/V tuy_nhiên/C có/V 49/M thí_sinh/N không/R dự/V thi/V 
+Kết_thúc/V ngày/N thi/V cuối/N toàn/N tỉnh/N có/V 3/M thí_sinh/N vi_phạm/V quy_chế/N thi/V buộc/V phải/V đình_chỉ/V thi/V 
+Về/V kết_quả/N kỳ/N thi/V toàn/R tỉnh/N có/V 18/M bài/N thi/V đạt/V điểm/N 10/M trong/E đó/P môn/N Giáo_dục/N công_dân/N chiếm/V đến/E 7/M bài/N thi/V môn/N Sử/Np có/V 3/M điểm/N 10/M môn/N Sinh/V 3/M điểm/N 10/M môn/N Hóa/Np 2/M điểm/N 10/M môn/N Địa/Np 2/M điểm/N 10/M và/CC môn/N Tiếng_Anh/Np 01/M điểm/N 10/M 
+Riêng/T 2/M môn/N Toán/Np Văn/Np không/R có/V thí_sinh/N nào/P đạt/V điểm/N 10/M 
+Khánh_Hòa/Np có/V 46/M điểm/N 10/M môn/N thi_trắc_nghiệm/V Sáng/N 6/7/M Hội_đồng/N thi/V THPT/Np quốc_gia/N 2017/M tỉnh/N Khánh_Hòa/Np đã/R tổng_kết/V công_tác/N chấm/V thi/V 
+Theo/E Sở/N GD/Np ĐT/Np tỉnh/N Khánh_Hòa/Np môn/N Ngữ_văn/N có/V 11/M bài/N thi/V của/E thí_sinh/N bị/V điểm/N liệt/A 
+Theo/E đó/P môn/N tự/P luận/V (/N Ngữ_Văn/Np có/V 51,1%/M thí_sinh/N đạt/V điểm/N từ/E trung_bình/A trở_lên/A điểm_cao/N nhất/A 8,75/M 11/M bài/N bị/V điểm/V liệt/A 
+Về/V trắc_nghiệm/V có/V 46/M điểm/N 10/M gồm/V Toán/N 1/M Hóa/Np 14/M Sinh/V 3/M Sử/N 1/M Địa/N 3/M GDCD/Np 3/M Tiếng_Anh/Np 21/M 
+Về/V điểm/N liệt/A trắc_nghiệm/V Hóa/N 12/M Sinh/V 1/M Lý/Np 3/M Toán/Np 5/M Anh/N 10/M Sử/Np 4/M Địa/N 1/M 
+Về/V từng/R môn/N trắc_nghiệm/V Toán/N 55,98%/M thí_sinh/N đạt/V điểm/N từ/E trung_bình/A trở_lên/A Lý/Np 59,79%/M Hóa/Np 51,48%/M Sinh/Np 36,77%/M Sử/Np 32,72%/M Địa/Np 79,63%/M GDCD/Np 98,77%/M Tiếng_Anh/Np 39,94%/M 
+Thừa_Thiên_Huế/Np có/V 72/M bài/N thi/V điểm/N 10/M Chiều/N 6/7/M TS/N 
+Phạm_Văn_Hùng/Np Giám_đốc/N Sở/N Giáo/N dục/N &/CC Đào_tạo/N tỉnh/N Thừa_Thiên_Huế/Np Trưởng/Np cụm/N thi/V THPT/Np Quốc_gia/Np 2017/M tại/E tỉnh/N Thừa_Thiên_Huế/Np cho_biết/V có/V 72/M điểm/N 10/M các/L môn/N qua/V thống_kê/V nhanh/A từ/E số_liệu/N điểm/N thi/V 
+Theo/E đó/P môn/N Toán/Np có/V 3/M bài/N thi/V đạt/V điểm/N 10/M môn/N Lý/Np có/V 1/M bài/N thi/V môn/N Hóa/Np có/V 40/M bài/N môn/N Sinh/V có/V 11/M 11/M bài/N môn/N Anh_văn/N có/V 13/M bài/N môn/N Địa_lý/N có/V 3/M bài/N và/CC môn/N Giáo_dục/N Công_dân/N có/V 1/M bài/N đạt/V điểm/N 10/M 
+Tổng_cộng/V có/V 72/M bài/N thi/V đạt/V điểm/N 10/M ở/E các/L môn/N qua/V kỳ/N thi/V THPT/Np Quốc_gia/Np 2017/M tại/E Thừa_Thiên_Huế/Np 
+Theo/E TS/N 
+Phạm_Văn_Hùng/Np số/N bài/N đạt/V điểm/N 10/M ở/E tỉnh/N là/V khá/R cao/A chất_lượng/N các/L thí_sinh/N tốt/A 
+Thí_sinh/N tỉnh/N Thừa_Thiên_Huế/Np dự/V thi/V THPT/Np Quốc_gia/Np 2017/M 
+Ảnh/N Đại_Dương/Np Tại_Hội/Np đồng/Nu 33/M do/E Sở/N GD/Np ĐT/Np tỉnh/N Thừa_Thiên_Huế/Np chủ_trì/V ở/E đợt/N thi/V vừa_qua/R có/V 32/M điểm/N thi/V trải/V dài/A ở/E 9/M huyện/N thị_xã/N thành_phố/N Huế/Np với/E 13.175/M thí_sinh/N dự/V thi/V 
+Tổng_kết/V kỳ/N thi/V diễn/V ra/R tốt_đẹp/A khi_không/N có/V sự_cố/N gì/P không/R có/V thí_sinh/N bị/V kỷ_luật/V 
+Cũng/R trong_sáng/A 6/7/M tại/E trang_web/N của/E Sở/N GD/Np ĐT/Np tỉnh/N này/P đã/R công_bố/V kết_quả/N kỳ/N thi/V THPT/Np Quốc_gia/Np năm/N 2017/M phụ_huynh/N và/CC thí_sinh/N có_thể/R vào/V 1/M trong/E 3/M đường/N link/V tại/E website/Np để/E tra_cứu/V kết_quả/N theo/E địa_chỉ/N sau/A https/V //X //X thuathienhue.edu.vn/tin-tuc/ket-qua-ky-thi-thpt-quoc-gia-nam-2017.htm/M 
+Hà_Nam/Np Có/V 41/M điểm/N 10/M trong/E kỳ/N thi/V THPT/Np quốc_gia/N 2017/M Theo/V thông_tin/N từ/E Sở/N GD&/Np ĐT/Np tỉnh/N Hà_Nam/Np cho_biết/V toàn/R tỉnh/N Hà_Nam/Np có/V 41/M điểm/N 10/M trong/E kỳ/N thi/V THPT/Np Quốc_gia/Np 2017/M ở/E các/L môn/N Địa_lý/N Lịch_sử/N Giáo_dục/N công_dân/N Hóa_học/N Toán/Np Tiếng_Anh/Np và/CC Tiếng_Nga/Np 
+Theo/V thống_kê/V từ/E Sở/N GD&/Np ĐT/Np tỉnh/N Hà_Nam/Np cho_biết/V toàn/R tỉnh/N Hà_Nam/Np có/V tổng_cộng/V 41/M điểm/N 10/M rơi/V vào/E các/L môn/N Toán/Np Hóa_học/N Tiếng_Anh/Np Tiếng_Nga/Np Lịch_sử/N Đia/Np lý/N và/CC Giáo_dục/N công_dân/N 
+Cụ_thể/A môn/N thi/V Địa_lý/N có/V số/N thí_sinh/N đạt/V điểm/N 10/M nhiều/A nhất/R với/E 12/M bài/N thi/V môn/N Hóa_học/N có/V 10/M bài/N môn/N Tiếng_Anh/Np 8/M bài/N môn/N Giáo_dục/N công_dân/N 5/M bài/N môn/N Toán/Np 2/M bài/N môn/N Lịch_sử/N 2/M bài/N môn/N Tiếng_Nga/Np 1/M bài/N 
+Cũng/R theo/V thống_kê/V sơ_bộ/A của/E Sở/N GD&/Np ĐT/Np tỉnh/N Hà_Nam/Np mức/N điểm/N từ/E 9/M trở_lên/A từng/R môn/N thi/V có/V tỷ_lệ/N như/C sau/N Ngữ_văn/N khoảng/A 0,6%/M Toán/Np khoảng/A 3,5%/M Vật_lý/N khoảng/A 2,8%/M Hóa_học/N khoảng/A 6,3%/M Sinh_học/N khoảng/A 1,4%/M Tiếng_Anh/Np khoảng/A 1,9%/M Tiếng_Nga/Np khoảng/A 31,6%/M Lịch_sử/N khoảng/A 1,3%/M Địa_lý/N khoảng/A 4,0%/M và/CC Giáo_dục/N công_dân/N khoảng/A 19,0%/M 
+Ở/E mức/N điểm/N 7/M trở_lên/A có/V tỷ_lệ/N ở/E các/L môn/N thi/V Ngữ_văn/N khoảng/A 27%/M Toán/Np khoảng/A 31%/M Vật_lý/N khoảng/A 35%/M Hóa_học/N khoảng/A 37%/M Sinh_học/N khoảng/A 10%/M Tiếng_Anh/Np khoảng/A 9%/M Tiếng_Nga/Np khoảng/A 58%/M Lịch_sử/N khoảng/A 11%/M Địa_lý/N khoảng/A 44%/M và/CC Giáo_dục/N công_dân/N khoảng/A 92%/M 
+Mức/N điểm/N từ/E 5/M trở_lên/A theo/E thống_kê/V sơ_bộ/N là/V Ngữ_văn/N 82%/M Toán/Np 61%/M Vật_lý/N 73%/M Hóa_học/N 71%/M Sinh_học/N 42%/M Tiếng_Anh/Np 26%/M Tiếng_Nga/Np 79%/M Lịch_sử/N 48%/M Địa_lý/N 89%/M Giáo_dục/N công_dân/N 99,7%/M 
+Số/N điểm/N liệt/A chiếm/V 0,06%/M cụ_thể/A Ngữ_văn/N có/V 1/M điểm/N liệt/A Toán/Np 5/M điểm/N liệt/A Vật_lý/N 1/M điểm/N liệt/A Hóa_học/N 3/M điểm/N liệt/A Sinh_học/N 8/M điểm/N liệt/A Tiếng_Anh/Np 11/M điểm/N liệt/A và/CC Địa_lý/N có/V 1/M điểm/N liệt/A 
+Bà/N Đinh_Thị_Lụa/Np Giám_đốc/N Sở/N GD&/Np ĐT/Np tỉnh/N Hà_Nam/Np cho_biết/V Sở/N GD&/Np ĐT/Np tỉnh/N Hà_Nam/Np đã/R gửi/V tất_cả/P dữ_liệu/N điểm/N thi/V về/E Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N để/E Bộ/N tiến_hành/V kiểm/V dò/V điểm/N và/CC nhập/V dữ_liệu/N lên/V hệ_thống/N nhằm/V thực_hiện/V rà_soát/N đối_sánh/V đảm_bảo/V chính_xác/A mới/R công_bố/V cho/E thí_sinh/N 
+Sau/E khi/N công_bố/V điểm/N thi/V chính_thức/A các/L thí_sinh/N mới/R có/V cơ_sở/N để/E điều_chỉnh/V nguyện_vọng/N xét/V tuyển/V đại_học/N cao_đẳng/N 
+Đồng_Tháp/Np 32/M bài/N thi/V điểm/N 10/M Thống_kê/V của/E Sở/N GD/Np ĐT/Np tỉnh/N Đồng_Tháp/Np có/V 32/M bài/N thi/V đạt/V điểm/N 10/M 
+Trong/E đó/P môn/N Giáo_dục/N công_dân/N chiếm/V nhiều/A nhất_là/X 13/M bài/N kế/N đó/P là/V môn/N Hóa/N 6/M bài/N 
+Số/N bài/N thi/V bị/V điểm/N liệt/A là/V 12/M Về/V kết_quả/N các/L môn/N thi/V Sở/N này/P cho_biết/V môn/N thi/V có/V tỉ_lệ/N thí_sinh/V đạt/V từ/E 5/M điểm/N trở_lên/A cao/A nhất_là/X môn/N Giáo_dục/N công_dân/N 99,7%/M 
+Tỉ_lệ/N này/P ở/E các/L môn/N khác/A là/V Văn/Np 83,1%/M Toán/N 57,1%/M Lý/Np 60,7%/M Hóa/N 61,4%/M Sinh/V 50,5%/M Ngoại_ngữ/N 31,9%/M Sử/Np 45,8%/M 
+Cà_Mau/Np Môn_Tiếng_Anh/Np có/V điểm/N dưới/N trung_bình/A cao/A nhất/R Qua/V thống_kê/V điểm/N thi/V THPT/Np quốc_gia/N 2017/M của/E Sở/N GD/Np ĐT/Np tỉnh/N Cà_Mau/Np môn/N Tiếng_Anh/Np có/V điểm/N dưới/N trung_bình/A cao/A nhất/R so/V với/E các/L môn/N thi/V còn/V lại/R 
+Qua/E thống_kê/V cho/E thấy/V các/L môn/N Toán/N Vật_lý/N Hóa_học/N Sinh_học/N và/CC Tiếng_Anh/Np có/V điểm/N dưới/N trung_bình/A cao/A nhất/A từ/E 52%/M 79%/M số/N thí_sinh/N dự/V thi/V 
+Cụ_thể/A môn/N Toán/Np có/V 7.640/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 56,45%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 43,55%/M trên/N trung_bình/A 
+Môn_Vật_Lý/Np có/V 3.960/M thí_sinh/N dự/V thi/V có/V 52,75%/M số/N thí_sinh/N có/V điểm/N dưới/E trung_bình/A có/V 47,52%/M điểm/N trên/E trung_bình/A 
+Môn_Hóa/Np học/V có/V 3.959/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 56,35%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 43,65%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A có/V 4/M thí_sinh/N đạt/V điểm/N 10/M 
+Môn_Sinh/Np học/V có/V 3.914/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 54,16%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 45,84%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A có/V 1/M thí_sinh/N đạt/V điểm/N 10/M 
+Môn_Tiếng_Anh/Np có/V 6.943/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 79,03%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 20,07%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A có/V 1/M thí_sinh/N đạt/V điểm/N 10/M 
+Ở/E 4/M môn/N còn/V lại/R là/V Văn/Np Lịch_sử/N Địa_lý/N và/CC Giáo_dục/N công_dân/N thì/C tỷ_lệ/V điểm/N dưới/N trung_bình/A cao/A nhất_là/X môn/N Lịch_sử/N và/CC thấp/A nhất_là/X môn/N Giáo_dục/N công_dân/N 
+Cụ_thể/A môn/N Văn/Np có/V 7.570/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 34,21%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 65,79%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A 
+Môn_Lịch_Sử/Np có/V 4.074/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 49,07%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 50,93%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A 
+Trong/E đó/P có/V 1/M thí_sinh/N đạt/V điểm/N 10/M 
+Môn_Địa_Lý/Np có/V 3.943/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 14,35%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 85,65%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A có/V 5/M thí_sinh/N đạt/V điểm/N 10/M 
+Môn_Giáo/Np dục/V công_dân/N có/V 3.461/M thí_sinh/N dự/V thi/V trong/E đó/P có/V 0,29%/M thí_sinh/N có/V điểm/N dưới/E trung_bình/A 99,71%/M thí_sinh/N có/V điểm/N trên/A trung_bình/A có/V 3/M thí_sinh/N đạt/V điểm/N 10/M 
+Qua/V kết_quả/N trên/A chỉ/R có/V 1/M em/N có/V điểm/N 0/M ở/E môn/N Địa_lý/N có/V khoảng/N 680/M thí_sinh/N có/V điểm/N từ/E 9-10/M điểm/N môn/N Giáo_dục/N công_dân/N có/V số/N thí_sinh/N có/V điểm/N từ/E 9-10/M điểm/N nhiều/A nhất/R với/E 407/M thí_sinh/N 
+Nhóm/N PV/Np 

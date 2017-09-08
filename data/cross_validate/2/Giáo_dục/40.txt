@@ -1,0 +1,11 @@
+Đồng_Nai/Np công_bố/V điểm_chuẩn/N tuyển_sinh/V lớp/N 10/M
+Điểm_chuẩn/N tuyển_sinh/N vào/V lớp/N 10/M tại/E Đồng_Nai/Np năm_học/N 20172018/M
+Theo/E số_liệu/N do/E Sở/N GDĐT/N Đồng_Nai/Np công_bố/V có/V tổng_cộng/N 7158/M học_sinh/N đậu/N nguyện_vọng/N 1/M vào/N 19/M trường/N công_lập/N trên/N địa_bàn/N
+Trường/Np THPT/Np chuyên/V Lương_Thế_Vinh/Np tuyển/V tổng_cộng/V 400/M chỉ_tiêu/N cả/P lớp/N chuyên/A và/CC không/R chuyên/V
+Trong/E tốp/N đầu/N Trường/N THPT/Np Ngô_Quyền/Np tiếp_tục/V là/V trường/N có/V điểm_chuẩn/N cao/A nhất/A 38/M điểm/N
+Xếp/N tiếp_theo/V lần/N lượt_là/V Trường/N THPT/Np Trấn_Biên/Np có/V điểm_chuẩn/N 3575/M Trường/N THPT/Np Nguyễn_Trãi/Np 3225/M
+Trường/N THPT/Np Đoàn_Kết/Np có/V điểm_chuẩn/N thấp/A nhất/A 1825/M tiếp/N đến/V là/V Trường/N THPT/Np Trị_An/Np và/CC THPT/Np Thống_Nhất/Np cùng/A 195/M điểm/N
+Riêng/T đối/N vơ/N ́/N i/N Trươ/Np ̀/V ng/N THPT/Np Tân_Phú/Np do/E co/N ̀/N n/N đang/R xe/V ́/N t/N điê/N ̉/N m/N ưu_tiên/N vơ/N ́/N i/N mô/N ̣/V t/N sô/N ́/N ho/N ̣/N c/N sinh/V thuô/N ̣/N c/N â/N ́/N p/N kho/V ́/N khăn/N nên/C sẽ/R công_bố/V sau/N
+Châ/N ̣/N m/N nhâ/N ́/N t/N nga/N ̀/N y/N 276/M Sơ/Np ̉/V GDĐT/N Đồng_Nai/Np sẽ/R công_bố/V bổ_sung/V điểm_chuẩn/N tuyển_sinh/N của/N trường/N
+Cũng/R theo/V Sở/N GDĐT/N Đồng_Nai/Np trong/E năm_học/N 20172018/M các/L trường/N THPT/Np trên/E địa_bàn/N tỉnh/N dự_kiến/V tuyển/V khoảng/N 26900/M chỉ_tiêu/N vào/V lớp/N 10/M công_lập/N và/CC ngoài/N công_lập/N
+A/I LỘC/N

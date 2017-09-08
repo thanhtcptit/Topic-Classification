@@ -1,0 +1,12 @@
+Hôm_nay/N công_bố/V đáp_án/N chính_thức/A kì/N thi/V THPT/Np quốc_gia/N
+Bài/N thi/V khoa_học_xã_hội/X gồm/V ba/N môn/N thi/V thành_phần/N lịch_sử/N địa_lí/A và/CC giáo_dục/N công_dân/N
+Mỗi/L môn/N thành_phần/N có/V 40/M câu/N trắc_nghiệm/A với/E thời_gian/N làm/V bài/N 50/M phútmôn/N
+Đây/P là/V năm/N đầu_tiên/A môn/N giáo_dục/N công_dân/N được/V đưa/V vào/R kì/N thi/V THPT/Np quốc_gia/N và/CC cũng/R là/V năm/N đầu_tiên/A các/L môn/N lịch_sử/N địa_lí/N và/CC giáo_dục/N công_dân/N được/V tổ_chức/V thi/V bằng/E hình_thức/N trắc_nghiệm/N
+Năm/N 2017/M số/N thí_sinh/N đăng_kí/N dự/V thi/V bài/N khoa_học_xã_hội/X nhiều/A hơn/R số/N thí_sinh/N dự/V thi/V bài/N thi/V khoa_học_tự_nhiên/X
+Theo/V đó/P cả/A nước/N có/V hơn/A 430000/M thí_sinh/N đăng_kí/N dự/V thi/V bài/N khoa_học_xã_hội/X
+Trong/E đó/P nhiều/A thí_sinh/N dù/N đăng_kí/V xét/N tuyển/N ĐH/N bằng/E các/L tổ_hợp/N gồm/V các/L môn/N khoa_học_tự_nhiên/X nhưng/C vẫn/R đăng_kí/V bài/N thi/V khoa_học_xã_hội/X để/E xét/V tốt_nghiệp/V THPT/Np
+Ngoài/E thí_sinh/N lớp/N 12/M chọn/N bài/N thi/V khoa_học_xã_hội/X để/E xét/V tốt_nghiệp/N THPT/Np phải/V thi/V toàn_bộ/N ba/N môn/N thành_phần/N còn/R có/V các/L thí_sinh/N tự_do/N chọn/V thi/V các/L môn/N thành_phần/N của/E bài/N khoa_học_xã_hội/X phù_hợp/V với/E tổ_hợp/N xét/N tuyển/V ĐH/N
+Theo/E thống_kê/N của/E Bộ/Np GD/Np ĐT/Np cả/A nước/N có/V hơn/A 430000/M thí_sinh/N chọn/V thi/V môn/N giáo_dục/N công_dân/N gần/A 500000/M thí_sinh/N chọn/V môn/N địa_lí/N
+Riêng/T ở/E môn/N lịch_sử/N có/V hơn/A 513000/M thí_sinh/N đăng_kí/N dự/V thi/V chiếm/V gần/A 60/M tổng/N thí_sinh/N đăng_kí/N tham_dự/V kì/N thi/V THPT/Np quốc_gia/N cao/A hơn/A nhiều/A so/V với/E các/L năm/N trước/N
+Ban/N chỉ_đạo/V thi/V THPT/Np quốc_gia/N xác_nhận/V các/L năm/N trước/N đây/P chưa/R bao_giờ/N tỉ_lệ/N thí_sinh/N đăng_kí/V dự/V thi/V môn/N lịch_sử/N cao/A quá/R 15/M so/V với/E tổng_số/N thí_sinh/N đăng_kí/V dự/V thi/V
+NGỌC/M HÀ/N

@@ -1,0 +1,20 @@
+Điều_khiển/V trọng_lực/N theo/V ý_muốn/N
+Theo/E Science_Alert/Np hiểu_biết/V của/E con_người/N về/E tác_động/N của/E trọng_lực/N lên/E vũ_trụ/N vẫn/R chỉ/R giới_hạn/V trong/E quan_sát/V về/E các/L trường/N hấp_dẫn/V tự_nhiên/A tạo/V ra/R bởi/E những/L ngôi_sao/N và/CC hành_tinh/N xa_xôi/A
+Trong/E thực_tế/N đây/P là/V lực/N duy_nhất/A trong/E 4/M lực/N tương_tác/V cơ_bản/A tương_tác/N hấp_dẫn/V tương_tác/V điện_từ/N tương_tác/V mạnh/A tương_tác/N yếu/A mà/C con_người/N chưa_thể/R tạo/V ra/R và/CC kiểm_soát/V được/R
+Hôm/N 12/1/M nhà_vật_lý/N lý_thuyết/N người/N Mỹ_Lawrence_Krauss/Np thông_báo/V trên/E tài_khoản/N Twitter/Np của/E mình/P rằng/C các/L thí_nghiệm/N phát_hiện/V sóng/N hấp_dẫn/V –/V những/L vết/N gợn/A của/E không/R thời_gian/N cong/A như/C Einstein/Np dự_đoán/N cách/V đây/P 100/M năm/N đã/R thành_công/V
+Andre_Fuzfa/Np một/M nhà/N toán_học/N tại/E Đại_học/N Namur_Bỉ/Np đề_xuất/V chế_tạo/V một/M thiết_bị/N tạo/V ra/R và/CC điều_khiển/V trọng_lực/N dù/C mới/R chỉ/R dừng/V lại/R ở/E trường/N hấp_dẫn/V nhỏ/A mà/C không/R đòi_hỏi/V bất_kỳ/R công_nghệ/N mới/A nào/P
+Nghiên_cứu/N của/E ông/N được/V đăng_tải/V trên/E tạp_chí/N Physical_Review/Np D/Np hôm/N 11/1/M
+Đây/P sẽ/R là/V điều_kiện/N cho_phép/V các/L nhà_vật_lý/N lần/N đầu_tiên/A có_thể/R chủ_động/V nghiên_cứu/V trường/N hấp_dẫn/V từ/E quan_điểm/N khoa_học/N và/CC sẵn_sàng/A kiểm_chứng/V thuyết_tương_đối/N của/E Einstein/Np
+Thậm_chí/R có_thể/R ứng_dụng/V để/E nghiên_cứu/V công_nghệ/N truyền_thông/N mới/R dựa/V trên/E lực/N hấp_dẫn/V thay_vì/V sóng_điện_từ/N
+Một/M tiến_bộ/N khoa_học/N kiểu/N này/P mới/R chỉ/R có/V trong/E các/L tác_phẩm/N khoa_học_viễn_tưởng/X nhưng/C nó/P có_thể/R mở/V ra/R nhiều/A ứng_dụng/N mới/R ví_dụ/V trong/E lĩnh_vực/N viễn_thông/V với/E các/L sóng/N hấp_dẫn/V Fuzfa/Np cho_biết/V
+Hãy/R tưởng_tượng/V tới/E việc/N liên_lạc/V giữa/E hai/M bên/N bán_cầu/A mà/C không/R cần/V sử_dụng/V vệ_tinh/N hay/C các/L trạm/N tiếp/V sóng/N trên/E mặt_đất/N
+Thiết/Np  /V bị/V lý_thuyết/N ông/N đề_xuất/V dựa/V trên/E một/M nam_châm/N siêu_dẫn/N lớn/A giống/A loại/N đang/R được/V sử_dụng/V ở/E máy_gia_tốc/N hạt/N lớn/A LHC/Np để/E tạo/V ra/R một/M từ_trường/N mạnh/A và/CC dễ/A kiểm_soát/V
+Các/L nhà_vật_lý/N sẽ/R dễ_dàng/A quan_sát/V hiệu_ứng/N bẻ/V cong/A không/R thời_gian/N của/E từ_trường/N  /N Khả_năng/N chế_tạo/V thành_công/N thiết_bị/N này/P từ/E các/L tính_toán/V lý_thuyết/N của/E Fuzfa/Np là/V khá/R cao/A
+Nó/P dựa/V trên/E nguyên_lý/N trung_tâm/N của/E thuyết_tương_đối/N Einstein/Np –/M nguyên_lý/N tương_đương/A
+Nguyên_lý/N này/P cho/V rằng/C các/L trạng_thái/N của/E mọi/L loại/N năng_lượng/N và/CC khối_lượng/N đều/R bị/V ảnh_hưởng/V bởi/E trường/N hấp_dẫn/V theo/V cùng/A một_cách/N
+Do_đó/C một/M trường/N điện_từ/N cũng/R phải/V có/V khả_năng/N bẻ/V cong/A không/R thời_gian/N giống/A như/C trường/N hấp_dẫn/V của/E một/M hành_tinh/N hay/C một/M ngôi_sao/N
+Tuy_nhiên/C độ/N cong/A này/P trên/E Trái_Đất/Np là/V rất/R nhỏ/A và/CC khó/A phát_hiện/V
+Theo/E Fuzfa/Np bằng/E cách/N tạo/V ra/R một/M nam_châm/N siêu_dẫn/V lớn/A với/E từ_trường/N mạnh/A có_thể/R làm/V xuất_hiện/V một/M trường/N hấp_dẫn/V dù/E yếu/A nhưng/C vẫn/R có_thể/R phát_hiện/V bằng/E các/L giao_thoa/N kế/N có/V độ/N nhạy/V cao/A
+Các/L giao_thoa/N kế/V sẽ/R chồng/N các/L trường/N hấp_dẫn/V lên/V nhau/N để/E có_thể/R thu/V được/R thông_tin/N về/V chúng/P
+Vấn_đề/N lớn/A trong/E việc/N chế_tạo/V thiết_bị/N này/P là/V nó/P rất/R tốn_kém/V và/CC khó/A thực_hiện/V
+Tuy_nhiên/C để/E có_thể/R điều_khiển/V lực/N hấp_dẫn/V như/C con_người/N đang/R điều_khiển/V ba/M loại/Nc tương_tác/N còn/V lại/R nó/P đáng/V để/E thử_nghiệm/V và/CC đầu_tư/V

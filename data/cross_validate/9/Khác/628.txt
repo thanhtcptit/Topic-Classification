@@ -1,0 +1,17 @@
+FPT/Np tổ_chức/V chuỗi/Nc sự_kiện/N công_nghệ/N cho/E cộng_đồng/N
+Tên/N của/E chuỗi/Nc sự_kiện/N công_nghệ/N được/V đặt/V là/V f/N transform/V /N /M một/M câu_lệnh/N phổ_biến/V trong/E ngôn_ngữ_lập_trình/N
+Trong/E đó/P lớp/N đầu_tiên/A là/V f/N viết/V tắt/A của/E FPT/Np transform/N là/V hàm/N với/E ý_nghĩa/N chuyển_đổi/V số_hoá/N
+Chuyển_đổi/N này/P không_chỉ/C diễn/V ra/R trong/E FPT/Np mà_còn/C chuyển_đổi/V ở/E khách_hàng/N đối_tác/N cộng_đồng/N công_nghệ/N trong/E cuộc/N cách_mạng_công_nghiệp/V lần/N thứ_tư/N
+f ansform/N /M /N sẽ/R diễn/V ra/R từ/E ngày/N 3/6/M đến/V 6/6/M tại/E Hà_Nội/Np với/E nhiều/A hoạt_động/N giúp/V cộng_đồng/N công_nghệ/N Việt_Nam/Np gặp_gỡ/V trải_nghiệm/V và/CC phát_triển/V sản_phẩm/N dựa/V trên/E các/L dữ_liệu/N kết_quả/N nghiên_cứu/V được/V FPT/Np mở/V ra/R bên/N ngoài/N
+Chung_kết/N cuộc_thi/N lập_trình/V trí_tuệ_nhân_tạo/X  /M Vietnam/Np AI/Np Hackathon/Np sẽ/R diễn/V ra/R trong/E hai/M ngày/N 3-4/M //X 6/M  /M dành/V cho/E sinh_viên/N lập_trình_viên/N kỹ_sư/N và/CC người_yêu/N công_nghệ/N trên/E cả/P nước/N
+Được/V phát_động/V từ/E ngày/N 11/5/M dựa/V trên/E các/L tiêu_chí/N như/C khả_năng/N ứng_dụng/V thực_tiễn/N sáng_tạo/N đột_phá/V Ban/N tổ_chức/V sẽ/R chọn/V ra/R 15/M ý_tưởng/N xuất_sắc/A để/E tham_gia/V vòng/N chung_kết/N
+Tổng/N giá_trị/N giải_thưởng/N của/E cuộc_thi/N lên/R tới/V 700/M triệu/M đồng/Nu
+Trong/E ngày/N 5/6/M FPT/Np và/CC Đại_học/N Khoa_học/N Tự_nhiên/A Đại_học/N Quốc_gia/Np Hà_Nội/Np sẽ/R ký/V thỏa_thuận/N hợp_tác/V phát_triển/V nguồn_lực/N công_nghệ_cao/N
+FPT/Np sẽ/R hỗ_trợ/V một/M học_bổng/N tiến_sĩ/N toàn_phần/N trị_giá/V 700/M triệu/M đồng/Nu
+Các/L chuyên_gia/N công_nghệ/N của/E FPT/Np cũng/R trực_tiếp/A đào_tạo/V và/CC giảng_dạy/V tại/E trường/N cung_cấp/V trang_thiết_bị/N nghiên_cứu/V để/E hỗ_trợ/V giảng_viên/N nghiên_cứu_viên/N và/CC sinh_viên/N hoàn_thiện/V sản_phẩm/N nghiên_cứu/V công_nghệ/N …/N  /M Trong/E khi/N đó/P Ngày/N công_nghệ/N FPT/Np sẽ/R diễn/V ra_vào/V 6/6/M quy_tụ/V những/L tên_tuổi/N lớn/A về/E phát_triển/V và/CC ứng_dụng/V trí_tuệ_nhân_tạo/X như/C AT&/Np T/Np DuPont/Np Amazon_Web_Services/Np
+Xu_hướng/N AI/Np và/CC câu_chuyện/N về/E việc/N ứng_dụng/V công_nghệ/N mới/R vào/V thực_tiễn/N Việt_Nam/Np đón/V làn_sóng/N trí_tuệ_nhân_tạo/X như_thế_nào/X
+sẽ/R được/V các/L lãnh_đạo/N tập_đoàn/N chia_sẻ/V
+FPT/Np dự_kiến/V hé/V lộ/V những/L nghiên_cứu/N và/CC kết_quả/N mới/A nhất/A trong/E lĩnh_vực/N trí_tuệ_nhân_tạo/N của/E họ/P
+Theo/E ông/Nc Lê_Hồng_Việt/Np Giám_đốc/N công_nghệ/N FPT/Np nuôi_dưỡng/V và/CC phát_triển/V hệ_sinh_thái/N đang/R là/V mục_tiêu/N của/E nhiều/A tập_đoàn/N công_nghệ/N trên/E thế_giới/N
+Những/L công_nghệ/N như/C IoT/Np AI/Np và/CC AR/Np đang/R là/V nhân_tố/N chính/T tạo/V nên/C cuộc/N chuyển_đổi/V số/N
+FPT/Np hiện/V tập_trung/V phát_triển/V các/L sản_phẩm/N dịch_vụ/N áp_dụng/V các/L nền_tảng/N công_nghệ/N này/P

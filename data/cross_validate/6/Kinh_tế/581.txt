@@ -1,0 +1,24 @@
+Sản_lượng/N Ôtô_Trường_Hải/Np giảm/V hơn/R 5 0/M xe/N
+Theo/E số_liệu/N của/E Hiệp_hội/N các/L nhà_sản_xuất/N ôtô/N Việt_Nam/Np /V VAMA/Np /M nhà_sản_xuất/N Trường_Hải/Np bán/V được/R hơn/A 47 0/M xe/N trong/E 6/M tháng/N đầu/N năm/N
+So/V với/E cùng/A kỳ/N 2016/M doanh_số/N giảm/V 10%/M tương_đương/V với/E hơn/R 5 0/M xe/N
+Đây/P là/V mức/N giảm/V cao/A nhất/R trong/E các/L nhà_sản_xuất/N ôtô/N nửa/M đầu/N năm/N nay/P do/E Trường_Hải/Np cũng/R là/V đơn_vị/N có/V sản_lượng/N đứng/V đầu/N thị_trường/N
+Tất_cả/P các/L thương_hiệu/N mà/C Trường_Hải/Np lắp_ráp/V đều/R ghi_nhận/V doanh_số/N giảm/V
+Trong/E đó/P Kia/P giảm/V 12%/M tương_đương/A hơn/R 1 0/M xe/N Mazda/Np giảm/V 8%/M tương_đương/V gần/A 1 0/M xe/N
+Riêng/T tiêu_thụ/V của/E Peugeot/Np giảm/V đến/E 61%/M tương_đương/A hơn/A 200/M xe/N
+Tình_hình/N kinh_doanh/V của/E Trường_Hải/Np suy_giảm/V diễn/V ra/R trong/E bối_cảnh/N thị_trường/N ôtô/N Việt_Nam/Np nửa/M đầu/N năm/N không/R có/V tăng_trưởng/V thậm_chí/R là/V giảm/V nhẹ/A
+VAMA/M cho_hay/N tiêu_thụ/V xe/N toàn/R thị_trường/N sáu/M tháng/N qua/V đạt/V khoảng/N 134 0/M chiếc/Nc giảm/V 1%/M so/V với/E cùng/A kỳ/N năm_ngoái/N
+Đây/P không/R phải/V là/V kết_quả/N bất_ngờ/A khi/N thị_trường/N liên_tục/A ghi_nhận/V những/L dấu_hiệu/N không/R mấy/L sáng_sủa/N trong/E vài/L tháng/N gần/A đây/P
+Hồi/N tháng/N 4/2016/M sản_lượng/N xe/N bán/V ra/R bỗng_dưng/R lao/V dốc/N kỳ_lạ/A giảm/V đến/E 15%/M so/V với/E tháng/N 4/2016/M
+Tháng/N 6/M vừa_rồi/X tiêu_thụ/V ôtô/N có/V phần/N ổn_định/A hơn/A nhưng/C cũng/R giảm/V 0,2%/M so/V với/E tháng/N 6/2016/M
+Theo/E nhiều/A lý_giải/V tiêu_thụ/V ôtô/N đang/R có/V chiều_hướng/N sụt_giảm/V một/M phần/N do/E nhiều/A người/N đang/R có/V tâm_lý/N đợi/V đến/E đầu/N năm/N 2018/M thời_điểm/N thuế/N nhập_khẩu/V ôtô/N nguyên/A chiếc/Nc từ/E khu_vực/N ASEAN/Np vào/E Việt_Nam/Np giảm/V xuống/R còn/R 0%/M so/V với/E mức/N 30%/M như/C hiện_nay/N
+Tuy_nhiên/C trong/E một/M dự_báo/V đưa/V ra/R cuối/N tháng/N rồi/C chủ_tịch/N VAMA/Np Toru_Kinoshita/Np cho/V rằng/C thị_trường/N nửa/M cuối/N năm/N vẫn/R sẽ/R tăng_trưởng/V
+Do_đó/C VAMA/Np giữ/V nguyên/A dự_báo/V tiêu_thụ/V ôtô/N tăng/V 10%/M trong/E năm/N 2017/M đã/R được/V đưa/V ra/R đầu/N năm/N
+Xét/V kỹ/A hơn/R thị_trường/N 6/M tháng/N qua/R suy_giảm/V sản_lượng/N ở/E mảng/N xe/N lắp_ráp/V trong/E nước/N với/E mức/N 6%/M
+Trong/E khi/N đó/P sản_lượng/N xe/N nhập_khẩu/V bán/V ra/R vẫn/R tăng/V 15%/M
+Khác/A với/E Trường_Hải/Np hàng_loạt/N đơn_vị/N vừa/R sản_xuất/V vừa/R nhập_khẩu/V đều/R báo_cáo/V sản_lượng/N tiêu_thụ/V tăng/V
+So/V với/E nửa/N đầu/N năm_ngoái/N Toyota/Np bán/V được/R nhiều/A hơn/R gần/A 4 0/M xe/N tương_đương/V tăng_trưởng/V 19%/M
+Mercedes-Benz/Np cũng/R bán/V thêm/R được/V hơn/R 900/M chiếc/Nc tăng_trưởng/V đến/V 37%/M
+GM/Np Việt_Nam/Np và/CC Mitsubishi/Np cũng/R tăng/V ở/E mức/N hai/M con_số/N
+Sản_lượng/N xe/N tiêu_thụ/V của/E Ford/Np tăng/V nhưng/C khiêm_tốn/A ở/E mức/N 4%/M
+Liên_tục/A những/L tháng/N qua/V để/E thu_hút/V người/N mua/V nhiều/A hãng/N liên_doanh/V lắp_ráp/V ôtô/N trong/E nước/N không/R ngần_ngại/V đưa/V ra/R các/L chương_trình/N khuyến_mãi/V giảm_giá/V lên/R đến/E gần/A trăm/M triệu/M đồng/Nu mỗi/L xe/N một/M động_thái/N chưa/R có/V tiền_lệ/N trong/E ngành/N kinh_doanh/V ôtô/N vài/L năm/N trước_đây/N
+Tuy_nhiên/C chủ_tịch/N VAMA/Np cũng/R nhận_định/V các/L hãng/N và/CC đại_lý/N sẽ/R khó_lòng/A giảm/V thêm/V trong/E  /N 6/M tháng/N còn/V lại/R vì/E các/L mức/N giá/N hiện_nay/N đã/R gần_như/R chạm/V đáy/N đối_với/E các/L nhà/N lắp_ráp/V trong/E nước/N

@@ -1,0 +1,7 @@
+Website/N dùng/V Magento/Np đối_mặt/V mã/N độc/A nguy_hiểm/A
+Khám_phá/N mới/A của/E nhà/N nghiên_cứu/V bảo_mật/V Jeroen_Boersma/Np phát_hiện/V một/M loại/Nc mã/N độc/A được/V viết/V từ/E mã/N Javascript/Np chuyên/V nhắm/V vào/E các/L website/N dùng/V Magento/Np
+Điểm/N đặc_biệt/A ở/E loại/N mã/N đôc/N này/P là/V khi/N bị/V quản_trị/V viên/N admin/N phát_hiện/V và/N xoá/N đi/V chúng/P đi/V trong/E mã_nguồn/N website/N loại/N mã/N độc/A này/P tự/P rà_soát/V lại/R sự/N hiện_diện/V của/E mình/P rồi/C khôi_phục/V lại/R nó/N ở/V tất_cả/N các/L mô/N đun/N của/E website/N bằng/E một/M mánh/N tận/N dụng/N cơ_sở_dữ_liệu/N của/E website/N đó/P
+Mã/N độc/A ẩn/V mình/P trong/E hệ_thống/N khi/N có/V khách/N đặt_hàng/V thông_tin/N thẻ_tín_dụng/N cùng/N thông_tin/N chủ/N thẻ/N bị/V thu_thập/V
+Nhà/N phân_tích/V mã/N độc/A Willem/Np de/V Groot/Np
+Mã/N độc/A có_thể/A bị/V chèn/V vào/R website/N dùng/V Magento/Np qua/V các/L lỗ_hổng/N bảo_mật/V dạng/N 0/M day/N chưa/R có/V bản/N vá/V từ/E nhà/N phát_triển/V hoặc/N các/L lỗi/N bảo_mật/V mà/C chủ_nhân/N website/N chưa/R cập_nhật/V bản/N vá/V
+Tin_mừng/N là/V các/L chủ/N website/N dùng/V Magento/Np có_thể/R sử_dụng/V bộ/N quét/N và/CC phân_tích/V của/E Willem/Np de/N Groot/Np phát_triển/V để/E phát_hiện/V mã/V độc/N trên/N truy_cập/N Github/Np để/E tải/N bộ/N công_cụ/N Malware_Scanner/Np hoặc/N công_cụ/N trực_tuyến/A Magereport/Np

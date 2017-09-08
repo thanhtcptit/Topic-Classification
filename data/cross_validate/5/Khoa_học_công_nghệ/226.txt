@@ -1,0 +1,40 @@
+Giải_mã/N hệ_điều_hành/N phương_thức/N truyền_tải/N của/N BPhone/N
+Hệ/N điều_hành/V BOS/Np hay/C Android/Np
+Theo/E Bkav/Np BPhone/V dùng/V hệ/N điều/N hành/N BOS/Np BOS/Np ở/E đây/P có_thể/A hiểu/V là/V Bkav_Operating_System/Np và/CC được/V giới_thiệu/V là/C trên/N nền/N Android/Np 51/M Lollipop/Np
+Điều/N này/P tạo/V luồng/N tranh_luận/N trên/N mạng_xã_hội/N Facebook/Np nhiều/A người/N cho/V rằng/C tại_sao/N không/R nói/V là/C Android/Np và/CC gói/N giao_diện/N của/E Bkav/Np hay/C B_Launcher/Np mà_lại/N gọi/V BOS/Np
+Phần/N giới_thiệu/V không/R nói/V rõ/A BOS/Np trên/E Android/Np là/V bản/N Android/Np thương_mại/N do/N Google/Np cung_cấp/V cho/E các/L hãng/N sản_xuất/V điện_thoại/N kèm/V theo/V những/L điều_khoản/N quy_định/N hay/C phiên_bản/N nguồn/N mở/V Android_Open_Source_Project/Np
+Để/E hiểu/V rõ/A bạn_đọc/N có_thể/R biết/V Google/Np không/R cung_cấp/V bữa/N trưa/N miễn_phí/V bên/N cạnh/N Android/Np phiên_bản/N thương_mại/N của/E Google/Np còn/V một/M phiên_bản/N mã_nguồn/N mở_mang/V tên/N Android_Open_Source_Project/Np hay/C thường/R được/V gọi/V tắt/N là/V AOSP/Np cung_cấp/V bởi/E liên_minh/N mở/V Open_Handset_Alliance/Np OHA/Np do/E Google/Np dẫn_đầu/V cùng/A nhiều/A hãng/N công_nghệ/N cùng/A nhà/N mạng/N viễn/N thông/N như/C Qualcomm/Np Broadcom/Np HTC/Np Intel/Np Samsung/Np Motorola/Np Sprint/Np Texas_Instruments/Np NTT/Np Docomo/Np KDDI/Np
+Các/L tên_tuổi/N lớn/A không/R có/V trong/E liên_minh/N OHA/Np gồm/V Nokia/Np Symbian/Np Apple/Np BlackBerry/V RIM/Np Microsoft/Np Verizon/Np và/CC Cingular/Np
+Phiên_bản/N Android/Np tuy/C cung_cấp/V miễn_phí/N nhưng/C phải/V kèm/V theo/R gần/A 20/M chục/N ứng_dụng/N của/E Google/Np và/CC kí/N kết/V Mobile_Application_Distribution_Agreement/Np MADA/Np từ/E Gmail/Np bản_đồ/N Maps/Np đám/N mây/N Drive/Np YouTube/V HangOuts/N công_cụ/N tìm_kiếm/V Google_Search/Np
+tràn_ngập/V bên/N trong/N và/CC xuất_hiện/V lên/E giao_diện/N chính/A Home/Np của/E một/M chiếc/Nc smartphone/N Android/Np khi/N đến/V tay/N người_dùng/N
+Miễn_phí/V nhưng/C không/R miễn_phí/V
+Lấy/V ví_dụ/N hai/M hãng/N điện_thoại/N Xiaomi/Np có/V hệ_điều_hành/N MIUI/Np và/CC Oppo/Np có/V ColorOS/N cả/P hai/M HĐH/N này/P đều/R dựa/V trên/E nền/N Android/Np
+Tuỳ_thuộc/V vào/V việc/N kí_kết/V với/E Google/Np mà/C Oppo/Np hay/C Xiaomi/Np có_thể/A can_thiệp/V sâu/A vào/E mã_nguồn/N Android/Np tới/V mức_độ/N nào/N và/CC thương_mại_hoá/N bản/N Android/Np đã/R được/V thay_đổi/V của/N họ/N
+Một_số/N nhà/N sản_xuất/V như/C Samsung/Np tuy/N tự/V phát_triển/V một/M hệ_sinh_thái/N hùng_hậu/N gồm/V chợ/N ứng_dụng/N Samsung_Galaxy_Apps/Np đám/N mây/N
+nhưng/C bị/V cái/Nc bóng/N của/E MADA/Np đè_nặng/N nên/C vẫn/R phải/V có/V sự/N hiện_diện/V của/E các/L ứng/N dụngdịch/N vụ/N Google/Np
+Bên_cạnh/N đó/P theo/V điều_khoản/N MADA/Np các/L phiên_bản/N hệ_điều_hành/N dùng/V trên/N thiết_bị/N Android/Np phải/V chống/V phân/N mảng/N tức/N phải/V tương_thích/V với/E các/L bản/N phát_hành/V bởi/N Google/Np
+Do/E đó/P Samsung/Np chỉ/R dừng/V lại/R ở/V mức/N hệ_điều_hành/N Android/Np và/CC giao_diện/N TouchWiz/V UI/Np
+Một/M ví_dụ/N khác/A về/V làm/V điện_thoại/N Android/Np phiên/V bản/N tự_do/N thoát/V khỏi/V các/L ràng_buộc/N MADA/Np của/E Google/Np cần/V nhắc/V đến/R Amazon/Np với/E chiếc/Nc smartphone/N Fire_Phone/Np dùng/V hệ_điều_hành/N Fire/Np OS/Np trên/E nền/N Android/Np
+Amazon/N loại/N hết/V các/L ứng_dụng/N và/CC dịch_vụ/N của/E Google/Np bao_gồm/V cả/P chợ/N ứng_dụng/N Google_Play/Np thay/V vào/E bằng/N hệ/N sinh/N thái/N của/N mình/N
+Trở_lại/V với/E Bkav/Np BPhone/N có/V tích_hợp/N sẵn/V các/L ứng_dụng/N của/E Google/Np như/A Ch_Play/Np Google_Play/Np Maps/Np Google_Apps/Np
+nên/C có/V lẽ/N BPhone/N vẫn/R lệ_thuộc/V vào/E MADA/Np dù/C ông/N Nguyễn_Tử_Quảng/Np tuyên_bố/V Bkav/Np phát_triển/V hệ/N điều/N hành/V BOS/Np
+Ghi_nhận/N ban_đầu/N về/V BOS/Np ở/E mức/N thay_đổi/V giao_diện/N UI/Np so/V với/E giao_diện/N gốc/N của/E Android/Np thay_đổi/V trải_nghiệm/N người_dùng/N UX/Np tập_trung/V vào/R sử_dụng/V bằng/E một/M ngón_cái/N để/E thêm/V 30/M sướng/N theo/V Bkav/Np tích_hợp/V sẵn/A một_số/N ứng_dụng/N gồm/V tường/N lửa/N ứng_dụng/N bảo_mật/V
+bên_cạnh/N ứng_dụng/N Google/Np
+Công_nghệ/N truyền_tải/V Transfer_Jet/Np
+BPhone/N không/R tích_hợp/V công_nghệ/N giao_tiếp/V tầm/N gần/A NFC/Np hiện/N có/V trong/N hầu_hết/A các/L smartphone/N tầm/N trung/N cao_cấp/A trên/E thị_trường/N thay/V vào/E đó/P là/V công_nghệ/N Transfer_Jet/Np
+Theo/E Bkav/Np thì/C Transfer_Jet/Np có/V tốc_độ/N truyền_tải/V nhanh/A gấp/V 500/M lần/N so/V với/N NFC/Np
+Để/E dễ/N phân_biệt/V sự/N khác_biệt/A giữa/N Transfer_Jet/Np và/CC NFC/Np với/E Bluetooth/Np và/CC WiFi_Direct/N đó/P là/V khoảng_cách/N
+Transfer_Jet/Np và/CC NFC/Np buộc/V hai/M thiết_bị/N phải/V tiếp_xúc/V gần/A với/E nhau/N mới/A truyền/V dữ_liệu/N được/V
+Trong/E khi/N đó/P Bluetooth/Np và/CC WiFi_Direct/V cho/V phép/N hai/M thiết/N bị/V có_thể/V truyền/V dữ_liệu/N ở/E một/M khoảng_cách/N nhất_định/N
+Vậy/P vì_sao/N các/L hãng/N không/R dùng/V Transfer_Jet/Np cho/V các/L smartphone/N hiện/N có/V mà/C chỉ/R tích_hợp/V NFC/Np Bluetooth/Np và/CC WiFi_Direct/N
+Transfer_Jet/Np là/V công_nghệ/N hoàn_toàn/A mới/R tập_trung/V vào/E truyền_tải/N dữ_liệu/N tốc_độ/N rất/R cao/A do/E Sony/N và/CC Toshiba/Np phát_triển/V Sony/Np giới/N thiệu/V Transfer_Jet/Np lần/N đầu_tiên/A tại/E Triển_lãm/N CES/Np 2008/M và/N được/V hậu_thuẫn/V bởi/E các/L công_ty/N công_nghệ/N đồng_hương/N như/C Hitachi/Np JVCKenwood/V Nikon/Np Olympus/Np Panasonic/Np Pioneer/Np Seiko_Epson/Np
+Tốc_độ/N truyền_tải/N của/E Transfer_Jet/Np ở/E mức/N 375/M Megabitgiây/Np Mbps/Np ở/E khoảng_cách/N 3/M 4cm/Nu giữa/N hai/M thiết_bị/N
+Trong/E khi/N đó/P NFC/Np có/V tốc_độ/N truyền_tải/V 424/M Kbpsgiây/Np ở/V khoảng_cách/N dưới/N 20cm/M
+NFC/Np được/V phát_triển/V từ/E công_nghệ/N nhận_dạng/N tần_số/N radio/N RFID/Np hướng/V tới/V việc/N giúp/V thiết_bị/N di_động/N đặc_biệt/A là/C smartphone/N có_thể/A giao_tiếp/V với/E nhiều/A thiết_bị/N khác/A như/C thanh_toán/N di_động/N quẹt/N trả/V tiền/N hay/C chuyển/V nhạc/N lên/E loa/N quẹt/N smartphone/V vào/V loa/N
+Google/Np đã/R tận_dụng/V NFC/Np từ/E Android/Np 40/M Ice_Cream_Sandwich/Np thành/V một/M chức_năng/N truyền_tải/N dữ_liệu/N như/C hình_ảnh/N video/N danh_bạ/N
+cho/V điện_thoại/N Android/Np qua/V tên/N gọi/V Android_Beam/Np
+iPhone/N cũng/R tích_hợp/V NFC/Np nhưng/C chỉ/R áp_dụng/V thanh_toán/N di_động/N Apple_Pay/Np
+NFC/Np phát_triển/V theo/E các/L tiêu_chuẩn/N chuẩn_hoá/N của/E ngành/N công_nghiệp/N phù_hợp/A với/E thị_trường/N tiêu_dùng/N nên/C có_mặt/V trên/E khắp/N các/L sản_phẩm/N thiết_bị/N di_động/V như/C Sony/Np Google/Np Samsung/Np LG/Np HTC/Np iPhone/Np cùng/C các/L máy/N quẹt/N thẻ/V máy/N thanh_toán/V di_động/N
+Trong/E khi/N đó/P Transfer_Jet/Np phát_triển/V từ/E công_nghệ/N riêng_biệt/N dù/N muốn/V thay_thế/V NFC/Np nhưng/C độ/N phủ/N của/E Transfer_Jet/Np chưa/R rộng/A hay/A có_thể/A nói/V là/V chưa/R có/V gì/T trong/N tay/N
+Ngay/T cả/P Sony/Np thử_nghiệm/V đưa/V Transfer_Jet/Np vào/V máy_tính_xách_tay/X Vaio/Np trước/N đây/P cũng/R trở_nên/V đơn_độc/A và/N dòng/N smartphone/N gần/A đây/P nhất_là/N Xperia/Np Z4/Np tích_hợp/V NFC/Np thay_vì/V Transfer_Jet/Np
+Việc_Bkav/Np tích_hợp/V Transfer_Jet/Np là/V một/M bước_đi/N tiên_phong/N đáng/V khen/V nhưng/N loại/N hết/V các/L công_nghệ/N kết_nối/N còn/V lại/R thay_vì/V dùng/V song_song/N có/V thể/N gây/V ra/R hạn_chế/V rất/R lớn/A về/E độ/N tương_thích/N để/E truyền_tải/V dữ_liệu/N với/E những/L thiết_bị/N khác/A

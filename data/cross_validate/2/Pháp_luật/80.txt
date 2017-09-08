@@ -1,0 +1,9 @@
+Khởi_tố/V đường_dây/N mua_bán/V số_đề/N hàng/R trăm/M triệu/N
+4/M đối_tượng/N ở/V Hậu_Giang/Np bị/V bắt/V quả_tang/N mua_bán/N đề/V tang_vật/N là/V hơn/A 240/M triệu/M đồng/Nu tiền_mặt/N
+Ngày/N 246/M Cơ_quan/N Cảnh_sát/N điều_tra/V Công_an/N huyện/N Vị_Thuỷ/Np tỉnh/N Hậu_Giang/Np cho/V biết/V vừa/R khởi_tố/V vụ/N án/N khởi_tố/N bị_can/N và/CC ra_lệnh/N tạm/A giam/V 4/M đối_tượng/N Hồ_Bảo_Phong/Np 33/M tuổi/N Trần_Thị_Thu_Giang/Np 58/M tuổi/N Đinh_Minh_Quang/Np 36/M tuổi/N và/CC Đặng_Trần_Hiền_Thu_Trúc_Diệp/Np 33/M tuổi/N cùng/N ngụ/N huyện/N Vị_Thuỷ/Np về/V hành_vi/N đánh_bạc/N
+Trước/E đó/P vào_khoảng/N 16h40/M phút/N ngày/N 166/M công_an/N huyện/N Vị_Thuỷ/Np bất_ngờ/A ập/V vào/R nhà/N đối_tượng/N Hồ_Bảo_Phong/Np ở/V ấp/N 9/M xã/N Vị_Thắng/Np huyện/N Vị_Thuỷ/Np bắt/V quả_tang/N Phong/Np có/V hành_vi/N mua_bán/V số_đề/N
+Tang_vật/N bị/V tạm/V giữ/V gồm/N 6/M điện_thoại_di_động/N hơn/R 240/M triệu/M đồng/Nu tiền_mặt/N 10/M phơi/N đề/N và/CC nhiều/A vật_dụng/N liên_quan/V đến/E việc/N mua_bán/V số_đề/N
+Cùng/A thời_điểm/N các/L trinh_sát/N công_an/N huyện/N Vị_Thuỷ/Np đồng_loạt/N ập/V vào/R nhà/N các/L đối_tượng/N trong/E đường_dây/N mua_bán/V số_đề/N của/E Phong/Np ở/E thị_trấn/N Nàng_Mau/Np huyện/N Vị_Thuỷ/Np bắt/V quả_tang/N Trần_Thị_Thu_Giang/Np Đặng_Trần_Hiền_Thu_Trúc_Diệp/Np Nguyễn_Thị_Nương/Np 35/M tuổi/N Đặng_Thị_Cẩm/Np 46/M tuổi/N và/CC Trần_Văn_Hậu/Np 47/M tuổi/N có/V hành_vi/N mua_bán/V số_đề/N
+Cơ_quan/N công_an/N đã/R tạm/V giữ/V trên/N 65/M triệu/M đồng/Nu hàng/R chục/M điện_thoại_di_động/N cùng/N nhiều/A phơi/N đề/N và/CC vật_dụng/N liên_quan/V đến/E việc/N mua_bán/V số_đề/N
+Riêng/T đối_tượng/N Đinh_Minh_Quang/Np đã/R đến/V cơ_quan/N công_an/N đầu_thú/V ngay/T sau/N đó/P
+Hiện/N vụ_việc/N đang/R được/V tiếp_tục/V điều_tra/V mở_rộng/V

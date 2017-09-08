@@ -1,0 +1,22 @@
+Em/N bé/N đầu_tiên/A trên/E thế_giới/N chào_đời/V từ/E một/M cha/N hai/M mẹ/N
+Kỹ_thuật/N sinh/V con/N từ/E ba/M người/N lần/N đầu_tiên/A được/V áp_dụng/V thành_công/V và/CC cho/V ra_đời/V một/M em/N bé/N khỏe_mạnh/A hồi/N tháng/N 4/M New_Scientist/Np hôm_qua/N đưa/V tin/N
+Kỹ_thuật/N này/P  /V do/E bác_sĩ/N John_Zhang/Np ở/E  /N Trung_tâm/N Sinh_sản/V New_Hope_Mỹ/Np phát_triển/V nhằm/V giúp/V các/L cặp/N cha_mẹ/N mang/V đột_biến/N gene/N hiếm/A gặp/V có/V những/L đứa/Nc con/N bình_thường/A
+Mẹ/N của/E bé/N trai/N mắc/V hội_chứng/N Leigh/Np một/M chứng_bệnh/N tác_động/V lên/R hệ_thống/N thần_kinh/N đang/R phát_triển/V khiến/V bệnh_nhi/N tử_vong/N
+Gene/Np mang/V bệnh/N nằm/V ở/E ADN/Np của/E ty/N lạp/N thể/R cấu_trúc/V rất/R nhỏ/A cung_cấp/V năng_lượng/N cho/E tế_bào/N và/CC truyền/V từ/E mẹ/N sang/V con/N
+10/M năm/N sau/E khi/N kết_hôn/V người/Nc phụ_nữ/N đã/R hai/M lần/N mang/V thai/N nhưng/C các/L con/N của/E cô/N đều/R qua_đời/V khi/N còn/V rất/R nhỏ/A do/E hội_chứng/N Leigh/Np
+Kiểm_tra/V cho/E thấy/V dù/E người_mẹ/N rất/R khỏe_mạnh/A 1/4/M ty/Nu lạp/N thể/R của/E cô/N mang/V gene/N mắc/V hội_chứng/N Leigh/Np
+Kỹ_thuật/N mới/R gây/V nhiều/A tranh_cãi/N giữa/E các/L chuyên_gia/N y_học/N và/CC mới/R chỉ/R được/V thông_qua/V ở/E Anh/N
+Tại_Anh/Np kỹ_thuật/N có/V tên/N truyền/V nhân/V non/N pronuclear/N transfer/V PT/Np đòi_hỏi/V các/L bác_sĩ/N thụ_tinh/V sử_dụng/V tinh_trùng/N của/E người/Nc cha/N để/E thụ_tinh/V cho/E cả/P trứng/N của/E người_mẹ/N và/CC trứng/N của/E người/N hiến/V tặng/V
+Trước/E khi/N trứng/N đã/R thụ_tinh/V phân_chia/V thành/V phôi_thai/N giai_đoạn/N đầu/N bác_sĩ/N loại_bỏ/V nhân/N ở/E trứng/N của/E người/N hiến/V tặng/V và/CC thay/V bằng/E nhân/N lấy/V từ/E trứng/N của/E người_mẹ/N
+Tuy_nhiên/C kỹ_thuật/N này/P không_thể/R áp_dụng/V với/E hai/M vợ_chồng/N theo/E đạo/N Hồi/N bởi/E việc/N phá_hủy/V hai/M phôi_thai/N bị/V phản_đối/V
+Do_đó/C bác_sĩ/N Zhang/Np tiếp_cận/V theo/E cách/N khác/A gọi_là/X truyền/V nhân/V thẳng/A spindle/N nuclear/N transfer/N SNT/Np
+Ông/N lấy/V nhân_từ/N trứng/N của/E người_mẹ/N và/CC cấy/V vào/E trứng/N đã/R gỡ/V nhân/N của/E người/N hiến/V tặng/V
+Trứng/N chứa/V nhân/N của/E người_mẹ/N và/CC ADN/Np ty/V lạp/N thể/R của/E người/N hiến/V tặng/V sau/E đó/P được/V thụ_tinh/V bằng/E tinh_trùng/N của/E người/N cha/N
+Nhóm/N nghiên_cứu/V của/E Zhang/Np sử_dụng/V kỹ_thuật/N trên/A để/E tạo/V 5/M phôi_thai/N nhưng/C chỉ/R một/M phôi_thai/N phát_triển/V bình_thường/A
+Phôi_thai/N được/V cấy/V vào/E cơ_thể/N người_mẹ/N và/CC bé/N trai/N ra_đời/V 9/M tháng/N sau/E
+Các/L nhà_nghiên_cứu/N sẽ/R giới_thiệu/V kỹ_thuật/N mới/A tại/E hội_thảo/N khoa_học/N của/E Hiệp_hội/N Y_học/N Sinh_sản/V Mỹ/Np tại/E Salt_Lake_City_Utah/Np vào/E tháng/N 10/M
+Cả/P hai/M kỹ_thuật/N PT/Np và/CC SNT/Np đều/R chưa/R được/V thông_qua/V ở/E Mỹ/Np vì_vậy/C bác_sĩ/N Zhang/Np phải/V tiến_hành/V các/L bước/N ở/E Mexico/Np
+Nhóm/N nghiên_cứu/V đã/R cân_nhắc/V vấn_đề/N đạo_đức/N khi/N phát_triển/V kỹ_thuật/N theo/E Sian_Harding/Np người/N đánh_giá/V tính/N đạo_đức/N của/E kỹ_thuật/N ứng_dụng/V ở/E Anh/N
+Họ/P tránh/V phá_hủy/V phôi_thai/N và/CC sử_dụng/V phôi_thai/N bé/N trai/N để/E em/N bé/N chào_đời/V không/R di_truyền/V ADN/Np ty/V lạp/V thể/R cho/E thế_hệ/N sau/E
+Khi_Zhang/Np và/CC đồng_nghiệp/N kiểm_tra/V ty/N lạp/V thể/R của/E bé/N trai/N họ/P phát_hiện/V tỷ_lệ/N mang/V đột_biến/N chưa/R đến/V 1%/M và/CC hy_vọng/V kết_quả/N này/P không/R gây/V ra/R vấn_đề/N sức_khỏe/N nào/P
+Thông_thường/A trẻ/N mắc/V bệnh/N khi/N tỷ_lệ/N ty/V lạp/N thể/R chứa/V đột_biến/N ở/E mức/N 18%/M

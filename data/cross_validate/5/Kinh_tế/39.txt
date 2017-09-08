@@ -1,0 +1,20 @@
+​/N GDP/Np sáu/M tháng/N đầu/N năm/N tăng/V 573/M
+Tổng/N sản_phẩm/N trong/E nước/N GDP/Np sáu/M tháng/N đầu/N năm/N tăng/V 573/M so/V với/E cùng/N kì/N năm/N trước/A trong/E đó/N quý/N I/N đạt/V 515/M quý/N II/M tăng/N 617/M
+Thông_tin/N trên/N được/V đưa/V ra/R tại/E cuộc/N họp_báo/V công_bố/V số_liệu/N thống_kê/N kinh_tế/N xã_hội/N sáu/M tháng/N đầu/N năm/N 2017/M của/N Tổng_cục/N Thống_kê/N
+Theo/E thống_kê/N lĩnh_vực/N nông/N lâm_nghiệp/N và/CC thuỷ_sản/N tăng/V 265/M công_nghiệp/N và/CC xây_dựng/V tăng/V 581/M dịch_vụ/N tăng/V 685/M
+Trong/E khu_vực/N nông/N lâm_nghiệp/N và/CC thuỷ_sản/N ngành/N thuỷ_sản/N có/V mức/N tăng_trưởng/V cao/A nhất/A với/E 508/M so/V với/E cùng/N kì/N năm/N 2016/M
+Ngành/N lâm_nghiệp/N tăng/V 431/M thấp/N hơn/A mức/N tăng_trưởng/V 575/M so/V với/E cùng/N kì/N năm/N 2016/M
+Trong/E khu_vực/N công_nghiệp/N và/CC xây_dựng/V ngành/N công_nghiệp/N tăng/N 533/M thấp/N hơn/A nhiều/A so/V với/E mức/N tăng/N 966/M và/N 701/M của/N cùng/N kì/N năm/N 2015/M và/N 2016/M
+Lý_do/N chủ_yếu/A do/E ngành/N khai_khoáng/V giảm/V 82/M là/V mức/N giảm/V sâu/A nhất/R so/V với/E cùng/N kì/N các/L năm/N từ/E 2011/M trở/V về/V đây/P
+Ngành/N xây_dựng/V sáu/M tháng/N đầu/N năm/N tăng_trưởng/V khá/R với/E tốc_độ/N 850/M
+Trong/E khu_vực/N dịch_vụ/N một_số/N ngành/N có/V đóng_góp/N lớn/A vào/V tỉ_trọng/N tăng_trưởng/V chung/A gồm/V bán_buôn/N và/CC bán_lẻ/N tăng/V 701/M so/V với/E cùng/N kì/N năm/N trước/N và/CC là/V ngành/N có/V mức/N đóng_góp/N cao/A nhất/A vào/V mức/N tăng/V chung/A
+dịch_vụ/N lưu_trú/V và/CC ăn_uống/V tăng/V 890/M
+hoạt_động/N tài_chính/N ngân_hàng/N và/CC bảo_hiểm/N tăng/V 766/M
+hoạt_động/V kinh_doanh/N bất_động_sản/N tăng/V 368/M
+Về/V chỉ_số/N giá/N tiêu_dùng/V CPI/Np tháng/N 62017/M giảm/N 017/M so/V với/E tháng/N trước/N
+CPI/Np bình_quân/A sáu/M tháng/N đầu/N năm/N tăng/V 415/M so/V với/E bình_quân/N cùng/N kì/N 2016/M
+Theo/E báo_cáo/N tổng_thu/N ngân_sách/N nhà_nước/N từ/E đầu/N năm/N 2017/M đến/E thời_điểm/N 156/M ước_tính/N đạt/V gần/A 5009/M nghìn/N tỉ/M đồng/Nu bằng/N 413/M dự_toán/N trong/N năm/N
+Trong/E đó/P thu/V nội_địa/N 3991/M nghìn/N tỉ/M đồng/Nu bằng/N 403/M
+thu/N từ/E dầu_thô/N 211/M nghìn/N tỉ/M đồng/Nu bằng/N 551/M
+thu/N cân_đối/N ngân_sách/N từ/E hoạt_động/N xuất/V nhập_khẩu/N 806/M nghìn/N tỉ/M đồng/Nu bằng/N 448/M
+Về/V tổng_chi/N ngân_sách/N Nhà_nước/N từ/E đầu/N năm/N đến/E thời_điểm/N 156/M ước_tính/N đạt/V 5334/M nghìn/N tỉ/M đồng/Nu bằng/N 384/M dự_toán/N năm/N

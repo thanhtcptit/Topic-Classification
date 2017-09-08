@@ -1,0 +1,17 @@
+Lá/Nc nhân_tạo/A sản_xuất/V xăng/N
+Theo/E Iflscience/Np nhóm/N nghiên_cứu/V khẳng_định/V nó/P là/V một/M bước_tiến/N quan_trọng/A hướng/V tới/E sử_dụng/V nhiên_liệu/N tự/P tái_tạo/V phục_vụ/V mọi/L nhu_cầu/N từ/E sưởi/N ấm/N tới/V cho/E giao_thông/N vận_tải/V mà/C không/R gây/V ra/R bất_kỳ/A loại/N khí/N nhà_kính/N nào/P
+Bước/N đột_phá/V này/P được/R công_bố/V trong/E tạp_chí/N Proceedings/Np tháng/N 8/M của/E Viện_Hàn/Np lâm/V Khoa_học/N Quốc_gia/Np Mỹ/Np do/E Peidong_Yang/Np và/CC đồng_nghiệp/N tại/E Viện_Năng/Np lượng/N và/CC Khoa_học/N Nano_Kavli/Np đại_học/N California_Berkeley/Np nghiên_cứu/V
+Nó/P được/V xây_dựng/V dựa/V trên/E các/L quá_trình/N quang_hợp/V tự_nhiên/A khi/N nước/N và/CC khí/N C02/Np được/V thực_vật/N chuyển_hoá/V thành/V đường/N một/M loại/Nc nhiên_liệu/N hữu_cơ/A
+Bằng/Np cách/V tinh_chỉnh/N quá_trình/N này/P thông_qua/V quang_hợp/N nhân_tạo/A chúng_ta/P có_thể/R tạo/V ra/R một/M loạt/N những/L sản_phẩm/N khác_nhau/A
+Để/E chứng_minh/V tính/N khả_thi/A của/E dự_án/N nhóm/N nghiên_cứu/V đã/R tạo/V ra/R khí/N mêtan/A thay_vì/V đường/N từ/E khí/N CO2/Np bằng/E hệ_thống/N của/E họ/P
+Thiết_bị/N hoạt_động/V dựa/V trên/E sự/N kết_hợp/V của/E các/L sợi/N nano/N bán_dẫn/V và/CC vi_khuẩn/V
+Sử_dụng/V chất_xúc_tác/N vô_cơ/A nước/N được/V tách/V ra/R thành/V hydro/N sau/E đó/P tế_bào/N sống/V sử_dụng/V chuyển_đổi/V khí/N CO2/Np thành/V các/L sản_phẩm/N hóa_chất/N trong/E trường_hợp/N này/P là/V mêtan/N
+Chúng_tôi/P có_thể/R tạo/V electron/N từ/E ánh_sáng/N một_cách/N hiệp/N quả/N nhưng/C các/L hệ_thống/N của/E chúng_tôi/P trước_đây/N luôn/R bị/V hạn_chế/V bởi/E hóa/N tổng_hợp/V ông/N Yang/Np cho_biết/V
+Một/M trong/E những/L mục_đích/N của/E thí_nghiệm/N này/P là/V để/E chứng_tỏ/V rằng/C chúng_ta/P có_thể/R tích_hợp/V xúc_tác/N vi_khuẩn/V với/E công_nghệ/N bán_dẫn/V
+Điều/N này/P cho_phép/V chúng_ta/P hiểu/V và/CC tối_ưu_hóa/V một/M hệ_thống/N quang_hợp/N thực_sự/A mang/V tính/N nhân_tạo/A
+Một/M hệ_thống/N tương_tự/A được/R phát_minh/V bởi/E Yang/Np và/CC nhóm/N của/E ông/Nc hồi/N đầu/N năm/N nay/P để/E sản_xuất/V butanol/N một/M thành_phần/N của/E xăng/N và/CC các/L vật_liệu/N sinh_hóa/V khác_nhau/A
+Tiếp_theo/V họ/P sẽ/R cố_gắng/V để/E tạo/V nên/C một/M hệ_thống/N nhân_tạo/A hoàn_toàn/A không/R cần/V dùng/V tới/V vi_khuẩn/N
+Hệ_thống/N này/P dựa/V trên/E thiết_kế/N trong/E tự_nhiên/N để/E tái_tạo/V quá_trình/N quang_hợp/A và/CC cuối_cùng/A sản_xuất/V nhiên_liệu/N lỏng/V với/E khả_năng/N sử_dụng/V trong/E nhiều/A tháng/N hoặc/CC nhiều/A năm/N
+Chúng_tôi/P không/R muốn/V bắt_chước/V thiên_nhiên/N một_cách/N máy_móc/N và/CC dập/V khuôn/N Ted_Sargent/Np phó_trưởng/V khoa/N Khoa_học/N Ứng_dụng/Np và/CC Kỹ_thuật/N tại/E Đại_học/N Toronto/Np cho_biết/V
+Thay/V vào/E đó/P chúng_tôi/P muốn/V học_hỏi/V từ/E tự_nhiên/N từ/E những/L nguyên_tắc/N của/E tự_nhiên/N để/E tạo/V nên/C một/M chất_xúc_tác/N có/V hiệu_suất/N thuyết_phục/V và/CC có/V tính/N chọn_lọc/V và/CC sau/E đó/P sử_dụng/V những/L hiểu_biết/N này/P để/E tạo/V ra/R các/L giải_pháp/N công_nghệ/N tốt/A hơn/R
+Vì_vậy/C tuy/C chưa_thể/R sử_dụng/V những/L chiêc/N lá/N nhân_tạo/A để/E cung_cấp/V điện/N cho/E nhà/N hoặc/CC xe_hơi/N ngay_lập_tức/R nhưng/C đây/P có_thể/R là/V một/M bước_tiến/N đáng_kể/A để/E đạt/V mục_tiêu/N đó/P

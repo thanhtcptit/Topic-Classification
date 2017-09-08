@@ -1,0 +1,22 @@
+Hàng_loạt/N máy_quay/N Blackmagic/Np đ/N ​/V ến/N VN/Np
+Sự/N xuất_hiện/V của/E máy/N quay/V Blackmagic/Np URSA/Np Mini/Np 4K/Np Digital_Cinema/Np báo_hiệu/V sự/N thay_đổi/V trong/E sản_xuất/N trực_tiếp/A và/N studio/N
+URSA/Np Mini/Np có/V kết_cấu/N lớp/N vỏ/N nhôm/N và/CC nặng/A 23kg/Np bao_gồm/V một/M tay_cầm/N để/E sử_dụng/V trên/N tay/N
+Ngoài_ra/C máy/N cũng/R có_thể/A đi/V kèm/V với/C một/M thiết_bị/N gắn/V trên/E vai/N cùng/N khả_năng/N quay_phim/V tự/P bấm/V tay/N lên/E vai/N đến/V chân/N máy/N
+Máy_quay/N đem/V đến/E hình_ảnh/N chuẩn/N điện_ảnh/N 4K/N thông_qua/V cảm_biến/N Super/Np 35/M mm/N 4K/M 3840/M x/N 2160/M và/N cảm_biến/N cũng/R đủ/V lớn/A để/E sử_dụng/V được/R với/E các/L ống_kính/N của/E chuẩn/N máy/N DSLR/Np APSC/Np
+Màn/N trập/N đem/V đến/E dải/N nhạy/N sáng/N 12/M stop/N với/E nhiều/A kết_nối/N bao_gồm/V 2/M đầu_vào/N LANC/Np cũng/R như/A đầu_ra/N 12/M SDI/Np và/CC HDSDI/Np
+Nguồn/N điện/N được/R cung_cấp/V thông_qua/N 4/M pin/N công_nghiệp/N chuẩn/A XLR/Np với/E nguồn/N điện/N 12V/N 30/M V/Np
+URSA/Np Mini/Np quay_phim/V ở/V định_dạng/N CinemaDNG/N dữ_liệu/N RAW/Np không/R nén/V cũng/R như/C quay/V RAW/Np nén/V ở/E tỉ_lệ/N 3/M 1/M và/N 4/M 1/M
+Thêm/V vào/V đó/P các/L chuẩn/N ghi_hình/N UHD/Np 3840/M x/N 2160/M và/N 1080/M cũng/R có_thể/A được/V thu/V thành/V các/L file/N ProRes/N tỉ_lệ/N dữ_liệu/N ProRes/V 444/M XQ/Np 3125MB/M s/N xuống/V ProRes/N 422/M Prox/Np 56MB/M s/N
+Những/L file/N ghi_hình/V đi/V về/V 1/M trong/E 2/M thẻ/N nhớ/V CFast/N 20/M lên/V đến/R 60fps/M với/E khả_năng/N tự_động/N đổi/V thẻ/N khi/N một/M thẻ/N đầy/A
+Máy_quay/N được/V điều_khiển/V từ/E cả/N các/L nút/N bấm/N cũng/R như/C màn_hình/N cảm_ứng/N điện_dung/N LCD/Np 5/M inch/N 1920/M x/N 1080/M
+Âm_thanh/N được/V thu/V qua/R 1/M micro/N stereo/N tích_hợp/N và/CC cũng/R có_thể/A sử_dụng/V mic/N gắn/V ngoài/N thông_qua/V 2/M đầu_thu/N XLR/Np trang_bị/V nguồn/N điện/N 2/M chiều/N 48V/M phantom/N
+Ngàm/N B4/Np cho/V phiêm/V bản/N PL/Np của/E máy_quay/N có_thể/A thay_thế/V ngàm/N PL/Np và/CC điều/N đó/P có/V nghĩa_là/N máy/N có_thể/A tiếp_tục/V sử_dụng/V các/L loại/N ống_kính/N truyền_hình/N sẵn/A có/V
+Thích_hợp/N với/E chuẩn/N ống_kính/N B4/Np ngàm/N cũng/R đi/V với/E bộ/N kết_nối/N điều_khiển/V ống_kính/N để/E cung/N cấp_điện/N cho/V ống_kính/N và/CC hỗ_trợ/V kiểm_soát/V ống_kính/N kĩ_thuật_số/N và/CC analog/N
+Blackmagic_Micro_Camera/Np
+Blackmagic/N trang/N bị/V kết_nối/V PWM/Np và/CC SB/Np us/V cho/V phép/N các/L bộ/N điều_khiển/V từ/E xa/N tiêu_chuẩn/N có_thể/R kiểm_soát/V được/R các/L chức_năng/N lấy/V nét/N khẩu_độ/A mức/N âm_thanh/N đầu_vào/A cũng/R như/C bắt/V đầudừng/N quá_trình/N quay/V
+Chiếc/Nc máy_quay/N này/P có/V thể/N gắn/V trên/N mũ/N bảo/V hiểm/N mặc_dù/N đây/P không/R phải/A là/V máy_quay/N hành_động/V actioncam/N do/E thiếu/V các/L tính_năng/N chống/V sốc/N và/CC chống/V nước/N
+Ngoài/E ra/V việc/N sử_dụng/V vỏ/N bọc/N bảo_vệ/N có_thể/A khiến/V chiếc/Nc máy/N này/P tăng/V kích_thước/N lên/V đáng_kể/N
+Trên/E thực_tế/N mẫu/N máy_quay/N này/P có/V tốc_độ/N ghi_hình/V chuẩn/N quốc_tế/N đạt/V 30fps/M và/N tốc_độ/N ghi_hình/V tốc_độ/N cao/A đạt/V 60fps/M khả_năng/N ghi_hình/V với/E dải/N sáng/N vào_khoảng/N 13/M stop/N
+Blackmagic/N tăng/V mức/N hỗ_trợ/V ISO/Np lên/V 1600/M cao/A hơn/R các/L thế_hệ/N máy/N trước/N đó/P dù/N chưa/R hề/T có/V thông_tin/N về/V khả_năng/N khử/N nhiễu/N của/E chiếc/Nc máy/N này/P
+Tuy_nhiên/C Blackmagic_Micro_Camera/Np có/V một/M giới_hạn/N duy_nhất/A đó/P là/V nó/P chỉ/R có_thể/A ghi_hình/V với/E độ_phân_giải/N 1080p/M FullHD/N mặc_dù/N máy/N có_thể/R ghi/V ra/R định_dạng/N ProRes/N hoặc/N CinemaDNG/V RAW/Np
+Bên_cạnh/V hai/M thiết_bị/N mới/R Blackmagic/V giới_thiệu/V các/L giải_pháp/N truyền/V hình/N Workflow_Blackmagic_Design_Full/Np HD/Np 4K/Np gói/V phần_mềm/N xử_lí/N hậu/A kì/N DaVinci/N Resolve/Np 12/M bao_gồm/N các/L công_cụ/N chỉnh_sửa/N chuyên_nghiệp/A tinh_vi/A được/V thiết_kế/V để/E xử_lí/V một/M loạt/N các/L dự/N án_từ/N kịch_bản/N phim_truyền_hình/N cho/E đến/V TVC/Np

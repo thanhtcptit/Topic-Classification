@@ -1,0 +1,16 @@
+TP_HCM/Np công_bố/V tuyển_sinh/V đầu/N cấp/N 2017/M
+Ngày/N 29/3/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np công_bố/V kế_hoạch/N tuyển_sinh/V đầu/N cấp/N năm_học/N 2017-2018/M
+Học_sinh/N tốt_nghiệp/V THCS/Np trong/E độ/N tuổi/N quy_định/N đều/R được/V tham_gia/V dự/V thi/V  /V tuyển_sinh/V vào/E lớp/N 10/M THPT/Np công_lập/V tổ_chức/V vào/E ngày/N 2/M và/CC 3/6/M sớm/A hơn/R một/M tuần/N so/V với/E mọi/L năm/N  /EOS
+Học_sinh/N được/V đăng_ký/V 3/M nguyện_vọng/N ưu_tiên/V 1/M 2/M 3/M để/E xét/V tuyển/V vào/E lớp/N 10/M trừ/V các/L trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np chuyên/A Trần_Đại_Nghĩa/Np và/CC Phổ_thông/N Năng_khiếu/Np Đại_học/N Quốc_gia/Np TP_HCM/Np
+Thí_sinh/N không/R được/V đổi/V nguyện_vọng/N sau/E khi/N trúng_tuyển/V
+Nội_dung/N đề/N thi/V trong/E phạm_vi/N chương_trình/N THCS/Np do/E Bộ/N Giáo/N dục/V ban_hành/V chủ_yếu/A ở/E lớp/N 9/M
+Đề/Np thi/V phải/V đảm_bảo/V chính_xác/A rõ_ràng/A không/R sai_sót/N phân_hoá/V được/R trình_độ/N học_sinh/N phù_hợp/V với/E thời_gian/N quy_định/N cho/E từng/P môn/N thi/V
+Ở/E bậc/N mầm_non/N thành_phố/N huy_động/V 100%/M trẻ/N năm_tuổi/V trong/E diện/N đi/V học/V đang/R cư_trú/V trên/E địa_bàn/N quận/N huyện/N vào/V trường_mầm_non/N theo/E tuyến/N do/E Ban/N tuyển_sinh/V quận/N huyện/N quy_định/N
+Các/L quận/N huyện/N sẽ/R có/V kế_hoạch/N để/E đảm_bảo/V cho/E trẻ/N 3-4/M tuổi/N và/CC trẻ/A độ/N tuổi/N nhà_trẻ/N được/V đi/V học/V
+Các/L cơ_sở/N giáo_dục/V mầm_non/A ngoài/E công_lập/N nhận/V trẻ/N năm_tuổi/N phải/V thực_hiện/V đầy_đủ/A chương_trình/N mầm_non/V năm_tuổi/N theo/V quy_định/N
+Ở/E bậc/N tiểu_học/N 100%/M trẻ/N 6/M tuổi/N trong/E diện/N đi/V học/V đang/R cư_trú/V trên/E địa_bàn/N quận/N huyện/N vào/V học/V lớp/N 1/M theo/E tuyến/N do/E Ban/N tuyển_sinh/V quận/N huyện/N quy_định/N
+Các/L trường/N sẽ/R không/R nhận/V học_sinh/N học/V sớm/A tuổi/N và/CC học_sinh/N trái/A tuyến/N ngoài/E quận/N huyện/N
+Công_tác/N tuyển_sinh/V bắt_đầu_từ/N ngày/N 1/7/M và/CC công_bố/V kết_quả/N đồng_loạt/R vào/E ngày/N 31/7/M
+Riêng/T với/E bậc/N THCS/Np học_sinh/N trong/E độ/N tuổi/N quy_định/N đã/R hoàn_thành/V chương_trình/N cấp/V tiểu_học/N trên/E địa_bàn/N quận/N huyện/N nào/P được/V vào/V học/V lớp/N 6/M ở/E các/L loại_hình/N trường/N trên/E địa_bàn/N đó/P
+Các/L quận/N huyện/N sẽ/R ưu_tiên/V cho/E học_sinh/N thường_trú/V trên/E địa_bàn/N tuyệt_đối/A không/R tổ_chức/V thi_tuyển/V học_sinh/N lớp/N 6/M
+Sĩ_số/N học_sinh/N không/R vượt/V quá/R 45/M học_sinh/N mỗi/M lớp/N

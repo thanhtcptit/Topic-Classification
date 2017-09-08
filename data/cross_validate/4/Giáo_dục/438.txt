@@ -1,0 +1,13 @@
+Trường/N đại_học/N đầu_tiên/A công_bố/V điểm_chuẩn/N trúng_tuyển/V 
+Theo/E đó/P ngành/N Quản_trị/V kinh_doanh/V là/V ngành/N có/V điểm_chuẩn/N cao/A nhất_là/X 165/M điểm/N 
+Tiếp/V đến/R là/V ngành/N Logistic/Np và/CC quản_lý/V chuỗi/Nc cung_ứng/V 162,64/M ngành/N Ngôn_ngữ/N Anh/N 162,32/M ngành/N Kỹ_thuật/N y_sinh/N 161,27/M ngày/N Tài_chính/N ngân_hàng/N 160/M 
+Điểm/N trúng_tuyển/V này/P dựa/V trên/E tổng/N điểm/N 2/M môn/N thi/V (/N 1/M môn/N bắt_buộc/V 1/M môn/N tự/P chọn/V tính/V theo/E thang/N điểm/N 100/M (/N đã/R gồm/V điểm/N ưu_tiên/V )/A 
+Điểm/N ưu_tiên/V được/R tính/V bằng/E 2/3/M điểm/N ưu_tiên/V khu_vực/N đối_tượng/N theo/V quy_định/N của/E Bộ/N GD/Np ĐT/Np đối_với/E từng/P mức/N điểm/N sau/N đó/P quy_đổi/V về/E thang/N điểm/N 100/M 
+Thí_sinh/N được/V xếp/V thứ_tự/N theo/V tổng/N điểm/N xét/V tuyển/V từ/E cao/A xuống/R thấp/A và/CC sẽ/R được/V chọn/V trúng_tuyển/V cho_đến/E khi/N tuyển/V đủ/A chỉ_tiêu/N 
+Nếu/C nhiều/A thí_sinh/N có/V điểm/N bằng/E nhau/N và/CC khi/N chỉ_tiêu/N đã/R hết/V thì/C hội_đồng/N tuyển_sinh/V sẽ/R xem_xét/V tiêu_chí/N phụ/V là/V điểm/N môn/N toán/N nếu/C vẫn/R tiếp_tục/V có/V điểm/N môn/N toán/N bằng/E nhau/N thì/C sẽ/R xem_xét/V đến/E quá_trình/N học/V phổ_thông/N 
+Bằng/E phương_thức/N tự/P tổ_chức/V kỳ/N kiểm_tra/V năng_lực/N này/P trường/N ĐH/Np Quốc_tế/Np đã/R tuyển/V được/R trên/E 35%/M chỉ_tiêu/N 
+Thí_sinh/N trúng_tuyển/V sẽ/R xác_nhận/V nhập_học/V trước/E ngày/N 5/7/M 
+Số/N chỉ_tiêu/N còn/V lại/R trường/N tiếp_tục/V xét/V tuyển/V dựa/V vào/E kết_quả/N thi/V THPT/Np quốc_gia/N và/CC ưu_tiên/V xét/V tuyển/V 
+Điểm_chuẩn/V các/L ngành/N như/C sau/N STT/Np Mã_Ngành_Tên_Ngành_Điểm_Trúng_Tuyển/Np CHƯƠNG_TRÌNH_DO_ĐẠI_HỌC_QUỐC_TẾ_CẤP_BẰNG/Np CHƯƠNG_TRÌNH_TRONG_NƯỚC/Np 1/M 52420201/M Công_Nghệ_Sinh_Học/Np 150.27/M 2/M 52480201/M Công_Nghệ_Thông_Tin/Np 158.33/M 3/M 52540101/M Công_Nghệ_Thực_Phẩm/Np 152.00/M 4/M 52440112/M Hóa_Sinh/Np 158.33/M 5/M 52520207/M Kỹ_Thuật_Điện_Tử/Np Truyền_Thông/Np 139.31/M 6/M 52520216/M Kỹ_Thuật_Điều_Khiển/Np và/CC Tự_Động_Hóa/Np 148.60/M 7/M 52510602/M Kỹ_Thuật_Hệ_Thống_Công_Nghiệp/Np 144.10/M 8/M 52900109/M Kỹ_Thuật_Không_Gian/Np 134.10/M 9/M 52520320/M Kỹ_Thuật_Môi_Trường/Np 128.33/M 10/M 52580208/M Kỹ_Thuật_Xây_Dựng/Np 131.31/M 11/M 52520212/M Kỹ_Thuật/Np Y_Sinh/Np 161.27/M 12/M 52510605/M Logistic/Np và/CC Quản_Lý_Chuỗi_Cung_Ứng/Np 162.64/M 13/M 52220201/M Ngôn_Ngữ_Anh/Np 162.32/M 14/M 52620305/M Quản_Lý_Nguồn_Lợi_Thủy_Sản/Np 122.88/M 15/M 52340101/M Quản_Trị_Kinh_Doanh/Np 165.00/M 16/M 52340201/M Tài_Chính/Np –/M Ngân_Hàng/N 160.00/M 
+17/M 52460112/M Toán_Ứng_Dụng/Np 150.74/M CHƯƠNG_TRÌNH_LIÊN_KẾT/Np 18/M Tất_cả/P các/L ngành/N liên_kết/V 120.00/M 
+Lê_Phương/Np 

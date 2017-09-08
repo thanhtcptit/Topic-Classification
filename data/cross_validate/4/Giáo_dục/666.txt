@@ -1,0 +1,42 @@
+Đề/Np tham_khảo/V thi/V THPT/Np quốc_gia/N 2017/M gây/V tranh_cãi/V
+Đề/Np tham_khảo/V thi/V THPT/Np quốc_gia/N 2017/M môn/N Địa_lý/N được/V Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V ngày/N 14/5/M có/V một_số/L câu_hỏi/N gây/V tranh_cãi/V  /EOS
+Một_số/L giáo_viên/N cho/V rằng/C câu/N số/N 44/M của/E đề/N bị/V sai/A kiến_thức/N
+Cụ_thể/A đề/N hỏi/V quô/V ́/M c/N lô/N ̣/N 1/M bă/Nu ́/M t/N đâ/V ̀/N u/A từ/E tỉnh/N Lạng_Sơn/Np và/CC kê/V ́/M t/N thúc/V ở/E tỉnh/N nào/P
+Có/V 4/M đáp_án/N là/V Cần_Thơ/Np Kiên_Giang/Np Cà_Mau/Np TP/N Hồ_Chí_Minh/Np
+Nước/N ta/P không/R có/V quốc_lộ/N 1/M mà/C chỉ/R có/V quốc_lộ/N 1A/M quốc_lộ/N 1B/M quốc_lộ/N 1K/M
+Vậy/P ở/E câu_hỏi/N này/P không/R có/V đáp_án/N nào/P đúng/A một/M giáo_viên/N nói/V
+Câu/N số/N 55/M của/E đề/N Địa_lý/N được/V đánh_giá/V là/C lạc_hậu/A kiến_thức/N không/R bám/V sát/A thực_tế/N
+Đề/Np yêu_cầu/V học_sinh/N dựa/V vào/E Atlat/Np để/E trả_lời/V câu_hỏi/N các/L đô_thị/N nào/P có/V quy_mô/N dân_số/N trên/E 1/M triệu/M người/N
+4/M phương_án/N được/V đưa/V ra/R là/V A/N
+TP_HCM/Np Đà_Nẵng/Np Hải_Phòng/Np B/N
+Hà_Nội/Np Đà_Nẵng/Np Hải_Phòng/Np C/N
+Hải_Phòng/Np Cần_Thơ/Np Hà_Nội/Np D/Np
+Hà_Nội/Np Hải_Phòng/Np TP/Np Hồ_Chí_Minh/Np
+Theo/E giáo_viên/N dân_số/N Đà_Nẵng/Np năm/N 2015/M đã/R trên/A một_triệu/M Hải_Phòng/N trên/A 2/M triệu/M còn/V Hà_Nội/Np và/CC TP_HCM/Np vượt/V ngưỡng/N này/P
+Do_đó/C 3/M trong/E 4/M đáp_án/N của/E đề/N đều/R chính_xác/A học_sinh/N sẽ/R lúng_túng/A khi/N trả_lời/V
+Câu_hỏi/N số/N 42/M về/E các/L khu_vực/N của/E Việt_Nam/Np hay/C bị/V động_đất/V có/V lựa_chọn/V là/V Nam_Bộ/Np miền/N Trung/Np Tây/Np bắc/N Đông_bắc/N được/V cho/V là/V nhiễu/N trong/E khái_niệm/N
+Nước/N ta/P không/R có/V miền/N Trung/Np mà/C chỉ/R có/V khu_vực/N Bắc_Trung_Bộ/Np Duyên_hải/N Nam_Trung_Bộ/Np
+Đề/Np thi_trắc_nghiệm/V quốc_gia/N không/R nên/V dùng/V phương_án/N nhiễu/N này/P giáo_viên/N phân_tích/V
+Câu_hỏi/N số/N 52/M về/E hệ_thống/N sông/N nào/P của/E Việt_Nam/Np nằm/V cả/T ở/E phần/N lãnh_thổ/N phía/N Bắc/Np và/CC phần/N lãnh_thổ/N phía/N Nam/Np khiến/V một/M giáo_viên/N dạy/V Địa_lý/N 30/M năm/N phải/V lắc_đầu/V không/R trả_lời/V được/R
+Tổ/N ra/V đề/N Địa_lý/N /N Bộ/N Giáo/Np dục/V /M Đề/Np bám/V sát/A sách_giáo_khoa/N Tổ/N xây_dựng/V đề/N tham_khảo/V môn/N Địa_lý/N /N Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N /A đã/R phản_hồi/V các/L thắc_mắc/N trên/E
+PGS /Np Nguyễn_Đức_Vũ/Np thành_viên/N tổ/N ra/R đề/V môn/N Địa_lý/N cho/V rằng/C đề/V không/R sai_sót/N
+Về/V tên/N quốc_lộ/N 1/M ông/N cho_biết/V đây/P là/V cách/N gọi/V theo/E đúng/A sách_giáo_khoa/N Địa_lý/N lớp/N 12/M Atlat_Địa/Np lý/N Việt_Nam/Np do/E nhà_xuất_bản/N Việt_Nam/Np phát_hành/V từ/E năm/N 2009/M đến/E nay/P
+Sách_giáo_khoa/N Địa_lý/N viết/V Quốc_lộ/N 1/M chạy/V suốt/A từ/E cửa_khẩu/N Hữu_Nghị/Np /V Lạng_Sơn/Np đến/E Năm_Căn/Np Cà_Mau/Np dài/A 2 0/M km/Nu
+Đây/P cũng/R là/V tên/N gọi/V chính_thức/A được/V Bộ/N Giao/Np thông/V Vận_tải/V quy_định/N với/E đầu/N ở/E biên_giới/N phía/N Bắc/Np /V giáp/N Trung_Quốc/Np /V và/CC điểm/N cuối/N thuộc/V Cà_Mau/Np
+Cách/V gọi/V quốc_lộ/N 1A/M chỉ/R là/V theo/E thói_quen/N do/E sợ/V nhầm_lẫn/V với/E các/L quốc_lộ/N 1B/M 1C/M hay/C 1K/Np khác/A ông/Nc Vũ/Np nói/V
+Câu_hỏi/N về/V thành_phố/N có/V dân_số/N trên/E một_triệu/M người/N hay/C sông/N nào/P nằm/V ở/E cả/P phần/N lãnh_thổ/N phía/N Bắc/Np và/CC phía/N Nam_Việt_Nam/Np mục_đích/N là/V đánh_giá/V kỹ_năng/N đọc/V Atlat/Np địa_lý/N Việt_Nam/Np
+Học_sinh/N nhìn/V vào/E Atlat/Np để/E trả_lời/V theo/E số_liệu/N được/V nêu/V trong/E đó/P nên/C đề/V không/R sai_sót/N  /EOS
+Cách/V gọi/V tên/N các/L khu_vực/N của/E lãnh_thổ/N Việt_Nam/Np được/V sử_dụng/V trong/E câu_hỏi/N về/E động_đất/N PGS/Np Nguyễn_Đức_Vũ/Np cũng/R cho_biết/V đúng/A sách_giáo_khoa/N Địa_lý/N 12/M /N NXB/Np Giáo_dục/N Việt_Nam/Np /M
+Ông/N trích/V nguyên/A câu/N văn/N trong/E sách/N Địa_lý/N 12/M để/E dẫn_chứng/V Ở/E nước/N ta/P Tây_Bắc/Np là/V khu_vực/N có/V hoạt_động/N động_đất/N mạnh/A nhất/A rồi/C đến/V khu_vực/N Đông_Bắc/Np
+Khu_vực/N miền/N Trung/Np ít/A động_đất/V hơn/R còn/C ở/E Nam_Bộ/Np động_đất/V biểu_hiện/V rất/R yếu/A
+Sách_giáo_khoa/N là/V tài_liệu/N dạy/V và/CC học/V thống_nhất/A trong/E cả/P nước/N cùng_với/C Atlat_Địa/Np lý/N Việt_Nam/Np
+Do_đó/C khi/N làm/V câu_hỏi/N và/CC đáp_án/N thi/V trước_hết/N chúng_tôi/P dựa/V vào/R 2/M tài_liệu/N này/P để/E đảm_bảo/V sự/N phù_hợp/V và/CC thống_nhất/V về/E dạy_học/N thi/V trong/E cả/T nước/N đại_diện/N tổ/N xây_dựng/V đề/N tham_khảo/V môn/N Địa_lý/N nói/V
+TS/N Sái_Công_Hồng/Np Cục_phó/Np Khảo_thí/Np và/CC Kiểm_định/V chất_lượng/N giáo_dục/N cho_biết/V sẽ/R tiếp_tục/V lắng_nghe/V tiếp_thu/V ý_kiến/N nhiều/A chiều/N để/E chuẩn_bị/V tốt/A hơn/R trong/E việc/N ra/V đề/N thi/V THPT/Np quốc_gia/N sắp/R tới/V
+Việc/N chọn_lựa/V nội_dung/N kiến_thức/N nào/P sẽ/R thi/V phải/V làm/V rất/R chặt_chẽ/A
+Việc/N công_bố/V đề/N tham_khảo/V vừa_qua/X nhằm/V giúp/V  /M học_sinh/N có/V cái/Nc nhìn/V tổng_quát/V về/E hình_thức/N thi/V theo/V 5/M bài/N tránh/V bỡ_ngỡ/A khi/N tiếp_cận/V đề/N chính_thức/A
+Các/L  /N địa_phương/N cũng/R nắm/V được/R số_lượng/N cơ_bản/A trang/N đề/N thi/V để/E chuẩn_bị/V phương_án/N sớm/A nhất/A cho/E công_tác/N in/V sao/P đóng_gói/V vận_chuyển/V và/CC bảo_mật/V đề/N trong/E kỳ/N thi/V sắp/R tới/V
+Ngày/N 14/5/M Bộ/N Giáo/N dục/N và/CC Đào_tạo/N công_bố/V đề/N tham_khảo/V thi/V THPT/Np quốc_gia/N năm/N 2017/M
+Khác/A 2/M đợt/N công_bố/V trước/A đây/P là/V lần/N đầu_tiên/A thí_sinh/V được/R tiếp_cận/V bộ/N đề/V theo/V đúng/A dạng_thức/N sẽ/R dùng/V để/E thi/V THPT/Np quốc_gia/N
+Năm/N 2017/M thí_sinh/N sẽ/R thi/V THPT/Np quốc_gia/N để/E lấy/V điểm/N xét/V tốt_nghiệp/V THPT/Np và/CC xét/V tuyển/V vào/E các/L trường/N đại_học/N cao_đẳng/N
+Học_sinh/N sẽ/R thi/V 5/M bài/N gồm/V 3/M bài/N thi/V độc_lập/A là/V Toán/Np Ngữ_văn/N Ngoại_ngữ/N một/M trong/E hai/M bài/N thi/V tổ_hợp/N Khoa_học_tự_nhiên/N /A gồm/V các/L môn/N Vật_lý/N Hóa_học/N Sinh_học/N /A và/CC Khoa_học_xã_hội/N /V các/L môn/N Lịch_sử/N Địa_lý/N Giáo_dục/N công_dân/N đối_với/E giáo_dục/N THPT/Np môn/N Lịch_sử/N Địa_lý/N đối_với/E giáo_dục/N thường_xuyên/A /V
+Trừ/V môn/N Ngữ_văn/N các/L bài/N thi/V đều/R theo/E hình_thức/N trắc_nghiệm/V

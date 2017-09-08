@@ -1,0 +1,9 @@
+Cứu/V sống/V mẹ/N con/N sản_phụ/N bị/V xuất_huyết/V giảm/V tiểu_cầu/N
+Sản_phụ/N 34/M tuổi/N đang/R mang/V thai/N 33/M tuần/N nhập_viện/V trong/E tình_trạng/N xuất_huyết/V toàn_thân/N
+Các/L bác_sĩ/N nhi/N Quảng_Ninh/Np chẩn_đoán/V nhanh/A thực_hiện/V ca/N mổ/V thành_công/N cứu/V sống/V được/R cả/P hai/M mẹ/N con/N
+Ca/N phẫu_thuật/V được/R thực_hiện/V trưa/N 86/M đến/E chiều/N 86/M tình_trạng/N chảy_máu/N của/E bệnh_nhân/N được/R kiểm_soát/V tốt/A bé/N sơ_sinh/A đang/R được/V chăm_sóc/V tại/E Khoa/Np sơ_sinh/A của/N bệnh_viện/N
+Trước/E khi/N nhập_viện/N trong/N tình_trạng/N xấu/A vào/E sáng/N 86/M sản_phụ/N này/P chưa/R từngkhám/V thai/N lần/N nào/P
+Theo/E bác/N sĩ/N Trần_Thị_Minh_Lý/Np PGĐ/M Bệnh_viện/N sản/N nhi/N Quảng_Ninh/Np người/N trực_tiếp/A thực_hiện/V ca/N mổ/V các/L bác/N sĩ/N đã/R hội_chẩn/V chuyên_khoa/N trước/N mổ/V xác_định/V sản_phụ/N bị/V nhau/N cài_răng_lược/V nhau/N tiền_đạo/V xuất_huyết/N giảm/V tiểu_cầu/N
+Trong/E đó/P xuất_huyết/V giảm/V tiểu_cầu/N có/V nhiều/A biến_chứng/N rất/R nguy_hiểm/A như/C chảy_máu/N đường/N tiêu_hoá/N tiết_niệu/N nguy_hiểm/A nhất_là/N xuất_huyết/N não/N màng/V não/N
+Các/L bác/N sĩ/N đã/R phải/V truyền/V cho/E bệnh_nhân/N 10/M đơn_vị/N máu/N tươi/N trên/A 10/M đơn_vị/N tiểu_cầu/N thường/A và/CC tiểu_cầu/V máy/N
+Do/C em/N bé/N sinh/V non/A với/E trọng_lượng/N sơ_sinh/A 2kg/M các/L bác/N sĩ/N đã/R đồng_thời/N hồi_sức/V tích_cực/A cho/E cả/P mẹ/N và/CC con/N

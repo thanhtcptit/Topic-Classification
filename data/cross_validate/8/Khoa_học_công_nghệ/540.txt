@@ -1,0 +1,11 @@
+Đường/N truyền/V Internet/Np tốc_độ/N tải/N 125/M GB/Nu mỗi/M giây/N
+Một/M nhóm/N nhà_khoa_học/N tìm/V ra/R cách/N tải/N dữ_liệu/N với/E tốc_độ/N trung_bình/A nhanh/A hơn/R 1/M 000/M lần/N so/V với/E Google_Fibre/Np dịch_vụ/N đạt/V tốc_độ/N một/M gigabit/N mỗi/M giây/N được/V xem/V là/C nhanh_nhất/A hiện_nay/N theo/V Science_Alert/Np
+Kết_quả/N được/V báo_cáo/V tại/E Hội_nghị/N châu/N Âu/Np về/E Truyền_thông/N Quang_học/N ECOC/Np năm/N 2016/M diễn/V ra/R tuần/N trước/A ở/E Dü/Np sseldorf/V Đức/Np
+Công_nghệ/N mới/A mang/V tên/N Probabilistic_Constellation_Shaping/Np PCS/Np được/V phát_triển/V bởi/E Đại_học/N Công_nghệ/N Munich_Phòng/Np thí_nghiệm/V Nokia_Bell/Np và/CC thử_nghiệm/V trên/E mạng/N cáp_quang/V của/E Deutsche_Telekom/Np
+PCS/Np hoạt_động/V thông_qua/V tăng/V hiệu_suất/N truyền/V dữ_liệu/N trong/E mạng_lưới/N cáp_quang/V giúp/V giảm/V hiện_tượng/N trễ/A mạng/N
+Một/M phần_mềm/N do/E nhóm/N nghiên_cứu/V phát_triển/V đảm_bảo/V lượng/N tín_hiệu/N biên_độ/N thấp/A được/R sử_dụng/V nhiều/A hơn/R tín_hiệu/N biên_độ/N cao/A
+Điều/N này/P cho_phép/V điều_chỉnh/V tốc_độ/N truyền/V phù_hợp/V với/E mạng/N cáp_quang/V nhờ/E đó/P tín_hiệu/N ít/A bị/V ảnh_hưởng/V bởi/E hiện_tượng/N nhiễu/V trong/E đường_dây/N và/CC những/L tạp_âm/N khác/A
+Khi/N sử_dụng/V Internet/N tốc_độ/N cao/A PCS/Np người/N dùng/V có_thể/R tải/N về/E 125/M GB/Nu dữ_liệu/N chỉ/R trong/E một/M giây/N
+Nếu/C nhiều/A người/N cùng/A sử_dụng/V đường/N truyền/V họ/P có_thể/A tải/N xong/R 25/M bộ/N phim/N 5/M GB/Nu trong/E thời_gian/N cực/A ngắn/A
+Công_nghệ/N PCS/Np đã/R được/V áp_dụng/V trên/E mạng/N cáp_quang/V để/E truyền/V dữ_liệu/N giữa/E các/L thành_phố/N Stuttgart_Darmstadt/Np và/CC Nuremberg/Np ở/V Đức/Np
+Trước_đây/N các/L nhà_khoa_học/N từng/R tạo/V ra/R những/L hệ_thống/N Internet/N tốc_độ/N cao/A nhưng/C hầu_hết/X chỉ/R dừng/V ở/E quy_mô/N trong/E phòng_thí_nghiệm/N

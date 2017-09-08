@@ -1,0 +1,28 @@
+Quét/V mống/N mắt/N đưa/V Galaxy_Note/Np 7/M lên_ngôi/V về/E khả_năng/N bảo_mật/V 
+Thách_thức/N và/CC xu_thế/N về/V bảo_mật/V cho/E smartphone/N Khảo_sát/V từ/E hãng/N bảo_mật/V Juniper_Networks/Np cho/V thấy/V cứ/R 10/M người/N thì_có/X đến/V 7/M người/N thừa_nhận/V họ/P sẵn_sàng/A kết_nối/V Wi-Fi/Np công_cộng/A để/E truy_cập/V những/L dữ_liệu/N cá_nhân/N quan_trọng/A như/C tài_khoản/N ngân_hàng/N trực_tuyến/A hay/C thông_tin/N cá_nhân/N 
+Đây/P chính/T là/V những/L sơ_suất/V đơn_giản/A thường/R gặp/V nhưng/C lại/R rất/R rủi_ro/A mà/C người/N dùng/V tự_tạo/V ra/R để/E “/V mời_chào/N các/L hacker/N 
+Đối_với/E doanh_nghiệp/N con_số/N này/P thực_sự/A là/C mối/N lo/V đáng_kể/A khi/N nhân_viên/N ngày_nay/N có/V xu_hướng/N xem/V tài_liệu/N kiểm_tra/V email/N hay/C trò_chuyện/V với/E khách_hàng/N trực_tiếp/A qua/V điện_thoại/N smartphone/N 
+Trong/E bối_cảnh/N đó/P những/L động_thái/N từ/E Samsung/Np cho/V thấy/V qua/E nhiều/A năm/N phát_triển/V Samsung/Np luôn/R lưu_tâm/V đến/E vấn_đề/N bảo_mật/V điện_thoại/N cho/E khách_hàng/N 
+Gã/N khổng_lồ/A Hàn_Quốc/Np đã/R đưa/V ra/R một/M giải_pháp/N riêng/A để/E bảo_đảm/V an_toàn/A cho/E thiết_bị/N Galaxy/Np bằng/E việc/N thiết_lập/V tài_khoản/N Samsung_Account/Np được/V bảo_vệ/V bởi/E nền_tảng/N KNOX/Np 
+Ngoài_ra/C hãng/N này/P cũng/R đi/V đầu/N trong/E việc/N đưa/V cảm_biến/N vân/N tay/N dần/R trở_nên/V phổ_biến/V với/E smartphone/N từ/E phân/N khúc/N cao_cấp/A cho_đến/E tầm/N trung/N 
+Trong/E tương_lai/N quét/V mống/N mắt/N chiếm/V ưu_thế/A so/V với/E quét/V vân/N tay/N và/CC nhiều/A khả_năng/N sẽ/R trở_thành/V xu_hướng/N bảo_mật/V mới/R bởi/E mống/N mắt/N được/V xem/V là/C bộ_phận/N lý_tưởng/N cho/E nhận_dạng/V sinh/V trắc/N học/V 
+Trong/E khi/N vân/N tay/N chỉ/R có/V 18/M điểm/N đặc_trưng/A thì/C võng_mạc/N có/V đến/V 2000/M điểm/N như_vậy/X 
+Đặc_biệt/A hơn/A máy_quét/N mống/N mắt/N có/V tốc_độ/N xử_lý/V nhanh/A nhưng/C độ/N sai_sót/N lại/R thấp/A hơn/R so/V với/E cảm_biến/N vân/N tay/N thậm_chí/R ngay/T cả/T khi/N mắt/N người/N dùng/V đang/R đeo/V kính/N áp/V tròng/N cũng/R có_thể/R thực_hiện/V được_việc/N xác_thực/A 
+Samsung/Np đã/R nhanh_chóng/A bắt/V được/R xu_thế/N này/P bằng/E công_nghệ/N mang/V tên/N Iris_Scanner/Np Quét/V mống/N mắt/N tích_hợp/A song_song/A với/E công_nghệ/N bảo_mật/V bằng/E vân/N tay_trên/N Galaxy_Note/Np 7/M 
+Cơ_chế/N hoạt_động/V của/E Iris_Scanner/Np trên/E Galaxy_Note/Np 7/M Trên_Galaxy_Note/Np 7/M công_nghệ/N Iris_Scanner/Np sử_dụng/V nhận_dạng/V mẫu/N toán_học/N hình_ảnh/N mống/N mắt/N của/E một/M cá_nhân/N từ/E một/M hoặc/CC cả/P hai/M mắt/N 
+Để/E làm/V được/R điều/N này/P Samsung/Np tích_hợp/V cho/E máy/N một/M đèn/N LED/Np hồng_ngoại/N IR/Np và/CC một/M cảm_biến/N camera/N riêng_biệt/V đi/V kèm/V một/M bộ/N lọc/V hình_ảnh/N đặc_biệt/A để/E nhận_biết/V vân/N trong/E mống/N mắt/N mỗi/M khi/N có/V đèn/N hồng_ngoại/N chiếu/V vào/V 
+Khi/N bắt_đầu/V quá_trình/N đăng_ký/V camera/N sẽ/R chụp/V lại/R ảnh/N đã/R chiếu/V hồng_ngoại/N của/E mắt/N sau/E đó/P phát_hiện/V chỗ/N nào_là/V mống/N mắt/N để/E lưu/V lại/R thông_tin/N 
+Sau/E đó/P các/L đường/N vân/N trong/E mắt/N sẽ/R được/V hệ_thống/N xử_lý/V mã_hóa/V thành/V một/M loại/Nc dữ_liệu/N mới_rồi/A lưu/V vào/E bên/N trong/N cơ_sở_dữ_liệu/N của/E thiết_bị/N 
+Quá_trình/N này/P chỉ/R mất/V vài/L giây/N đồng_thời/R cũng/R không/R yêu_cầu/V người/N dùng/V phải/V thao_tác/V tay/N liên_tục/A như/C cảm_biến/V vân/N tay/N 
+Khi/N cần/V mở/V khóa/N hoặc/CC kích_hoạt/V một/M ứng_dụng/N được/V bảo_vệ/V cảm_biến/V sẽ/R thực_hiện/V lại/R việc/N quét/V mống/N mắt/N một/M lần/N nữa/R 
+Ngay/T sau/E đó/P thiết_bị/N sẽ/R so_sánh/V dữ_liệu/N thu_nhận/V được/R từ/E camera/N với/E dữ_liệu/N sẵn/A có/V 
+Nếu/C khớp/N tức_là/V đúng/A chủ_sở_hữu/N thì/C máy/N sẽ/R tự_động/A mở/V 
+Giống/A như/C khi/N đăng_ký/V quá_trình/N xác_thực/A diễn/V ra/R rất/R nhanh/A 
+Tiêu_chuẩn/N bảo_mật/V mới/R trên/E smartphone/N Ngay/T sau/E khi/N sự_kiện/N Galaxy_Unpacked/Np 2016/M kết_thúc/V chuyên_trang/V công_nghệ/N uy_tín/N TheVerge/Np nhận_xét/V Galaxy_Note/Np 7/M thể_hiện/V hướng/N đi/V mới/R của/E Samsung/Np 
+Họ/P không/R còn/V cố_gắng/V phân_biệt/V hai/M dòng/N sản_phẩm/N Galaxy_Note/Np và/CC Galaxy/Np S/Np về/V thiết_kế/V cấu_hình/V mà/C sẽ/R đặc_trưng/A Galaxy_Note/Np 7/M với/E tính_năng/N 
+Trong/E số/N này/P tính_năng/V đặc_biệt/A nhất/R được/V nhắc/V đến/R chính/T là/V chế_độ/N quét/V mống/N mắt/N để/E mở/V khóa/N phương_thức/N bảo_mật/V hoàn_toàn/A mới/R lần/V đầu/N xuất_hiện/V trên/E dòng/N Galaxy_Note/Np nói_chung/X cũng_như/C smartphone/N Android/Np nói_riêng/X 
+AndroidCentral/Np cũng/R đánh_giá/V cao/A khả_năng/N của/E chế_độ/N này/P và/CC đồng_ý/V rằng/C công_nghệ/N quét/V mống/N mắt/N trên/E Galaxy_Note/Np 7/M là/V một/M bước_tiến/N mới/A của/E Samsung/Np trong/E vấn_đề/N bảo_mật/V trên/E smartphone/N 
+Trong/E khi/N đó/P DigitalTrends/Np không/R ngần_ngại/V khẳng_định/V Galaxy_Note/Np 7/M là/V smartphone/N bảo_mật/V nhất/R hiện_nay/N đi/V kèm/V với/E đó/P là/V nền_tảng/N bảo_mật/V tiên_phong/A Samsung/Np KNOX/Np được/V trang_bị/V riêng/A 
+Theo/E ông/Nc DJ_KOH/Np người/N đứng/V đầu/N mảng/N di_động/N của/E tập_đoàn/N điện_tử/N Samsung/Np cho_biết/V tại/E lễ/N ra_mắt/V Note7/Np công_nghệ/N quét/V mống/N mắt/N là/V công_trình/N được/V Samsung/Np đầu_tư/V kỹ_lưỡng/A trong/E vòng/N hơn/A 3/M năm/N qua/V cho/E quá_trình/N nghiên_cứu/V và/CC phát_triển/V 
+Các/L thí_nghiệm/N cho/V thấy/V đây/P hiện/N là/V công_nghệ/N sinh/V trắc/N học/V an_toàn/A nhất/R vượt/V xa/A tính_năng/N bảo_mật/V bằng/E vân/N tay_trên/V nhiều/A smartphone/N hiện_nay/N 
+PV/Np 

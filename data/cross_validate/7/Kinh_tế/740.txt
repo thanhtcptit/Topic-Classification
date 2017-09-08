@@ -1,0 +1,14 @@
+Cổ_phiếu/N giá/N 900/M đồng/Nu trả/V cổ_tức/N 5 0/M đồng/Nu
+Công_ty_cổ_phần/N Meinfa/Np /V Mã/Np CK/Np MEF/Np /M thông_báo/N ngày/N 30/5/M tới/V sẽ/R trả/V cổ_tức/N năm/N 2016/M bằng/E tiền_mặt/N với/E tỷ_lệ/N 50%/M tức_là/V mỗi/M cổ_phiếu/N được/V nhận/V 5 0/M đồng/Nu
+Trong/E khi/N đó/P hiện/N thị_giá/A của/E cổ_phiếu/N MEF/Np chỉ/R là/V 900/M đồng/Nu  /EOS
+Meinfa/Np có/V tiền_thân/N là/V Nhà_máy/N Y_cụ/N 2/M
+Doanh_nghiệp/N này/P  /V chuyên/A mua_bán/V các/L sản_phẩm/N cơ_khí/N và/CC máy_móc/N thiết_bị/N phụ_tùng/N ngành/N y_tế/N đồng_thời/R chuyên/A sản_xuất/V các/L sản_phẩm/N từ/E kim_loại/N máy/N thông_dụng/A chuyên_dụng/A dụng_cụ/N chăn_nuôi/V thú/N ý/N dụng_cụ/N cầm/V tay/N các/L loại/N
+Ngoài/N tiêu_thụ/V trong/E nước/N Meinfa/Np còn/R xuất_khẩu/V sang/V Nhật/Np Đài_Loan/Np /V Trung_Quốc/Np /M
+Công_ty/N hiện/N  /A có/V vốn_điều_lệ/N hơn/R 37,55/M tỷ/N đồng/N
+Với/E việc/N tỷ_lệ/V 50%/M MEF/Np sẽ/R chi/V khoảng/A 18,77/M tỷ/Nu đồng/N tiền_mặt/N để/E chi_trả/V cổ_tức/N cho/E cổ_đông/N trong/E tháng/N 5/M tới/E  /EOS
+Năm/N 2016/M Meinfa/Np đạt/V 292/M tỷ/N đồng/N doanh_thu/N lợi_nhuận/N sau/E thuế/N đạt/V trên/E 27/M tỷ/N đồng/N tăng_trưởng/V 35%/M so/V với/E năm/N 2015/M
+Lãi/V cơ_bản/A trên/E mỗi/M cổ_phiếu/N đạt/V 7 2/M đồng/Nu mỗi/L cổ_phiếu/N  /EOS
+Năm/N 2017/M công_ty/N đặt/V mục_tiêu/N doanh_thu/N 300/M tỷ/Nu lợi_nhuận/N sau/E thuế/N 27,9/M tỷ/N đồng/N cổ_tức/N tiền_mặt/V tỷ_lệ/N 30%/M  /EOS
+MEF/Np được/V niêm_yết/V trên/E UpCoM/Np từ/E năm/N 2011/M với/E giá/N 34 0/M đồng/Nu sau/N đó/P lao/V dốc/N mạnh/A
+Kể/V từ/E khi/N lên/V sàn/N Meinfa/Np chưa/R bao_giờ/P thua_lỗ/V kết_quả/N kinh_doanh/V khá/R ổn_định/A đồng_thời/C chia/V cổ_tức/N bằng/E tiền_mặt/N với/E tỷ_lệ/N khá/R cao/A
+Chính/T điều/N này/P khiến/V nhà_đầu_tư/N cho/V rằng/C các/L cổ_đông/N hiện_hữu/V khá/R yên_tâm/A giữ/V cổ_phiếu/N khiến/V mã/N này/P hầu_như/R không/R có/V giao_dịch/N

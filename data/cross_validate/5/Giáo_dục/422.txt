@@ -1,0 +1,19 @@
+Thí_sinh/N phải/V đạt/V chỉ_số/N BMI/Np từ/E 17.5/M đến/E dưới/N 25/M mới/R được/V dự/V thi/V vào/E trường/N công_an/N 
+Theo/E tính_toán/V của/E các/L nhà_khoa_học/N chỉ_số/N BMI/Np của/E một/M người/N từ/E mức/N 25/M trở_lên/A được/V xác_định/V là/V người/N thừa/V cân/N và/CC mức/N dưới/E 17,5/M là/V chỉ_số/N của/E người/N gầy/V 
+Học_sinh/N quá/R 20/M tuổi/N không/R được/V dự/V thi/V Bộ/N Công/N an/M Quy_định/N về/E đối_tượng/N độ/N tuổi/N để/E dự_tuyển/V vào/E các/L trường/N công_an/N năm/N 2017/M như/C sau/N Đối_với/C cán_bộ/N chiến/N sỹ/V Công_an/N trong/E biên_chế/N không/R quá/R 30/M tuổi/N tính/V đến/E năm/N dự/V thi/V )/A 
+Đối_với/E học_sinh/N THPT/Np không/R quá/R 20/M tuổi/N học_sinh/N người/N dân_tộc_thiểu_số/N không/R quá/R 22/M tuổi/N tính/V đến/E năm/N dự_tuyển/V )/A 
+Hạ_sĩ_quan/N chiến_sĩ/N nghĩa_vụ/N trong/E CAND/Np có/V thời_gian/N phục_vụ/V từ/E đủ/A 24/M tháng/N trở_lên/A tính/V đến/E tháng/N dự_tuyển/V không/R quy_định/N độ/N tuổi/N 
+Công_dân/N hoàn_thành/V nghĩa_vụ/N tham_gia/V CAND/Np hoặc/CC hoàn_thành/V nghĩa_vụ_quân_sự/N được/V dự/V thi/V thêm/V một/M lần/N trong/E thời_gian/N 12/M tháng/N kể/V từ/E ngày/N có/V quyết_định/N xuất_ngũ/V đến/E ngày/N dự_tuyển/V thời_gian/N dự_tuyển/V là/V thời_gian/N đăng_ký/V sơ_tuyển/V tháng/N 2-tháng/M 3/M năm/N 2017/M không/R quy_định/N độ/N tuổi/N 
+Hạnh_kiểm/N loại/N khá/R trở_lên/A mới/R được/V dự/V thi/V Về/V trình_độ/N văn_hóa/N Bộ/N Công/N an/M quy_định/N thí_sinh/N đã/R tốt_nghiệp/V THPT/Np hoặc/CC tương_đương/V trong/E các/L năm_học/N THPT/Np hoặc/CC tương_đương/V đạt/V học_lực/N trung_bình/A trở_lên/A theo/E kết_luận/N tại/E học_bạ/N 
+Không/R sơ_tuyển/V học_sinh/N lưu_ban/V trong/E các/L năm_học/N THPT/Np và/CC tương_đương/V 
+Phẩm_chất/N đạo_đức/N tiêu_chuẩn/N chính_trị/N Trong/E những/L năm_học/N trung_học_phổ_thông/X đạt/V hạnh_kiểm/N từ_loại/N khá/R trở_lên/A tiêu_chuẩn/N chính_trị/N đảm_bảo/V theo/E quy_định/N hiện_hành/N của/E Bộ/N Công/N an/M đối_với/E việc/N tuyển/V người/N vào/E lực_lượng/N CAND/Np 
+Đối_với/E hạ_sĩ_quan/N chiến_sĩ/N nghĩa_vụ/N trong/E CAND/Np công_dân/N hoàn_thành/V nghĩa_vụ/N tham_gia/V CAND/Np hoàn_thành/V nghĩa_vụ_quân_sự/N thời_gian/N tại_ngũ/A hàng/N năm/N đều/R hoàn_thành/V nhiệm_vụ/N trở_lên/A không/R vi_phạm/V kỷ_luật/N từ/E mức/N khiển_trách/N trở_lên/A 
+1,64/M m/Nu trở_lên/A mới/R được/V dự_tuyển/V Về/V tiêu_chuẩn/N về/E chiều_cao/N cân/N nặng/A +/N Nam/Np Chiều_cao/N từ/E 1,64/M m/Nu trở_lên/A cân/N nặng/A từ/E 48/M kg/Nu trở_lên/A 
+Nữ/N Chiều_cao/N từ/E 1,58/M m/Nu trở_lên/A cân/N nặng/A từ/E 45/M kg/Nu trở_lên/A 
+Chỉ_số/N BMI/Np Body_Mass_Index/Np chỉ_số/N khối/N cơ_thể/N )/A của/E thí_sinh/N phải/V đạt/V từ/E 17.5/M đến/E dưới/N 25/M 
+Theo/E tính_toán/V của/E các/L nhà_khoa_học/N chỉ_số/N BMI/Np của/E một/M người/N từ/E mức/N 25/M trở_lên/A được/V xác_định/V là/V người/N thừa/V cân/N và/CC mức/N dưới/E 17,5/M là/V chỉ_số/N của/E người/N gầy/V 
+Đối_với/E học_sinh/N thuộc/V vùng/N Khu_vực/N 1/M (/Nu gồm/V học_sinh/N hưởng/V chính_sách/N ưu_tiên/A trong/E tuyển_sinh/V theo/E KV1/Np hoặc/CC học_sinh/N có/V hộ_khẩu/N thường_trú/V 5/M năm/N tại/E địa_bàn/N KV1/M học_sinh/N là/V người/N dân_tộc_thiểu_số/X theo/V từng/R giới/N được/V hạ/V thấp/A 02/M cm/Nu về/E chiều_cao/N và/CC 02/M kg/Nu cân/N nặng/A 
+Thí_sinh/N bị/V cận_thị/V được/R đăng_ký/V dự_tuyển/V vào/E các/L trường/N CAND/Np các/L thí_sinh/N trên/E phải/V cam_kết/V chữa_trị/V khỏi/V khi/N trúng_tuyển/V 
+Việc/N tuyển/V học_sinh/N nữ/N vào/E các/L trường/N CAND/Np được/V thực_hiện/V theo/E chỉ_tiêu/N riêng/A với/E tỷ_lệ/N từ/E 10/M đến/E 15%/M tổng/N chỉ_tiêu/N ở/E từng/P trường/N theo/V từng/R ngành/N học/V không/R hạn_chế/V tỷ_lệ/N nữ/N sơ_tuyển/A ĐKXT/Np đại_học/N cao_đẳng/N trung_cấp/N 
+Học_sinh/N phổ_thông/N chưa/R kết_hôn/V chưa/R có/V con_đẻ/N 
+Nhật_Hồng/Np 

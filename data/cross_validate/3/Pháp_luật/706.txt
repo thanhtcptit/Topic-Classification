@@ -1,0 +1,9 @@
+Tên/N cướp/V xe_máy/N rút/V dao/N dọa/V giết/V cảnh_sát/N giao_thông/N
+Chiều/N 5/7/M trung_tá/N Nguyễn_Đức_Thắng/Np Đội/N phó/N CSGT/Np số/N 7/M /Nu Phòng/N CSGT/Np Công_an/N TP/Np Hà_Nội/Np /A cho_biết/V vừa/R bàn_giao/V Trịnh_Hùng_Anh/Np /M 30/M tuổi/N ở/E huyện/N Bình_Lục/Np Hà_Nam/Np /V cho/E Công_an/N phường/N Nhân_Chính/Np để/E điều_tra/V hành_vi/N cướp/V tài_sản/N
+15h50/M cùng/A ngày/N tổ/N công_tác/N gồm/V trung_tá/N Nguyễn_Văn_Bốn/Np đại_úy/N Quách_Anh_Tuấn/Np và/CC trung_úy/N Nguyễn_Cường_Quyền/Np được/V phân_công/V làm/V nhiệm_vụ/N tại/E nút/N giao_thông/N Tố_Hữu/Np Khuất_Duy_Tiến/Np
+Nghe/V tiếng/N tri_hô/N có/V tên/N cướp/V xe_máy/N đang/R chạy/V trên/E đường/N Nguỵ_Như_Kom_Tum/Np đại_úy/N Tuấn/Np và/CC trung_úy/N Quyền/Np áp/V sát/A để/E khống_chế/V
+Bị/V hai/M cảnh_sát/N ép/V tên/N cướp/V rút/V dao/N bấm/V trong/E người/N ra/R quát/V lớn/A vào/V bắt/V tao/P tao/P đâm/V chết/V ”/A
+Tuy_nhiên/C tên/N cướp/N đã/R bị/V tổ/N công_tác/V khống_chế/V
+Qua/E khám_xét/V nhanh/A công_an/N thu/V được/R trên/E người/N tên/N cướp/V 4/M đầu/N vam/N phá/V khóa/N một/M tay/N công_phá/N khóa/N dao/N bấm/V dài/A khoảng/N 25/M cm/Nu và/CC xe_máy/N tang_vật/N
+Tại/E cơ_quan/N công_an/N Trịnh_Hùng_Anh/Np khai/V nhận/V có/V một/M tiền_án/N 2/M tiền_sự/N năm/N 2013/M về/E tội/N trộm_cắp/V bị/V xử_phạt/V 15/M tháng/N tù_giam/V
+Phương_Sơn/Np

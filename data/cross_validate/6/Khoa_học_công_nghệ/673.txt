@@ -1,0 +1,21 @@
+Biến/V nước_biển/N thành/V nước_ngọt/N cho/E chiến_sĩ/N Trường_Sa/Np
+Một/M hệ_thống/N lọc/V nước_biển/N thành/V nước_sạch/N vừa/R được/V bộ/N Tư_lệnh/N Hải_quân/N tập_đoàn/N dầu_khí/N Việt_Nam/Np bàn_giao/V cho/E quân_dân/N đảo/N Song_Tử_Tây/Np huyện/N đảo/N Trường_Sa_Khánh_Hòa/Np đưa/V vào/R sử_dụng/V sau/E một/M năm/N thử_nghiệm/V
+Song_Tử_Tây/Np là/V đảo/N đầu_tiên/A được/V chọn/V thí_điểm/V hệ_thống/N này/P trước/E khi/N triển_khai/V cho/E quần_đảo/N Trường_Sa/Np và/CC các/L nhà/N giàn/N
+Hệ_thống/N lọc/V nước/N gồm/V 4/M máy/N mỗi/M ngày/N cung_cấp/V cho/E đảo/N khoảng/A  /M 18/M m3/Nu  /N nước_sạch/N
+Công_suất/N mỗi/M máy/N lọc/V được/V thiết_kế/V khác_nhau/A như/C có/V máy/N lọc/V khoảng/N 250/M lít/Nu //X 1/M giờ/Nu hoặc/CC 236/M lít/Nu //X 1/M giờ/Nu  /M Để/E vận_hành/V hệ_thống/N lọc/V dựa/V vào/E nguồn/N điện/N gió/N năng_lượng/N mặt_trời/N được/V lắp_đặt/V trước/E đó/P trên/E đảo/N
+Mức/N tiêu_thụ/V năng_lượng/N khoảng/N 5/M Kwh/m3/Np
+Máy/N lọc/V nước_biển/N sử_dụng/V công_nghệ/N thẩm_thấu/V ngược/A RO/Np
+Công_nghệ/N này/P hoạt_động/V theo/E nguyên_tắc/N  /V nước_biển/N với/E nồng_độ/N muối/N cao/A khi/N di_chuyển/V qua/E màng/N bán/V thấm/V RO/Np sẽ/R chuyển/V thành/V dung_dịch/N muối/N loãng/A vì/E muối/N cùng/A các/L hợp_chất/N có/V phân_tử/N lớn/A bị/V giữ/V lại/R chỉ/R phân_tử/V nước/N được/V đi/V qua/V
+Bà/N Nguyễn_Ngọc_Quỳnh/Np đại_diện/V đơn_vị/N thi_công/V công_ty/N SolarBK/Np cho_biết/V đơn_vị/N mất/V khoảng/N 7/M năm/N để/E hoàn_thành/V hệ_thống/N năng_lượng/N sạch/A cho/E cả/P quần_đảo/N còn/R dự_án/N thí_điểm/V lọc/V nước_biển/N ở/E đảo/N Song_Tử_Tây/Np chỉ/R mới/R từ/E tháng/N 1/2014/M đến/E nay/P
+Do/E khoảng_cách/N việc/N vận_chuyển/V trang_thiết_bị/N vốn/N rất/R dễ/A hư_hại/V ra/R đảo/N gặp/V nhiều/A khó_khăn/N
+Thời_tiết/N khắc_nghiệt/A nên/C việc/N thích_ứng/V làm_việc/V của/E đội_ngũ/N kỹ_thuật/N không/R hề/T đơn_giản/A
+Các/L kỹ_sư/N ăn_ở/V với/E chiến_sĩ/N ngoài/E Trường_Sa/Np họ/P phải/V có/V sức_khỏe/N để/E làm_việc/V sinh_sống/V dài/A ngày/N ngoài/N đảo/N
+Sống/V lâu/A ngoài/E đảo/N nên/C nhiều/A kỹ_sư/N giờ/N như/C anh_em/N với/E các/L chiến_sĩ/N người_dân/N ở/E Song_Tử_Tây/Np bà/N Quỳnh/Np chia_sẻ/V
+Hệ_thống/N lọc/V nước/N được/V triển_khai/V với/E ba/M mô_hình/N gồm/V mô_hình/N cho/E đảo/N nổi/V thí_điểm/V ở/E Song_Tử_Tây/Np mô_hình/N cho/E đảo/N chìm/V và/CC nhà/N giàn/N công_suất/N một/M máy/N khoảng/N 70/M lít/Nu dùng/V năng_lượng/N mặt_trời/N mô_hình/N cho/E trường_hợp/N khẩn_cấp/V 2/M máy/N lọc/V bằng/E cách/N lắc/V tay/N
+Thiếu_tá/N Nguyễn_Mạnh_Cường_Đảo/Np trưởng/Z đảo/N Song_Tử_Tây/Np huyện/N đảo/N Trường_Sa_Khánh_Hòa/Np cho_biết/V đảo/N đã/R tiếp_nhận/V hệ_thống/N xử_lý/V nước_biển/N thành/V nước_ngọt/N vào/E ngày/N 23/4/M sau/N  /A hơn/A một/M năm/N  /M được/V hội_đồng/N nghiệm_thu/V cân/N chỉnh/V thử_nghiệm/V
+Kết_quả/N ban_đầu/N cho/V thấy/V nguồn/N nước_lọc/N đạt/V tiêu_chuẩn/N sử_dụng/V
+“/M Đảo/N luôn/R thiếu/V nước_ngọt/N vì/E chỉ/R chờ/V vận_chuyển/V từ/E đất_liền/N ra/V hoặc/CC từ/E nguồn/N nước/N mưa/V nên/C sinh_hoạt/V trên/E đảo/N rất/R khó_khăn/A
+Vào/V mùa_khô/N khó_khăn/A gấp_bội/A khi/N mỗi/L người_dân/N chiến_sĩ/N chỉ/R có/V 5/M lít/Nu nước/N cho/E mọi/L sinh_hoạt/N mỗi/M ngày/N
+Với/E hệ_thống/N lọc/V nước_biển/N thành/V nước_ngọt/N quân_dân/N trên/E đảo/N sẽ/R có/V điều_kiện/N sinh_hoạt/V tốt/A hơn/R ”/M người/N đảo/N trưởng/A chia_sẻ/V
+Các/L đơn_vị/N thực_hiện/V mong_muốn/V nguồn/N nước/N từ/E máy/N lọc/V sau/E khi/N sử_dụng/V sẽ/R thấm/V vào/E lòng/N đất/N tạo/V nguồn/N nước_ngầm/N giúp/V cây_cối/N trên/E đảo/N phát_triển/V tạo/V môi_trường/N tốt/A hơn/R
+Một/M đại_diện/N của/E cục/N Hậu_cần/N bộ/N Tư_lệnh/N Hải_quân/N cho_biết/V sau/E khi/N thí_điểm/V đơn_vị/N sẽ/R tiến_hành/V so_sánh/V lựa_chọn/V ra/R công_nghệ/N thích_hợp/A báo_cáo/V Bộ/N Quốc/Np phòng/V để/E quyết_định/V đầu_tư/V ra/R toàn/R quần_đảo/N và/CC các/L nhà/N giàn/N

@@ -1,0 +1,11 @@
+Cảnh_sát/N nổ_súng/V bắt/V tên/N cướp/N trói/V 2/M cô_gái/N ở/E Sài_Gòn/Np
+Ngày/N 7/7/M Công_an/N quận/N 9/M /Nu TP_HCM/Np /V tạm/A giữ/V hình_sự/N Dương_Thanh_Hồ/Np /M 18/M tuổi/N /A về/E hành_vi/N Cướp/V tài_sản/N
+Sáng/N nay/P hai/M cô_gái/N 23/M tuổi/N mở_cửa/V phòng/N trọ/V trên/E đường/N 102/M /Nu phường/N Tăng_Nhơn_Phú/Np A/Np quận/N 9/M /Nu để/E đi/V làm/V thì/C Hồ_cầm/N dao/N xộc/V đến/E
+Gã/P thanh_niên/N ở/V cùng/A khu/N trọ/V uy_hiếp/V đẩy/V 2/M người/N vào/V nhà_vệ_sinh/N đóng_cửa/V lại/R
+Hắn/P trói/V tay/N bịt_mắt/N nhét/V quả/N chanh/V vào/E miệng/N họ/P
+Trong/E lúc/N Hồ/Np lên/V gác/N lục/V tìm/V tài_sản/N một/M trong/E hai/M cô_gái/N lấy/V điện_thoại/N nhắn_tin/V cho/E bạn_trai/N đến/V cứu/V
+Tên/N cướp/V lục/V khắp/A nhà/N lấy_được/V một/M điện_thoại/N 500 0/M đồng/Nu tính/N bỏ/V đi/V thì/C bạn_trai/V nạn_nhân/N và/CC cảnh_sát/N đến/E
+Thuyết_phục/V mãi/R nhưng/C Hồ/Np không/R mở_cửa/V cảnh_sát/N nổ/V nhiều/A phát/N súng/N chỉ_thiên/V
+Tên/N cướp/V chạy/V lên/R gác/N cạy/V la/V phông/V nhà/N tìm/V đường/N thoát/V
+Lúc/N này/P 2/M cô_gái/N tự/P cởi/V trói/V mở_cửa/V chạy/V ra/R ngoài/N cảnh_sát/N ập/V vào/R khống_chế/V tên/N cướp/V
+Hồ/Np khai/V đêm/N trước/A đi/V chơi/V với/E nhóm/N bạn/N và/CC sử_dụng/V ma_túy/N tổng_hợp/V nên/C sáng/N nay/P mới/R gây/V ra/R chuyện/N

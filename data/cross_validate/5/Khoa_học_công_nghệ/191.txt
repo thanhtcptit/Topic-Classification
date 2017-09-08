@@ -1,0 +1,74 @@
+Khi/N nào/P Startup/Np cần/V bán/V hay/N chia/V cổ_phần/N
+Tiếp_theo/V Hiểu/V về/E các/L hình_thức/N huy_động/V vốn/N cho/V startup/N bài/N viết/N này/P với/E phần/N tham_khảo/N từ/E trang/N FundersAndFounders/N sẽ/R chú_trọng/V vào/E hình_thức/N huy_động/V vốn/N bán/V cổ_phần/N equity/V
+Các/L nhà/Nc đầu_tư/V sẽ/R đầu_tư/V tiền/N để/E sở_hữu/V một/M phần/N công_ty/N startup/N nói/V nôm_na/A là/V một/M phần/N của/E chiếc/N bánh/N
+Giả_định/V một/M startup/N nhận/V được/R 15000/M USD/Nu từ/E người_thân/N và/CC bạn_bè/N khoảng/A 200000/M USD/Nu từ/E một/M nhà/N đầu_tư/V thiên_thần/N angel/N investor/N và/CC 2000000/M USD/Nu từ/E một/M quỹ/N đầu_tư/V mạo_hiểm/N
+Hình/N sau/A của/E nhà/N thiết_kế/V Anna_Vital/Np cho/V thấy/V các/L bước/N phát_triển/V và/CC vòng/N gọi_vốn/N cổ_phần/N của/E start/N up/N
+Giai_đoạn/N ý_tưởng/N Idea_Stage/Np
+Đây/P là/V giai/N đoạn/N sơ_khai/A của/E một/M startup/N
+Sau/E nhiều/A ngày/N suy_nghĩ/V bạn/N có/V một/M ý/N tưởng/V rất/R tâm_đắc/V và/N cho/V rằng/C đây/P là/V ý_tưởng/N sẽ/R đưa/V bạn/N tới/V thành_công/V trên/E con/Nc đường/N khởi_nghiệp/V
+Tuy_nhiên/C vào/V thời_điểm/N này/P startup/N của/E bạn/N chỉ/R có/V duy_nhất/A một/M thành_viên/N là/V bạn/N nên/V bạn/N vẫn/R chưa/R thể/R nghĩ/V tới/E khái_niệm/N cổ_phần/N
+Giai_đoạn/N tìm_kiếm/V đồng/N sáng_lập/V CoFounder_Stage/N
+Bạn/N bắt_tay/V vào/E thực_hiện/V ý_tưởng/N và/CC cố_gắng/V biến/V nó/P thành/V một/M nguyên_mẫu/N prototype/N nhưng/C bạn/N thấy/V việc/N này/P tốn/V khá/R nhiều/A thời_gian/N và/CC cần/V sự/N giúp_đỡ/V từ/E một/M người/N khác/A
+Bạn/N tìm/V được/R một/M người/N rất/R thông_minh/A và/CC tràn_đầy/N nhiệt_huyết/N
+Sau/E vài/L ngày/N làm_việc/V chung/V bạn/N cảm_thấy/V họ/P đem/V rất/R nhiều/A giá_trị/N vào/V ý_tưởng/N của/E bạn/N và/CC cảm_thấy/V tự_tin/V khi/N có/V một/M cộng_sự/N đáng/V tin_tưởng/V
+Bạn/N mời/V họ/P trở/V thành_đồng/V sáng_lập/N cofounder/N nhưng/C chưa/R thể/R trả/V họ/P bằng/V tiền_lương/N và/CC nếu/C bạn/N trả/V tiền_mặt/N họ/N sẽ/R trở_thành/V nhân_viên/N –/N employee/N –/N của/E bạn/N không/R phải/A đồng/V sáng_lập/N
+Do/E đó/P bạn/N đề_nghị/V sẽ/R chuyển/V cổ_phần/N cho/V người/M đồng/Nu sáng_lập/N cofounder/N
+Nhưng/C bao_nhiêu/N cổ_phần/N là/V hợp_lí/N
+20/M là/V quá/N ít/A trong/E khi/N 40/M lại/N là/V quá/V nhiều/A
+Bạn/N là/V người/N đưa/V ra/V ý_tưởng/N ban_đầu/N và/CC biến/V giấc/N mơ/V khởi_nghiệp/V thành/N sự_thật/N
+Tuy_nhiên/C sau/E một/M thời_gian/N bạn/N nhận/V ra/R là/V nhà/N đồng/N sáng_lập/V cũng/R đầu_tư/V nhiều/A thời_gian/N và/CC công_sức/N vào/E dự_án/N này/P như/N bạn/N
+Vì/C họ/P làm/V một/M nửa/N khối_lượng/N công_việc/N họ/N xứng_đáng/V được/R đối_xử/V ngang_hàng/N và/CC nhận/V 50/M cổ_phần/N công_ty/N
+Vì/C bạn/N muốn/V startup/V của/E bạn/N thành_công/V bạn/N quyết_định/N sẽ/R nhượng/V lại/R 50/M cổ_phần/N công_ty/N cho/V người/M đồng/N sáng_lập/V
+Vòng/N bạn_bè/N và/CC người_thân/N Friends/Np and/N Family_Round/Np
+Sau/E một/M khoảng/N thời_gian/N bạn/N nhận/V ra/R rằng/N startup/N cần/V một_số/N vốn/N mà/C bạn/N và/CC người/N đồng/V sáng_lập/N không_thể/A cung_cấp/V nên/V bạn/N tìm/V cách/N huy_động/V vốn/N từ/E những/L nguồn/N khác/A
+Ở/E giai_đoạn/N này/P các/L quỹ/N đầu_tư/V mạo_hiểm/N Venture_Capital/Np VC/Np sẽ/R không/R tin_tưởng/V bạn/N vì/E startup/N của/E bạn/N vẫn/R chưa/R sản_xuất/V được/V một/M sản_phẩm/N có_thể/A hoạt_động/V working/N product/N và/CC họ/N sẽ/R không/R đồng_ý/V rót/V vốn/N cho/E startup/N của/N bạn/N
+Trường_hợp/N may_mắn/A một/M ông/N chú/N giàu/N có_của/N người/N đồng/N sáng_lập/V ngỏ/N ý_muốn/N hỗ_trợ/V nên/V bạn/N quyết_định/V sẽ/R cho/V ông/N ấy/P 5/M cổ_phần/N công_ty/N để/V đổi/V lấy/R 15000/M USD/Nu tiền_mặt/N
+Bây_giờ/N bạn/N có_thể/A trả/V tiền/N nhà/N và/CC các/L phí/N sinh_hoạt/N khác/A cho/E tới/E khi/N bạn/N sản_xuất/V được/V một/M nguyên_mẫu/N
+Đăng_kí/N công_ty/N Registering/Np the/N Company/Np
+Để/E bán/V 5/M cổ_phần/N startup/N cho/V ông/N chú/N của/E người/N đồng/N sáng_lập/V trong/E ví_dụ/N trên/N bạn/N cần/V tiến_hành/V đăng_kí/N công_ty/N
+Bạn/N phát_hành/V cổ_phiếu/N bán/V 5/M cho/V người/N chú/N kia/N và/CC để/V riêng/A 20/M cổ_phần/N cho/V các/L nhân_viên/N tương_lai/N đây/P được/V gọi_là/N option/N pool/N dự_phòng/V
+Bạn/N không/R bắt_buộc/V phải/V để_dành/V lượng/N cổ_phần/N này/P nhưng/C option/N pool/N là/V quyết_định/N tốt/A vì/N
+a/N Các/L nhà/Nc đầu_tư/V vào/E startup/N trong/N tương_lai/N sẽ/R muốn/V có/V nó/N
+b/N Số/N cổ_phần/N này/P sẽ/R được/V bảo_đảm/V an_toàn/N từ/E các/L quyết_định/N thiếu/V sáng_suốt/N của/E bạn/N hoặc/N nhà/N đồng/N sáng_lập/V
+Vòng/N nhà/N đầu_tư/V thiên_thần/N Angel_Round/Np
+Số/N tiền_của/N người/N chú/N giàu_có/A chỉ/R là/V tạm_thời/N và/CC bạn/N cần/V tìm_kiếm/V các/L nguồn/N vốn/N nhiều/A hơn/R cũng/R như/C ổn_định/A hơn/R để/E tiếp_tục/R phát_triển/V startup/N
+Bạn/N có/V các/L lựa_chọn/N phổ_biến/V sau/N
+a/N Vườn_ươm/N khởi_nghiệp/V incubator/N và/CC vườn/N tăng_trưởng/V khởi_nghiệp/V accelerator/N
+Các/L dịch_vụ/N này/P thường/R hỗ_trợ/V startup/N với/E hình_thức/N tiền_mặt/N chỗ/N làm_việc/V và/N lực_lượng/N cố_vấn/N mentor/N
+Hỗ_trợ/V vốn/N thường/A khá/A hạn_chế/V vào_khoảng/N 25000/M USD/Nu cho/E 510/M cổ_phần/N công_ty/N
+b/N Nhà/N đầu_tư/V thiên_thần/N Angel_Investor/Np
+Đây/P là/V các/L cá_nhân/N được/V công_nhận/V có/V khả_năng/N đầu_tư/V mạo_hiểm/N accredited/N investor/N sở_hữu/V ít_nhất/N 1000000/M USD/Nu một/M triệu/N đôla/N Mỹ/Np trong/E tài_khoản/N hoặc/N kiếm/V được/R ít_nhất/N 200000/M USD/Nu mỗi/M năm/N
+Bạn/N đã/R định_giá/V công_ty/N trước/E khi/N mời_gọi/N đầu_tư/V premoney/N valuation/N là/V 1000000/M USD/Nu
+Một/M nhà/Nc đầu_tư/V thiên_thần/N quyết_định/N đầu_tư/V cho/E startup/N 200000/M USD/Nu
+Như/C vậy/P định_giá/N sau/N đầu_tư/V là/V 1000000/M 200000/M 1200000/M
+Theo/E đó/P nhà/N đầu_tư/V thiên_thần/N sẽ/R nhận/V được/R 200000/M 1200000/M 16/M 167/M cổ_phần/N của/N công_ty/N
+Vào/V giai_đoạn/N sớm/A khi/N startup/N chưa/R thể/R tự/N tồn_tại/V bằng/E sản_phẩm/N của/E chính/T mình/N loại/N vốn/N này/P thường/R được/V biết/V với/E tên/N gọi/V seed/N funding/N
+Cổ_phần/N của/E bạn/N người/N đồng/V sáng_lập/V và/N chú/N của/E họ/N đều/R bị/V giảm/V đi/V 16/M
+Tuy_vậy/N trên/E thực_tế/N điều/N này/P có/V lợi/N vì/E giá_trị/N công_ty/N sẽ/R tăng/V dần/R sau/N mỗi/M lần/N nhận/V vốn/N đầu_tư/V
+Một/M miếng/Nc nhỏ/N của/E cái/Nc bánh/N lớn/A lớn/A hơn/R là/V một/M miếng/Nc lớn/A của/E cái/Nc bánh/N nhỏ/A
+Lưu_ý/V Điều/N bất_lợi/N là/V bạn/N đang/R đánh_đổi/V quyền_sở_hữu/N và/CC ra/V quyết_định/N của/E công_ty/N do/E bạn/N làm_chủ/V nên/V hãy/R cẩn_thận/V và/N chỉ/R huy_động/V vốn/N khi/N thật_sự/N cần_thiết/V và/CC chỉ/R nhận/V tiền_của/N các/L nhà/Nc đầu_tư/V mà/C bạn/N tin_tưởng/V
+Vòng/N quỹ/N đầu_tư/V mạo_hiểm/N Venture_Capital_Round/Np
+Ở/E giai_đoạn/N bạn/N đã/R sản_xuất/V được/V thành_phẩm/N và/CC bắt_đầu/V thu_hút/V sự/N chú_ý/V của/E người_dùng/N đại_chúng/N
+Bước/N tiếp_theo/V là/V huy_động/V vốn/N từ/E các/L quỹ/N đầu_tư/V mạo_hiểm/N venture/N capital/N firms/N
+Các/L vòng/N nhỏ/A hơn/R thường/R được/V gọi/V theo/E thứ_tự/N bảng_chữ_cái/N như/C Series/Np A/Np B/Np C/Np
+a/N Vòng/N gọi_vốn/N Series/Np A/Np
+Series/N A/Np là/V vòng/N gọi_vốn/N đánh_dấu/V việc/N startup/V chính_thức/A bước/V vào/V thị_trường/N
+Vốn/N từ/E Series/Np A/Np thường/R được/V dùng/V để/E nhân/V rộng/A mạng_lưới/N phân_phối/V tạo_dựng/V một/M hệ_thống/N khách/N hàng/N cơ_bản/A userbase/N hoặc/N tạo/V một/M mô_hình/N kinh_doanh/V business/N model/N ổn_định/A
+Số/N vốn/N huy_động/V được/V ở/V vòng/N này/P thường/R nằm/V trong/E khoảng/N dưới/N 1000000/M USD/Nu
+b/N Vòng/N gọi_vốn/N Series/Np B/Np
+Vốn/N huy_động/V được/V từ/E Series/Np B/Np chủ_yếu/A được/V dùng/V cho/E việc/N nhân/N rộng/A amp/N
+phát_triển/V scaling/N startup/V từ/E hệ_thống/N khách/N hàng/N tới/V mô_hình/N kinh_doanh/V
+Số/N vốn/N vay/V được/R có_thể/V lên/V đến/E hàng/R chục/M triệu/M USD/Nu vì/E các/L nhà/Nc đầu_tư/N cảm_thấy/V an_toàn/A hơn/R khi/N rót/V vốn/N vào/V một/M startup/N đã/R sống_sót/V qua/V vòng/N Series/Np A/Np
+c/N Vòng/N gọi_vốn/N Series/Np C/Np D/Np
+Từ_Series/Np C/Np trở/V đi/V startup/N đã/R thực_sự/A vững_mạnh/A và/CC có/V chỗ_đứng/N trong/N thị_trường/N
+Vốn/Np gọi/V được/R từ/V các/L vòng/N này/P sẽ/R được/V dùng/V để/E tăng/V tốc_độ/N đầu_tư/V thâm_nhập/N thị_trường/N quốc_tế/N hay/V mua/V lại/R các/L công_ty/N khác/A make/V acquisitions/N
+Số/N vốn/N huy_động/V được/R có_thể/V lên/V tới/R hàng/R trăm/M triệu/M USD/Nu
+Vòng/N phát_hành/N cổ_phiếu/V ra/R công_chúng/N Going_Public/Np
+Đây/P là/V giai_đoạn/N cuối_cùng/A nếu/C bạn/N không/R bán/V công_ty/N của/E mình/P cho/V một/M công_ty/N khác/A là/V tiến_hành/V lên/V sàn/N Initial_Public_Offering/Np IPO/Np nghĩa_là/N phát_hành/V cổ_phiếu/V ra/R công_chúng/N lần/N đầu/A
+Khi/N được/V cho/V phép/N giao_dịch/V trên/E thị_trường_chứng_khoán/X ai/P cũng/R có_thể/A mua/V cổ_phiếu/N và/CC sở_hữu/N cổ_phần/N của/E công_ty/N bạn/N
+Vì/C bất_kì/V người/N nào/R có/V tiền_mặt/N đều/R có_thể/R đầu_tư/V đây/P là/V một_cách/N kiếm/V tiền/N rất/R nhanh_chóng/A và/N hiệu_quả/N
+Ngoài_ra/C những/L nhà/Nc đầu_tư/V từ/E các/L giai_đoạn/N trước/N bao_gồm/V cả/N bạn/N đang/R nắm/V giữ/V cổ_phiếu/N hạn_chế/V nghĩa_là/N bạn/N không_thể/A đem/V số/N cổ_phiếu/N này/P đi/V bán/V lấy/V tiền/N
+Nguyên_nhân/N là/V vì/E trước/N IPO/Np công_ty/N của/E bạn/N chưa/R được/V chính_phủ/N xác_nhận/V amp/N
+kiểm_duyệt/N ở/V Việt_Nam/Np việc/N này/P được/V đảm_nhiệm/V bởi/E Uỷ_ban/N Chứng_khoán/N Nhà_nước/N –/V SSC/Np
+Khi/N phát_hành/V cổ_phiếu/N đại_chúng/N các/L cổ_đông/N hiện_thời/N của/E công_ty/N có_thể/A chuyển/V số/N cổ_phiếu/N hạn_chế/N này/P thành/N cổ_phiếu/N thường/A unrestricted/N stock/N hoặc/N tiền_mặt/N
+Sau/E một/M thời_gian/N nằm/V gai/N thì/C IPO/Np là/V ngày/N nếm/N mật/N của/E các/L nhà/Nc đầu_tư/V đã/R mạo_hiểm/V rót/V vốn/N vào/V startup/N của/N bạn/N

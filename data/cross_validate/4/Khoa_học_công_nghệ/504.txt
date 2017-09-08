@@ -1,0 +1,10 @@
+Hiểm_họa/N ung_thư/N với/E phi_hành_gia/N lên/V sao/T Hỏa/Np
+Francis_Cucinotta/Np giáo_sư/N vật_lý/N phóng_xạ/V và/CC vũ_trụ/V tại/E Đại_học/N Nevada/Np Las_Vegas/Np Mỹ/Np trong/E nghiên_cứu/V mới/R đăng/V trên/E tạp_chí/N Nature/Np cho_biết/V nguy_cơ/N mắc/V ung_thư/N của/E phi_hành_gia/N trong/E sứ_mệnh/N thám_hiểm/V sao/P Hỏa/Np cao/A gấp/V đôi/M dự_đoán/N trước/E đó/P theo/E  /N PopularMechanics/Np
+Trong/E sứ_mệnh/N thám_hiểm/V hành_tinh/N Đỏ/A dài/A ít_nhất/A 900/M ngày/N phi_hành_gia/N sẽ/R ra/V khỏi/V lá_chắn/N bảo_vệ/V của/E từ_trường/N Trái_Đất/Np bị/V  /N phơi/V nhiễm/V phóng_xạ/V từ/E tia_vũ_trụ/N sinh_ra/V trong/E các/L vụ/N nổ/V sao/P hay/C siêu/Z tân/Z tinh/A  /M Việc/N phơi/V nhiễm/V các/L tia_vũ_trụ/N có_thể/R làm/V tổn_thương/N nhân/V tế_bào/N tạo/V ra/R đột_biến/N gây/V ung_thư/N giáo_sư/N  /V Cucinotta/Np cho_biết/V
+Nguy_cơ/N mắc/V ung_thư/N của/E các/L phi_hành/N gia_tăng/V gấp/V đôi/M vì/E sự/Nc liên_lạc/V giữa/E các/L tế_bào/N
+Các/L tế_bào/N bị/V hư_hại/V gửi/V tín_hiệu/N đến/E tế_bào/N khỏe_mạnh/A lân_cận/A
+Những/L tín_hiệu/N này/P dường_như/R thúc_đẩy/V các/L tế_bào/N khỏe_mạnh/A đột_biến/V tạo/V thêm/V khối_u/N hay/C ung_thư/N
+Phơi/V nhiễm/V tia_vũ_trụ/N trong/E thời_gian/N dài/A có_thể/R dẫn/V đến/E ung_thư/N đục/A thủy_tinh_thể/N các/L vấn_đề/N về/E hệ/N tuần_hoàn/V
+Theo/E giáo_sư/N  /N Cucinotta/Np khả_năng/N  /V chống/V phóng_xạ/N của/E các/L phi_thuyền/N không_gian/N hiện_nay/N chỉ/R giảm/V một/M phần/N nhỏ/A nguy_cơ/N phơi/V nhiễm/V  /EOS
+NASA/Np mới_đây/X công_bố/V danh_sách/N 12/M ứng_viên/N chọn/V từ/E hơn/A 18 0/M người/N đăng_ký/V  /V lên/R sao/T Hỏa/Np trong/E thập_niên/N 2030/M
+Các/L ứng_viên/N này/P sẽ/R tham_gia/V khóa/N huấn_luyện/V kéo_dài/V hai/M năm/N bắt_đầu_từ/N tháng/N 8/M

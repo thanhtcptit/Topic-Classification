@@ -1,0 +1,32 @@
+Miễn_phí/V xét_nghiệm/V dấu_ấn/N ung_thư/N dạ_dày/N 
+Ung_thư/N dạ_dày/N phát_hiện/V sớm/A tỷ_lệ/N sống/V sau/E 5/M năm/N lên/R tới/V 100%/M Theo/E số_liệu/N thống_kê/V của/E Tổ_chức/N Y_tế/N thế_giới/N WHO/Np năm/N 2015/M có/V khoảng/N 8.8/M triệu/M người/N trên/E toàn_cầu/N chết/V vì/E ung_thư/N trong/E đó/P ung_thư/N dạ_dày/N có/V tỷ_lệ/N tử_vong/N cao/A thứ/N 4/M 
+Vì_vậy/C việc/N phát_hiện/V và/CC điều_trị/V ung_thư/N dạ_dày/N sớm/A đóng/V vai_trò/N rất/R quan_trọng/A trong/E việc/N kéo_dài/V thời_gian/N sống/V cho/E bệnh_nhân/N 
+Các/L nhà_khoa_học/N đã/R chỉ/R rõ/A ung_thư/N dạ_dày/N nếu/C phát_hiện/V ở/E giai_đoạn/N muộn/A thì/C tỉ_lệ/N sống/V sau/E 5/M năm/N chỉ/R còn/V dưới/E 10%/M trong/E khi/N tỷ_lệ/N này/P ở/E giai_đoạn/N sớm/A là/V 97,1/M 100%/M 
+Tuy_nhiên/C hiện_nay/N việc/N tầm/N soát/V ung_thư/N khám/V sức_khỏe/N định_kỳ/N của/E Việt_Nam/Np chưa/R được/V chú_trọng/V cho_nên/C tỷ_lệ/N tử_vong/N do/E ung_thư/N dạ_dày/N trong/E vòng/N 5/M năm/N tính_từ/N thời_điểm/N phát_hiện/V rất/R cao/A tới/V 80%/M tỷ_lệ/N này/P ở/E Mỹ/Np là/V hơn/A 50%/M 
+Đa_số/L các/L triệu_chứng/N của/E bệnh/N ung_thư/N dạ_dày/N ở/E giai_đoạn/N sớm/A rất/R nghèo_nàn/A khoảng/A 80%/M không/R có/V triệu_chứng/N số/N còn/V lại/R thường/R có/V triệu_chứng/N của/E loét/A nôn/V buồn_nôn/A giảm/V khẩu_vị/N đau/V bụng/N ít/A khi/N xuất_huyết/V dạ_dày/N với/E số_lượng/N lớn/A giảm/V cân/N khó/A nuốt/V dễ/A nhầm_lẫn/V với/E các/L bệnh_lý/N về/E đường/N tiêu_hóa/V khác/A nên/C người_bệnh/N dễ/A chủ_quan/V 
+Vì_vậy/C nếu/C xuất_hiện/V các/L dấu_hiệu/N như/C đầy/A bụng/N chán/V ăn/V ăn_không/V tiêu/N nôn/V ra/R máu/N hoặc/CC đại_tiện/N phân/N đen/A …/A nên/C đi/V khám/V để/E được/V tư_vấn/V và/CC điều_trị/V 
+Đặc_biệt/A trong/E chiến_dịch/N phòng_chống/V ung_thư/N WHO/Np nhấn_mạnh/V việc/N tầm/N soát/V sớm/A tiếp_cận/V chăm_sóc/V y_tế/N sớm/A là/V vấn_đề/N cấp_bách/A bởi_vì/E khi/N ung_thư/N giai_đoạn/N muộn/A việc/N điều_trị/V không/R còn/R nhiều/A ý_nghĩa/N 
+Xét_nghiệm/V dấu_ấn/N ung_thư/N dạ_dày/N CA/N 72/M 4/M )/Nu như_thế_nào/X 
+CA/N 72/M 4/M (/Nu Cancer/Np antigen/V 72/M 4/M hoặc/CC Carbohydrate/Np antigen/V 72/M 4/M )/Nu là/V một/M mucin/N glycoprotein/N được/V thấy/V trên/E bề_mặt/N của/E nhiều/A loại/Nc tế_bào/N nhiều/A nhất/R ở/E tế_bào/N biểu/V mô/P dạ_dày/N 
+Các/L chuyên_gia/N y_tế/N khuyến_cáo/N những/L người/N nên/C làm/V xét_nghiệm/V CA/Np 72/M 4/M gồm/V ◊/M Người/N có/V triệu_chứng/N của/E bệnh_lý/N đường/N tiêu_hóa/V Nôn/V buồn_nôn/V chán/V ăn/V giảm/V cân/N ◊/M Thừa/Np cân/N béo/A phì/A đái_tháo_đường/N rối_loạn/V mỡ/N máu/N 
+◊/M Người_làm/N việc/N trong/E môi_trường/N hóa_chất/N môi_trường/N ô_nhiễm/V môi_trường/N có/V tia/Nc phóng_xạ/N 
+◊/M Tiền_sử/N gia_đình/N có/V người/N bị/V ung_thư/N tụy/N hoặc/CC ung_thư/N hệ/N tiêu_hóa/V khác/A 
+◊/M Người/N có/V tiền_sử/N viêm/N tụy/N cấp/N hoặc/CC đang/R bị/V viêm/V tụy/N mạn/V 
+◊/M Người/N bị/V xơ_gan/V hoặc/CC đang/R bị/V xơ_hóa/V trên/E từ/E F2/Np trở_lên/A khi/N đo/V fibroscan/N 
+◊/M Người/N có/V tiền_sử/N các/L bệnh_lý/N dạ_dày/N kéo_dài/V đặc_biệt/A có/V HP/N dương_tính/A 
+◊/N Hút/V thuốc_lá/N thuốc_lào/N uống/V nhiều/A rượu_bia/N và/CC các/L thức/V uống/V có/V cồn/N ◊/M Người/N có/V thói_quen/N ăn/V nhiều/A chất_béo/N nhiều/A đạm/N ít/A ăn/V rau/N và/CC hoa_quả/N Kết_quả/N CA/Np 72/M 4/M tăng/V trong/E các/L trường_hợp/N như/C ◊/M Bệnh_lý/N ác_tính/A như/C Ung_thư/N biểu/V mô/P dạ_dày/N ung_thư/N biểu/V mô/P buồng_trứng/A ung_thư/N đại/V trực_tràng/N …/V ◊/N Các/L bệnh/N lành_tính/A như/C Viêm/N tụy/N xơ_gan/N phổi/N thấp_khớp/N phụ_khoa/N buồng_trứng/N vú/N và/CC rối_loạn/V đường/N tiêu_hóa/V 
+Khi/N có/V kết_quả/N CA/Np 72/M 4/M tăng/V nên/C gặp/V bác_sĩ/N để/E được/V tư_vấn/V cụ_thể/A 
+Thấu_hiểu/V vai_trò/N to_lớn/A và/CC giá_trị/N đặc_biệt/A của/E xét_nghiệm/V trong/E chẩn_đoán/V điều_trị/V bệnh/N trong_suốt/A hơn/A 20/M năm/N kinh_nghiệm/N chăm_sóc/V sức_khỏe/N cộng_đồng/N Bệnh_viện/N Đa_khoa/Np MEDLATEC/Np luôn/R nỗ_lực/V gây_dựng/V đội_ngũ/N giáo_sư/N chuyên_gia/N đầu/N ngành/N giàu/A kinh_nghiệm/N cũng_như/C tuân_thủ/V nghiêm_chỉnh/A những/L quy_định/N của/E Bộ/N Y_tế/N về/E quy_trình/N khép_kín/A áp_dụng/V quản_lý/V theo/E tiêu_chuẩn/N quốc_tế/N ISO/Np 15189/M 2012/M để/E mang/V đến/E chất_lượng/N xét_nghiệm/V chính_xác/A kịp_thời/A phục_vụ/V khách_hàng/N 
+MIỄN_PHÍ_XÉT_NGHIỆM_DẤU_ẤN_UNG_THƯ_DẠ_DÀY/Np CA/Np 72/M 4/M )/Nu Thời_gian/N diễn/V ra/R Từ/E ngày/N 15/7/M đến/E ngày/N 30/8/2017/M tổ_chức/V vào/E thứ/N 7/M chủ_nhật/N hàng/N tuần/N 
+Địa_điểm/N áp_dụng/V Tại/E bệnh_viện/N phòng_khám/N các/L văn_phòng/N chi_nhánh/N của/E MEDLATEC/Np tại/E Hà_Nội/Np Bắc_Ninh/Np Vĩnh_Phúc/Np 
+•/M 42/M Nghĩa_Dũng/Np Ba_Đình/Np Hà_Nội/Np •/V 99/M Trích_Sài/Np Tây_Hồ/Np Hà_Nội/Np •/V 103/M Nguyễn_Hoàng/Np Mỹ_Đình/Np Hà_Nội/Np •/V 107/M Thanh_Nhàn/Np Hai_Bà_Trưng/Np Hà_Nội/Np •/N 28/M Phùng_Hưng/Np Phúc_La/Np Hà_Đông/Np Hà_Nội/Np •/V 66/M Ngô_Gia_Tự/Np Long_Biên/Np Hà_Nội/Np •/V 89/M Giải_Phóng/Np Hai_Bà_Trưng/Np Hà_Nội/Np •/V 209/M Cao_Lỗ/Np đối_diện/V BV_ĐK/Np Đông_Anh/Np •/N LK/Np B/Np 06/M nhà/N Ct2B/Np KĐT/Np Tân_Tây_Đô/Np Tân_Lập/Np Đan_Phượng/Np Hà_Nội/Np •/V 101/M Tổ/N 1/M Thôn_Miếu_Thờ/Np Xã/N Tiên_Dược/Np Sóc_Sơn/Np Hà_Nội/Np •/N Bắc_Ninh/Np Khu_Khả_Lễ/Np P/Np 
+Võ_Cường/Np Tp/Np 
+Bắc_Ninh/Np •/M Vĩnh_Phúc/Np 119/M Nguyễn_Tất_Thành/Np P/Np 
+Khai_Quang/V Tp/Np 
+Vĩnh_Yên/Np 
+Phạm_vi/N áp_dụng/V ◊/N Đăng_ký/V dịch_vụ/N lấy/V mẫu/N xét_nghiệm/V tận/E nơi/N ◊/N Đến/V trực_tiếp/A tại/E các/L địa_điểm/N nêu/V trên/E ◊/M Khách_hàng/N có/V bác/N sỹ/N chỉ_định/V cán_bộ/N của/E MEDLATEC/Np đến/E lấy/V mẫu/N tận/E nơi/N hoặc/CC chỉ_định/V đến/E các/L cơ_sở/N của/E MEDLATEC/Np để/E lấy/V mẫu/N xét_nghiệm/V 
+◊/N Các/L đơn_vị/N ký/V hợp_đồng/N khám/V sức_khỏe/N có/V mức/N kinh_phí/N từ/E 1/M triệu/M đồng/Nu //X người/N trong/E thời_gian/N triển_khai/V chương_trình/N 
+Chương_trình/N không/R áp_dụng/V ◊/M Chương_trình/N phối_hợp/V với/E trạm/N y_tế/N Phường/N chung_cư/N ◊/M Khách_hàng/N của/E các/L đơn_vị/N gửi/V mẫu/N xét_nghiệm/V tại/E MEDLATEC/Np Lưu_ý/V Không/R miễn_phí/V chi_phí/N đi_lại/V lấy/V mẫu/N xét_nghiệm/V 10,000/M đồng/lần/N 
+Để/V biết/V thêm/V chi_tiết/N Quý_khách/N vui_lòng/V liên_hệ/V Bệnh_viện/N Đa_khoa/Np MEDLATEC/Np Địa_chỉ/N 42/M Nghĩa_Dũng/Np Ba_Đình/Np Hà_Nội/Np 
+Tổng_đài/Np 1900/M 56/M 56/M 56/M 
+Website/N www.medlatec.vn/N */M Email/Np info@medlatec.com/N 

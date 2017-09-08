@@ -1,0 +1,7 @@
+Tài_xế/N nhầm/V chân/N ga/N ôtô/N lao/V lên/R lề/N đè_bẹp/V 12/M xe_máy/N
+Sau/E khi/N lao/V lên/R vỉa_hè/N Quốc_lộ/N 8/M Nghi_Xuân/Np Hà_Tĩnh/Np chiếc/Nc ôtô/N cán/V qua/R hàng/R xe_gắn_máy/N đang/R dựng/V tại/E đây/P đè_bẹp/V các/L xe/N này/P dưới/N gầm/N ôtô/N
+Vụ/N tai_nạn/N xảy/V ra/V vào/V chiều_tối/N 256/M
+Theo/E Công_an/N huyện/N Nghi_Xuân/Np tỉnh/N Hà_Tĩnh/Np chiếc/Nc ôtô/N hiệu/N CRV/Np biển/N số/N 38A12728/M đang/R lưu_thông/V trên/E quốc_lộ/N 8/M khi/N qua/V thị_trấn/N Nghi_Xuân/Np đã/R bất_ngờ/A lao/V thẳng/A vào/E hướng/N nhà_hàng/N Tý_Huế/Np rồi/C tông/V liền/R 12/M xe_máy/N đang/R dừng/V trên/N vỉa_hè/N
+Vụ/N tai_nạn/N làm/V hư/N hỏng/V 12/M xe_máy/N 1/M xe_đạp/N điện/N 1/M đàn/N organ/N và/CC nhiều/A đồ_dùng/N vật_dụng/N của/N nhà_hàng/N
+Rất/R may/A vụ/N tai_nạn/N này/P không/R có/V người/N bị_thương/V
+Cơ_quan/N công_an/N đã/R sớm/V có_mặt/V tại/E hiện_trường/N và/CC xác_định/V nguyên_nhân/N vụ/N tai_nạn/N do/E tài_xế/N xe/N CRV/Np đạp/V nhầm/V chân/N ga/N

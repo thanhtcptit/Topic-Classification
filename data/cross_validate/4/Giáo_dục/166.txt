@@ -1,0 +1,8 @@
+Trường_Trần_Đại_Nghĩa/Np phát/V phiếu/N đăng_kí/N dự_tuyển/V vào/E lớp/N 6/M
+Bấm/V vào/V đây/N để/E tải/N phiếu/N đăng/V kí/N dự/V khảo_sát/V tuyển_sinh/N
+Thí_sinh/N sẽ/R nộp/V hồ_sơ/N dự_tuyển/N tại/E trường/N Trần_Đại_Nghĩa/Np từ/E ngày/N 12/M đến/E ngày/N 176/M
+Hồ_sơ/N gồm/V Phiếu/Np đăng/V kí/N dự/V khảo/N sát/A tuyển_sinh/N 2/M ảnh/N 3x4/M cm/N ảnh/N chụp/V không/R quá/V 1/M năm/N kiểu/N ảnh/N CMND/Np phía/N sau/N ảnh/N ghi/V rõ/A họ/P tên/N ngày_tháng/N năm/N sinh/V và/N nơi/N sinh/V bản_sao/N hợp_lệ/N học_bạ/V lớp/N 5/M
+Năm/N nay/P Trường_Trần_Đại_Nghĩa/Np tuyển/V 525/M học_sinh/N với/E điều_kiện/N có/V điểm/N bài/N kiểm_tra/N định_kì/N cuối/N năm_học/N lớp/N 5/M của/N môn/N tiếng/N Việt/Np và/CC toán/N đạt/V từ/N 9/M điểm/N trở/V lên/R
+Thí_sinh/N phải/V trải/V qua/R kì/N khảo_sát/V năng_lực/N bằng/E tiếng/N Anh/Np trong/E ngày/N 306/M
+Căn_cứ/N vào/V kết_quả/N bài/N khảo_sát/V hội_đồng/N tuyển_sinh/N của/E trường/N sẽ/R xét/V tuyển/N từ/E cao/A xuống/N thấp/A cho/E đến/V đủ/A chỉ_tiêu/N
+HHG/Np

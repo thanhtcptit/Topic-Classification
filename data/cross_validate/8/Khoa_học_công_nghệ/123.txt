@@ -1,0 +1,14 @@
+​/N Kaspersky_Lab/Np người_dùng/N còn/V mơ_hồ/N về/V giá_trị/N dữ_liệu/N cá_nhân/N
+Chẳng_hạn/N viễn/N cảnh_bị/N mất/V danh_bạ/N điện_thoại/N được/V xem/V là/C rất/N phiền_hà/V cho/E người_dùng/N nằm/V trong/E ba/M loại/N dữ_liệu/N gây/V phiền_nhiễu/A nhất/A khi/N bị/V mất/V mặc_dù/N thực_tế/N là/V thông_tin/N danh_bạ/N nằm/V trong/E vị_trí/N rất/R thấp/A trong/E tầm/N quan_trọng/A của/N dữ_liệu/N
+Trong/E một/M phần/N của/E nghiên_cứu/N Kaspersky_Lab/Np đã/R làm_việc/V với/E các/L nhà/Nc tâm_lí_học/N tại/E ĐH/N Wuerzburg/Np để/E đo/V phản_ứng/N tâm_lí/N của/E người_dùng/N đối_với/E việc/N mất/V dữ_liệu/N trong/E một/M loạt/N ba/M thí_nghiệm/N
+Trong/E khi/N các/L nhà/N tâm_lí_học/N dự_kiến/V sẽ/R thấy/V phản_ứng/N mạnh_mẽ/A hơn/R đối_với/E việc/N mất/V dữ_liệu/N quan_trọng/A họ/P rất/R ngạc_nhiên/V khi/N thấy/V rằng/C những/L người/N tham_gia/V cũng/R có/V những/L dấu_hiệu/N buồn_phiền/N khi/N họ/P mất/V các/L dữ_liệu/N tầm_thường/N
+Trong/E quá_trình/N thử_nghiệm/V các/L nhà/N tâm_lí/N đo/V độ/N tiết/N mồ_hôi/N của/E người/N tham_gia/V
+Người_dùng/N tiết/N nhiều/A mồ_hôi/N khi/N họ/P tin/V là/V mình/N đã/R mất/V nhiều/A dữ_liệu/N quan_trọng/A tuy_vậy/A thì/C mức_độ/N tiết/N mồ_hôi/N cũng/R không/R giảm/V bao_nhiêu/P khi/N các/L dữ_liệu/N kém/N quan_trọng/N bị/V mất/V đi/R
+Andrei_Mochola/Np giám_đốc/V kinh_doanh/V khách/N hàng/N tại/N Kaspersky_Lab/Np nhận_xét/N Thực_tế/N dường_như/N là/V người_dùng/N không/R thực_sự/A biết/V loại/N dữ_liệu/N nào/P có/V giá_trị/N hơn/A với/E họ/P cho/E đến/V khi/N nó/P thực_sự/N bị/V mất/V vì/E nhiều/A người/N có/V phản_ứng/N về/V thể_chất/N ngay/T cả/P khi/N họ/P tưởng/V rằng/N mình/N đã/R mất/V dữ_liệu/N không/N quan_trọng/A
+Có_lẽ/N điều/N này/P giải_thích/V tại_sao/N người_dùng/N không/R có/V sự/N quan_tâm/V và/CC bảo_vệ/V cần_thiết/A cho/E những/L dữ_liệu/N mà/C họ/N lưu_trữ/V trên/E các/L thiết_bị/N của/E mình/P mặc_dù/N họ/P luôn/R cho/V là/C nó/P rất/R quan_trọng/A
+Họ/P vẫn/R chưa/R thực_sự/A hiểu/V được/R giá_trị/N của/E dữ_liệu/N của/E mình/P cũng/R như/A có/V biện_pháp/N thích_hợp/A để/E bảo_vệ/V nó/P
+Còn/V TS/N
+Astrid_Carolus/Np nhà/N tâm_lí_học/N tại/E ĐH/Np Wuerzburg/Np lại/R cho/V rằng/C Đây/P sẽ/R là/V một/M trong/E những/L thách_thức/N trong/E tương_lai/N của/E chúng_tôi/N để/E giúp/V mọi/L người/N hiểu/V rõ/A được/R giá_trị/N của/E dữ_liệu/N như/A các/L doanh_nghiệp/N đã/R nhận_thức/V được/R
+Do/E đó/P rất/R quan_trọng/A để/E chỉ/V ra/V rằng/C dữ_liệu/N có/V ý_nghĩa/N như/C thế_nào/N với/E cá_nhân/N mỗi/M người/N
+Để/E trân_trọng/V dữ_liệu/N của/E mình/P mọi/N người/N cần/V phải/V hiểu/V rằng/E hình_ảnh/N không_chỉ/N là/V hình_ảnh/N và/CC danh_bạ/N không_chỉ/N đơn_thuần/N là/V thông_tin/N liên_lạc/V
+Cần/V phổ_cập/V giá_trị/N của/E dữ_liệu/N để/E mọi/L người/N có_thể/R hiểu/V được/V sự/N quý_giá/V của/E nó/P như/A thế_nào/N

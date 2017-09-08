@@ -1,0 +1,46 @@
+Không/R có/V bảo_hiểm_y_tế/X người/N giàu/A cũng/R khóc/V
+Không/R mua/V bảo_hiểm_y_tế/X BHYT/Np nếu/C mắc/V phải/V bệnh/N nặng/N mức/N chi_phí/N lớn/A người/N khá_giả/N cũng/R có_thể/A gặp/V khó_khăn/A
+Nhiều/A loại/N bệnh/N nặng/A như/C ung_thư/N nhiễm_trùng/N máu/N nhồi/V máu/N cơ/N tim/N suy/V thận/N mãn/N khi/N mắc/V phải/V chi_phí/N điều_trị/V lên/R tới/V hàng/R trăm/M triệu/N đến/V 1/M tỉ/Nu đồngnăm/N
+Nhiều/A người/N khá_giả/N cũng/R đau_đầu/V vì/E chi_phí/N trị/V bệnh/N quá/R tốn/V khi_không/N có/V BHYT/Np
+Giá/N nhiều/A dịch_vụ/N sẽ/R tăng/V 30/M 50/M
+Khoa/Np C9/Np Viện_Tim_mạch/N quốc_gia/N đang/R điều_trị/V cho/E một/M bệnh_nhân/N nữ/N khá_giả/N bị/V suy/V thận/N kèm/V suy/N tim/N phải/V ra/V vào/V viện/N liên_tục/A nên/V chi_phí/N điều_trị/V rất/R lớn/A
+Hiện/N người_bệnh/N được/V hưởng/V BHYT/Np 20/M ngàytháng/N 10/M ngày/N còn/V lại/R phải/V đóng/V viện_phí/N
+Theo/E các/L bác_sĩ/N người_bệnh/N này/P phải/V chuyển/V viện/N nhiều/A lần/N mức/N viện_phí/N cao/A BHYT/Np chi_trả/V được/R ở/V mức/N này/P
+Người_bệnh/N này/P chưa/R phải/V là/V người/N phải/V đóng/V viện_phí/N ở/V mức/N khủng/N nhưng/C đã/R đóng/V khoảng/A 6/M triệu/N đồngngày/N từ/E 245/M khi/N vào/V viện/N đến/E nay/N 5/M ngày/N đã/R phải/V chi_trả/V viện_phí/N là/V 30/M triệu/M đồng/Nu
+Ở/E khoa/N C9/Np hiện/N có/V 2/M người_bệnh/N không/R có/V BHYT/Np trong/E khi/N điều_trị/V tim_mạch/N chi_phí/N rất/R cao/A
+Mới_đây/X bà/N LTB/Np
+50/M tuổi/N ở/E Hoài_Đức/Np Hà_Nội/Np được/V chuyển/V đến/R khoa/N điều_trị/V tích_cực/N Bệnh_viện/N Bạch_Mai/Np Hà_Nội/Np trong/E tình_trạng/N chân_tay/V yếu/A dần/R rồi/C bị/V liệt/N do/E bệnh/N viêm/N đa/N rễ/N thần_kinh/N sau/N khi/N bị/V cúm/V
+Bác/N sĩ/N Nguyễn_Quỳnh_Phương/Np Bệnh_viện/N Bạch_Mai/Np cho_hay/V khoa/N đang/R điều_trị/V cho/E bà/N B/Np
+bằng/E thay/N huyết_tương/N khi/N người_bệnh/N đỡ/V hơn/R sẽ/R kết_hợp/V tập/V phục_hồi/V chức_năng/N
+Người_bệnh/N đã/R được/V thay/V huyết_tương/N 6/M lần/N chúng_tôi/N dự_định/V sẽ/R thay/V khoảng/A 10/M lần/N
+Lúc/N mới/R vào/V bà/N B/Np
+rất/R bi_quan/A sau_này/N bệnh/N có/V tiến_triển/N tốt/A hơn/R nên/V bà/N rất/R hợp_tác/V điều_trị/V
+Nhưng/C người_bệnh/N này/P phải/V chi_trả/V rất/R nhiều/A tiền/N vì/E không/R có/V BHYT/Np mỗi/M lần/N thay/V huyết_tương/N tốn/V 1520/M triệu/N đồng/N bác_sĩ/N Phương/Np cho_hay/V
+Bà/N LTB/Np
+chỉ/R là/V một/M trong/E khoảng/A hơn/R 100/M người_bệnh/N nặng/A không/R có/V BHYT/Np đang/R điều_trị/V nội_trú/N ở/V Bệnh_viện/N Bạch_Mai/Np
+Theo/E thống_kê/N sơ_bộ/N gia_đình/N bà/N B/Np
+đã/R phải/V nộp/V xấp_xỉ/A 200/M triệu/M đồng/Nu chữa/V bệnh/N trong/E thời_gian/N ngắn/A
+Một/M người_bệnh/N khác/A tên/N Ch/Np
+ở/E Khánh_Hoà/Np ra/V Nam_Định/Np làm/V nghề_tự_do/N
+Ch/N
+bị/V thoát_vị/V bẹn/N biến_chứng/N ổ/N thoát_vị/N nhiễm_trùng/A khiến/V bị/V sốc/N và/CC nhiều/A biến_chứng/N khác/A
+Ch/N
+cũng/R không/R có/V BHYT/Np và/CC viện_phí/N cho/E đến/E một/M tuần/N trước/N đây/P đã/R là/V 400/M triệu/N đồng/N nhân_viên/N công_tác/N xã_hội/N của/E Bệnh_viện/N Bạch_Mai/Np cho/V biết/V
+Mức/N viện_phí/N kể/V trên/N là/N tính/V ở/E thời_điểm/N hiện_nay/N còn/R sau/E ngày/N 16/M khi/N mức/N viện_phí/N tăng/V giá/N nhiều/A dịch_vụ/N y_tế/N như/C tiền/N công/N khám/V tiền/N ngày/N giường/N chi_phí/N ca/V phẫu_thuật/V thủ_thuật/N sẽ/R đều/A tăng/V mức/N tăng/V phổ_biến/A khoảng/N 3050/M so/V với/N hiện_hành/N
+Không/R có/V BHYT/Np sẽ/R càng/R khó_khăn/A
+Theo/E ông/N Nguyễn_Ngọc_Hiền/Np phó/N giám_đốc/N Bệnh_viện/N Bạch_Mai/Np từ/E tháng/N 32016/M bệnh_viện/N đã/R áp_dụng/V mức/N viện_phí/N này/P với/E người_bệnh/N có/V BHYT/Np
+Trong/E hơn/A 1/M năm/N qua/V tổng_chi/N mà/C BHYT/Np chi_trả/V cho/E bệnh_viện/N có/V tăng/N khoảng/A 10/M
+Theo/E ông/N Hiền/Np mức/N tăng/N này/P chủ_yếu/A là/C tăng/N ở/E giá/N dịch_vụ/N kĩ_thuật/A còn/V lại/V 6065/M chi_phí/N y_tế/N là/V tiền/N thuốc/N và/CC vật_tư/N y_tế/N vẫn/R giữ/V ổn_định/A
+Điều/N này/P chứng_tỏ/V mức/N tăng_giá/N dịch_vụ/N kĩ_thuật/N khá/R cao/A và/CC khi/N áp_dụng/V với/E người_bệnh/N chưa/R có/V bảo_hiểm/N nhiều/A người/N sẽ/R khó_khăn/A
+Ông/Nc Hiền/Np cho/V biết/V người/N chưa/R có/V bảo_hiểm/N chiếm/V khoảng/A 20/M người/N điều_trị/V nội_trú/N nhiều/A người/N trong/E số/N này/P bệnh/N nặng/A chi_phí/N lớn/A có/V người/N không/R có/V khả_năng/N chi_trả/V
+Sau/E ngày/N 16/M Bạch_Mai/Np sẽ/R áp_dụng/V viện_phí/N mới/A những/L người_bệnh/N này/P sẽ/R càng/R khó_khăn/A hơn/R
+Thông_tin/N từ/E Vụ_Kế_hoạch/N tài_chính/N Bộ/N Y/Np tế/V sẽ/R có/V khoảng/N 50/M bệnh_viện/N đầu_tiên/A áp_dụng/V viện_phí/N mới/A từ/V 16/M
+Đây/P là/V những/L bệnh_viện/N đã/R thực_hiện/V tự_chủ/N tài_chính/N hoàn_toàn/A
+Khoảng/N 1200/M bệnh_viện/N còn/V lại/V sẽ/R lần_lượt/V áp_dụng/V mức/N thu/N mới/A tuỳ/N khả_năng/N của/E địa_phương/N và/CC nhóm/V muộn/A nhất_là/N tháng/N 122017/M mới/R thu/V viện_phí/N mức/N mới/A
+Tuy_nhiên/C dù/N có/V được/R tạm/V hoãn/V thì/C muộn/N nhất_là/N tháng/N 12/M tới/N toàn_quốc/N áp_dụng/V viện_phí/N mới/A
+20/M triệu/N
+Đó/P là/V số/N người/N chưa/R có/V BHYT/Np trên/N toàn_quốc/N
+Theo/E tính_toán/N của/E Bảo_hiểm/N xã_hội/N Việt_Nam/Np tính/V đến/E hết/V tháng/N 42017/M có/V 804/M người/N Việt_Nam/Np có/V BHYT/Np tỉ_lệ/N chưa/R có/V bảo_hiểm/N là/V 196/M
+Hà_Nội/Np còn/V 18/M người/N dân/N chưa/R có/V BHYT/Np
+Theo/E ông/N Nguyễn_Đức_Hoà/Np phó/N giám_đốc/N phụ_trách/V Bảo_hiểm/N xã_hội/N Hà_Nội/Np vẫn/R còn/V 18/M dân_số/N Hà_Nội/Np chưa/R có/V BHYT/Np
+Người/N chưa/R có/V BHYT/Np thuộc/V ba/M nhóm/N người/N có/V thu_nhập/N trung_bình/A trở/V lên/V lao_động/N làm_việc/V trong/E các/L doanh_nghiệp/N ngoài/N quốc_doanh/N và/CC học_sinh/N sinh_viên/N ông/N Hoà/Np cho/V biết/V

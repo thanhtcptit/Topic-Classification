@@ -1,0 +1,19 @@
+Mã/N độc/A tống_tiền/V hoành_hành/V tại/E 99/M quốc_gia/N
+Hãng/N bảo_mật/V Avast/Np cho_biết/V mã/N độc/A tống_tiền/V có/V tên/N WannaCry/Np đang/R lan_rộng/V khắp/A thế_giới/N bao_gồm/V Anh/N Mỹ/Np Trung_Quốc/Np Nga/Np Đài_Loan/Np hay/C Việt_Nam/Np
+Hàng/R nghìn/M máy_tính/N đã/R bị/V khóa/N và/CC đòi/V 300/M USD/Nu tiền/N chuộc/V thông_qua/V Bitcoin/Np
+Đáng/V chú_ý/V mã/V độc/A tống_tiền/V nêu/V trên/E và/CC các/L biến_thể/N của/E nó/P khai_thác/V một/M lỗ_hổng/N trên/E hệ_điều_hành/N Windows/Np mà/C Cơ_quan/N An_ninh/N Quốc_gia/Np Mỹ/Np /V NSA/Np /V nắm/V giữ/V
+Tội_phạm/N mạng/N đã/R sử_dụng/V chính/T những/L công_cụ/N của/E NSA/Np để/E lây_lan/V ransomware/N
+Khi/N bị/V nhiễm/V mã/V độc/A WannaCry/Np người/N dùng/V sẽ/R khó/A phát_hiện/V ra/R đến/E khi/N nó/P tự/P gửi/V thông_báo/N cho_biết/V máy_tính/N đã/R bị/V khóa/N mọi/L tập_tin/N bị/V mã_hóa/V
+Bạn/N chỉ/R có_thể/A khôi_phục/V dữ_liệu/N nếu/C trả/V 300/M USD/Nu cho/E kẻ/N tấn_công/V thanh_toán/V qua/V tiền/N ảo/A Bitcoin/Np
+Sau/E 3/M ngày/N mà/C chưa/R làm/V mức/N tiền/N chuộc/V sẽ/R tăng/V lên/R gấp/V đôi/M và/CC hết/V thời_hạn/N 7/M ngày/N nhưng/C chưa/R thanh_toán/V thì/C dữ_liệu/N của/E người/N dùng/V sẽ/R bị/V mất/V
+Mã/N độc/A ghi/V đầy_đủ/A thông_tin/N thanh_toán/V đếm/V lùi/V thời_gian/N và/CC được/V thể_hiện/V bằng/E nhiều/A ngôn_ngữ/N
+Nạn_nhân/N nổi_bật/A trong/E vụ/N tấn_công/V trên/A là/C Dịch_vụ/N Y_tế/N Quốc_gia/Np Anh/N /M NHS/Nu /M
+Theo/E nhân_viên/N tại/E đây/P một_số/L ca/N phẫu_thuật/V tại/E bệnh_viện/N và/CC lịch/N hẹn/V của/E bác/N sỹ/N đã/R bị/V hủy/V
+Các/L bệnh_nhân/N chắc_chắn/A sẽ/R phải/V chịu/V ảnh_hưởng/V
+Một_số/L báo_cáo/N nói/V rằng/C Nga/Np là/V quốc_gia/N bị/V nhiễm/V mã/V độc/A nhiều/A nhất/R
+Bộ/N Nội/N vụ/N nước/N này/P đã/R khoanh_vùng/V virus/N sau/E khi/N hàng_loạt/N máy_tính/N chạy/V nền_tảng/N Windows/Np bị/V tấn_công/V
+Có/V thông_tin/N cho_hay/V hệ_thống/N bán/V vé/N đường_sắt/N của/E Đức/Np và/CC một_số/L phòng_thí_nghiệm/N máy_tính/N ở/E trường/N đại_học/N của/E Italy/Np cũng/R bị/V ảnh_hưởng/V
+Một_số/L công_ty/N Tây_Ban_Nha/Np bao_gồm/V hãng/N viễn_thông/N Telefonica/Np công_ty/N năng_lượng/N Iberdrola/Np nhà_cung_cấp/N ga/N Natural/Np đều/R nằm/V trong/E vùng/N dịch/N
+Theo/E THN/Np để/E bảo_vệ/V mình/P trước/E WannaCry/Np người/N dùng/V cần/V cập_nhật/V các/L bản/N vá/V lỗi/N Windows/Np mới/A nhất/R
+Không/R mở/V email/N chứa/V các/L tài_liệu/N nghi_ngờ/V không/R bấm/V vào/E link/N không/R rõ/A nguồn_gốc/N
+Luôn/R sao/P lưu_thông/V tin/N quan_trọng/A bằng/E thiết_bị/N lưu_trữ/V ngoài/N và/CC đừng/R quên/V cài/V phần_mềm/N diệt/V virus/N tốt/A

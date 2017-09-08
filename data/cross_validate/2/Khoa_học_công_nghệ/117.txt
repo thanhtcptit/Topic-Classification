@@ -1,0 +1,18 @@
+Một_số/N laptop/N HP/Np ngầm/A ghi/V lại/R thao_tác/V bàn_phím/N
+Chương_trình/N máy_tính/N theo_dõi/V thao_tác/N bàn_phím/N keylogger/N tích_hợp/V sẵn/A trong/E một/M trình/N điểu/N khiển/N thiết_bị/N driver/N do/E hãng/N Conexant/Np phát_triển/V
+Đây/P cũng/R là/V loại/N driver/N âm_thanh/N được/V cài_đặt/V trên/E các/L thiết_bị/N của/N HP/Np
+Một/M trong/E các/L thành_phần/N của/E driver/N là/V file/N cài_đặt/N MicTray64exe/V giúp/V driver/N thiết_bị/N phản_ứng/N khi/N người_dùng/V nhấn/V vào/E các/L phím/N cụ_thể/A
+Nhưng/C cùng/A với/N tính_năng/N đó/P file/N này/P cũng/R gửi/V tất_cả/N những/L dữ_liệu/N thao_tác/N trên/N bàn_phím/N tới/V một/M file/N lưu_trữ/N có/V sẵn/A trên/N ổ/N C/Np của/N máy_tính/N
+Các/L nhà/N nghiên_cứu/V của/E hãng/N Modzero/Np viết/V Kiểu/Np giao_diện/V sửa/V lỗi/N debugging/N interface/N này/P biến/V một/M tập_tin/N driver/N âm_thanh/N thành/V một/M phần_mềm/N gián_điệp/N ghi/V lại/R mọi/N thao_tác/N bàn_phím/N rất/R hiệu_quả/A
+Các/L chương_trình/N theo_dõi/V thao_tác/N bàn_phím/N đó/P đã/R có/V trên/A các/L máy_tính/N của/E HP/Np ít_nhất/N từ/E tháng/N 122015/M
+File/N lưu/V dữ_liệu/N theo_dõi/N này/P nằm/V tại/E địa_chỉ/N C/Np \/V Users/Np \/V Public/Np \/V MicTraylog/N
+Cứ/R mỗi/M lần/N máy_tính/N khởi/N động/V lại/R reboot/N file/N đó/P sẽ/R bị/V ghi/V đè/V dữ_liệu/N lên/V
+Tuy_nhiên/C vẫn/R còn/V nhiều/A cách/N khác/A khiến/V các/L dữ_liệu/N được/V ghi/V lại/R vẫn/R tồn_tại/V trong/E nhiều/A tuần/N hoặc/N thậm_chí/N là/V vô_thời_hạn/N
+Chưa/R kể/V là/C các/L công_cụ/N điều_tra/V số/N forensic/N tool/N có_thể/R khôi_phục/V các/L file/N đã/R bị/V ghi/V đè/V hoặc/N bị/V xoá/V rất/R dễ_dàng/A
+Trong/E trường_hợp/N máy_tính/N được/V sao/N lưu/V định_kì/V các/L file/N sao/N lưu/V chứa/N toàn_bộ/N lịch_sử/N những/L thao_tác/N đã/R thực_hiện/V trên/E bàn_phím/N trong/N đó/N bao_gồm/V mật_khẩu/N password/N email/V và/CC các/L liên_lạc/N
+Các/L nhà/N nghiên_cứu/V của/E Modzero/Np cho/V biết/V họ/P phải/V công_khai/A vấn_đề/N này/P sau/E khi/N cả/P HP/Np lẫn/V Conexant/Np không/R phản_hồi/V khi/N họ/P gửi/V thông/V báo_nói/N về/E những/L phát_hiện/N đáng/V lo_ngại/V về/V bảo_mật/V
+Các/L dòng/N máy/N HP/Np bị/V ảnh_hưởng/V trong/E nguy_cơ/N bảo_mật/V này/N gồm/V HP/Np EliteBook/V HP/Np ProBook/V HP/Np Zbook/Np và/CC HP/Np Elite/Np
+Mọi/L người/N có_thể/R tự/V kiểm_tra/V xem/V máy/N của/E mình/P có/V rơi/V vào/V nguy_cơ/N này/P không/R bằng/A cách/N tìm_kiếm/V các/L tập_tin/N C/Np \/V Windows/Np \/V System32/N \/N MicTrayexe/N hoặc/N C/Np \/V Windows/Np \/V System32/N \/N MicTray64exe/V trong/N máy_tính/N
+Cũng/R theo/V Modzero/Np những/L máy_tính/N của/E các/L nhà/N sản_xuất/V khác/A ngoài/N HP/Np nếu/C sử_dụng/V driver/N của/E Conexant/Np cũng/R có_thể/A có/V nguy_cơ/N tương_tự/A
+Sau/E khi/N phát_hiện/V máy_tính/N chứa/V các/L tập_tin/N vừa/R nêu/V người_dùng/N có_thể/A xoá/N hoặc/N đổi/V tên/N các/L file/N C/Np \/V Windows/Np \/V System32/N \/N MicTrayexe/N hay/C C/Np \/V Windows/Np \/V System32/N \/N MicTray64exe/N
+Tuy_nhiên/C lưu_ý/V là/V sự/N can_thiệp/V này/N có_thể/A khiến/V một_số/N phím/V chức_năng/N cụ_thể/A về/E âm_thanh/N của/E máy_tính/N ngừng/V hoạt_động/V

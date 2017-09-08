@@ -1,0 +1,9 @@
+Bắt/V trưởng_phòng/N kinh_tế/N HTX/Np chiếm_đoạt/V hơn/A 34/M tỉ/M đồng/Nu
+Ngày/N 276/M Phòng_Cảnh_sát/N kinh_tế/N Công_an/N TPHCM/Np cho/V biết/V đang/R tạm/A giam/V Đặng_Văn_Toàn/Np nguyên/N Trưởng_Phòng/Np kinh_doanh/V Kênh/Np siêu_thị/N Unilever/Np thuộc/V HTX/Np Thương_mại/N Quận/Np 3/M về/V tội/N chiếm_đoạt/V hơn/A 34/M tỉ/M đồng/Nu
+Theo/E hồ_sơ/N vụ/N án/N lạm_dụng/N tín_nhiệm/N chiếm_đoạt/V tài_sản/N Toàn/Np 34/M tuổi/N là/V Trưởng_phòng/N kinh_doanh/V kênh/N siêu_thị/N Unilever/Np thuộc/V Hợp_tác/N xã/N Thương_mại/N Quận/Np 3/M
+Theo/E quy_định/N Hợp_tác/N xã/N phân_phối/V sản_phẩm/N của/E Công_ty/N TNHH/Np Quốc_tế/A Unilever_Việt_Nam/Np và/CC tổ_chức/N bán_lẻ/V vào/E các/L hệ_thống/N siêu_thị/N tại/V TPHCM/Np
+Nhiệm_vụ/N của/E trưởng_phòng/N kinh_doanh/V như/C Toàn/Np chỉ/R được/V xuất/V các/L mặt_hàng/N của/E Unilever/Np vào/V siêu_thị/N nhà_sách/V theo/V đơn/N đặt_hàng/V của/N Unilever/Np
+Các/L đơn/N hàng/N này/P phải/V thu/V tiền/N ngay/R hoặc/N cho/V trả_chậm/N từ/E 5/M 7/M ngày/N và/CC có/V hoá_đơn/N giá_trị/N gia_tăng/V
+Từ/E tháng/N 62012/M đến/N tháng/N 72012/M lợi_dụng/N nhiệm_vụ/N được/V giao/V Toàn/Np đã/R chủ_động/V bán_sỉ/V các/L mặt_hàng/N của/E Unilever/Np ra/V các/L mối/N bên/N ngoài/N thu/N tiền_mặt/A rồi/C chỉ_đạo/V kế_toán/N kho/N ghi/V xuất/N hoá_đơn/N nợ/V vào/E các/L siêu_thị/N nhà_sách/N để/E chiến/V đoạn/N hơn/A 34/M tỉ/M đồng/Nu
+Sau/E khi/N bị/V phát_hiện/V từ/E ngày/N 67/M đến/E ngày/N 3172012/M Toàn/Np đã/R nộp/V khắc_phục/V cho/E hợp_tác_xã/N được/V hơn/A 2/M tỉ/N còn/V lại/V hơn/A 13/M tỉ/N Toàn/Np không/R còn/V khả_năng/N chi_trả/V
+Toàn/Np khai/V số/N tiền/N chiếm/V được/R có/V để_dành/V mua/V một/M căn/Nc nhà/N tại/E quận/N Bình_Tân/Np nhưng/C sau/N đó/P phải/V bán/V để/E trả/V nợ/N

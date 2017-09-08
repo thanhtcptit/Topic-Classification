@@ -1,0 +1,10 @@
+Hành_tinh/N nơi/N con_người/N có_thể/R sống/V thọ/A 150 0/M tuổi/N
+Một/M nhóm/N nhà_khoa_học/N quốc_tế/A khi/N sử_dụng/V dữ_liệu/N thu/V được/R từ/E kính_viễn_vọng/N không_gian/N Kepler/Np của/E NASA/Np để/E đo_lường/V quỹ_đạo/V các/L hành_tinh/N ở/E xa/N phát_hiện/V  /M hành_tinh/N  /N EPIC/Np 228813918/M b/N  /V ngoài/E hệ/N Mặt_Trời/Np quay/V nhanh/A hơn/R gấp/V nhiều/A lần/N Trái_Đất/Np
+Kết_quả/N nghiên_cứu/V sau/E đó/P được/V gửi/V đến/E tạp_chí/N khoa_học/N Monthly_Notices/Np thuộc/V Hội_Thiên/Np văn/N Hoàng_gia/N Anh/N theo/V MSN/Np
+Hành_tinh/N  /M EPIC/Np 228813918/M b/N  /V quay/V xung_quanh/N một/M sao/P lùn/V loại/Nc M/Np có/V tên/N EPIC/Np 228813918/M
+Với/E thời_gian/N hoàn_thành/V một/M vòng/N quỹ_đạo/N chỉ/R chưa/R đầy/A 4,5/M tiếng/N một/M ngày/N ở/E Trái_Đất/Np sẽ/R tương_đương/V hơn/R 5/M năm/N trên/E hành_tinh/N này/P
+Bởi_vậy/C nếu/C sống/V trên/E  /N EPIC/Np 228813918/M b/N con_người/N có_thể/R đạt/V tuổi_thọ/N tới/E  /N 150 0/M năm/N
+Tuy_nhiên/C các/L nhà_khoa_học/N cho/V rằng/C bức_xạ/N mạnh/A tạo/V ra/R khi/N hành_tinh/N  /V EPIC/Np 228813918/M b/N  /A chuyển_động/V quá/R gần/A sao/P mẹ/N có_thể/R ảnh_hưởng/V đến/E cuộc_sống/N ở/E đây/P  /M Nếu/C sinh_hoạt/V theo/E lối/N sống/V thông_thường/A mỗi/M lần/N đặt/V lưng/N bạn/N sẽ/R ngủ/V tới/E 2/M năm/N nên/C 150 0/M năm/N đó/P sẽ/R trôi/V qua/R rất/R nhanh/A
+Điều/N thú_vị/A là/V EPIC/Np 228813918/M b/N có/V kích_thước/N xấp_xỉ/A Trái_Đất/Np với/E thành_phần/N cấu_tạo/N ước_tính/V gồm/V 45%/M sắt/N
+Nhưng/C đây/P vẫn/R chưa/R phải/V hành_tinh/N có/V quỹ_đạo/N ngắn/A nhất/R từng/R được/V phát_hiện/V
+Hành_tinh/N KOI/Np 1843 /M quay/V xung_quanh/N sao/P lùn/V mẹ/N loại/N M/Np với/E thời_gian/N nhanh/A hơn/R 4/M phút/Nu cũng/R có/V kích_thước/N tương_đương/A và/CC thành_phần/N cấu_tạo/N gồm/V rất/R nhiều/A sắt/N

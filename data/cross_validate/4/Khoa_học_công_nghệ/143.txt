@@ -1,0 +1,8 @@
+​/N Cảnh_báo/V trò/N mạo_danh/V nhà/N mạng/N gọi/V điện/N lấy/V mã/N xác_thực/N
+Qua/E tìm_hiểu/V chúng_tôi/N được/V biết/V nhà/N mạng/N Vinaphone/Np đang/R có/V triển_khai/V chương_trình/N tặng/V quà/N cho/V thuê_bao/V có/V điểm/N tích_luỹ/A trong/E quá_trình/N sử_dụng/V dịch_vụ/N
+Thuê_bao/N có_thể/A đổi/V điểm/N để/E nhận/V quà/N tặng/V và/N phải/V có/V mã/N xác_thực/N OTP/Np gửi/V về/V từ/E đầu/N số/N 9898/M của/N nhà/N mạng/N này/P để/V đăng_nhập/V vào/R chương_trình/N đổi/V điểm/N lấy/V quà/N
+Đây/P là/V lí_do/N để/E kẻ/V xấu/A mạo_danh/A nhà/N mạng/N gọi/V điện/N đến/E thuê_bao/N Vinaphone/Np hòng/V lừa/V lấy/V mã/N xác_thực/N được/V gửi/V về/R điện_thoại/N của/N nạn_nhân/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np đại_diện/N Vinaphone/Np xác_nhận/V có/V nhận/V được/R phản_ánh/V từ/E nhiều/A khách/N hàng/N về/V sự_việc/N nêu/V trên/N
+Mục_đích/N của/E trò/N lừa/V trên/E nhằm/N chiếm_dụng/V điểm/N tích_luỹ/A của/E Khách/N hàng/N để/V đổi/V quà/N và/CC thay_đổi/V địa_chỉ/N nhận/V quà/N trên/N trang/N VinaPhone/N Plus/Np đại_diện/V nhà/N mạng/N này/P cho/V biết/V
+Khách/N hàng/N hãy/R cẩn_trọng/A trong/E việc/N cung_cấp/V mã/N xác_thực/N OTP/Np cho/V người/N khác/A vì/E các/L đối_tượng/N xấu/A có_thể/A sử_dụng/V chính/T mã/N OTP/Np này/N để/E thực_hiện/V đổi/V quà/N trên/E trang/N VinaPhone/N Plus/Np
+Khi/N đó/P các/L thao_tác/N ghi_nhận/V trên/E hệ_thống/N đều/R là/V thao_tác/N do/E chủ/N thuê_bao/N thực_hiện/V gây/V khó_khăn/N cho/V nhà/N mạng/N trong/E việc/N xử_lí/V giải_quyết/V khiếu_nại/V của/E khách/N hàng/N đại_diện/V Vinaphone/Np khuyến_cáo/N

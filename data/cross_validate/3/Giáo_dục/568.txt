@@ -1,0 +1,44 @@
+Các/L nước/N thi/V tốt_nghiệp/V và/CC tuyển_sinh/V đại_học/N thế_nào/P
+Pháp_Học/Np sinh/V phải/V tham_gia/V kỳ/N thi/V duy_nhất/A để/E tốt_nghiệp/V trung_học/N và/CC xét/V tuyển/V vào/E đại_học/N được/V gọi_là/X Thi/V tú_tài/N /V baccalaureate/N /V
+Học_sinh/N phải/V đạt/V tối_thiểu/A 10/20/M điểm/N /V tính/N trung_bình/A điểm/N các/L môn/N /A nếu/C chỉ/R đạt/V 8-9/20/M sẽ/R phải/V thi/V lại/R hoặc/CC tham_gia/V một/M bài/N thi_vấn_đáp/N sau/A đó/P
+Nếu/C đạt/V dưới/E 8/20/M học_sinh/N phải/V học/V lại/R
+Kỳ/N thi/V tú_tài/N được/V chia/V làm/V 3/M khối/N thi/V và/CC học_sinh/N chọn/V một/M khối/N để/E tham_gia/V
+Khối/N S/Np /M Khoa_học/N /N yêu_cầu/V người/N thi/V phải/V có/V trình_độ/N cao/A trong/E Toán/Np Vật_lý/N Hóa/V Sinh/V
+Khối/N ES/Np /V Kinh_tế/N và/CC Khoa_học_xã_hội/N /V tập_trung/V vào/E các/L môn/N về/E kinh_tế/N và/CC xã_hội/N
+Khối/N L/Np /V Ngữ_văn/N /V coi_trọng/V các/L môn/N văn_học/N Pháp/Np Triết_học/N Sử/Np Địa/Np Ngoại_ngữ/N
+Hình_thức/N thi/V chủ_yếu/A là/V viết/V và/CC vấn_đáp/V
+Một_số/L bài/N thi/V về/E khoa_học/N còn/R có/V thêm/V phần/N thi/V trong/E phòng_thí_nghiệm/N
+Mỹ_Bài/Np thi/V chuẩn_hóa/V /N SAT/Np /V là/V một/M trong/E những/L bài/N thi/V xét/V tuyển/V của/E nhiều/A trường/N đại_học/N ở/E Mỹ/Np
+Từ/E tháng/N 3/2016/M SAT/Np đã/R thay_đổi/V về/E hình_thức/N  /N gồm/V 3/M phần/N Đọc/V hiểu/V và/CC viết/V Toán/Np Viết/V luận/V
+Bài_Đọc/Np hiểu/V /A 65/M phút/Nu /M và/CC viết/V /A 35/M phút/Nu /A đánh_giá/V khả_năng/N dùng/V từ/N suy_luận/N của/E người/N thi/V
+Tất_cả/L câu_hỏi/N đều/R ở/E dạng/N trắc_nghiệm/V
+Bài/N thi/V Toán/Np /V 80/M phút/N /V chia/V làm/V hai/M phần/N phần/N dùng/V máy_tính/N và/CC phần/N không/R dùng/V máy_tính/N
+Đa_số/L câu_hỏi/N là/V trắc_nghiệm/V nhưng/C cũng/R có/V một_số/L câu/N tự_điền/V đáp_án/N
+Bài/N thi/V dựa/V trên/E tình_huống/N đời/N thực/N và/CC yêu_cầu/V học_sinh/N dùng/V công_thức/N toán/N để/E giải_quyết/V vấn_đề/N
+Bài_Viết/Np luận/V không/R bắt_buộc/V và/CC giống/V với/E những/L bài/N luận/V phải/V viết/V khi/N nộp/V đơn/N xin/V vào/V đại_học/N
+Mặc_dù/C không/R phải/V bài/N thi/V bắt_buộc/V nhưng/C một_số/L trường/N vẫn/R yêu_cầu/V học_sinh/N tham_gia/V
+Thụy_Điển_Bài/Np thi/V đánh_giá/V năng_lực/N /V SweAT/Np /V là/V bài/N kiểm_tra/V tiêu_chuẩn/N để/E xét/V tuyển/V vào/V đại_học/N
+Từ/E năm/N 2011/M bài/N thi/V được/V chia/V làm/V 2/M phần/N tính_toán/V và/CC viết/V
+Tổng_cộng/V có/V 160/M câu_hỏi/N chia/V là/C 4/M bài/Nc thi/N nhỏ/A trong/E đó/P hai/M bài/N thuộc/V phần/N tính_toán/V hai/M bài/N thuộc/V phần/N viết/V
+Trong/E phần/N tính_toán/V có/V 4/M chủ_đề/N là/V Toán_học/N /V 24/M câu/N /A So_sánh/V định_lượng/N /A 20/M câu/N /V Biểu_đồ/N và/CC đồ_thị/N /V 24/M câu/N /V Phân_tích/V dữ_liệu/N /V 12/M câu/N /V
+Phần/N viết/V cũng/R có/V 4/M chủ_đề/N là/V Đọc/V hiểu/V tiếng/N Anh/N Đọc/V hiểu/V tiếng/N Thụy_Điển/Np Từ_vựng/Np và/CC Hoàn_thành/V câu/N
+Mỗi/L chủ_đề/N đều/R có/V 20/M câu_hỏi/N
+Hàn_Quốc_Kỳ/Np thi/V năng_lực/N đại_học/N /M CSAT/Np /M ra_đời/V năm/N 1994/M là/V bài/N thi/V tiêu_chuẩn/N được/V các/L đại_học/N ở/E Hàn_Quốc/Np chấp_nhận/V
+Kỳ/N thi/V trước_đây/N chỉ/R có/V 5/M bài/N nhưng/C từ/E năm/N 2016/M sĩ_tử/N phải/V tham_gia/V thêm/V bài/N Lịch_sử/N
+Bài/N thi/V Ngữ_văn/N Toán_học/N và/CC tiếng/N Anh/N tính/V trên/E thang/N điểm/N 100/M trong/E đó/P bài/N tiếng/N Anh/Np có/V cả/T phần/N nghe/V
+Ngoài/E tiếng/N Anh/Np học_sinh/N phải/V tham_gia/V một/M bài/N thi/V Ngoại_ngữ/N khác/A thường/R là/V tiếng/N Trung/Np với/E thang/N điểm/N 50/M
+Lịch_sử/N thang/N điểm/N 50/M mới_đây/X trở_thành/V bài/N thi/V bắt_buộc/V ở/E quốc_gia/N này/P
+Môn/N thi/V cuối_cùng/A học_sinh/N được/V tự/P chọn/V trong/E các/L môn/N Xã_hội/N Khoa_học/N và/CC Dạy/V nghề/N
+Trung_Quốc_Kỳ/Np thi/V xét/V tuyển/V Đại_học/N Quốc_gia/Np /V NCEE/Np /V được/R tổ_chức/V hàng/N năm/N và/CC được/V coi/V là/C điểu/N kiện/V bắt_buộc/V để/E vào/V hầu_hết/R đại_học/N ở/E Trung_Quốc/Np
+Hình_thức/N thi/V của/E NCEE/Np còn/R được/V gọi_là/X “/A 3/M +/Nu X”/Np nghĩa_là/X thí_sinh/N phải/V tham_gia/V 3/M bài/N thi/V bắt_buộc/V /M tiếng/N Trung/Np Toán/Np và/CC Ngoại_ngữ/N /A với/E thang/N điểm/N 150/M mỗi/L bài/N và/CC X/Np bài/N thi/V tự/P chọn/V về/E Khoa_học_xã_hội/N /V Khoa_học/N chính_trị/N Lịch_sử/N Địa_lý/N /A hoặc/CC Khoa_học_tự_nhiên/N /V Vật_lý/N Hóa_học/N và/CC Sinh_học/N /V chiếm/V 300/750/M tổng_số/N điểm/N
+Nhật_Bản_Kết/N quả/N của/E kỳ/N thi/V xét/V tuyển/V đại_học/N quốc_gia/N diễn/V ra/R trong/E hai/M ngày/N giữa/E tháng/N 1/M hàng/N năm/N được/V các/L trường/N đại_học/N công_lập/V và/CC một_số/L trường/N tư/A chấp_nhận/V
+Có/V 29/M bài/N thi/V trong/E 6/M môn_học/N /N Toán/Np Khoa_học/N Văn_học/N Nhật_Bản/Np Ngoại_ngữ/N Công_dân/N Địa_lý/N Lịch_sử/N /M
+Thí_sinh/N sẽ/R chỉ/R làm/V những/L bài/N thi/V theo/E yêu_cầu/N của/E trường/N đại_học/N mà/C họ/P nộp/V đơn/N vào/V
+Các/L câu_hỏi/N đều/R dưới/E dạng/N trắc_nghiệm/V và/CC theo/V hướng_dẫn/V của/E Bộ/N Giáo/N dục/V Văn_hóa/N Thể_thao/N Khoa_học/N và/CC Công_nghệ/N Nhật_Bản/Np
+Nga_Trước/V đây/P Nga/Np có/V rất/R nhiều/A bài/N thi/V học_sinh/N phải/V qua/V để/E tốt_nghiệp/V trung_học/N và/CC lên/V đại_học/N
+Nhưng/C từ/E năm/N 2009/M Nga/Np đã/R gộp/V các/L kỳ/N thi/V vào/V thành/V một/M
+Thí_sinh/N bắt_buộc/V thi/V tiếng/N Nga/Np và/CC Toán_học/N
+Ngoài_ra/C họ/P có_thể/R chọn/V thi/V thêm/V Ngoại_ngữ/N Vật_lý/N Hóa_học/N Sinh_học/N Văn_học/N Lịch_sử/N …/A theo/E mong_muốn/V cá_nhân/N hay/C yêu_cầu/N đặc_biệt/A của/E từng/P trường/N
+Mỗi/L bài/N thi/V có/V hai/M phần/N
+Phần/N 1/M gồm/V câu_hỏi/N ở/E dạng/N trả_lời/V ngắn_gọn/A
+Phần/N 2/M có_thể/R chỉ/R có/V một/M hoặc/CC vài/L câu_hỏi/N yêu_cầu/V thí_sinh/N sử_dụng/V khả_năng/N sáng_tạo/V để/E làm/V

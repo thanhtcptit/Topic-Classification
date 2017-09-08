@@ -1,0 +1,11 @@
+Hơn/A 100/M chiếc/Nc i/N Phone/V 7/M màu/N đỏ/A nhập/V lậu/A “/V đi/V máy_bay/N về/E Việt_Nam/Np 
+Lực_lượng/N chống/V buôn_lậu/V của/E Tổng_cục/N Hải_quan/Np phối_hợp/V với/E Chi_cục/N Hải_quan/Np Cửa_khẩu/N sân_bay/N quốc_tế/N Nội_Bài/Np Cục/N Hải/Np quan/N thành_phố/N Hà_Nội/Np )/A vừa/R phát_hiện/V bắt_giữ/V một/M vụ/N nhập/V lậu/A điện_thoại/N i/V Phone/Np trị_giá/V hơn/A 3/M tỷ/Nu đồng/N từ/E nước_ngoài/N về/E Việt_Nam/Np 
+Thông_tin/N ban_đầu/N từ/E lực_lượng/N hải_quan/N vụ_việc/N được/R phát_hiện/V sáng/N ngày/N 29/3/M 
+Theo/E đó/P kiểm_tra/V phân_luồng/N hành_lý/V ký_gửi/N trên/E chuyến/N bay/V từ/E Hàn_Quốc/Np về/E Nội_Bài/Np Hà_Nội/Np )/A lực_lượng/N chức_năng/N đã/R phát_hiện/V 3/M va_li/N có/V dấu_hiệu/N nghi_vấn/V 
+Tiến_hành/V kiểm_tra/V lực_lượng/N hải_quan/N phát_hiện/V bên/N trong/E các/L va_li/N là/V rất/R nhiều/A điện_thoại/N i/V Phone/Np 
+Qua/E kiểm_đếm/N lực_lượng/N chức_năng/N xác_định/V tổng_số/N có/V 155/M chiếc/Nc i/N Phone/V các/L loại/N gồm/V 80/M chiếc/Nc i/N Phone/V 7/M Plus/N đỏ/A loại/N 128/M Gb/Np 50/M chiếc/Nc i/N Phone/V 7/M thường/N màu/N đỏ/A loại/N 128/M Gb/Np 20/M chiếc/Nc i/N Phone/Np 6s/M Plus/Np các/L loại/N và/CC 5/M chiếc/Nc i/N Phone/Np 7/M thường/R loại/V 128/M Gb/Np 
+Tại/E thời_điểm/N kiểm_tra/V chủ/N số/N hàng/N trên/A là/V Vũ_Thị/Np P/Np đã/R không/R xuất_trình/V được/R hóa_đơn/N chứng_từ/V và/CC các/L loại/Nc giấy_tờ/N liên_quan/V đến/E lô/N điện_thoại/N trên/A 
+Ước_tính/V lô/N hàng/N này/P trị_giá/V hơn/A 3/M tỷ/Nu đồng/Nu 
+Theo/E lực_lượng/N hải_quan/N chống/V buôn_lậu/V Tổng_cục/N Hải_quan/Np đây/P là/V mặt_hàng/N nhập_khẩu/V phải/V có/V giấy_phép/N nhập_khẩu/V của/E Bộ/N Thông/Np tin/V và/CC Truyền_thông/N 
+Toàn_bộ/N lô/N hàng/N trên/E sau/N đó/P đã/R bị/V niêm_phong/V để/E tiếp_tục/V làm/V rõ/A 
+Tiến_Nguyên/Np 

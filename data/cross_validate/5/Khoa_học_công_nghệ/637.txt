@@ -1,0 +1,14 @@
+N Lò/Np V chế_tạo/V chip/N đầu_tiên/A ở/E Việt_Nam/Np được/R định_giá/V hơn/R 290/M tỷ/Nu
+Ngày/N 7/6/M Trung_tâm/N Nghiên_cứu/N và/CC Đào_tạo/N thiết_kế/V vi_mạch/N /V ICDREC/Np /V công_bố/V định_giá/V các/L sản_phẩm/N vi_mạch/N cùng/A ứng_dụng/V được/R đơn_vị/N thiết_kế/V xây_dựng/V nhiều/A năm/N qua/V
+Tất_cả/P các/L sản_phẩm/N được/V Viện_Đánh/Np giá/N khoa_học/N và/CC công_nghệ/N /N Bộ/N Khoa/Np học/V và/CC Công_nghệ/N /V định_giá/V  /M sở_hữu_trí_tuệ/N là/V hơn/A 290/M tỷ/N đồng/N bao_gồm/V chip/N vi_xử_lý/N 8/M bit/Nu 32/M bit/N các/L lõi/N IP/Np ngoại_vi/V lõi/V IP/Np xử_lý/V tín_hiệu/N số/N và/CC ảnh/N lõi/V IP/Np chip/V Analog/Np Mix-signal/Np
+Các/L ứng_dụng/N như/C điện_kế/N điện_tử/N thiết_bị/N giám_sát/V hành_trình/N sản_phẩm/N ứng_dụng/V RFID/Np hệ_thống/N đèn_chiếu/N sáng/N cũng/R được/V định_giá/V
+Kết_quả/N này/P dựa/V trên/E tính_toán/V đối_chiếu/V từ/E nhiều/A nguồn/N của/E các/L chuyên_gia/N độc_lập/A
+Giám_đốc/N ICDREC/Np Ngô_Đức_Hoàng/Np cho_biết/V đơn_vị/N đã/R nhận/V được/R các/L khoản/N đầu_tư/V từ/E ngân_sách/N nhà_nước/N /N gồm/V Bộ/N Khoa/Np học/V Công_nghệ/N Sở/N Khoa/Np học/V Công_nghệ/N TP_HCM/Np /V là/V 213/M tỷ/N đồng/N
+Hiện/N trung_tâm/N thu/V được/R từ/E chuyển_giao/V công_nghệ/N là/V 68/M tỷ/N đồng/N cùng/A 31/M tỷ/N từ/E sản_xuất/V sản_phẩm/N rồi/C cung_cấp/V thiết_bị/N
+Ông/Nc Hoàng/Np nhìn_nhận/V các/L sản_phẩm/N vi_mạch/N được/V định_giá/V đang/R ở/E công_nghệ/N thấp/A chưa/R tạo/V ra/R được/R giá_trị/N thương_mại/N cao/A
+Trong/E thời_gian/N tới/V ICDREC/Np sẽ/R tập_trung/V đầu_tư/V chuyển_đổi/V một_số/L lõi/N IP/Np đang/R có/V sẵn/A sang/V công_nghệ/N SOTB/Np có/V giá_trị/N cao/A hơn/A
+Đây/P là/V công_nghệ/N thế_giới/N đang/R sử_dụng/V nhiều/A và/CC giải_quyết/V bài_toán/N công_suất/N thấp/A
+Ông/Nc Trần_Vĩnh_Tuyến/Np –/V Phó_chủ_tịch/N UBND_TP_HCM/Np –/V chúc_mừng/V những/L kết_quả/N đạt/V được/R của/E ICDREC/Np nhưng/C lưu_ý/V đơn_vị/N phải/V bắt/V kịp/A dòng_chảy/N công_nghệ/N thế_giới/N
+Sản_phẩm/N công_nghệ/N nào/P thì/C bản_chất/N vẫn/R ở/V thị_trường/N
+Nếu/C làm/V ra/R sản_phẩm/N nhưng/C không/R thương_mại_hóa/V được/R coi/V như/C thất_bại/N ông/N Tuyến/N nói/V
+ICDREC/Np là/V đơn_vị/N nằm/V trong/E chương_trình/N Phát_triển/V công_nghiệp/N vi_mạch/N TP_HCM/Np lần/N đầu/N thiết_kế/V được/R các/L con/N chip/V tại/E Việt_Nam/Np được/V cộng_đồng/N khoa_học/N quốc_tế/N đánh_giá/V cao/A

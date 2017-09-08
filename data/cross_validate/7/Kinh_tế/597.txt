@@ -1,0 +1,20 @@
+Vicem/Np gánh/V nợ/N nghìn/N tỷ/V từ/E M con/N cưng/V M Xi_măng/N Hạ_Long/Np
+Đầu/N năm/N 2016/M Bộ/N Xây/V dựng/V thực_hiện/V quyết_định/N của/E Thủ_tướng/N về/E việc/N chuyển_giao/V quyền/N đại_diện/V chủ_sở_hữu/N phần/N vốn/N nhà_nước/N của/E Tổng_công_ty/N Sông_Đà/Np tại/E Công_ty_cổ_phần/N Xi_măng/N Hạ_Long/Np về/V cho/E Tổng_công_ty/N Công_nghiệp/N Xi_măng/N Việt_Nam/Np /V Vicem/Np /V
+Bộ/N Xây/V dựng/V cũng/R phê_duyệt/V phương_án/N tái/A cơ_cấu/N tổ_chức/V tiêu_thụ/V và/CC khoản/N vay/V nợ/N theo/E hướng/N kiến_nghị/V các/L ngân_hàng/N Quỹ/Np tích_luỹ/V Bộ/N Tài_Chính/Np và/CC các/L đối_tượng/N khác/A giãn/V và/CC hoãn/V thời_gian/N trả/V nợ/N đối_với/E các/L khoản/N quá/V hạn/N giảm/V lãi_suất/N và/CC hỗ_trợ/V tài_chính/N cơ_chế/N đặc_thù/A cho/E Xi_măng/N Hạ_Long/Np
+Giữa/E tháng/N 2/2016/M doanh_nghiệp/N này/P chính_thức/A trở_thành/V công_ty_con/N của/E Vicem/Np sau/E khi/N hoàn_tất/V thủ_tục/N chuyển_giao/V hơn/A 64,5/M triệu/M cổ_phần/N /V tương_ứng/V 65,76%/M vốn_điều_lệ/N /V
+Tại/E thời_điểm/N bàn_giao/V vốn_điều_lệ/N của/E Xi_măng/Np Hạ_Long/Np là/V 982/M tỷ/N nhưng/C lỗ/N luỹ/V kế/A hơn/R 3 0/M tỷ/N đồng/N
+Báo_cáo/V tài_chính/N hợp_nhất/V năm/N 2016/M của/E Vicem/Np lần/N đầu/N thể_hiện/V chi_tiết/N các/L khoản/N vay/V nợ/N “/M khủng/N ”/A của/E Xi_măng/N Hạ_Long/Np từ/E 2011/M đến/E nay/P
+Tính/V đến/E cuối/N năm/N tổng/N nợ/N phải/V trả/V của/E Vicem/Np là/V 25 2/M tỷ/N đồng/N tăng/V hơn/R 4 0/M tỷ/Nu so/V với/E thời_điểm/N đầu/N năm/N
+Khoản/N tăng/V đột_biến/N này/P phát_sinh/V từ/E khi/N Tổng_công_ty/N hợp_nhất/V doanh_nghiệp/N mới/R được/V ghi_nhận/V vào/V vay/V và/CC nợ/N thuê/V tài_chính/N nợ/V ngắn_hạn/N
+Hiện/N khoản/N vay/V quá/R hạn/N của/E Xi_măng/Np Hạ_Long/Np là/V 2 3/M tỷ/N đồng/N
+Trong/E đó/P nợ/N đến/V hạn/N phải/V trả/V cho/E Tổng_công_ty/N Sông_Đà/Np hơn/R 997/M tỷ/N đồng/N
+Theo/E hợp_đồng/N giữa/E hai/M bên/N toàn_bộ/L khoản/N vay/V này/P sẽ/R được/V hoàn_trả/V vào/E cuối/N năm/N 2016/M nhưng/C trước/E đó/P Vicem/Np đã/R có/V văn_bản/N đề_nghị/V đối_tác/N điều_chỉnh/V nội_dung/N hợp_đồng/V với/E các/L điều_khoản/N như/C thời_hạn/N trả/V nợ/N gốc/N trong/E vòng/N 10/M năm/N và/CC bắt_đầu_từ/N năm/N 2017/M lãi_suất/N trong/E thời_gian/N trả/V nợ/N là/V 0%/M một/M năm/N
+Theo/E Vicem/Np việc/N đưa/V ra/R các/L đề_nghị/N này/P được/V căn_cứ/V theo/E tờ_trình/N của/E đơn_vị/N chủ_quản/V gửi/V Thủ_tướng/N về/E phương_án/N tái/A cơ_cấu/N Xi_măng/N Hạ_Long/Np
+Vicem/Np cũng/R không/R hạch_toán/V và/CC ghi_nhận/V chi_phí/N lãi/V vay/V của/E năm/N trước/A cho/E đối_tác/N theo/V hợp_đồng/N ban_đầu/N
+Ngoài_ra/C trong/E số/N 6/M khoản/N vay/V quá/R hạn/N của/E doanh_nghiệp/N này/P thì_có/X đến/E 3/M khoản/N vay/V thông_qua/V chủ/N cũ/A là/V Tổng_công_ty/N Sông_Đà/Np
+Đáng/V chú_ý/V trong/E số/N này/P có/V khoản/N vay/V gần/A 950/M tỷ/N đồng/N của/E Quỹ/Np tích_luỹ/N Bộ/N Tài/Np chính/T với/E lãi_suất/N 4,29%/M một/M năm/N được/V thế_chấp/V bằng/E tài_sản/N thuộc/V trạm/N nghiền/V của/E công_ty/N
+Báo_cáo/V tài_chính/N cũng/R cho/V thấy/V Vicem/Np còn/R ghi_nhận/V thêm/V 334/M tỷ/N đồng/N phí/N bảo_lãnh/V và/CC lãi/V vay/V phải/V trả/V cho/E những/L khoản/N vay/V quá/R hạn/N thanh_toán/V của/E Xi_măng/N Hạ_Long/Np
+Trong/E đó/P có/V 297/M tỷ/N đồng/N đến/V từ/E các/L bên/N cho/V vay/V là/V Quỹ/Np tích_luỹ/V Bộ/N Tài/N chính/T Ngân_hàng/N Đầu_tư/V Bắc_Âu/Np /V NIB/Np /M Ngân_hàng/N Phát_triển/V châu/N Á/Np /V ADB/Np /M Ngân_hàng/N Natixis/Np và/CC 4/M ngân_hàng/N thương_mại/N đồng/N tài_trợ/V khác/A
+Vicem/Np cũng/R ghi_nhận/V 342/M tỷ/N đồng/N lãi/V vay/V dài_hạn/A Xi_măng/N Hạ_Long/Np phải/V trả/V cho/E Ngân_hàng/N Phát_triển/V Việt_Nam/Np chi_nhánh/N tỉnh/N Quảng_Ninh/Np
+Số/N tiền/N này/P không/R bao_gồm/V các/L khoản/N phạt/V chậm/A trả/V lãi/N và/CC gốc/N vay/V tính/V đến/E cuối/N năm/N
+Căn_cứ/N theo/V chủ_trương/N của/E Chính_phủ/N về/E việc/N xử_lý/V nợ/N xấu/A đối_với/E các/L dự_án/N vay/V vốn/N tín_dụng/N đầu_tư/V phát_triển/V nhà_nước/N phía/N nhà_băng/N cũng/R trình/V đơn_vị/N chủ_quản/V xoá/V toàn_bộ/L lãi/N phạt/V trên/E lãi/N chậm/A trả/V và/CC lãi/V phạt/V trên/E gốc/N quá/R hạn/N tính/V đến/E 31/12/2015/M ước_tính/V khoảng/N 74,5/M tỷ/N đồng/N

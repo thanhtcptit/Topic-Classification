@@ -1,0 +1,18 @@
+Những/L lợi_ích/N khi/N học/V trường/N nghề/N
+Trường_Cao/Np đẳng/V Kinh_tế/N Công_nghiệp/N Hà_Nội/Np là/V trường/N công_lập/N trực_thuộc/V Bộ/N Công_Thương/Np được/V thành_lập/V năm/N 1961/M
+Các/L ngành/N đào_tạo/V mũi_nhọn/N của/E trường/N gồm/V kế_toán/N công_nghệ/N may/A thời_trang/N điện_tử/N công_nghiệp/N điện/N công_nghiệp/N quản_trị/V kinh_doanh/V marketting/N tin_học/N ứng_dụng/V /N Công_nghệ_thông_tin/N /A tài_chính/N ngân_hàng/N tài_chính/N doanh_nghiệp/N thuế/N và/CC hải_quan/N
+Sinh_viên/N nhập_học/V sẽ/R được/V ký/V cam_kết/V bằng/E văn_bản/N với/E nhà_trường/N về/E việc/N giới_thiệu/V việc_làm/N sau/E khi/N tốt_nghiệp/V
+Trường/N xét/V tuyển/V điểm/N học_bạ/V học_sinh/N tốt_nghiệp/V THPT/Np
+Thời_gian/N đào_tạo/V cao_đẳng/A 2-3/M năm/N
+Trong/E quá_trình/N học/V sinh_viên/N sẽ/R được/V hỗ_trợ/V tìm/V việc_làm/N thêm/V hưởng/V các/L chế_độ/N trường/N công_lập/V hưởng/V học_bổng/N và/CC các/L chế_độ/N miễn_giảm/V theo/E quy_định/N của/E nhà_nước/N cam_kết/V chất_lượng/N đào_tạo/V theo/E chuẩn/N đầu_ra/N
+Sau/E khi/N tốt_nghiệp/V sinh_viên/N được/V cam_kết/V hỗ_trợ/V giới_thiệu/V việc_làm/N học/V liên_thông/V lên/R đại_học/N chính_quy/V các/L trường/N đại_học/N lớn/A tại/E Hà_Nội/Np hỗ_trợ/V giới_thiệu/V học_tập/V và/CC lao_động/V ở/E nước_ngoài/N
+Thời_gian/N và/CC địa_điểm/N tiếp_nhận/V hồ_sơ/N Thời_gian/N Đợt/N 1/M từ/E tháng/N 1/M đến/E hết/V tháng/N 3/M
+Đợt/N 2/M từ/E tháng/N 4/M đến/E hết/V tháng/N 6/M
+Đợt/N 3/M từ/E tháng/N 7/M đến/E hết/V tháng/N 9/M
+Đợt/N 4/M từ/E tháng/N 10/M đến/E hết/V tháng/N 12/M
+Địa_điểm/N Cơ_sở/N 1/M Số/N 143/M đường/N Nguyễn_Ngọc_Vũ/Np phường/N Trung_Hòa/Np quận/N Cầu_Giấy/Np Hà_Nội/Np
+Điện_thoại/N 04 85/M 7365/M 04 56/M 6300/M
+Cơ_sở/N 2/M Số/N 106/M đường/N Tả_Thanh_Oai/Np huyện/N Thanh_Trì/Np Hà_Nội/Np
+Điện_thoại/N 04 884342/M
+Website/N http/V //X //X www ec u /N
+Email/V tuyensinh@hiec u/N

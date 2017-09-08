@@ -1,0 +1,14 @@
+15/M giờ/Nu chiều/N nay/P giá/N xăng/N giảm/V gần/A 900/M đồnglít/N
+Xăng/N RON/Np 92/M giảm/N 862/M đồnglít/N dầu_hoả/N giảm/A 738/M đồnglít/N theo/V thông_tin/N liên/N Bộ/N Tài_chính/N –/V Công_thương/N công/N bố/N chiều/N ngày/N 206/M
+Ngoài_ra/C các/L mặt_hàng/N khác/A cũng/R có/V mức/N giảm/A như/C sau/N Xăng/Np E5/Np giảm/V 805/M đô/N ̀/N ngli/N ́/N t/N
+Dầu/N diesel/N 005S/N giảm/V 650/M đô/N ̀/N ngli/N ́/N t/N
+Dầu/N mazut/N 180CST/N 35S/N giảm/A 369/M đồngkg/N
+Liên_bộ/N Tài_chính/N –/N Công_Thương/Np cho/V biết/V việc/N điều_chỉnh/V giá/N xăng/N dầu/N như/C trên/N là/V do/N diễn_biến/N giá/N xăng/N dầu/N thành_phẩm/V trong/E 15/M ngày_trước/N ngày/N 206/M giảm/N
+Cụ_thể/N giá/N xăng/N RON/Np 92/M hiện/N 58117/M USDthùng/N dầu/N diesel/N là/V 57736/M USDthùng/N dầu_hoả/N là/V 57193/M USDthùng/N và/CC dầu/N mazut/N 180CST/M 35S/N là/V 295503/M USDtấn/N
+Mức/N trích_lập/N Quỹ_Bình_ổn/N giá/N xăng/N dầu/N vẫn/R được/V giữ/V nguyên/A như/N hiện_hành/N
+Sau/E khi/N điều_chỉnh/V giảm/V giá/N bán/V các/L mặt_hàng/N xăng/N dầu/N trên/E toàn/N hệ_thống/N từ/E 15/M giờ/N ngày/N 206/M như/N sau/N
+Xăng/N RON/Np 92/M không/N cao/A hơn/R 16504/M đồnglít/N
+Xăng/N E5/Np không/R cao/A hơn/R 16349/M đồnglít/N
+Dầu/N diesel/N 005S/N không/R cao/A hơn/R 12835/M đồnglít/N
+Dầu_hoả/N không/R cao/A hơn/R 11380/M đồnglít/N
+Dầu/N mazut/N 180CST/N 35S/N không/R cao/A hơn/R 10666/M đồngkg/N

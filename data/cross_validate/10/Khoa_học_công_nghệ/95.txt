@@ -1,0 +1,9 @@
+​/N Thiết_bị/N Chromebit/Np biến/V mọi/N màn/N hình_thành/V máy_tính/N
+Người_dùng/N cần/V kết_nối/V thêm/V bàn_phím/N và/CC chuột/N kết_nối/N Bluetooth/Np để/V sử_dụng/V
+Chromebit/Np có/V sẵn/N bộ/N ứng_dụng/N trực_tuyến/N của/E Google/Np gồm/V Drive/Np Docs/Np có_thể/V cài/V thêm/V các/L ứng_dụng/N web/N từ/E chợ/N ứng_dụng/N Chrome_Web_Store/Np
+Chromebit/N ra/V đời/N từ/E sự/N hợp_tác/V của/E Asus/Np và/CC Google/Np có_giá/N bán_lẻ/V tham_khảo/N 85/M USD/Nu tương/N đương/V 19/M triệu/N đồng/N tại/E Mỹ/Np và/CC các/L nước/N châu/N Âu/Np
+Việc/N ra_mắt/V Chromebit/Np phần_nào/N xoá/V đi/V những/L lo_ngại/N về/V tin/N đồn/V Google/Np đưa/V dự/N án/N Chrome/Np OS/Np vào/V Android/Np một/M hình_thức/N khai_tử/V hệ/N điều_hành/V này/N
+Chrome/N OS/Np là/V một/M hệ/N điều_hành/V hoạt/N động/N trên/A nền/N điện/N toán/N đám/N mây/N khác/A với/E Windows/Np hay/C Linux/Np có/V sẵn/A trong/E Intel_Compute/Np Stick/Np
+Chromebit/Np là/V một/M dạng/N hình_thể/N khác/A của/E máy_tính/N thu/N nhỏ/A tương_tự/A các/L máy_tính/N dùng/V Chrome/Np OS/Np như/C máy_tính_xách_tay/X Chromebook/Np hay/V máy/N tính/V để/E bàn/N Chromebox/Np đã/R được/V nhiều/A hãng/N sản_xuất/V máy_tính/N như/C Acer/Np HP/Np Dell/Np Asus/Np
+giới_thiệu/V trong/E vài/L năm/N qua/V
+Cấu_hình/N tham_khảo/N của/E Asus_Chromebit/Np CS10/N

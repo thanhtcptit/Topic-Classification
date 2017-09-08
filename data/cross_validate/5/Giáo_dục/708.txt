@@ -1,0 +1,20 @@
+Điểm_chuẩn/V trường/N Y/N dự_kiến/V tăng/V
+Ngày/N 11/7/M ông/Nc Lê_Đình_Tùng/Np  /M Phó_phòng/N Quản_lý/V Đào_tạo/N Đại_học/N Y_Hà_Nội/Np cho_biết/V dựa/V vào/E phổ/N điểm/N thi/V THPT/Np quốc_gia/N Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N công_bố/V có_thể/R thấy/V số/N thí_sinh/N từ/E 27/M điểm/N trở_lên/A ở/E khối/N B/Np tăng/V so/V với/E 2/M năm/N trước/E
+Những/L ngành/N có/V điểm_chuẩn/N cao/A như/C Bác_sĩ/N đa_khoa/N số/N thí_sinh/N đăng_ký/V thường/R ổn_định/A ít/A có/V sự/Nc điều_chỉnh/V nguyện_vọng/N  /EOS
+Do_đó/C ông/N Tùng/Np dự_đoán/N điểm_chuẩn/V vào/E ngành/N này/P năm/N 2017/M không_thể/R thấp/A hơn/R năm/M trước/N là/V 27/M điểm/N và/CC có_thể/R nhích/V lên/R
+Năm/N nay/P Đại_học/N Y_Hà_Nội/Np tuyển/V 1 0/M chỉ_tiêu/N trong/E đó/P 500/M vào/E ngành/N Bác_sĩ/N đa_khoa/N
+Ông/Nc Tùng/Np khuyên/V thí_sinh/V xem_xét/V kỹ/A trước/E khi/N đăng_ký/V hay/C thay_đổi/V nguyện_vọng/N
+Nhà_trường/N luôn/R mong/V chọn/V được/R học_sinh/N giỏi/A nhưng/C các/L em/N khi/N đăng_ký/V cần/V cân_nhắc/V Y/N đa_khoa/N có/V hợp/V với/E sở_thích/N và/CC khả_năng/N của/E mình/P bởi/E đây/P là/V ngành/N học/V rất/R vất_vả/A thời_gian/N đào_tạo/V dài/A ông/Nc Tùng/Np nói/V
+Sau/E ngày/N 15/7/M Đại_học/N Y_Hà_Nội/Np sẽ/R công_bố/V ngưỡng/N điểm/N nhận/V hồ_sơ/N
+Điểm/N trúng_tuyển/V vào/E trường/N được/V công_bố/V vào/E cuối/N tháng/N 7/M  /EOS
+Đại_học/N Y_dược/N Thái_Nguyên/Np có/V khoảng/N 7 0/M thí_sinh/N đăng_ký/V xét/V tuyển/V đông/A nhất_là/X Y/N đa_khoa/N tiếp/V đến/R là/V Dược/Np và/CC Điều_dưỡng/Np
+Tuy_nhiên/C tổng/N chỉ_tiêu/N tuyển_sinh/V của/E trường/N chỉ/R có/V 730/M gần/A bằng/E 1/10/M số/N đăng_ký/V
+Trưởng_phòng/N Đào_tạo/N Trịnh_Văn_Hùng/Np cho_biết/V dự_kiến/V điểm_chuẩn/V vào/E ngành/N Y/N đa_khoa/N của/E trường/N tăng/V ít_nhất/X 0,5/M điểm/N so/V với/E năm/N trước/E
+Ngược_lại/X một_số/L ngành/N ở/E nhóm/N dưới/N như/C Y_học/N dự_phòng/V số_lượng/N thí_sinh/N đăng_ký/V không/R nhiều/A nên/C điểm_chuẩn/N có_thể/A bằng/A hoặc/CC giảm/V hơn/R
+Năm/N 2016/M điểm_chuẩn/V vào/E ngành/N Y/N đa_khoa/N của/E Đại_học/N Y_dược/N Thái_Nguyên/Np là/V 24,75/M và/CC ngành/N Y_học/N dự_phòng/V là/V 23/M
+Hiệu_phó/N Đại_học/N Y_dược/N Thái_Bình_Nguyễn_Duy_Cường/Np cũng/R dự_đoán/N điểm_chuẩn/V vào/E trường/N năm/N nay/P sẽ/R nhích/V lên/R một_chút/N bởi/E phổ/N điểm/N của/E thí_sinh/N thi/V THPT/Np quốc_gia/N tăng/V
+Năm/N trước/A ở/E đợt/N xét/V tuyển/V đầu/N đại_học/N này/P lấy/V cao/A nhất/R 25,25/M điểm/N vào/E ngành/N Y/N đa_khoa/A ngành/N thấp/A nhất_là/X Y_tế/N cộng_đồng/N 21,25/M điểm/N Đợt/N bổ_sung/V trường/N hạ/V xuống/V 24/M điểm/N với/E Y/N đa_khoa/N
+Khoa/Np Y_Dược_Đại/Np học/V Quốc_gia/Np Hà_Nội/Np năm/N 2017/M tuyển/V 75/M chỉ_tiêu/N ngành/N Y/N đa_khoa/N /M khối/N B/N /M 75/M chỉ_tiêu/N ngành/N Dược_học/N /M khối/N A/N /M và/CC 40/M chỉ_tiêu/N chương_trình/N chất_lượng/N cao/A ngành/N Răng_hàm/N mặt/N /A xét/V tuyển/V khối/N B/N và/CC tiếng/N Anh/N điều_kiện/N /V
+Trưởng_phòng/N đào_tạo/V Nguyễn_Đắc_Dũng/Np cho_biết/V ngưỡng/N trúng_tuyển/V vào/E khoa/N có_thể/A ở/E mức/N 24-26/M điểm/N
+Chúng_tôi/P chưa/R có/V con_số/N chính_thức/A vì/E phải/V chờ/V lọc/V thí_sinh/N ảo/A
+Ngay/T sau/E khi/N Đại_học/N Y_Hà_Nội/Np công_bố/V điểm_chuẩn/A khoa/N Y_Dược/Np của/E Đại_học/N Quốc_gia/Np Hà_Nội/Np sẽ/R ra/V mức/N trúng_tuyển/V đầu_vào/N ông/Nc Dũng/Np nói/V

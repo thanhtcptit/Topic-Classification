@@ -1,0 +1,17 @@
+Mã/N độc/A Trung_Quốc/Np lây_nhiễm/V hơn/R 250/M triệu/N máy_tính/N
+Các/L chuyên_gia/N bảo_mật/V của/E Check_Point/Np vừa/R phát_hiện/V ra/R malware/N mới/R cho_phép/V hacker/N kiểm_soát/V toàn_bộ/L trình_duyệt/N từ/E đó/P có/V thu_thập/V và/CC đánh_cắp/V dữ_liệu/N từ/E xa/A
+Mã/N độc/A có/V tên/N Fireball/Np có/V liên_kết/V với/E Rafotech/Np công_ty/N Trung_Quốc/Np chuyên/A cung_cấp/V trò_chơi/N điện_tử/N cho/E khoảng/N 300/M triệu/M người/N dùng/V
+Đại_diện/N nhóm/N nghiên_cứu/V cho_biết/V Fireball/Np là/V công_cụ/N mà/C Rafotech/Np dùng/V để/E theo_dõi/V thông_tin/N người/N dùng/V thu_thập/V số_liệu/N về/E lưu_lượng/N web/N tự_động/A cài/V thêm/V tiện_ích/N bổ_sung/V tự/P tải/N malware/N khác/A nhằm/V tạo/V lỗ_hổng/N bảo_mật/V
+mà/C chủ_nhân/N máy_tính/N không/R hề/T hay_biết/V
+Ngoài_ra/C mã/N độc/A này/P cũng/R tìm/V cách/N thay_đổi/V công_cụ/N tìm_kiếm/V mặc_định/V và/CC tự/P hiển_thị/V quảng_cáo/N trên/E trình_duyệt/N nhằm/V kiếm/V doanh_thu/N
+Điều/N đáng/V lo_ngại/V là/V Fireball/Np có/V khả_năng/N ẩn/V mình/P rất/R sâu/A trên/E máy_tính/N nhờ/V cấu_trúc/V nhiều/A tầng_lớp/N một/M chuyên_gia/N của/E Check_Point/Np nhấn_mạnh/V
+Theo/E thống_kê/V hiện/N có/V khoảng/A 250/M triệu/M máy_tính/N trên/E thế_giới/N bị/V lây_nhiễm/V Fireball/Np trong/E đó/P 20%/M là/V các/L mạng/N trong/E công_ty/N
+Các/L quốc_gia/N bị/V nhiễm/V virus/N này/P nhiều/A nhất_là/X Ấn/V Độ/N với/E  /M 25,3/M triệu/N máy_tính/N /M 10,1%/M /N  /N Brazil/Np  /V 24,1/M triệu/N /V 9,6%/M /N  /N Mexico/Np  /V 16,1/M triệu/N /V 6,4%/M /N  /N Indonesia/Np  /V 13,1/M triệu/N /V 5,2%/M /N và/CC 5,5/M triệu/N ở/E Mỹ/Np /V 2,2%/M /N
+Các/L chuyên_gia/N cảnh_báo/V người/N dùng/V không/R nên/V tải/N về/E các/L sản_phẩm/N của/E Rafotech/Np như/C Deal_Wi/Np Fi/Np Mustang_Browser/Np Soso_Desktop/Np và/CC FVP/Np Imageviewer/Np bởi/E chúng/P có_thể/R đi/V cùng_với/C các/L phần_mềm/N độc_hại/A
+Bên_cạnh/N đó/P người/N dùng/V cũng/R không/R nên/V truy_cập/V các/L liên_kết/V nghi_ngờ/V giả_mạo/V để/E tránh/V bị/V lây_nhiễm/V Fireball/Np
+Để/E kiểm_tra/V thiết_bị/N của/E mình/P có/V bị/V nhiễm/V mã/V độc/A hay/C không/R đầu_tiên/A người/N dùng/V mở/V trình_duyệt/N mặc_định/N sau/E đó/P chuyển_đổi/V sang/E các/L trình_duyệt/N khác/A xem/V được/R hay/C không/R
+Tiếp/V đó/P kiểm_tra/V công_cụ/N tìm_kiếm/V mặc_định/N và/CC làm/V thao_tác/V tương_tự/A
+Cuối_cùng/A kiểm_tra/V tất_cả/P các/L tiện_ích/N mở_rộng/V trên/E trình_duyệt/N và/CC xóa/V đi/V những/L tiện_ích/N đáng/V nghi_ngờ/V
+Nếu/C không_thể/R thực_hiện/V được/R các/L thao_tác/V trên/A máy_tính/N của/E bạn/N đã/R bị/V nhiễm/V Fireball/Np
+Nếu/C máy_tính/N đã/R dính/V Fireball/Np cách/N tốt/A nhất_là/X gỡ/V bỏ/V các/L phần_mềm/N quảng_cáo/N đã/R được/V cài_đặt/V trên/E máy/N /V với/E Windows/Np vào/E Control_Panel/Np máy/N Mac/Np có_thể/R sử_dụng/V chức_năng/N Mac_Finder/Np trong/E thư_mục/N Applications/Np /M
+Cuối_cùng/A cập_nhật/V phần_mềm/N diệt/V virus/N phiên_bản/N mới/A nhất/A và/CC tiến_hành/V quét/V toàn_bộ/N máy_tính/N

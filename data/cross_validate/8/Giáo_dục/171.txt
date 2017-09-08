@@ -1,0 +1,74 @@
+​/N ĐH/N Quốc_tế/N công_bố/V điểm_chuẩn/N kì/N thi/V kiểm_tra/V năng_lực/N
+Theo/E đó/P điều_kiện/N xét/V tuyển/N thí_sinh/N có/V tổng/N điểm/N hai/M môn/N thi/V một/M môn/N bắt_buộc/V và/CC một/M môn/N tự/N chọn/V ≥/N 120/M điểm/N
+Điểm/N xét/V tuyển/N là/V tổng/N điểm/N hai/M môn/N thi/V không/R nhân/V hệ_số/N điểm/N thi/V theo/V thang/N điểm/N 100/M cộng/V với/N điểm/N ưu_tiên/A khu_vực/N và/N đối_tượng/N
+Điểm/N ưu_tiên/A được/V tính/V bằng/N 23/M điểm/N ưu_tiên/A khu_vực/N đối_tượng/N theo/V quy_định/N của/E Bộ/N GDĐT/N đối_với/N từng/N mức/N điểm/N sau/N đó/P quy_đổi/V về/V thang/N điểm/N 100/M
+Điều_kiện/N phụ/V để/E xét/V tuyển/N nếu/C nhiều/A thí_sinh/N có/V điểm/N bằng/V nhau/N và/CC khi/N chỉ_tiêu/N đã/R hết/V thì/N hội_đồng/N tuyển_sinh/V sẽ/R xem_xét/V tiêu_chí/N phụ/V là/V điểm/N môn/N toán/N nếu/C vẫn/R tiếp_tục/V có/V điểm/N môn/N toán/N bằng/E nhau/N thì/C sẽ/R xem_xét/V đến/R quá_trình/N học/V phổ_thông/N
+Cách/V xét/V tuyển/N thí_sinh/V được/R thi/V nhiều/A môn/N tự/V chọn/V theo/V qui_định/V vào/E ngành/N mà/N mình/P đăng_kí/V và/N điểm/N môn/N tự/N chọn/V cao/A nhất/A sẽ/R được/V chọn/V để/E tính/V tổng/N điểm/N xét/V tuyển/N
+Một/M thí_sinh/N có_thể/A dùng/V kết_quả/N kì/N thi/V để/E xét/V tối_đa/A ba/N ngành/N đã/R đăng_kí/V trong/E kì/N thi/V kiểm_tra/V năng_lực/N
+Điểm_chuẩn/V các/L ngành/N như/C sau/N
+STT/Np
+MÃ/M NGÀNH/N
+TÊN/N NGÀNH/N
+ĐIỂM/N TRÚNG/V TUYỂN/N
+Chương_trình/N do/C đại_học/N quốc_tế/N cấp/V bằng/N chương_trình/N trong/N nước/N
+52420201/M
+Công_Nghệ_Sinh_Học/Np
+15027/M
+52480201/M
+Công_Nghệ_Thông_Tin/Np
+15833/M
+52540101/M
+Công_Nghệ_Thực_Phẩm/Np
+15200/M
+52440112/M
+Hoá_Sinh/Np
+15833/M
+52520207/M
+Kỹ_Thuật_Điện_Tử/Np Truyền_Thông/Np
+13931/M
+52520216/M
+Kỹ_Thuật_Điều_Khiển/Np và/N Tự_Động_Hoá/Np
+14860/M
+52510602/M
+Kỹ_Thuật_Hệ_Thống_Công_Nghiệp/Np
+14410/M
+52900109/M
+Kỹ_Thuật_Không_Gian/Np
+13410/M
+52520320/M
+Kỹ_Thuật_Môi_Trường/Np
+12833/M
+52580208/M
+Kỹ_Thuật_Xây_Dựng/Np
+13131/M
+52520212/M
+Kỹ_Thuật/Np Y_Sinh/Np
+16127/M
+52510605/M
+Logistic/N và/N Quản_Lý_Chuỗi_Cung_Ứng/Np
+16264/M
+52220201/M
+Ngôn_Ngữ_Anh/Np
+16232/M
+52620305/M
+Quản_Lý_Nguồn_Lợi_Thuỷ_Sản/Np
+12288/M
+52340101/M
+Quản_Trị_Kinh_Doanh/Np
+16500/M
+52340201/M
+Tài_Chính/Np –/V Ngân_Hàng/Np
+16000/M
+52460112/M
+Toán_Ứng_Dụng/Np
+15074/M
+Toàn_bộ/N các/L ngành/N của/E chương_trình/N liên_kết/V đều/R lấy/V điểm_chuẩn/N 12000/M
+Những/L thí_sinh/N muốn/V phúc_khảo/V điểm/N thi/V có_thể/N gửi/V đơn_từ/N nay/P đến/E hết/V ngày/N 1562017/M tại/E phòng/N đào_tạo/V đại_học/N A2708/M Trường/N ĐH/N Quốc_tế/N khu_phố/N 6/M phường/N Linh_Trung/Np QT/Np hủ/V Đức/Np TPHCM/Np
+Lệ_phí/N phúc_khảo/V một/M môn/N thi/V là/V 30000/M đồng/N
+PGSTS/Np Hồ_Thanh_Phong/Np hiệu_trưởng/N Trường/N ĐH/N Quốc_tế/Np cho/V biết/V nhà_trường/N sẽ/R nhanh_chóng/A gửi/V đến/E các/L thí_sinh/N và/CC phụ_huynh/N phiếu/N báo/N trúng_tuyển/V có/V điều_kiện/N đậu/V kì/N thi/V THPT/Np quốc_gia/N được/V tổ_chức/V vào/E cuối/N tháng/N 62017/M
+Năm/N 2017/M Trường/N ĐH/N Quốc_tế/N quyết_định/V chọn/V tuyển_sinh/N theo/V bốn/M phương_thức/N kết_hợp/V với/E các/L chỉ_tiêu/N cụ_thể/N 50/M chỉ_tiêu/N dành/V cho/R sử_dụng/V kết_quả/N kì/N thi/V THPT/Np 2017/M
+xét/N tuyển/V thẳng/A học_sinh/N đoạt/V giải/N trong/E các/L kì/N thi/V học_sinh/N giỏi/N quốc_gia/N quốc_tế/N chiếm/V tối_đa/A 5/M
+xét/N tuyển/V thẳng/N học_sinh/N giỏi/A của/E các/L trường/N THPT/Np chuyên/A năng_khiếu/V với/E chỉ_tiêu/N tối_đa/A 10/M
+và/N sử_dụng/V kết_quả/N kì/N thi/V kiểm_tra/V năng_lực/N chiếm/V 35/M
+Để/E tra_cứu/V điểm/N thí_sinh/A và/CC phụ_huynh/N chỉ/R cần/V vào/V đường/N link/N website/N của/E nhà_trường/N thực_hiện/V theo/E các/L hướng_dẫn/N để/E biết/V kết_quả/N chính_thức/A của/E thí_sinh/N httptuyensinhhcmiueduvnkiemtrananglucpublicxemdiemthi/N
+TRẦN/M HUỲNH/N

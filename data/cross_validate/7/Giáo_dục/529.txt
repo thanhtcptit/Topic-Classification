@@ -1,0 +1,6 @@
+ĐH_Y/Np dược/V TP_HCM/Np tuyển_sinh/V liên_thông/V đại_học/N
+Đại_học/N Y_dược/N TP_HCM/Np có/V kế_hoạch/N tuyển_sinh/V 147/M chỉ_tiêu/N ở/E 7/M ngành/N Dược_học/N Điều_dưỡng/N Điều_dưỡng/N chuyên_ngành/N hộ_sinh/V Điều_dưỡng/V chuyên_ngành/N gây_mê/V hồi_sức/V Xét_nghiệm/V y_học/N Phục_hồi/V chức_năng/N Kỹ_thuật/N hình_ảnh/N y_học/N
+Người/N đăng_ký/V dự/V thi/V liên_thông/V từ/E trung_cấp/N chuyên_nghiệp/A lên/V đại_học/N phải/V có/V bằng/N tốt_nghiệp/V trung_cấp/N chuyên_nghiệp/A đúng/A ngành/N đăng_ký/V dự/V thi/V từ/E 36/M tháng/N trở_lên/A tính/V tới/E ngày/N kết_thúc/V nộp/V hồ_sơ/N
+Ngoài_ra/C thí_sinh/N phải/V có/V thời_gian/N làm_việc/V liên_tục/A đúng/A ngành/N đào_tạo/V ít_nhất/A 12/M tháng/N trở_lên/A /V không/R bao_gồm/V thời_gian/N thực_hành/V nghề_nghiệp/N để/E lấy/V chứng_chỉ/N hành_nghề/V /V đến/E ngày/N dự/V thi/V
+Kỳ/N thi/V tổ_chức/V vào/E tháng/N 2/M năm/N sau/A với/E môn/N cơ_bản/A /V môn/N Toán/Np theo/V chương_trình/N THPT/Np hoặc/CC bổ_túc_văn_hóa/X hiện_hành/V /A môn/N cơ_sở/N ngành/N /V với/E ngành/N Dược_học/N là/V Hóa/Np phân_tích/V các/L ngành/N khác/A thi/V môn/N Giải_phẫu/V sinh_lý/V /A và/CC các/L môn/N chuyên_ngành/N
+Thí_sinh/N dự/V thi/V phải/V đạt/V điểm/N mỗi/M môn/N từ/E 5/M điểm/N trở_lên/A theo/E thang/N điểm/N 10/M

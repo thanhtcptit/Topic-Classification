@@ -1,0 +1,16 @@
+Viết/V thư/N xin_lỗi/V giáo_sư/N sinh_viên/N Mỹ/Np nhận/V được/R phản_hồi/V bất_ngờ/A
+Morgan_King/Np sinh_viên/N Đại_học/N Tennessee/Np /V Mỹ/Np /V gặp/V nhiều/A khó_khăn/N khi/N vừa/R nuôi/V con/N vừa/R đi/V học/V
+Ngoài/E thời_gian/N ở/E trường/N cô/N làm/V thêm/V buổi/N tối/N ở/E một/M nhà_hàng/N để/E lo/V cho/E cuộc_sống/N của/E con_gái/N nhỏ/A Korbyn/Np
+Bà_mẹ/N đơn_thân/A 21/M tuổi/N phải/V bỏ/V lỡ/V một/M buổi/N học/V quan_trọng/A ngày/N 14/6/M bao_gồm/V bài/N kiểm_tra/V vấn_đáp/V và/CC một/M bài_tập/N lớn/A do/C không/R tìm/V được/R người/N trông/V Korbyn/Np
+Cô/N đã/R viết/V email/N xin_lỗi/V giáo_sư/N bộ_môn/N tiến_sĩ/N Sally/Np B/Np
+Hunter/Np và/CC vô_cùng/R ngạc_nhiên/V khi/N nhận/V được/R phản_hồi/V vào/R hôm_sau/N
+Bức/Nc email/N được/V cô/N đăng/V lên/R mạng/N xã_hội/N Twitter/Np và/CC nhanh_chóng/A lan_truyền/V mạnh_mẽ/A với/E hơn/R 26 0/M lượt/N thích/V gần/A 5 0/M lượt/N chia_sẻ/V
+Bored_Panda/Np ngày/N 29/6/M đăng/V lại/R nội_dung/N bức/Nc thư/N mở_đầu/V bằng/E câu/N nói/V đầy/A quan_tâm/V Chúng_tôi/P thắc_mắc/V không/R biết/V sáng/N hôm/N đó/P em/N ở/E đâu/P và/CC bày_tỏ/V sự/Nc cảm_thông/V đối_với/E vấn_đề/N chăm_sóc/V con_nhỏ/N
+Sau_này/N nếu/C em/N gặp/V vấn_đề/N với/E việc/N tìm/V người/N trông/V Korbyn/Np hãy/R đưa/V bé/N đến/V lớp/N cùng/A em/N
+Tôi/P rất/R vui/A có_thể/A trông/V bé/N khi/N đang/R dạy/V để/E em/N tập_trung/V vào/E bài/N giảng/N
+Hãy/R cho/V tôi/P biết/V tôi/P còn/R có_thể/A làm_gì/X khác/A giúp/V em/N bà/N viết/V
+Giáo_sư/N còn/R thổ_lộ/V làm_việc/V cho/E Trung_tâm/N nghiên_cứu/V gia_đình/N và/CC trẻ/N nhỏ/A do_vậy/C rất/R hoan_nghênh/V con_gái/N Korbyn/Np đến/V lớp/N
+Bà/N cẩn_thận/A dặn/V Morgan/Np cách/V hoàn_thành/V bài_tập/N và/CC đừng/R lo_lắng/V bởi/E lý_do/N vắng_mặt/V của/E cô/N được/R chấp_nhận/V  /EOS
+Hàng/R nghìn/M người/N dùng/V mạng/N xã_hội/N xúc_động/V trước/E cách/N giải_quyết/V của/E giáo_sư/N
+Những/L lời_lẽ/N chân_thành/A của/E bà/N trở_thành/V câu_chuyện/N truyền/V cảm_hứng/N trên/E các/L phương_tiện/N truyền_thông/N ở/E Mỹ/Np
+Cộng_đồng/N cho/V rằng/C đôi_khi/R những/L lời/N đề_nghị/V giúp_đỡ/V một/M việc/N rất/R nhỏ/A trong/E hoàn_cảnh/N khó_khăn/A có_thể/R mang/V đến/E sự/Nc thay_đổi/V lớn/A cho/E cuộc_đời/N một/M con_người/N

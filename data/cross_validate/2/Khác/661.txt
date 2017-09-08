@@ -1,0 +1,60 @@
+Ứng_dụng/N lừa_đảo/V kiếm/V hơn/R 80 0/M USD/Nu mỗi/L tháng/N trên/A App_Store/Np
+Tại/E WWDC/Np 2017/M Apple/Np công_bố/V đã/R trả/V  /A 70/M triệu/N USD /Np cho/E các/L nhà_phát_triển/N và/CC chỉ/R riêng/A năm_ngoái/N là/V 21/M triệu/M USD/Nu chiếm/V 30%/M
+Đó/P quả_thực/V là/V con_số/N tăng/V đột_biến/N và/CC gây/V ngạc_nhiên/V khiến/V cây_bút/N Johnny_Lin/Np tìm_hiểu/V và/CC muốn/V tìm_hiểu/V các/L nguồn/N thu/N này/P đến/V từ/E đâu/P
+Anh/N đã/R có/V bài/N phân_tích/V trên/E trang/N Medium/Np Tôi/P mở/V App_Store/Np để/E xem/V những/L ứng_dụng/N có/V doanh_thu/N cao/A
+Trong/E mục/N Productivity/Np xuất_hiện/V những/L phần_mềm/N đến/V từ/E các/L công_ty/N nổi_tiếng/A như/C Dropbox/Np Evernote/Np hay/C Microsoft/Np và/CC điều/N này/P hoàn_toàn/A nằm/V trong/E dự_kiến/N
+Nhưng/C ở/E hạng/N 10/M là/V ứng_dụng/N có/V tên/N Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np /A tạm/A dịch/V Bảo_vệ/N di_động/V Làm/V sạch/A &/CC Bảo_mật/V mạng/N riêng/A ảo/A /M
+Cái/Nc tên/N này/P thật/T kinh_khủng/A viết/V hoa/N không/R thống_nhất/A sai/A quy_tắc/N dấu/N /M dấu_hai_chấm/N lại/R có/V khoảng_cách/N ở/E trước/E /N và/CC cụm_từ/N Clean/Np &/CC Security/Np VPN/Np vô_nghĩa/A về/V ngữ_pháp/N
+Tôi/P chắc_chắn/V đây/P là/V một/M lỗi/N trong/E thuật_toán/N xếp_hạng/V nên/C đã/R kiểm_tra/V trên/E  /N Sensor_Tower/Np để/E ước_tính/V doanh_thu/N của/E nó/P
+Thật/R không_thể/R tin/V được/V khi/N ứng_dụng/V trên/E có_thể/R thu/V về/R 80 0/M USD/Nu /M khoảng/N 1,8/M tỷ/N đồng/N /A mỗi/M tháng/N
+Tôi/P bấm/V vào/R để/E xem/V chi_tiết/N ứng_dụng/V thì/C thấy/V rằng/C nhà_phát_triển/N là/V Ngan_Vo_Thi_Thuy/Np
+Như_vậy/C đây/P là/V một/M dịch_vụ/N VPN/Np được/V cung_cấp/V bởi/E một/M nhà_phát_triển/N độc_lập/A thay_vì/V một/M công_ty/N
+Chỉ/R riêng/A vậy/P cũng/R là/V báo_động/V đỏ/A
+Lý_do/N là/V ứng_dụng/V VPN/Np nắm/V giữ/V toàn_bộ/L các/L tuyến/N truy_cập/V Internet/Np trên/E thiết_bị/N của/E bạn/N thông_qua/V một/M máy_chủ/N thứ_ba/N
+Vì_thế/C chắc_chắn/V bạn/N sẽ/R không/R muốn/V giao/V quyền/N kiểm_soát/V Internet/Np cho/E một/M cá_nhân/N với/E một/M ứng_dụng/N mà/C cái/Nc tên/N viết/V cũng/R không/R chuẩn/A
+Nhưng/C nguy_hiểm/A hơn/R là/V phần/N mô_tả/V về/E ứng_dụng/N khủng_khiếp/A này/P
+Theo/E đó/P Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np có/V đầy_đủ/A tính_năng/V như/C bảo_vệ/V điện_thoại/N /V Mobile/N protection/V /N bao_gồm/V bảo_vệ/V người/N dùng/V khỏi/R các/L liên_hệ/V trùng_lặp/N quét/V toàn_bộ/N kết_nối/V Internet/Np
+Giữa/E hai/M vấn_đề/N này/P chẳng/R có/V chút/N liên_quan/V nào/P cả/T
+Với/E những/L báo_động/V trên/A tôi/P đã/R không/R lập_tức/V tải/N ứng_dụng/V này/P về/E
+Trước_hết/N tôi/P lượn/V qua/E một/M vòng/N để/E xem/V đánh_giá/N của/E người/N dùng/V về/E nó/P thì/C toàn/R là/V các/L chấm/N điểm/N 5/M sao/P giả_mạo/V
+Lần/V theo/E đánh_giá/N tôi/P quyết_định/V xem/V ứng_dụng/N này/P được/V đưa/V lên/R App_Store/Np từ/E khi/N nào/P
+Theo/E  /N Sensor_Tower/Np Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np đã/R nằm/V trong/E top/N 20/M ứng_dụng/N Productivity/Np  /V có/V doanh_thu/N cao/A nhất/A từ/E 20/4/M tức/C gần/A 2/M tháng/N nay/P
+Tò_mò/V về/E ứng_dụng/N có/V doanh_thu/N hàng_đầu/N này/P tôi/P đã/R tải/N nó/P về/V
+Đầu_tiên/N phần_mềm/N đòi/V quyền/N truy_cập/V danh_bạ/N This/Np app/V need/N to/A cccess/N to/A your/A Contact/Np to/A scan/V your/N Contact/Np first/V
+Tùy/V chọn/V duy_nhất/A mà/C nó/P đưa/V ra/R là/V Đồng_ý/V sau/E đó/P i/N OS/Np đã/R hỏi/V tôi/P có/V cho_phép/V ứng_dụng/N truy_cập/V danh_bạ/N không/R
+Dĩ_nhiên/A là/C tôi/P sẽ/R không_thể/R chấp_nhận/V với/E một/M phần_mềm/N viết/V sai/A từ/E cccept/N /V viết/V đúng/A là/C accept/N /M
+Bỏ_qua/V điều/N đó/P ứng_dụng/V cho_biết/V thiết_bị/N của/E tôi/P đang/R gặp/V nguy_hiểm/A
+Nó/P cũng/R sẵn_sàng/A để/E phân_tích/V thiết_bị/N quét/V nhanh/A và/CC quét/V toàn_bộ/L bảo_vệ/V Internet/Np
+Tôi/P bấm/V vào/E Device_Analyze/Np ứng_dụng/V hiển_thị/N bộ_nhớ/N sử_dụng/V và/CC bộ_nhớ/V trống/A trên/E máy/N của/E tôi/P một/M tính_năng/N vô_dụng/V và/CC chẳng/R liên_quan/V
+Chọn/V Quick_Scan/Np and/CC Full_Scan/Np nó/P báo/V Your/Np contact/V is/V cleaned/N
+No/A dupplicated/N found/N  /M /N Danh_bạ/N của/E bạn/N sạch/A không/R tìm/V thấy/V trùng_lặp/N nào/P /V
+Vấn_đề/N chính_tả/V lại/R xuất_hiện/V ở/E đây/P có_lẽ/X từ/E dupplicated/N đã/R bị/V thừa/V chữ/N p/V ở/E cuối/N
+Cuối_cùng/A tôi/P bấm/V vào/E Secure_Internet/Np và/CC đây/P là/V những/L gì/P phần_mềm/N hiện/V ra/R
+Nó/P hào_phóng/A đề_xuất/V một/M trò_chơi/N bắn/V bóng/N có_thể/A thưởng_thức/V mà/C không/R cần/V cài_đặt/V và/CC dĩ_nhiên/A tôi/P không/R sẵn_sàng/A để/E thử/V món/N quà/N này/P nên/C bấm/V dấu/N X/Np để/E thoát/V ra/R
+Một/M màn_hình/N xanh/A hiện/V lên/R và/CC đây/P chính/T là/V phần/N lừa_đảo/V
+Ứng_dụng/N nói/V tôi/P có_thể/R Ngay_lập_tức/R sử_dụng/V toàn_bộ/L ứng_dụng/N diệt/V virus/N thông_minh/A bằng/E cách/N bấm/V vào/E nút/N dùng/V thử/V miễn_phí/V
+Nó/P nói/V là/C miễn_phí/V hoàn_toàn/A miễn_phí/V nhưng/C không/R phải/V vậy/P
+Một/M bảng/N thông_báo/N của/E i/N OS/Np hiện/V ra/R yêu_cầu/V xác_nhận/V vân/N tay/N
+Nếu/C chạm/V vào/R đồng_nghĩa/V với/E việc/N bạn/N sẽ/R đăng_ký/V thuê_bao/N sử_dụng/V nó/P với/E giá/N 99,99/M USD/Nu mỗi/M tuần/N một/M tháng/N sẽ/R vào_khoảng/X 400/M USD/Nu
+Làm/V thế_nào/P để/E  /V Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np thu/V về/R 80 0/M USD/Nu mỗi/M tháng/N
+Nếu/C giá/N thuê_bao/A 400/M USD/tháng/Np kẻ/N đứng/V sau/E nó/P chỉ/R cần/V lừa/V được/R 200/M người/N sử_dụng/V và/CC sẽ/R thu/V về/R 960 0/M USD/Nu mỗi/M năm/N
+Trong/E khoản/N tiền/N này/P Apple/Np thu/V được/R 30%/M tức/V 288 0/M
+USD/năm/Np chỉ/R riêng/A từ/E ứng_dụng/N này/P
+Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np đang/R xếp_hạng/V 144/M trong/E số/N những/L ứng_dụng/N miễn_phí/V được/V tải/N về/E nhiều/A nhất/R trên/E App_Store/Np với/E khoảng/N 50/M nghìn/N lượt/N tải/N trong/E tháng/N 4/M
+Để/E có/V được/R 200/M người/N đăng_ký/V thuê_bao/N thì/C tỉ_lệ/N chuyển_đổi/V chỉ/R là/V 0,4%/M hoặc/CC thậm_chí/R ít/A hơn/R vì/E các/L thuê_bao/N này/P sẽ/R tự_động/A gia_hạn/N
+Với/E người/N sành/V công_nghệ/N thì/C không/R nói/V nhưng/C với/E ai/P gà_mờ/V một_chút/N hoặc/CC vô_tình/A chạm/V vào/E cảm_biến/N vân/N tay/N thì/C đã/R được/V sử_dụng/V miễn_phí/V phần_mềm/N diệt/V virus/N này/P với/E giá/N 99,99/M USD/tuần/Np
+Nhưng/C làm_sao/X để/E ứng_dụng/V này/P có/V được/R 50 0/M lượt/N tải/N về/E đầu_tiên/N
+Phần_lớn/N các/L ứng_dụng/N được/V phát_hiện/V thông_qua/V cơ_chế/N tìm_kiếm/V của/E App_Store/Np và/CC rất/R có_thể/A  /V Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np đã/R được/V làm/V ra/R nhằm/V tối_ưu/A cho/E bộ_máy/N tìm_kiếm/V /N SEO/Np /M
+Tôi/P quyết_định/V tìm_kiếm/V trên/E App_Store/Np với/E từ_khóa/N virus/N scanner/N và/CC kết_quả/N đầu_tiên/A trả/V về/R là/V quảng_cáo/N Protection/Np for/V i/N Phone/Np —/V Mobile_Security/Np VPN/Np
+Cái/Nc tên/N nghe/V quen_quen/V và/CC nó/P cũng/R có/V mục/N sử_dụng/V miễn_phí/V nhưng/C phải/V trả/V 99,99/M USD/Nu
+Hiện/N ứng_dụng/V này/P đang/R xếp_hạng/V 33/M trong/E mục/N  /V Business/Np
+Hóa_ra/X những/L kẻ/N lừa_đảo/V đã/R lạm_dụng/V tính_năng/N quảng_cáo/V khi/N tìm_kiếm/V trên/E App_Store/Np một/M mục/N mà/C Apple/Np mới/R đưa/V vào/R nên/C chưa/R có/V quy_trình/N chọn_lọc/V hay/C phê_duyệt/V quảng_cáo/N
+Trong/E khi/N đó/P người/N dùng/V hầu_như/R không/R phân_biệt/V được/R đâu/P là/V kết_quả/N tìm_kiếm/V thực_sự/A đâu/P là/V quảng_cáo/N
+Đáng/V chú_ý/V hơn/A trong/E danh_sách/N những/L ứng_dụng/N có/V doanh_thu/N cao/A trên/E App_Store/Np thì/C còn/R nhiều/A phần_mềm/N lừa_đảo/V tương_tự/A
+Vấn_đề/N xảy_ra/V không_chỉ/C với/E từ_khóa/N virus/N scanner/N mà_còn/C với/E cả/P từ_khóa/N wifi/V khi/N mà/C những/L kẻ/N lừa_đảo/V dùng/V tiền/N mua/V toàn_bộ/L những/L vị_trí/N đầu/N khi/N hiển_thị/V kết_quả/N tìm_kiếm/V
+Ứng_dụng/N WEP/Np Password_Generator/Np trả/V về/E khi/N tìm/V với/E từ/E wifi/N thực_chất/N chỉ/R giúp/V tạo/V ra/R một/M chuỗi/Nc ngẫu_nhiên/A nhưng/C tính/V phí/N 50/M USD/tháng/Np
+Nó/P đã/R kiếm/V được/R 10 0/M USD/Nu mỗi/M tháng/N dù/C mới/R phát_hành/V trong/E tháng/N 4/M
+Nó/P có_thể/R là/V một/M bản_sao/N của/E  /N Mobile/N protection/V Clean/Np &/CC Security/Np VPN/Np và/CC kiểu/N lừa_đảo/V này/P đang/R trở_nên/V phổ_biến/V nên/C kẻ/N đứng/V sau/E đang/R sao_chép/V lẫn/V nhau/N
+Để/E tránh/V bị/V lừa_đảo/V trước_hết/N cần/V trang_bị/V kiến_thức/N về/E công_nghệ/N cho/E mình/P và/CC cho/E mọi/L người/N để/E phòng_trừ/V
+Nếu/C lỡ/V bấm/V vào/E đăng_ký/V hãy/R yêu_cầu/V hoàn/V lại/R tiền/N vì/E Apple/Np có/V chính_sách/N này/P có/V kèm/V điều_kiện/N
+Ngoài_ra/C hãy/R báo_cáo/V sai_phạm/N nếu/C phát_hiện/V bất_kỳ/R ứnng/N dụng/V lừa_đảo/V nào/P

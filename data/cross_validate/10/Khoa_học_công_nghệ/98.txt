@@ -1,0 +1,44 @@
+Đồng_hồ/N thông_minh/A Samsung_Gear/Np S2/Np ra/V m/N ​/N ắt/N
+Gear/N S2/Np có/V màn/N hình_tròn/V 12/M inch/N độ_phân_giải/N 360/M x/N 360/M pixel/N 302ppi/M mỏng/N 114mm/M và/N công_nghệ/N màn_hình/N Super/Np AMOLED/Np dùng/V trong/E smartphone/N Galaxy/Np S6/Np mặt/N kính/N cường_lực/N Gorilla/Np 3/M
+Samsung/N tích_hợp/N cảm/V biến/N đo/V ánh_sáng/N môi_trường/N xung_quanh/N
+Trải_nghiệm/N cơ_bản/A cho/V thấy/V người_dùng/N có/V thể/N điều_khiển/V qua/V cảm/N ứng/N chạm/V trên/E màn_hình/N hoặc/N qua/V viền/N xoay/N thông_minh/A trên/E mặt/N đồng_hồ/N
+Một_số/N thao_tác/N dùng/V viền/N xoay/V khá/N tiện_lợi/A cũng/R như/A hai/M nút/N vật_lí/N Home/Np giao_diện/V chính/A và/N Back/Np trở_lại/V
+Như/A các/L đồng_hồ/N dùng/V hệ/N điều_hành/V Android_Wear/Np của/E Google/Np đồng_hồ/N Gear/Np S2/Np dùng/V Tizen/Np cũng/R tích_hợp/V sẵn/A nhiều/A ứng/N dụng/N đo_lường/A theo_dõi/V sức_khoẻ/N như/C đo/N nhịp/N tim/N ứng_dụng/A theo_dõi/N bước/V chân/N ứng_dụng/N tin_tức/N và/CC giải_trí/V
+Tại/E VN/Np Samsung/Np chỉ/R đưa/V đến/E phiên_bản/N Gear/Np S2/Np màu/N xám/A đen/A và/CC Gear/Np S2/Np Classic/Np màu/N đen/A hỗ_trợ/V kết_nối/N Bluetooth/Np WiFi/V và/CC NFC/Np không/R có/V phiên_bản/N Gear/Np S2/Np hỗ_trợ/V kết_nối/N 3G/N tích_hợp/V SIM/Np điện_tử/N e/N SIM/Np chỉ/V phát/V hành_tại/N Hàn_Quốc/Np và/CC Mỹ/Np
+Giá/N bán/V tham/N khảo/V 6490000/M đồng/Nu cho/V Gear/Np S2/Np và/CC 7490000/M đồng/Nu cho/V Gear/Np S2/Np Classic/Np
+Thông_số/N kĩ_thuật/N đồng_hồ/N thông/N minh/N phiên_bản/N Gear/Np S2/Np phiên/V bản/N WiFi/N
+Màn_hình/N
+12/M inch/N Circular_Super/Np AMOLED/Np 360x360/M 302ppi/N
+Vi/N xử_lí/N
+10/M GHz/N hai/M nhân/N
+Hệ/N điều_hành/V
+Hệ/N điều_hành/V Tizen/Np
+Âm_thanh/N
+Codec/N MP3/Np AACAAC/Np eAAC/V
+Format/N MP3/Np M4A/M AAC/Np OGG/Np
+Bộ/N nhớ/V
+Lưu_trữ/N Bộ/N nhớ/V trong/E 4GB/N RAM/Np 512/M MB/Np
+Tính_năng/N
+Danh_bạ/N Thông_báo/V Tin_nhắn/N Email/Np
+Văn_bản/N cài_đặt/V sẵn/N Tín_hiệu/N giọng/N nói/V Biểu_tượng/N cảm_xúc/N Bàn_phím/V
+S_Health/Np Nike/Np Running/Np
+Lịch_trình/N Tin_tức/N Bản_đồ/N amp/N
+Định_vị/N Thời_tiết/N
+Nghe/V nhạc/N Thư_viện/N
+S_Voice/Np Ghi_âm/V Tìm/V thiết_bị/N của/E tôi/P Chế_độ/N tiết_kiệm/V pin/N Hỗ_trợ/V an_toàn/N Khoá/Np riêng_tư/N
+Chứng_nhận/N độ/N kín/A IP68/N Chống/V bụi/N và/CC Chống/V thấm/V nước/N
+Dịch_vụ/N Samsung/Np
+Các/L ứng_dụng/N Samsung_Gear/Np
+Kết_nối/N
+WiFi/N 80211/M bg/N n/N
+Bluetooth/N 41/M
+NFC/Np
+Cảm_biến/N
+Accelerometer/N Gyroscope/Np Heart_Rate/Np Ambient_Light/Np Barometer/Np
+Kích_thước/N
+Gear/N S2/Np 423x498x114mm/V 47g/N
+Gear/N S2/Np classic/V 399x436x114mm/N 42g/M
+Pin/N
+Sạc/N không/R dây/N
+250mAh/N Liion/Np phiên_bản/V 3G/N là/V 300mAh/M
+Sử_dụng/V 2/M ~/N 3/M ngày/N

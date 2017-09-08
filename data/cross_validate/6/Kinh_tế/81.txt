@@ -1,0 +1,7 @@
+​/N 690/M chuyến/N bay/V bị/V chậm/N chuyến/V trong/E nửa/N tháng/N 62017/M
+Cảng_Hàng_không/N quốc_tế/N Nội_Bài/Np vừa/R gửi/V công_văn/N yêu_cầu/V các/L hãng/N hàng_không/N Vietnam_Airlines/Np Vietjet_Air/Np Jetstar_Pacifics/Np tăng_cường/V kiểm_soát/V tàu_bay/N và/CC hạn_chế/V tối_đa/A việc/N chậm/A chuyến/N
+Trong/E thời_gian/N vừa_qua/X cảng/N Hàng_không/N quốc_tế/N Nội_Bài/Np liên_tục/V ghi_nhận/V việc/N tăng/V đột_biến/N số_lượng/N các/L chuyến/N bay/V bị/V chậm/N chuyến/N
+Theo/E thống_kê/N trong/E nửa/N đầu/N tháng/N 62017/M các/N hãng/N hàng_không/N Vietnam_Airlines/Np Vietjet_Air/Np Jetstar_Pacifics/Np có/V 690/M chuyến/N bay/V bị/V chậm/N chuyến/N
+Trong/E đó/P hãng/N hàng_không/N Vietjet_Air/Np dẫn_đầu/V với/E chậm/N 435/M chuyến/N trên/E tổng_số/N 1094/M chuyến/N Vietnam_Airliner/Np chậm/A 191/M trên/E tổng_số/N 1489/M chuyến/N Jetstar_Pacifics/Np chậm/A 64/M chuyến/N trên/E tổng_số/N 244/M chuyến/N
+Đa_phần/N các/L chuyến/N bị/V chậm/A đều/R vì/E lí_do/N khai_thác/V của/E các/L hãng/N hàng_không/N
+Trước/E thực_trạng/N trên/N cảng/N Hàng_không/N quốc_tế/N Nội_Bài/Np yêu_cầu/V các/L hãng/N hàng_không/N tăng_cường/V công_tác/V kiểm_soát/N tàu_bay/N đặc_biệt/A đối_với/E các/L chuyến/N bay/V đầu/N quốc/N tếnội_địa/N và/CC ngược_lại/N hạn_chế/V tối_đa/A việc/N chậm/A chuyến/N để/E giảm_thiểu/V tối_đa/N số_lượng/N chuyến/N bay/V bị/V chậm/N chuyến/N và/CC nâng/V cao/A chất_lượng/N phục_vụ/V hành_khách/N tại/E cảng/N Hàng_không/N quốc_tế/N Nội_Bài/Np

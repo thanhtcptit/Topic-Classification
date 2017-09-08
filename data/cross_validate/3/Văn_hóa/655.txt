@@ -1,0 +1,19 @@
+Bộ/N Văn/Np hóa/V yêu_cầu/V kiểm_tra/V việc/N lắp/V thang/N trong/E hang/N Sơn_Đoòng/Np
+Ông/N  /V Nguyễn_Thế_Hùng/Np Cục_trưởng/N Cục/N Di/V sản/N Văn_hóa/N cho_biết/V văn_bản/N của/E Bộ/N Văn/Np hóa/V đã/R yêu_cầu/V tỉnh/N Quảng_Bình/Np kiểm_tra/V thực_tế/N công_trình/N trong/E hang/N Sơn_Đoòng/Np  /M Nếu/C  /V việc/N lắp_đặt/V thang/N trong/E hang_động/N gây/V ảnh_hưởng/V đến/E cấu_tạo/N địa_chất/N thì/C tỉnh/N phải/V yêu_cầu/V tạm/A dừng/V  /V đồng_thời/R khẩn_trương/V báo_cáo/V Bộ/N về/E việc/N này/P Tỉnh/N Quảng_Bình/Np cho_biết/V đang/R kiểm_tra/V và/CC sẽ/R báo_cáo/V Bộ/N Văn/Np hóa/V trong/E vài/L ngày/N tới/V  /EOS
+Theo/E ông/Nc Hùng/Np chỉ_đạo/V của/E Bộ/N Văn/Np hóa/V dựa/V trên/E một_số/L thông_tin/N của/E báo_chí/N về/E việc/N lắp_đặt/V thang/N trong/E hang_động/N có_thể/R gây/V ảnh_hưởng/V đến/E cấu_tạo/N địa_chất/N  /EOS
+Gần/A cuối/N hang/N Sơn_Đoòng/Np có/V một/M kỳ_quan/N quý_hiếm/V được/R đặt/V tên/N là/C “/M Bức/Np tường/N Việt_Nam/Np ”/V cao/A 90/M m/Nu cấu_tạo/N bởi/E nhũ_đá/N có/V tuổi_đời/N đến/V hàng/R triệu/M năm/N được/V các/L chuyên_gia/N hang_động/N đánh_giá/V là/V kiệt_tác/N thiên_nhiên/N
+Phía/N sau/A bức/N tường/N là/V đoạn/N hang/N dài/A 600/M m/Nu và/CC có/V lối/N ra/V cửa/N sau/A  /EOS
+Do/E độ/N dốc/N cao/A trong/E hang/N nên/C doanh_nghiệp/N khai_thác/V tour/N du_lịch/V Sơn_Đoòng/Np dự_kiến/V lắp_đặt/V dây/N đai/N an_toàn/A định_vị/V thành/V lối/N đi/V bộ/N trên/E nền/N đá_vôi/N và/CC thiết_kế/V thang/N lắp_ghép/V bằng/E kim_loại/N không/R gỉ/V để/E phục_vụ/V du_khách/N thám/V hiếm/A trong/E hang/N  /EOS
+Đoạn/N đầu_tiên/A 25/M m/Nu sẽ/R dùng/V thang/N bằng/E thép_không_gỉ/N /M inox/N /A gắn/V dọc/A theo/E chiều_cao/N của/E bức/N tường/N
+Các/L đoạn/N thang/N sẽ/R nối/V với/E nhau/N bằng/E vít/N không/R gỉ/V và/CC không/R phải/V hàn_xì/V trong/E quá_trình/N gắn/V
+Thang/N được/V cố_định/V ở/E trên/E đỉnh/N và/CC dưới/E chân/N thang/N có_thể/R được/V tháo/V ra/R mà/C không/R gây/V tổn_hại/V đến/E hang/N theo/V chuyên_gia/N hang_động/N Hoàng_gia/N Anh/N Howard_Limbert/Np
+Phần/N còn/V lại/R sẽ/R dùng/V dây_leo/N núi/N gắn/V vào/E các/L móc/V khoá/N bằng/E thép_không_gỉ/N cố_định/A ở/E một_số/L điểm/N
+Đây/P là/V lối/N đi/V trên/E dốc/N 45/M độ/N dài/A 65/M m/Nu sử_dụng/V lối/N đi/V cũ/A của/E đoàn/N thám_hiểm/V dùng/V năm/N 2010/M không/R có/V thạch_nhũ/N
+Trong/E đó/P các/L chuyên_gia/N hang_động/N Anh/N tận_dụng/V 8/M móc/V an_toàn/N của/E đoàn/N thám_hiểm/V đã/R gắn/V trước_đây/N để/E gắn/V dây/N an_toàn/N cho/E du_khách/N và/CC nhân_viên/N khi/N leo/V dốc/N
+Phương_án/N lắp/V thang/N cho/E du_khách/N vượt/V qua/R Bức/Np tường/N Việt_Nam/Np đã/R được/V UBND/Np tỉnh/N Sở/N Du/Np lịch/N Quảng_Bình/Np chấp_thuận/V và/CC đang/R trong/E giai_đoạn/N thử_nghiệm/V
+Trước_đây/N khi/N đến/V Bức/Np tường/N Việt_Nam/Np khách/N du_lịch/V sẽ/R quay/V lại/R đường/N cũ/A
+Với/E phương_án/N vượt/V qua/R bức/Nc tường/N này/P thời_gian/N thám_hiểm/V hang/N Sơn_Đoòng/Np sẽ/R được/V rút/V từ/E 5/M ngày/N còn/R 3/M ngày/N
+Theo/E các/L chuyên_gia/N hang_động/N điều/N này/P giúp/V các/L tác_động/N của/E du_khách/N đến/E hang/N Sơn_Đoòng/Np được/V giảm/V đáng_kể/A
+Hơn_nữa/C khi/N có/V thang/N công_tác/N cứu_hộ/V cứu/V nạn/N đối_với/E du_khách/N gặp/V sự_cố/N sẽ/R được/V thực_hiện/V nhanh/A hơn/R
+Tuy_nhiên/C một_số/L ý_kiến/N cho/V rằng/C nếu/C khai_thác/V du_lịch/N xuyên/V động/N bằng/E cách/N lắp/V thang/N leo/V dây/N vượt/V qua/R “/M Bức/Np tường/N Việt_Nam/Np ”/M thì/C khối/N thạch_nhũ/V tại/E đây/P sẽ/R bị/V ảnh_hưởng/V  /EOS
+Hang_Sơn_Đoòng/Np có/V chiều/N rộng/A 150/M m/Nu cao/A 200/M m/Nu dài/A gần/A 9/M km/Nu được/R phát_hiện/V vào/E năm/N 2009/M là/V một/M phần/N của/E hệ_thống/N ngầm/N nối/V với/E hơn/R 150/M động/N khác/A ở/E Việt_Nam/Np gần/A biên_giới/N với/E Lào/Np

@@ -1,0 +1,15 @@
+Apple/N mở/V mạng/N 4G/M cho/N iPhone/M tại/E Vi/Np ​/N ệt/V Nam/Np
+Hiện_Viettel/Np chỉ/R mới/R thử_nghiệm/V phát_sóng/N 4G/N LTE/Np qua/V SIM/Np 4G/N ở/V ba/N khu_vực/N Bà/N Rịa/Np Vũng_Tàu/Np Long_Điền/Np từ/E tháng/N 122015/M
+Khách/N hàng/N Viettel/Np tại/E ba/N khu_vực/N này/P được/V đổi/V SIM/Np 4G/M miễn_phí/N
+Người_dùng/V kiểm_tra/V thiết_bị/N đã/R hỗ_trợ/V 4G/M LTE/Np chưa/R bằng/A cách/V vào/E Cài_đặt/N Settings/Np chọn/V Cài_đặt/N chung/A General/Np Giới_thiệu/V About/Np tìm/V mục/N Nhà/Np cung_cấp/V Carrier/Np
+Nếu/C thông_tin/V nhà/N cung_cấp/V hiện_tại/N không/R phải/A là/V Viettel/Np 241/M nghĩa_là/N thiết_bị/N chưa/R hỗ_trợ/V 4G/M LTE/Np
+Người_dùng/N chỉ/R cần/V cập_nhật/V hệ_điều_hành/N iOS/N 93/M và/N cài_đặt/N nhà/N cung_cấp/V là/V có_thể/N sử_dụng/V được/R dịch_vụ/V 4G/M
+Cập_nhật/V sửa/V lỗi/N sau/E khi/N nâng_cấp/V iOS/N 93/M
+Sau/E khi/N Apple/Np phát_hành/V bản/N cập_nhật/V iOS/N 93/M ngày/N 223/M giờ/N VN/Np người_dùng/V iPhone/N 5S/N và/CC iPad/N Air/Np trở/V về/V trước/N phản_ánh/N thiết_bị/N của/E họ/P rơi/V vào/V trạng_thái/N không_thể/A kích_hoạt/V với/E thông_báo/N hiển_thị/N trên/N màn_hình/N
+activation/N server/N is/N temporarily/N unavailable/N máy_chủ/N kích_hoạt/N tạm_thời/V không/R sẵn_sàng/A
+Apple/Np vừa/R cập_nhật/V vào/E luôn/N iOS/N 93/M bản/N mới/R 135236/M so/V với/E bản/N cũ/A 13E233/M bỏ/N khâu/N chứng_thực/N mật_khẩu/N tài_khoản/N Apple/Np ID/Np khi/N cập_nhật/V iOS/N 93/M dẫn/N đến/V thông_báo/V lỗi/N không_thể/A kích_hoạt/V này/N
+Nếu/C iPhone/N hiển_thị/N thông_báo/V như/C trên/N sau/N khi/N nâng_cấp/V iOS/N 93/M Apple/Np hướng_dẫn/V người_dùng/N đăng_nhập/V vào/E iCloudcom/N trên/N máy_tính/N PC/Np mở/V phần/N Cài_đặt/N Settings/Np Các/L thiết_bị/N của/E tôi/P My_Devices/Np xác_nhận/V thiết_bị/N có_mặt/V trong/E phần/N My_Devices/Np
+Hoặc/C có_thể/A kết_nối/V iPhone/N iPad/N và/CC iPod/N Touch/Np và/CC máy_tính/N bằng/E cáp/N mở/V iTunes/N đã/R nâng_cấp/V phiên_bản/N iTunes/N mới/A nhất/R chọn/V thiết_bị/N đang/R kết_nối/V màn_hình/N hiển_thị/N yêu_cầu/V kích_hoạt/N Activate/Np
+Điền/N tài_khoản/N Apple/Np ID/Np và/CC mật_khẩu/V vào/V nhấn/N Continue/Np
+Đối_với/N máy_tính_bảng/N iPad/N 2/M phiên_bản/N GSM/Np phần/N xử_lí/V được/R Apple/Np hướng_dẫn/V tại/V đây/P
+Apple/N khuyến_cáo/N người_dùng/N không/R am_hiểu/V về/E kĩ_thuật/N có_thể/R đến/V các/L trung_tâm/N dịch_vụ/N hỗ_trợ/V khách/N hàng/N do/N Apple/Np uỷ_quyền/V

@@ -1,0 +1,14 @@
+Lỗi_Chrome/Np khiến/V người/N dùng/V vô_tình/A N mời/V V hacker/N theo_dõi/V
+Theo/E IBTimes/Np lỗ_hổng/V được/R phát_hiện/V bởi/E Ran_Bar/Np Zik/Np một/M nhà_phát_triển/N của/E AOL/Np
+Ông/N đánh_giá/V lỗ_hổng/N này/P là/V nghiêm_trọng/A
+Thông_thường/A việc/N kích_hoạt/V camera/N hoặc/CC ghi_âm/V sẽ/R được/V Chrome/Np thông_báo/V
+Khi/N người/N dùng/V đồng_ý/V sử_dụng/V tính_năng/N này/P trên/E tab/N cũng/R xuất_hiện/V chấm/N tròn/A màu/N đỏ/A để/E hiển_thị/V quá_trình/N ghi_âm/V đang/R diễn/V ra/R
+Tuy_nhiên/C Bar-Zik/Np phát_hiện/V rằng/C trong/E một_số/L trường_hợp/N lỗi/N trình_duyệt/N cho_phép/V khởi/V chạy/V pop/N up/N để/E bắt_đầu/V ghi_âm/V và/CC quay/V video/N mà/C không/R hiển_thị/V chấm/N đỏ/A này/P
+Như_vậy/C người/N dùng/V có_thể/R vô_tình/A cấp/V phép/N cho/E trình_duyệt/N theo_dõi/V mình/P nhưng/C không/R hề/T hay_biết/V
+Bar-Zik/Np phát_hiện/V lỗi/N trên/E khi/N xử_lý/V một/M trang_web/N chạy/V mã/N WebRTC/Np giao_thức/N cho_phép/V phát/V video/N và/CC âm_thanh/N trực_tuyến/A trên/E Internet/Np theo/V thời_gian_thực/N
+Ông/Nc sau/N đó/P đã/R gửi/V thông_báo/V đến/E Google/Np
+Google/Np đã/R lập_tức/V đưa/V ra/R phản_hồi/V
+Tuy_nhiên/C hãng/N không/R cho/V rằng/C đó/P là/V lỗ_hổng/N bảo_mật/V nhưng/C hứa/V sẽ/R tìm/V cách/N cải_thiện/V tình_hình/N
+Bar-Zik/Np không/R hài_lòng/V với/E câu/N trả_lời/V này/P
+Ông/N vẫn/R cho/V rằng/C Google/Np đã/R đánh_giá/V thấp/A vấn_đề/N và/CC người/N dùng/V có_thể/R bị/V theo_dõi/V nếu/C vô_tình/A cấp/V quyền/N truy_cập/V phần_cứng/N cho/E hacker/N
+Người/N dùng/V nên/C cảnh_giác/V đối_với/E các/L trang_web/N đòi/V quyền/N truy_cập/V micro/N và/CC camera/N để/E tránh/V hậu_quả/N đáng/V tiếc/V  /N Bar-Zik/Np cảnh_báo/V

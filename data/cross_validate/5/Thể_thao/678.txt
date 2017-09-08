@@ -1,0 +1,28 @@
+Giải/N cờ_vua/N trẻ/A toàn_quốc/N 2017/M Lệ_phí/N cao/A hơn/A tiền/N thưởng/V
+Giải_Cờ/Np vua/N trẻ/A toàn_quốc/N 2017/M do/E  /M Liên_đoàn/N Cờ_vua/N Việt_Nam/Np tổ_chức/V  /V diễn/V ra/R từ/E ngày/N 5/7/M đến/E 17/7/M với/E sự/Nc tham_dự/V của/E 916/M kỳ_thủ/N
+Giải/N có/V tổng_cộng/N 128/M bộ/N huy_chương/N chia/V ra/R làm/V bốn/M nội_dung/N cờ/N tiêu_chuẩn/N cờ/N nhanh/A cờ/N chớp/N và/CC cờ/N truyền_thống/N với/E tám/M nhóm/N tuổi/N nam/N nữ/N từ/E U6/Np đến/V U20/Np
+Theo/E điều_lệ/N của/E ban/N tổ_chức/V giải_thưởng/N cho/E ngôi/Nc vô_địch/N cá_nhân/N hạng/N cờ/N tiêu_chuẩn/N là/V 500 0/M đồng/Nu HC/Np bạc/N 300 0/M đồng/Nu và/CC HC/M đồng/Nu 200 0/M đồng/Nu
+Ở/E các/L thể_loại/N cờ/N khác/A mức/N thưởng/V giảm/V dần/R gồm/V cờ/N nhanh/A /M 400 0/M đồng/Nu  /N –/M 250 0/M đồng/Nu –/V 100 0/M đồng/Nu /N cờ/N chớp/V /N 300 0/M đồng/Nu –/A 200 0/M đồng/Nu –/A 100 0/M đồng/Nu /N và/CC cờ/N truyền_thống/A /A 200 0/M đồng/Nu /M
+Với/E nội_dung/N đồng_đội/N các/L VĐV/Np nằm/V trong/E top/N 3/M sẽ/R nhận/V phần_thưởng/N bằng/E hiện_vật/N của/E một/M nhà/N tài_trợ/V nước/N uống/V tương_ứng/V với/E giá_trị/N tiền_mặt/N ở/E nội_dung/N cá_nhân/N
+Ví_dụ/V HC/Np vàng/N cờ/N chớp/N đồng_đội/N nữ/N có/V phần_thưởng/N là/V một/M thùng/N nước/N bên/N ngoài/N ghi/V 24/M chai/N nhưng/C thực_chất/N bên/N trong/N chỉ/R có/V 12/M chai/N
+Một/M phụ_huynh/N kể/V Thấy/V hai/M con/N khiêng/V cái/Nc thùng/N nước/N về/E mà/C tội_nghiệp/A
+Về/V lệ_phí/N tham_dự/V một/M kỳ_thủ/N dự/V cả/P ba/M nội_dung/N cờ/N tiêu_chuẩn/N cờ/N nhanh/A và/CC cờ/N chớp/V sẽ/R phải/V đóng/V 450 0/M đồng/Nu nếu/C đăng_ký/V trước/E ngày/N 28/6/M
+Còn/C nếu/C muộn/A hơn/A lệ_phí/N là/V 750 0/M đồng/Nu
+Những/L kỳ_thủ/N không/R thuộc/V đơn_vị/N hay/C CLB/Np hội_viên/N của/E Liên_đoàn/N cờ/N Việt_Nam/Np thì_phải/V đóng/V lệ_phí/N tương_ứng/V là/V 750 0/M đồng/Nu /N đăng_ký/V sớm/A /M và/CC 1 0 0/M đồng/Nu /N đăng_ký/V muộn/A /M để/E ghi_danh/V tranh/N tài/N
+Các/L VĐV/Np dự/V giải/N được/V cấp/V áo/N thi_đấu/V và/CC nước/N uống/V miễn_phí/V nhưng/C phải/V tự_túc/V đi_lại/V và/CC ăn_ở/V trừ/V các/L vận_động_viên/N năng_khiếu/N tỉnh/N thành/V trực_thuộc/V Liên_đoàn/N cờ/N Việt_Nam/Np
+Tôi/P thực_sự/A chạnh_lòng/V dù/C các/L kỳ_thủ/N tham_gia/V giải/N cờ_vua/N toàn_quốc/N không/R phải/V để/E lấy/V phần_thưởng/N bằng/E vật_chất/N mà/C chủ_yếu/A là/V phần_thưởng/N bằng/E tinh_thần/N
+Nhưng/C ít_nhất/X đối_với/E những/L người/N có/V danh_hiệu/N thì/C  /V giải_thưởng/N phải/V cao/A hơn/R lệ_phí/N tham_dự/V
+Hơn_nữa/C giải/N lần/N này/P còn/R có/V tài_trợ/V từ/E một/M ngân_hàng/N lớn/A ông/Nc  /Np Lê_Viết_Hổ/Np Chủ_tịch/N CLB/Np cờ_vua/V Chess_Friends/Np chia_sẻ/V với/E  /N VnExpress/Np
+Ông/N Hổ/N  /V từng/R tổ_chức/V giải/N cờ_vua/N Không_Khoảng_Cách/Np với/E quy_mô/N hơn/A 600/M VĐV/Np tham_gia/V lệ_phí/N chỉ/R 100 0/M đồng/Nu mỗi/L người/N nhưng/C phần_thưởng/N dành/V cho/E giải/N nhất/A dao_động/V từ/E một_triệu/M đến/E năm/M triệu/M đồng/Nu bên_cạnh/N nhiều/A giải_thưởng/N riêng/A cho/E các/L VĐV/Np khuyết_tật/N
+Về/V lệ_phí/N và/CC giải_thưởng/N bà/N Nguyễn_Thị_Anh_Thư/Np tổng_thư_ký/N Liên_đoàn/N Cờ_vua/N Việt_Nam/Np cho_biết/V Lệ_phí/N tham_gia/V giải/N cờ_vua/N trẻ/A toàn_quốc/N đã/R được/V ghi/V cố_định/A trong/E điều_lệ/N giải/N và/CC không/R thay_đổi/V qua/E từng/P năm/N
+Thậm_chí/R phần_thưởng/N của/E giải/N năm/N nay/P cao/A hơn/R những/L năm/N trước/A một_chút/N
+Bên_cạnh/N đó/P chúng_tôi/P cũng/R trao/V thưởng/V thêm/V cho/E các/L VĐV/Np dự/V môn/N cờ/N truyền_thống/N một/M nội_dung/N còn/V mới_mẻ/A với/E làng/N cờ_vua/N Việt_Nam/Np
+Chúng_tôi/P đã/R cố_gắng/V nâng/V cao/A chất_lượng/N nhưng/C do/E còn/R nhiều/A chi_phí/N khác/A phải/V đưa/V cho/E nhà/N tài_trợ/V như/C vấn_đề/N truyền_thông/N áo/N thi_đấu/V  /N bà/N Thư/Np chia_sẻ/V thêm/V và/CC nói/V rằng/C ban/N tổ_chức/V không/R làm_việc/V trực_tiếp/A với/E nhà/N tài_trợ/V mà/C thông_qua/V một/M công_ty/N trung_gian/A
+Một/M vấn_đề/N khác/A khiến/V các/L phụ_huynh/N và/CC HLV/Np quan_tâm/V ở/E giải/N vừa_rồi/X là/V những/L thay_đổi/V lịch/N thi_đấu/V gấp_rút/A
+Ban/N tổ_chức/V chốt/V lịch/N trong/E điều_lệ/N là/V từ/E 5/7/M đến/E 17/7/M nhưng/C đến/E khi/N họp/V kỹ_thuật/N /A 4/7/M /Nu thì/C thông_báo/V là/V giải/N sẽ/R kết_thúc/V sớm/A hơn/R dự_kiến/V hai/M ngày/N
+Điều/N này/P khiến/V cho/E nhiều/A vận_động_viên/N phải/V ở/V lại/R thêm/V hai/M ngày/N do/E đã/R trót/V đặt/V phòng/N và/CC vé/N máy_bay/N ảnh_hưởng/V đến/E chi_phí/N sinh_hoạt/N cũng_như/C kế_hoạch/N của/E gia_đình/N họ/P
+Đây/P là/V quyết_định/N đã/R nhận/V được/R sự/Nc đồng_thuận/A của/E tất_cả/P thành_viên/N trong/E ban/N tổ_chức/V cũng_như/C các/L lãnh/V đội/N
+Tại/E giải/N này/P VĐV/Np có/V hai/M ngày/N nghỉ/V xen_kẽ/V các/L ngày/N thi_đấu/V
+Nhưng/C đơn_vị/N đăng_cai/N ngỏ/V ý_muốn/N sử_dụng/V hội_trường/N vào/E ngày/N cuối_cùng/A
+Vì_thế/C chúng_tôi/P đã/R quyết_định/V cho/E các/L em/N nghỉ/V hai/M ngày/N cuối/N
+Về/V cơ_bản/A điều/N này/P không/R có/V gì/P khác_biệt/A bà/Nc Thư/Np lý_giải/V

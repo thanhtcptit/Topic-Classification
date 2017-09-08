@@ -1,0 +1,15 @@
+​/N Lỗi/N 0/M day/N khó/A tránh/V trong/E tất_cả/N phiên_bản/N Word/Np
+Theo/E Fire_Eye/Np tin_tặc/N có_thể/A nhúng/V mã/N khai_thác/V lỗ_hổng/N vào/V trong/E file/N Word/Np đính/N kèm/V và/N gửi/V đi/V qua/V email/N
+Chỉ/R cần/V người_dùng/V máy_tính/N có/V cài_đặt/N Word/Np mở/V tập_tin/N đính/N kèm/V email/N là/V dính/V ngay/R thêm/V một/M tập_tin/N gây/V hại/V tự_động/N được/V tải_về/V từ/E máy_chủ/N của/E kẻ/N tấn_công/V
+Tập_tin/N được/V tải_về/V dạng/N ứng_dụng/N HTML/Np nên/V rất/R giống/A với/E dạng/N văn_bản/N RTF/Np Rich_Text_Format/Np của/N Microsoft/Np
+Nó/P còn/V kéo_theo/V anh_em/N đi/V cùng/A là/V một/M nhóm/N các/L tập_tin/N gây/V hại/V mã/N độc/A chưa/R xác_định/V
+Chuyên_gia/N bảo_mật/V lo_ngại/N với/E kiểu/N tấn_công/N này/P tin_tặc/N qua_mặt/V được/V cả/P hệ_thống/N phòng_chống/V tấn_công/V ngay/R cả/T trên/N Windows/Np 10/M đã/N cập_nhật/V bản/N vá/V mới/A nhất/R
+Điều/N đáng/R lo/V hơn/R là/V thậm_chí/N nạn_nhân/N không/R cần/V kích_hoạt/V chế_độ/N chạy/V mã/N Macro/Np trong/E Word/Np vẫn/R bị/V nhiễm/V
+Để/E xem/V một/M tập_tin/N văn_bản/N Word/Np an_toàn/N chuyên_gia/N từ/E McAfee/N khuyến_cáo/N nên/C mở/V ở/V chế_độ/N Xem/V an_toàn/A Protected_View/Np trong/N Word/Np
+Cụ_thể/N lưu/V save/N tập_tin/N Word/Np đính/N kèm/V trong/E email/N vào/V ổ_cứng/N và/CC đừng/V vội/V mở/V ra/R
+Thay/V vào/V đó/P chạy/V ứng_dụng/V Word/Np vào/V trình/V đơn/N File/Np Open/Np chọn/V mũi_tên/N kế/N Open/Np mở/V ra/R danh_sách/N Open/Np in/V Protected_View/Np
+Chế_độ/N Xem_An_toàn/N Protected_View/Np chỉ/R có_thể/A đọc/V nội_dung/N không/R hỗ_trợ/V bất_kì/N tính_năng/A chỉnh_sửa/N nội_dung/N nào/P khác/A
+Lỗ_hổng/N này/P thực_chất/N đã/R được/V FireEye/V khám_phá/V từ/E vài/L tuần/N trước/N và/CC đã/R liên_hệ/V Microsoft/Np để/E tạo/V bản/N vá/V cho/V người_dùng/N thông_tin/N được/V giữ/V kín/A cho/E đến/E khi/N bản/N vá/V được/R phát_hành/V
+Tuy_nhiên/C ngày/N 74/M vừa_qua/N Hãng/N bảo_mật/V McAfee/N đột_nhiên/N công_bố/V chi_tiết/N về/V lỗi/N nên/C ngày/N 84/M FireEye/N cũng/R đăng/V tải_về/N lỗi/N dạng/N 0/M day/N này/P trong/N Word/Np
+Kỳ_hạn/N cập_nhật/V định_kì/N của/E Microsoft/Np đối_với/N các/L sản_phẩm/N là/V vào/V Thứ_Ba/Np 114/M và/N chưa/R rõ/V bản/N vá/V lỗ_hổng/N này/P cho/V Word/Np có/V được/R phát_hành/V kịp_thời/A trong/E đợt/N này/P hay/R không/R
+Theo/E đó/P hàng/R triệu/M người_dùng/N Word/Np còn/R đang/R gặp/V nguy_hiểm/A

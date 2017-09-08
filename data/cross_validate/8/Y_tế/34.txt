@@ -1,0 +1,15 @@
+Hàng/R ngàn/M ca/N sốt_xuất_huyết/N ở/V Tây_Nam_Bộ/Np
+Tại_Cần_Thơ/Np Kiên_Giang/Np Trà_Vinh/Np Bến_Tre/Np số_lượng/N ca/N sốt_xuất_huyết/N vẫn/R đang/R cao/A hơn/A nhiều/A so/V với/E cùng/N kì/N
+Bác/N sĩ/N Bùi_Hùng_Việt/Np trưởng/N khoa/N sốt_xuất_huyết/N SXH/Np Bệnh_viện/N Nhi_đồng/N Cần_Thơ/Np cho/V biết/V tình_hình/N dịch_bệnh/N SXH/Np vẫn/R rất/R nóng/A
+Lượng/N bệnh_nhi/N nằm/V điều_trị/V tại/E khoa/N vào/E đầu/N tuần/N luôn_luôn/N trên/A 150/M ca/N vì_vậy/N bệnh_nhi/N phải/V nằm/V 3/M ngườigiường/N vì/E thực/N kê/V được/R có/V 80/M giường/N đặc_biệt/A năm/N nay/P nhóm/N mắc/V bệnh/N là/V trẻ/N lớn/A từ/E 715/M tuổi/N nhiều/A hơn/R trẻ/A nhỏ/A
+Tại/E huyện/N đảo/N Phú_Quốc/Np Kiên_Giang/Np tình_hình/N dịch/V SXH/Np diễn_biến/N phức_tạp/A
+Ông/Nc Nguyễn_Hoàng_Phi/Np phó/Z chủ_tịch/N UBND/Np xã/N Hòn_Thơm/Np cho/V biết/V dịch/N SXH/Np tại/E xã/N này/P bùng_phát/A hơn/R 1/M tuần/N qua/V với/E 13/M trường_hợp/N mắc/V phải/V khiến/V 1/M cháu/N bé/N 6/M tuổi/N tử_vong/N
+Ông/N Phi/Np cho/V biết/V hiện/N khoa/N kiểm_soát/V dịch_bệnh/N Bệnh_viện/N Đa_khoa/N Phú_Quốc/Np đang/R có/V các/L biện_pháp/N kiểm_soát/V và/N dập/V dịch/N SXH/Np tại/E xã/N đảo/N này/P
+Tại/E xã/N đảo/N Thổ_Châu/Np cũng/R ghi_nhận/V 10/M ca/N mắc/V SXH/Np
+Tại_Trà_Vinh/Np ghi_nhận/V có/V 3/M trường_hợp/N tử_vong/V do/E SXH/Np đặc_biệt/A bệnh/N SXH/Np trong/E tình_trạng/N báo_động/V với/E trên/N 500/M ca/N bệnh/N tăng/N trên/N 50/M so/V với/E cùng/N kì/N năm_ngoái/N
+Theo/E Sở/N Y/Np tế/N Trà_Vinh/Np đến/V nay/N 100/M ổ/N dịch/N SXH/Np và/CC tay_chân/N miệng/N đã/R được/V xử_lí/V
+Tuy_nhiên/C việc/Nc thực_hiện/V chỉ/R tiêu_phòng/V chống/V SXH/Np diệt/V muỗi/N lăng_quăng/N tại/E các/L địa_phương/N không/R đạt/V so/V với/E kế_hoạch/N đề/V ra/V
+Theo/E Trung_tâm/N Y/Np tế/N dự_phòng/V Bến_Tre/Np từ/E đầu/N năm/N đến/V nay/P đã/R phát_hiện/V hơn/A 700/M ca/N mắc/V SXH/Np các/L ổ/N dịch/N đã/R xuất/V hiện_tại/N 99/M huyện/N thị/V thành/V trong/N tỉnh/N trong/N đó/N có/V 1/M ca/N tử_vong/N ở/E xã/N Tân_Thanh/Np huyện/N Giồng_Trôm/Np
+Tiền_Giang/Np cũng/R là/V tỉnh/N có/V tỉ_lệ/N mắc/N SXH/Np cao/N đứng/V thứ/N 7/M ở/E khu_vực/N phía/N Nam/Np số/N ca/N mắc/V SXH/Np đã/R lên/V đến/T gần/A 1000/M trường_hợp/N trong/N đó/N có/V 1/M ca/N tử_vong/V tại/E huyện/N Chợ_Gạo/Np
+Theo/E dự_báo/N của/E ngành/N y_tế/N tình_hình/N thời_tiết/N bất_thường/A biến_đổi/N khí_hậu/A nên/C lượng/N lăng_quăng/N muỗi/N gây/V bệnh/N SXH/Np sinh_sản/V nhiều/A mật_độ/N tại/E các/L nơi/N qua/V giám_sát/N đều/R cao/A
+Vì_vậy/C từ/E nay/N đến/E hết/V mùa/N mưa/V dự_báo/V tình_hình/N lây_lan/V dịch/N nhiều/A hơn/R ngoài/E các/L biện_pháp/N của/E ngành/N y_tế/N phát_động/N người/N dân/N cần/V chủ_động/V diệt/N lăng_quăng/N muỗi/N và/CC phòng/N muỗi/N đốt/V

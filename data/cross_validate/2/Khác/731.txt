@@ -1,0 +1,12 @@
+Hàng/R trăm/M ATM/Np ở/E Ấn/Np Độ/N dừng/V hoạt_động/V để/E tránh/V WannaCry/Np
+Ấn/V Độ/N nằm/V trong/E số/N những/L nước/N bị/V ảnh_hưởng/V nhất/R từ/E khi/N WannaCry/Np bùng_phát/V cuối/N tuần/N trước/E
+Ngân_hàng/N Trung_ương/N Ấn/V Độ/N /V RBI/Np /M khuyến_cáo/N tất_cả/P các/L ngân_hàng/N trong/E nước/N nên/C nhanh_chóng/A cập_nhật/V phần_mềm/N mới/R cho/V hệ_thống/N ATM/Np trước/E khi/N mã/V độc/A kịp/A thâm_nhập/V và/CC tấn_công/V
+Tuy_nhiên/C việc/N đóng_cửa/V ATM/Np không/R phải/V yêu_cầu/V của/E RBI/Np mà/C là/V quyết_định/N riêng/A của/E một_số/L ngân_hàng/N
+Theo/E các/L chuyên_gia/N bảo_mật/V ATM/Np là/V một/M trong/E những/L hệ_thống/N dễ/A bị/V tấn_công/V nhất/R vì/E chúng/P chạy/V các/L phiên_bản/N cũ/A của/E Windows/Np
+Hiện/N có/V 220 0/M máy/N ATM/Np ở/E Ấn/Np Độ/N và/CC rất/R nhiều/A trong/E số/N đó/P sử_dụng/V Windows/N XP/Np
+Windows/Np XP/Np đã/R ra_đời/V cách/V đây/P 16/M năm/N và/CC bị/V Microsoft/Np khai_tử/V năm/N 2014/M
+Dù/C đã/R ngừng/V hỗ_trợ/V từ/E lâu/A nền_tảng/N này/P vẫn/R còn/V khá/R nhiều/A người/N sử_dụng/V kể_cả/X các/L hệ_thống/N máy/N ATM/Np của/E ngân_hàng/N
+Theo/E số_liệu/N của/E StatCounter/Np số_lượng/N người/N dùng/V Windows/Np XP/Np chiếm/V 5,26%/M còn/R Net_Applications/Np thậm_chí/R còn/R lớn/A hơn/R với/E 7%/M
+Microsoft/Np đã/R giới_thiệu/V một/M bản/N cập_nhật/V để/E đối_phó/V với/E WannaCry/Np trong/E khi/N giới/N bảo_mật/V lo_ngại/V có_thể/R những/L biến_thể/N mới/A của/E mã/N độc/A tống_tiền/V với/E khả_năng/N tấn_công/V tinh_vi/A hơn/R sẽ/R xuất_hiện/V thời_gian/N tới/V
+WannaCry/Np là/V nỗi/N khiếp_sợ/V cho/E hàng/N triệu/M người/N dùng/V máy_tính/N khi/N đã/R gây/V ảnh_hưởng/V tới/E 10 0/M tổ_chức/N 200 0/M cá_nhân/N trong/E khoảng/N 150/M quốc_gia/N trên/E thế_giới/N chỉ/R sau/A hơn/R 2/M ngày/N xuất_hiện/V /N từ/E 11/5/M /N  /M Việt/Np
+Nam/Np nằm/V trong/E top/N 20/M quốc_gia/N vùng/N lãnh_thổ/N bị/V ảnh_hưởng/V nhất/A bên_cạnh/N Ukraina/Np Ấn/V Độ/N Trung_Quốc/Np Đài_Loan/Np

@@ -1,0 +1,50 @@
+5/M giải_pháp/N khi/N jack/V tai/N nghe/V điện_thoại/N không/R hoạt_động/V
+Kiểm_tra/V tai/N nghe/V của/E bạn/N có/V hỏng/N không/R
+Bước_đầu/N tiên/N này/P là/V điều/N dĩ_nhiên/A
+Bạn/N có_thể/A kiểm_tra/V nhanh/A bằng/V cách/N gắn/V tai/N nghe/V vào/R thiết_bị/N khác/A
+Không/R nhất_thiết/V phải/V là/V điện_thoại/N
+Laptop/N TV/Np hay/V bất_kì/N thiết_bị/N nào/R có/V jack/N tai/N nghe/V 35/M mm/N đều/R được/V
+Nếu/C bạn/N không/R nghe/V bất_cứ/R âm_thanh/N nào/P khi/N dùng/V tai/N nghe/V trên/E thiết_bị/N khác/A bạn/N đã/R tìm/V ra/R vấn_đề/N rồi/T đấy/T
+Trong/E trường_hợp/N tai/N nghe/V bạn/N vẫn/R sử_dụng/V được/R với/E thiết_bị/N khác/A thì/C vấn_đề/N không/R phải/A ở/V nó/P
+Bạn/N sẽ/R phải/V thử/V tiếp/V các/L bước/N bên/N dưới/A
+Bạn/N cũng_nên/N thử/V một_số/N tai/N nghe/V khác/A nhau/N trên/E điện_thoại/N của/E bạn/N để/E xem/V chúng/N có/V hoạt_động/V không/R
+Mặc_dù/C hiếm/A gặp/V nhưng/C vẫn/R có/V trường_hợp/N tai/N nghe/V không/R tương_thích/V với/E điện_thoại/N của/E bạn/N nhưng/C vẫn/R dùng/V được/R trên/V thiết_bị/N khác/A
+Ảnh_Techrum/Np
+Điện_thoại/N đang/R kết_nối/V với/E thiết_bị/N khác/A bằng/V Bluetooth/Np
+Nếu/C điện_thoại/N đang/R kết_nối/V với/E tai/N nghe/V không/R dây/N loa/N hay/C bất_kì/N thiết_bị/N nào/P qua/V cổng/N giao_tiếp/N Bluetooth/Np jack/N tai/N nghe/V của/E bạn/N sẽ/R tạm_thời/A bị/V khoá/N chức_năng/N
+Thường/N thì/C khi/N bạn/N cắm/V tai/N nghe/V vào/R điện_thoại/N sẽ/R tự_động/A nhận_diện/V và/N kết_nối/N tai/N nghe/V dù/N Bluetooth/Np có/V bật/V hay/C không/R
+Tuy_nhiên/C thi_thoảng/N vẫn/R có/V trục_trặc/N
+Bước/V kiểm/V ra/R này/N rất/R nhanh/A và/CC dễ/A vì/E bạn/N chỉ/R cần/V mở/V mục/N Cài_đặt/V trên/N điện_thoại/N tìm/V lựa_chọn/N Bluetooth/Np và/CC kiểm_tra/V xem/V điện_thoại/N có/V đang/R kết_nối/V với/E thiết_bị/N nào/N khác/A gần/V bạn/N không/N
+Nếu/C có/V hãy/N tắt/V Bluetooth/Np đi/V và/CC cắm/V tai/N nghe/V vào/R lại/R và/N xem/V vấn_đề/N đã/R được/V khắc_phục/V chưa/R
+Nếu/C chưa/R thử/V tiếp/R bước/N bên/N dưới/A
+Vệ_sinh/N jack/N tai/N nghe/V
+Như/C bạn/N có_thể/N tưởng_tượng/V bụi/N và/CC những/L vật/N nhỏ/A li_ti/N khác/A có_thể/A lọt/V vào/E jack/N tai/N nghe/V qua/R một/M thời_gian/N dài/A sử_dụng/V
+Đây/P có_thể/A là/V vấn_đề/N bởi_vì/N bụi/N thực_ra/N có_thể/R chặn/V kết_nối/N giữa/N tai/N nghe/V và/N jack/N tai/N nghe/V
+Việc/N đầu_tiên/N bạn/N cần/V làm/V chỉ/R đơn_giản/A là/V nhìn/V vào/E trong/N jack/N tai/N nghe/V để/E xem/V mức_độ/N bẩn/N
+Một/M chiếc/Nc đèn_pin/N sẽ/R rất/R hữu_dụng/A
+Tiếp_theo/V là/V tìm/V cách/N vệ_sinh/V jack/N và/CC hi_vọng/N bạn/N có_thể/A sử_dụng/V jack/N bình_thường/A sau/N đó/P
+Có/V nhiều/A cách/N để/V vệ_sinh/V
+Nhiều/A người/N thì/C thổi/V vào/R jack/V tai/N nghe/V có_thể/R thổi/V ra/V được/R một_chút/N những/L gì/P bên/N trong/N jack/N
+Hoặc/C là/V bạn/N hãy/R thử/V dùng/V bình_xịt/N nén/V khí/N
+Ảnh_The_Verge/Np
+Lựa_chọn/V hay/A hơn/A hẳn/N là/V sử_dụng/N bông/N tăm/N ngoáy/N lỗ/V tai/N
+Đẩy/N bông/N tăm/V vào/R jack/N và/CC xoay/V nghẹ/V nhiều/A vòng/N để/E lấy/V bụi/N và/CC các/L vật/N nhỏ/N khác/A ra/V ngoài/N
+Bạn/N nên/C cẩn_thận/A khi/N làm_việc/V này/N vì/E bạn/N chắc_chắn/A không/R muốn/V làm/V hỏng/N luôn/R jack/V tai/N nghe/V phải/A không/R nào/T
+Sau/E khi/N xong/V so_sánh/V sự/N khác_biệt/A trước/N và/CC sau/E khi/N làm/V sạch/N jack/N tai/N nghe/V
+Khi/N bạn/N biết/V jack/N đã/R sạch/A hơn/R trước/A hãy/R cắm/V tai/N nghe/V vào/R và/N kiểm_tra/V
+Khả_năng/N cao/A là/V mọi/N thứ/N sẽ/R bình_thường/A lại/R
+Kiểm_tra/V thiết_lập/N âm_thanh/N và/CC khởi_động/V lại/V thiết_bị/N
+Vẫn/R có/V những/L trường_hợp/N vấn_đề/N nằm/V ở/E thiết_lập/N âm_thanh/N của/E điện_thoại/N không/R phải/A ở/V jack/N tai/N nghe/V hay/C tai/N nghe/V
+Nếu/C vấn_đề/N nằm/V ở/V đây/P thì/N bạn/N sẽ/R xử_lí/V xong/V rất/R nhanh/A
+Mở/V thiết_lập/N âm_thanh/N lên/V và/CC xem/V âm_lượng/N có/V bị/V tắt/V hay/V không/R
+Nhiều/A khi/N bạn/N quên/V hay/R ai/P đó/P vô_tình/A tắt/V âm_lượng/N mà/C bạn/N không/R biết/V
+Nếu/C âm_lượng/N không/R bị/V tắt/V nhưng/C bạn/N vẫn/R không/R nghe/V được/R gì/R hãy/R thử/V khởi_động/V lại/R thiết_bị/N
+Giải_pháp/N này/P thỉnh_thoảng/N có_thể/A hoá_giải/V nhiều/A vấn_đề/N liên_quan/V đến/R điện_thoại/N và/CC chỉ/R mất/V chưa/R đến/V một/M phút/N
+Bấm/V và/N giữ/V nút/N nguồn/N chọn/V khởi_động/N lại/R chờ/V thiết_bị/N được/R mở/V lại/R và/N kiểm_tra/V lại/R
+Đến/E lúc/N liên_hệ/V người/N sửa_chữa/V hoặc/N trung_tâm/N bảo_hành/N
+Trường_hợp/N xấu/N nhất_là/N 4/M bước/N ở/V trên/N không/R có/V kết_quả/N mong_muốn/V có/V nghĩa_là/N vấn_đề/N khá/A nghiêm_trọng/A
+Nếu/C điện_thoại/N vẫn/R còn/V nằm/V trong/E thời_gian/N bảo_hành/N hãy/R liên_hệ/V với/E nơi/N bán/V hay/N nhà/N phân_phối/V giải_thích/V vấn_đề/N và/CC gửi/V cho/E họ/N để/E kiểm_tra/V hoặc/N thay_thế/V
+Việc/N này/P có_thể/A mất/V thời_gian/N nhưng/C ít_ra/N thì/N bạn/N không/R mất/V quá/R nhiều/A phí/N
+Nếu/C bạn/N không/R còn/V hạn/N bảo_hành/N thì/C đây/P là/V lúc/N bạn/N nên/C tìm/V cho/E mình/P một/M cơ_sở/N sửa_chữa/N điện_thoại/N tốt/A nhất/A có_thể/A
+Hãy/R hỏi/V người_thân/N hoặc/N bạn_bè/N hỏi/V trên/E các/L diễn_đàn/N về/V điện_thoại/N để/V tìm/V ra/R được/V một/M người/N sửa/V có/V tâm/N
+Trong/E trường_hợp/N bạn/N chưa/R có/V thời_gian/N hoặc/N chưa/R tìm/V được/R chỗ/N sửa/V có_thể/N sử_dụng/V một/M tai/N nghe/V kết_nối/N qua/V Bluetooh/Np để/E tạm_thời/V thay_thế/V

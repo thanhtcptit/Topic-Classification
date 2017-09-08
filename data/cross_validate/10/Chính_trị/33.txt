@@ -1,0 +1,9 @@
+Xe_tải/N chở/V gạch/N bị/V tàu_hoả/N đâm/V nát/A tài_xế/N thiệt_mạng/V
+Xe_tải/N chở/V gạch/N bất_cẩn/N khi/N đi/V qua/V đường/N ngang/N đã/R bị/V đoàn/N tàu/N chạy/V từ/E Hà_Nội/Np đi/V Thái_Nguyên/Np đâm/V nát/A tài_xế/N thiệt_mạng/V
+Vụ/N tai_nạn/N xảy/V ra/R khoảng/N 8h15/M sáng/N 37/M trên/N tuyến/N đường_sắt/N Hà_Nội/Np Thái_Nguyên/Np đoạn/V qua/V xóm/N Ấp_Chùa/Np thôn/N Sơn_Đông/Np xã/N Tân_Minh/Np huyện/N Sóc_Sơn/Np TP/Np Hà_Nội/Np
+Theo/E thông_tin/N từ/E Công_ty/N CP/Np vận_tải/V đường_sắt/N Hà_Nội/Np thời_điểm/N đó/P đoàn/N tàu/N hỗn_hợp/N chở/V khách/N và/CC hàng/N số/N hiệu/N 1902/M đang/R đi/V từ/E Hà_Nội/Np lên/V Thái_Nguyên/Np đã/R đâm/V vào/E xe_tải/N chở/V gạch/N vượt/V đường/N ngang/N
+Đây/P là/V đường/N ngang/A không/R có/V rào_chắn/N nhưng/C có/V biển/N cảnh_báo/V
+Tai_nạn/N khiến/V xe_tải/N chở/V gạch/N hư_hỏng/N nặng/A tài_xế/N xe_tải/N tử_vong/V tại_chỗ/A
+Ban/N đầu/N cơ_quan_chức_năng/N xác_định/V tài_xế/N là/V ông/N Phạm_Văn_Hùng/Np 52/M tuổi/N ở/E thôn/N Phù_Mã/Np xã/N Phù_Linh/Np huyện/N Sóc_Sơn/Np
+Vụ/N tai_nạn/N cũng/R khiến/V đầu_máy/N đoàn/N tàu/N 1902/M hư_hỏng/N trật/V bánh/N khỏi/V đường_ray/N
+Công_ty/N CP/Np vận_tải/V đường_sắt/N Hà_Nội/Np đã/R điều/V ôtô/N chuyển_tải/V hành_khách/N trên/E tàu/N đi/V Thái_Nguyên/Np trong_sáng/A 37/M

@@ -1,0 +1,6 @@
+Lượt_đi/N tứ_kết/N Cúp/Np quốc_gia/N 2017/M Sức/N hút/V từ/E sân/N Cẩm_Phả/Np
+Dù/C phải/V chơi/V trên/N sân_khách/N nhưng/C sự/N trở_lại/V sau/N chấn_thương/N của/E tiền_vệ/N trái/N Võ_Huy_Toàn/Np cùng/A trung_phong/N Merlo/Np tên/N gọi/V mới/A là/C Đỗ_Merlo/Np sau/E khi/N nhập_tịch/V thành_công/V vào/R tuần/N trước/N chắc_chắn/A sẽ/R tiếp/V thêm/V sức_mạnh/N đáng_kể/V cho/E SHB/Np Đà_Nẵng/Np
+Bộ/N đôi/N này/P đã/R góp/V công/N lớn/A trong/N chiến_thắng/V huỷ_diệt/N 51/M trước/N FLC/Np Thanh_Hoá/Np ở/V vòng/N 116/M vào/N tuần/N qua/V trong/E đó/P Đỗ_Merlo/Np lập/V hat/N trick/N và/CC Huy_Toàn/Np góp/V một/M bàn/N thắng/V
+Sau/E năm/N mùa/N bóng/N không/R giành/V được/R thành_tích/N nào/P SHB/Np Đà_Nẵng/Np đặt/V chỉ_tiêu/N vô_địch/N Cúp/Np quốc_gia/N để/V tri_ân/V người/N hâm_mộ/V
+Hành_trình/N chinh_phục/V chiếc/Nc cúp/N này/N của/E đội/N bóng/N sông/N Hàn/Np đang/R gặp/V thách_thức/N lớn/V từ/E chủ/N nhà/N Than_Quảng_Ninh/Np đội/V bóng/N cũng/R đang/R đặt/V mục_tiêu/N vô_địch/N Cúp/Np quốc_gia/N để/E bước/V ra/R sân_chơi/N châu_lục/N vào/E mùa/N bóng/N tới/V
+Lịch/N thi_đấu/V tứ_kết/N lượt_đi/N Cúp/Np quốc_gia/N ngày/N 166/M Sông_Lam_Nghệ_An/Np TPHCM/Np 17h/M XSKT/Np Cần_Thơ/Np Quảng_Nam/Np 17h/Np Than_Quảng_Ninh/Np SHB/Np Đà_Nẵng/Np VTV6/Np VPF/Np THTT/Np 18h/Np Sài_Gòn/Np BB/Np ình/V Dương/Np HTV/Np Thể_thao/N VPF/Np BTV2/Np THTT/Np 18h/M

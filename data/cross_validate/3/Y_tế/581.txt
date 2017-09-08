@@ -1,0 +1,22 @@
+Dân_số/N Việt_Nam/Np đang/R già/A với/E tốc_độ/N nhanh/A gấp/V 4/M lần/N nước/N giàu/A
+Già/Np hóa/V dân_số/N là/V một/M trong/E những/L biến_đổi/V nhân_khẩu/N lớn/A nhất/R trên/E thế_giới/N hiện_nay/N
+Trung_bình/A cứ/R một/M giây/N có/V 2/M người/N bước/V vào/R tuổi/N 60/M 9/M người/N thì_có/X một/M từ/E 60/M tuổi/N trở_lên/A
+Việt_Nam/Np bước/V vào/E giai_đoạn/N già/A hóa/V dân_số/N từ/E năm/N 2011/M và/CC hiện/N có/V khoảng/A 10/M triệu/M người/N cao_tuổi/A chiếm/V 11%/M dân_số/N
+Dự_báo/V đến/E năm/N 2030/M tỷ_trọng/V người/N cao_tuổi/A nước/N ta/P là/V 17%/M và/CC 20/M năm/N sau/E đạt/V 25%/M
+Theo/E quy_chuẩn/N về/E nhân_khẩu/N thế_giới/N giai_đoạn/N già/A hóa/N dân_số/N của/E một/M nền/N kinh_tế/N là/C khi/N nhóm/N dân_số/N từ/E 60/M tuổi/N trở_lên/A chiếm/V 10%/M
+Khi/N nhóm/N dân_số/N từ/E 60/M tuổi/N trở_lên/A chiếm/V 20%/M tổng/N dân/N thì/C được/V xem/V là/C giai_đoạn/N dân_số/N già/A  /EOS
+Các/L nền/N kinh_tế/N phát_triển/V phải/V mất/V vài/L thập_kỷ/N thậm_chí/R hàng/N thế_kỷ/N để/E chuyển/V từ/E giai_đoạn/N già/A hóa/N dân_số/N sang/V giai_đoạn/N dân_số/N già/A
+Ví_dụ/V Australia/Np mất/V 73/M năm/N Mỹ/Np phải/V 69/M năm/N Canada/Np 65/M năm/N để/E bước/V sang/V giai_đoạn/N dân_số/N già/A
+Trong/E khi/N đó/P Việt_Nam/Np chỉ/R mất/V 22/M năm/N để/E chính_thức/A bước/V vào/E giai_đoạn/N dân_số/N già/A tiến_sĩ/N Nguyễn_Văn_Tân/Np Phó_tổng/Np Cục_trưởng/N phụ_trách/V Tổng_cục/N Dân_số/N Kế_hoạch_hóa_gia_đình/Np cho_biết/V tại/E hội_thảo/N về/E già/A hóa/N dân_số/N diễn/V ra/R tại/E Hà_Nội/Np ngày/N 17-18/M //X 7/M
+“/M Già/N hóa/N dân_số/N là/V đặc_trưng/A của/E những/L nước/N thu_nhập/N cao/A không/R phải/V tại/E các/L nước/N thu_nhập/N thấp/A
+Việt_Nam/Np là/V nước/N có/V thu_nhập/N trung_bình/A nhưng/C đã/R bước/V vào/R giai_đoạn/N già/A hóa/V dân_số/N với/E tốc_độ/N rất/R nhanh/A ”/M ông/Nc Tân/Np nói/V  /M Đại_diện/N Ngân_hàng/N Thế_giới/N cũng/R nhấn_mạnh/V “/N Lịch_sử/N các/L nước/N cho/V thấy/V dân_số/N già/A khi/N đã/R giàu/A còn/R Việt_Nam/Np thì/C khác/A
+Dân_số/N Việt_Nam/Np đang/R già/A hóa/V nhanh_chóng/A nhưng/C mức/N thu_nhập/N lại/R thấp/A hơn/R so/V với/E hầu_hết/L các/L nước/N có/V dân_số/N già/A hiện_nay/N ”/M
+Nguyên_nhân/N của/E thực_trạng/N này/P là/V tuổi_thọ/N bình_quân/A ngày_càng/X tăng/V trong/E khi/N tỷ_suất/V sinh/V và/CC tỷ_suất/V chết/V giảm/V
+Thực_trạng/N này/P không_chỉ/C mang/V đến/R nhiều/A cơ_hội/N phát_triển/V kinh_tế/N xã_hội/N mà_còn/C đặt/V ra/R nhiều/A thách_thức/N lớn/A đối_với/E những/L chính_sách/N liên_quan/V công_tác/N chăm_sóc/V sức_khỏe/N người/N cao_tuổi/A
+Tại_Việt_Nam/Np số/N người/N cao_tuổi/A được/R hưởng/V lương/N hưu/V trợ_cấp/V xã_hội/N chỉ/R chiếm/V gần/A 30%/M
+Còn/C 70%/M số/N người/N cao_tuổi/A còn/V lại/R không/R nhận/V được/R trợ_cấp/V
+Chính/T vì_vậy/C rất/R nhiều/A người/N cao_tuổi/A vẫn/R phải/V tự/P lao_động/V và/CC kiếm/V sống/V
+Bên_cạnh/N đó/P người/N Việt/Np sống/V thọ/A nhưng/C không/R khỏe_mạnh/A
+Nửa/M thế_kỷ/N qua/V tuổi_thọ/N trung_bình/A của/E dân_số/N thế_giới/N tăng/V thêm/R 21/M tuổi/N còn/C Việt_Nam/Np tăng/V đến/E 33/M tuổi/N
+Tuy_nhiên/C trung_bình/A mỗi/L người/N cao_tuổi/A ở/E nước/N ta/P phải/V chịu/V 14/M năm/N bệnh_tật/N trong/E cuộc_sống/N của/E mình/P với/E tỷ_lệ/N một/M người/N mắc/V 2,69/M bệnh/N
+Các/L chuyên_gia/N khuyến_nghị/A trong/E 22/M năm/N trước/E khi/N “/V về/E già/N ”/N Việt_Nam/Np cần/V tận_dụng/V thời_gian/N để/E điều_chỉnh/V chính_sách/N nhằm/V giảm/V nhẹ/A các/L tác_động/N do/E già/A hóa/N dân_số/N gây/V ra/R đặc_biệt/A là/C  /N chuẩn_bị/V tiềm_lực/N kinh_tế/N phát_triển/V an_sinh/N xã_hội/N để/E mang/V lại/R cuộc_sống/N hạnh_phúc/A cho/E người/N cao_tuổi/A

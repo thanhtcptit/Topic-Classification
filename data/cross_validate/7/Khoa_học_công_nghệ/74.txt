@@ -1,0 +1,3 @@
+SuperMLC/N giúp/V chu_kì/N ghixoá/N ổ_cứng/V SSD/Np đạt/V 30000/M chu_kì/N
+Với/E giải_pháp/N SuperMLC/N tốc_độ/N ghi/V tuần_tự/N có_thể/N nhanh/A lên/V tới/N gấp/V 4/M lần/N so/V với/E các/L chip/N MLC/Np thông_thường/A và/CC chu_kì/N ghixoá/N có_thể/R lên/V tới/T 30000/M chu_kì/N
+SuperMLC/N có_thể/R hiểu/V như/E một/M sự/N kết_hợp/V của/E công_nghệ/N chip/N nhớ/V Singlelevel_Cell/Np SLC/Np với/E hiệu_năng/N làm_việc/V mạnh/A nhưng/C giá/N đắt/A và/CC Multilevel_Cell/Np MLC/Np cho/V độ/N bền/N cao/A và/CC giá_cả/N phải_chăng/V bằng/E sự/N kết_hợp/V những/L điểm/N mạnh/A của/E 2/M công_nghệ/N này/P hiệu_năng/N xử_lí/V công_việc/N được/V cải_thiện/V đáng_kể/N vừa/R tăng/V được/R độ/V bền/N cho/E thiết_bị/N đặc_biệt/A là/V những/L mẫu/N SSD/Np cỡ/N nhỏ/A

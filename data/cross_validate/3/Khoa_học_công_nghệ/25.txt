@@ -1,0 +1,125 @@
+MobiFone/N cho/V đổi/V số/N không/R cần/V đổi/V SIM/Np
+Người_dùng/N My_Mobi/Np Fone/Np có_thể/R đăng_nhập/V và/CC đổi/V số/N trong/E ứng_dụng/N di_động/V
+Thuê_bao/N trả/V sau/N được/V đổi/V sang/E số/N trả/V sau/N thuê_bao/N trả/V trước/N được/V đổi/V sang/E số/N trả/V trước/N
+96/M
+800x600/M
+Normal/N
+false/N
+false/N
+false/N
+ENUS/Np
+XNONE/Np
+XNONE/Np
+Style_Definitions/Np
+tableMsoNormalTable/N
+{/N msostylename/N Table_Normal/Np
+msotstylerowbandsize/N 0/M
+msotstylecolbandsize/N 0/M
+msostylenoshow/N yes/N
+msostylepriority/N 99/M
+msostyleparent/N
+msopaddingalt/N 0cm/N 54pt/N 0cm/M 54pt/N
+msoparamargin/N 0cm/N
+msoparamarginbottom/N
+0001pt/M
+msopagination/N widoworphan/N
+fontsize/N 100pt/N
+fontfamily/N Times_New_Roman/Np
+}/N Số/N thuê_bao/N chuyển_đổi/N là/V số/N thuê_bao/N nằm/V trong/E kho/N đổi/V số/N do/N MobiFone/N quy_định/N và/CC cung_cấp/V không/R trong/N trạng_thái/N giữ/V số/N hoặc/N đã/R đổi/V số/N thành_công/V
+Người/N dùng/V có_thể/N chủ_động/V thao_tác/V trên/E máy/N điện_thoại/N của/E mình/P qua/V tin/N nhắn/V SMS/Np hoặc/N thực_hiện/V trên/N web/N của/E MobiFone/N để/E lựa_chọn/V số/N ưng_ý/N
+Về/V cước_phí/N dịch_vụ/N người_dùng/V không/R mất/V phí/N khi/N giữ/V số/N hay/N đổi/V số/N riêng/N phần/N tra_cứu/N tìm/V số_là/N 200đ/N và/CC tin_nhắn/V xác_nhận/V thành_công/N 25000đ/N tin_nhắn/N SMS/Np
+96/M
+800x600/M
+Normal/N
+false/N
+false/N
+false/N
+ENUS/Np
+XNONE/Np
+XNONE/Np
+Style_Definitions/Np
+tableMsoNormalTable/N
+{/N msostylename/N Table_Normal/Np
+msotstylerowbandsize/N 0/M
+msotstylecolbandsize/N 0/M
+msostylenoshow/N yes/N
+msostylepriority/N 99/M
+msostyleparent/N
+msopaddingalt/N 0cm/N 54pt/N 0cm/M 54pt/N
+msoparamargin/N 0cm/N
+msoparamarginbottom/N
+0001pt/M
+msopagination/N widoworphan/N
+fontsize/N 100pt/N
+fontfamily/N Times_New_Roman/Np
+}/N Với/E thuê_bao/N trả/V sau/N GDV/Np thu/V phí/N 25000/M tại/E cửa_hàng/N sau/E khi/N đổi/V thành_công/N
+Lưu_ý/N khi/N sử_dụng/V dịch_vụ/N đổi/V số_không/N cần/V đổi/V SIM/Np
+Mỗi/L thuê_bao/N chỉ/R được/V tham_gia/V đổi/V số/N duy_nhất/N 1/M lần/N
+không/R được/V phép/N quay/V lại/R số/N cũ/A sau/E khi/N đổi/V thành_công/N
+Số/N cũ/N sẽ/R được/V MobiFone/V thu_hồi/V và/N trả/V về/V kho/N ban_đầu/N các/L số/N cũ/N thuộc/V về/R
+Sau/E khi/N thuê_bao/N chuyển_đổi/V sang/V số/N thuê_bao/N mới/A số/N thuê_bao/N mới/R bị/V cắt/V huỷ/N thì/C không/R được/V khôi_phục/V lại/R số/N mới_đó/N
+Tài/N khoản/N của/E thuê_bao/N giá_trị/N và/CC thời_gian/N sử_dụng/V của/E các/L tài_khoản/N về/V tiền/N TKC/Np TKKM/Np TK/Np ĐK/M
+được/V bảo_lưu/V sau/E khi/N đổi/V số/N
+Các/L gói/N cước/N hoặc/N chương_trình/N khuyến_mại/V khách/N hàng/N đang/R tham_gia/V các/L tài_khoản/N sản_lượng/N Bị/V huỷ/V sau/E khi/N đổi/V số/N
+Đối_với/C các/L dịch_vụ/N Giá_trị/N gia_tăng/V GTGT/Np đang/R sử_dụng/V khi/N đổi/V số/N thành_công/V các/L dịch_vụ/N và/CC thời_gian/N sử_dụng/V GTGT/Np bị/V huỷ/V
+Cách/V tìm/V và/N nhắn_tin/N đổi/V số/N
+Tìm/V số/N phù_hợp/N
+Bước/V 2/M Hệ_thống/N sẽ/R trả/V về/V thông_tin/N
+Bước/N 1/M truy_cập/N doisomobifonevn/N Đăng_nhập/N Đổi/V số/N Nhập/V dữ_liệu/N theo/V các/L trường/N thông_tin/N Tìm_kiếm/V
+Bước/V 2/M Hệ_thống/N sẽ/R trả/V về/V thông_tin/N
+Bước/N 1/M Truy_cập/N ứng_dụng/N MyMobifone/V vào/E thẻ/N Doi/Np so/V Nhập/V dữ_liệu/N theo/V các/L trường/N thông_tin/N Tìm_kiếm/V
+96/M
+800x600/M
+Normal/N
+false/N
+false/N
+false/N
+ENUS/Np
+XNONE/Np
+XNONE/Np
+Style_Definitions/Np
+tableMsoNormalTable/N
+{/N msostylename/N Table_Normal/Np
+msotstylerowbandsize/N 0/M
+msotstylecolbandsize/N 0/M
+msostylenoshow/N yes/N
+msostylepriority/N 99/M
+msostyleparent/N
+msopaddingalt/N 0cm/N 54pt/N 0cm/M 54pt/N
+msoparamargin/N 0cm/N
+msoparamarginbottom/N
+0001pt/M
+msopagination/N widoworphan/N
+fontsize/N 100pt/N
+fontfamily/N Times_New_Roman/Np
+Tiện_ích/N tra_cứu/N
+Kiểm_tra/V theo/V các/L chữ_số/N đầu/N Nhập/V số/N có/V chữ_số/N đầu/N và/CC thêm/V ở/E cuối/N vào/N cú_pháp/N tin_nhắn/N
+Ví_dụ/N 090/M _/N 23456/M
+Kiểm_tra/V theo/V các/L chữ_số/N cuối/N Nhập/V số/N có/V chữ_số/N cuối/A và/CC thêm/V ở/E đầu_vào/N cú_pháp/N tin_nhắn/N
+Ví_dụ/N 090/M _/N 45678/M gửi/N 910/M
+Kiểm_tra/V các/L chữ_số/N giữa/N Nhập/V số/N giữa/N và/CC thêm/V ở/E đầu/N và/CC cuối/N vào/V cú_pháp/N tin_nhắn/N
+Ví_dụ/N 090/M _/N 456/M
+Các/L số/N trả/V về/R là/V các/L số/N cùng/N loại/N thuê_bao/N trả/V trướctrả/N sau/A với/E thuê_bao/N cần/V đổi/V các/L số/N còn/V lại/R nằm/V trong/E kho/N quy_hoạch/N không/R nằm/V trong/E trạng_thái/N Đang/R giữ/V số/N hoặc/N đã/R đổi/V số/N thành_công/V
+Giữ/V số/N
+Sau/E khi/N tìm/V được/R số/N cần/V đổi/V người_dùng/N có_thể/R giữ/V lại/R số/N này/P mà/C chưa/R cần/V thực_hiện/V chuyển_đổi/N ngay/N
+Thời_hạn/N giữ/V số/N tối_đa/N 30/M phút/N kể/V từ/E thời_điểm/N đăng_kí/N giữ/V số/N
+Nếu/C không/R thực_hiện/V chuyển_đổi/N trong/N thời_hạn/N giữ/V số/N thì/N hết/V 30/M phút/Nu hệ_thống/N sẽ/N tự_động/A trả/V số/N về/V kho/N
+Mỗi/L thuê_bao/N chỉ/R được/V giữ/V 1/M số/N tại/N 1/M thời_điểm/N
+Đổi/V số/N
+Sau/E khi/N tìm/V được/R số/N cần/V đổi/V cókhông/N giữ/V số/N muốn/V đổi/V sang/R sử_dụng/V số/N thuê/V bao/N mới/A cần/V tiến_hành/V đổi/V số/N theo/V các/L cách/N sau/N
+Bước/N 1/M soạn/N tin/N với/E cú_pháp/N DOISO_/N SDT/Np gửi/V 910/M
+Bước/V 2/M Hệ_thống/N sẽ/R nhắn_tin/V thông_báo/V nội_dung/N
+Nếu/C số/N điện_thoại/N đổi/V sẵn_sàng/N thông_tin/V trả/V về/E mật_khẩu/N để/E khách/N hàng/N xác_nhận/V lại/R
+mật_khẩu/N gồm/V 04/M kí_tự/N bao_gồm/V chữ/N và/CC số/N ngẫu_nhiên/N
+Click/V vào/V nút/N tương_tác/N Đổi/V số/N Hệ_thống/N phản_hồi/V mật_khẩu/N để/E xác_nhận/V trên/E giao_diện/N Khách/N hàng/N nhập/V mật_khẩu/N và/CC click/V Xác_nhận/V Thành_công/N
+Mật_khẩu/N xác_nhận/V có/V hiệu_lực/N sử_dụng/V trong/E 10/M phút/N kể/V từ/E lúc/N thông_tin/V được/R cung_cấp/V
+Quá/V 10/M phút/Nu người_dùng/N thao_tác/N đổi/V số_từ/N đầu/N
+Số/N điện_thoại/N thực_hiện/V đổi/V phải/V nằm/V trong/E kho/N số/N quy_hoạch/N không/R trong/E trạng_thái/N đang/R giữ/V số/N hoặc/N đã/R đổi/V thành_công/N của/E thuê_bao/N khác/A
+Xác_nhận/V
+Sau/E khi/N nhận/V được/R mật_khẩu/V người_dùng/N cần/V thực_hiện/V thao_tác/N xác_nhận/V để/E hoàn_thiện/V quá_trình/N đổi/V số/N
+Mã_Code/Np trả/V về/V cho/E thuê_bao/N trả/V sau/N là/V 1/M dãy/Nc gồm/N 6/M chữ/N amp/N
+số/N ngẫu_nhiên/N không/R có/V khoảng/N trống/N
+Mỗi/L mã/N code/N chỉ/R được/V dùng/V 1/M lần/N
+Mã/N code/N có/V giá_trị/N trong/E 24/M tiếng/N kể/V từ/E khi/N sinh/V mã/N
+Lưu_ý/N sau/E khi/N xác_nhận/V thuê_bao/N PHẢI/V thực_hiện/V thao_tác/N khởi_động/V lại/V máy/N
+Số_dư/N tài_khoản/N chính/A phải/V đủ/A thực_hiện/V Xác_nhận/V Với/E thuê_bao/N trả/V trước/N

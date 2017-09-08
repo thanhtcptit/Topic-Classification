@@ -1,0 +1,24 @@
+​/N Quý/N 12017/M gần/N 7700/M cuộc/N tấn_công/V mạng/N Việt_Nam/Np
+Xác_định/V được/R lỗ_hổng/V của/E website/N các/L cảng_hàng_không/N
+Ông/Nc Lịch/Np cho/V biết/V các/L cuộc/N tấn_công/V vào/E website/N Việt_Nam/Np trong/E ba_tháng/N đầu/N năm/N 2017/M gồm/N 2853/M trang_bị/N tấn_công/N Deface/Np thay_đổi/V giao_diện/N 3783/M trang_bị/N cài/N Malware/Np mã/V độc/A và/N 1050/M website/N bị/V đặt/V mã/N Phishing/Np lừa_đảo/V
+Trong/E đó/P vụ/N tấn_công/V mạng/N gây/V chú_ý/V nhất_là/N việc/N hai/M hacker/N U15/M tấn_công/N vào/V website/N của/E các/L cảng_hàng_không/N nhằm/V cảnh_báo/V lỗ_hổng/N
+Cảnh_báo/N bằng/E cách/N tấn_công/V mạng/N Sự/Np nông_nổi/V của/E người/N trẻ/A
+VNCERT/Np đã/R xác_định/V được/V nguyên_nhân/N sự_cố/N tấn_công/V vào/R website/N của/E các/L cảng_hàng_không/N là/V do/E các/L website/N này/P sử_dụng/V phần_mềm/N mã_nguồn_mở/N Joomla/Np phiên_bản/N cũ/A có/V nhiều/A lỗi/N bảo_mật/N đặc_biệt/A là/V trong/E phần/N tải/N upload/V tập_tin/N lên/V website/N
+Tin_tặc/N đã/R lợi_dụng/V kẽ/N hở/N này/P để/E đưa/V tập_tin/N PHP/Np gây/V hại/V lên/R và/N thay_đổi/V giao_diện/N deface/N website/N
+Theo/E ông/N Lịch/Np ngay/T sau/E khi/N nhận/V thông_tin/N VNCERT/Np phối_hợp/V với/E Cục/N An_toàn/N thông_tin/N điều_phối/V Tập_đoàn/N VNPT/Np FPT/Np hỗ_trợ/V ứng_cứu/V
+Hiện/N nay/P để/V đưa/V toàn_bộ/L hệ_thống/N trở_lại/V hoạt_động/N bình_thường/A như/C trước/E khi/N xảy/V ra/R sự_cố/N VNCERT/Np đã/R cảnh_báo/V Tổng/N công_ty/N Cảng/Np hàng_không/N phải/V yêu_cầu/V các/L đơn_vị/N cập_nhật/V phiên_bản/N phần_mềm/N mới/A kiểm_tra/V đánh_giá/V toàn_bộ/N website/N khắc_phục/V các/L lỗ_hổng/N bảo_mật/V
+Đồng_thời/N rà_soát/V ứng_trực/V cho/E các/L hệ_thống/N công_nghệ_thông_tin/N của/E 21/M cảng_hàng_không/N trong/E cả/N nước/N
+5/M loại/N tấn_công/V mạng/N phổ_biến/V trong/E năm/N 2017/M
+Theo/E các/L chuyên_gia/N an_ninh/N mạng/N các/L hình_thức/N tấn_công/V có/V chủ_đích/N APT/Np mã/V độc/A gián_điệp/N mạng/N botnet/V DDoS/N deface/N phising/N
+ngày_càng/N tinh_vi/A và/CC diễn_biến/N phức_tạp/A
+Nhiều/A cuộc/N tấn_công/V có/V chủ_đích/N APT/Np nhằm/V vào/E các/L cơ_quan/N chính_phủ/N các/L hệ_thống/N tài_chính/N ngân_hàng/N các/L hạ_tầng/N thông_tin/N trọng_yếu/N các/L website/N của/E các/L cơ_quan/N tổ_chức/V doanh_nghiệp/N tại/N Việt_Nam/Np
+Xem/V 2017/M tấn_công/N mạng/N lớn/A hơn/R nguy_hiểm/A hơn/R
+Bên_cạnh/N đó/P xu_hướng/N tấn_công/V vào/E các/L thiết_bị/N IoT/N như/C Camera/Np SmartTV/N mã/V độc/A tống_tiền/N Ransomware/Np đang/R ngày_càng/X tăng/V cao/N
+xu_hướng/N sử_dụng/V các/L mạng_xã_hội/N để/E phát_tán/V mã/N độc/A lừa_đảo/N trúng/N thưởng/N mạo_danh/N và/CC đánh_cắp/N thông_tin/N cũng/R đang/R gia_tăng/V một_cách/N đáng/R ngại/V
+những/L cuộc/Nc tấn_công/V DDoS/N mới/A đã/R xuất_hiện/V chiếm/V băng_thông/N lên/V tới/T 400Gb/M tại/N Việt_Nam/Np và/CC 1000/M Gb/Np tại/N Mỹ/Np
+VNCERT/Np
+Thực_tế/N các/L tấn_công/N mạng/N phần_lớn/N đều/R có/V sử_dụng/V các/L máy_chủ/N đặt/V tại/E nước_ngoài/N để/V cản_trở/V phá_hoại/N hoạt_động/N của/E các/L dịch_vụ/N máy_chủ/N mục_tiêu/N ông/N Nguyễn_Khắc_Lịch/Np nhấn_mạnh/V
+Do_vậy/N theo/V VNCERT/Np công_tác/V phối_hợp/N quốc_tế/N chặt_chẽ/A trong/E quá_trình/N ứng_cứu/V sự_cố/N là/V điều_kiện/N tiên_quyết/V để/E xử_lí/V dứt_điểm/V nguồn_gốc/N cuộc/N tấn_công/V và/CC các/L vấn_đề/N liên_quan/V đảm_bảo/V an_toàn/N mạng/N quốc_gia/N
+Ông/Nc Nguyễn_Khắc_Lịch/Np cũng/R đưa/V ra/R cảnh_báo/V từ/E kết_quả/N phân_tích/V của/E VNCERT/Np trong/E năm/N 2017/M sẽ/R có/V năm/M loại/N tấn_công/V phổ_biến/V
+Cụ_thể/N gồm/V
+Cuối_cùng/N là/V xu_hướng/N sử/N dụng/V các/L mạng_xã_hội/N để/E phát_tán/V mã/N độc/N lừa/V đảo/N trúng/V thưởng/N mạo_danh/N đánh_cắp/V thông_tin/N

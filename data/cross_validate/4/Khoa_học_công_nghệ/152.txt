@@ -1,0 +1,38 @@
+​/N Mua/V hàng/N Online_Friday/Np cần/V chuẩn_bị/V gì/P
+Ngày_Mua_sắm/N trực_tuyến/N Online_Friday/Np 2016/M onlinefridayvn/N do/N Bộ/N Công_thương/N tổ_chức/V quy_tụ/V tầm/N 3000/M doanh_nghiệp/N tham_gia/V với/E khoảng/N 200000/M sản_phẩm/N khuyến_mãi/N trong/E đó/N có/V hơn/A 5000/M đầu/N sản_phẩm/N khuyến_mãi/N được/V đảm_bảo/V bởi/E Ban/N tổ_chức/V tương_ứng/V với/E trên/N 50000/M đơn/N hàng/N
+Con_số/N này/P gấp/V đôi/M năm/N 2015/M mở/V ra/R nhiều/A cơ_hội/N mua_sắm/V cho/E người/N tiêu_dùng/V
+Để/E chen_chân/V và/CC nhanh/A tay/N mua/V hàng/N khuyến_mãi/N với/E giá/N tốt/N bạn/N cần/V chuẩn_bị/V kĩ_lưỡng/V theo/V các/L trình_tự/N bao_gồm/V
+Phương_thức/N trả/V tiền/N
+Bạn/N cần/V một/M tài_khoản/N ngân_hàng/N và/CC kế_tiếp/V là/V thẻ_thanh_toán/N
+Có/V các/L loại/N thẻ/N sau/N thẻ/N ATM/Np thẻ_tín_dụng/N credit_card/N và/CC thẻ_ghi_nợ/N debit_card/N
+Để/E tiện_lợi/N cho/V thanh_toán/V trực_tuyến/N online/N không_chỉ/N trên/E các/L website/N bán/V hàng/N tại/N Việt_Nam/Np mà_còn/N những/L website/N thương_mại_điện_tử/N quốc_tế/N bạn/N nên/C đăng_kí/N thẻ_tín_dụng/N credit_card/V VISA/Np hay/C Mastercard/Np là/V loại/Nc thẻ/N thường/R được/V chấp_nhận/V khi/N giao_dịch/V trực_tuyến/N
+Kế/V đến/V một/M bước/N an_toàn/A khi/N giao_dịch/V trên/E các/L website/N là/V thông_qua/V một/M bên/N thứ_ba/N đóng/V vai_trò/N trung_gian/N như/C các/L ví/N điện_tử/N hiện/N có/V tại/N Việt_Nam/Np như/C MobiVi/N MoMo/N OnePay/V VNPay/N hay/N 123Pay/M
+tuỳ_thuộc/V vào/V website/N bán/V hàng/N có/V hỗ_trợ/N
+Đối_với/C các/L website/N quốc_tế/N thì/C Paypal/Np là/V cổng/N thanh_toán/V trung_gian/N đáng/V tin_cậy/V và/N được/V dùng/V phổ_biến/A nhất/R
+Vậy/P là/C bạn/N đã/R có/V sẵn/A một/M tài_khoản/N ngân_hàng/N một/M thẻ_tín_dụng/N và/CC một/M tài_khoản/N ví/N điện_tử/N
+Đừng/R quên/V đăng_kí/N thông_báo/V giao_dịch/V qua/R tin_nhắn/N SMS/Np và/CC lớp/N mật_khẩu/N dùng/V một/M lần/N OTP/Np
+Thiết_bị/N lướt/N web/N
+Đừng/V bao_giờ/N mua_sắm/V trên/E mạng/N đăng_nhập/N tài_khoản/N ngân_hàng/N hay/C giao_dịch/V trực_tuyến/A trên/E các/L máy_tính/N công_cộng/N ở/V tiệm/N dịch_vụ/N Internet/Np hay/V quán/N cafe/N
+Toàn_bộ/N thông_tin/N giao_dịch/N có_thể/N dễ_dàng/A nằm/V gọn/A trong/E tay/N kẻ/N xấu/A
+Tương_tự/N đừng/V giao_dịch/V khi/N đang/R kết_nối/V bằng/E WiFi/N công_cộng/A ngay/T cả/P khi/N đang/R dùng/V chính/T điện_thoại_thông_minh/X smartphone/N hay/N máy_tính_bảng/N tablet/N của/N mình/N
+Dữ_liệu/N có_thể/A bị/V nghe/V lén/N và/CC đánh_cắp/V qua/V mạng/N không/R dây/N
+Thế/T nên/C dù/N dùng/V PC/Np hay/C di_động/V để/E mua_sắm/V bạn/N nên/C có/V sự/N chuẩn_bị/V tốt/A nhất/A
+Đối_với/N máy_tính/N dùng/V PC/Np desktoplaptop/N của/E chính/T mình/P
+Máy_tính/N có/V cài_đặt/N chương_trình/N bảo_mật/V anti/N virus/N
+Hãy/R cập_nhật/V dữ_liệu/N virus/N mới/A nhất/A sau/N đó/P dùng/V chương_trình/N anti/N virus/N quét/V toàn_bộ/N hệ_thống/N scan/N
+Khởi_động/V lại/R máy_tính/N khi/N đã/R quét/V xong/V và/N bắt_đầu/V mua_sắm/V
+Đối_với/N thiết_bị/N di_động/V tải/N ứng_dụng/N chính/A chủ/N của/E nơi/N bán/V như/C FPT/Np Shop/Np hay/C Lazada/Np Tiki/Np Adayroi/Np
+và/N giao_dịch/V trực_tiếp/A từ/E trong/N ứng_dụng/N thay_vì/V mở/V trình_duyệt/N web/N di_động/V
+Ngoài_ra/C cần/V lưu_ý/V nên/V dùng/V kết_nối/N 3G/N 4G/M thay_vì/N mạng/N WiFi/V công_cộng/N khi/N giao_dịch/V
+Danh_sách/N mặt_hàng/N cần/V mua/V
+Hãy/R liệt_kê/V trước/E những/L mặt_hàng/N cần/V mua/V theo/E từng/R nhóm/N sản_phẩm/N hoặc/N đi/V vào/E chi_tiết/N về/V thương_hiệu/N sản_phẩm/N hay/N model/N của/E sản_phẩm/N đó/P
+Càng/R chi_tiết/A bạn/N càng/R dễ/A kiếm/V được/R khuyến_mãi/V tốt/A cho/E đúng/A mặt_hàng/N đó/P thay_vì/V lan_man/V và/N lang_thang/V khắp/A trên/E mạng/N để/E tìm/V trong/N vô_vọng/N
+Liệt_kê/N mặt_hàng/N cần/V mua/V cũng/R giúp/V bạn/N tập_trung/V hơn/R giảm_thiểu/N nguy_cơ/N bị/V kẻ/N xấu/V lừa_đảo/N dẫn_dụ/V vào/E các/L website/N giả_mạo/N thu_hút/V bằng/E các/L chương_trình/N giảm_giá/N đặc_biệt/A với/E mức/N giá/N khó/A có_thể/A mong_đợi/V hơn/R
+Đừng/R bị/V cuốn/V vào/V chiếc/N iPad/N giá/N 1500000/M triệu/N đồng/N nếu/C không/R muốn/V trở_thành/V nạn_nhân/N của/N lừa_đảo/N
+Chọn/V nơi/N mua/V hàng/N
+Website/N bán/V hàng/N phải/V là/V nơi/N uy_tín/N mọi/L người/N đã/R nhắc/V tới/V trên/E mạng/N hoặc/N thông_qua/V bạn_bè/N người_thân/N
+Website_Online/Np Fridayvn/Np là/V cổng/N thông_tin/V cho/E các/L nhóm/N sản_phẩm/N và/CC mặt_hàng/N giảm_giá/N tổng_hợp/V từ/E các/L kênh/N bán/V hàng/N trực_tuyến/N chợ/N online/N như/C Lazada/Np Adayroi/Np Tiki/Np FPT/Np Shop/Np Thế_giới/N Di_động/V Sendo/Np
+Nếu/C mua/V hàng/N từ/E các/L website/N khác/A cũng/R có/V các/L chương_trình/N khuyến_mãi/N cuối/N năm/N bạn/N cần/V để_ý/V các/L yếu_tố/N sau/N để/E nhận_biết/V độ/N tin_cậy/N
+Cuối_cùng/A hãy/R kiểm_tra/V lại/R bằng/E cách/N tìm_kiếm/V bằng/E chính/T từ_khoá/N là/V tên/N của/E website/N đó/N trên/N Googlecom/Np để/V xem/V thêm/V thông_tin/N về/E những/L người/N đã/R mua/V hay/N cộng_đồng/N nói_gì/A về/V nơi/N bán/V này/N
+Kết_quả/N sẽ/R cung_cấp/V cho/E bạn/N kha_khá/N thông_tin/N dù/N chúng/N có_thể/A bị/V làm/V giả/V
+Càng/R cẩn_thận/A ở/V mọi/N khâu/N chuẩn_bị/V bạn/N sẽ/R tránh/V được/R rất/R nhiều/A những/N phiền_phức/A khi/N xảy/V ra/R sự_cố/N như/C thông_tin/N thẻ/N bị/V đánh_cắp/V website/N lừa_đảo/N hàng/N nhái/N

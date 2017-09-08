@@ -1,0 +1,38 @@
+Cảnh_báo/N bằng/E cách/N tấn_công/V mạng/N Trách_nhiệm/N của/N người_lớn/N
+Trách_nhiệm/N của/N người_lớn/N
+Theo/E các/L chuyên_gia/N an_ninh/N mạng/N trong/E vụ/N tấn_công/V các/L website/N các/L sân_bay/N vừa_qua/N ngoài/N hành_vi/N của/E các/L em/N học_sinh/N còn/R phải/V nói/V đến/E trách_nhiệm/N lớn/N thuộc/V về/E những/L người_làm/N công_tác/N quản_trị/N của/E các/L website/N này/P trong/E việc/N bảo_vệ/V hệ_thống/N thông_tin/N mạng/N của/N mình/N
+Ông/Nc Nguyễn_Hồng_Văn/Np phó/N viện_trưởng/N Viện/N công_nghệ/N an_toàn/A thông_tin/N Hiệp_hội/N an_toàn/A thông_tin/N Việt_Nam/Np Vnisa/Np cho/V biết/V Luật/N an_toàn/A thông_tin/N mạng/N có/V quy_định/N đơn_vị/N chủ_quản/V hệ_thống/N thông_tin/N có/V trách_nhiệm/N bảo_vệ/V hệ_thống/N thông_tin/N của/N mình/N
+Trong/E trường_hợp/N này/P đội_ngũ/N quản_trị/V không_những/N chưa/R tự/P bảo_vệ/V được/R mình/N mà_còn/C không/R màng/V đến/E cảnh_báo/N của/E các/L em/N
+Hơn_nữa/C các/L lỗi/N bảo_mật/V đều/R đã/R được/V công_bố/V trên/N internet/N
+Như/C vậy/P rõ_ràng/A những/L người/N quản_trị/V mạng/N đã/R không/R hoàn_thành/V trách_nhiệm/N của/E mình/N dẫn/V đến/R việc_làm/N các/L em/N bức_xúc/A
+Nếu/C không/R phải/A là/V các/L em/N hacker/N nước_ngoài/N hoàn_toàn/A có_thể/A chiếm/V quyền/N điều_khiển/V và/N gây/V ra/R những/L hậu_quả/N nhiêm/N trọng/V hơn/R thì/C ai/N sẽ/R là/V người/N chịu/V trách_nhiệm/N
+Bên_cạnh/N đó/P ông/Nc Văn/Np cũng/R cho/V rằng/E việc/N các/L em/N những/L người/N trẻ/A thiếu/A kiến_thức/N pháp_luật/N cũng/R có/V phần/N trách_nhiệm/N của/E những/L người_lớn/N
+Theo/E ông/N Văn/Np Việc/N ban_hành/V luật/N mới/R đều/R có/V quy_trình/N phổ_biến/V tuyên_truyền/V
+Tuy_nhiên/C trong/E trường_hợp/N này/P việc/N các/L em/N quá/R nhỏ/A tự/V học/V trên/E internet/N thì/C làm_sao/X chúng_ta/N có_thể/R tập_trung/V các/L em/N lại/R để/V tuyên_truyền/V
+Xã/N hội/N quá/R rộng_lớn/A không/R lẽ_ra/N một/M cái/Nc luật/N lại/V bắt/V cả/P xã_hội/N ngồi/V vào/E nghe/V giảng/N
+Do/E đó/P việc/N có/V các/L hội/N nghề_nghiệp/N chung/V tay/N tuyên_truyền/V luật_pháp/N chuyên_ngành/N là/V một/M việc/N cần_thiết/V
+Nhìn/V lại/R mình/N chúng_tôi/P vẫn/R chưa/R có/V sân_chơi/N cho/V các/L em/N nhỏ/A
+Đấy/P cũng/R có_thể/A là/V một/M phần/N trách_nhiệm/N của/E chúng_tôi/P
+Còn/C theo/V TS/N
+Nguyễn_Anh_Tuấn/Np Trưởng/Np khoa/N Mạng/Np máy_tính/V và/CC Truyền_thông/N ĐH/N CNTT/Np ĐHQG/V TPHCM/Np câu_chuyện/N hai/M bạn/N trẻ/N cảnh_báo/V lỗ_hổng/N bảo_mật/V bằng/E cách/N tấn_công/V website/N sân_bay/N vừa_qua/N đã/R đặt/V ra/R cho/E những/L người/N có/V trách_nhiệm/N 3/M vấn_đề/N lớn/V
+Thứ/N nhất/M đó/P là/V hiện_trạng/V nhiều/A đơn_vị/N sự_nghiệp/N lớn/A vẫn/R sử_dụng/V phần_mềm/N lạc_hậu/N ẩn_chứa/V nhiều/A lỗi/N và/CC không/R được/V cập_nhật/V bản/N vá/V lỗi/N thường_xuyên/A
+Nó/P chính/T là/V lỗ_hổng/N chết/V người/N với/E sự/N an_toàn/A của/E bất_kì/N hệ_thống/N mạng/N nào/P
+Đây/P cũng/R là/V một/M phần/N trách_nhiệm/N của/E cơ_quan/N bị/V tấn_công/V
+Thứ_hai/N là/V thách_thức/N phải/V nâng/V cao/A giáo_dục/N pháp_luật/N cho/E giới/N trẻ/N
+Không_gian/N mạng/N cũng/R như/C môi_trường/N giao_thông/N đi/V trên/E đường/N cần/V phải_biết/V luật/N giao_thông/N hoạt_động/V trên/E mạng/N cũng/R cần/V biết/V luật/N giao_thông/N trên/N mạng/N để/V giảm_thiểu/V rủi_ro/A
+Và/C thứ_ba/N chính/A là/V thiếu/N sân_chơi/N cho/E giới/N trẻ/N
+Giới/Nc trẻ/N ham_thích/V hacking/N đang/R tăng/V cao/A và/N nhu_cầu/V một/M sân_chơi/N lành_mạnh/A để/E tìm_hiểu/V về/E an_toàn/N thông_tin/N là/V có/V thật/A
+Do/E đó/P cần/V phải/V tạo/V điều_kiện/N để/E nghiên_cứu/V học_hỏi/V trong/E một/M môi_trường/N có/V kiểm_soát/N tránh/N gây/V ảnh_hưởng/V đến/E an_toàn/N xã_hội/N ông/N Tuấn/Np đề_xuất/V
+Cần/V nhiều/A sân_chơi/N cho/V người/N trẻ/A
+Theo/E tìm_hiểu/V của/E chúng_tôi/P Việt_Nam/Np hiện/N có/V khá/R nhiều/A cuộc/N thi/V cho/E các/L bạn/N trẻ/N yêu/V thích/N lĩnh_vực/N bảo_mật/V chẳng_hạn/N những/L cuộc/N thi/V lớn/A như/C Cuộc/N thi/V sinh_viên/N với/E an_toàn/N thông_tin/N do/E Bộ/N Giáo_dục/N và/CC Đào_tạo/N phối_hợp/V với/E Bộ/N Thông_tin/N và/CC Truyền_thông/N tổ_chức/V
+Cuộc/N thi/V Whitehat/Np CTF/Np do/E Công_ty/N Bkav/Np tổ/N chức/N
+Và/C rất/R nhiều/A cuộc/N thi/V ở/E các/L cấp_độ/N nhỏ/N khác/A
+Tuy_nhiên/C về/V mặt/N số_lượng/N vẫn/R còn/V ít/A và/N mức_độ/N tuyên_truyền/V để/E thu_hút/V các/L bạn/N trẻ/N tham_gia/V vẫn/R khá/A thấp/A
+Với/E mong_muốn/N tạo/V thêm/R sân_chơi/N cho/E các/L bạn/N trẻ/N yêu/V thích/N lĩnh_vực/N an_ninh/N mạng/N TS/N
+Nguyễn_Anh_Tuấn/Np chia_sẻ/V Trường/N ĐH/N CNTT/Np và/CC Vnisa/Np thường_xuyên/N tổ_chức/V các/L buổi/N thảo_luận/V trao_đổi/V học_thuật/N các/L cuộc/N thi/V và/CC có/V cả/N phòng_thí_nghiệm/N về/V an_toàn/N thông_tin/N rất/R mong/V các/L bạn/N trẻ/N ham_thích/V hacking/N hay/C các/L đơn_vị/N có/V nhu_cầu/N tìm_hiểu/V hãy/R cùng/R tham_gia/V với/E chúng_tôi/P để/E góp_phần/V làm/V lành_mạnh/A không_gian/N mạng/N
+Chúng_tôi/P luôn/R kêu_gọi/V các/L bạn/N trẻ/N tham_gia/V mạng_lưới/N cộng_tác_viên/N
+Khi/N các/L bạn/N phát_hiện/V chúng_tôi/N cùng/C các/L bạn/N có/V những/L cảnh_báo/N đúng/A địa_chỉ/N tuyệt_đối/A không/R thực_hiện/V các/L hành_động/N phá_hoại/N
+Đồng_thời/N chúng_tôi/N luôn_luôn/N đào_tạo/V đạo_đức/N nghề_nghiệp/N đào_tạo/V bổ_sung/V nghiệp_vụ/N tạo/V điều_kiện/N để/E các/L bạn/N tham_gia/V những/L dự_án/N để/E các/L bạn/N thể_hiện/V được/R năng_lực/N của/E mình/P theo/V hướng/N tích_cực/N ông/N Võ_Đỗ_Thắng/Np giám_đốc/N Trung_tâm/N đào_tạo/V và/N an_ninh/N mạng/N Athena/Np cho/V biết/V thêm/V
+Ông/Nc Nguyễn_Hồng_Văn/Np chia_sẻ/V Với/E tôi/P hai/M em/N nhỏ/A vừa_qua/V là/V những/L mầm_non/N mà/E chúng_ta/N có/V trách_nhiệm/N nâng_niu/V để/E các/L em/N phát_triển/V
+Trong/E quá_trình/N nâng_niu/V đó/P sẽ/R có/V những/L uốn_nắn/N để/E các/L em/N đừng/V đi/V vào/E con/Nc đường/N sai_lầm/A
+Tất_nhiên/A các/L em/N dù/N là/V lớn/A hay/C nhỏ/A hãy/R nên/V tập/V cho/E mình/N một/M thói_quen/N tìm_hiểu/V luật_pháp/N trước/E khi/N làm/V một/M điều/N gì/P đấy/P có/V ảnh_hưởng/V đến/E người/N khác/A

@@ -1,0 +1,24 @@
+Real/Np thống_trị/V bảng/N đánh_giá/V năm/N năm/M của/E UEFA/Np
+Với/E 151 9/M điểm/N Real/Np dẫn/V đầu_bảng/N đánh_giá/V năm/N mùa/N giải/N gần/A nhất/A của/E UEFA/Np
+Đây/P là/V tổng/N điểm/N từng/R mùa/N gồm/V 2013-2014/M /N 39 0/M điểm/N /A 2014-2015/M /N 33 2/M /Nu 2015-2016/M /N 37 5/M /Nu 2016-2017/M /N 37 8/M /N và/CC điểm/N cộng/V sẵn/A cho/E thành_tích/N vào/E vòng/N bảng/N Champions_League/Np mùa/N 2017-2018/M /Nu 4 2/M /N
+Real/Np sở_dĩ/C có/V số/N điểm_cao/N nhất_là/X nhờ/V thành_tích/N ấn_tượng/N kể/V từ/E mùa/N 2013-2014/M trên/E đấu_trường/N châu/N Âu/Np
+Bên_cạnh/N một/M lần/N vào/E bán_kết/N mùa/N 2014-2015/M đội/N chủ/N sân/N Bernabeu/Np vô_địch/A cả/T ba/M mùa/N Champions_League/Np còn/V lại/R
+Cũng/R nhờ/V thành_tích/N ổn_định/V tại/E Champions_League/Np Atletico/Np xếp/V thứ_hai/N với/E tổng_số/N 133 9/M điểm/N
+Đoàn/N quân/N của/E HLV/Np Diego_Simeone/Np gây/V ấn_tượng/N qua/V hai/M lần/N vào/E chung_kết/N năm/N 2014/M 2016/M vào/E bán_kết/N 2017/M và/CC tứ_kết/V 2015/M
+Barca/Np giành/V chức/N vô_địch/A mùa/N 2014-2015/M nhưng/C chỉ/R xếp/V thứ_ba/N
+Tổng/N điểm/N của/E đội/N bóng/N xứ/N Catalan/Np là/V 128 9/M
+Hai/M gương_mặt/N còn/V lại/R trong/E Top/Np năm/N là/V Bayern/Np và/CC Juventus/Np
+Đây/P không/R phải/A là/V điều/N gây/V ngạc_nhiên/V vì/E đội/N bóng/N Đức/Np thường_xuyên/A vào/V bán_kết/V và/CC tứ_kết/V Champions_League/Np còn/C Lão_phu/N nhân/N có/V hai/M mùa/N vào/V chung_kết/N
+Sevilla/Np xếp/V thứ_sáu/N dù/C hiếm/A khi/N được/V chơi/V tại/E Champions_League/Np
+Đây/P là/V vị_trí/N có/V được/R nhờ/V thành_tích/N ba/M lần/N liên_tiếp/A vô_địch/A Europa_League/Np  /EOS
+10/M đội/N mạnh/A nhất/A năm/M năm/N qua/V của/E UEFA/Np 1/M
+Real_Madrid/Np 151 9/M điểm/N 2/M
+Atletico_Madrid/Np 133 9/M 3/M
+Barca/Np 128 9/M 4/M
+Bayern/Np 122 6/M 5/M
+Juventus/Np 119 9/M 6/M
+Sevilla/Np 109 9/M 7/M
+PSG/Np 103 9/M 8/M
+Dortmund/Np 95 6/M 9/M
+Man_City/Np 94 3/M 10/M
+Benfica/Np 87/M

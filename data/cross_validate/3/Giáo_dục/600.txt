@@ -1,0 +1,12 @@
+Bộ/N Giáo/Np dục/V công_bố/V 63/M cụm/N thi/V THPT/Np quốc_gia/N
+Nhiệm_vụ/N của/E các/L Sở/N Giáo/N dục/N là/V tổ_chức/V hội_đồng/N thi/V thành_lập/V các/L điểm/N thi/V chủ_trì/V và/CC phối_hợp/V trường/N in/V sao/P đề/N thi/V coi/V thi/V chấm/V thi/V
+Sở/N cũng/R có/V trách_nhiệm/N thông_báo/V kết_quả/N thi/V cho/E thí_sinh/N nhận/V phúc_khảo/N xét/V công_nhận/V tốt_nghiệp/V THPT/Np và/CC báo_cáo/V kết_quả/N về/E Bộ/N Giáo/Np dục/V và/CC Đào_tạo/N
+*/M Danh_sách/N cụ_thể/A các/L cụm/N thi/V  /M Trước/N đó/P trong/E cuộc/N họp/V thường_kỳ/N quý/N I/M /M ngày/N 24/3/M /Nu lãnh_đạo/N Bộ/N Giáo/Np dục/V cho_biết/V đã/R tập_huấn/V quy_chế/N nghiệp_vụ/N tổ_chức/V thi/V và/CC sử_dụng/V phần_mềm/N quản_lý/V thi/V tuyển_sinh/V năm/N 2017/M cho/E lãnh_đạo/N phụ_trách/N thi/V tuyển_sinh/V của/E 63/M Sở/N Giáo/N dục/N 270/M trường/N đại_học/N cao_đẳng/N trong/E toàn_quốc/N
+Dù/C không/R trực_tiếp/A chủ_trì/V cụm/N thi/V như/C năm/N trước/A nhưng/C các/L đại_học/N vẫn/R có/V cán_bộ/N giảng_viên/N coi/V thi/V trực_tiếp/A tại/E địa_phương/N theo/E tỷ_lệ/N 1-1/M /N một/M địa_phương/N một/M cán_bộ/N trường/N đại_học/N /M
+Từ/E ngày/N 21/6/M đến/E 24/6/M gần/A một_triệu/M thí_sinh/N sẽ/R bước/V vào/E kỳ/N thi/V THPT/Np quốc_gia/N
+Có/V 5/M bài/N thi/V gồm/V 3/M bài/N độc_lập/N là/V Toán/Np Ngữ_Văn/Np Ngoại_ngữ/N và/CC 2/M bài/N tổ_hợp/N là/V Khoa_học_xã_hội/N Khoa_học_tự_nhiên/N
+Trong/E đó/P chỉ/R Ngữ_văn/V thi/V tự/P luận/V còn/V lại/R là/V bài/N trắc_nghiệm/V
+Để/E xét/V công_nhận/V tốt_nghiệp/V THPT/Np thí_sinh/N học/V chương_trình/N THPT/Np phải/V dự/V thi/V 4/M bài/N gồm/V 3/M bài/N độc_lập/N và/CC một/M bài/N tự/P chọn/V trong/E số/N 2/M bài/N thi/V tổ_hợp/N
+Thí_sinh/N học/V chương_trình/N giáo_dục/V thường_xuyên/A phải/V dự/V thi/V 3/M bài/N gồm/V 2/M bài/N thi/V độc_lập/A là/V Toán/Np Ngữ_văn/Np và/CC một/M bài/N tổ_hợp/N tự/P chọn/V
+Thí_sinh/N được/V chọn/V dự/V thi/V cả/P 2/M bài/N thi/V tổ_hợp/N điểm/N bài/N thi/V tổ_hợp/N nào/P cao/A hơn/R sẽ/R được/V chọn/V để/E tính/V điểm/N xét/V công_nhận/V tốt_nghiệp/V THPT/Np
+Mỗi/L thí_sinh/N trong/E cùng/A phòng/N thi/V có/V một/M mã_đề/N riêng/A

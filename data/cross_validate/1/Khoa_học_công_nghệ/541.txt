@@ -1,0 +1,14 @@
+Hải_quân/N Mỹ/Np phát_triển/V pin/N sạc/N không/R cháy/V nổ/V
+Các/L tàu_ngầm/N và/CC tàu_chiến/N của/E hải_quân/N Mỹ/Np hiện_nay/N sử_dụng/V rộng_rãi/A pin/N Lithium/Np ion/V Li/Np ion/V nhưng/C chúng/P có/V nhược_điểm/N là/V dễ/A cháy/V nổ/V trong/E các/L điều_kiện/N bất_lợi/N
+Phòng_thí_nghiệm/N nghiên_cứu/V thuộc/V hải_quân/N Mỹ/Np NRL/Np mới_đây/X giới_thiệu/V công_nghệ/N pin/V sạc/N an_toàn/A mới/R có_thể/R được/V ứng_dụng/V vào/E các/L phương_tiện/N chạy_điện/V xe_đạp/N hay/C tàu_thuyền/V theo/V Popsci/Np
+Chất_lỏng/N hữu_cơ/N bên/N trong/E pin/N Li/Np ion/V rất/R dễ/A bắt/V lửa/N ở/E nhiệt_độ/N cao/A gây/V ra/R cháy/V nổ/V có_thể/R trở_thành/V những/L sự_cố/N nghiêm_trọng/A  /M Năm/N 2008/M pin/N Li/Np ion/V trên/E một/M tàu_ngầm/N thử_nghiệm/V của/E hải_quân/N Mỹ/Np bốc/V cháy/V gây/V thiệt_hại/N nghiêm_trọng/A cho/E tàu_ngầm/N
+Hải_quân/N Mỹ/Np vừa/R ra_lệnh/V cấm/V binh_sĩ/N sử_dụng/V thuốc_lá/N điện_tử/N trên/E tàu_chiến/N và/CC tàu_ngầm/N để/E ngăn_ngừa/V nguy_cơ/N cháy/V nổ/V từ/E pin/N Li/Np ion/V
+Để/E giải_quyết/V vấn_đề/N này/P NRL/Np phát_triển/V loại/N pin/N sạc/N mới/R dựa/V trên/E nền_tảng/N pin/N alkaline/V pin/N kiềm/V vốn/N  /A có/V chất/N điện_phân/N gốc/N nước/N an_toàn/A hơn/A và/CC không/R bắt/V lửa/N
+Loại/N pin/N này/P có/V điện_cực/N chế_tạo/V từ/E kẽm/N loại/N nguyên_liệu/N rất/R rẻ/A và/CC phổ_biến/V
+Ưu_điểm/N khó/A cháy/V và/CC dễ/A chế_tạo/V của/E pin/N kiềm/N đã/R thu_hút/V hải_quân/N Mỹ/Np
+Nhược_điểm/N của/E pin/N kiềm/N là/V chúng/P rất/R khó/A để/E sạc/V lại/R
+Trong/E quá_trình/N sử_dụng/V kim_loại/N kẽm/N trong/E điện_cực/N sinh_ra/V các/L kết_tủa/N khiến/V chúng/P không_thể/R nạp/V điện/N lại/R để/V tái_sử_dụng/V
+Vướng_mắc/N này/P được/V các/L nhà_khoa_học/N tại/E NRL/Np giải_quyết/V bằng/E cách/N tái_tạo/V kẽm/N thành/V dạng/N khác/A giúp/V ngăn_chặn/V sự/Nc hình_thành/V kết_tủa/V đem/V tới/E khả_năng/N sạc/V lại/R cho/E pin/N kiềm/V
+Họ/P nhũ/N hóa/V và/CC xử_lý/V nhiệt/N hỗn_hợp/A nước/N dầu/N và/CC bột_kẽm/V tạo/V ra/R dung_dịch/N có/V độ/N an_toàn/A cao/A sẵn_sàng/A trở_thành/V cực/N dương/N của/E pin/N
+NRL/Np cho/V rằng/C công_nghệ/N này/P sẽ/R giúp/V hải_quân/N Mỹ/Np sở_hữu/V các/L loại/N pin/N chống/V cháy/V nổ/V cực_kỳ/R an_toàn/A cho/E các/L tàu_chiến/N và/CC tàu_ngầm/N
+Loại/N pin/N mới/A này/P vẫn/R đang/R trong/E giai_đoạn/N thử_nghiệm/V quy_mô/N nhỏ/A

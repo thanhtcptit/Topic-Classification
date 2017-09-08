@@ -1,0 +1,18 @@
+Xe/N tự/P lái/V tung_hoành/V trong/E thành_phố/N ma/N
+Theo/E Discovery_News/Np MCity/Np là/V một/M thành_phố/N rộng/A 130/M 000/M m2/Nu nằm/V trong/E khuôn_viên/N Đại_học/N Michigan_Mỹ/Np
+MCity/Np được/V trường/N đại_học/N kết_hợp/V với/E chính_quyền/N bang/N xây_dựng/V để/E thử/V những/L công_nghệ/N mới/R có/V khả_năng/N thay_đổi/V ngành/N công_nghiệp/N ôtô/N trong/E tương_lai/N
+Thiết_kế/V của/E thành_phố/N cho_phép/V tạo_dựng/V những/L tình_huống/N mà/C xe/N tự/P lái/V phải/V xử_lý/V trong/E đời_sống/N thường_ngày/A ở/E đô_thị/N chẳng_hạn/X như/C trường_hợp/N một/M đứa/Nc trẻ/N bất_ngờ/A lao/V qua/E đường/N
+MCity/Np được/V trang_bị/V những/L cột/N đèn/N giao_thông/N đèn/N đường_lối/N sang/V đường/N làn_đường/V cho/E xe_đạp/N vòng/N xuyến/N và/CC đường_ray/N xe_lửa/N
+Những/L con/Nc phố/N với/E mặt_tiền/N cửa_hiệu/N trạm/N xe_buýt/N ghế/N chờ/V hòm_thư/N và/CC thùng/N rác/N mang/V đến/R cho/E MCity/Np vẻ/N ngoài/E giống_hệt/V một/M thị_trấn/N sinh_động/A
+Tuy_nhiên/C nơi/N đây/P không/R dành/V cho/E con_người/N sinh_sống/V
+Những/L thứ/N hoạt_động/V duy_nhất/A ở/E đây/P là/V các/L thiết_bị/N thu_thập/V dữ_liệu/N như/C máy/N quay/V radar/N thiết_bị/N siêu_âm/N và/CC laser/N
+Trong/E một/M năm/N qua/V MCity/Np giữ/V vai_trò/N như/C một/M phòng_thí_nghiệm/N để/E kiểm_tra/V công_nghệ/N tự/P lái/V do/E các/L công_ty/N phát_triển/V theo/E Jim_Sayer/Np giám_đốc/N triển_khai/V hoạt_động/V tại/E Trung_tâm/N Chuyển_hóa/Np Di_động/V thuộc/V Đại_học/N Michigan/Np
+Họ/P thử_nghiệm/V phần_mềm/N và/CC các/L máy/N cảm_biến/V cũng_như/C cách/V hệ_thống/N phản_ứng/N trong/E những/L tình_huống/N giả_định/V cụ_thể/A AFP/Np dẫn/V lời/N Sayer/Np
+Các/L hãng/N xe/N và/CC công_ty/N công_nghệ/N có_thể/R cho/V chạy/V xe/N tự/P lái/V ở/E tốc_độ/N 100/M km/Nu //X h/V bất_kể/R ngày_đêm/N theo/E tình_huống/N lái_xe/N trong/E thành_phố/N lái_xe/N ở/E ngoại_ô/N lái_xe/N trên/E đường_cao_tốc/N trên/E những/L loại/Nc đường/N khác_nhau/A như/C đường/N rải/V sỏi/N đường_nhựa/N và/CC đường/N bê_tông/V
+Hãng/N xe/N Ford/Np của/E Mỹ/Np đã/R bắt_đầu/V thử_nghiệm/V mẫu/N xe/N tự/P lái/V Fusion/Np ở/E MCity/Np
+Những/L chiếc/Nc xe/N sẽ/R chạy/V trong/E điều_kiện/N thời_tiết/N khắc_nghiệt/A như/C tuyết/N rơi/V và/CC mưa_bão/V với/E sự/Nc can_thiệp/V của/E máy/N cảm_biến/V và/CC hệ_thống/N định_vị/V vệ_tinh/N
+Chúng_tôi/P đã/R chạy/V thử/V xe/N tự/P lái/V trong/E thực_tế/N nhưng/C một/M nơi/N như/C MCity/Np sẽ/R cho_phép/V chúng_tôi/P hoàn_thiện/V các/L thuật_toán/N và/CC hiệu_chỉnh/V máy/N cảm_biến/V tốt/A hơn/R nhờ/E những/L tình_huống/N cụ_thể/A lặp/V lại/R một_cách/N đáng/V tin_cậy/V Jim_Mc/Np Bride/Np người/N đứng/V đầu/N chương_trình/N xe/N tự/P lái/V của/E Ford/Np cho_biết/V
+Đối_với/E Sayer/Np giá_trị/N chính/A của/E MCity/Np nằm/V ở/E sự/Nc đa_dạng/A của/E các/L bài/N thử_nghiệm/V xe/N
+Mỗi/L kilomet/N ở/E khu_vực/N thử_nghiệm/V tương_ứng/V với/E 100/M hay/C 1/M 000/M km/Nu trên/E đường/N thực_tế/N
+Ngoài_ra/C mỗi/L tình_huống/N có_thể/R lặp/V lại/R vô_số/L lần/N điều/N bất_khả_thi/A trên/E đường/N công_cộng/N
+Thông_qua/V các/L bài/N thử/V lặp_đi_lặp_lại/V nhà_sản_xuất/N có_thể/R điều_chỉnh/V thiết_kế/V máy/N cảm_biến/V và/CC phần_mềm/N giúp/V xe/N vận_hành/V tốt/A hơn/R

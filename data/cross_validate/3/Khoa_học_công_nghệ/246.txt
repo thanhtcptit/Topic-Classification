@@ -1,0 +1,11 @@
+​/N Windows/Np 10/M mới/R giúp/V người/N mù_màu/V dùng/V bình_thường/N
+Microsoft/Np gọi/V đây/P là/V bộ/N lọc/V màu_sắc/N bao_gồm/V sáu/N chế_độ/N thiết_lập/N khác/A nhau/N để/E người/N mù_màu/N đỏ/A hoặc/N xanh/A lá/N cây/N có_thể/R cân/V chỉnh/N
+Bên_cạnh/N đó/P Microsoft/Np cho/V biết/V các/L bộ/N lọc/N có_thể/R giúp/V nhận_biết/N độ/N nhạy/A sáng/N để/E dùng/V hay/N tạo/V nội_dung/N như/C việc/N điều_chỉnh/V tất_cả/N hình_ảnh/N hiển_thị/N dù/N nó/P có/V là/V một/M phần/N của/E hệ_điều_hành/N hay/C không/R
+Các/L chế_độ/N thiết_lập/V phù_hợp/V với/E các/L dạng/N mù_màu/N phổ/N biến/V gồm/V Greyscale/Np sắc/N xám/A Invert/Np Đảo_ngược/V Greyscale_Inverted/Np đảo_ngược/V sắc/N xám/A dạng/N phổ_biến/V Deuteranopia/Np sắc/N xanh/A lá/N cây/N Protanopia/Np sắc/N đỏ/A và/CC dạng/N hiếm/N Tritanopia/Np sắc/N xanh/A dương/N
+Tất_cả/P nằm/V trong/E phần/N chức_năng/N hỗ_trợ/V người_dùng/N vào/V Settings/Np Ease/Np of/N Access/Np Color/Np and/N High_Contrast/Np
+Ngoài/E cập_nhật/N này/P Microsoft/Np bổ_sung/V Scan_Mode/Np vào/V Narrator/Np giúp/V người_dùng/N điều_khiển/V bằng/E bàn_phím/N cụ_thể/A là/V các/L phím/N mũi_tên/N cùng/A phím/N khoảng/N trắng/A space/N đối_với/E các/L nội_dung/N trong/E một/M ứng_dụng/N
+Trước/E đó/P Microsoft/Np đã/R đưa/V tính_năng/N bảo_vệ/V mắt/N cho/V tất_cả/N người_dùng/N mang/V tên/N Blue_Light/Np
+Tính_năng/N này/P bắt_đầu/V có_mặt/V trong/E bản/N Windows/Np 10/M build/N 15002/M bảo_vệ/N mắt/N trước/A các/L tia/N bức_xạ/N ánh_sáng/N xanh/A của/E màn_hình/N làm/V dịu/A mắt/N và/CC dễ/A ngủ/V hơn/A sau/E khi/N dùng/V máy_tính/N vào/V buổi/N tối/N
+Tương_tự/N tính_năng/N Night_Mode/Np được/V Apple/Np đưa/V vào/R hệ_điều_hành/N iOS/N và/CC macOS/N
+Bật_Blue_Light/Np vào/V Settings/Np Display/Np Lower/Np blue/V light/N automatically/N ON/Np để/E bật/V tự_động/A
+Người_dùng/N có_thể/A cân/V chỉnh/N mức_độ/N màu_sắc/N cho/V ánh_sáng/N màu/N ấm/A hơn/R phù_hợp/V với/E mắt/N mình/P bằng/V cách/N nhấn/V vào/E Blue/Np light/V settings/N

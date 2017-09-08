@@ -1,0 +1,16 @@
+Nguyên_nhân/N thật_sự/A đằng/N sau/E việc/N MacBook/Np Pro/Np mới/R chỉ/R có/V tối_đa/A 16GB/M RAM/Nu 
+Gần/A đây/P có/V khá/R nhiều/A khách_hàng/N đã/R đặt/V ra/R câu_hỏi/N rằng/C tại_sao/X Apple/Np quyết_định/V không/R tăng/V lượng/N RAM/Np trái_ngược/V với/E các/L phần_cứng/N khác/A như/C chip/N xử_lý/V SSD/Np card/V đồ_họa/N đều/R được/V nâng_cấp/V mạnh_mẽ/A trên/E chiếc/Nc MacBook/Np Pro/Np 2016/M vừa_mới/R ra_mắt/V được/R ít/A ngày/N 
+Mới_đây/X theo/V nguồn/N tin/N từ/E AppleInsider/Np giới_hạn/N của/E việc/N sử_dụng/V chip/N xử_lý/V Intel_Kaby_Lake/Np Skylake/Np )/A có_thể/R chính/T là/V nguyên_nhân/N đằng/N sau/E vấn_đề/N này/P 
+Được/V biết/V chip/V xử_lý/V được/V sử_dụng/V trên/E cả/P 3/M model/Np mới/R của/E MacBook/Np Pro/Np đều/R chú_trọng/V vào/E khả_năng/N tiết_kiệm/V điện_năng/N tiêu_thụ/V thay_vì/V giải_phóng/V hết/V hiệu_năng/N mạnh_mẽ/A mà/C một/M chiếc/Nc laptop/N có_thể/A làm/V được/R 
+Những/L dòng/N MacBook/Np Pro/Np năm/N nay/P cũng/R vì_thế/C mà/C chỉ/R giới_hạn/V ở/E 16GB/Np dung_lượng/V bộ_nhớ/N RAM/Np và/CC sử_dụng/V chuẩn/N LPDDR3/Np thay_vì/V LPDDR4/Np có/V tốc_độ/N và/CC hiệu_năng/V mạnh/A hơn/R 
+Hiện/N cũng/R chưa/R có/V sản_phẩm/N máy_tính/N nào/P của/E Apple/Np có/V lượng/N RAM/Np vượt/V quá/R 16GB/M 
+Ngoại_lệ/N duy_nhất/A với/E RAM/Np 32GB/Np thuộc/V về/E dòng/N i/N Mac/Np cao_cấp/A với/E màn_hình/N 27-inch/M 
+Bên_cạnh/N đó/P đây/P cũng/R có_thể/R là/V lý_do/N khiến/V Apple/Np trang_bị/V 4/M cổng/N Thunderbolt/Np 3/M trên/E thế_hệ/N MacBook/Np mới/R nhằm/V tối_ưu_hóa/V băng_thông/N 
+Vài/L ngày_trước/N giám_đốc/N Marketing/N của/E Apple/Np là/V Phil_Schiller/Np từng/R cho_biết/V việc/N MacBook/Np Pro/Np 2016/M chỉ/R hỗ_trợ/V 16GB/M RAM/Np là/V để/E tăng/V thời_lượng/N và/CC tuổi_thọ/N của/E pin/N 
+Theo/E Phil/Np việc/N một/M chiếc/Nc notebook/N sở_hữu/V lượng/N RAM/Np lớn/A hơn/R 16GB/M có_thể/R sẽ/R khiến/V nó/P tiêu_thụ/V quá/R nhiều/A năng_lượng/N và/CC gây/V hại/V đến/E pin/N trên/E thiết_bị/N 
+Mặc_dù/C câu/N trả_lời/V của/E Phil_Schiller/Np là/V rất/R dễ/A hiểu/V nhưng/C nó/P vẫn/R khiến/V nhiều/A tín_đồ/N công_nghệ/N cảm_thấy/V không/R thoải_mái/A 
+Nhiều/A người/N thậm_chí/R bày_tỏ/V sự/Nc thất_vọng/V với/E Apple/Np vì/E đã/R không/R mang/V đến/E sự/Nc lựa_chọn/V giữa/E hiệu_năng/N và/CC tuổi_thọ/N pin/V cho/E khách_hàng/N 
+Cần/V nhớ/V rằng/C mặc_dù/C hầu_hết/L người/N dùng/V laptop/N sẽ/R không_thể/R sử_dụng/V hết/R 32GB/M RAM/Nu tuy_nhiên/C MacBook/Np Pro/Np là/V sản_phẩm/N hướng/N đến/E nhóm/N người/N luôn/R có/V yêu_cầu/V cao/A về/E sức_mạnh/N tính_toán/V xử_lý/V đồ_họa/N trên/E thiết_bị/N của/E mình/P 
+Những/L người/N này/P có_thể/R sẽ/R cảm_thấy/V bị/V hạn_chế/V bởi/E lượng/N RAM/Np tối_đa/A chỉ/R có/V 16GB/M của/E thế_hệ/N MacBook/Np Pro/Np năm/N nay/P ​/EOS 
+AppleInsider/Np cho_biết/V chuẩn/N RAM_LPDDR/Np 4/M có_thể/R sẽ/R không/R xuất_hiện/V trên/E các/L mẫu/N MacBook/Np của/E Apple/Np cho_đến/E hết/V năm/N 2017/M và/CC thậm_chí/R còn/R lâu/A hơn/R do/E ràng_buộc/N với/E bộ_vi_xử_lý/N Kaby_Lake/Np của/E Intel/Np 
+Nguyễn_Nguyễn_Theo_Mac/Np Rumors/Np AppleInsider/Np 

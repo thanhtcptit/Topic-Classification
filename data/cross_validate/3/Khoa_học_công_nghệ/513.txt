@@ -1,0 +1,9 @@
+Đồng_hồ/N đo/V tuổi_thọ/N con_người/N
+Chiếc/Nc đồng_hồ/N được/V chế/V  /N tạo/V bởi/E giáo_sư/N vật_lý/N Aneta_Stefanovska/Np và/CC Peter_Mc/Np Clintock/Np từ/E Đại_học/N Lancaster/Np Anh/N
+Khi/N ở/V trên/E tay/N chiếc/Nc đồng_hồ/N phát/V ra/R các/L chùm/Nc laser/N sâu/A vào/E da/N con_người/N để/E phân_tích/V tình_trạng/N các/L tế_bào/N mao_mạch/N nhỏ/A và/CC xác_định/V tình_trạng/N lão_hóa/V của/E cơ_thể/N
+Những/L dữ_liệu/N thu_thập/V được/R từ/E các/L chùm/Nc laser/N sẽ/R đánh_giá/V các/L chức_năng/N của/E tế_bào/N trên/E thang/N điểm/N từ/E 0/M đến/E 100/M
+Từ/E đó/P các/L nhà_nghiên_cứu/N dựa/V vào/E các/L con_số/N đó/P để/E dự_đoán/N thời_gian/N tồn_tại/V của/E một/M người/N
+Giáo_sư/N  /M Aneta_Stefanovska/Np cho_biết/V việc/N sử_dụng/V thiết_bị/N trên/E có_thể/R giúp/V các/L bác_sĩ/N sớm/A nhận/V ra/R dấu_hiệu/N một_vài/L căn_bệnh/N nguy_hiểm/A như/C bệnh/N tim_mạch/N vành/N ung_thư/N hoặc/CC mất/V trí_nhớ/N
+Giới/N khoa_học/N hy_vọng/V thời_gian/N tới/V họ/P sẽ/R xây_dựng/V được/R một/M cơ_sở_dữ_liệu/N phong_phú/A hơn/A để/E có_thể/A dự_đoán/N chính_xác/A số/N năm/N còn/V lại/R của/E một/M con_người/N
+Trong/E tương_lai/N thiết_bị/N trên/N sẽ/R được/V thu/V nhỏ/A bằng/E với/E một/M đồng_hồ/N đeo/V tay/N cho/E gọn_gàng/A hơn/A
+Theo/E dự_kiến/N thiết_bị/N này/P đã/R sẵn_sàng/A có_mặt/V trên/E thị_trường/N trong/E ba/M năm/N tới/V với/E mức/N giá/N từ/E 310/M đến/E 464/M USD/Nu

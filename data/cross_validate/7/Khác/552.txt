@@ -1,0 +1,24 @@
+Việt_Nam/Np sẽ/R chịu/V nhiều/A cuộc/N tấn_công/V tương_tự/A WannaCry/Np
+Trong/E vụ/N WannaCry/Np Việt_Nam/Np nằm/V thuộc/V top/N 20/M quốc_gia/N bị/V ảnh_hưởng/V nhất/R
+Bởi_vậy/C theo/E ông/Nc Triệu_Trần_Đức/Np Tổng_Giám/Np đốc/V CMC/Np InfoSec/Np nước/N ta/P có_thể/R tiếp_tục/V trở_thành/V điểm_nóng/N của/E mã/N độc/A tống_tiền/V mới/R thời_gian/N tới/V
+Chuyên_gia/N này/P cho_biết/V không/R một/M hệ_thống/N nào_là/N tuyệt_đối/A an_toàn/A vì_thế/C các/L nhà_sản_xuất/N thường_xuyên/A phải/V đưa/V ra/R các/L bản/N cập_nhật/V phần_mềm/N vá/V lỗi/N
+Tuy_nhiên/C người/N dùng/V Việt_Nam/N ít/A quan_tâm/V đến/E vấn_đề/N này/P lơ_là/C với/E các/L cảnh_báo/N
+Bởi_vậy/C trước/E những/L cuộc/N tấn_công/V kiểu/N mới/A hệ_thống/N thiết_bị/N của/E Việt_Nam/Np sẽ/R dễ/A bị/V xuyên/V thủng/V người/N dùng/V doanh_nghiệp/N thường/R bị_động/V trong/E cách/N xử_lý/V
+Trong/E khi/N đó/P thiệt_hại/V do/E ransomware/N hay/C tấn_công/V mạng/N gây/V ra/R là/V vô_cùng/R lớn/A
+Theo/E ông/Nc Đức/Np các/L mã/N độc/A tống_tiền/V ngày_nay/N sẽ/R rất/R khó/A bị/V phát_hiện/V do/E sử_dụng/V tiền/N ảo/A Bitcoin/Np nhằm/V ẩn_danh/V tính/N
+Toàn_bộ/N dữ_liệu/N bị/V mã_hóa/V gần_như/R không/R có/V cách/N nào/P cứu/V được/R ngoài/E việc/N trả/V tiền/N chuộc/V theo/E yêu_cầu/N của/E hacker/N
+WannaCry/Np gây/V chú_ý/V thời_gian/N gần/A đây/P khi/N là/V mã/N độc/A tống_tiền/V gây/V ảnh_hưởng/V tới/E hơn/A 200 0/M máy_tính/N tại/E 150/M quốc_gia/N
+Trước/E đó/P kịch_bản/N về/V sự/N nổi_dậy/V của/E ransomware/N đã/R được/V nhiều/A công_ty/N công_nghệ/N và/CC bảo_mật/V dự_đoán/N
+Microsoft/Np cho_biết/V  /A một/M trong/E những/L mánh_khoé/N phổ_biến/V hiện_nay/N của/E tin_tặc/N là/V phát_tán/V mã/N độc/A có/V khả_năng/N mã_hoá/V dữ_liệu/N trên/E ổ_cứng/N thiết_bị/N sau/N đó/P yêu_cầu/V nạn_nhân/N trả/V tiền/N chuộc/V nếu/C muốn/V khoá/N giải_mã/V
+Không/R dừng/V lại/R ở/E máy_tính/N Cơ_quan/N Tội_phạm/N Quốc_gia/Np Anh/N cảnh_báo/V điện_thoại/N đồng_hồ/N thông_minh/A thiết_bị/N theo_dõi/V sức_khỏe/N TV/Np thông_minh/A thiết_bị/N IoT/Np
+cũng/R sẽ/R trở_thành/V mục_tiêu/N tấn_công/V bằng/E ransomware/N của/E tội_phạm/N mạng/N
+Bằng_chứng/N là/V mã/N độc/A FLocker/Np đã/R lây_lan/V trên/E các/L thiết_bị/N Android/Np trong/E đó/P có/V cả/P smart/N TV/Np
+Nó/P  /V mạo_danh/N cảnh_sát/N hoặc/CC các/L cơ_quan/N thực_thi/V pháp_luật/N thông_báo/N người/N dùng/V phạm_tội/V yêu_cầu/V chuyển_tiền/V nếu_không/C sẽ/R báo/V tòa_án/N
+Trước/E các/L mối/N đe_dọa/V của/E mã/N độc/A tống_tiền/V người/N dùng/V được/R khuyến_cáo/N cài_đặt/V các/L bản/N vá/V cho/E hệ_điều_hành/N mà/C mình/P dùng/V
+Thường_xuyên/A sao/P lưu/V dữ_liệu/N và/CC có/V các/L phương_án/N dự_phòng/V
+Cảnh_giác/V trước/E các/L email/N đường/N link/V lạ/A
+Ngoài_ra/C cài_đặt/V phần_mềm/N diệt/V virus/N hay/C chống/V ransomware/N cũng/R là/V điều/N cần_thiết/A  /M CMC/Np đã/R đưa/V ra/R giải_pháp/N ngăn_chặn/V mã/N độc/A tống_tiền/V với/E CryptoShield/Np  /M Đây/P là/V ứng_dụng/N giúp/V phát_hiện/V phần_mềm/N có/V hành_vi/N mã_hóa/V hỗ_trợ/V người/N dùng/V bảo_vệ/V khôi_phục/V dữ_liệu/N sau/E đó/P  /M CryptoShield/Np
+tương_thích/A bổ_trợ/V và/CC hoạt_động/V độc_lập/A với/E các/L phần_mềm/N diệt/V virus/N
+Ứng_dụng/N cho_phép/V chống/V hầu_hết/R các/L mã/N độc/A hiện_nay/N nhờ/V áp_dụng/V công_nghệ/N trí_tuệ_nhân_tạo/X /M AI/Nu /M
+Trước/E đó/P Công_ty/N An_ninh/N mạng/N Bkav/Np cũng/R đã/R phát_hành/V ứng_dụng/V giúp/V kiểm_tra/V máy_tính/N của/E người/N dùng/V đã/R được/V vá/V lỗ_hổng/N mà/C WannaCry/Np khai_thác/V chưa/R
+Kaspersky/Np hay/C một_số/L hãng/N khác/A cũng/R cập_nhật/V phần_mềm/N chống/V ransomware/N

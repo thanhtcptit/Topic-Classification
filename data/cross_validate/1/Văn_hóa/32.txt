@@ -1,0 +1,13 @@
+Kỷ_niệm/V 100/M năm/N ngày/N Nam_Phong/Np tạp_chí/N ra_đời/V
+Sáng/N 17/M tại/N khu_vực/N mộ_phần/N cụ/N Phạm_Quỳnh/Np phường/N Trường_An/Np TP/Np Huế/Np đã/R diễn/V ra/R lễ/N kỉ_niệm/V 100/M năm/N ngày/N Nam_Phong/Np tạp_chí/N một/M trong/E những/L ấn_phẩm/N báo_chí/N chữ_quốc_ngữ/N đầu_tiên/A tại/E Việt_Nam/Np ra_đời/V
+Nhiều/A nhà_văn/N nhà_báo/N ở/E Huế/Np đến/V dự/V lễ/N kỉ/V niệm/N vào/E sáng/N 17/M Ảnh/Np Nhật_Linh/Np
+Buổi/N lễ/N do/N đại_diện/V hội_đồng/N họ/N Phạm/Np tại/E Huế/Np chủ_trì/N
+Tham_dự/V buổi/N lễ/N gồm/V những/L nhà_báo/N nhà_văn/N nhà_văn_hoá/N và/CC cả/R những/L người/N dân/N sống/V gần/A khu_vực/N mộ_phần/N cụ/N Phạm_Quỳnh/Np
+Trong/E không_khí/N trang_nghiêm/N mọi/L người/N có_mặt/V tại/E buổi/N lễ/N đều/R kính_cẩn/V nghiêng_mình/N để/E tưởng_nhớ/V đến/E nhà/N chí_sĩ/N Phạm_Quỳnh/Np người/N có/V công/N tiên_phong/A trong/E việc/N dùng/V tiếng/N Việt/Np để/E thay_thế/V tiếng/N Hán/Np và/CC tiếng/N Pháp/Np vào/V đầu/N thế_kỉ/N 20/M
+Ông/N Phạm_Hữu_Thanh_Tùng/Np đại_diện/V hội_đồng/N họ/N Phạm/Np tại/E Huế/Np cho/V biết/V hội_đồng/N đã/R cùng/A nhiều/A nhà/N nghiên_cứu/V Huế/Np dày/A công/N sưu_tập/V được/R hơn/A 40/M tác_phẩm/N của/E cụ/N Phạm_Quỳnh/Np và/CC gần/A như/C trọn/N bộ/N hơn/A 200/M ấn_phẩm/N Nam_Phong/Np tạp_chí/N
+Đây/P đều/R là/V những/L tư_liệu/N quý/N phục_vụ/V trong/E việc/N nghiên_cứu/V văn_học/N báo_chí/N
+Nếu/C có/V cơ_hội/N chúng_tôi/N sẽ/R phối_hợp/V với/E các/L bên/N liên_quan/V để/E mở/V một/M cuộc/N triển_lãm/V về/E cụ/N Phạm_Quỳnh/Np ông/N Tùng/Np nói/V
+Cụ_Phạm_Quỳnh/Np 18921945/M là/V một/M nhà_văn_hoá/N nhà_báo/N nhà_văn/N và/CC quan/N đại_thần/N triều/N Nguyễn/Np
+Ông/N là/V người/N đi/V tiên_phong/A trong/E việc/N quảng/V bá/N chữ/N quốc/N ngữ/N và/CC dùng/V tiếng/N Việt/Np thay/V vì/E chữ_nho/V hay/V tiếng/N Pháp/Np để/E viết/V lí_luận/N nghiên_cứu/V
+Cụ_Phạm_Quỳnh/Np cũng/R là/V chủ_bút/N và/CC chủ_biên/N của/E tờ/N nguyệt_san/N Nam_Phong/Np tạp_chí/N xuất_bản/V số/N đầu_tiên/A vào/V ngày/N 171917/M
+Tờ/N nguyệt_san/N này/P là/V một/M trong/E những/L ấn_phẩm/N báo_chí/N dùng/V chữ/N quốc/N ngữ/N để/E diễn_tả/V giải_thích/V các/L tư_tưởng/N học_thuật/N Âu/Np Á/Np để/E mang/V những/L kiến_thức/N này/P đến/V cho/V người/N không/R biết/V tiếng/N Pháp/Np hoặc/N chữ_nho/N

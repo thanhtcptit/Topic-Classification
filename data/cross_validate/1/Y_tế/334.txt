@@ -1,0 +1,39 @@
+Thuốc/N trị/V ho/N dùng/V khi/N nào/P 
+Thông_thường/A phản_xạ/N ho/N sẽ/R xảy_ra/V khi/N bị/V cảm/V lạnh/A nhiễm/V virut/N cúm/V các/L tình_trạng/N dị_ứng/N các/L bệnh/N có/V ảnh_hưởng/N đến/E đường/N hô_hấp/N hen/N viêm/N phế_quản/N viêm/N phổi/N viêm/N xoang/N viêm/N tai/N giữa/N hút/V thuốc_lá/N hoặc/CC hút/V thuốc_lá/N thụ_động/A ô_nhiễm/V không_khí/N bệnh_lý/N trào/V ngược/A dạ_dày/N thực_quản/N 
+Một_số/L thuốc/N như/C thuốc/N ức_chế/V men/N chuyển/V điều_trị/V tăng/V huyết_áp/N có_thể/A gây/V ho/V 
+Những/L lưu/V lý/N khi/N dùng/V thuốc/N trị/V ho/N Thuốc/Np tác_dụng/V trên/E đờm/N Là/V tất_cả/P các/L thuốc/N làm/V thay_đổi/V đặc_tính/N tính_chất/N số_lượng/N và/CC độ/N bám/V dính/V của/E đờm/N trên/E bề_mặt/N đường/N thở/V 
+Thông_thường/A trên/E đường/N thở/V lúc_nào/N cũng/R có/V một/M lớp/N nhầy/N có/V độ/N dính/V độ_ẩm/N và/CC số_lượng/N vừa_phải/V để/E bảo_vệ/V đường/N hô_hấp/N 
+Nhưng/C khi/N hệ/N hô_hấp/N bị/V bệnh_lý/N thì/C lớp/N nhầy/N này/P bị/V thay_đổi/V tính_chất/N trở_nên/V bám/V dính/V đặc/A quánh/A và/CC khi/N đó/P nó/P được/R gọi_là/X đờm/V 
+Các/L thuốc/N tác_dụng/V trên/E đờm/N bao_gồm/V thuốc/N làm/V loãng/A đờm/N thuốc/N hóa/N giáng/V đờm/N 
+Thuốc/N làm/V loãng/A đờm/N là/V những/L thuốc/N làm/V tăng/V sự/Nc tiết/N dịch/V (/N chủ_yếu/A là/V nước/N )/A trên/E bề_mặt/N đường/N hô_hấp/N 
+Sự/N tăng/V tiết/N này/P làm/V đờm/N có/V thêm/V nước/N hòa_tan/V nên/C sẽ/R làm/V tăng/V khối_lượng/N đờm/N tăng/V thể_tích/N đờm/N đờm/N trở_nên/V lỏng/V ra/R 
+Thuốc/N điển_hình/N trong/E nhóm/N này/P là/V guaifenesin/N natribenzoat/N terpinhydrat/N 
+Thuốc/N hóa/N giáng/V đờm/N là/V những/L thuốc/N tác_dụng/V trực_tiếp/A vào/E đờm/N làm/V cho/E đờm/N bớt/V đặc/A dễ/A bị/V thải/V bỏ/V ra/R ngoài/N nhờ/V phản_xạ/N ho/V đó/P là_là/V những/L thuốc/N acetylcystein/N ambroxol/N carbocistein/N bromhexin/N 
+Thuốc/N tác_dụng/V trên/E đờm/N chỉ/R thực_sự/A phát_huy/V tác_dụng/N khi/N dùng/V thuốc/N đó/P với/E nước/N 
+Thuốc/N sẽ/R không/R đạt/V hiệu_quả/N tối_đa/A nếu_không/C uống/V nước/N nhiều/A và/CC đầy_đủ/A 
+Nước/N là/V một/M chất/N trực_tiếp/A làm/V tăng/V dịch/N tiết/N trong/E đờm/N tăng/V độ/N loãng/A cho/E đờm/N 
+Thường/R phải/V uống/V ít_nhất/X 1,5/M lít/Nu nước/N //X ngày/N với/E một/M người/N trưởng_thành/V 
+Không/R phải/V bất_kỳ/A trường_hợp/N nào/P cũng/R cần/V dùng/V thuốc/N long/V đờm/N mà/C phải/V xem/V có/V đờm/N ở/E mức_độ/N nào/P mới/R cần/V dùng/V thuốc/N 
+Ví_dụ/V một/M trẻ/N nhỏ/A dưới/E 1/M tuổi/N bị/V ho/V nếu/C đang/R có/V sự/Nc tăng/V tiết/N đờm/A quá/R nhiều/A đang/R nhiều/A ran/N ẩm/V và/CC ran/V nổ/V đang/R có/V viêm/N phổi/N sòng_sọc/A thì/C việc/N dùng/V thuốc/N lúc/N này/P sẽ/R đẩy/V viêm/N phổi/N mạnh/A hơn/A 
+Bởi_vì/E khi/N dùng/V thuốc/N phổi/N sẽ/R càng/R nhiều/A dịch/N càng/R nhiều/A tiếng/N ran/V hơn/A và/CC càng/R khó/A thở/V 
+Hoặc/C trường_hợp/N bệnh_nhân/N đang/R bị/V bệnh/N phổi/N tắc_nghẽn/V mạn_tính/N COPD/Np lượng/N đờm/N tiết/N ra/V trong/E những/L đợt/N cấp_tính/A là/V rất/R dữ_dội/A 
+Nếu/C tiếp_tục/V dùng/V các/L thuốc/N này/P vào/E sẽ/R rất/R bất_lợi/N vì/E ho/N sẽ/R càng/R tăng/V và/CC khó/A thở/V sẽ/R càng/R rõ_rệt/V 
+Vấn_đề/N lúc/N này/P phải/V giảm/V tiết/N đờm/N nhằm/V mục_tiêu/N kiểm_soát/V lượng/N đờm/N cho_phép/V trước/E khi/N quyết_định/V dùng/V thuốc/N tác_dụng/V trên/E đờm/N vào/E thời_điểm/N sau/E đó/P 
+Xác_định/V rõ/A mức_độ/N đờm/V thế_nào/N dùng/V khi/N nào/P hoàn_toàn/A phụ_thuộc/V vào/E trình_độ/N sự/Nc cẩn_thận/A sự/Nc tỉ_mỉ/A trong/E khám/V bệnh/N cũng_như/C kinh_nghiệm/N điều_trị/V của/E bác_sĩ/N 
+Thuốc/N giảm/V ho/N Thuốc/Np có/V tác_dụng/N giảm/V ho/N do/E ức_chế/V trung_tâm/N gây/V ho/V như/C codein/N pholcodin/N dextromethorphan/N 
+Trong/E đó/P codein/N và/CC pholcodin/N có/V tác_dụng/N gây/V nghiện/V giảm/V đau/V và/CC ức_chế/V nhẹ/A trung_tâm/N hô_hấp/N 
+Dextromethorphan/Np không/R gây/V nghiện/V không/R có/V tác_dụng/N giảm/V đau/V 
+Những/L thuốc/N trị/V ho/N có/V chứa/V codein/N chỉ/R dành/V cho/E người_lớn/N không/R dùng/V cho/E trẻ_em/N vì/E gây/V ức_chế/V hô_hấp/N 
+Đặc_biệt/A những/L thuốc/N trị/V ho/N có/V chứa/V codein/N chống/V chỉ_định/V cho/E trẻ/N dưới/E 18/M tuổi/N vừa/R được/V cắt/V và/CC //X hoặc/CC nạo/V V/Np A/Np dùng/V để/E giảm/V đau/V )/A 
+Các/L thuốc/N giảm/V ho/N trên/E chỉ/R dùng/V trong/E trường_hợp/N ho_khan/V không/R có/V đờm/N ho/V do/E cảm/V cúm/N ho/V do/E kích_ứng/N dị_ứng/N )/A ho/V nhiều/A làm/V người_bệnh/N mệt_mỏi/A mất_ngủ/V không/R dùng/V trong/E trường_hợp/N ho/V có/V đờm/N trong/E bệnh/N viêm/N phế_quản/N mạn/V giãn/V phế_quản/N )/A không/R dùng/V cho/E người/N suy/V hô_hấp/N hen_suyễn/N trẻ_em/N phụ_nữ/N có_thai/A và/CC cho/E con/N bú/V 
+Thuốc/N kháng/N histamin/V Một_số/L thuốc/N kháng/V histamin/N chống/V dị_ứng/N kháng/N histamin/N H1/M thế_hệ/N 1/M )/Nu đồng_thời/R có/V tác_dụng/N làm/V dịu/A giảm/V ho/N và/CC an_thần/V như/C diphenylhydramin/N chlopheniramin/N alimemazine/N promethazine/N 
+Thuốc/N được/V điều_trị/V các/L chứng/N ho_khan/V do/E dị_ứng/N kích_ứng/N 
+Nhược_điểm/N chính/A của/E các/L thuốc/N này/P là/V gây/V buồn_ngủ/A do/E tác_động/N trên/E các/L thụ/N thể/R H1/M ở/E não/N vì_vậy/C bất_lợi/N khi/N dùng/V thuốc/N ban_ngày/N nhưng/C thuận_lợi/V khi/N dùng/V về/E đêm/N và/CC không/R được/V dùng/V thuốc/N khi/N lái_xe/N lái/V máy_bay/N vận_hành/V máy_móc/N 
+Loại/N thuốc/N này/P cũng/R có/V tác_dụng/N làm/V khô/A đặc/A dịch/N tiết/N khó/A tống/V đờm/N có_thể/R gây/V ra/R cục/N đờm/V tắc_nghẽn/N vì_vậy/C không/R nên/V dùng/V trong/E trường_hợp/N ho/V có/V đờm/N người/N hen_suyễn/N 
+Nên/C dùng/V liều/N thấp/A nhất/R có/V tác_dụng/N và/CC trong/E thời_gian/N càng/R ngắn/A càng/R tốt/A để/E hạn_chế/V tác_dụng/N phụ/V của/E thuốc/N 
+Không/R dùng/V đồng_thời/R kết_hợp/V thuốc/N giảm/V ho/V với/E thuốc/N long/N đờm/A vì/E đờm/V sẽ/R tiết/N nhiều/A hơn/R nhưng/C không/R ho/V khạc/V ra/R được/R 
+Ngoài_ra/C các/L thuốc/N tê/A do/E tác_dụng/N gây_tê/V các/L ngọn/N dây_thần_kinh/N gây/V phản_xạ/N ho/A nên/C cũng/R làm/V giảm/V ho/N như/C các/L hoạt_chất/N benzonatat/N menthol/N lidocain/N được/V dùng/V qua/E đường/N hít/V ngậm/V 
+Các/L thuốc/N làm/V dịu/A ho/N do/E có/V tác_dụng/N bảo_vệ/V bao_phủ/V các/L trung_tâm/N cảm_giác/N ở/E họng/N hầu_như/R glycerol/N 
+Cần/V lưu_ý/V những/L thuốc/N trị/V ho/N phối_hợp/V nhiều/A thành_phần/N neocodion/N codepect/N atussin/N arsiba/N ngoài/E tác_dụng/N phụ/N có_thể/A gây/V tương_tác/V bất_lợi/N với/E các/L thuốc/N khác/A khi/N dùng/V cùng/A lúc/N 
+Theo/E BS/Np 
+Lê_Anh_Tiến_Sức/X khỏe/A &/CC Đời_sống/N 

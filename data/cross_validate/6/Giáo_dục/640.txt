@@ -1,0 +1,9 @@
+Đại_học/N FPT/Np cấp/V học_bổng/N toàn_phần/N cho/E toàn_bộ/L sinh_viên/N khoa/N Toán/Np
+Năm/N 2017/M Đại_học/N FPT/Np công/N  /M bố/N tuyển_sinh/V ngành/N Toán/Np với/E 30/M chỉ_tiêu/N
+Để/E thu_hút/V sinh_viên/N có/V năng_lực/N tư_duy/N khoa_học/N sáng_tạo/V và/CC tiếp/V thêm/V niềm/N đam_mê/V Toán_học/N cho/E thế_hệ/N trẻ/A trường/N quyết_định/V trao/V học_bổng/N toàn_phần/N  /A mang/V tên/N GS/Np Ngô_Bảo_Châu/Np  /M người/N giành/V huy_chương/N Fields/Np giải_thưởng/N Toán_học/N cao_quý/A nhất/A thế_giới/N năm/N 2010/M
+Học_bổng/N gồm/V học_phí/N và/CC sinh_hoạt_phí/N suốt/A 4/M năm/N
+Thí_sinh/N đạt/V giải/N nhất/A quốc_gia/N môn/N Toán/Np hoặc/CC tham_gia/V đội_tuyển/N thi/V Toán/Np quốc_tế/N năm/N 2016-2017/M được/V tuyển/V thẳng/A
+Thí_sinh/N không/R thuộc/V diện/N tuyển/V thẳng/A cần/V vượt/V qua/R bài/N kiểm_tra/V năng_lực/N và/CC phỏng_vấn/V trong/E kỳ/N thi_tuyển/V sinh/V riêng/A vào/E ngày/N 14/5/M để/E có/V cơ_hội/N nhận/V học_bổng/N Ngô_Bảo_Châu/Np
+TS/N Nguyễn_Khắc_Thành/Np Hiệu_trưởng/N nhà_trường/N cho_hay/A chương_trình/N ngành/N Toán/Np của/E trường/N nhằm/V đào_tạo/V cử_nhân/N khoa_học/N chuyên_sâu/A về/E Toán_học/N dạy/V người/N học/V cách/N tư_duy/N chính_xác/A của/E Toán_học/N tư_duy/N thuật_toán/N và/CC phương_pháp/N tiếp_cận/V các/L vấn_đề/N thực_tế/N một_cách/N khoa_học/N
+Giảng_viên/N khoa/N Toán/Np của/E Đại_học/N FPT/Np là/V các/L tiến_sĩ/N Toán/Np tốt_nghiệp/V ở/E nhiều/A đại_học/N uy_tín/N trên/E thế_giới/N  /Np Chúng_ta/P vẫn/R hàng/R ngày/N sử_dụng/V thành_quả/N của/E Toán_học/N
+Mỗi/L ngôi/Nc nhà/N mỗi/L cây/N cầu_là/N kết_quả/N tính_toán/V của/E kiến_trúc_sư/N kỹ_sư/N xây_dựng/V mỗi/L chuyến/N bay/V là/V kết_quả/N tính_toán/V của/E chuyên_gia/N điều_khiển/V bay/V của/E phi_công/N của/E kỹ_sư/N chế_tạo/V máy_bay/N …/A TS/N Thành/Np nói/V

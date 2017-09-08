@@ -1,0 +1,2 @@
+Bài/N giải/N môn/N lí/V THPT/Np Quốc_gia/N mã_đề/N 201/M
+Bài/N giải/N cũng/R được/V đánh_dấu/V trực_tiếp/V vào_đề/V thi/V

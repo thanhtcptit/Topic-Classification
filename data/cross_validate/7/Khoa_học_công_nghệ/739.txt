@@ -1,0 +1,25 @@
+Phương_pháp/N hứa_hẹn/V điều_trị/V tận/E gốc/N đại_dịch/N thế_kỷ/N HIV/AIDS/Np
+Các/L nhà_nghiên_cứu/N ở/E Đại_học/N Temple_Pennsyvania_Mỹ/Np đã/R sử_dụng/V công_cụ/N chỉnh_sửa/V gene/N CRISPR/Cas9/Np để/E loại_bỏ/V hoàn_toàn/A bộ/N gen/V HIV/Np 1/M ra/V khỏi/V tế_bào/N miễn_dịch/V nhiễm/V virus/N của/E bệnh_nhân/N
+Đó/P là/V một/M thành_tựu/N đặc_biệt/A có_thể/R có/V ý_nghĩa/N quan_trọng/A trong/E việc/N điều_trị/V bệnh/N AIDS/Np và/CC các/L bệnh/N liên_quan/V đến/E retrovirus/N khác/A
+CRISPR/Cas9/M thường/R được/V coi/V như/C một/M công_cụ/N loại_bỏ/V các/L bệnh/N do/E gene/N di_truyền/V hoặc/CC như/C một/M phương_pháp/N chuyển/V gen/N
+Nghiên_cứu/N mới/R cho/V thấy/V rằng/C CRISPS/Cas9/Np hứa_hẹn/V đem/V lại/R kết_quả/N tốt/A trong/E loại_bỏ/V các/L virus/N chèn/V mã/N di_truyền/V độc_hại/A vào/E tế_bào/N chủ/N
+Kết_quả/N nghiên_cứu/V được/V công_bố/V trên/E tạp_chí/N Scientific_Reports/Np hôm/N 4/3/M
+Khác/A những/L virus/N thông_thường/A retrovirus/N chèn/V bản_sao/N của/E hệ/N gene/N của/E chúng/P vào/E tế_bào/N chủ/N để/E sao_chép/V
+Thuốc/N kháng/V retrovirus/N có_thể/R kiểm_soát/V hiệu_quả/N sự/Nc sinh_sản/V của/E virus/N HIV/Np sau/E khi/N lây_nhiễm/V nhưng/C khi/N bệnh_nhân/N ngừng/V uống/V thuốc/N chúng/P tái_phát/V rất/R nhanh/A
+Khi/N ngừng/V điều_trị/V virus/N HIV/Np tiếp_tục/V chiếm/V ưu_thế/A làm/V suy_yếu/V hệ_thống/N miễn_dịch/V từ/E đó/P khởi_phát/V hội_chứng/N suy_giảm/V miễn_dịch/V AIDS/Np
+Trong/E nhiều/A năm/N các/L nhà_khoa_học/N luôn/R nỗ_lực/V để/E loại_bỏ/V virus/N HIV/Np ra/V khỏi/V tế_bào/N T_CD4/Np +/V nhiễm_bệnh/V một/M loại/Nc tế_bào/N bạch_cầu/N giúp/V kháng/N nhiễm_trùng/V
+Phần_nhiều/L những/L nỗ_lực/N tiêu_diệt/V không/R mang/V lại/R thành_công/V
+Sự/N ra_đời/V của/E công_cụ/N CRISPR/Cas9/Np trong/E thời_gian/N gần/A đây/P đã/R truyền/V cảm_hứng/V cho/E các/L nhà_nghiên_cứu/N phát_triển/V cách/N tiếp_cận/V mới/R
+Nhà/N di_truyền_học/N Kamel_Khalili/Np và/CC đồng_nghiệp/N từ/E Đại_học/N Temple/Np trích/V xuất/V tế_bào/N T/Np nhiễm/V virus/N từ/E bệnh_nhân/N
+Nhóm/N nghiên_cứu/V điều_chỉnh/N công_cụ/N CRISPR/Cas9/Np dành/V riêng/A cho/E ADN/Np của/E HIV/Np 1/M
+Đầu_tiên/N đoạn/N dẫn/V ARN/Np sẽ/R tìm/V vật_chất/N di_truyền/N của/E virus/N trong/E cả/P hệ/N gene/N của/E tế_bào/N T/Np
+Sau/E khi/N quá_trình/N nhận_dạng/V hoàn_tất/V một/M loại/Nc enzyme/N từ/E nhân/N sẽ/R cắt/V bỏ/V đoạn/N mã/N độc_hại/A khỏi/V ADN/Np của/E tế_bào/N T/Np
+Sau/E đó/P công_cụ/N sửa_chữa/V ADN/Np tích_hợp/V trong/E tế_bào/N sẽ/R nối/V lại/R hai/M đầu/N bị/V đứt/V của/E ADN/Np
+Phương_pháp/N giúp/V loại_bỏ/V vĩnh_viễn/A đoạn/N ADN/Np của/E virus/N ra/V khỏi/V tế_bào/N bởi_vì/E hệ_thống/N bảo_vệ/V gene/N siêu/Z nhỏ/A này/P vẫn/R trong/E tế_bào/N ngăn_chặn/V tình_trạng/N lây_nhiễm/V khi/N các/L phân_tử/N HIV/Np 1/M cố_gắng/V xâm_nhập/V vào/E tế_bào/N chưa/R chỉnh_sửa/V
+Thí_nghiệm/V được/R tiến_hành/V trên/E tế_bào/N T/Np nằm/V trong/E đĩa/N cấy/V nhưng/C kĩ_thuật/N này/P giảm/V thành_công/V lượng/N virus/N trong/E tế_bào/N trích/V xuất/V của/E bệnh_nhân/N hứa_hẹn/V trở_thành/V phương_pháp/N điều_trị/V hiệu_quả/N
+Tuy_nhiên/C các/L nhà_nghiên_cứu/N cần/V thêm/V nhiều/A thời_gian/N phát_triển/V để/E hiện_thực/N hóa/V điều/N này/P
+Họ/P cũng/R loại_trừ/V khả_năng/N không/R đáp_ứng/V mục_tiêu/N kỳ_vọng/V như/C tác_dụng/N phụ/N của/E chỉnh_sửa/V gen/N và/CC độc_tính/N tiềm_ẩn/V
+Họ/P đã/R chứng_minh/V các/L tế_bào/N phát_triển/V và/CC hoạt_động/V bình_thường/A sau/E khi/N loại_bỏ/V HIV/Np 1/M
+Phát_hiện/V cho/V thấy/V tính/N hiệu_quả/N của/E hệ_thống/N chỉnh_sửa/V gene/N của/E chúng_tôi/P trong/E việc/N loại_trừ/V HIV/Np khỏi/V ADN/Np của/E tế_bào/N T_CD4/Np bằng/E cách/N đưa/V các/L đột_biến/N vào/E hệ/N gene/N của/E virus/N làm/V cho/E nó/P vĩnh_viễn/A mất/V khả_năng/N sao_chép/V Khalili/Np tuyên_bố/V
+Hơn_nữa/C nghiên_cứu/V chỉ/R ra/V hệ_thống/N có_thể/A bảo_vệ/V các/L tế_bào/N khỏi/V sự/N tái_nhiễm/V và/CC công_nghệ/N này/P là/V an_toàn/A cho/E các/L tế_bào/N nhờ/V không/R có/V độc_tính/N
+Kỹ_thuật/N loại_bỏ/V ADN/Np ngoại_lai/N này/P có/V nhiều/A ý_nghĩa/N đối_với/E nghiên_cứu/N liên_quan/V bao_gồm/V điều_trị/V retrovirus/N gây/V bệnh/N ung_thư/N và/CC máu_trắng/N cũng_như/C những/L retrovirus/N đang/R ảnh_hưởng/V đến/E vật_nuôi/N và/CC cây_trồng/N

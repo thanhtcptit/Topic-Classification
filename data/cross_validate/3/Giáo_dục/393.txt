@@ -1,0 +1,28 @@
+ĐH/Np Quảng_Nam/Np công_bố/V điểm/N xét/V tuyển/V ĐH/Np CĐ/Np hệ/N chính_quy/A 2017/M 
+Theo/E đó/P thời_gian/N xét/V tuyển/V đối_với/E bậc/N ĐH/Np từ/E ngày/N 15-26/M //X 7/M 
+Đối_với/E hệ/N Cao_đẳng/N thời_gian/N xét/V tuyển/V được/R chia/V làm/V 4/M đợt/N kéo_dài/V từ/E ngày/N 3/4/2017/M đến/E ngày/N 30/10/2017/M 
+Các/L ngành/N chỉ_tiêu/N và/CC điểm/N xét/V tuyển/V cụ_thể/A TT/Np Tên/N ngành/N Mã/Np ngành/N Tổ_hợp/N môn/N xét/V tuyển/V Chỉ_tiêu/N Điểm/N xét/V tuyển/V (/N không/R nhân/V hệ_số/N Các/L ngành/N đào_tạo/V Đại_học/N 1040/M 1/M Sư_phạm/N Toán/Np 52140209/M Toán/N Vật_lý/N Hóa_học/N 50/M 15.5/M Toán/N Vật_lý/N Tiếng_Anh/Np 
+2/M Sư_phạm/N Vật_lý/N 52140211/M Toán/N Vật_lý/N Hóa_học/N 50/M 15.5/M Toán/N Vật_lý/N Tiếng_Anh/Np Toán/Np Vật_lý/N Sinh_học/N Toán/Np Vật_lý/N Địa_lý/N 
+3/M Sư_phạm/N Sinh_học/N 52140213/M Toán/N Vật_lý/N Sinh_học/N 50/M 15.5/M Toán/N Hóa_học/N Sinh_học/N Toán/Np Sinh_học/N Địa_lý/N Toán/Np Sinh_học/N Tiếng_Anh/Np 
+4/M Giáo_dục/N Mầm_non/N 52140201/M Toán/N Ngữ_văn/N Năng_khiếu/N 
+100/M 15.5/M 5/M Giáo_dục/N Tiểu_học/N 52140202/M Toán/N Vật_lý/N Hóa_học/N 100/M 15.5/M Ngữ_văn/N Lịch_sử/N Địa_lý/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+6/M Vật_lý_học/N 52440102/M Toán/N Vật_lý/N Hóa_học/N 60/M 15.5/M Toán/N Vật_lý/N Tiếng_Anh/Np Toán/Np Vật_lý/N Sinh_học/N Toán/Np Vật_lý/N Địa_lý/N 
+7/M Công_nghệ/N Thông_tin/N 52480201/M Toán/N Vật_lý/N Hóa_học/N 150/M 15.5/M Toán/N Vật_lý/N Tiếng_Anh/Np 
+8/M Bảo_vệ/N thực_vật/N 52620112/M Toán/N Vật_lý/N Sinh_học/N 60/M 15.5/M Toán/N Hóa_học/N Sinh_học/N Toán/Np Sinh_học/N Địa_lý/N Toán/Np Sinh_học/N Tiếng_Anh/Np 
+9/M Văn_học/N 52220330/M Ngữ_văn/N Lịch_sử/N Địa_lý/N 100/M 15.5/M Ngữ_văn/N Lịch_sử/N GD/Np Công_dân/N Ngữ_văn/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+10/M Ngôn_ngữ/N Anh/N 52220201/M Toán/N Vật_lý/N Tiếng_Anh/Np 200/M 15.5/M Ngữ_văn/N Toán/Np Tiếng_Anh/Np Ngữ_văn/N Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Hóa_học/N Tiếng_Anh/Np 
+11/M Việt_Nam/N học/V (/N Văn_hóa/N Du_lịch/N 52220113/M Toán/N Địa_lý/N GD/Np Công_dân/N 70/M 15.5/M Ngữ_văn/N Lịch_sử/N Địa_lý/N Ngữ_văn/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+12/M Lịch_sử/N 52220310/M Toán/N Lịch_sử/N GD/Np Công_dân/N 50/M 15.5/M Ngữ_văn/N Lịch_sử/N Địa_lý/N Ngữ_văn/N Lịch_sử/N GD/Np Công_dân/N Ngữ_văn/N Lịch_sử/N Tiếng_Anh/Np 
+Các/L ngành/N đào_tạo/V Cao_đẳng/N 450/M 1/M Sư_phạm/N Ngữ_văn/N 51140217/M Ngữ_văn/N Lịch_sử/N Địa_lý/N 35/M Tốt_nghiệp/V THPT/Np Ngữ_văn/N Lịch_sử/N GD/Np Công_dân/N Ngữ_văn/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+2/M Sư_phạm/N Hóa_học/N 51140212/M Toán/N Vật_lý/N Hóa_học/N 35/M Tốt_nghiệp/V THPT/Np Toán/Np Hóa_học/N Sinh_học/N Ngữ_văn/N Hóa_học/N Sinh_học/N Toán/Np Hóa_học/N Tiếng_Anh/Np 
+3/M Sư_phạm/N Âm_nhạc/N 51140221/M Văn/Np Năng_khiếu/Np Âm_nhạc/N 1/M (/Nu Hát/V )/A Năng_khiếu/N Âm_nhạc/N 2/M (/Nu Kiến_thức/N Âm_nhạc/N phổ_thông/N 30/M Tốt_nghiệp/V THPT/Np 4/M Kế_toán/N 51340301/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Toán/Np Tiếng_Anh/Np Toán/Np Địa_lý/N Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 5/M Việt_Nam/Np học/V 51220113/M Toán/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Lịch_sử/N Địa_lý/N Ngữ_văn/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 6/M Công_tác/N xã_hội/N 51760101/M Ngữ_văn/N Lịch_sử/N Địa_lý/N Ngữ_văn/N Lịch_sử/N GD/Np Công_dân/N Ngữ_văn/N Địa_lý/N GD/Np Công_dân/N Ngữ_văn/N Toán/Np Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 7/M Tài_chính/N Ngân_hàng/N 51340201/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Toán/Np Tiếng_Anh/Np Toán/Np Địa_lý/N Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 8/M Quản_trị/V Kinh_doanh/V 51340101/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Toán/Np Tiếng_Anh/Np Toán/Np Địa_lý/N Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 9/M Công_nghệ_thông_tin/N 51480201/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Vật_lý/N Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np 10/M Tiếng_Anh/Np 51220201/M Toán/N Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Toán/Np Tiếng_Anh/Np Ngữ_văn/N Vật_lý/N Tiếng_Anh/Np Ngữ_văn/N Hóa_học/N Tiếng_Anh/Np 
+50/M Tốt_nghiệp/V THPT/Np Theo/V ĐH/Np Quảng_Nam/Np đối_với/E thí_sinh/N xét/V tuyển/V vào/E ĐH/Np điểm/N xét/V tuyển/V mức/N điểm/N tối_thiểu/A )/A ở/E trên/N là/V tổng/N điểm/N 3/M môn/N thi/V không/R nhân/V hệ_số/N dành/V cho/E học_sinh/N phổ_thông/N ở/E khu_vực/N 3/M 
+Chính_sách/N ưu_tiên/V theo/E đối_tượng/N và/CC khu_vực/N được/V thực_hiện/V theo/E Quy_chế/N tuyển_sinh/V ĐH/Np CĐ/Np hệ/N chính_quy/A hiện_hành/N của/E Bộ/N GD&/Np ĐT/Np 
+Đối_với/E thí_sinh/N xét/V tuyển/V vào/E Cao_đẳng/N đối_tượng/N xét/V tuyển/V là/V các/L thí_sinh/N tốt_nghiệp/V THPT/Np hình_thức/N xét/V tuyển/V theo/E điểm/N học_bạ/V THPT/Np 
+Công_Bính/N 

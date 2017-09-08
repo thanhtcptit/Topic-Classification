@@ -1,0 +1,25 @@
+Nạn_nhân/N cuối_cùng/A vụ/N tai_biến/V chạy/V thận/N cùng/A lúc/N suy/V 6/M tạng/N quan_trọng/A 
+Bệnh_nhân/N Nguyễn_Bích/Np N/Np 45/M tuổi/N là/V bệnh_nhân/N nặng/A nhất/A trong/E vụ/N tai_biến/V chạy/V thận/N )/A hiện/N tình_trạng/N sức_khoẻ/N vẫn/R đang/R hết_sức/R nặng_nề/A 
+Trước/E đó/P khi/N các/L bác_sĩ/N kiểm_soát/V được/R huyết_áp/N của/E bệnh_nhân/N đồng_tử/N bớt/V giãn/N phản_xạ/N ánh_sáng/N tốt/A dù/E tình_trạng/N bệnh/N còn/R rất/R nguy_kịch/A các/L bác_sĩ/N vẫn/R đánh_giá/V bệnh_nhân/N có/V hi_vọng/N chuyển_biến/V sức_khoẻ/N 
+Thời_điểm/N hiện_tại/N dù/C được/V vào/E ECMO/Np nhưng/C tình_trạng/N bệnh_nhân/N vẫn/R rất/R nguy_kịch/A 
+Bệnh_nhân/N N/Np bị/V suy/V cùng/A lúc/N 6/M tạng/N tim/N phổi/N gan/N ruột/N thần_kinh/N tổn_thương/V các/L cơ/N rối_loạn/V đông/N máu/N 
+Hơn_nữa/C bệnh_nhân/N bắt_đầu/V chuyển/V sang/E giai_đoạn/N nhiễm_độc/A khiến/V gan/N suy/V nặng_nề/A hơn/R kèm/V theo/V xuất_huyết/V tiêu_hoá/N càng/R đe_doạ/V tính_mạng/N người_bệnh/N GS/Np Bình/Np nói/V 
+Chưa/R kể/V hiện/N bệnh_nhân/N còn/R bị/V ngộ_độc/V cấp/N mà/C chưa/R xác_định/V được/R nguyên_nhân/N ngộ_độc/V là/V gì/P 
+Sau/E khi/N hội_chẩn/V các/L bác_sĩ/N cho_biết/V không_thể/R chuyển/V bệnh_nhân/N về/E Hà_Nội/Np 
+Vì_thế/C BV/Np Bạch_Mai/Np sẽ/R vẫn/R tiếp_tục/V tập_trung/V mọi/L máy_móc/N con_người/N thuốc_men/N cùng/A các/L BV/Np Bệnh_viện/N Đa_khoa/Np Hoà_Bình/Np cứu_chữa/V cho/E người_bệnh/N 
+Trong/E những/L ngày/N qua/V luôn/R có/V khoảng/N 5/M nhân_viên/N y_tế/N của/E BV/Np Bạch_Mai/Np ở/E đây/P phối_hợp/V cùng/A các/L bác_sĩ/N BV/Np Đa_khoa/N tỉnh/N Hoà_Bình/Np hội_chẩn/V theo_dõi/V điều_trị/V cho/E bệnh_nhân/N 
+GS/Nc Bình/Np cho_biết/V thêm/V những/L ngày/N qua/V bệnh_nhân/N đã/R được/V tiến_hành/V đặt/V máy/N ECMO/Np liên_tục/A được/V lọc/V máu/N và/CC lọc/V huyết_tương/A với/E chi_phí/N điều_trị/V ước_tính/V 100/M triệu/N mỗi/M ngày/N 
+Theo/E GS/Np Bình/Np đến/E thời_điểm/N này/P sự/N sống/V của/E bệnh_nhân/N đều/R hoàn_toàn/A phụ_thuộc/V vào/E máy_móc/N nên/C việc/N di_chuyển/V bệnh_nhân/N về/E Hà_Nội/Np để/E điều_trị/V là/V chưa_thể/R 
+Các/L bác_sĩ/N đang/R tính/V đến/E phương_án/N sử_dụng/V một/M loại/Nc xe/N chuyên_dụng/A để/E có_thể/R chở/V cả/P người_bệnh/N và/CC thiết_bị/N máy_móc/N vẫn/R đảm_bảo/V vận_hành/V cho/E bênh/N nhân/V 
+Chuyên_gia/N đầu/N ngành/N về/V hồi_sức/V tích_cực/A này/P cũng/R cho_biết/V ông/N chưa/R từng/R gặp/V bệnh_nhân/N nào/P có/V diễn_biến/N tổn_thương/V nội_tạng/N nặng_nề/A như/C bệnh_nhân/N này/P 
+Trong/E y/N văn/N thế_giới/N GS/Np Bình/Np nói/V 
+Cũng/R theo/V GS/Np Bình/Np tại/E BV/Np Bạch_Mai/Np cũng/R chưa/R từng/R có/V bệnh_nhân/N nào/P dùng/V tới/E cùng/A lúc/N nhiều/A máy_móc/N như/C bệnh_nhân/N này/P 
+Trong/E y/N văn/N thế_giới/N cũng/R chưa/R ghi_nhận/V trường_hợp/N nào/P suy/V cùng/A lúc/N 6/M tạng/N như/C bệnh_nhân/N mà/C được/V cứu/V sống/V 
+Hiện/N các/L chỉ_số/N về/V sinh_tồn/V gần_như/R bằng/E 0/M nhưng/C chúng_tôi/P vẫn/R hy_vọng/V vẫn/R quyết_tâm/V theo_đuổi/V điều_trị/V tới/V cùng/A bằng/E các/L loại/Nc thuốc/N kỹ_thuật/N hiện_đại/A nhất/A GS/Np Bình/Np khẳng_định/V 
+Còn/C với/E 10/M bệnh_nhân/N trong/E vụ/N tai_biến/V tập_thể/N khi/N đang/R chạy/V thận/N được/V chuyển/V xuống/R bệnh_viện/N Bạch_Mai/Np hiện/N 8/M người/N đã/R ổn_định/V hoàn_toàn/A tiếp_tục/V được/V lọc/V máu/N chu_kỳ/N 
+Còn/C 2/M bệnh_nhân/N nặng/A hơn/A nhưng/C tình_trạng/N vẫn/R được/V kiểm_soát/V và/CC ngày_càng/X khả_quan/A hơn/R 
+Trước/E đó/P vụ/N tai_biến/V tập_thể/N khiến/V 18/M bệnh_nhân/N đang/R chạy/V thận/N tại/E BV/Np Đa_khoa/Np tỉnh/N Hoà_Bình/Np đồng_loạt/R có/V biểu_hiện/N sốc/N nôn_mửa/A rét/A run/V sau/E khoảng/N 45/M phút/Nu chạy/V thận/N 
+Sau/E tai_biến/N xảy_ra/V đã/R có/V 7/M trường_hợp/N tử_vong/A 1/M trường_hợp/N nguy_kịch/A hiện/N vẫn/R đang/R được/V hồi_sức/V tích_cực/A ngay/T tại/E Bệnh_viện/N 
+Bộ_trưởng/N Bộ/N Y_tế/N ngày/N 31/5/M đã/R làm_việc/V với/E Sở/N Y_tế/N Hoà_Bình/Np BV/Np Đa_khoa/N tỉnh/N Hoà_Bình/Np yêu_cầu/V sau/E 7/M ngày/N Hội_đồng/N khoa_học/N do/E Sở/N Y_tế/N thành_lập/V phải/V hoàn_thành/V kiểm_thảo/V tử_vong/N đưa/V ra/R đánh_giá/V về/E nguyên_nhân/N gây/V tai_biến/V đồng_loạt/R nghiêm_trọng/A này/P 
+Bộ_trưởng/N Bộ/N Y_tế/N Đúng/A quy_trình/N không_thể/R xảy_ra/V sự_cố/N 
+Hồng_Hải/Np 

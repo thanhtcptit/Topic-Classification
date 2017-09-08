@@ -1,0 +1,23 @@
+Huỷ/Np quyết_định/V giám_đốc/V bệnh_viện/N bổ_nhiệm/N thần_tốc/V con_trai/N
+Giám_đốc/N Bệnh_viện/N đa_khoa/N huyện/N Thanh_Bình/Np Đồng_Tháp/Np Phạm_Văn_Nông/Np bổ_nhiệm/V con_trai/N là/V Phạm_Trung_Hiếu/Np bị/V bệnh/N động_kinh/N làm/V phó/N Khoa_Chẩn_đoán/N hình_ảnh/N xét_nghiệm/V
+Sáng/N 47/M UBND/Np tỉnh/N Đồng_Tháp/Np công_bố/V thông_tin/N kết_quả/N kiểm_tra/V vụ/N giám_đốc/N Bệnh_viện/N đa_khoa/N huyện/N Thanh_Bình/Np Đồng_Tháp/Np Phạm_Văn_Nông/Np bổ_nhiệm/V con_trai/N là/V Phạm_Trung_Hiếu/Np bị/V bệnh/N động_kinh/N làm/V phó/N Khoa_Chẩn_đoán/N hình_ảnh/N xét_nghiệm/V
+Theo/E báo_cáo/N này/P sau/N phản_ánh/V của/E một_số/N cơ_quan/N báo_chí/N UBND/Np tỉnh/N đã/R yêu_cầu/V kiểm_tra/V xác_minh/N
+Kết_quả/N việc/N bổ_nhiệm/V ông/N Phạm_Trung_Hiếu/Np giữ/V chức_vụ/N trên/N hồi/N tháng/N 42013/M là/V chưa/R đúng/A quy_định/N của/N pháp_luật/N
+Cụ_thể/N ông/N Hiếu/Np được/V bổ_nhiệm/V khi/N đang/R trong/E thời_gian/N tập_sự/A và/CC không/R có/V giấy/N chứng_nhận/V kiểm_tra/V sức_khoẻ/N của/E cơ_quan/N y_tế/N có/V thẩm_quyền/N
+Ngoài_ra/C đoàn/Nc kiểm_tra/V cũng/R rà_soát/V quy_trình/N tuyển_dụng/N của/E 7/M người/N đang/R làm_việc/V tại/E Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np có/V mối/N quan_hệ/N là/V người_thân/N với/E ông/N Phạm_Văn_Nông/Np
+Theo/E đó/P những/L người/N này/P do/N Sở/N Y/Np tế/N tuyển_dụng/N và/CC được/V thực_hiện/V theo/V quy_định/N
+có/V người/N được/V tuyển_dụng/V khi/N ông/N Phạm_Văn_Nông/Np chưa/R giữ/V chức_vụ/N giám_đốc/N Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np
+Tuy_nhiên/C việc/N phân_công/V bà/N Ngô_Thị_Kim_Ngân/Np con/N dâu/N ông/N Nông/Np tại/E Phòng_Tài_chính/N Kế_toán/N nhiệm_vụ/N tổng_hợp/V quyết_toán/N Bảo_hiểm/N y_tế/N là/V không/R phù_hợp/V quy_định/N pháp_luật/N
+Do/E đó/P UBND/Np tỉnh/N Đồng_Tháp/Np chỉ_đạo/V giám_đốc/N Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np huỷ/V quyết_định/N bổ_nhiệm/V ông/N Phạm_Trung_Hiếu/Np đồng_thời/R chuyển/V vị_trí/N công_tác/N đối_với/N bà/N Ngô_Thị_Kim_Ngân/Np đảm_bảo/V phù_hợp/N chuyên_môn/N nghiệp_vụ/N
+UBND/Np tỉnh/N Đồng_Tháp/Np cũng/R chỉ_đạo/V giám_đốc/N Sở/N Y/Np tế/V phê_bình/N đối_với/N tập_thể/N lãnh_đạo/N Sở/N Y/Np tế/N giai_đoạn/N 2007/M 2010/M phê_bình/N rút/V kinh_nghiệm/N đối_với/E tập_thể/N lãnh_đạo/V Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np và/CC Khoa_Chẩn_đoán/N hình_ảnh/N Xét_nghiệm/V Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np
+UBND/Np tỉnh/N cũng/R yêu_cầu/V kiểm_điểm/V trách_nhiệm/N và/CC có/V hình_thức/N kỉ_luật/V đối_với/N ông/N Phạm_Văn_Nông/Np giám_đốc/V Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np và/CC ông/N Võ_Thanh_Tứ/Np Trưởng_phòng/V Hành_chính/N Quản_trị/N Tổ_chức/N cán_bộ/N Bệnh_viện/N Đa_khoa/N huyện/N Thanh_Bình/Np
+UBND/Np tỉnh/N cũng/R chỉ/R ra/V ông/N Phạm_Văn_Nông/Np từng/R bị/V Ủy/Np ban/N kiểm_tra/V Huyện/N uỷ/V Thanh_Bình/Np xử_lí/V kỉ_luật/V về/V Đảng/Np với/E hình_thức/N cảnh_cáo/V năm/N 2007/M nhưng/C ông/N không/R báo_cáo/V với/E Sở/N Y/Np tế/V
+Vì_vậy/C Sở/N Y/Np tế/N không/R có/V cơ_sở/N để/E xem_xét/V kỉ_luật/N về/V chính_quyền/N cũng/R như/A cân_nhắc/V việc/N bổ_nhiệm/V lại/V với/E ông/N Nông/Np
+Sóc_Trăng/Np Cách_chức/V 3/M cán_bộ/N do/N tham_nhũng/V
+Ngày/N 47/M UBND/Np tỉnh/N Sóc_Trăng/Np đã/R kỉ_luật/V với/E hình_thức/N cách_chức/N đối_với/N 3/M cán_bộ/N của/E Liên_đoàn/N Lao_động/N huyện/N Long_Phú/Np
+Trước/E đó/P qua/V hoạt_động/N tự/N kiểm_tra/V nội_bộ/N đã/R phát_hiện/V 3/M cán_bộ/N này/P làm/V chứng_từ/N khống/N chiếm_dụng/N ngân_sách/N gần/A 445/M triệu/M đồng/Nu
+Việc/N thanh_tra/V tại/E 18/M đơn_vị/N trong/N tỉnh/N cũng/R phát_hiện/V 7/M đơn_vị/N sai_phạm/A trong/E quản_lí/N sử_dụng/V ngân_sách/N xây_dựng/V với/E số/N tiền/N khoảng/N 98/M tỉ/M đồng/Nu
+Trong/E đó/P có/V 2/M vụ/N có/V dấu_hiệu/N tham_nhũng/V
+Một/M xảy/N ra/V tại/E Ngân_hàng/N Nông_nghiệp/N và/CC Phát_triển/V nông_thôn/N Chi_nhánh/N Sóc_Trăng/Np với/E việc/N cho/V vay/V vốn/N có/V dấu_hiệu/N vi_phạm/V quy_định/N về/V cho/V vay/V trong/E hoạt_động/N của/E các/L tổ_chức/N tín_dụng/N
+Một/M xảy/N ra/V tại/E Trường_Cao_đẳng/N Cộng_đồng/N Sóc_Trăng/Np với/E 13/M cá_nhân/N có/V hành_vi/N hợp_thức_hoá/N chứng_từ/N để/E thanh_toán/V số/N tiền/N khoảng/N 401/M triệu/M đồng/Nu
+Hai/M vụ_việc/N đang/R được/V điều_tra/V làm/V rõ/A

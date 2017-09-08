@@ -1,0 +1,39 @@
+Sở/N Y_tế/N Hòa_Bình/Np M Nước/N chạy/V thận/N không/R được/V kiểm_định/V sau/E bảo_dưỡng/V máy/N V
+Sau/E cuộc/N họp/V sáng/N 8/6/M với/E 12/M thành_viên/N hội_đồng/N chuyên_môn/A Sở/N Y_tế/N tỉnh/N Hòa_Bình/Np họp_báo/V chiều/N cùng/A ngày/N công_bố/V kết_luận/N kiểm_thảo/V nguyên_nhân/N 18/M bệnh_nhân/N bị/V tai_biến/V khi/N chạy/V thận/N hôm/N 29/5/M
+Bà/N Bùi_Thu_Hằng/Np Phó_giám_đốc/N Sở/N Y_tế/N Hòa_Bình/Np Chủ_tịch/N Hội_đồng/N chuyên_môn/N cho_biết/V trên/E cơ_sở/N nghiên_cứu/V hồ_sơ/N bệnh_án/V các/L tài_liệu/N và/CC tường_trình/V của/E cá_nhân/N liên_quan/V hội_đồng/N khẳng_định/V đây/P là/V một/M thảm_họa/N các/L bệnh_nhân/N trong/E tình_trạng/N diễn_biến/V hết_sức/R phức_tạp/A
+Bệnh_viện/N thiếu/V kinh_nghiệm/N phương_tiện/N nhân_lực/N kiến_thức/N xử_trí/V tình_trạng/N thảm_họa/N
+Biểu_hiện/V của/E 18/M bệnh_nhân/N tương_đối/A giống/A nhau/N trong/E cùng/A một/M thời_điểm/N nên/C nghĩ/V đến/E hội_chứng/N ngộ_độc/V cấp/V qua/R đường_máu/N do/E cùng/A một/M nguyên_nhân/N gây/V ra/R với/E các/L triệu_chứng/N tổn_thương/V đa/N cơ_quan/N như/C hô_hấp/N tuần_hoàn/N gan/N thận/N máu/N
+Hội_đồng/N chuyên_môn/N cho/V rằng/C chưa/R đủ/A cơ_sở/N và/CC bằng_chứng/N khoa_học/N để/E kết_luận/V chắc_chắn/A nguyên_nhân/N tai_biến/N do/E chưa/R có/V kết_quả/N xét_nghiệm/V phân_tích/V nguồn/N nước/N RO/Np kết_quả/N khám_nghiệm/V thi_thể/N
+Điều/N được/R nghĩ/V đến/E nhiều/A nhất_là/X sự/Nc bất_thường/A của/E nguồn/N nước/N RO/Np sử_dụng/V trong/E quá_trình/N chạy/V thận/N nhân_tạo/A cho/E bệnh_nhân/N bà/Nc Hằng/Np nhấn_mạnh/V  /EOS
+Bệnh_viện/N Đa_khoa/Np Hòa_Bình/Np sử_dụng/V hệ_thống/N RO/Np số/N 2/M từ/E ngày/N 18/1/2011/M do/E Công_ty/N Thiên_Sơn/Np cung_cấp/V
+Bệnh_viện/N tự/P kiểm_tra/V hệ_thống/N máy/N theo/E định_kỳ/N 3/M tháng_một/V lần/N
+Ngày/N 4/11/2013/M bệnh_viện/N bảo_dưỡng/V toàn_bộ/L hệ_thống/N lần/N 2/M sau/E đó/P hoạt_động/V bình_thường/A
+Ngày/N 9/3/2015/M bệnh_viện/N thay_thế/V đầu/N cắm/V cho/E hệ_thống/N muối/N hoàn_nguyên/V
+Ngày/N 24/5/M vừa_qua/X hệ_thống/N hoạt_động/V không/R ổn_định/A nên/C bệnh_viện/N đề_nghị/V thay/V cát/N thạch_anh/N sỏi/N than/V hoạt_tính/N màng/N RO/Np bộ/N đèn/N lõi/N lọc/V tiệt_trùng/V màng/V hệ_thống/N nước/N
+Ngày/N 25/5/M bệnh_viện/N ký/V hợp_đồng/N sửa_chữa/V với/E công_ty/N Thiên_Sơn/Np ngày/N 28/5/M tiến_hành/V sửa/V thì/C ngày/N 29/5/M xảy_ra/V sự_cố/N  /EOS
+Giám_đốc/N Sở/N Y_tế/N Hòa_Bình_Trần_Quang_Khánh/Np cho_biết/V theo/V quy_định/N của/E Bộ/N Y_tế/N sau/E khi/N bảo_trì/V cơ_sở/N y_tế/N phải/V test/V máy/N chạy/V thận/N kiểm_tra/V thông_số/N nước/N theo_dõi/V giám_sát/V bất_thường/A
+Hệ_thống/N lọc/V nước/N phải/V được/V kiểm_nghiệm/V đầu_ra/N đảm_bảo/V tinh_khiết/A và/CC có/V phiếu/N kiểm_định/V bàn_giao/V cho/E cán_bộ/N y_tế/N mới/R được/V đưa/V vào/R vận_hành/V
+Theo/E ông/Nc Khánh/Np trên/E thực_tế/N cán_bộ/N y_tế/N không_thể/R kiểm_nghiệm/V nước/N đầu_ra/N mà/C do/E công_ty/N bảo_dưỡng/V thực_hiện/V  /M Nếu/C họ/P chưa/R có/V biên_bản/N bàn_giao/V mà/C đã/R vận_hành/V hệ_thống/N máy/N thì/C cán_bộ/N y_tế/N sai/A  /M Trong/E vụ_việc/N này/P lỗi/N của/E cán_bộ/N y_tế/N là/V chưa/R có/V biên_bản/N bàn_giao/V đã/R vận_hành/V máy/N
+Công_an/N đang/R điều_tra/V kỹ_sư/N chịu/V trách_nhiệm/N bảo_dưỡng/V bảo_trì/V ông/Nc Khánh/Np nói/V
+Với/E câu_hỏi/N có/V phải/V do/E giá_thành/N đắt/A nên/C bệnh_viện/N không/R kiểm_định/V hệ_thống/N máy/N ông/Nc Khánh/Np trả_lời/V hiện/N không/R có/V đại_diện/N bệnh_viện/N ở/E cuộc/N họp/V nên/C Sở/N không/R nắm/V được/R giá_thành/N
+Tuy_nhiên/C theo/E quan_điểm/N của/E Sở/N Y_tế/N dù/C chi_phí/N đắt/A thì/C bệnh_viện/N vẫn/R phải/V thực_hiện/V kiểm_định/V vì/E sự/Nc an_toàn/A của/E bệnh_nhân/N
+Ông/Nc Khánh/Np cho_biết/V cơ_quan/N công_an/N đang/R xem_xét/V trách_nhiệm/N các/L bên/N liên_quan/V ai/P sai/A và/CC sai/A đến/E đâu/P thì/C sẽ/R xử_lý/V đến/V đó/P
+Về/E nguyên_tắc/N hợp_đồng/N giữa/E công_ty/N bảo_dưỡng/V và/CC bệnh_viện/N quy_định/N trách_nhiệm/N kiểm_nghiệm/V nước/N đầu_ra/N là/V do/E bên/N nào/P thì/C sẽ/R xác_định/V trách_nhiệm/N thuộc/V về/E bên/N ấy/P
+Sở/N Y_tế/N Hòa_Bình/Np chưa/R nắm/V rõ/A điều_khoản/N về/E trách_nhiệm/N trong/E hợp_đồng/N này/P  /EOS
+Hiện/N khoa/N Thận/Np bệnh_viện/N tỉnh/N vẫn/R còn/R bị/V niêm_phong/V do/E công_an/N chưa/R điều_tra/V xong/R
+Giám_đốc/N Sở/N Y_tế/N khẳng_định/V khi/N được/V gỡ/V bỏ/V niêm_phong/A khoa/N Thận/Np sẽ/R cố_gắng/V khôi_phục/V hoạt_động/V trong/E vòng/N 10/M ngày/N
+Sở/N Y_tế/N cũng/R đang/R có/V phương_án/N bố_trí/V hoạt_động/V chạy/V thận/N ở/E đơn_nguyên/N khác/A vị_trí/N khác/A để/E phục_vụ/V bệnh_nhân/N địa_phương/N
+Tỉnh/N cũng/R cấp/V kinh_phí/N mua/V bổ_sung/V 12/M máy/N chạy/V thận/N nhân_tạo/A cho/E Bệnh_viện/N Đa_khoa/Np thành_phố/N Hòa_Bình/Np nhằm/V điều_trị/V 126/M bệnh_nhân/N đang/R phải/V về/V Hà_Nội/Np để/E lọc/V máu/N
+Liên_quan/V đến/E quyết_định/N đình_chỉ/V 3/M cán_bộ/N của/E bệnh_viện/N Hòa_Bình/Np ông/Nc Khánh/Np giải_thích/V ông/Nc Trương_Quý_Dương/Np Giám_đốc/N bệnh_viện/N bị/V đình_chỉ/V để/E giải_trình/V báo_cáo/V cơ_quan/N điều_tra/V
+Hai/M cán_bộ/N còn/V lại/R là/V ông/N Trần_Văn_Sơn/Np nhân_viên/N phòng/N vật_tư/N là/V người/N được/V phân_công/V giám_sát/V việc/N bảo_dưỡng/V bảo_trì/V hệ_thống/N máy/N ngày/N 28/5/M và/CC bà/N Đỗ_Thị_Điệp/Np là/V điều_dưỡng/V Khoa/Np thận/N nhân_tạo/A làm/V nhiệm_vụ/N chuyên_môn/N ngày/N 29/5/M
+Việc/N điều_hành/V bệnh_viện/N tạm_thời/A giao/V lại/R cho/E ông/N Quách_Thiên_Tường/Np Phó_giám_đốc/N thường_trực/N chịu/V trách_nhiệm/N trong/E 15/M ngày/N  /EOS
+Trong/E cuộc/N họp_báo/V có/V rất/R nhiều/A câu_hỏi/N liên_quan/V đến/E trách_nhiệm/N của/E Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np song/C không/R có/V đại_diện/N bệnh_viện/N tham_dự/V để/E trả_lời/V dù/C được/V Sở/N mời/V nhiều/A lần/N
+Sau/E vụ/N tai_biến/V Sở/N Y_tế/N Hòa_Bình/Np cũng/R nhiều/A lần/N gọi/V điện/N cho/E Ban/N Giám/Np đốc/V Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np nhưng/C đều/R không/R liên_lạc/V được/R
+Sáng/N 29/5/M 18/M bệnh_nhân/N suy/V thận/N mãn/N đang/R chạy/V thận/N nhân_tạo/A ở/E Bệnh_viện/N Đa_khoa/Np tỉnh/N Hòa_Bình/Np đột_ngột/A có/V dấu_hiệu/N bất_thường/A
+8/M người/N lần_lượt/R tử_vong/V 10/M người/N được/V chuyển/V về/E Bệnh_viện/N Bạch_Mai/Np ngay/T trong/E đêm/N hiện/N sức_khỏe/N đã/R hồi_phục/V xuất_viện/V sáng/N 8/6/M
+Trong/E thời_gian/N khoa/N Thận/N nhân_tạo/A phải/V dừng/V hoạt_động/V để/E phục_vụ/V điều_tra/V nguyên_nhân/N tai_biến/A Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np hàng/R ngày/N bố_trí/V 2/M chuyến/N xe/N đưa_đón/V hơn/A 100/M bệnh_nhân/N cần/V lọc/V thận/N theo/E chu_kỳ/N về/E các/L bệnh_viện/N tại/E Hà_Nội/Np chạy/V thận/N
+Nguyên_nhân/N gây/V tai_biến/N đang/R được/V điều_tra/V
+Kết_luận/V ban_đầu/N của/E Hội_đồng/N chuyên_môn/N tỉnh/N là/V nhiều/A khả_năng/N do/E hệ_thống/N nước/N chạy/V thận/N
+Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình_Trương_Quý_Dương/Np bị/V tạm/A đình_chỉ_công_tác/X cùng/C 2/M cán_bộ/N bệnh_viện/N
+Bộ/N Y_tế/N đánh_giá/V đây/P là/V ca/N tai_biến/V y_khoa/N nghiêm_trọng/A nhất/R trong/E nhiều/A năm/N qua/V
+Công_an/N tỉnh/N Hòa_Bình/Np khởi_tố/V vụ_án/N để/E điều_tra/V nguyên_nhân/N tai_biến/V

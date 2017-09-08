@@ -1,0 +1,14 @@
+Nhiều/A đại_học/N công_lập/V ở/E TP_HCM/Np lấy/V điểm/N xét/V tuyển/V là/V 15,5/M
+Ngày/N 13/7/M Đại_học/N Sư_phạm/N TP_HCM/Np thông_báo/V sử_dụng/V chung/A ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N do/E Bộ/N Giáo/Np dục/V công_bố/V là/V 15,5/M điểm/N
+Dựa/V vào/E mức/N này/P trường/N sẽ/R xét/V tuyển/V các/L ngành/N từ/E cao/A xuống/R thấp/A cho_đến/E khi/N đủ/A 3 0/M chỉ_tiêu/N ở/E 36/M ngành/N
+Tương_tự/A Đại_học/N Tài_nguyên/N và/CC Môi_trường/N TP_HCM/Np lấy/V điểm/N xét/V tuyển/V năm/N nay/P từ/E 15,5/M điểm/N
+Năm/N nay/P trường/N có/V 1 0/M chỉ_tiêu/N ở/E 15/M ngành/N trong/E đó/P 90%/M sử_dụng/V kết_quả/N thi/V THPT/Np quốc_gia/N còn/V lại/R theo/E phương_thức/N xét/V tuyển/V kết_quả/N học_tập/V lớp/N 12/M
+Đại_học/N Văn_hóa/N TP_HCM/Np cũng/R nhận/V hồ_sơ/N xét/V tuyển/V cho/E tất_cả/P ngành/N chuyên_ngành/N là/V 15,5/M điểm/N riêng/A các/L môn/N năng_khiếu/V /N nếu/C có/V /N phải/V đạt/V từ/E 5/M trở_lên/A
+Năm/N nay/P trường/N dành/V 490/M chỉ_tiêu/N xét/V tuyển/V bằng/E điểm/N thi/V THPT/Np quốc_gia/N và/CC 210/M chỉ_tiêu/N xét/V tuyển/V bằng/E kết_quả/N học_tập/V THPT/Np
+Đại_học/N Kinh_tế/N Luật/N /M Đại_học/N Quốc_gia/Np TP_HCM/Np /V  /A với/E 1 0/M chỉ_tiêu/N ở/E 31/M ngành/N và/CC Cơ_sở/N 2/M Đại_học/N Thủy_lợi/N /N TP_HCM/Np /V với/E  /N 580/M chỉ_tiêu/N ở/E 5/M nhóm/N ngành/N  /A đều/R lấy/V mức/N điểm/N xét/V tuyển/V 15,5/M
+Học_viện/N Cán_bộ/N TP_HCM/Np /V trực_thuộc/V UBND_TP_HCM/Np /M cũng/R lấy/V mức/N điểm/N trên/A để/E nhận/V hồ_sơ/N xét/V tuyển/V cho/E 5/M ngành/N  /V đại_học/N chính_quy/V Quản_lý/V Nhà_nước/N Xây_dựng/V Đảng/N và/CC chính_quyền/N Nhà_nước/N Chính_trị_học/Np Luật/Np và/CC Công_tác/N xã_hội/N
+Với/E tổng/N chỉ_tiêu/N 1 0/M học_viện/N này/P dành/V 80%/M xét/V tuyển/V bằng/E điểm/N thi/V THPT/Np quốc_gia/N còn/V lại/R xét/V tuyển/V bằng/E điểm/N học_bạ/V THPT/Np
+Trong/E khi/N đó/P cũng/R có/V nhiều/A trường/N đại_học/N tại/E TP_HCM/Np công_bố/V mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V cao/A hơn/R mức/N điểm_sàn/N của/E Bộ/N Giáo/Np dục/V 3/M 5/M điểm/N  /EOS
+Tại_Đại/Np học/V Kinh_tế/N TP_HCM/Np các/L chuyên_ngành/N thuộc/V Hệ_thống/N thông_tin/N quản_lý/V /N Toán/Np tài_chính/N Thống_kê/V kinh_doanh/V Hệ_thống/N thông_tin/N kinh_doanh/V Thương_mại_điện_tử/X /M Kinh_tế/N /M Kinh_tế/N ứng_dụng/V Kinh_tế/N nông_nghiệp/N Kinh_tế/N chính_trị/N /N lấy/V 18/M điểm/N trở_lên/A các/L ngành/N  /N còn/V lại/R  /V lấy/V 20/M điểm/N
+Năm/N nay/P trường/N này/P có/V 5 0/M chỉ_tiêu/N đại_học/N chính_quy/A  /EOS
+Đại_học/N Sài_Gòn/Np lấy/V  /N 3/M mức/N điểm/N  /V 16/M 17/M và/CC 19/M làm/V sàn/N xét/V tuyển/V đợt/N 1/M tùy/V theo/V từng/R ngành/N

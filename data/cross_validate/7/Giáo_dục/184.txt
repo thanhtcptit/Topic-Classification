@@ -1,0 +1,6 @@
+Hơn/A 73000/M HS/Np TPHCM/Np bước/V vào/V thi/V môn/N Văn/Np
+Môn/N thi/V đầu_tiên/N là/V môn/N Văn/Np với/E thời_gian/N làm/V bài/N 120/M phút/N bắt_đầu/V lúc/N 8g/N và/CC kết_thúc/V lúc/N 10g/M
+Theo/V ghi_nhận/N tại/E một_số/N điểm/N thi/V dù/N đã/R được/V thông_báo/V rõ/A thời_gian/N và/CC địa_điểm/N thi/V nhưng/C có/V khá/R nhiều/A học_sinh/N đến/V trễ/N
+Trong/E khi/N đó/P phụ_huynh/N không/R giấu/V được/V lo_lắng/V khi/N đưa/V con/N đi/V thi/V nhiều/A phụ_huynh/N không/R về/V mà/C đứng/V chờ/V con/N ngoài/N trường_thi/N
+Thí_sinh/N được/V phụ_huynh/N đưa/V đi/V thi/V và/N dặn_dò/N kĩ_lưỡng/N trước/N giờ/N thi/V Ảnh/Np DUYÊN/M PHAN/Np
+DUYÊN/M PHAN/Np

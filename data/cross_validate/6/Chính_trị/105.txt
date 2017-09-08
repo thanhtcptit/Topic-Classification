@@ -1,0 +1,13 @@
+Lập_Ban/Np chỉ_đạo/V chống/V ùn_tắc/N giao_thông/N ở/E Hà_Nội/Np TP/Np
+Hồ_Chí_Minh/Np
+Xét/N đề_nghị/N của/E Bộ/N Kế_hoạch/N và/CC Đầu_tư/V Thủ_tướng/N vừa/R có/V ý_kiến/N đồng_ý/V chủ_trương/N thành_lập/V Ban/N Chỉ_đạo/V triển_khai/V các/L giải_pháp/N chống/V ùn_tắc/V giao_thông/N trên/N địa_bàn/N Hà_Nội/Np và/CC TP/Np
+Hồ_Chí_Minh/Np
+Thủ_tướng/N giao/V Bộ/N Kế_hoạch/N và/CC Đầu_tư/V nghiên_cứu/V tiếp_thu/N ý_kiến/N của/E các/L Bộ/N Nội_vụ/N Giao_thông/N vận_tải/V Xây_dựng/V để/E xây_dựng/V đề_án/N thành_lập/V Ban/N Chỉ_đạo/V theo/E Quy_chế/N thành_lập/N tổ_chức/V và/N hoạt_động/N của/E tổ_chức/N phối_hợp/V liên_ngành/N và/CC chỉ_đạo/V của/E Thủ_tướng/N trình/N Thủ_tướng/N trong/E tháng/N 72017/M
+Trước/E đó/P UBND/Np TP/Np
+Hà_Nội/Np có/V kiến_nghị/N Thủ_tướng/N thành_lập/V Ban/N chỉ_đạo/V đầu_tư/V các/L công_trình/N hạ_tầng/N giao_thông/N trên/N địa_bàn/N TP/Np
+Hà_Nội/Np để/E tập_trung/V chỉ_đạo/V các/L giải_pháp/N về/V đầu_tư/V và/N chống/V ùn_tắc/V giao_thông/N
+Với/E kiến_nghị/N này/P tại/E thông_báo/N số/N 35/M TBVPCP/Np ngày/N 2512017/M của/N Văn_phòng/N Chính_phủ/N Thủ_tướng/N giao/V Bộ/N Kế_hoạch/N và/CC Đầu_tư/V chủ_trì/N phối_hợp/V với/E các/L bộ/N ngành/N xem_xét/V báo_cáo/N Thủ_tướng/N theo/V hướng/N thành_lập/V Ban/Np chỉ_đạo/V đầu_tư/V xây_dựng/V công_trình/N giao_thông/N trên/N địa_bàn/N Hà_Nội/Np và/CC TP/Np
+Hồ_Chí_Minh/Np do/C Thủ_tướng/N làm/V Trưởng_Ban/Np phó/N trưởng/N ban/N gồm/V một/M Phó/N thủ_tướng/N Chủ_tịch/N UBND/Np TP/Np
+Hà_Nội/Np TP/Np
+Hồ_Chí_Minh/Np
+các/L thành_viên/N gồm/V các/L bộ/N ngành/N liên_quan/V

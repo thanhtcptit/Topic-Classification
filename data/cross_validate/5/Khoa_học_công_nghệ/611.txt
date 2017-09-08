@@ -1,0 +1,27 @@
+Hạt/N nano/V vàng/N phát_nổ/V có_thể/R tiêu_diệt/V tận/E gốc/N tế_bào/N ung_thư/N
+Khi/N bác_sĩ/N thực_hiện/V phẫu_thuật/V trên/E bệnh_nhân/N ung_thư/N họ/P sẽ/R cố_gắng/V hết_sức/R để/E loại_bỏ/V tất_cả/P các/L tế_bào/N ung_thư/N bởi_vì/E bất_kỳ/A tế_bào/N ung_thư/N nào/P còn/R sót/V lại/R đều/R có_thể/R phát_triển/V thành/V khối_u/N mới/R hoặc/CC di_căn/V khắp/A cơ_thể/N theo/V Science/Np
+Sau/N phẫu_thuật/V bệnh_nhân/N thường/R được/V điều_trị/V bằng/E xạ_trị/N hoặc/CC hóa_trị/V liệu/V để/E tăng/V cơ_hội/N loại_bỏ/V tế_bào/N ung_thư/N còn/R sót/V lại/R
+Nhưng/C cách/N điều_trị/V này/P không_chỉ/C tiêu_diệt/V tế_bào/N ung_thư/N mà_còn/C gây/V tổn_hại/V đến/E những/L tế_bào/N khỏe_mạnh/A làm/V suy_giảm/V sức_khỏe/N bệnh_nhân/N
+Trong/E nghiên_cứu/N công_bố/V hôm/N 15/2/M trên/E tạp_chí/N Nature_Nanotechnology/Np nhóm/V nghiên_cứu/V tại/E Đại_học/N Rice_Mỹ/Np đã/R chứng_minh/V hạt/N nano/N vàng/N có_thể/A tiêu_diệt/V tế_bào/N ung_thư/N sót/V lại/R sau/N phẫu_thuật/V
+Khối_u/N ung_thư/N thường/R có/V các/L mạch_máu/N rò_rỉ/V
+Khi/N hạt/N nano/V vàng/N được/V tiêm/V vào/E mạch_máu/N chúng/P có/V xu_hướng/N thấm/V qua/E các/L lỗ/N mạch/N rò_rỉ/V này/P và/CC tụ/V xung_quanh/N khối_u/V
+Những/L tế_bào/N ung_thư/N khi/N phát_triển/V thường/R nuốt/V các/L hạt/N nano/V
+Sau/E khi/N lọt/V vào/E bên/N trong/N tế_bào/N ung_thư/N các/L hạt/N nano/N này/P đóng/V vai_trò/N như/C con/Nc ngựa/N thành/V Troy/Np
+Khi/N các/L nhà_nghiên_cứu/N cho/E các/L nguyên_tử/N vàng/N tương_tác/A với/E ánh_sáng/N laser/N hồng_ngoại/N một/M loại/Nc sóng_điện_từ/N có_thể/A đi/V xuyên/V qua/E các/L mô/P hạt/N nano/N sẽ/R bị/V nóng/A lên/R và/CC đốt/V cháy/V các/L tế_bào/N ung_thư/N
+Tuy_nhiên/C cách/N làm/V này/P có/V hai/M vấn_đề/N
+Đầu_tiên/N một_số/L hạt/N nano/A vàng/N có_thể/A bám/V vào/E tế_bào/N bình_thường/A do_đó/C quá_trình/N đốt/V nhiệt/N bằng/E laser/N có_thể/A làm/V hư_hại/A cả/P mô/P khỏe_mạnh/A
+Đồng_thời/R tia/Nc laser/N dùng/V để/E đốt/V nóng/A hạt/N nano/V vàng/N sử_dụng/V ánh_sáng/N hồng_ngoại/N liên_tục/A
+Điều/N này/P khiến/V nhiệt/N từ/E ánh_sáng/N hồng_ngoại/N lan_truyền/V qua/E tế_bào/N ung_thư/N tới/E cả/P các/L mô/P bình_thường/A
+Trong/E trường_hợp/N khối_u/V phát_triển/V ở/E khu_vực/N quan_trọng/A như/C gần/A dây_thần_kinh/N hoặc/CC động_mạch/N mọi/L ảnh_hưởng/N lên/R mô/P khỏe_mạnh/A đều/R có_thể/R dẫn/V tới/E suy_nhược/N cơ_thể/N
+Để/E khoanh_vùng/V khu_vực/N điều_trị/V chính_xác/A hơn/R các/L nhà_nghiên_cứu/N tại/E Đại_học/N Rice/Np và/CC công_ty/N công_nghệ/N y_tế/N Masimo_Corporation/Np đã/R tìm/V cách/N thay_đổi/V phương_pháp/N tiếp_cận/V hạt/N nano/V
+Theo/E Dmitri_Lapotko/Np một/M thành_viên/N trong/E nhóm/N nghiên_cứu/V họ/P bắt_đầu/V thí_nghiệm/V với/E những/L con/Nc chuột/N bị/V ung_thư/N biểu/V mô/P tế_bào/N vảy/V
+Nhóm/N nghiên_cứu/V gắn/V hạt/N nano/V vàng/N vào/E các/L kháng_thể/N protein/N miễn_dịch/V
+Kháng_thể/N protein/N sẽ/R tiếp_xúc/V với/E thụ/N thể/R trên/E bề_mặt/N tế_bào/N vảy/V cho_phép/V hạt/N nano/V vàng/N bám/V vào/E xung_quanh/N các/L tế_bào/N ung_thư/N một/M cánh/N nhanh_chóng/A
+Khi/N đó/P thay_vì/V đốt/V nóng/A liên_tục/A bằng/E tia/Nc laser/N các/L nhà_khoa_học/N chỉ/R cần/V dùng/V tia/Nc laser/N dạng/N xung/N siêu/Z ngắn/A để/E đốt/V nóng/A tế_bào/N ung_thư/N
+Laser/N hồng_ngoại/N xung/N siêu/Z ngắn/A có/V năng_lượng/N thấp/A không/R gây/V hại/V cho/E các/L tế_bào/N khỏe_mạnh/A
+Phương_pháp/N này/P ngăn_cản/V sức/N nóng/A lan/V sang/E các/L mô/P khỏe/A xung_quanh/N tế_bào/N ung_thư/N đồng_thời/R sinh_ra/V nhiệt_độ/N cao/A hơn/A ở/E nơi/N có/V hạt/N nano/V vàng/N tập_trung/V thành/V cụm/N lớn/A
+Nhiệt_độ/N cao/A làm/V bốc_hơi/V các/L phân_tử/N nước/N gần/A đó/P tạo/V ra/R bong_bóng/N siêu/Z nhỏ/A
+Những/L bong_bóng/N này/P nhanh_chóng/A lan_rộng/V và/CC nổ/V tung/V phá/N vỡ/V các/L tế_bào/N ung_thư/N
+Theo/E Lapotko/Np điểm/N mấu_chốt/A là/C các/L cụm/N hạt/N nano/V vàng/N tạo/V ra/R bong_bóng/N siêu/Z nhỏ/A trong/E các/L tế_bào/N ung_thư/N mà/C không/R phải/V tế_bào/N thường/R
+Hiện_nay/N kỹ_thuật/N này/P mới/R được/V thử_nghiệm/V trên/E chuột/N nhưng/C các/L nhà_nghiên_cứu/N đã/R lên/V phương_án/N thử_nghiệm/V lâm_sàng/N trong/E hai/M năm/N tới/V
+Nếu/C thành_công/V kỹ_thuật/N sẽ/R giúp/V cải_thiện/V đáng_kể/V tỷ_lệ/N chữa/V khỏi/V ung_thư/N cho/E bệnh_nhân/N đặc_biệt/A trong/E trường_hợp/N không_thể/R phẫu_thuật/V cắt/V bỏ/V toàn_bộ/N khối_u/N

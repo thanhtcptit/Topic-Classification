@@ -1,0 +1,13 @@
+Giá/N vàng/N SJC/Np giảm/V ngược/A chiều/N thế_giới/N 
+Mở_cửa/V thị_trường/N vàng/N sáng/N nay/P 12/6/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 36,3/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,38/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E doanh_nghiệp/N bán_lẻ/V và/CC 36,31/M triệu/M đồng/Nu //X lượng/N 36,37/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P giảm/V mỗi/L chiều/N 40.000/M đồng/lượng/N so/V với/E chốt/N phiên/N cuối/N tuần/N qua/V 
+Tương_tự/A tại/E TPHCM/Np giá/N vàng/N SJC/Np phiên/N mở_cửa/V sáng/N nay/P giao_dịch/V ở/E mức/N 36,25/M triệu/M đồng/Nu //X lượng/N 36,45/M triệu/M đồng/Nu //X lượng/N giảm/V mỗi/L chiều/N khoảng/A 20.000/M đồng/lượng/N 
+Dự_báo/V giá/N vàng/N tuần/N này/P có/V nhiều/A biến_động/N ảnh/N minh_họa/V )/A 
+Kết_thúc/V phiên/N cuối/N tuần/N qua/V giá/N vàng/N miếng/N SJC/Np được/V doanh_nghiệp/N tại/E Hà_Nội/Np niêm_yết/V ở/E mức/N 36,34/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E và/CC 36,42/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R 
+Tại/E một_số/L cửa_hàng/N nhỏ_lẻ/A giá/N vàng/N niêm_yết/V chiều/N mua/V vào/R là/V 36,27/M triệu/M đồng/Nu //X lượng/N ở/E chiều/N bán/V ra/R có/V mức/N giá/N là/V 36,49/M triệu/M đồng/Nu //X lượng/N 
+Tại/E thị_trường/N TPHCM/Np giá/N vàng/N chiều/N bán/V ra/R niêm_yết/V ở/E mức/N 36,47/M triệu/M đồng/Nu //X lượng/N 
+Trong/E tuần/N xu_hướng/N giá/N chạy/V quanh/N ngưỡng/N giá/N cao/A nhất/R niêm_yết/V tại/E mức/N 36,43/M triệu/M đồng/Nu //X lượng/N 36,55/M triệu/M đồng/Nu //X lượng/N trong/E khi/N mức/N thấp/A nhất/R ghi_nhận/V tại/E 36,36/M triệu/M đồng/Nu //X lượng/N 36,43/M triệu/M đồng/Nu //X lượng/N 
+Giới/N chuyên_gia/N cho/V rằng/C cung_cầu/N trong/E nước/N hiện/N đóng/V vai_trò/N quan_trọng/A nếu/C yếu_tố/N này/P song_hành/V với/E thị_trường/N vàng/N trong/E nước/N và/CC những/L biến_động/N của/E thị_trường/N quốc_tế/N chắc_chắn/A giá/N vàng/N sẽ/R còn/V nhiều/A bước_tiến/N xa/A hơn/R 
+Trên/E thế_giới/N giá/N vàng/N giao/V ngay/T tại/E Kitco.com/Np hiện/N có/V biên_độ/N tăng/V 1,4/M USD/Nu giao_dịch/V ở/E mức/N 1.267,8/M USD/ounce/Np 
+Tâm/Np điểm/V cho/E vàng/N trong/E tuần/N này/P là/V cuộc/N họp/V của/E Cục/N Dự/Np trữ/V liên_bang/N Mỹ/Np Fed/Np và/CC đồng/Nu USD/Nu cũng_như/C lợi_suất/V trái_phiếu/N Mỹ/Np hiện/N đang/R bị/V định_giá/V thấp/A 
+An_Hạ/Np 

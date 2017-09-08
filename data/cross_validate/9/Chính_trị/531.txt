@@ -1,0 +1,11 @@
+Tổng_thống/N Trump/Np giận_dữ/A trước/E quyết_định/N từ/E tòa/N phúc_thẩm/V
+Hẹn/V gặp/V lại/R ở/E tòa_án/N an_ninh/N của/E đất_nước/N đang/R bị/V đe_dọa/V Tổng_thống/N Mỹ_Donald_Trump/Np viết/V trên/E Twitter/Np cá_nhân/N ngày/N 9/2/M ngay/T sau/E khi/N tòa/N phúc_thẩm/V quận/N 9/M ở/E San_Francisco/Np ra/R phán_quyết/V giữ/V nguyên/A phán_quyết/N đình_chỉ/V lệnh/N cấm/V nhập_cảnh/V của/E ông/N đối_với/E 7/M quốc_gia/N Hồi_giáo/N Reuters/Np đưa/V tin/N
+Tổng_thống/N Trump/Np ngày/N 27/1/M ký/V sắc_lệnh/N tạm_thời/A cấm/V nhập_cảnh/V với/E người/N đến/V từ/E 7/M nước/N Hồi_giáo/N lớn/A gồm/V Iraq_Syria_Iran_Libya_Somalia_Sudan/Np và/CC Yemen/Np trong/E 90/M ngày/N với/E người/N tị_nạn/N trong/E 120/M ngày/N và/CC vô_thời_hạn/X với/E người/N tị_nạn/N Syria/Np
+Sắc_lệnh/N gây/V ra/R hỗn_loạn/A và/CC biểu_tình/V tại/E các/L sân_bay/N quốc_tế/N do/E nhiều/A người/N được/V phép/N nhập_cảnh/V từ/E trước/N bất_ngờ/A bị/V xếp/V vào/E diện/N nghi_vấn/V
+Thẩm_phán/N liên_bang/N James_Robart/Np ở/E Seattle_Washington/Np ngày/N 3/2/M ra/V phán_quyết/N đình_chỉ/V sắc_lệnh/N của/E Tổng_thống/N Trump/Np trên/E phạm_vi/N cả/P nước/N
+Chính_quyền/N Tổng_thống/N Trump/Np đệ/V đơn/N lên/V tòa/N phúc_thẩm/V đề_nghị/V hoãn/V thi_hành/V phán_quyết/N của/E thẩm_phán/N Robart/Np
+Ba/M thẩm_phán/N liên_bang/N Mỹ/Np gồm/V Michelle_Friedland_William_Canby/Np và/CC Richard_Clifton/Np ngày/N 7/2/M mở/V phiên/N tranh_luận/V để/E lắng_nghe/V ý_kiến/N từ/E người/N đại_diện/V hai/M bên/N và/CC quyết_định/V giữ/V nguyên/A phán_quyết/N đình_chỉ/V
+Toà_án/N Tối_cao/A Mỹ/Np sẽ/R là/V cơ_quan/N tiếp_theo/V xem_xét/V sắc_lệnh/A trên/E nếu/C được/V yêu_cầu/V
+Đó/P là/V một/M quyết_định/N mang/V tính/N chính_trị/N Trump/Np nói/V
+Ông/N không/R coi/V đây/P là/V thất_bại/N của/E Nhà_Trắng/Np
+Chúng_tôi/P sẽ/R thắng/V kiện/V

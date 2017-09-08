@@ -1,0 +1,33 @@
+15/M thành_phố/N đẹp/A nhất/A thế_giới/N Du_Lịch/Np Du_Lịch/Np 
+Thứ_Ba/N 27/06/2017/M 08/M 01/M 1/M 
+Barcelona/Np Tây_Ban_Nha_Barcelona/Np được/V xếp/V đứng/V đầu/N danh_sách/N nhờ/V vào/E kiến_trúc/N Gaudi/Np lỗi_lạc/V các/L khu/N di_tích/N Gothic/Np có/V từ/E thời/N Trung_cổ/Np và/CC vùng/N bờ/N biển/N Địa_Trung_Hải/Np trong/E xanh/A trải/V dài/A 
+2/M 
+San_Francisco/Np California_Từ/Np những/L con/Nc đường/N nằm/V trên/E đồi/N nhìn/V ra/R vịnh/N đến/E cầu/N Golden_Gate/Np nổi_tiếng/A mờ_ảo/A trong/E làn/Nc sương/N San_Francisco/Np chứng_minh/V cho/E cả/P thế_giới/N thấy/V rằng/C bờ/N Tây/Np bao_giờ/P cũng/R là/V bờ/N biển/N đẹp/A nhất/A 
+3/M 
+Rome/Np Ý_Điều/Np tuyệt_vời/A nhất/R ở/E đây/P là/V uống/V rượu_vang/N ăn/V mì/N spaghetti/N carbonara/V trong/E một/M quán/N pizza/N có/V từ/E thời/N La_Mã/Np cổ_đại/V 
+4/M 
+Vancouver/Np Canada_Sự/Np đa_dạng/V đô_thị/N cùng_với/C cảnh_quan/N ngoài_trời/N tuyệt_diệu/A là/V những/L điều/N hội_tụ/A ở/E thủ_đô/N British_Columbia/Np này/P 
+Vancouver/Np xứng_đáng/V một/M chuyến/N viếng_thăm/V trong/E đời/N nếu/C bạn/N còn/R ngần_ngừ/V 
+5/M 
+Paris/Np Pháp_Lãng/Np mạn/V lịch_thiệp/V ăn/V ảnh/N …/M Không/R có/V gì/P phải/V nói/V thêm/V về/E Paris/Np vì/E nơi/N đây/P có/V hầu_hết/R những/L gì/P tuyệt/A nhất/A trên/E thế_giới/N 
+6/M 
+Kyoto/Np Nhật_Không/Np thể/R không/R bị/V mê_hoặc/V bởi/E những/L ngôi/Nc nhà/N gỗ/N machiya/N truyền_thống/N những/L ngôi/Nc chùa/N vàng/N và/CC rừng/N tre/N cao_vút/A của/E Kyoto/Np 
+7/M 
+Porto/Np Bồ_Đào_Nha_Mọi/Np người/N thường/R nghĩ/V đến/E Lisbon/Np khi/N nhắc/V tới/E Bồ_Đào_Nha/Np nhưng/C thành_phố/N quyến_rũ/V nằm/V ở/E phía/N bắc/N Bồ_Đào_Nha/Np này/P đẹp/A như/C một/M câu_chuyện/N thần_thoại/A 
+Những/L ngôi/Nc nhà/N màu_sắc/N trên/E các/L đường_phố/N rải/V sỏi/N nhìn/V ra/R dòng_sông/N Douro/Np đủ/A quyến_rũ/V bất_kỳ/R một/M du_khách/N khó_tính/A nào/P 
+8/M 
+Rio/Np de/V Janeiro/Np Brazil_Không/Np có/V gì/P thú_vị/A hơn/R được/R dành/V phần/N cuối/N cuộc_đời/N mình/P để/E nằm/V dài/A trên/E bãi_biển/N Ipanema/Np với/E một/M ly/N cocktail/N caipirinha/N nổi_tiếng/A trên/E tay/N 
+9/M 
+Bruges/Np Bỉ_Thị/Np trấn/V thời/N trung_cổ/N này/P không_chỉ/R nổi_tiếng/A với/E vẻ/N đẹp/A của/E nó/P mà_còn/C vì/E những/L thỏi/N socola/N Bỉ/Np và/CC các/L ly/N bia/N vàng/N óng/A đậm_đà/A 
+10/M 
+Cartagena/Np Colombia_Từ/Np thành_phố/N với/E các/L ngôi/Nc nhà/N màu_sắc/N thuộc_địa/N bao/N quanh/N bởi/E các/L bức/Nc tường/N đến/E bãi_biển/N ở/E Bocagrande/Np với/E hàng/N cọ/N dài/A cao_vút/A thành_phố/N này/P của/E Nam_Mỹ/Np có/V tất_cả/P những/L gì/P bạn/N khát_khao/V 
+11/M 
+Chefchaouen/Np Morocco_Bạn/Np có_thể/R tìm_kiếm/V cả/P đại_dương/N nhưng/C không_bao_giờ/X tìm/V thấy/V màu/N xanh/A đẹp/A như_thế_này/X 12/M Queenstown/Np New_Zealand_Trong/Np chuyến/N du_ngoạn/V khắp/A các/L thủ_đô/N trên/E thế_giới/N Queenstown/Np nổi_tiếng/A với/E bơi/V thuyền/N vào/E mùa_hè/N trên/E hồ/N Wakatipu/Np và/CC trượt_tuyết/A ở/E miền/N Nam/Np dãy/N núi/N Alps/Np vào/E mùa_đông/N 
+13/M 
+Venice/Np Ý_Mùi/Np vị/V tươi_mát/N phong_cảnh/N như/C thần_tiên/N đó/P chính/T là/V Venice/Np 
+14/M 
+Manhattan/Np New_York_Sự/Np quyến_rũ/V của/E New_York/Np nằm/V ở/E chính_sự/N đa_dạng/A của/E nó/P 
+Từ/E những/L đại_lộ/N bận_rộn/A với/E các/L tòa/N nhà_chọc_trời/N cho_đến/E những/L đường_phố/N đầy/A cây_xanh/N rải_rác/A những/L viên/Nc đá/N nâu/A không/R nơi/N nào/P giống/A như/C Manhattan/Np của/E New_York/Np 
+15/M 
+Cape_Town/Np Nam_Phi_Mẹ/Np thiên_nhiên/N đã/R quá/V ưu_ái/N cho/E thành_phố/N này/P đó/P là/V suy_nghĩ/N đầu_tiên/A của/E bạn/N khi/N đứng/V nhìn/V toàn_cảnh/N thành_phố/N từ/E đỉnh/N núi/N Table/Np 
+Hữu_Nguyên_Theo_Purewow/X 

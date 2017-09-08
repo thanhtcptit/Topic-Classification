@@ -1,0 +1,48 @@
+Bông/Nc hoa/N ngành/N cơ_khí/N
+Là/V nữ/N nhưng/C chọn/V học/V ngành/N cơ_khí/N rồi/C trở_thành/V giảng_viên/N dạy/V nghề/N cơ_khí/N chế_tạo/V mô_hình/N máy_phay/N CNC/Np phục_vụ/V giảng_dạy/V
+Đó/P là/V chị/N Phan_Thị_Thuý_Liễu/Np 30/M tuổi/N trưởng/N khoa/N cơ_khí/N Trường/N cao_đẳng/N Nghề/N số/N 7/M Quân_khu/N 7/M vừa/R nhận/V giải/N nhất/N Tuổi_trẻ/N sáng_tạo/N toàn/N quân/N cho/V mô_hình/N máy_phay/N CNC/Np
+Chế_tạo/V máy/N vì/N học_trò/N
+Gặp/V chị/N Thuý_Liễu/Np lúc/N chị/N đang/R tỉ_mỉ/A hướng_dẫn/V học_viên/N là/V bộ_đội/N xuất_ngũ/N thực_hành/V trong/N xưởng/N
+Tất_cả/N học_viên/N là/V nam/N chỉ/R có/V cô_giáo/N là/V nữ/N
+Khi/N trò/N cần/V hỗ_trợ/V gì/P cô/N chẳng/R ngại/V lấm_lem/N dầu_mỡ/N xắn/V tay/N chỉ/V ngay/T
+Đối_với/N chuyên_ngành/N cơ_khí/N chị/Nc Liễu/Np cho/V biết/V hiện_nay/N việc/N gia_công/V máy_phay/N CNC/Np công_nghiệp/N đươ/N ̣/N c/N a/N ́/N p/N du/N ̣/N ng/N hầu_hết/N trong/E các/L nhà_máy/N cơ_khí/N chê/N ́/N ta/P ̣/V o/V
+Do/E đó/P khi/N da/N ̣/N y/N nghê/N ̀/N phải/V đào_tạo/V làm_sao/X để/E các/L em/N đáp_ứng/V được/R yêu/V câ/N ̀/N u/N cu/N ̉/N a/N thi/V ̣/N trươ/N ̀/V ng/N lao/V đô/N ̣/N ng/N
+Trong/E quá_trình/N học/V các/L em/N phải/V được/R thực_hành/V liên_tục/A
+Nhưng/C hiện_nay/N số_lượng/N máy_phay/N CNC/Np trong/E nhà_trường/N hạn_chế/V
+Đê/N ̉/N đâ/V ̀/N u/N tư/N mua/V să/N ́/N m/N ma/N ́/N y/N phay/N CNC/Np công/N nghiê/V ̣/N p/N pha/V ̉/N i/N co/V ́/N nguô/N ̀/N n/N kinh/N phi/N ́/N lơ/N ́/N n/N
+Khi/N vận_hành/V máy/N thì/C chi/V phi/N ́/N nhiên/N liê/N ̣/N u/N vâ/N ̣/N t/N liê/N ̣/N u/N hao/N mo/N ̀/N n/N cao/A làm/V tăng/V chi/N phi/N ́/N đa/N ̀/N o/N ta/P ̣/V o/V chị/Nc Liễu/Np cho/V biết/V
+Từ/E những/L lí_do/N đó/P chị/N Liễu/Np quyết_tâm/V chế_tạo/V một/M mô_hình/N máy_phay/N CNC/Np để/E phục_vụ/V học_tập/N của/N học_viên/N
+Lúc/N này/P chị/N lên/V ý_tưởng/N và/CC cùng/A với/E hai/M nữ/N đồng_nghiệp/N bắt_tay/V thực_hiện/V
+Thứ_bảy/N chủ_nhật/N ngày/N nghỉ/V nhưng/C chị_em/N lại/R kéo/V nhau/N lên/V xưởng/N để/N làm/V
+Thầy/N cô/N bên/N khoa/N điện_tử/N cũng/R hỗ_trợ/V nhóm/V nhiều/A
+Thời_gian/N đầu/A do/E cài_đặt/N sai/A nên/C không/R ra/V được/R sản_phẩm/N hoặc/N sản_phẩm/N có/V hình_dạng/N không/R đúng/A yêu_cầu/N chị/Nc Liễu/Np kể/V lại/R lúc/N bắt_tay/V làm/V mô_hình/N máy_phay/N CNC/Np
+Sau/E nhiều/A lần/N thất_bại/V làm/V đi/R làm/V lại/V cuối_cùng/N chiếc/N máy/N ra_đời/V
+So/V với/E máy_phay/N CNC/Np thật/N mô_hình/N này/P có/V kích_thước/N nhỏ/A gọn/A dễ/A di_chuyển/V lắp_đặt/V
+Khi/N hư_hỏng/N không/R cần/V mời/V chuyên_gia/N mà/C chỉ/R cần/V tìm/V lỗi/N cài_đặt/N lại/R chị/Nc Liễu/Np nói/V
+Khi/N đưa/V vào/R giảng_dạy/V chiếc/Nc máy/N này/P đã/R giúp/V học_viên/N làm_quen/V nắm/V chắc/A kiến_thức/N cơ_bản/A trước/E khi/N vận_hành/V máy/N CNC/Np công_nghiệp/N trong/E thư/N ̣/N c/N tê/N ́/N
+Vất_vả/N vẫn/R yêu/V nghề/N
+Có_lẽ/N theo/V ngành/N cơ_khí/N nên/C trông/V chị/Nc Liễu/Np thật/A mạnh_mẽ/A
+Học_viên/N hay/C chọc/V Cô/N giáo/N mạnh_mẽ/A manly/N nam_tính/A quá/R đi/V
+Lý_giải/V việc/N chọn/V ngành/N tưởng/V chỉ/R dành/V cho/R nam_giới/N chị/Nc Liễu/Np nhớ/V lại/R Hồi/N học/V phổ_thông/N lúc/N xem/V tivi/N nhìn/V những/L dây_chuyền/N sản_xuất/V của/E Nhật_Bản/Np mình/N mê/V lắm/N
+Từ/E đó/P đã/R có/V ý_định/N sẽ/R học/V ngành/N cơ_khí/N
+Rồi/C tôi/P chọn/V ngành/N cơ_khí/N Trường/N đại_học/N Cần_Thơ/Np
+Lúc/N ấy/P ba/M mẹ/N bạn_bè/N thầy/N cô/N ai/P cũng/R bất_ngờ/V
+Tuy_nhiên/C lúc/N vào/V học/V chị/N chẳng/R thua_kém/V chàng/N trai/N nào/P
+Nữ/N mà/C học/V ngành/N này/P cực/A dữ/A lắm/T
+Dầu_mỡ/N lem_luốc/N
+Các/L bạn/N nam/N thì/N khoẻ/N nên/C làm/V nhanh/A mình/N thì/C chậm/A hơn/R
+Nhưng/C bù/V lại/R nữ/N được_cái/N cẩn_trọng/A tỉ_mỉ/A hơn/R nên/V sản_phẩm/N đẹp/A hơn/A chị/Nc Liễu/Np cho/V biết/V
+Cứ/R mỗi/M lần/N làm/V được/V sản_phẩm/N chị/N thấy/V sướng/N trong/N người/N
+Do/E đó/P chị/N chưa/R bao_giờ/P có/V ý_định/N thay_đổi/V ngành/N học/V
+Ra/V trường/N chị/N ở/V lại/R giảng_dạy/V tại/E trường/N sau/N đó/P học/V và/N tốt_nghiệp/V thạc_sĩ/N cơ_khí/N Trường/N đại_học/N Bách_khoa/N TPHCM/Np và/CC về/V giảng_dạy/V tại/E Trường/Np cao_đẳng/N Nghề/N số/N 7/M
+Chị/N bảo/V mình/P đam_mê/V lắm/A nên/C nếu/N có/V cơ_hội/N vẫn/R muốn/V học/V lên/R nữa/R
+Còn/C bây_giờ/N chị/N cố_gắng/V truyền/V dạy/V kiến_thức/N cho/E các/L học_viên/N để/E các/L em/N có/V tay_nghề/N thật/R tốt/A ra_đời/V có_thể/V nuôi/V sống/V bản_thân/N
+Nhận_xét/V về/E chị/N Phan_Thị_Thuý_Liễu/Np thượng_tá/N Phan_Thành_Thống/Np phó/N hiệu_trưởng/N Trường/Np cao_đẳng/A Nghề/N số/N 7/M cho/V biết/V Liễu/Np hiện/N là/V trưởng/N khoa/N cơ_khí/N của/E trường/N nên/C có/V trình_độ/N chuyên_môn/N tốt/A
+Các/L đề_tài/N sáng_kiến/N của/E Liễu/Np đều/R là/V những/L đề_tài/N có/V tính/N ứng_dụng/N cao/A
+Khi/N báo_cáo/V đề_tài/N với/E nhà_trường/N Liễu/Np đều/R đeo_bám/V quyết_tâm/N làm/V đến_cùng/N
+Phải/V yêu/V nghề/N lắm/A mới/R làm/V được/R như/C vậy/P nhất_là/N nữ_giới/N thượng_tá/N Thống/Np nói/V
+Đáp_ứng/N yêu_cầu/V dạy/V nghề/N
+Mô/N hi/N ̀/N nh/N ma/N ́/N y/N phay/N CNC/Np do/E chị/Nc Liễu/Np và/CC đồng_nghiệp/N chế_tạo/V ra/R co/V ́/N chư/N ́/N c/N năng/N gâ/N ̀/N n/N giô/N ́/N ng/V máy/N gia_công/V CNC/Np công_nghiệp/N thâ/N ̣/N t/N nhưng/C nhỏ/A gọn/A và/CC kết_cấu/N đơn_giản/A
+Giá_thành/N gia_công/N hoàn_chỉnh/V sản_phẩm/N khoảng/A 45/M triệu/M đồng/Nu
+Mô/N hi/N ̀/N nh/N máy_phay/N CNC/Np đa/N ̃/N đa/N ́/N p/N ư/N ́/N ng/N tô/N ́/N t/N yêu_cầu/V da/N ̣/N y/N nghê/N ̀/N că/N ́/N t/N go/N ̣/N t/N kim/N loa/N ̣/N i/N ta/P ̣/V i/N Trươ/Np ̀/V ng/N cao/A đă/N ̉/N ng/N Nghê/Np ̀/V sô/N ́/N 7/M Quân_khu/N 7/M
+Trước/E đó/P trong/E hô/N ̣/N i/N thi/V thiết_bị/N đào_tạo/V tự/N làm/V cu/N ̉/N a/N TPHCM/Np năm/N 2016/M mô_hình/N máy_phay/N CNC/Np này/P đã/R gia/N ̀/N nh/N đươ/N ̣/N c/N giải/N nhì/N

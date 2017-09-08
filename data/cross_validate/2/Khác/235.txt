@@ -1,0 +1,11 @@
+Trải_nghiệm/N lớp_học/N robot/N NAO/Np
+Buổi/N tổng_kết/V khoá/N học/V lập_trình/N điều_khiển/N robot/N NAO/Np đã/R diễn/V ra/R khá/R sôi_động/A tại/E Trường/N ĐH/N Khoa_học/N tự_nhiên/A ĐHQG/M TPHCM/Np sáng/N 116/M
+Chương_trình/N do/C Câu/N lạc/V bộ/N CLB/Np Robotics/Np Internet/Np of/N Things/Np IoT/V thuộc/V Phòng/N thí_nghiệm/V trí_tuệ_nhân_tạo/X Allab/Np Trường/N ĐH/N Khoa_học/N tự_nhiên/A ĐHQG/Np TPHCM/Np tổ_chức/V
+Theo/E đó/P đội/N thi/V của/E nhóm/N học_sinh/N đến/V từ/E Long_An/Np đoạt/V giải/N sáng_tạo/N với/E chủ_đề/N Sự/Np quan_trọng/A của/E việc/N tập_thể_dục/V
+Đội/N thi/N của/E nhóm/N học_sinh/N tại/E TPHCM/Np đoạt/V giải/N ấn_tượng/N với/E chủ_đề/N Trung_tâm/N giải_trí/V NAO/Np
+Mỗi/L đội/N dự/V thi/V gồm/V 2/M 3/M thành_viên/N và/CC có/V một/M chủ_đề/N riêng/A như/C NAO/Np dance/V khiêu_vũ/N phát/V nhạc/N tập_thể_dục/N với/N NAO/Np NAO/Np can/V do/E NAO/Np có_thể/R làm/V trung_tâm/N giải_trí/V NAO/Np
+Trong/E khoảng/N thời_gian/N 10/M phút/N các/L đội/N thi/V tham_gia/V thuyết_trình/N và/CC demo/V trên/E robot/N NAO/Np mô_phỏng/V hành_động/N khiêu_vũ/A tập_thể_dục/N kể/V chuyện/N
+được/V lập_trình/V sẵn/A và/N tương_tác/V bằng/E giọng/N nói/V của/N mình/N
+Đây/P là/V lớp_học/N robot/N NAO/Np đầu_tiên/A tại/E Việt_Nam/Np về/V lập_trình/N và/CC sáng_chế/N robot/V đa_dạng/N
+Lớp_học/N miễn_phí/V dành/V cho/E học_sinh/N có/V độ/N tuổi/N 13/M 18/M đặc_biệt/N có/V kiến_thức/N lập_trình/N cơ_bản/A và/CC đam_mê/V robot/N do/E CLB/Np Robotics/Np IoT/V thực_hiện/V
+Robot/N NAO/Np là/V robot/N hiện_đại/A mang/V hình_dáng/N người/N nổi_tiếng/A được/V trang_bị/V nhiều/A cảm_biến/N có/V khả_năng/N nhận_dạng/A giọng/N nói/V hình_ảnh/N khả_năng/N biểu_cảm/V sao_chép/N hành_vi/N của/E con_người/N và/CC có_thể/A nói/V 19/M loại/N ngôn_ngữ/N khác/A nhau/N

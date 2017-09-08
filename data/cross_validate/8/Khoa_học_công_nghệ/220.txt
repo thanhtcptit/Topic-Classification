@@ -1,0 +1,23 @@
+Ahamove/Np gọi/V xe_tải/N giao/V hàng/N qua/N ứng_dụng/N di_động/N
+Theo/E ông/N Lương_Duy_Hoài/Np giám_đốc_điều_hành/X CEO/Np Giao_Hàng_Nhanh/Np cho/V biết/V Ahamove/Np ra_đời/V nhằm/V giải_quyết/V bài_toán/N giảm_thiểu/N lãng_phí/V trong/E hệ_thống/N vận_tải/V bằng/E cách/N tối_ưu/N nguồn_lực/N khai_thác/V tối_đa/A công_suất/N còn/R thừa/V của/E các/L phương_tiện/N vận_tải/N đặc_biệt/A là/V nhóm/N xe_tải/N sở_hữu/V cá_nhân/N
+Dẫn_chứng/N từ/E số_liệu/N thống_kê/N của/E Bộ/Np GTVT/Np cho/V thấy/V hơn/A 70/M xe_tải/N chỉ/R chở/V hàng/N một_chiều/N và/CC lãng_phí/V khi/N chạy/V xe/N không/N ở/V chiều/N về/V
+Bên_cạnh/N đó/P 93/M trong/E tổng_số/N hơn/A 700000/M xe_tải/N trên/N toàn_quốc/N thuộc/V sở_hữu/N cá_nhân/N đang/R ở/V tình_trạng/N phân/V mảnh/N dù/N đã/R có/V những/L giải_pháp/N như/C website/N tổng_đài/N hay/C các/L đơn_vị/N trung_gian/N nhưng/C gặp/V phải/A nhiều/A hạn_chế/N nên/C không/R đạt/V hiệu_quả/N
+Ứng_dụng/N kết_nối/N tài_xế/N và/CC khách/N hàng/N
+Ahamove/N dựa/V trên/E nền_tảng/N công_nghệ/N di/V động/N để/E giải_quyết/V những/L hạn_chế/N khai_thác/V mô_hình/N dịch_vụ/N dựa/V trên/E địa_điểm/N của/E người_dùng/N theo/V thời_gian_thực/N
+Hiểu/V đơn_giản/A về/E mô_hình/N hoạt_động/N của/E Ahamove/Np khi/N một/M người_dùng/N sau/N khi/N tải/N ứng_dụng/N Ahamove/Np lên/V smartphone/N của/E mình/N kích_hoạt/N tính_năng/N vị_trí/N địa_lí/N Location/Np trên/E điện_thoại/N chọn/V nơi/N xe/N đến/V nhận/V hàng/N địa_điểm/N giao/V đến/R
+Loại/N xe/N lựa_chọn/V gồm/V xe/N ba_gác/N máy/N và/CC xe_tải/N
+Khách/N hàng/N có_thể/A chọn/V thêm/V hai/M tuỳ/N chọn/V tài_xế/N phụ/V xếp_hàng/N lên/V xe/N hay/N phụ/V đưa/V hàng/N lên/V nhà/N cao_tầng/N khi/N giao/V đến/V
+Tổng_số/N tiền/N phải/V trả/V cụ_thể/N sẽ/R hiển_thị/V nhanh_chóng/A để/E người_dùng/N xác_nhận/V đặt/V xe/N
+Nguồn/N phương_tiện/N giao/V vận/N không/R thuộc/V Ahamove/Np đó/P là/V các/L tài_xế/N sở_hữu/V xe/N cá_nhân/N đăng_kí/V theo/E những/L quy_định/N của/E Ahamove/Np hoặc/N thông_qua/V các/L hợp_tác_xã/N vận_tải/V
+Mỗi/L tài_xế/N với/N điện_thoại_di_động/N và/CC ứng_dụng/N Ahamove/Np sẽ/R nhận/V được/R thông_báo/N có/V đơn/N đặt_hàng/V ở/V gần/A nơi/N của/E mình/N kèm/V thông_tin/N người/N đặt/V
+Theo/E đó/P dù/E chiều/N đi/V hay/V về/E các/L tài_xế/N sẽ/R nhận/V được/R các/L đơn/N đặt_hàng/V giao/V hàng/N dựa/V vào/R vị_trí/N của/E họ/P khi/N đó/P được/V hệ_thống/N ghi_nhận/N
+Các/L tài_xế/N kí/V hợp_đồng/N chạy/V cho/R Ahamove/Np phải/V tuân_thủ/V các/L tiêu_chuẩn/N năm/N sao/N nhằm/V nâng/V cao/A chất/N lượng/N phục_vụ/V khách/N hàng/N
+Cả/P tài_xế/N lẫn/C khách/N hàng/N đều/R phải/V đánh_giá/V về/V nhau/N sau/N mỗi/M đơn/N đặt_hàng/V
+Tài_xế/N nào/P không/R được/V đánh_giá/V ít/A sao/N bị/V phản_hồi/V xấu/N sẽ/R không/R được/V tham_gia/V Ahamove/Np trong/E một/M khoảng/N thời_gian/N quy_định/N hoặc/N vĩnh_viễn/A
+Tương_tự/A với/E khách/N hàng/N
+Theo/E ông/N Lương_Duy_Hoài/Np mức/N giá/N dịch_vụ/N là/V giá_sàn/N trung_bình/A theo/V khảo_sát/N của/E Ahamove/Np cho/V loại/N xe/N ba_gác/N và/CC xe_tải/N nhỏ/A
+Ngoài_ra/N giá/N dịch_vụ/N sẽ/R giảm/V dần/R sau/N 4km/M đầu_tiên/N
+Người_dùng/N chỉ/R cần/V theo_dõi/V qua/R di_động/V
+Đặt/V xe/N chở/V hàng/N qua/N ứng_dụng/N di_động/N kế/V đến/R người_dùng/N cũng/R có_thể/A theo_dõi/V chuyến/N xe/N trực_tiếp/A trên/E di_động/N hoặc/N chia_sẻ/V cho/E người/N nhận/V một/M liên_kết/N link/N để/E họ/P cùng/A xem/V chuyến/N xe/N đã/R đến/V đâu/P và/N ước_tính/V thời_gian/N đến/V
+Thông_tin/N về/V tài_xế/N và/CC khách/N hàng/N đều/R minh_bạch/A nên/C việc/N liên_hệ/V tương_tác/V với/E nhau/N giúp/V giảm_thiểu/N rủi_ro/A trong/E giao/N vận/N
+Được/V biết/V Ahamove/Np thu/V 20/M trong/E tổng/N giá_trị/N đơn/N hàng/N số/N tiền/N còn/V lại/R chuyển/V thẳng/A đến/E tài_khoản/N của/N tài_xế/N

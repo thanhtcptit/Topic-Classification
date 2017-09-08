@@ -1,0 +1,21 @@
+Ươm/V mầm/N ước_mơ/N sáng_tạo/N
+Tận_dụng/V những/L phế_liệu/N và/CC dụng_cụ/N đơn_giản/A hai/M học_sinh/N 15/M tuổi/N học/V lớp/N 9/M Trường/N THCS/Np Diễn_Hải/Np huyện/N Diễn_Châu/Np Nghệ_An/Np đã/R chế_tạo_máy/N chưng_cất/V nước_ngọt/N cho/V ngư_dân/N vùng_biển/N bằng/E năng_lượng/N mặt_trời/N
+Giờ/N thực_hành/V môn/N vật_lí/N của/E Trường/N THCS/Np Diễn_Hải/Np như/C sôi_nổi/A hơn/A bởi/E ngoài/N kiến_thức/N lí_thuyết/N được/R học/V các/L bạn/N còn/R được/V trải_nghiệm/V chính/T những/L sản_phẩm/N của/E học_sinh/N trường/N mình/P làm/V ra/R
+Bên/N máy/N chưng_cất/N nước_ngọt/N từ/E nước_mặn/N Ngô_Thành_Đạt/Np và/CC Nguyễn_Tiến_Dũng/Np cùng/A say_sưa/N thuyết_minh/V nguyên_lí/N hoạt_động/V cách_thức/N vận_hành/V cho/E các/L bạn/N cùng/N lớp/N
+Đạt/Np kể/V những/L chuyến/N đi/V biển/N dài/A ngày/N của/E gia_đình/N hay/C người/N dân/N trong/N xóm/N phải/V chuẩn_bị/V một/M lượng/N lớn/A nước_ngọt/N cho/E các/L ngư_dân/N sinh_hoạt/N trên/N tàu/N
+Từ_thực/N tế/N đó/P hai/M bạn/N nghĩ/V nếu/C một/M loại/Nc máy/N có_thể/R chưng_cất/V nước_mặn/N thành/V nước_ngọt/N thì/C hay/N biết_mấy/N
+Sau/E khi/N nêu/V ý_tưởng/N và/CC phác_hoạ/N sơ_đồ/N hoạt_động/V của/E thiết_bị/N hai/M nam_sinh/N được/V thầy/N Nguyễn_Đình_Hoà/Np giáo_viên/N bộ_môn/N vật_lí/N hỗ_trợ/V hết_mình/X
+Gần/A ba_tháng/N trời/N mày_mò/V thử_nghiệm/V hàng/R chục/M lần/N chiếc/N máy/N chưng_cất/N mới/A hoàn_thiện/V
+Uống/V ly/N nước_ngọt/N đầu_tiên/A được/V chưng_cất/N từ/E nước/N biển/N mặn_chát/A ba/M thầy/N trò/N không/R giấu/V nổi/R niềm/N vui_sướng/V
+Hóm_hỉnh/N giới_thiệu/V về/E chiếc/Nc máy/N nhỏ/A nhưng/C có/V võ/N Đạt/Np cho_hay/V theo/V nguyên_lí/N vật_lí/N khi/N đổ/V nước/N biển/N vào/V bình/N bảo/V ôn/V nước/N sẽ/R chảy/V xuống/R các/L ống/N đồng/N đặt/V dưới/N các/L tấm/N kính/N bức_xạ/A mặt_trời/N chiếu/N vào/V ống/N đồng/N làm/V nước/N nóng/A lên/R tạo/V thành/V một/M vòng/N đối_lưu/N của/E chất_lỏng/N trong/N ống/N
+Nước/N nóng/N đi/V lên/R còn/V nước_lạnh/V đi/V xuống/V
+Quá_trình/N như/C vậy/P xảy/V ra/V liên_tục/N làm/V nhiệt_độ/N của/E nước/N trong/E bình/N bảo/V ôn/V liên_tục/A tăng/V lên/R
+Qua/E hệ_thống/N guồng/N quay/V làm/V diện_tích/N bề_mặt/N của/E nước/N trong/E buồng/N nóng/N tăng/V lên/R nước/N không_chỉ/N bay_hơi/A trên/E mặt/N thoáng/N mà/C bay_hơi/N ở/V phần/N nước/N bám/V vào/R màng_lưới/N của/E guồng/N quay/V Đạt/Np lí_giải/N
+Tiếp/V đó/P nhờ/V máy/N hút/V hơi_nước/N nóng/A từ/E buồng/N nóng/A cho/V đi/V sang/V buồng/N lạnh/A thông_qua/V ống/N đồng/N khi/N hơi_nước/N nóng/A sang/V buồng/N lạnh/A gặp/V lạnh/A ngưng_tụ/N tạo/V ra/R nước_ngọt/N
+Dũng/N chia_sẻ/V thêm/V do/E hệ_thống/N hoạt_động/V liên_hoàn/A theo/V một/M chu_trình/N khép_kín/A nên/N có_thể/R hoạt_động/V được/R nhiều/A thời_gian/N trong/A ngày/N
+Người/N dân/N hoàn_toàn/A chủ_động/V nguồn/N nước_sạch/N phục_vụ/V sinh_hoạt/N và/N sản_xuất/V
+Với/E mô_hình/N hiện_tại/N nặng/A chừng/N 20kg/M cứ/N 10/M lít/Nu nước/N biển/N sau/E khi/N chưng_cất/V sẽ/R cho/V khoảng/A 6/M lít/N nước_ngọt/N
+Thầy_Võ_Hồng_Sơn/Np hiệu_trưởng/N Trường/N THCS/Np Diễn_Hải/Np huyện/N Diễn_Châu/Np cho/V biết/V từ/E phong_trào/N sáng_tạo/V trong/E ba/M năm/N qua/V có/V 30/M ý_tưởng/N được/V hình_thành/V là/V trường/N duy_nhất/A của/E tỉnh/N có/V ba/M sản_phẩm/N dự/V thi/V cấp/N quốc_gia/N đều/R đoạt/V giải/N trong/E ba/M năm/N liền/A
+Qua/E đó/P đã/R tạo/V phong_trào/N thi_đua/V sôi_nổi/N giúp/V các/L em/N học_sinh/N có/V điều_kiện/N thực_hiện/V ước_mơ/N sáng_tạo/N của/E mình/N thầy/N Sơn/Np chia_sẻ/V
+Sáng_kiến/N kĩ_thuật/N Chưng_cất/N nước_ngọt/N cho/V ngư_dân/N vùng_biển/N bằng/E năng_lượng/N mặt_trời/N của/E Đạt/Np và/CC Dũng/Np đã/R gặt_hái/V nhiều/A giải_thưởng/N như/C giải/N khuyến_khích/N tại/E Cuộc/N thi/V sáng_tạo/V khoa_học_kĩ_thuật/X quốc_gia/N năm_học/N 2016/M 2017/M
+giải/N nhất/A cuộc/N thi/V Sáng_tạo/V thanh_thiếu_niên/N nhi_đồng/N do/N Liên_hiệp/N các/L hội/N KHKT/Np Nghệ_An/Np Sở/N GDĐT/Np Sở/N Khoa_học/N công_nghệ/N Tỉnh/N đoàn/N Nghệ_An/Np vừa/R tổ_chức/V

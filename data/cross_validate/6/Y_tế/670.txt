@@ -1,0 +1,11 @@
+Điều_dưỡng/N bị/V kỷ_luật/V vì/E cấp_cứu/V bệnh_nhân/N trên/E sàn/N nhà/N
+Sự_việc/N xảy_ra/V ngày/N 4/6/M tại/E Bệnh_viện/N Ung_bướu/Np TP_HCM/Np theo/E báo_cáo/N của/E Sở/N Y_tế/N TP_HCM/Np gửi/V Cục/N Quản/Np lý/N Khám/V chữa/V bệnh/N Bộ/N Y_tế/N
+Khi/N đấy/P bệnh_nhân/N nữ/N 60/M tuổi/N bị/V ung_thư/N phổi/N di_căn/V xương/N và/CC não/N suy/V thận/N ung_thư/N cổ/N tử_cung/N và/CC buồng_trứng/V
+Bệnh_nhân/N điều_trị/V tại/E Bệnh_viện/N Ung_bướu/Np TP_HCM/Np do/E quá_tải/A nên/C phải/V nằm/V ghép/V giường/N và/CC chuyển/V xuống/E sàn/N nhà/N trải/V chiếu/N nằm/V
+Bệnh_nhân/N bất_ngờ/A lên_cơn/V co_giật/A điều_dưỡng/V Thái_Thị_Thanh/Np lập_tức/R báo/V bác_sĩ/N đồng_thời/R thực_hiện/V đường/N truyền/V ngay/R cho/E bệnh_nhân/N để/E cấp_cứu/V trong/E khi/N người/N này/P vẫn/R đang/R nằm/V trên/E sàn/N nhà/N
+Theo/E lãnh_đạo/N bệnh_viện/N điều_dưỡng/V Thanh/Np trong/E quá_trình/N cấp_cứu/V người_bệnh/N đã/R không/R thực_hiện/V đúng/A quy_trình/N chuyên_môn/N kỹ_thuật/N
+Cụ_thể/A điều_dưỡng/V không/R mang/V khẩu_trang/N găng_tay/N và/CC tiến_hành/V cấp_cứu/V trong/E lúc/N người_bệnh/N nằm/V dưới/E sàn/N nhà/N  /M Bệnh_viện/N đã/R tạm/A ngưng/V công_tác/N của/E điều_dưỡng/N Thanh/Np để/E kiểm_điểm/V
+Bệnh_viện/N cũng/R tăng_cường/V kiểm_tra/V giám_sát/V nhắc_nhở/V nhân_viên/N thực_hiện/V đúng/A quy_trình/N chuyên_môn/N ngay/T cả/T khi/N cấp_cứu/V để/E nhằm/V đảm_bảo/V an_toàn/N cho/E cả/P bệnh_nhân/N và/CC nhân_viên/N y_tế/N
+Bệnh_viện/N Ung_bướu/Np TP_HCM/Np thường_xuyên/A quá_tải/A bệnh_nhân/N phải/V nằm/V ghép/V 3/M người/N một/M giường/N thậm_chí/R chen/V nhau/N nằm/V dưới/E gầm/N giường/N và/CC dọc/A các/L lối/N đi/V  /M Theo/E
+giám_đốc/N bệnh_viện/N khi/N khu/N Khám/V bệnh/N chẩn_đoán/V và/CC điều_trị/V kỹ_thuật/N cao/A cùng/A bệnh_viện/N cơ_sở/N 2/M đi/V vào/E hoạt_động/N sẽ/R góp_phần/V giảm/V tải/N
+Trong/E khi/N đó/P để/E giảm/V quá_tải/A bệnh_viện/N đã/R thực_hiện/V khám/V bệnh/N ngoài/E giờ/N vào/E buổi_sáng/N /A lúc/N 5-7h30/M /Nu khám/V và/CC điều_trị/V cả/P ngày/N nghỉ/V ứng_dụng/V công_nghệ_thông_tin/N cải_cách/V thủ_tục/N hành_chính/N tăng_cường/V hỗ_trợ/V đào_tạo/V tuyến/N dưới/E

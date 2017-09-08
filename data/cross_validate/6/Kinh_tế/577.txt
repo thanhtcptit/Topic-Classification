@@ -1,0 +1,46 @@
+Gần/A 500/M cổ_phiếu/N Việt/Np mất_giá/V khi/N Anh/N rời/V EU/Np
+Dòng/N tiền/N đổ/V vào/E bắt/V đáy/N đã/R thu_hẹp/V mức/N giảm/V của/E các/L chỉ_số/N sau/E những/L giây_phút/N hoảng_loạn/V
+Tính/V đến/E 14h30/M Vn-Index/Np chỉ/R còn/V giảm/V 12/M điểm/N xuống/V 620/M điểm/N
+HNX-Index/Np giảm/V 2/M điểm/N xuống/V 83/M điểm/N và/CC sàn/N UPCoM/Np cũng/R giảm/V 2/M điểm/N
+Tuy_vậy/C toàn/R thị_trường/N vẫn/R có/V khoảng/A hơn/R 500/M mã/Nu giảm/V điểm/N
+Khối_lượng/N giao_dịch/V tăng/V kỷ_lục/N lên/V mức/N gần/A 6 0/M tỷ/N đồng/N
+Trên/E thị_trường/N chỉ/R một_vài/L mã/N lội/V ngược/A dòng/N MWG/Np tăng/V tới/R 7 0/M đồng/Nu lên/V 122 0/M đồng/Nu một/M cổ_phiếu/N
+Ngoài_ra/C KBC/Np CAV/Np DHA…/Np bắt_đầu/V lấy/V lại/R sắc/N xanh/A
+Chốt/N phiên/N Vn-Index/Np giảm/V 12/M điểm/N xuống/R còn/V 620/M điểm/N
+HNX/Np cũng/R giảm/V gần/A 2/M điểm/N xuống/V 83 M điểm/N
+UPCoM-Index/Np cũng/R giảm/V nhẹ/A xuống/V 56,8/M điểm/N
+Mức/N giảm/V đã/R được/V thu_hẹp/V nhờ/V dòng/N tiền/N lớn/A đổ/V vào/E bắt/V đáy/N
+Tổng/N khối_lượng/N giao_dịch/V toàn/R thị_trường/N lên/V tới/E 6 0/M tỷ/N đồng/N –/V mức/N cao/A nhất/A từ/E năm/N 2015/M trở_lại/V đây/P
+Đặc_biệt/A dòng/N tiền/N đổ/V mạnh/A vào/E các/L cổ_phiếu/N có/V lượng/N vay/V nợ/N lớn/A bằng/E đồng/N euro/Nu như/C HT1/Np NT1/Np …/V Một_số/L cổ_phiếu/N lớn/A như/C VNM/Np VCB/Np MBB/Np VIC/Np SSI/Np HPG/Np HSG/Np GAS/Np FPT/Np BVH…/Np hồi_phục/V dần/R
+Tuy_vậy/C sắc/N đỏ/A vẫn/R lấn_át/V khi/N có/V tới/V gần/A 500/M mã/Nu giảm/V trong/E đó/P có/V 67/M mã/N giảm/V sàn/N
+Trước/E đó/P quyết_định/N của/E người/N Anh/N về/E việc/N rời/V EU/Np được/V công_bố/V cuối/N buổi_sáng/N nay/P /A theo/E giờ/N Hà_Nội/Np /A khiến/V nhiều/A nhà_đầu_tư/N chứng_khoán/V trong/E nước/N cũng_như/C thế_giới/N lo_sợ/V
+Nối_gót/N nhiều/A thị_trường/N trong/E khu_vực/N các/L lệnh/N bán/V cổ_phiếu/N ồ_ạt/A được/V tung/V ra/R
+Chỉ_số/N trên/E 2/M sàn/N Hà_Nội/Np và/CC TP_HCM/Np cùng/A lao/V dốc/N từ/E cuối/N phiên/N sáng/N khi/N hàng_loạt/N cổ_phiếu/N trụ_cột/N đồng_loạt/R bị/V bán/V và/CC giảm_giá/V như/C VNM/Np VCB/Np BVH/Np
+Không/R còn/V trụ/N đỡ/V Vn-Index/Np giảm/V tới/V 34,5/M điểm/N ngay/T đầu/N phiên/N chiều/N mạnh/A nhất/R từ/E đầu/N năm/N
+Sắc/N đỏ/A bao_trùm/V hai/M sàn/N với/E hơn/A 450/M mã/Nu giảm/V điểm/N
+Không/R một/M cổ_phiếu/N nào/P trong/E rổ/N VN30/Np còn/R trụ/V vững/A
+Điển_hình/A như/C VNM/Np giảm/V 5 0/M đồng/Nu BVH/Np giảm/V 3 0/M đồng/Nu VCB/Np giảm/V 1 0/M đồng/Nu VIC/Np và/CC GAS/Np giảm/V 2 0/M đồng/Nu MWG/Np giảm/V 2 0/M đồng/Nu HPG/Np giảm/V 1 0/M đồng/Nu HSG/Np giảm/V 2 0/M đồng/Nu …/N Hơn/A 100/M mã/N khác/A giảm/V sàn/N như/C HAG/Np HNG/Np CTG/Np BCG/Np BGM/Np
+Các/L lệnh/N bán/V diễn/V ra/R ở/E hầu_hết/R các/L dòng/N cổ_phiếu/V từ/E ngân_hàng/N dầu_khí/N đến/E chứng_khoán/N …/M Chỉ/R còn/V một_vài/L mã/N nhỏ/A thanh/A khoản/N thấp/A còn/R giữ/V được/R sắc/N xanh/A
+Trước/E đó/P khép/V lại/R phiên/N giao_dịch/V sáng/N Vn-Index/Np giảm/V 21,63/M điểm/N xuống/V 610,64/M điểm/N
+Một/M môi_giới/N tại/E Công_ty/N Chứng_khoán/Np Sài/Np gòn/N /M SSI/Np /M cho_biết/V thị_trường/N đang/R bị/V ảnh_hưởng/V rất/R lớn/A bởi/E thông_tin/N Anh/N rời/V EU/Np đã/R “/V thổi/V bay/V ”/N nỗ_lực/V tăng/V điểm/N trong/E nhiều/A tháng/N qua/V
+Tuy_nhiên/C việc/N Vn-Index/Np rơi/V mạnh/A chủ_yếu/A do/E tác_động/N tâm_lý/N và/CC cuộc/N bán_tháo/V của/E chứng_khoán/N toàn/N châu/N Á/Np
+“/M Dòng/N tiền/N lớn/A không/R có/V xu_hướng/N thoát/V khỏi/V thị_trường/N vẫn/R đang/R lựa_chọn/V các/L cổ_phiếu/N tốt/A
+Những/L thời_điểm/N giảm/V sâu/A có_thể/R là/V cơ_hội/N mua/V vào/E những/L cổ_phiếu/N này/P sau/E thời_gian/N giá/N ở/E đỉnh/N ”/M
+Ông/Nc Nguyễn_Thế_Minh/Np –/V Trưởng_phòng/N Phân_tích/V /N Công_ty/N Chứng_khoán/Np Bản_Việt/Np /M nhận_định/V tâm_lý/N nhà_đầu_tư/N đang/R rất/R tiêu_cực/A sẵn_sàng/A bán_tháo/V theo/E xu_hướng/N các/L thị_trường_chứng_khoán/N thế_giới/N và/CC việc/N này/P chưa_thể/R dừng/V lại/R ngay/T
+Vị/Nc này/P cho/V rằng/C thực_tế/N mối/N quan_hệ/N kinh_tế/N Việt_Nam/Np –/M Anh/N mới/R ở/V giai_đoạn/N đầu/N của/E phát_triển/V nên/C mức_độ/N tác_động/V trực_tiếp/A không/R quá/R nhiều/A
+Tuy_nhiên/C việc/N Anh/N rời/V EU/Np lại/R tác_động/V lớn/A đến/E khối/N liên_minh/N vốn/N có/V mối/N quan_hệ/N chặt_chẽ/A
+Việc/N này/P ảnh_hưởng/V rủi_ro/A đến/E toàn_bộ/L thị_trường_chứng_khoán/N trên/E thế_giới/N từ/E đó/P ảnh_hưởng/V đến/E việc/N mua_bán/V của/E quỹ/N ngoại/N tại/E Việt_Nam/Np để/E đầu_tư/V vào/E những/L kênh/N an_toàn/A hơn/R  /EOS
+“/N Chưa/R có/V một/M báo_cáo/N trực_tiếp/A nào/P nói/V về/E ảnh_hưởng/N kinh_tế/N của/E Việt_Nam/Np khi/N Anh/N rời/V EU/Np việc/N bán_tháo/V chủ_yếu/A do/E tác_động/V tâm_lý/N từ/E bên/N ngoài/N tâm_lý/N đám/N đông/N
+Họ/P lo_sợ/V Anh/N rời/V EU/Np có_thể/R sẽ/R khởi_đầu/V cho/E xu_hướng/N bán/V ròng/A của/E khối/N ngoại/N sau/E thời_gian/N dài/A ở/E thế/P mua/V ròng/A ở/E Việt_Nam/Np
+Tuy_nhiên/C chúng_tôi/P nghĩ/V rằng/C Việt_Nam/Np sẽ/R bị/V tác_động/V nhưng/C không/R quá/R tiêu_cực/A so/V với/E các/L nước/N ”/A ông/Nc Minh/Np nói/V
+Ở/E những/L thời_điểm/N giảm/V sâu/A có/V nhiều/A ý_kiến/N cho/V rằng/C nên/C tận_dụng/V mua/V vào/R song/C ông/N Minh/Np khuyến_cáo/N nên/C cẩn_trọng/A bởi/E sự_kiện/N Anh/N rời/V EU/Np có_thể/R có/V tác_động/N lâu_dài/A
+Không_chỉ/C Việt_Nam/Np các/L thị_trường/N tài_chính/N châu/N Á/Np cũng/R diễn/V ra/R cảnh/N tháo_chạy/A khi/N tin_tức/N tại/E Anh/N dần/R được/V công_bố/V
+Đến/E 1h40/M chiều/N nay/P /M giờ/Nu Hà_Nội/Np /A đà/N giảm/V tại/E tất_cả/P chỉ_số/N lớn/A trong/E khu_vực/N đều/R tăng_tốc/V
+Shanghai_Composite_Index/Np /V Trung_Quốc/Np /M hiện/N giảm/V 1,1%/M
+Hang_Seng_Index/Np /V Hong_Kong/Np Trung_Quốc/Np /V mất/V 4,3%/M
+Mức/N giảm/V này/P của/E Nikkei/Np 225/M /N Nhật_Bản/Np /V và/CC Kospi/Np /V Hàn_Quốc/Np /V lần_lượt/R là/V 9,4%/M và/CC 3%/M
+Trước/E đó/P giới/N chuyên_gia/N từng/R cảnh_báo/N Anh/N rời/V EU/Np có_thể/R châm/V ngòi/N cho/E biến_động/N chứng_khoán/V toàn_cầu/N khiến/V kinh_tế/N thế_giới/N đứng/V trước/E nguy_cơ/N của/E một/M cuộc/Nc khủng_hoảng/N mới/A
+Tuy_vậy/C trao_đổi/V với/E báo_chí/N sáng/N nay/P bà/Nc Đỗ_Thị_Ngọc/Np Phó/Z vụ_trưởng/N Vụ/N thống_kê/V giá/N /M Tồng/Np cục/N Thống_kê/V /A đánh_giá/V qua/E các/L số_liệu/N về/E quan_hệ/N kinh_tế/N song_phương/A việc/N Anh/N ra_đi/V hay/C ở/V lại/R EU/Np gần_như/R không/R tác_động/V nhiều/A đến/E kinh_tế/N Việt_Nam/Np
+Bà/Nc Ngọc/Np cho/V rằng/C Việt_Nam/Np mặc_dù/C tham_gia/V ký_kết/V hàng_loạt/N hiệp_định/N thương_mại/N tự_do/A /V trong/E đó/P có/V cả/P FTA/Np với/E Liên_minh/N châu/N Âu/Np /M song/N vẫn/R ở/V giai_đoạn/N chuẩn_bị/V chưa/R hội_nhập/V sâu_rộng/A nên/C chưa/R ảnh_hưởng/V nhiều/A
+Vị/Nc này/P cho/V rằng/C hưởng/V nhiều/A nhất_là/X châu/N Âu/Np Mỹ/Np
+Riên/N châu/N Á/Np thì/C các/L thị_trường/N Hong_Kong/Np Singapore/Np Nhật/Np sẽ/R bị/V tác_động/V lớn/A

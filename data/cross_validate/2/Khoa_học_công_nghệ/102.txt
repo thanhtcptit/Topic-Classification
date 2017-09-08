@@ -1,0 +1,19 @@
+​/N MacRansom/N dịch_vụ/N thuê/V Ransomware/Np tống_tiền/V máy/N Mac/Np
+Fortinet/Np gọi/V đây/P là/V dịch_vụ/N cho/V thuê/V ransomware/N RaaS/N đầu_tiên/A liên_quan/V Mac/Np do/E tội_phạm/N mạng/N dựng/V lên/R tên/N MacRansom/N nó/P chuyên/A nhắm/V tới/E các/L máy_tính/N Mac/Np của/N Apple/Np
+Bất_kì/N người/Nc mua/N nào/P có_thể/A đến/V mạng/N MacRansom/V đặt_hàng/N cho/V mình/N loại/N biến_thể/N mã/N độc/A tống_tiền/V Ransomware/Np
+Nhóm/N vận_hành/V và/N tạo/V MacRansom/N nhận/V 30/M tiền/N Bitcoin/Np kiếm/V được/R chuyển/V 70/M đến/E khách/N hàng/N phát_tán/N biến/V thể/N MacRansom/N
+Cổng/N trực_tuyến/N MacRansom/N vận_hành/V qua/R mạng/N ẩn_danh/N TOR/Np nên/V khó_lòng/N truy/V vết/N
+Nhóm/N điều_tra/V an_ninh/N mạng/N Fortinet/Np thử/V liên_lạc/V và/N đặt_hàng/V qua/R mạng/N MacRansom/V
+Họ/P nhận/V một/M biến_thể/N ransomware/N được/V giới_thiệu/V có/V khả_năng/N khoá/N dữ_liệu/N theo/V chuẩn/N mã_hoá/N 128/M bit/N và/CC đồng_thời/N không_thể/A truy/V vết/N
+Tuy_nhiên/C nhóm/N phân_tích/V cho/V rằng/C đây/P không/R phải/A là/V loại/N Ransomware/Np phức_tạp/A không/R dùng/V chuẩn/N mã_hoá/N 256/M bit/N chúng/N có_thể/V được/V giải_mã/V
+Theo/E giới_thiệu/N khi/N mã/V độc/N MacRansom/N thâm_nhập/N vào/V máy/N Mac/Np các/L loại/N MacBook/N iMac/N hay/C Mac_Pro/Np chúng/N nhanh_chóng/A mã_hoá/V toàn_bộ/N thư_mục/N Home/Np trong/E 60/M giây/N
+Nạn_nhân/N sẽ/R nhận/V được/R thông_báo/N đòi/V tiền/N chuộc/V qua/V Bitcoin/Np
+Phân_tích/V từ/E Fortinet/Np cho/V thấy/V MacRansom/N khi/N thâm_nhập/V sẽ/R tự_động/A kiểm_tra/V ban_đầu/N xem/V hệ_thống/N có/V phải/A là/V macOS/N Mac/Np OS/Np X/Np tên/N cũ/A hay/C không/R
+Sau/E đó/P tạo/V ra/R tập_tin/A với/E tên/N giả_mạo/N khó/V nhận_biết/N giả/N lập/V thời_gian/N để/E tránh/V truy/V vết/N
+Kế/V đến/R chúng/N mã_hoá/V dữ_liệu/N các/L thư_mục/N theo/V chỉ_định/N
+Loại/N biến/V thể/N mã/N độc/A MacRansom/A mà/C Fortinet/Np thử_nghiệm/V đặt_hàng/N yêu_cầu/V nạn_nhân/N trả/V 025/M BTC/Np đồng/N Bitcoin/Np tức/V tương_đương/V gần/A 700/M USD/Nu ở/E thời_điểm/N hiện_tại/N
+Hiện/N các/L máy_tính/N Mac/Np như/C máy_tính_xách_tay/X MacBook/N máy_tính_để_bàn/X iMac/N và/CC Mac_Pro/Np chỉ/V chiếm/V 634/M thị_trường/N hệ_điều_hành/N máy_tính/N so/V với/E 9164/M của/N Windows/Np theo/V NetMarketshare/N
+Tuy_nhiên/C số/N người/N chuyển/V sang/V dùng/V Mac/Np ngày_càng/N tăng/V lên/R và/N đặc_biệt/A họ/P mang/V suy_nghĩ/N máy/N Mac/Np bảo_mật/V tuyệt_đối/A nên/C không/R hề/V phòng_bị/V khi/N lướt/V mạng/N hay/C sử_dụng/V rất/R bất_cẩn/V đối_với/E các/L tập_tin/N tải/N từ/E mạng/N hoặc/N email/V
+Theo/E các/L chuyên_gia/N phân_tích/V sở_dĩ/N máy/N Mac/Np còn/R chưa/R được/V giới/N tội_phạm/N mạng/N tập_trung/V đến/R vì/E lượng/N người_dùng/N chúng/N còn/V ít/A so/V với/N Windows/Np
+Do/E đó/P lượng/N mã/N độc/A nhắm/V vào/E Mac/Np còn/R ít/A nhưng/C việc/N này/P có_thể/A thay_đổi/V bất_cứ/R lúc_nào/N
+Thế_giới/N mạng/N vẫn/R chưa/R hết/V đau/V đầu_từ/N cơn/N sóng/N WannaCry/N gây/V ra/R trên/N máy_tính/N Windows/Np và/CC mã/V độc/N mã_hoá/N dữ_liệu/N tống_tiền/N vẫn/R là/V nguy_cơ/N hàng_đầu/N trong/E các/L báo_cáo/N an_ninh/N mạng/N mới/A nhất/R từ/E các/L hãng/N bảo_mật/V hàng_đầu/N

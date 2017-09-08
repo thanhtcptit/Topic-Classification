@@ -1,0 +1,10 @@
+Robot/Np nhảy/V trên/E nước/N
+Robot/Np của/E Đại_học/N Waterloo/Np tại/E Canada/Np được/V làm_bằng/V xốp/N nickel/N có/V khả_năng/N chống/V thấm/V nước/N
+Với/E hai/M chân/N nhảy/V và/CC ba/M chân/N đỡ/V nó/P có_thể/R nhảy/V tới/E độ/N cao/A 14/M cm/Nu và/CC nhảy_xa/A 35/M cm/Nu gấp/V hơn/R hai/M lần/N chiều/N dài/A của/E nó/P
+Nó/P lướt/V trên/E mặt_nước/N với/E vận_tốc/N gần/A 6/M km/giờ/N
+Khối_lượng/N của/E nó/P gấp/V khoảng/A 1 0/M lần/N so/V với/E con/Nc gọng/N vó/A  /A Engadget/Np đưa/V tin/N
+Nhóm/N chế_tạo/V robot/N khẳng_định/V khả_năng/N nhảy/V giúp/V cỗ/N máy/N nhỏ_xíu/A của/E họ/P tránh/V các/L chướng_ngại_vật/N trên/E mặt_nước/N trong/E hoạt_động/N do_thám/V cứu_hộ/V và/CC nhiều/A công_việc/N khác/A
+Loại/N robot/N nhỏ/A của/E chúng_tôi/P có_thể/R di_chuyển/V trên/E sông/N hồ/N biển/N để/E theo_dõi/V chất_lượng/N nước/N hoặc/CC thu_thập/V thông_tin/N tình_báo/N Qinmin_Pan/Np trưởng/Z nhóm/N nghiên_cứu/V khẳng_định/V
+Pan/Np thừa_nhận/V rằng/C thách_thức/N lớn/A nhất/A của/E họ/P trong/E quá_trình/N chế_tạo/V côn_trùng/N máy/N là/V động_tác/N nhảy/V
+Khi/N robot/V đẩy_mạnh/V chân/N xuống/E phía/N dưới/N để/E nhảy/V lên/R chân/N của/E nó/P thường/R chìm/V xuống_nước/V
+Nhưng/C cũng/R nhờ/V thách_thức/N đó/P mà/C nhóm/N của/E Pan/Np đã/R tìm/V ra/R những/L cơ_chế/N vật_lý/N và/CC vật_liệu/N phù_hợp/V cho/E việc/N chế_tạo/V robot/N di_chuyển/V trên/E nước/N

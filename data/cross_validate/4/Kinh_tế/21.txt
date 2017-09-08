@@ -1,0 +1,25 @@
+EVN/Np được/V tự/N tăng_giá/V điện/N 35/M
+Khi/N các/L thông_số/N đầu_vào/N biến_động/V làm_giá/N bán/V điện/N bình_quân/V tăng/V từ/E 3/M trở/V lên/R so/V với/E hiện_hành/N giá/N điện/N sẽ/R được/V điều_chỉnh/V tăng/N với/E thời_gian/N điều_chỉnh/N tối_thiểu/N 6/M tháng/N
+Đó/P là/V nội_dung/N của/E Quyết_định/N 242017/M QĐTTg/N thay_thế/V Quyết_định/N 692013/M QĐTTg/N về/V cơ_chế/N điều_chỉnh/V mức/N giá/N bán_lẻ/V điện/N bình_quân/N
+Theo/E đó/P nguyên_tắc/N điều_chỉnh/V giá/N bán_lẻ/V điện/N bình_quân/N dựa/V trên/E cơ_sở/N Hằng/Np năm/N sau/E khi/N kiểm_tra/V giá_thành/N sản_xuất/V kinh_doanh/V điện/N của/E Tập_đoàn/N Điện_lực/N Việt_Nam/Np EVN/Np giá/N bán/V điện/N bình_quân/V được/R xem_xét/V điều_chỉnh/V theo/E biến_động/N khách_quan/N thông_số/N đầu_vào/N của/E tất_cả/N các/L khâu/N
+Cụ_thể/A đối_với/N trường_hợp/N giá/N bán/V điện/N bình_quân/V giảm/V so/V với/E giá/N bán/V điện/N hiện_hành/V và/N trong/E khung_giá/N quy_định/N EVN/Np có/V trách_nhiệm/N giảm_giá/N bán/V điện/N bình_quân/A ở/E mức/N tương_ứng/V lập/V hồ_sơ/N báo_cáo/V Bộ/N Công_thương/N và/CC Bộ/N Tài_chính/N để/V kiểm_tra/V giám_sát/V
+Trên/E 10/M Chính_phủ/N quyết/V
+Trong/E trường_hợp/N giá/N bán/V điện/N bình_quân/N cần/V điều_chỉnh/V tăng/N từ/E 3/M đến/E dưới/N 5/M so/V với/E giá/N bán/V điện/N bình_quân/V hiện_hành/V và/N trong/E khung_giá/N quy_định/N EVN/Np quyết_định/V điều_chỉnh/V tăng_giá/N bán/V điện/N bình_quân/A ở/E mức/N tương_ứng/V
+Sau/E khi/N tăng_giá/N EVN/Np lập/V hồ_sơ/N báo_cáo/V Bộ/N Công_thương/N và/CC Bộ/N Tài_chính/N để/V kiểm_tra/V giám_sát/V
+Trường_hợp/N giá/N bán/V điện/N bình_quân/N cần/V điều_chỉnh/V tăng/N từ/E 5/M đến/E dưới/N 10/M so/V với/E giá/N bán/V điện/N bình_quân/V hiện_hành/V và/N trong/E khung_giá/N quy_định/N EVN/Np được/V điều_chỉnh/V tăng_giá/N bán/V điện/N bình_quân/A ở/E mức/N tương_ứng/V sau/E khi/N báo_cáo/V và/N được/V Bộ/N Công_thương/N chấp_thuận/N
+Trường_hợp/N giá/N bán/V điện/N bình_quân/N cần/V điều_chỉnh/V tăng/N từ/E 10/M trở/V lên/R so/V với/E giá/N bán/V điện/N bình_quân/A hiện_hành/V hoặc/N điều_chỉnh/V ngoài/N khung_giá/N quy_định/N hoặc/N ảnh_hưởng/V đến/E tình_hình/N kinh_tế/N vĩ_mô/N trên/N cơ_sở/N hồ_sơ/N phương_án/N giá/N điện/N do/E EVN/Np trình/V Bộ/N Công_thương/N chủ_trì/N phối_hợp/V với/E Bộ/N Tài_chính/N kiểm_tra/V rà_soát/N
+Bộ/N Tài_chính/N sẽ/R có/V trách_nhiệm/N kiểm_tra/V rà_soát/N và/CC gửi/V ý_kiến/N bằng/E văn_bản/N đến/V Bộ/N Công_thương/N để/E Bộ/N này/P tổng_hợp/V báo_cáo/N Thủ_tướng/N Chính_phủ/N xem_xét/V cho/V ý_kiến/N
+Trường_hợp/N cần_thiết/N Bộ/N Công_thương/N phối_hợp/V với/E Bộ/N Tài_chính/N báo_cáo/V Ban/N Chỉ_đạo/V điều_hành/N giá/N trước/E khi/N báo_cáo/V Thủ_tướng/N Chính_phủ/N
+Công_khai/N chi_phí_sản_xuất/X kinh_doanh/V điện/N
+Thủ_tướng/N cũng/R yêu_cầu/V công_khai/A minh_bạch/N các/L khoản/N chi_phí_sản_xuất/X kinh_doanh/V điện/N các/L báo_cáo/N tài_chính/N đã/R được/V kiểm_toán/V
+Bộ/N Công_thương/N chủ_trì/N phối_hợp/V với/E Bộ/N Tài_chính/N kiểm_tra/V chi_phí_sản_xuất/X kinh_doanh/V điện/N của/E năm/N trước/N liền/A kề/V
+Các/L nội_dung/N phải/V công_khai/V gồm/V chi_phí/N thực_tế/N các/L khâu/N phát_điện/V truyền/V tải_điện/N phân_phối/V bán_lẻ/N điện/N quản_lí/V chung/A dịch_vụ/N phụ_trợ/V hệ_thống/N điện/N và/CC các/L chi_phí/N khác/A
+kết_quả/N kinh_doanh/V lỗ/N lãi/N của/N EVN/Np
+các/L chi_phí/N được/V tính/V vào/E giá_thành/N sản_xuất/V kinh_doanh/V điện/N
+Trong/E quá_trình/N kiểm_tra/V có_thể/R mời/V Ủy/V ban/N Trung_ương/N Mặt_trận/N Tổ_quốc/N Việt_Nam/Np Phòng_Thương_mại/N và/CC Công_nghiệp/N Việt_Nam/Np các/L hiệp_hội/N liên_quan/V các/L cơ_quan/N quản_lí/V Nhà_nước/N có/V liên_quan/V tham_gia/V
+Bộ/N Công_thương/N được/V mời/V tư_vấn/V độc_lập/A để/E thẩm_tra/V các/L báo_cáo/N trên/N
+Không/R giảm_giá/V sẽ/R bị/V phạt/V
+Trường_hợp/N EVN/Np quyết_định/V điều_chỉnh/V giá/N bán/V điện/N bình_quân/V thì/C các/L bộ/N trình/N hồ_sơ/N phương_án/N giá/N điện/N theo/V quy_định/N để/E các/L đơn_vị/N liên_quan/V kiểm_tra/V các/L báo_cáo/N
+Nếu/C giá/N bán/V điện/N bình_quân/N cần/V điều_chỉnh/V giảm/V mà/C EVN/Np không/R điều_chỉnh/V giảm/V Bộ/N Công_thương/N có/V trách_nhiệm/N yêu_cầu/V điều_chỉnh/V giảm_giá/N
+Nếu/C phát_hiện/V có/V sai_sót/N trong/E kết_quả/N tính_toán/N giá/N điện/N Bộ/N Công_thương/N có/V trách_nhiệm/N yêu_cầu/V Tập_đoàn/N Điện_lực/N Việt_Nam/Np dừng/V điều_chỉnh/N hoặc/N điều_chỉnh/V lại/R giá/N bán/V điện/N bình_quân/V
+Việc/N điều_chỉnh/V tính_toán/N giá/N bán/V điện/N bình_quân/A nếu/C có/V vi_phạm/N thì/C sẽ/R được/V xử_lí/V theo/V quy_định/N xử_phạt/V vi_phạm/V hành_chính/N trong/E lĩnh_vực/N quản_lí/N giá/N phí/N lệ_phí/N hoá_đơn/N

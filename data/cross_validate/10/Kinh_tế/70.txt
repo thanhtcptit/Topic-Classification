@@ -1,0 +1,71 @@
+Ngân_hàng/N nhấp_nhổm/N tăng/V phí/N ATM/Np Nhiều/A ý_kiến/N khác/A nhau/N
+Các/L ngân_hàng/N đang/R nhấp_nhổm/V muốn/V tăng/V phí/N rút_tiền/V qua/V ATM/Np
+Trong/E khi/N đó/P không/R ít/A khách/N hàng/N lại/R có/V phản_ứng/N trái/N chiều/N
+Liệu/V có/V nên/N tăng/V phí/N dịch_vụ/N này/P
+Nếu/C tăng/V thì/N nên/C tăng/V thế_nào/N
+Chuyên_gia/N Bùi_Quang_Tín/Np Ngân_hàng/N Nhà_nước/N nên/V rà_soát/V lại/R các/L khoản/N phí/N
+Ngân_hàng/N Nhà_nước/N nên/V có/V quy_định/N cụ_thể/A về/V các/L khoản/N phí/N này/P đồng_thời/N rà_soát/V các/L khoản/N phát_sinh/V tăng/V thêm/R nếu/C không/R phí/N cứ/N tăng/V lên/R
+Về/V đề_xuất/N tăng/V phí/N rút_tiền/N ngoại/N mạng/N tôi/P cho/V rằng/C cần/V xác_định/V chính_xác/A chi_phí/N của/E mỗi/N giao_dịch/N rút_tiền/N hiện_nay/N là/V bao_nhiêu/N có/V đúng/A là/C 7000/M đồnggiao_dịch/N hay/C không/R
+Các/L ngân_hàng/N cần/V có/V công_thức/N tính/V rõ_ràng/A
+Ngân_hàng/N Nhà_nước/N nên/V có/V quy_định/N cụ_thể/A về/V các/L khoản/N phí/N này/P đồng_thời/N rà_soát/V các/L khoản/N phát_sinh/V tăng/V thêm/R nếu/C không/R phí/N cứ/N tăng/V lên/R
+Như/C vậy/P mới/R khuyến_khích/V được/R hoạt_động/V thanh_toán/N không/R dùng/V tiền_mặt/N theo/V định_hướng/N của/E Ngân_hàng/N Nhà_nước/N
+Vậy/P khi/N đó/P nếu/N đúng/A giá_vốn/N của/E mỗi/N giao_dịch/N là/V 7000/M đồnggiao_dịch/N và/CC các/L ngân_hàng/N đang/R chịu/V lỗ/V thì/C giải_quyết/V như/C thế_nào/N
+Theo/E tôi/P ngân_hàng/N phát_hành/V thẻ/N hưởng/V được/R nhiều/A lợi_ích/N khi/N khách/N hàng/N mở/V thẻ/N như/C được/V hưởng/V số/N tiền/N gửi/V không/R kì_hạn/V trên/E tài_khoản/N chưa/R kể/V bán/V chéo/N được/V sản_phẩm/N nên/C ngân_hàng/N phát_hành/V thẻ/N buộc/V phải/V chia_sẻ/V phí/N với/E ngân_hàng/N có/V máy/N ATM/Np
+Ngân_hàng/N cũng/R không_thể/A đổ/V lên/R khách/N hàng/N
+Hoặc_Ngân_hàng/N Nhà_nước/N nên/C đưa/V ra/R chỉ_tiêu/N về/V lượng/N thẻ/N phát_hành/V tương_ứng/V với/E số/N máy/N ATM/Np phải/V đầu_tư/V tránh/V tình_trạng/N cứ/R ào_ạt/A phát_hành/V thẻ/N mà/C không/R chịu/V đầu_tư/V máy/N
+Ông/Nc Nguyễn_Ái_Dân/Np chuyên_gia/N ngân_hàng/N Nên/C cân_nhắc/V thận_trọng/N
+Có/V một_số/N nước/N không/R thu/V phí/N giao_dịch/V ATM/Np mà/C chi_phí/N dịch_vụ/N này/P được/V bù_đắp/V từ/E dịch_vụ/N khác/A
+Còn/C ở/V VN/Np nếu/C không/R thu/V phí/N hoặc/N thu_không/N đủ/A ngân/N hàng_không/V lấy/V gì/N để/V bù_đắp/V
+Nhiều/A ngân_hàng/N tính_toán/V chi_phí/N một/M giao_dịch/N là/V khoảng/N 70008000/M đồng/N
+Tuy_nhiên/C vài/L năm/N nay/N phần_lớn/N các/L ngân_hàng/N chưa/R dám/V tăng/V mức/N phí/N vì/E sợ/V khách/N hàng/N phản_ứng/N
+Để/E tăng/V mức/N thu/V phí/N đối_với/N giao_dịch/V ATM/Np trong/E bối_cảnh/N hiện_nay/N các/L ngân_hàng/N nên/C cân_nhắc/V thận_trọng/N
+Đặc_biệt/A Ngân_hàng/N Nhà_nước/N nên/V làm/V trọng_tài/N để/E đảm_bảo/V hài_hoà/N quyền_lợi/N cho/E ngân_hàng/N đơn_vị/N cung_cấp/V dịch_vụ/N và/CC chủ/N thẻ/N người/N sử_dụng/V dịch_vụ/N
+Mức/N phí/N phải/V đảm_bảo/V bù_đắp/N chi_phí/N đầu_tư/V nhưng/C muốn/V tăng/V phải/V có/V lộ_trình/N để/V người/N sử_dụng/V dịch_vụ/N chấp_nhận/V được/R
+Chuyên_gia/N thẻ/N Trần_Quang_Thoại/Np Các/L ngân_hàng/N cần/V ngồi/V lại/V
+Theo/E tôi/P đề_xuất/N tăng/V phí/N rút_tiền/N ngoại/N mạng/N trên/N ATM/Np chủ/N thẻ/N của/E ngân_hàng/N khác/A rút_tiền/V trên/E ATM/Np để/E bù_đắp/V một/M phần/N chi_phí/V cho/E hoạt_động/N phát_hành/N thẻ/N nội_địa/N cũng/R hợp_lí/A vì/E thời_gian/N qua/V các/L ngân_hàng/N phải/V đầu_tư/V để/E nâng_cấp/V hạ_tầng/N dịch_vụ/N
+Dễ/N thấy/V nhất_là/N giao_dịch/N ổn/A hơn/R nhiều/A người/N tiêu_dùng/V cũng/R quen/V với/E các/L dịch_vụ/N trên/N máy/N
+Tuy_nhiên/C câu/N hỏi/V đặt/V ra/R là/V tăng/V phí/N thế_nào/N có/V phải/A từ/V mức/N 3300/M đồnggiao_dịch/N rút_tiền/N ngoại/N mạng/N như/C hiện_nay/N lên/E mức/N 7000/M đồnggiao_dịch/N hay/C không/R
+Đây/P là/V vấn_đề/N cần/V được/V cân_nhắc/V suy_xét/N sao/N cho/V việc/N tăng/V phí/N không/R ảnh_hưởng/V đến/E giao_dịch/N thẻ/N đồng_thời/N cân_bằng/N được/V quyền_lợi/N của/E ngân_hàng/N phát_hành/N thẻ/N ngân_hàng/N thanh_toán/V và/N người/N tiêu_dùng/V
+Ở/E đây/P cần/V nhìn/V hai/M phía/N là/V nhiều/A ngân_hàng/N nhỏ/A phát_hành/V thẻ/N quá/R nhiều/A nhưng/C đầu_tư/V ít/A máy/N ATM/Np do/E không/R đủ/A lực/N nên/C ngân_hàng/N lớn/A phải/V gánh/V lượng/N khách/N hàng/N của/E họ/N kéo_theo/V chi_phí/N duy_trì/V hệ_thống/N tăng/V lên/R
+Tuy_nhiên/C bù/V lại/R các/L ngân_hàng/N thu/V thêm/R được/R phí/N còn/R chi_phí/N đầu_tư/V thực_tế/A qua/V thời_gian/N thì/C khấu_hao/V dần/R
+Các/L ngân_hàng/N còn/V giới_hạn/V số/N tiền/N rút/V mỗi/M lần/N của/E chủ/N thẻ/N các/L ngân_hàng/N khác/A chỉ/R tối_đa/A là/V 3/M triệu/N đồng/N thay_vì/V 5/M triệu/N đồnglần/N như/C chủ/N thẻ/N của/E chính/N ngân_hàng/N
+Do_vậy/C cách/N tốt/A nhất/A các/L ngân_hàng/N nên/C ngồi/V lại/V đàm_phán/V với/E nhau/N để/E có_thể/R ấn/V định_mức/V phí/N hợp_lí/V nhất/A trên/E cơ_sở/N tính_toán/V hết/V các/L khoản/N chi_phí/N và/CC vì/E lợi_ích/N của/E người/N tiêu_dùng/V
+Ông/Nc Từ_Tiến_Phát/Np phó_tổng/V giám_đốc/N Ngân_hàng/N ACB/Np Khó/A nói/V phí/N cao/A phí/N thấp/N
+Thời_gian/N qua/R biểu/V phí/N ATM/Np nhìn_chung/N khá/A ổn_định/A
+Về/E cơ_cấu/N các/L loại/N phí/N thì/C tuỳ/N theo/V chính_sách/N của/E từng/N ngân_hàng/N
+Phổ_biến/N ngân_hàng/N thu/V phí/N rút_tiền/N chuyển_khoản/N
+Còn/C phí/N quản_lí/N tài_khoản/N thì_có/N ngân_hàng/N quy_định/N nếu/N chủ/N thẻ/N duy_trì/V số_dư/A dưới/E mức/N cho/V phép/N mới/A thu/V phí/N thông_báo/V số_dư/N qua/E tin_nhắn/N các/L ngân_hàng/N thường/N thu/V dưới/N 10000/M đồng/Nu và/N mức/N này/P đang/R thấp/A hơn/A mức/N mà/C ngân_hàng/N phải/V trả/V cho/E nhà/N mạng/N
+Chính_sách/N phí/N của/E ngân_hàng/N cũng/R tuỳ/V theo/V phân/N khúc/N khách/N hàng/N
+Rất/R khó/A nói/V mức/N phí/N mà/C ngân_hàng/N thu/N hiện_nay/N cao/A hay/R thấp/A mà/C vấn_đề/N là/V mức/N phí/N có/V tương_xứng/N với/E dịch_vụ/N hay/C không/R vì/E có/V những/L ngân_hàng/N thu/V phí/N cao/A nhưng/C khách/N hàng/N vẫn/R chấp_nhận/V
+Do/E cơ_chế_thị_trường/N khi/N ấn/N định_mức/N phí/N ngân_hàng/N phải/V có/V sự/N tính_toán/V cân_nhắc/V và/N so_sánh/V
+Khách/N hàng/N nói_gì/N
+●/N Anh/N Lê_Trung_Hiếu/Np Hoàng_Mai/Np Hai_Bà_Trưng/Np Hà_Nội/Np Tôi/Np rất/R băn_khoăn/A
+Việc/N tăng/V phí/N giao_dịch/V ATM/Np khiến/V tôi/P rất/R băn_khoăn/A
+Thật_ra/X nhiều/A khi/N tôi/P muốn/V thanh_toán/V qua/R thẻ/V nhưng/C nhiều/A điểm/N mua/V hàng_hoá/N dịch_vụ/N chưa/R có/V máy/N chấp_nhận/V trả/V qua/V thẻ/N
+Thậm_chí/R có/V nơi/N lại/R còn/R thu/V phí/N 002/M khoản/N tiền/N thanh_toán/V
+Do/E đó/P mỗi/L tháng/N tôi/P rút_tiền/V tại/E máy/N ATM/Np khoảng/A 3/M lần/N với/E mức/N phí/N trả/V khoảng/N 500010000/M đồngtháng/N
+Trường_hợp/N ngân_hàng/N tăng/V phí/N rút_tiền/N ATM/Np tôi/P sẽ/R cân_nhắc/V số/N lần/N việc/N rút_tiền/V qua/V ATM/Np
+Tôi/P sẽ/R rút/V một/M lần/N luôn/R chứ/N không/R rút/V nhiều/A lần/N
+Như/C vậy/P ngân/N hàng_không/V được/R tạm/V sử_dụng/V số/N tiền/N mà/C tôi/P chưa/R rút/V ngay/T
+Nhiều/A người/N cộng/V lại/R thì/C số/N tiền/N để/V lại/R trong/E thẻ/N đâu/N có/V ít/A
+Tôi/P nghĩ/V ngân_hàng/N nên/C vì/N quyền_lợi/N của/E chính/T mình/P và/N của/E khách/N hàng/N mà/N tính_toán/V việc/N tăng/V chất_lượng/N dịch_vụ/N trước/E khi/N tăng/V phí/N
+Tăng/N phí/N có_thể/N lợi_bất_cập_hại/X cho/E cả/P hai/M là/V ngân_hàng/N và/CC chủ/N thẻ/N
+●/N Chị/N Thuỳ_Dung/Np QG/Np ò/V Vấp/Np TPHCM/Np
+Phí/N cao/A tôi/P chỉ/R dám/V xài/V thẻ/N nội_địa/A
+Tôi/P chuyển_tiền/V qua/V mạng/N với/E món/N tiền/N rất/R nhỏ/A chỉ/R khoảng/N vài/M trăm_ngàn/M đồng/Nu mà/N ngân_hàng/N vẫn/R thu/V phí/N chuyển_khoản/N liên/N ngân_hàng/N với/E mức/N 11000/M đồng/N
+Trong/E bối_cảnh/N Ngân_hàng/N Nhà_nước/N đang/R khuyến_khích/V thanh_toán/N không/R dùng/V tiền_mặt/N việc/N thu/V phí/N chuyển_khoản/N cao/A khiến/V người/N tiêu_dùng/V như/C tôi/P phải/V cân_nhắc/V
+Hiện/N tôi/P chỉ/R dám/V xài/V thẻ/N ATM/Np là/V thẻ/N cơ_quan/N trả/V lương/N nhưng/C tính/V ra/R khá/R nhiều/A khoản/N phí/N như/C phí/N quản_lí/N tài_khoản/N phí/N thông_báo/V số_dư/N qua/V tin_nhắn/N 8800/M đồngtháng/N rồi/R chủ/N thẻ/N phải/V duy_trì/V số/N tiền/N 50000/M đồng/N trong/N tài_khoản/N
+ATM/Np gần/A cơ_quan/N tôi/N sau/N giờ/N làm/V luôn/R trong/E tình_trạng/N xếp_hàng/V chờ/V do_vậy/N tôi/N thường/R rút/V tại/E máy/N ATM/Np của/E ngân_hàng/N khác/A
+Nếu/C phí/N rút_tiền/V ngoại/N mạng/N tăng/V thì/C nên/V có/V quy_định/N ngân_hàng/N phát_hành/V thẻ/N phải/V bù_đắp/V khoản/N phí/N này/P còn/V chủ/N thẻ/N chỉ/R trả/V mức/N phí/N như/C cũ/N chứ/N nếu/C không/R sẽ/R rất/R khó/A cho/E chủ/N thẻ/N
+Ông/N Nguyễn_Toàn_Thắng/Np nguyên/N phó/N thống_đốc/N Ngân_hàng/N Nhà_nước/N VN/Np
+Thu/Np theo/V luỹ_tiến/N tiền/N rút/V trong/N tháng/N
+Xu_hướng/N ngân_hàng/N rất/R muốn/V tăng/V giá_trị/N dịch_vụ/N cho/V khách/N hàng/N muốn/V vậy/P phải/V tăng/V phí/N dịch_vụ/N
+Mức/N thu/N hiện_nay/N là/V 1100/M đồnggiao_dịch/N nội/N mạng/N và/CC 3300/M đồnglần/N rút_tiền/N ngoại/N mạng/N đâu/R có/V lớn/A đối_với/N khách/N hàng/N có/V thu_nhập/N cao/A nhưng/C lại/R là/V vấn_đề/N của/E khách/N hàng/N có/V thu_nhập/N thấp/A với/E người/N về/V hưu/V học_sinh/N sinh_viên/N
+Trong/E khi/N đó/P để/E duy_trì/V dịch_vụ/N ATM/Np ngân_hàng/N phải/V chi_phí/V đầu_tư/V máy_móc/N thiết_bị/N rất/R lớn/A chi/V cho/E nhân_công/N tiếp/V quỹ/N bảo_trì/V bảo_dưỡng/N máy_móc/N
+Với/E mức/N phí/N hiện_nay/N ngân_hàng/N vẫn/R chưa/R thu/V được/R gì/P
+Khách/N hàng/N nên/N ủng_hộ/V thu/V phí/N còn/V mức/N thu/N sẽ/R tăng/V thêm/R bao_nhiêu/L ngân_hàng/N cần/V cân_nhắc/V thận_trọng/N
+Để/E hài_hoà/V quyền_lợi/N của/E khách/N hàng/N với/N ngân_hàng/N và/CC hướng/V tới/V định_hướng/N lâu_dài/N là/V giao_dịch/N thanh_toán/V không/R dùng/V tiền_mặt/N cần/V phân_loại/V hạn_mức/N rút_tiền/N để/E tính/V phí/N theo/V biểu/N luỹ_tiến/N
+Theo/E đó/P có_thể/A ngân_hàng/N quy_định/N trong/E một/M tháng/N khách/N hàng/N chi_tiêu/V 8/M triệu/N đồng/N chẳng_hạn/N thì/C thu/V phí/N nhất_định/N
+Nhưng/C nếu/C rút/V trên/N 8/M triệu/N đến/V 20/M triệu/N thì/C mức/N phí/N khác/A và/CC trên/A 20/M triệu/N đồng/N thì/N mức/N thu/V phí/N sẽ/R được/V tăng/V lên/R
+Từ/E đó/P dần_dần/R chủ/N thẻ/N sẽ/R không/R rút/V tiền_mặt/N để/E thanh_toán/V qua/R ngân_hàng/N thanh_toán/V qua/V thẻ/N
+Cách/N làm/V này/N không/R ảnh_hưởng/V đến/E đối_tượng/N là/V công_nhân/N thu_nhập/N thấp/A học_sinh/N sinh_viên/N hay/V người/N về/V hưu/V

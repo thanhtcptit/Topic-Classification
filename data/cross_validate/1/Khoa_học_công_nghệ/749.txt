@@ -1,0 +1,22 @@
+Kim_loại/N trong_suốt/A giúp/V giảm_giá/N màn_hình/N smartphone/N
+Theo/E New_Science/Np vấn_đề/N của/E các/L loại/N màn_hình/N là/V chúng/P dựa/V trên/E vật_liệu/N indium_tin_oxide/N ITO/Np
+Hơn/A 90%/M màn_hình/N trên/E  /M thị_trường/N  /V hoàn_toàn/A phụ_thuộc/V vào/E vật_liệu/N có/V giá_thành/N không/R hề/T rẻ/A này/P
+Trong/E 10/M năm/N qua/V giá_thành/N của/E ITO/Np có/V nhiều/A biến_động/N từ/E 200/M USD/kg/Np năm/N 2004/M lên/V hơn/R 1/M 000/M USD/kg/Np vào/E năm/N 2006/M sau/E đó/P quay/V trở_lại/V khoảng/A 400/M 750/M USD/kg/Np trong/E vài/L năm/N gần/A đây/P
+Hiện_nay/N giá_thành/N ITO/Np chiếm/V đến/E 40%/M chi_phí/N của/E một/M chiếc/Nc điện_thoại/N thông_minh/A smartphone/V hoặc/CC máy_tính/V bảng/N trong/E khi/N giá/N chip/V bộ_nhớ/N và/CC bộ_vi_xử_lý/N liên_tục/A giảm/V
+Việc/N tiếp_tục/V sử_dụng/V vật_liệu/N này/P trong/E sản_xuất/N màn_hình/N sẽ/R làm/V chậm/A quá_trình/N phát_triển/V những/L công_nghệ/N lớn/A hơn/R và/CC tốt/A hơn/R
+Trong/E công_bố/V hôm/N 14/12/M trên/E tạp_chí/N Nature_Materials/Np các/L nhà_khoa_học/N tại/E Đại_học/N Pennsylvania_Mỹ/Np nghiên_cứu/V thành_công/V một/M vật_liệu/N mới/A mang/V kim_loại/N liên_kết/V có_thể/R thay_thế/V ITO/Np mà/C vẫn/R đảm_bảo/V độ/N truyền/V quang_học/N tính/V dẫn_điện/V và/CC hiệu_suất/V chế_tạo/V
+Nhóm/N nghiên_cứu/V đứng/V đầu/N là/V kỹ_sư/N Roman_Engel_Herbert/Np đã/R phát_triển/V lớp/N kim_loại/N liên_kết/V có/V cấu_trúc/N phân_tử/V độc_đáo/A ở/E dạng/N màng/N mỏng/A 10/M nm/Nu
+Trong/E khi/N ở/V hầu_hết/R các/L kim_loại/N như/C vàng_bạc/N đồng/N và/CC nhôm/V các/L electron/N di_chuyển/V giống/A một/M đám/Nc mây/N khí/N thì/C với/E kim_loại/N liên_kết/V electron/N vận_động/V tựa/V một/M dòng/N chất_lỏng/N
+Đặc_tính/N này/P cho_phép/V vật_liệu/N đổi/V pha/V tùy/V theo/E cách/N sử_dụng/V
+Chúng_tôi/P đang/R cố_gắng/V để/E làm/V cho/E kim_loại/N liên_kết/V trở_nên/V trong_suốt/A bằng/E cách/N thay_đổi/V khối_lượng/N hiệu_dụng/N của/E các/L electron/N Engel_Herbert/Np cho_biết/V
+Điều/N này/P được/V thực_hiện/V thông_qua/V chọn/V vật_liệu/N mà/C trong/E đó/P sự/Nc tương_tác/V tĩnh_điện/A giữa/E các/L electron/N mang/V điện_tích/N âm/A rất/R lớn/A so/V với/E động_năng/N của/E chúng/P
+Trong/E điều_kiện/N này/P các/L electron/N cảm_nhận/V lẫn/V nhau/N và/CC thể_hiện/V như/C chất_lỏng/N thay_vì/V dạng/N khí/N chứa/V các/L hạt/N không/R tương_tác/V
+Khi/N bạn/N chiếu/V ánh_sáng/N vào/E vật_liệu/N này/P nó/P ít/A bị/V phản_xạ/N và/CC có/V độ/N trong_suốt/A lớn/A hơn/R Engel_Herbert/Np giải_thích/V
+Đồng_thời/R tính/N dẫn_điện/V của/E vật_liệu/N này/P không/R thay_đổi/V khi/N chuyển/V pha/V dưới/E tác_động/N của/E ánh_sáng/N
+Theo/E các/L nhà_nghiên_cứu/N họ/P có_thể/R sản_xuất/V các/L kim_loại/N liên_kết/V như/C strontium/N vanadate/N và/CC canxi/N vanadate/V với/E chi_phí/N rẻ/A hơn/R nhiều/A so/V với/E ITO/Np
+Điều/N này/P hoàn_toàn/A có/V cơ_sở/N vì/E những/L vật_liệu/N dùng/V để/E chế_tạo/V kim_loại/N liên_kết/V rất/R dồi_dào/A trong/E lớp/N vỏ/N Trái_Đất/Np
+Vanadium/Np được/V bán/V với/E giá/N khoảng/N 25/M USD/kg/Np và/CC strontium/N thậm_chí/R còn/V rẻ/A hơn/R
+Kim_loại/N liên_kết/V của/E chúng_tôi/P làm_việc/V rất/R tốt/A so/V với/E ITO/Np
+Vấn_đề/N lúc/N này/P là/V làm/V thế_nào/P để/E đưa/V vật_liệu/N vào/E sản_xuất/N quy_mô/N lớn/A
+Với/E những/L hiểu_biết/N hiện_nay/N strontium/N vanadate/N hoàn_toàn/A có_thể/R thay_thế/V ITO/Np trong/E cùng/A một/M thiết_bị/N sử_dụng/V cho/E công_nghiệp/N Engel_Herbert/Np nói/V
+Nhóm/N nghiên_cứu/V đã/R nộp/V đăng_ký/V sáng_chế/V cho/E công_nghệ/N mới/A và/CC tin/V rằng/C vật_liệu/N của/E họ/P cũng/R có_thể/R được/V sử_dụng/V để/E phát_triển/V pin/N mặt_trời/N giá/N rẻ/A trong/E tương_lai/N

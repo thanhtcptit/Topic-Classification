@@ -1,0 +1,15 @@
+Ảnh_hưởng/V kết_quả/N bầu_cử/V Tổng_thống/N Pháp/Np Giá/N vàng/N đi/V xuống/R 
+Mở_cửa/V thị_trường/N vàng/N sáng/N nay/P 25/4/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np qua/V niêm_yết/V của/E một_số/L doanh_nghiệp/N lớn/A có/V mức/N 36,64/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,72/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,65/M triệu/M đồng/Nu //X lượng/N 36,71/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_buôn/V 
+Các/L mức/N giá/N này/P giảm/V nhẹ/A mỗi/L chiều/N 10.000/M đồng/lượng/N so/V với/E chốt/N phiên/N hôm_qua/N 
+Ngược_lại/X tại/E TPHCM/Np giá/N vàng/N SJC/Np giao_dịch/V ở/E mức/N 36,57/M triệu/M đồng/Nu //X lượng/N 36,77/M triệu/M đồng/Nu //X lượng/N tăng/V mỗi/L chiều/N 10.000/M đồng/lượng/N 
+Trên/E thế_giới/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np qua/V niêm_yết/V của/E Kitco/Np lúc/N 8h25/M sáng/N nay/P theo/E giờ/N Việt_Nam/Np có/V biên_độ/N giảm/V 1/M USD/Nu giao_dịch/V ở/E mức/N 1.275/M USD/ounce/Np 
+Trước/E đó/P giá/N vàng/N giao/V tháng/N 6/M trên/E sàn/N Comex_New_York/Np giảm/V 19,1/M USD/Nu xuống/V mức/N 1.270/M USD/ounce/Np 
+Giá/N vàng/N thế_giới/N đêm/N qua/V tụt/V giảm/V và/CC đe_dọa/V xuyên/V thủng/V nhiều/A ngưỡng/N hỗ_trợ/V quan_trọng/A do/E chịu/V áp_lực/N rất/R lớn/A trong/E bối_cảnh/N các/L loại/N tài_sản/N có/V độ/N rủi_ro/A cao/A đồng_loạt/R tăng_giá/V 
+Chứng_khoán/N trên/E các/L thị_trường/N thế_giới/N và/CC đồng/N Euro/Np tăng/V vọt/V 
+Ngoài_ra/C kết_quả/N vòng/N 1/M bầu_cử/V Tổng_thống/N Pháp/Np khiến/V giới/N đầu_tư/V tạm/A yên_lòng/A đẩy/V giá/N vàng/N đi/V xuống/R 
+Chốt/N phiên/N giao_dịch/V hôm_qua/N 24/4/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np niêm_yết/V ở/E mức/N 36,63/M triệu/M đồng/Nu //X lượng/N 36,73/M triệu/M đồng/Nu //X lượng/N tại/E Sài_Gòn/Np ở/E mức/N 36,56/M triệu/M đồng/Nu //X lượng/N 36,76/M triệu/M đồng/Nu //X lượng/N 
+Phiên/N giao_dịch/V sáng_qua/A giá/N vàng/N SJC/Np bất_ngờ/A giảm/V mạnh/A hơn/R 100.000/M đồng/lượng/N khi/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np có/V biên_độ/N giảm/V 9/M USD/ounce/Np 
+Nếu/C so/V với/E đầu/N tuần/N trước/A giá/N vàng/N SJC/Np rẻ/A hơn/R khoảng/A 380.000/M đồng/Nu mỗi/M lượng/N 
+Mức/N giảm/V liên_tiếp/A ở/E các/L phiên/N giao_dịch/V trong/E tuần/N đã/R tác_động/V không/R nhỏ/A tới/E tâm_lý/N nhà_đầu_tư/N 
+Nhu_cầu/N tham_gia/V thị_trường/N chững/V lại/R nghe_ngóng/V những/L thông_tin/N rõ_ràng/A hơn/A ở/E tuần/N mới/A trong/E đó/P là/V tâm/N điểm/N cuộc/N bầu_cử/V Tổng_thống/N Pháp/Np 
+An_Hạ/Np 

@@ -1,0 +1,7 @@
+Vẩy/Np tê_tê/V N đội_lốt/V A hoa_hồng/N
+Ngày/N 6/7/M tại/E kho_bãi/N của/E cảng/N Đình_Vũ/Np /V Hải_Phòng/N /A Đội/N kiểm_soát/V Hải_quan/Np phối_hợp/V với/E các/L đơn_vị/N liên_quan/V khám_xét/V một/M container/N 20/M feet/N
+Theo/E Hải/Np quan/N Hải_Phòng/Np lô/N hàng/N được/V vận_chuyển/V từ/E Pakistan/Np nhập_cảnh/V cảng/N Đình_Vũ/Np ngày/N 2/7/2017/M
+Hàng_hóa/N trên/E vận_đơn/N thể_hiện/V là/V Rose_Bar/Np /V Gulab_Patti/Np thanh/N hoa_hồng/N /M
+Ngay/T khi/N người/N có/V tên/N trên/E vận_đơn/N từ_chối/V nhận/V hàng/N nhà_chức_trách/N nghi_ngờ/V nên/C đã/R mở/V container/N kiểm_tra/V  /EOS
+Kết_quả/N cho/V thấy/V bên/N trong/N là/V hàng/R chục/M thùng/N carton/N đựng/V cánh/N hoa/N khô/A và/CC vẩy/V tê_tê/N khô/A
+Vẩy/Np tê_tê/A là/V mặt_hàng/N cấm/V kinh_doanh/V buôn_bán/V vì/E mục_đích/N thương_mại/N  /M Công_an/N đang/R kiểm_đếm/V và/CC mở_rộng/V điều_tra/V

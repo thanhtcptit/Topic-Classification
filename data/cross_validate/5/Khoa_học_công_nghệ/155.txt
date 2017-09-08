@@ -1,0 +1,37 @@
+5/M câu/N hỏi/V từ/E nguy_cơ/N nổ/V pin/N điện/N tho/N ​/V ại/N
+Cần/V biết/V Dùng/V sạc/N điện_thoại/N giá/N rẻ/A cháy/V nổ/V bất_cứ/N lúc_nào/N
+Loại/N pin/N này/P hoạt_động/V như/C thế_nào/N và/CC vì_sao/X chúng/N bắt/V lửa/N
+Pin/N lithiumion/N là/V một/M loại/Nc pin/N có_thể/R sạc/V lại/V nhiều/A lần/N và/CC sử_dụng/V các/L chất_liệu/N khác/A nhau/N làm/V chất/N điện_phân/N để/E các/L ion/N Lithium/Np di_chuyển/V qua_lại/V giữa/E hai/M điện_cực/N dương/N và/CC âm/N
+Khi/N pin/N sạc/N điện/N các/L ion/N dương/N sẽ/R di_chuyển/V về/E phía/N cực/N âm/A và/CC khi/N xả/V khi/N đang/R sử_dụng/V các/L ion/N dương/N sẽ/R quay/V trở/V về/R cực/A dương/N
+Tuy_nhiên/C phản_ứng_hoá_học/X giúp/V cho/E pin/N lithium/N ion/V hoạt_động/N cũng/R đồng_thời/R sinh/V ra/V năng_lượng/N
+Theo/E đó/P việc/N sạc/V quá/N mức/N hoặc/N sạc/N pin/N quá/R nhanh/A cũng/R đều/R có_thể/R dẫn/V tới/R hiện_tượng/N nóng/A quá/V mức/N gây/V cháy/V nổ/V pin/N
+Vấn_đề/N xảy/V ra/R với/E pin/N của/E điện_thoại/N Samsung/Np là/V gì/P
+Hiện/N chưa/R thể/R biết/V chính_xác/A trục_trặc/N xảy/V ra/R với/E loại/N pin/N trong/E điện_thoại/N Galaxy_Note/Np 7/M của/N Samsung/Np là/V gì/P tuy_nhiên/N hãng/N này/P cũng/R đã/R đưa/V ra/R một_vài/N manh_mối/N
+Samsung/Np cho/V biết/V nhiều/A phần/N của/E pin/N nhẽ/N ra/V không/R được/V chạm/V vào/R nhau/N nhưng/C đã/R có/V tiếp_xúc/V do/E một/M sự_cố/N rất/R hy_hữu/A trong/E quá_trình/N sản_xuất/V
+Xem/V Lý_do/N pin/V điện/N thoại/N Galaxy_Note/Np 7/M bắt/V lửa/N
+Các/L nhà/N sản_xuất/V thiết_bị/N điện_tử/N đều/R phải/V cân_nhắc/V mọi/N loại/N yếu_tố/N như/A hiệu_suất/V hoạt_động/N chi_phí/N và/CC độ/N an_toàn/A khi/N triển_khai/V thế_hệ/N công_nghệ/N tiếp_theo/V của/N họ/N
+Trong/E đó/P an_toàn/V là/V yếu_tố/N luôn/R rất/R được/V coi_trọng/V
+Trong/E cuộc/N chạy_đua/V ứng_dụng/N công_nghệ/N pin/V trong/E các/L sản_phẩm/N điện_thoại_thông_minh/N smartphone/N và/CC máy_tính_bảng/N tablet/N có_thể/N sẽ/R gây/V ra/R những/L hậu_quả/N khôn_lường/N
+Chuyên_gia/N Hideki_Yasuda/Np của/E Viện/N nghiên_cứu/N Ace/Np tại/E Tokyo/N nói/V Các/L nhà/N sản_xuất/V điện_thoại_thông_minh/N đang/R cố_gắng/V ép/V những/L quả/N pin/N này/P vào/E các/L thiết_bị/N nhỏ/N mỏng/A
+Vì/E các/L pin/N luôn/N sản_sinh/V năng_lượng/N trong/E phản_ứng_hoá_học/N nên/C rất/R khó/A để/E giảm_thiểu/V nguy_cơ/N cháy/V xuống/V bằng/N 0/M
+Chuyên_gia/N này/P cũng/R nói/V thêm/R Đôi_khi/N sự/N tiện_lợi/A luôn/R có/V cái/Nc giá/N của/N nó/P
+Sự_cố/N này/P đã/R từng/R xảy/V ra/V chưa/R
+Câu/N trả_lời/V là/V Rồi/N
+Các/L vụ/N cháy/V nổ/V pin/N đã/R xảy/V ra/R trong/E các/L loại/N sản_phẩm/N như/A máy_tính_xách_tay/X Vaio/Np của/E Sony/Np hay/C laptop/N Lenovo/Np ván/N trượt/N đồ_chơi/N xe_đạp/N điện/N và/CC thậm_chí/R là/V máy_bay/N Dreamliner/Np của/E hãng/N Boeing/Np
+Trong/E trường_hợp/N của/E Samsung/Np các/L pin/N bị/V lỗi/N đã/R khiến/V một_số/L điện_thoại/N bùng/N cháy/V trong/E khi/N đang/R sạc/V
+Các/L vụ/N nổ/V pin/N vẫn/R tiếp_tục/V xảy/V ra/R sau/N thông_báo/V thu_hồi/V sản_phẩm/N của/N Samsung/Np
+Người/Nc tiêu/N dùng/V cho/V biết/V một/M chiếc/Nc điện_thoại/N bị/V cháy/V đã/R phá/V hỏng/A một/M phòng/N khách_sạn/N tại/E Úc/Np và/CC làm/V cháy/V một/M chiếc/N ô_tô/N ở/N Mỹ/Np làm/V phỏng/V tay/N một/M em/N bé/N
+Tỉ/N lệ/N sự_cố/N với/E pin/N lithium/N ion/A như/C thế_nào/N
+Không/R phải/A quá/V lớn/A
+Mỗi/L năm/N có/V hàng/N triệu/M pin/N lithium/N ion/N được/V sản_xuất/V và/N chỉ/R có/V một/M phần/N rất/R nhỏ/A trong/E đó/P bị/V bắt/V lửa/N hay/N phát_nổ/V
+Đầu/N tháng/N này/P Samsung/Np nhận/V được/R thông_báo/N về/V 35/M trường_hợp/N liên_quan/V tới/E sự_cố/N pin/N trong/E điện_thoại/N của/E họ/P trong/E tổng_số/N hơn/A 25/M triệu/N máy/N Note7/N bán/V ra/V vào/V thời/N điểm/N công_bố/V sự_cố/N
+Chuyên_gia/N Yasuda/Np nói/V Tại/E thời_điểm/N này/P không/R dễ/A để/E biết/V được/R vấn_đề/N của/E Samsung/Np có/V tương_tự/A như/C các/L vấn_đề/N khác/A khác/A không/R
+Nếu/C các/L nhà/N cung_cấp/V pin/N cho/E họ/P cũng/R bán/V các/L sản_phẩm/N này/P cho/V các/L nhà/N sản_xuất/V khác/N nó/P cũng/R sẽ/R gây/V ra/R ảnh_hưởng/V như/C vậy/P đối_với/N họ/P
+Xem/V Úc/Np iPhone/N 6/M nổ/N để/E dấu_ấn/N trên/N đùi/N |/N Apple/Np thu_hồi/V pin/N iPod/N Nano/Np do/E dễ/N cháy/V nổ/V
+Sự_cố/N này/P có/V ý_nghĩa/N như/C thế_nào/N với/E Samsung/Np và/CC các/L nhà/N sản_xuất/V khác/A có/V sử_dụng/V pin/N lithium/N ion/N
+Sự_cố/N này/P sẽ/R gây/V tổn_hại/V tới/N danh_tiếng/N của/E Samsung/Np và/CC chắc_chắn/V sẽ/R khiến/V họ/P thiệt_hại/V nặng/A về/E lợi_nhuận/N trong/E bối_cảnh/N đang/R phải/V cạnh_tranh/V khốc_liệt/N với/E iPhone/N 7/M của/N Apple/Np và/CC các/L đối_thủ/N khác/A của/N Trung_Quốc/Np
+Lĩnh_vực/N kinh_doanh/N thiết_bị/N di_động/N cũng/R chiếm/V một/M phần_lớn/N trong/E tổng/N lợi_nhuận/N của/N Samsung/Np
+Sự_cố/N này/P cũng/R gây/V áp_lực/N với/E các/L nhà/Nc sản_xuất/V thiết_bị/N điện_tử/N trong/E việc/N phải/V tìm/V ra/R cách/N đảm_bảo/V an_toàn/A hơn/R cho/V pin/N với/E các/L thiết_bị/N ngày_càng/N trở_nên/V nhỏ/A gọn/A hơn/R bao_giờ/P hết/T
+Ông/N Guy_Marlair/Np một/M chuyên_gia/N an_toàn/A tại/E Pháp/Np nói/V Chúng_tôi/P luôn/R muốn/V pin/V an_toàn/A nhưng/C cũng/R muốn/V chúng/N hiệu_quả/A hơn/A
+Càng/R tăng_cường/V hiệu_suất/V hoạt_động/N của/E pin/N thì/C mức_độ/N tập_trung/V năng_lượng/N trong/E một/M diện_tích/N nhỏ/A lại/R càng/R cao/A và/CC theo/V đó/P việc/N kiểm_soát/V an_toàn/N cũng/R khó_khăn/A hơn/R nhiều/A
+Vụ/N nổ/V điện_thoại_di_động/N Có_thể/R do/E pin/N không/R rõ/V nguồn_gốc/N

@@ -1,0 +1,10 @@
+Giang_hồ/N hỗn_chiến/V bỏ/V lại/R xe/N Porsche/Np chạy/V trốn/V công_an/N
+13h/M ngày/N 25/6/M gần/A bến/N xe_buýt/N phía/N tây/N thành_phố/N Hải_Dương/Np 2/M ôtô/N biển_số/N Hải_Dương/Np và/CC Quảng_Ninh/Np rượt/V đuổi/V nhau/N trên/E đường/N Thanh_Bình/Np rồi/C đột_ngột/A dừng/V lại/R
+Gần/A chục/M người/N từ/E hai/M xe/N lao/V ra/R cầm/V dao/N phớ/V gạch/N đá/N xông/V vào/V ẩu_đả/N
+Nhóm/N thanh_niên/N đi/V xe/N bán/V tải/N màu/N xanh/A mang/V biển_số/N Quảng_Ninh/Np bị/V yếu_thế/V hơn/R nhóm/N đi/V Porsche/Np nên/C bỏ/V của/E chạy/V thoát_thân/N
+Chiếc/Nc xe/N bán/V tải/N bị/V nhóm/N đối_thủ/N dùng/V vật/N sắc/N nhọn/A đâm/V thủng/A lốp/N trước/E bên/N ghế/N lái/N
+Sau/E ít/A phút/N cả/P 2/M nhóm/N chạy/V bộ/N bỏ/V trốn/V khi/N thấy/V công_an/N xuất_hiện/V
+Nhiều/A nhân_chứng/N cho_biết/V những/L người/N tham_gia/V ẩu_đả/V đa_phần/N đều/R có/V hình/N xăm/V trổ/V
+Nhà_chức_trách/N biết/V đã/R tạm/A giữ/V một_số/L người/N liên_quan/V
+Chủ/N chiếc/Nc Porsche/Np trú/V tại/E thành_phố/N Hải_Dương/Np bị/V mời/V đến/V trụ_sở/N công_an/N làm_việc/V  /EOS
+Nguyên_nhân/N hỗn_chiến/V được/V Công_an/N thành_phố/N Hải_Dương/Np phối_hợp/V với/E Công_an/N tỉnh/N làm/V rõ/A

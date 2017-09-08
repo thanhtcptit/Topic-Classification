@@ -1,0 +1,23 @@
+Chống/V trục_lợi/N bảo_hiểm_y_tế/X cách/N nào/P
+Tuổi_Trẻ/Np đặt/V ra/R câu/N hỏi/V này/N với/E các/L chuyên_gia/N và/CC nhận/V được/R các/L gợi_ý/N sau/A đây/N
+Đại_diện/N Bảo_hiểm/N xã_hội/N TPHCM/Np Giám_định/V tại_chỗ/N giám_định/V ngược/A
+Để/E ngăn_chặn/V tình_trạng/N trục_lợi/A và/CC lạm_dụng/V quỹ/N BHYT/Np là/V rất/R khó/A vì/E Bảo_hiểm/N xã_hội/N BHXH/Np là/V bên/N thứ_ba/N thay_mặt/N cho/E người/N tham_gia/V BHYT/Np trả/V tiền/N khám/V chữa/V bệnh/N cho/E cơ_sở/N y_tế/N
+Khó/A ngăn_chặn/V vì/E một/M bên/N cung_cấp/N dịch_vụ/N cơ_sở/N y_tế/N một/M bên/N hưởng/N dịch_vụ/N người/N tham_gia/V BHYT/Np và/CC một/M bên/N trả/V tiền/N dịch_vụ/N cơ_quan/N BHXH/Np là/V mối/N quan_hệ/N ba/M bên/N lúc_nào/N cũng/R tiềm_ẩn/V rủi_ro/A sử_dụng/V quỹ/N BHYT/Np không/R hợp_lí/V nên/C việc/N phát_hiện/V kịp_thời/A để/E giảm_thiểu/V tối_đa/A việc/N trục_lợi/V lạm_dụng/N quỹ/N BHYT/Np là/V cần_thiết/A
+Cơ_quan/N BHXH/Np chỉ/R có_thể/A ngăn_chặn/V bằng/E cách/N triển_khai/V nhiều/A biện_pháp/N giám_sát/V chặt_chẽ/A như/C giám_định/V tại_chỗ/N giám_định/V ngược/A
+để/E giảm_thiểu/V việc/N lạm_dụng/V
+Tuy_nhiên/C tình_trạng/N trục_lợi/V lẻ_tẻ/N còn/R khó/A ngăn_chặn/V hơn/A vì/E khó/A phát_hiện/V
+BHXH/Np cần/V ngăn_chặn/V bằng/E cách/N giáo_dục/N tuyên_truyền/V pháp_luật/N trong/E việc/N thực_hiện/V chính_sách/N BHYT/Np để/E người/N dân/N hiểu/V và/N thực_hiện/V đúng/A quy_định/N
+Ông/N Bùi_Đức_Tráng/Np nguyên/N phó/N giám_đốc/N Bảo_hiểm/N y_tế/N TPHCM/Np Cần/V thay_đổi/V mô_hình/N quản_lí/N quỹ/N BHYT/Np
+Để/E ngăn_chặn/V việc/N trục_lợi/V quỹ/N BHYT/Np phải/V thay_đổi/V mô_hình/N quản_lí/N quỹ/N vì/C đây/P là/V quỹ/N của/N cộng_đồng/N
+Cách/V quản_lí/V ngay/T từ/E bây_giờ/N phải/V tách_bạch/V ra/R
+Không_thể/N để/V cơ_quan/N BHYT/Np hoạt_động/V theo/V kiểu/N hành_chính/N thoát_ly/N cơ_chế_thị_trường/X
+Phải/V tổ_chức/V bộ_máy/N BHYT/Np theo/V hình_thức/N là/V hội_đồng/N quản_lí/N quỹ/N BHYT/Np có_thể/R do/N Nhà_nước/N thuê/V hoặc/N hội_đồng/N này/P thuê/V giám_đốc/N giỏi/A điều_hành/V
+Hội_đồng/N này/P có/V đầy_đủ/A các/L thành_phần/N là/V đại_diện/N cho/E Nhà_nước/N người/N thụ_hưởng/V BHYT/Np ngành/N y_tế/N cơ_sở/N cung_cấp/V dịch_vụ/N y_tế/N chủ/N sử_dụng/V lao_động/N đại_diện/V cho/E người/N lao_động/N
+Hội_đồng/N quản_lí/N quỹ/N BHYT/Np phải/V được/V bầu/V cử/V đại_diện/V vào/R tham_dự/V
+Hội_đồng/N này/P sẽ/R quản_trị/V quỹ/N BHYT/Np theo/V các/L quy_định/N nhà_nước/N nhưng/C được/V mở/V linh_hoạt/N để/E năm/N nay/P thiếu/V tiền/N thì/N có_thể/R tính/V đến/E chuyện/N tăng/V thu/N thế_nào/N cho/V đủ/A năm/N sau/A thừa/V tiền/N phải/V tăng/V quyền_lợi/N người_bệnh/N ra/V sao/P
+Ông/Nc Trương_Quang/Np Anh/Np Vũ/Np trưởng_phòng/N kế_hoạch/N tổng_hợp/V Bệnh_viện/N Thống_Nhất/Np TPHCM/Np Kiểm_tra/V lịch_sử/N khám/V bệnh/N
+Từ/E những/L vụ/N trục_lợi/N BHYT/Np được/V đăng_tải/V trên/N báo_chí/N cho/V thấy/V đa_số/N những/L vụ/N trục_lợi/N BHYT/Np là/V kê/N khống/N bệnh_nhân/N tức_là/N không/R có/V bệnh_nhân/N nhưng/C vẫn/R cấp_phát/V thuốc/N
+Để/E hạn_chế/V việc/N trục_lợi/V BHYT/Np Bệnh_viện/N Thống_Nhất/Np quy_định/N chỉ/R kê/V toa/N thuốc/N khi/N có_mặt/V bệnh_nhân/N
+Đối_với/N bác_sĩ/N bệnh_viện/N cũng/R kiểm_tra/V toa/N của/E các/L bác_sĩ/N
+Với/E những/L toa/N cấp/N thuốc/N cho/V bệnh_nhân/N có_giá/N trên/N 1/M triệu/M đồng/Nu thì/N bắt_buộc/V phải/V đưa/V qua/V lãnh_đạo/N khoa/N lãnh_đạo/N bệnh_viện/N duyệt/V lại/V đơn/N thuốc/N
+Ngoài_ra/C bệnh_viện/N cũng/R phối_hợp/V với/E BHXH/Np TPHCM/Np để/E BHXH/Np cung_cấp/V phần_mềm/N giúp/V bệnh_viện/N kiểm_tra/V lịch_sử/N khám/V bệnh/N của/E bệnh_nhân/N tại/E các/L cơ_sở/N y_tế/N khác/A do/E BHXH/Np TPHCM/Np thanh_toán/V

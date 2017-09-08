@@ -1,0 +1,9 @@
+Google/Np tung/V ứng_dụng/N PhotoScan/Np giúp/V lưu_giữ/V những/L cuốn/Nc album/N ảnh/N giấy/N 
+Google/Np tung/V ứng_dụng/N PhotoScan/Np giúp/V lưu_giữ/V những/L bức/Nc ảnh/N giấy/N Đại_diện/N Google/Np cho_biết/V ai/P trong/E chúng_ta/P cũng/R sở_hữu/V những/L album/N và/CC hộp/N đựng/V các/L bức/N hình/N cũ/A nhưng/C chúng_ta/P không/R dành/V thời_gian/N để/E chuyển/V chúng/P thành/V những/L bức/Nc ảnh/N kĩ_thuật_số/N vì/E thực_hiện/V điều/N này/P không/R hề/T dễ_dàng/A 
+Chúng_ta/P không/R muốn/V gửi/V đi/V những/L bức/Nc ảnh/N gốc/N vì/E sợ/V rủi_ro/A trong/E khi/N mua/V một/M máy_quét/N ảnh/N quá/R đắt_đỏ/A và/CC tốn/V thời_gian/N và/CC nếu/C bạn/N cố_gắng/V chụp/V lại/R tấm/Nc ảnh/N gốc/N thứ/N cuối_cùng/A bạn/N nhận/V được/R lại/R là/V được/V những/L bức/N hình/N quăn/N góc/N và/CC phản/V sáng/N 
+Do_đó/C ứng_dụng/N này/P ra_mắt/V hoạt_động/V độc_lập/N và/CC sẽ/R giúp/V người/N dùng/V có_thể/R dễ_dàng/A quét/V bất_cứ/R tấm/Nc ảnh/N nào/P 
+Với_Photo/Np Scan/Np tấm/Nc hình/N của/E người/N dùng/V sau/E khi/N được/V quét/V bằng/E camera/N của/E smartphone/N sẽ/R được/V lưu/V vào/E Google_Photos/Np chỉ/R bằng/E một/M cú/N chạm/V 
+Chúng/P cũng/R được/V sắp_xếp/V để/E dễ_dàng/A tìm/V thấy/V chia_sẻ/V và/CC lưu/V dưới/E dạng/N ảnh/N chất_lượng/N cao/A một_cách/N an_toàn/A và/CC hoàn_toàn/A miễn_phí/V 
+Phần_mềm/N này/P nổi_bật/A ở/E điểm/N giúp/V phát_hiện/V ra/R các/L góc/N ảnh/N cong/A làm/V thẳng/A hình_ảnh/N xoay/V ảnh/N đúng/A chiều/N và/CC xóa_bỏ/V các/L vệt/N ảnh/N phản/V sáng/N 
+Tải/N về/V tại/E đây/P 
+Phan_Tuấn/Np 

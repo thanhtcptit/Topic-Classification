@@ -1,0 +1,15 @@
+18/M bệnh_nhân/N chạy/V thận/N nhân_tạo/A nghi/V bị/V sốc/N phản_vệ/V 6/M người/N tử_vong/V
+Tiến_sĩ/N Trương_Quý_Dương/Np Giám_đốc/N Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np cho_biết/V  /V ngay_lập_tức/R các/L bác_sĩ/N đã/R dừng/V hoạt_động/V chạy/V thận/N để/E chuyển/V sang/V cấp_cứu/V bệnh_nhân/N
+Bệnh_viện/N đã/R huy_động/V gần_như/R toàn_bộ/L các/L đơn_vị/N chủ_lực/N tập_trung/V cấp_cứu/V nạn_nhân/N
+Đến/E chiều/N cùng/A ngày/N  /V 6/M  /M người/N đã/R tử_vong/V  /M Các/L bệnh_nhân/N này/P đều/R bị/V suy/V thận/N mãn/A đến/V bệnh_viện/N để/E lọc/V máu/N chu_kỳ/N
+Bệnh_viện/N Đa_khoa/Np tỉnh/N Hòa_Bình/Np có/V 19/M máy/N chạy/V thận/N nhân_tạo/A
+Thời_điểm/N xảy_ra/V vụ_việc/N có/V 18/M bệnh_nhân/N đang/R chạy/V thận/N và/CC tất_cả/P đều/R gặp/V nạn/N  /M Toàn_bộ/N thuốc/N hóa_chất/N dùng/V chạy/V thận/N đã/R được/V niêm_phong/V để/E điều_tra/V
+Nhiều/A người/N tụ_tập/V ở/E sảnh/N bệnh_viện/N để/E chờ/V thông_tin/N người_thân/N bị/V tai_biến/V
+Tiến_sĩ/N Nguyễn_Hữu_Dũng/Np Trưởng/Np khoa/N Thận/N nhân_tạo/A Bệnh_viện/N Bạch_Mai/Np cho_biết/V đã/R cử/V 3/M bác_sĩ/N chuyên_ngành/N chạy/V thận/N chống/V độc/A dị_ứng/N cùng/A một/M kỹ_thuật_viên/N đến/E hỗ_trợ/V đồng_nghiệp/N Bệnh_viện/N Đa_khoa/Np tỉnh/N Hòa_Bình/Np cứu_chữa/V các/L bệnh_nhân/N  /EOS
+Bác_sĩ/N Trần_Quang_Khánh/Np Giám_đốc/N Sở/N Y_tế/N tỉnh/N Hòa_Bình/Np cho_biết/V nguyên_nhân/N sự_cố/N cần/V thời_gian/N để/E tìm_hiểu/V nhiều/A khả_năng/N nghi_ngờ/V do/E sốc/N phản_vệ/V
+Việc/N  /V trước_mắt/N là/V tập_trung/V cấp_cứu/V cho/E các/L nạn_nhân/N
+Chúng_tôi/P đã/R chỉ_đạo/V bệnh_viện/N tiếp_tục/V cấp_cứu/V các/L nạn_nhân/N đồng_thời/R tìm_hiểu/V nguyên_nhân/N sự_cố/N tuy_nhiên/C việc/N này/P cần/V thời_gian/N bác_sĩ/N Khánh/Np nói/V  /EOS
+Theo/E tiến_sĩ/N Dũng/Np trong/E y/N văn/N sốc/N phản_vệ/V trong/E lọc/V máu/N chu_kỳ/N có_thể/A xảy_ra/V tuy_nhiên/C số/N bệnh_nhân/N cùng/A lúc/N gặp/V tai_biến/A và/CC tử_vong/A nhiều/A như/C tại/E Bệnh_viện/N Đa_khoa/N tỉnh/N Hòa_Bình/Np thì/C chưa/R xảy_ra/V trong/E nhiều/A năm/N gần/A đây/P
+Bộ/N Y_tế/N cũng/R đã/R cử/V đoàn/N chuyên_gia/N đến/V hiện_trường/N để/E hỗ_trợ/V bệnh_viện/N và/CC tìm_hiểu/V nguyên_nhân/N  /EOS
+Sốc/N phản_vệ/V là/V phản_ứng/N dị_ứng/N đặc_biệt/A nghiêm_trọng/A có/V diễn_biến/N nhanh/A phức_tạp/A khó/A lường/V và/CC dễ/A dẫn/V đến/E tử_vong/N nếu_không/C được/V cấp_cứu/V kịp_thời/A
+Phản_ứng/V phản_vệ/N có_thể/R xảy_ra/V ở/E bất_cứ/R đâu/P với/E bất_cứ/R loại/N thuốc/N hoặc/CC hóa_chất/N điều_trị/V nào/P cũng_như/C xuất_phát/V từ/E dị_ứng/N thức_ăn/N hóa_mỹ_phẩm/N và/CC do/E côn_trùng/N đốt/V

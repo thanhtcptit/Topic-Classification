@@ -1,0 +1,15 @@
+Mã/N độc/A MilkyDoor/N biến/V điện_thoại/N thành/V backdoor/N di_động/V
+Theo/E The_Cyber_Security_Source/Np báo_cáo/V của/E Trend_Micro/Np cho/V biết/V họ/P phát_hiện/V ra/R mã/V độc/A trên/N tồn/N tại/E trong/E khoảng/N 200/M ứng_dụng/N Android/Np mỗi/L ứng_dụng/N đã/R được/V cài_đặt/V từ/E 500000/M đến/E 1/M triệu/N lần/N trên/N Google_Play/Np
+Những/L ứng_dụng/N này/P là/V sách/N thiếu_nhi/N ứng_dụng/N vẽ/V hướng_dẫn/V thời_trang/N và/CC những/L ứng_dụng/N giải_trí/V khác/A
+Trend_Mirco/Np nói/V Chúng_tôi/N phỏng_đoán/V rằng/C những/L ứng_dụng/N hợp_pháp/A này/P đã/R bị/V tội_phạm/N mạng/N đóng_gói/V lại/R và/N gắn/V mã/N độc/A sau/N đó/P tái/A xuất_bản/V trên/N Google_Play/Np và/CC Google/Np đã/R xoá/V những/L ứng_dụng/N này/P sau/E khi/N TrendMicro/N thông/N báo/N riêng/A cho/V họ/P
+Loại/N mã/N độc/A này/P đặc_biệt/A nguy_hiểm/A với/E các/L doanh/N nghiệp/N bởi/N nó/P được/V xây_dựng/V nhằm/N tấn_công/V mạng/N nội_bộ/N của/E các/L công_ty/N tấn_công/V các/L máy_chủ/N riêng/A và/CC dữ_liệu/N trên/N đó/P
+Mã/N độc/A cho/V phép/N đối_thủ/N xâm_nhập/V vào/R được/V các/L web/N dịch/N vụ/N của/E doanh_nghiệp/N truy_cập/N được/V vào/V FTP/Np và/CC SMTP/Np đồng_thời/R có_thể/R quét/V được/R địa_chỉ/N IP/Np nội_bộ/N nhằm/V tìm/V ra/R những/L máy/N chủ/N dễ/N bị/V tấn_công/V
+Về/E mặt/N kĩ_thuật/N thì/C mã/N độc/A MilkyDoor/N cùng/A họ/N với/E dòng/N mã/N độc/A DressCode/A cả/P hai/M đều/R dựa/V vào/E giao_thức/N SOCKS/Np để/V kết_nối/V từ/E điện_thoại/N vào/V mạng/N
+Tuy_nhiên/C Trend_Micro/Np cho/V rằng/N MilkyDoor/N tinh_vi/A và/CC nguy_hiểm/A hơn/R vì/E mã/N độc/N này/P dùng/V SSH/Np nên/V những/L hành_vi/N của/E nó/P bị/V trộn/V lẫn/V vào/E các/L lưu_lượng/N mạng/N sạch/A
+Do/E SSH/Np dùng/V port/N 22/M nên/C các/L hệ_thống/N tường/N lửa/N thường/A sẽ/R không/R chặn/V lưu_lượng/V qua/E cổng/N này/P
+Hơn_nữa/C các/L quản_trị/N mạng/N cũng/R sẽ/R không/R phát_hiện/V ra/V được_việc/N giao_tiếp/V với/E các/L C/N amp/N
+C/N server/N do/N dữ_liệu/N qua/V SSH/Np đã/R được/V mã_hoá/V và/N không/R bị/V bật/V cờ/N đỏ/A
+Các/L ứng_dụng/N bị/V nhiễm_độc/V cũng/R không/R gây/V ra/R nghi_ngờ/V với/E chủ/N điện_thoại/N bởi/N chúng/N hoạt_động/V hoàn_hảo/N và/CC không/R yêu_cầu/V thêm/V quyền/N gì/N khác_thường/A ví_dụ/V như/C yêu_cầu/V truy_cập/V mạng/N
+Trend_Micro/Np cho/V rằng/N phiên_bản/N mới/A nhất/A của/E mã/N độc/N này/P đã/R được/V tung/V ra/R từ/E tháng/N 8/M năm_ngoái/N MilkyDoor/N có_thể/R đã/R được/V dùng/V để/E tạo/V ra/R lưu_lượng/V ảo/N và/CC kiếm/V được/R tiền/V qua/E các/L chiến_dịch/N click/N gian_lận/N
+Để/E bảo_vệ/V các/L doanh_nghiệp/N trước/N mối/N nguy_hiểm/N này/P TrendMicro/N đề_nghị/V người_dùng/V phải/V cảnh_giác/V trước/E các/L ứng_dụng/N đáng/V ngờ/V và/N luôn/R cập_nhật/V hệ_điều_hành/N
+Đồng_thời/R các/L quản_trị/N mạng/N cũng/R được/V khuyên/V nên/V giám_sát/V chặt/A và/N hạn_chế/V quyền/N của/E nhân_viên/N dùng/V thiết_bị/N di_động/N kết_nối/V vào/E hệ_thống/N công_ty/N ngoài_ra/N cần/V xây_dựng/V tiến_trình/N vá/V lỗi/N hữu_hiệu/A

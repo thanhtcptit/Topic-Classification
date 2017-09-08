@@ -1,0 +1,18 @@
+​/N 6/M học_sinh/N tiểu_học/N sẽ/R sang/V Úc/Np thi/V khoa_học/N quốc/N tế/N
+Kết_thúc/V cuộc/N thi/V Khoa_học/N ứng_dụng/N 2017/M LEGO/Np Education/Np vừa/R diễn/V ra/R tại/E TPHCM/Np 6/M học_sinh/N xuất_sắc/A giành/V vé/N tham_dự/V cuộc/N thi/V khoa_học_ứng_dụng/X First_Lego_League/Np FLL/Np châu/N Á/Np Thái_Bình_Dương/Np vào/V tháng/N 7/M tại/E Sydney/Np Úc/Np
+Trong/E đó/P đội/N trường/N liên/N cấp/N song_ngữ/N quốc_tế/A Wellspring/Np với/E ba/M học_sinh/N Cao_Trần_Thiên_An/Np Lê_Thuỵ_Lam_Khanh/Np Lê_Minh_Ngọc/Np đã/R giành/V giải/N xuất_sắc/A ở/E bảng/N dành/V cho/R học_sinh/N lớp/N 3/M 9/M tuổi/N
+Đội/N gồm/V ba/M học_sinh/N Phùng_Mai_Thuỳ_Khuê/Np Trường_Quốc_Tế_Canada/Np Kim_Bu_Bin/Np Trường_Trưng_Trắc/Np và/CC Trịnh_Nhựt_Nam/Np Trươ/Np ̀/V ng/N Renaissance_International_School_Saigon/Np giành/V giải/N xuất_sắc/A ở/E bảng/N giành/V cho/E học_sinh/N lớp/N 4/M 5/M
+Đây/P là/V lần/N đầu/A cuộc/N thi/V khoa_học_ứng_dụng/X được/V tổ_chức/V cho/V học_sinh/N tiểu_học/N ở/V Việt_Nam/Np
+Các/L học_sinh/N toàn_quốc/N có_thể/R tham_gia/V theo/V đội/N
+Mỗi/L đội/N dự/V thi/V gồm/V từ/E 2/M 3/M thành_viên/N có/V kĩ_năng/N thiết_kế/V lắp_ráp/N lập_trình/V robot/N bằng/E bộ/N LEGO/Np Wedo/Np 20/M và/N khả_năng/N thuyết_trình/V bằng/E tiếng/N Anh/Np đối_với/N bảng/N quốc_tế/A để/E giải_quyết/V những/L tình_huống/N có/V sẵn/A theo/E luật/N thi_đấu/N của/E cuộc/N thi/V
+Thông_qua/V việc/N lắp_ráp/V chế_tạo/V robot/N để/E thực_hiện/V một/M nhiệm_vụ/N cụ_thể/A các/L em/N có/V cơ_hội/N sử_dụng/V kiến_thức/N trên/E nhiều/A lĩnh_vực/N như/C Khoa_học/N Công_nghệ/N Toán/Np và/CC Kỹ_thuật/N lập_trình/N máy_tính/N qua/E đó/P phát_huy/N tính/V sáng_tạo/N và/CC học/V được/R kĩ_năng/V giải_quyết/V vấn_đề/N
+Với/E chủ_đề/N Tìm_hiểu/V về/R động_vật/N quanh/N em/N các/L em/N học_sinh/N tranh/N tài/N ở/E một/M trong/E hai/M bảng/N gồm/V bảng/N thông_thường/A thi/V trong/E nước/N và/CC bảng/N mở_rộng/V được/R tham_gia/V thi_đấu/V quốc_tế/N
+Ở/E bảng/N thông_thường/A nhiệm_vụ/N của/E robot/N là/V giải_cứu/N 5/M chú/N gấu/N Bắc/Np cực/R khỏi/R tảng/N băng/N đang/R tan/V dần/R dưới/E sự/N ảnh_hưởng/V của/N hiệu_ứng_nhà_kính/N
+Robot/N phải/V di_chuyển/V từ/E vị_trí/N bắt_đầu/V
+Sau/E đó/P di_chuyển/V đến/V các/L vị_trí/N đặt/V chú/N gấu/N trên/N sa_bàn/N và/CC mang/V từng/N chú/N gấu/N về/V vị_trí/N bắt_đầu/V
+Ở/E bảng/N mở_rộng/V với/E chủ_đề/N tìm_kiếm/N và/CC chọn/V ra/R một/M loài/N vật/N có/V môi_trường/N sống/V giống/A với/E ong_mật/N các/L đội/N lần_lượt/N trải/V qua/R 3/M phần/N thi/V gồm/V khám_phá/N tạo_dựng/N và/CC chia_sẻ/V
+Giai_đoạn/N khám_phá/V các/L em/N sẽ/R tìm_hiểu/V về/E cô/N ong_mật/N Honie/Np xem/V môi_trường/N sống/N của/E chúng/N và/CC tìm_hiểu/V lí_do/N tại_sao/N các/L chú/N ong_mật/N lại/R quan_trọng/A đối_với/N đời_sống/N và/CC môi_trường/N đến/V như/C vậy/P
+Giai_đoạn/N tạo_dựng/V các/L đội/N phải/V sử_dụng/V bộ/N công_cụ/N LEGO/Np Education_Khoa_học/N vui/V Wedo/Np miêu_tả/V những/L hiểu_biết/N của/E các/L em/N về/V loài/Nc vật/N mà/C các/L em/N đã/R chọn/V
+Mô_hình/N của/E các/L đội/N cần/V phải/V sử_dụng/V ít_nhất/N 2/M động_cơ/N
+Ngoài_ra/C các/L đội/N cần/V chuẩn_bị/V 1/M tấm/N áp_phích/N Show/Np me/V miêu_tả/V đầy_đủ/A các/L khám_phá/N sự/N hiểu_biết/V và/CC thông_tin/N về/V bài/N nghiên_cứu/V về/E loài/N động_vật/N mà/C các/L em/N đã/R lựa_chọn/V ở/V trên/N cũng/R như/C về/V Cô/N ong_mật/V Honie/Np về/V mô_hình/N và/CC về/V đội/N của/E các/L em/N
+Cuối_cùng/A các/L đội/N sẽ/R chia_sẻ/V các/L ý_tưởng/N kiến_thức/N mà/C các/L em/N được/V học/V thông_qua/V việc/N nghiên_cứu/V bằng/E cách/N Trình_bày/V về/E mô_hình/N LEGO/Np ®/V và/CC áp_phích/N Show/Np me/V của/E các/L em/N và/CC trả_lời/V phần/N dự/V thi/V của/E mình/N thông_qua/V các/L câu/N hỏi/V của/E Ban/N giám_khảo/N và/CC của/E đội/N bạn/N

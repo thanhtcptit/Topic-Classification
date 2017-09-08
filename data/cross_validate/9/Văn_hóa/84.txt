@@ -1,0 +1,57 @@
+Dán/N tem/N chống/V sách/N lậu/N Tại_sao/N ít/A người/N ủng_hộ/V
+Cục/N Xuất_bản/V in/N và/CC phát_hành/V Bộ/N TTTT/Np đang/R lấy/V ý_kiến/N về/V đề_xuất/N xây_dựng/V dự_thảo/N thông_tư/N dán/V tem/N phòng_chống/V in/N lậu/A in/V giả/A sao_chép/V trái_phép/A xuất_bản_phẩm/N
+Để/E giải_quyết/V các/L vấn_đề/N sách/N lậu/N thì/C cần/V các/L giải_pháp/N khác/A như/C phạt/N thật/N nặng/A và/CC xử_lí/N hình_sự/N những/L đối_tượng/N làm/V sách/N giả/V sách/N lậu/A
+Nếu/C thông_tư/N được/V ban_hành/V thì/C các/L nhà_xuất_bản/N phải/V thống_nhất/V sử_dụng/V tem/N chung/V cho/E các/L xuất_bản_phẩm/N trừ/V ấn_phẩm/N điện_tử/N
+Trên/E tem/N phải/V có/V bốn/M thông_tin/N mã_số/N sách/N tiêu_chuẩn/N quốc_tế/N ISBN/Np
+số/N xác_nhận/V đăng_kí/N xuất_bản/V của/E Cục/N Xuất_bản/N in/V và/N phát_hành/V
+số/N quyết_định/N xuất_bản/V của/E giám_đốc/N nhà_xuất_bản/N
+số/N thứ_tự/N theo/V số_lượng/N bản/N xuất_bản_phẩm/N được/V in/V
+Kinh_phí/N sản_xuất/V tem/N sẽ/R theo/V phương_thức/N xã_hội_hoá/N
+Giải_pháp/N tình_thế/N
+Ông/Nc Chu_Văn_Hoà/Np cục_trưởng/N Cục/N Xuất_bản/V in/N và/CC phát_hành/V cho/V biết/V việc/N thống_nhất/V dán/V mẫu/N tem/N chung/V cho/E tất_cả/N sách/N của/E các/L nhà_xuất_bản/N là/V giải_pháp/N tình_thế/N chứ/N không/R hoàn_toàn/A là/V giải_pháp/N lâu_dài/A
+Hiện/N trên/E các/L sách/N phát_hành/N chỉ/R ghi/V quyết_định/N xuất_bản/V số/N đăng_kí/N số_lượng/N in/V giấy_phép/N xuất_bản/V
+Những/L thông_tin/N đó/P ai/P cũng/R có_thể/A in/V được/R
+Vì_vậy/C không/R có/V cơ_sở/N phân_biệt/N sách/N hợp_pháp/A và/CC không/R hợp_pháp/A
+Tem/N chung/V được/V liên_kết/V với/E trung_tâm/N dữ_liệu/N của/E cục/N để/E phục_vụ/V công_tác/N thanh_tra/N kiểm_tra/V của/E các/L địa_phương/N và/CC thuận_tiện/V cho/E người/N đọc/V có_thể/R dùng/V điện_thoại_thông_minh/N smartphone/N tra_cứu/N thông_tin/N nguồn_gốc/N cuốn/N sách/N
+Mỗi/L cuốn/Nc sách/N có/V một/M tem/N được/V mã_hoá/V như/N giấy_khai_sinh/N
+Muốn/V làm/V giả/V một/M cuốn/N sách/N thì_phải/V làm/V giả/V tem/N
+Mà/C tem/N đã/R mã_hoá/V rất/R khó/A làm/V giả/V ông/N Hoà/Np cho/V biết/V
+Về/V giá_thành/N để/E dán/V tem/N ông/N Hoà/Np nói/V nếu/C làm/V với/E số_lượng/N nhiều/A giá_thành/N không/R cao/A không/R ảnh_hưởng/V đến/E giá/N sách/N
+Nếu/C thông_tư/N này/P được/V ban_hành/V các/L NXB/Np sẽ/R cùng/A làm/V một/M mẫu/N tem/N chung/V chứ/N cục/N không/R đứng/V ra/R để/E làm/V và/N in/V tem/N bán/V ông/N Hoà_giải/V đáp/V băn_khoăn/N về/V đơn_vị/N đứng/V ra/R làm/V tem/N chung/V
+Tăng/N chi_phí/N
+Ông/Nc Nguyễn_Văn_Tùng/Np phó_tổng/V biên_tập/N NXB/Np Giáo_Dục_Việt_Nam/Np cho/V rằng/C khi/N các/L NXB/Np cùng/C sử_dụng/V cùng/A một/M loại/N tem/N mà/N công_tác/V quản_lí/N không/R đồng_bộ/A sẽ/R dẫn/V đến/R khó_khăn/A cho/V công_tác/N quản_lí/N kiểm_soát/V số_lượng/N
+Ông/N cũng/R cho/V biết/V NXB/Np Giáo_Dục_Việt_Nam/Np đã/R đầu_tư/V hệ_thống/N dây_chuyền/N sản_xuất/V tem/N chống/V giả/A nên/C chủ_động/V trong/E việc/N sản_xuất/V đáp_ứng/V đầy_đủ/A nhanh_chóng/A nhu_cầu/V về/V tem/N trong/E giai_đoạn/N cao_điểm/N 3/M tháng/N phục_vụ/V khai_giảng/N năm_học/N mới/A
+Trong/E giai_đoạn/N này/P trung_bình/N NXB/Np cần/V dán/V tem/N cho/V 150200/M triệu/N bản/N sách/N
+Nếu/C phải/V phụ_thuộc/V vào/V đối_tác/N cung_ứng/V tem/N từ/E bên/N ngoài/N có_thể/N xảy/V ra/R tình_trạng/N thiếu/A sách_giáo_khoa/N trước/E ngày/N khai_giảng/N
+Đây/P thực_sự/N là/V điều/N chúng_tôi/N rất/R lo_ngại/V ông/N Tùng/Np băn_khoăn/A
+Điều/N ông/N Tùng/Np lo_lắng/V nữa_là/N việc/N dán/V tem/N chung/V chắc_chắn/A chi_phí/N sẽ/R cao/A hơn/A khi/N sử_dụng/V tem/N của/E NXB/Np và/CC sẽ/R làm/V tăng/V chi_phí/N sách_giáo_khoa/N
+Đồng/N quan_điểm/N đó/P ông/N Trịnh_Minh_Tuấn/Np giám_đốc/N Công_ty/N sách/N Quảng_Văn/Np cho/V rằng/C ở/E khía_cạnh/N thực_tế/N thông_tư/N này/N không/R giải_quyết/V được/R các/L vấn_đề/N như/C sách/N lậu/N thất_thu/V thuế/N nhà_nước/N và/CC thu_thập/V dữ_liệu/N mà/C chỉ/R tăng/V thêm/V chi_phí/N thêm/V thủ_tục/N hành_chính/N cho/V doanh_nghiệp/N làm/V sách/N
+Trên/E thế_giới/N chẳng/R ai/P làm/V như/C vậy/P cả/P ông/Nc Tuấn/Np chỉ/V rõ/A
+Trong/E văn_bản/N trả_lời/V Bộ/N TTTT/Np về/V việc/N xây_dựng/V thông_tư/N trên/N Phòng_Thương_mại/N và/CC công_nghiệp/N Việt_Nam/Np VCCI/Np cũng/R đã/R chỉ/V ra/V nhiều/A điểm/N bất_cập/A của/E ý_tưởng/N dán/N tem/N chung/A cho/V xuất_bản_phẩm/N
+VCCI/Np cho/V rằng/C ngoài/E hiệu_quả/N phân_biệt/V thật/N giả/A giải_pháp/N này/P không/R tạo/V ra/R bất_kì/N hiệu_quả/N nào/N khác/A và/CC sẽ/R gây/V ra/R nhiều/A tác_động/N bất_lợi/N như/C làm/V gia_tăng/N chi_phí/N xuất_bản/V lãng_phí/N nguồn_lực/N hiện_tại/N nguy_cơ/N phát_sinh/V thủ_tục/N hành_chính/N gây/V khó_khăn/N trong/E hoạt_động/N của/E các/L đơn_vị/N làm/V sách/N
+Lãnh_đạo/N một/M công_ty/N sách/N tại/N Hà_Nội/Np
+Coi_chừng/N giấy_phép/N con/N
+Dùng/V tem/N để/E chống/V in/V lậu/N là/V không/R khả_thi/A vì/E đã/R in/V lậu/A được/V sách/N thì/C cũng/R có_thể/A in/V lậu/A cả/P tem/N
+Và/C lâu_nay/N nhiều/A đơn_vị/N làm/V sách/N đã/R tự/V tìm_kiếm/V các/L biện_pháp/N chống/V in/V lậu/N hữu_hiệu/A như/C sử_dụng/V kĩ_thuật/N màu/N tăng_cường/V thông_tin/V nhận_diện/V cho/E bạn_đọc/N thiết_kế/V khổ/N giấy/N đầu_tư/V chất_lượng/N sách/N thật/A khác_biệt/A
+Thế/T nên/C việc/N lấy/V lí_do/N chống/V in/V lậu/N để/V quy_định/N cả/P ngành/N xuất_bản/V phải/V dán/V tem/N trên/N sách/N không_khéo/V như/C một/M loại/N giấy_phép/N con/N phải/V xin/V phải/V đăng_kí/V mua/V mất/V thời_gian/N vừa/R tăng/V chi_phí/N
+Bà/N Đinh_Thị_Thanh_Thuỷ/Np giám_đốc/V NXB/Np Tổng_Hợp/Np TPHCM/Np
+Thêm/V thủ_tục/N
+Ngoài/E chi_phí/N kết/V trong/E giá_thành/N cuốn/Nc sách/N chắc_chắn/A sẽ/R đội/V lên/R mục_đích/N giảm_giá/N khuyến/N đọc/V chắc_chắn/A bị/V ảnh_hưởng/V
+về/V mặt/N thủ_tục/N hành_chính/N việc/N đăng_kí/V để/E nhận/V về/E một/M mẫu/N tem/N chắc_chắn/A làm/V chậm/N lại/R khâu/N nộp/V lưu_chiểu/N và/N phát_hành/V
+Điền/N ghi/V
+Luật_sư/N Phan_Vũ_Tuấn/Np Công_ty/N luật/N Phan_Law/Np phó/Z chủ_tịch/N Hội_Sở_hữu/N trí_tuệ/N TPHCM/Np
+Có_thể/A gây/V rắc_rối/A
+Trước_hết/N chúng_ta/N cần/V xem_xét/V việc/N dán/V tem/N có/V ảnh_hưởng/N gì/P đến/V người/N đọc/V không/R
+Người/N tiêu_dùng/V có/V khả_năng/N nhận/V ra/R đâu/N là/V tem/N thật/A đâu/N là/V tem/N giả/A không/R
+Theo/E tôi/P độc_giả/N khó/A có/V khả_năng/N nhận/V ra/R những/L nội_dung/N trên/N tem/N họ/N nhìn/V con/N tem/N và/CC nhiều/A phần/N là/V không/R hiểu/V gì/N hết/V
+Và/C chỉ/R có/V những/L cơ_quan/N thực_thi/V việc/N quản_lí_nhà_nước/X như/C thanh_tra/N công_an/N mới/R có/V khả_năng/N phân_biệt/V được/R tem/N thật/A và/CC tem/N giả/A
+Và/C nếu/C đã/R là/V cơ_quan/N thực_thi/V thì/C họ/N không/R cần/V đến/V con/N tem/N để/E phân_biệt/V sách/N thật/N sách/N giả/A vì/E còn/V rất/R nhiều/A cách/N khác/A hữu_dụng/A hơn/A mà/C họ/P vẫn/R làm/V lâu_nay/N
+Như/C vậy/P con/N tem/N không/R đáp_ứng/V được/R kì_vọng/V thứ/N nhất/M giúp/V nhận_diện/N hàng/N giả/A
+Tiếp_theo/V việc/N dán/V tem/N này/P có/V chống/V lại/R được/V hành_vi/N xâm_phạm/V quyền_sở_hữu/N trí_tuệ/N tức/V làm/V sách/N lậu/V sách/N giả/V sao_chép/N trái_phép/A không/R
+Ví_dụ/V như/A hành_vi/N sao_chép/N trái_phép/A một_khi/N người_ta/N sao_chép/V được/R sách/N thì/C việc/N sao_chép/V con/N tem/N là/V chuyện/N bình_thường/A
+Và/C con/N tem/N như/A đề_cập/V trong/E dự_thảo/N thông_tư/N này/P là/V không/R có/V tính/N công_nghệ/N để/E chống/V sao_chép/N
+Như/C vậy/P con/N tem/N cũng/R không/R đáp_ứng/V được/R kì_vọng/V thứ_hai/N chống/V sao_chép/N
+Trong/E khi/N đó/P việc/N dán/V tem/N trên/N sách/N còn/V gây/V khó_khăn/A cho/V việc/N xử_lí/V xâm_phạm/N bản_quyền/N sau_này/N
+Với/E trường_hợp/N sách/N liên_kết/V xuất_bản/N con/N tem/N còn/V phản/V lại/R ý_nghĩa/N của/E hợp_đồng/N liên_kết/N vì/E theo/V hợp_đồng/N thì/C sách/N của/E công_ty/N B/Np còn/R theo/V tem/N thì/C sách/N của/E NXB/Np A/Np
+Qua/E phân_tích/V trên/N cho/V thấy/V việc/N dán/V tem/N vừa/R không/R bảo_đảm/V việc/N chống/V in/N lậu/N in/V giả/A sao_chép/V và/N in/N nối/V bản/N lại/R còn/R có/V khả_năng/N gây/V rắc_rối/N trong/E tố_tụng/N về/V sở_hữu_trí_tuệ/N
+LAM/Np ĐIỀN/M ghi/N

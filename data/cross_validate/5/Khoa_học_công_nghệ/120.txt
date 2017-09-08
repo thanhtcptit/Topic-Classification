@@ -1,0 +1,26 @@
+​/N Thư/Np rác/N giảm/V mạnh/A về/E lượng/N nhưng/C tăng/V độ/N nguy_hiểm/A
+Cụ_thể/A vào/V tháng/N 122016/M các/N bẫy/N thư/N rác/N của/E Kaspersky_Lab/Np đã/R phát_hiện/V hơn/A 35/M triệu/N thư/N giả_mạo/V nhưng/C con_số/N này/P vào/E tháng/N 32017/M đã/R giảm/V xuống/V chỉ/R còn/V gần/A 7000/M một/M con_số/N giảm/A cực/N lớn/A
+Các/L nhà/N nghiên_cứu/V của/E Kaspersky_Lab/Np cho/V biết/V sự/N suy_giảm/V mạnh_mẽ/A của/E thư/N rác/N có_lẽ/N do/E họ/P đã/R phát_hiện/V ra/R cách_thức/N gửi/V thư/N rác/N của/N Necurs/Np được/V xem/V là/C mạng/N botnet/V thư/N rác/N lớn/A nhất/A thế_giới/N
+Tuy_nhiên/C qua/E tìm_hiểu/V lượng/N thư/N rác/N còn/V lại/R họ/P lại/R phát_hiện/V tội_phạm/N mạng/N đang/R thử_nghiệm/V những/L chiêu_thức/N phát_tán/N thư/N rác/N mới/A
+Thử_nghiệm/N kĩ_thuật/N chống/V phát_hiện/V mới/N
+Trong/E quý/N I/M năm/N 2017/M những/N kẻ/N gửi/V thư/N rác/N có/V xu_hướng/N làm/V phức_tạp/V các/L kĩ_thuật/N chống/V phát_hiện/V bằng/E nhiều/A cách/N
+Trong/E số/N những/L cách/N đó/P tội_phạm/N mạng/N đã/R đóng_gói/V phần_mềm/N độc_hại/A trong/E các/L tệp_tin/N được/V bảo_vệ/V bằng/N mật_khẩu/N
+Một_khi/N người_dùng/N nhận/V được/R email/V những/L kẻ/N gửi/V thư/N rác/N sẽ/R khiến/V nạn_nhân/N mở/V và/N lưu_trữ/V theo/E cách/N thông_thường/N
+Tỷ_lệ/N thư/N rác/N toàn_cầu/N chiếm/V 56/M lưu_lượng/N email/V trong/E quý/N 1/M so/V với/E 599/M trong/E quý/N 4/M năm/N 2016/M
+Chúng/P giả_mạo/V email/V dưới/N dạng/N thông_báo/V đặt_hàng/V từ/E các/L cửa_hàng/N bán_lẻ/V lớn/A thông_qua/V các/L giao_dịch/N khác/A nhau/N hoặc/N hứa_hẹn/V một/M khoản/N tiền/N lớn/A
+Thông_thường/A các/L email/N được/V gửi/V trên/E danh_nghĩa/N các/L doanh_nghiệp/N vừa/R và/N nhỏ/A hiện/N có/V với/E tất_cả/N chữ_kí/N và/CC số/N liên_lạc/N để/E chứng_minh/V độ/N tin_cậy/N của/E người/N gửi/V
+Khi/N nạn_nhân/N mở/V các/L tài_liệu/N một/M tập/N lệnh/N độc_hại/A đã/R được/V kích_hoạt/V và/N tải/N phần_mềm/N độc_hại/A vào/V máy_tính/N
+Các/L phần_mềm/N độc_hại/N tải_về/N rất/R đa_dạng/A bao_gồm/V ransomware/N spyware/N backdoor/N hoặc/N một/M biến_thể/N mới/A của/E Trojan_Zeus/Np khét_tiếng/N
+Lợi_dụng/V mạng_xã_hội/N
+Các/L bộ/N lọc/V email/N thư/N rác/N hiện_đại/A thực_hiện/V hiệu_quả/N vấn_đề/N phát_hiện/V thư/N rác/N được/R gửi/V qua/R email/V
+Điều/N này/P khiến/V những/L kẻ/N gửi/V thư/N rác/N tìm_kiếm/V các/L kênh/N mới/A để/E vượt/V qua/R các/L rào_cản/N
+Chúng/P đang/R ngày_càng/R tập_trung/V vào/E các/L tin_nhắn/N và/CC mạng_xã_hội/N để/V phổ_biến/V quảng_cáo/N và/CC các/L đề_nghị/N gian_lận/N
+Tin_nhắn/N cá_nhân/N thường/A được/V hỗ_trợ/V với/E thông_báo/N tới/N email/N của/E người/N nhận/V
+Trong/E trường_hợp/N này/P các/L tiêu_đề/N email/V sẽ/R được/V coi/V là/C hợp_pháp/N không/R giống/A như/C email/N thư/N rác/N truyền_thống/A
+Điều/N này/P có/V nghĩa_là/X chỉ/R có_thể/A phát_hiện/V thư/N rác/N bằng/A cách/N phân_tích/V nội_dung/N thư/N
+Đây/P là/V một/M nhiệm_vụ/N khó_khăn/A hơn/A nhiều/N đặc_biệt/A là/V khi/N đưa/V ra/R nguồn/N thông_tin/N hợp_pháp/A và/CC nếu/C địa_chỉ/N dịch_vụ/V được/V thêm/V vào/E danh_sách/N tin_cậy/N của/E người/N nhận/V
+Hơn/R một/M nửa/M số/N vụ/N tấn_công/V lừa_đảo/N nhắm/N mục_tiêu/N đến/V mảng/N tài_chính/N bao/V gồm/N ngân_hàng/N gần/A 26/M hệ_thống/N thanh_toán/V trên/N 13/M và/N các/L cửa_hàng/N trực/V tuyến/N gần/A 11/M
+Darya_Gudkova/Np chuyên_gia/N phân_tích/V thư/N rác/N tại/N Kaspersky_Lab/Np cho/V biết/V Vào/V đầu/N năm/N 2017/M chúng_ta/P đã/R chứng_kiến/V một_số/L thay_đổi/N trong/E các/L luồng/N thư/N rác/N bao_gồm/V sự/N sụt_giảm/V mạnh/A số_lượng/N các/L thư/N rác/N độc_hại/A từ/E mạng/N botnet/V thư/N rác/N lớn/A nhất/A thế_giới/N
+Tuy_nhiên/C tội_phạm/N mạng/N đang/R tìm_kiếm/V các/L thủ_thuật/N và/CC kĩ_thuật/N nhằm/V chống/V phát_hiện/V thư/N rác/N
+Chúng/P cũng/R lợi_dụng/V các/L nền_tảng/N truyền_thông/N hợp_pháp/A để/E tìm/V cách/N phát_tán/V thư/N rác/N độc_hại/A đến/V người_dùng/N
+Do/E đó/P người_dùng/N gia_đình/N được/V khuyến_khích/V sử_dụng/V giải_pháp/N bảo_mật/N có_thể/R nhận_diện/V và/N chặn/V các/L tệp/N đính/N kèm/V độc_hại/N và/CC lọc/V spam/N trong/E các/L ứng_dụng/N email/V trên/N máy_tính_để_bàn/X

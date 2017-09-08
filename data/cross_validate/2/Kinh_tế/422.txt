@@ -1,0 +1,7 @@
+Thanh_long/N 10/M ngàn/kg/N đổ/V đống/N ngập/V vỉa_hè/N Hà_Nội/Np 
+Thanh_long/N đổ/V đống/N giá/N rẻ/A ngập/V vỉa_hè/N Hà_Nội_Trong/Np khi/N chỉ/R ít/A tuần/N trước/E đó/P giá/N thanh_long/A loại/N ngon/A bán/V tại/E các/L chợ/N có_giá/A khoảng/A 40/M nghìn/M đồng/Nu //X kg/Nu 
+Để/E hút/V khách/N các/L chủ/N cửa_hàng/N đều/R treo/V biển/N Thanh_Long_Bình_Thuận/Np thanh_long/A giá/N rẻ/A với/E giá/N giao/V động_từ/N 8/M –/Nu 12/M nghìn/M đồng/Nu //X 1/M kg/Nu tùy/V loại/N to_nhỏ/A khác_nhau/A  /EOS Một_số/L nơi/N thanh_long/A còn/R được/V rao/V bán/V với/E giá/N chỉ/R 6.000/M đồng/Nu //X kg/Nu 
+Theo/E những/L người/N bán/V hàng/N thanh_long/N này/P đều/R được/V đổ/V buôn/V lấy/V tại/E các/L nhà_vườn/N ở/E Bình_Thuận/Np  /EOS 
+So/V với/E mọi/L năm/N giá/N thanh_long/A năm/N nay/P rẻ/A chỉ/R bằng/E một_nửa/N  /EOS 
+Lý_giải/V về/E điều/N này/P các/L chủ/N buôn/V cho_biết/V thanh_long/A năm/N nay/P được_mùa/V trong/E khi/N đó/P một_số/L đầu_mối/N Trung_Quốc/Np từ_chối/V nhập/V hàng/N nên/C xảy_ra/V tình_trạng/N ùn/V ứ/N dìm/V giá/N như_vậy/X 
+Hà_Trang/Np Xuân_Ngọc/Np  /M 

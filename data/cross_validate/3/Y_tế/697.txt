@@ -1,0 +1,24 @@
+Bệnh_viện/N mua/V trang_thiết_bị/N y_tế/N tiền/N tỷ/V về/E N đắp/V chiếu/N A
+Báo_cáo/V trong/E kỳ/N họp/V Quốc_hội/N hôm/N 23/5/M đại_diện/V Kiểm_toán/N Nhà_nước/N cho_biết/V kết_quả/N  /A kiểm_toán/V công_tác/N đầu_tư/V mua_sắm/V quản_lý/V và/CC sử_dụng/V trang_thiết_bị/N y_tế/N năm/N 2015/M phát_hiện/V một_số/L bệnh_viện/N có/V thiết_bị/N chưa/R hết/V thời_gian/N tính/V hao_mòn/A đã/R hỏng/A không/R sử_dụng/V được/R
+Cụ_thể/A Bệnh_viện/N Đa_khoa/Np Trung_ương/N Thái_Nguyên/Np treo/V máy/N theo_dõi/V trẻ_em/N S510/M Colin/Np máy/N đo/V độ/N tập_trung/V tuyến_giáp/N máy/N X-quang/Np tăng/V sáng/N máy/N theo_dõi/V nhi_khoa/N
+Ở/E Bệnh_viện/N Răng_hàm/Np mặt/N Trung_ương/N /N Hà_Nội/Np /A hỏng/V nồi_hấp/N tiệt_trùng/V
+Bệnh_viện/N Nhiệt_đới/N Trung_ương/N có/V hệ_thống/N tag/N Man/Np PCR-Roche/Np hệ_thống/N máy/N chụp/V X-quang/Np cao_tần/A hệ_thống/N X-quang/Np kỹ_thuật_số/N
+Kết_quả/N kiểm_toán/V các/L bệnh_viện/N ở/E 11/M tỉnh_thành/N cho/V thấy/V có/V 1 5/M trang_thiết_bị/N hỏng/A hoặc/CC hiệu_quả/N sử_dụng/V thấp/A với/E nguyên/A giá/N hơn/A 371/M tỷ/N đồng/N
+Trong/E đó/P 649/M thiết_bị/N hỏng/A không/R khắc_phục/V được/R /A hơn/R 68/M tỷ/N đồng/N /A 120/M loại/N hỏng/A chưa/R sửa_chữa/V /A hơn/R 151/M tỷ/N đồng/N /A 456/M trang_thiết_bị/N chưa/R hoặc/CC ít/A sử_dụng/V /N trị_giá/V hơn/R 151/M tỷ/N đồng/N /V
+Theo/E Kiểm/V toán/N Nhà_nước/N nhiều/A thiết_bị/N y_tế/N được/V đầu_tư/V mới/R nhưng/C dùng/V hoặc/CC mới/R sử_dụng/V đã/R hỏng/V
+Trung_tâm/N y_tế/N dự_phòng/V Hải_Phòng/Np được/V trang_bị/V lò/N nung/N tủ/N hút/V an_toàn/A hóa_học/N từ/E năm/N 2011/M đến/E khi/N kiểm_toán/V thiết_bị/N vẫn/R để/V trong/E phòng/N làm_việc/V và/CC được/V sử_dụng/V làm/V tủ/N đựng/V tài_liệu/N
+Tại_Cần_Thơ/Np tháng/N 12/2014/M Bệnh_viện/N Đa_khoa/N quận/N Thốt_Nốt/Np được/V bàn_giao/V một/M máy/N phân_tích/V huyết_học/N tự_động/A Model/Np MS9-3s/Np Bệnh_viện/N Đa_khoa/Np Cần_Thơ/Np nhận/V một/M máy/N X-quang/Np đo/V loãng_xương/V vào/E năm/N 2009/M /Nu đều/R bị/V lỗi/N hỏng/V từ/E khi/N đưa/V vào/R sử_dụng/V hiện/N tồn_kho/A
+Tỉnh/N Bình_Dương/Np cũng/R có/V 34/M thiết_bị/N của/E Trạm/N Y_tế/N thị_xã/N Bến_Cát/Np được/V cấp/V từ/E những/L năm/N 2010/M mới/R 100%/M nhưng/C chưa/R được/V sử_dụng/V do/E không/R phù_hợp/V hoặc/CC không/R có/V nhu_cầu/N
+Sở/N Y_tế/N tỉnh/N Đăk_Nông/Np có/V 2/M kính_hiển_vi/N 22/M mắt/N hiệu/N Olympus/Np CX22LED/Np nằm/V trong/E bộ/N dụng_cụ/N thiết_bị/N phục_vụ/V nuôi_cấy/N soi/V và/CC phân_lập/V vi_khuẩn/A một/M máy/N phân_tích/V sinh_hóa/V tự_động/A 35/M thông/N số_hiệu/N Global/Np 240/M /Nu giá/N mua/V 850/M triệu/M đồng/Nu /V chưa/R sử_dụng/V từ/E khi/N nhận/V bàn_giao/V
+Số/N thiết_bị/N này/P vẫn/R đang/R nằm/V kho/N
+Theo/E Kiểm/V toán/N Nhà_nước/N Bộ/N Y_tế/N chưa/R có/V hướng_dẫn/V quy_định/N đối_với/E hoạt_động/N liên_doanh/V liên_kết/V theo/E hình_thức/N đặt/V máy/N bán/V hóa_chất/N xét_nghiệm/V chỉ/R để/E bán/V hóa_chất/N
+Do_đó/C công_tác/N quản_lý/V của/E Bộ/N còn/R nhiều/A bất_cập/A  /V Kiểm/V
+toán/N Nhà_nước/N cũng/R cho/V rằng/C Bộ/N Y_tế/N chưa/R ban_hành/V các/L văn_bản/N quy_định/N về/V đấu_thầu/V trang_thiết_bị/N y_tế/N
+Bộ/N Y_tế/N lại/R phê_duyệt/V giá/N kế_hoạch/N giữa/E các/L bệnh_viện/N hầu_hết/R là/V khác_nhau/A cho/E một/M loại/Nc vật_tư/N hóa_chất/N của/E cùng/A một/M nhà_cung_cấp/N
+Điều/N này/P dẫn/V đến/E sự/Nc chênh_lệch/A rất/R lớn/A giữa/E giá/N được/R phê_duyệt/V cao/A nhất/A và/CC thấp/A nhất/A đối_với/E một/M loại/Nc vật_tư/N hóa_chất/N
+Ví_dụ/V giá/N một/M chiếc/Nc kim/N cánh/N bướm/N tại/E Bệnh_viện/N Việt_Đức/Np là/V 1 0/M đồng/Nu ở/E Bệnh_viện/N Chợ_Rẫy/Np 7 0/M đồng/Nu tức/C chênh/V nhau/N 6,7/M lần/N
+Hay/C giá/N một/M dây/N truyền/V huyết_thanh/N tại/E Bệnh_viện/N Bạch_Mai/Np 3 5/M đồng/Nu còn/C ở/E Bệnh_viện/N Hữu_Nghị_Việt_Đức/Np 18 0/M đồng/Nu chênh/V nhau/N 4,8/M lần/N
+Giá/N hóa_chất/N các/L loại/N cũng/R chênh_lệch/A lớn/A giữa/E các/L bệnh_viện/N
+Một/M hộp/N Series_Retic_Pak/Np reagen/V kit/N 1x380/M ml/N +1 0/M ml/N tại/E Viện_Huyết/Np học/V Truyền/Np máu/N Trung_ương/N là/V 16 8 0/M đồng/Nu gấp/V 5,8/M lần/N giá/N tại/E Bệnh_viện/N Thống_nhất/V là/V 2 4 5/M đồng/Nu
+Tương_tự/A một/M thùng/N Diff_Timepac/Np 2x2075/M ml/N tại/E Viện_Huyết/Np học/V Truyền/Np máu/N Trung_ương/N có_giá/A đến/V 42 7 0/M đồng/Nu gấp/V 3/M lần/N mức/N giá/N tại/E Bệnh_viện/N Chợ_Rẫy/Np
+Giá/N một/M hộp/N Cleaning_Solution/Np /M Clean/Np A/N /M 1x500/M ml/N tại/E Bệnh_viện/N Hữu_nghị/A Việt_Đức/Np 5 7 0/M đồng/Nu gấp/V 3,1/M lần/N giá/N tại/E Bệnh_viện/N Chợ_Rẫy/Np

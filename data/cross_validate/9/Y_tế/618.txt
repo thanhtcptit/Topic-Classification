@@ -1,0 +1,24 @@
+Cô_gái/N Hà_Nội/Np kiện/V bệnh_viện/N làm/V hỏng/A ngực/N sau/N phẫu_thuật/V thẩm_mỹ/N
+Ngày/N 24/5/M Cục/N Quản/Np lý/N Khám/V chữa/V bệnh/N Bộ/N Y_tế/N cũng/R đề_nghị/V Sở/N Y_tế/N Hà_Nội/Np kiểm_tra/V xác_minh/V sự_việc/N được/V bệnh_nhân/N phản_ánh/V bệnh_viện/N chăm_sóc/V và/CC điều_trị/V bảo_đảm/V an_toàn/A cho/E người_bệnh/N
+Ngày/N 5/5/M nữ/N khách_hàng/N này/P đến/E Bệnh_viện/N Chuyên_khoa/N Phẫu_thuật/V Thẩm_mỹ/N Kim_Cương/Np A&/Np B/Np ở/E Hà_Nội/Np để/E làm_đẹp/V
+Số/N tiền/N chị/N phải/V đóng/V 13 0/M USD/Nu /V gần/A 300/M triệu/M đồng/Nu /A để/E nâng/V mũi/N và/CC nâng/V ngực/N trong/E đó/P riêng/A chi_phí/N nâng/V ngực/N 7 0/M USD/Nu
+Ca/N phẫu_thuật/V nâng/V ngực/N kéo_dài/V 7/M giờ/N diễn/V ra_vào/V ngày/N 13/5/M
+Hôm_sau/N cơ_sở/N làm_đẹp/V này/P cho/E chị/N xuất_viện/V song/C vì/E vẫn/R còn/R đau/V nên/C bệnh_nhân/N yêu_cầu/V được/R ở/V lại/R viện/N để/E theo_dõi/V tiếp/R
+Ngày/N 15/5/M chị/N ra/V viện/N
+Một/M tuần/N sau/A ngực/N chị/N bắt_đầu/V có/V biểu_hiện/N bầm/A dập/V vết/N mổ/V chảy_máu/V và/CC dịch/V đau_đớn/A
+Chị/N quay/V lại/R bệnh_viện/N và/CC được/V cắt/V chỉ/R một/M bên/N bác_sĩ/N hẹn/V 2/M ngày_sau/N cắt/V tiếp/R chỉ/R bên/N còn/V lại/R vì/E bị/V chảy_máu/V
+Hiện/N vết/N mổ/V của/E chị/N chưa/R lành/A và/CC vẫn/R còn/V đau/V
+Bệnh_nhân/N cho_biết/V đã/R nhiều/A lần/N liên_hệ/V với/E lãnh_đạo/N viện/N mà/C chưa_thể/R gặp/V được/R nên/C đã/R ủy_quyền/V cho/E một/M công_ty/N luật/N thay_mặt/V giải_quyết/V sự_việc/N
+Ngày/N 23/5/M chị/N đến/V viện/N khám/V lại/R và/CC được/V cho/V thuốc/N về/E uống/V tái/X khám/V hàng/R ngày/N
+Luật_sư/N Đoàn_Trọng_Bằng/Np đại_diện/N bệnh_nhân/N cho_biết/V đã/R gửi/V văn_bản/N đến/E bệnh_viện/N để/E yêu_cầu/V trả_lời/V
+Tối/N 23/5/M đại_diện/V bệnh_viện/N phản_hồi/V hẹn/V chiều/N 26/5/M đến/V làm_việc/V
+Tuy_nhiên/C luật_sư/N không/R đồng_ý/V vì/E mong_muốn/V bệnh_viện/N phải/V giải_quyết/V ngay/R và/CC cam_kết/V cụ_thể/A có/V phác_đồ/N điều_trị/V cũng_như/C hướng/N giải_quyết/V cho/E bệnh_nhân/N trong/E tình_huống/N xấu/A nhất/R
+Theo/E đại_diện/N bệnh_viện/N nữ/N khách_hàng/N này/P đã/R được/V nâng/V ngực/N bằng/E cách/N đưa/V túi/N ngực/N trực_tiếp/A vào/V qua/E đường/N mổ/V từ/E đầu/N nhũ/N hoa/N
+Ca/N phẫu_thuật/V do/E một/M bác_sĩ/N người/N Hàn_Quốc/Np thực_hiện/V
+Đại_diện/N bệnh_viện/N cho/V rằng/C hiện_tượng/N tụ/V máu/N vết/N mổ/V là/V do/E tổn_thương/N mao_mạch/N trong/E quá_trình/N phẫu_thuật/V và/CC hoàn_toàn/A bình_thường/A đặc_biệt/A với/E các/L ca/N đại_phẫu/A như/C nâng/V ngực/N
+Tình_trạng/N chảy/V dịch/N cũng/R là/V phản_ứng/N tự_nhiên/A của/E cơ_thể/N trong/E quá_trình/N giải_phóng/V dịch/N máu/N cũ/A ra/V ngoài/E
+Bệnh_viện/N cũng/R cho/V rằng/C phương_pháp/N phẫu_thuật/V với/E đường/N mổ/V từ/E đầu/N nhũ/N hoa/N thường/R làm/V tổn_thương/N mao_mạch/A hơn/R so/V với/E phương_pháp/N khác/A nên/C có_thể/R xuất_hiện/V các/L vết/N bầm/A tím/A
+Thông_thường/A khi/N mao_mạch/N hồi_phục/V vết/N bầm/A tím/A này/P sẽ/R mất/V đi_sau/A 20/M ngày/N đến/E một/M tháng/N tùy/V cơ_địa/N mỗi/M người/N
+Đại_diện/N bệnh_viện/N cũng/R khẳng_định/V hiện/N bệnh_nhân/N không/R có/V biến_chứng/N hay/C nhiễm_trùng/A không/R cần_thiết/A chỉ_định/V bất_cứ/R can_thiệp/V ngoại_khoa/N nào/P khác/A Theo/V biên_bản/N Thanh_tra/N Sở/N Y_tế/N Hà_Nội/Np làm_việc/V với/E lãnh_đạo/N bệnh_viện/N ngày/N 23/5/M cơ_sở/N thẩm_mỹ/N đã/R theo_dõi/V vết/N mổ/V cho/E khách_hàng/N hàng/N ngày/N từ/E khi/N cô/N được/V nâng/V mũi/N và/CC ngực/N đến/E ngày/N 21/5/M
+Thanh_tra/N yêu_cầu/V bệnh_viện/N tiếp_tục/V chăm_sóc/V và/CC điều_trị/V cho/E bệnh_nhân/N giải_quyết/V những/L thắc_mắc/N
+Trong/E trường_hợp/N có/V biến_chứng/N liên_quan/V đến/E phẫu_thuật/V bệnh_viện/N cần/V tổ_chức/V hội_chẩn/N chuyển/V tuyến/N cho/E bệnh_nhân/N nếu/C cần_thiết/A và/CC báo_cáo/V thanh_tra/N Sở/N Y_tế/N

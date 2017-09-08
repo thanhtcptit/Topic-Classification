@@ -1,0 +1,15 @@
+Có/V nên/C sử_dụng/V mạng/N Wi-Fi/Np không/R có/V mật_khẩu/N 
+Sau/E khi/N phân_tích/V thông_tin/N tại/E hơn/A 31/M triệu/M điểm/N phát/V Wi-Fi/Np trên/E toàn/N thế_giới/N hãng/N bảo_mật/V Kaspersky_Lab/Np nhận/V thấy/V ¼/M (/N 25%/M )/Nu điểm/N phát/V không/R an_toàn/A và/CC nguy_hiểm/A đối_với/E dữ_liệu/N cá_nhân/N người/N dùng/V 
+Điều/N này/P có_nghĩa/V rằng/C mọi/L lưu_lượng/N được/V chuyển_tải/V từ/E những/L mạng/N này/P bao_gồm/V tin/N nhắn/V mật_khẩu/V văn_bản/N đều/R có_thể/R bị/V những/L kẻ/N xấu/A lợi_dụng/V 
+Báo_cáo/V này/P cũng/R chỉ/R ra/V rằng/C 3%/M điểm/N phát/V sử_dụng/V chuẩn/N WEP/Np để/E mã_hóa/V dữ_liệu/N 
+Giao_thức/N không/R đáng/V tin_cậy/V này/P dễ_dàng/A bị/V bẻ_khóa/V chỉ/R trong/E vài/L phút/N bằng/E cách/N sử_dụng/V công_cụ/N miễn_phí/V trên/E Internet/Np 
+Gần/A ¾/M điểm/N phát/V Wi-Fi/Np còn/V lại/R sử_dụng/V hình_thức/N mã_hóa/V chắc_chắn/A hơn/R dựa/V trên/E giao_thức/N WPA/Np 
+Nỗ_lực/N để/E hack/V những/L mạng/N này/P tùy_thuộc/V vào/E cài_đặt/V bao_gồm/V độ/N mạnh/A của/E mật_khẩu/N 
+Ví_dụ/V nếu/C mật_khẩu/N yếu/A hoặc/CC dễ/A đoán/V được/R (/N ví_dụ/V như/C mật_khẩu/V trong/E quán/N café/V thường/R hay/C đặt/V một/M dãy/Nc số/N liên_tiếp/A hay/C một/M dãy/N số/N lặp/V )/A thì/C tội_phạm/N sẽ/R dễ_dàng/A giải_mã/V và/CC bất_kì/V thông_tin/N nào/P được/V chuyển_tải/V trên/E mạng/N này/P cũng/R đều/R không/R còn/V an_toàn/A 
+Điều/N đáng/V lưu_ý/V là/V top/N 20/M quốc_gia/N có/V tỷ_lệ/N điểm/N phát/V Wi-Fi/Np không/R mã_hóa/V cao/A nhất/R bao_gồm/V những/L điểm/N đến/V du_lịch/N nổi_tiếng/A như/C Thái_Lan/Np Pháp/Np Israel/Np Hoa_Kỳ/Np …/M Khách/N du_lịch/V là/V những/L người/N dễ/A bị/V tổn_hại/V nhất/A vì/E mạng/N Wi-Fi/Np gần/A họ/P nhất/A thường/R là/V cách/N duy_nhất/A để/E họ/P giữ/V kết_nối/V 
+Đồng_thời/R một/M nghiên_cứu/N khác/A cũng/R cho/V thấy/V chỉ/R 57%/M người/N dùng/V Internet/Np lo_ngại/V về/E việc/N dữ_liệu/N của/E mình/P sẽ/R bị/V tổn_hại/V khi/N sử_dụng/V mạng/N Wi-Fi/Np 
+Denis_Legezo/Np Chuyên_gia/N chống/V virus/N Kaspersky_Lab/Np lý_giải/V Chúng_tôi/P khuyên/V tất_cả/P người/N dùng/V hãy/R luôn/R cảnh_giác/V khi/N kết_nối/V Wi-Fi/Np 
+Không/R sử_dụng/V mạng/N không/R có/V mật_khẩu/N và/CC không/R sử_dụng/V mạng/N công_cộng/A cho/E những/L việc/N có/V mức_độ/N quan_trọng/A cao/A như/C giao_dịch/V ngân_hàng/N trực_tuyến/A hay/C mua_sắm/V đăng_nhập/V vào/E trang_web/N hay/C chuyển_tải/V những/L thông_tin/N nhạy_cảm/A 
+Nếu/C những/L thông_tin/N này/P bị/V bên/N thứ_ba/N chặn/V lại/R thì/C sẽ/R dẫn/V đến/E những/L tổn_thất/N nghiêm_trọng/A bao_gồm/V tổn_thất/N về/E tài_chính/N 
+Và/C lẽ/N dĩ_nhiên/A chúng_tôi/P khuyến_nghị/V sử_dụng/V nhiều/A biện_pháp/N để/E bảo_vệ/V thông_tin/N chẳng_hạn/X như/C công_nghệ/N VPN”/Np 
+Gia_Hưng_Theo_Business_Standard/Np 

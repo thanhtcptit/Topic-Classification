@@ -1,0 +1,24 @@
+Cẩn_trọng/A để/E tránh/V mất/V tiền/N oan/A trên/E App_Store/Np cho/E máy_tính/N Mac/Np 
+Trên/E các/L gian_hàng/N ứng_dụng/V trực_tuyến/A của/E Apple/Np hãng/N này/P đều/R có/V biện_pháp/N khá/R kịp_thời/A và/CC chặt_chẽ/A để/E loại_bỏ/V những/L ứng_dụng/N rác/N độc_hại/A cũng_như/C phê_duyệt/V các/L ứng_dụng/N mới/R đưa/V lên/R gian_hàng/N 
+Nhưng/C trên/E thực_tế/N việc/N kiểm_soát/V vẫn/R còn/R bỏ/V sót/V khá/R nhiều/A trường_hợp/N ứng_dụng/V gây/V tác_hại/V đối_với/E người/N dùng/V 
+Các/L nhà_phát_triển/N ứng_dụng/V dạng/N ăn/V sổi/N đã/R tìm/V được/R cách/N để/E đưa/V ứng_dụng/N trà_trộn/V vào/E chợ/N 
+Những/L ứng_dụng/N này/P có_thể/R không/R độc_hại/A về/E bản_chất/N nhưng/C mục_đích/N của/E chúng/P thường/R là/V đánh_lừa/V người/N dùng/V làm/V cho/E người/N dùng/V tưởng/V rằng/C đó/P là/V một/M ứng_dụng/N tốt/A của/E một/M thương_hiệu/N danh_tiếng/A và/CC bỏ/V tiền/N ra/R mua/V 
+Trang_How_To_Geek/Np đã/R phát_hiện/V ra/R phương_thức/N mà/C những/L nhà_phát_triển/N dạng/N này/P thực_hiện/V trên/E App_Store/Np cho/E máy_tính/N Mac/Np 
+Trang_web/N này/P đã/R chỉ/R ra/V rằng/C những/L nhà_phát_triển/N ứng_dụng/A này/P đã/R không_chỉ/R kiếm/V tiền/N bất_chính/A từ/E việc/N gây/V hiểu/V lầm/V cho/E người/N dùng/V mà_còn/C gây/V ảnh_hưởng/N lớn/A đến/E uy_tín/N của/E Apple/Np 
+Trên/E chợ/N ứng_dụng/V App_Store/Np cho/E máy/N Mac/Np cái/Nc tên/N Microsoft_Excel/Np là/V một/M ví_dụ/V hoàn_hảo/A vì/E có/V một_số/L lớn/A ứng_dụng/V được/R liệt_kê/V khiến/V người/N dùng/V tưởng/V là/V xịn/A nhưng/C thay/V vào/E đó/P chỉ/R là/V các/L add/N on/N yêu_cầu/V cài_đặt/V Microsoft_Excel/Np 
+Khi/N tìm_kiếm/V với/E từ_khóa/N Microsoft_Excel/Np hàng_loạt/N các/L ứng_dụng/N ăn_theo/V được/R hiển_thị/V 
+Đơn_cử/V như/C ứng_dụng/V Office_Bundle/Np giá/N 29/M USD/Nu sẽ/R xuất_hiện/V khi/N người/N dùng/V tìm_kiếm/V từ_khóa/N Microsoft_Excel/Np và/CC được/V mô_tả/V là/V cách/N dễ/A nhất/A để/E tạo/V ra/R các/L tài_liệu/N Word/Np bảng/N tính/V Excel/Np và/CC PowerPoint/Np chất_lượng/N cao/A 
+Tiếp_theo/V mô_tả/V đó/P là/V một/M danh_sách/N tính_năng/N tổng_quát/V của/E Microsoft_Office/Np và/CC một/M thông_điệp/N nhỏ/A ở/E phía/N dưới/N nói/V rằng/C i/N Office/Np không/R liên_quan/V gì/P đến/V Microsoft/Np cả/P 
+Phần_mềm/N này/P thực_sự/A chỉ/R là/V một/M gói/N template/N nhưng/C danh_sách/N của/E nó/P lại/R không/R hề/V nói_gì/V về/E việc/N phân_loại/V 
+Bên_cạnh/N đó/P Microsoft_Office_Suite/Np không/R có/V trên/N App_Store/Np cho/E Mac/Np và/CC nhiều/A người/N dùng/V có_thể/R sẽ/R không/R nhận/V ra_điều/N này/P 
+Lợi_dụng/V lỗ_hổng/N này/P hàng_loạt/N những/L gói/N template/N đã/R được/V đăng/V lên/R và/CC được/V ngụy_trang/V như/C các/L ứng_dụng/N của/E Microsoft/Np 
+Thậm_chí/R còn/R có/V các/L ứng_dụng/N được/V liệt_kê/V tính/V phí/N 20/M USD/Nu hoặc/CC nhiều/A hơn/R để/E cung_cấp/V phiên_bản/N trực_tuyến/A miễn_phí/V của/E Microsoft_Office/Np vào/E một/M trình_duyệt/N chuyên_dụng/A 
+Và/C để/E sử_dụng/V người/N dùng/V còn/R phải/V trả/V thêm/V cho/E các/L trình_soạn_thảo/N Office/Np với/E chữ/N Microsoft/Np trong/E tên/N của/E chúng/P dựa/V trên/E phần_mềm/N mã/N nguồn/N mở/V 
+Vấn_đề/N trên/A không_chỉ/R xuất_hiện/V với/E các/L ứng_dụng/N liên_quan/V đến/E Office/Np 
+Phương_pháp/N này/P được/V sử_dụng/V trên/E một/M loạt/Nc các/L thương_hiệu/N nổi_tiếng/A 
+Người/N dùng/V Mac/Np chỉ/R cần/V tìm_kiếm/V phần_mềm/N xuất_bản/V InDesign/Np khá/R nổi_tiếng/A của/E Adobe/Np và/CC họ/P sẽ/R không/R tìm/V thấy/V các/L công_cụ/N thực/A nhưng/C các/L gói/N video/N hướng_dẫn/V lại/R có/V biểu_tượng/N gần/A giống/N logo/N chính_thức/A InDesign/Np 
+Ngoài_ra/C khi/N tìm_kiếm/V Firefox/Np hoặc/CC Chrome/Np người/N dùng/V sẽ/R thấy/V phần_mềm/N đáng/V ngờ/V có/V tên/N Fast_Browser/Np giá/N 1/M usd/Nu 
+Báo_cáo/V của/E How_To_Geek/Np còn/R phát_hiện/V một_số/L ứng_dụng/N mà/C người/N dùng/V Mac/N hoàn_toàn/A không/R cần/V dùng/V đến/T 
+Nhìn_chung/N điểm/N cốt_lõi/N mà/C báo_cáo/V của/E How_To_Geek/Np muốn/V nói/V đến/T đó/P là/V những/L kẻ/N lừa_đảo/V đang/R ăn_theo/V các/L thương_hiệu/N chính_thống/A để/E thu_hút/V khách_hàng/N cả_tin/N và/CC lợi_dụng/V những/L khách_hàng/N này/P để/E kiếm/V tiền/N bất_chính/A 
+Có_lẽ/X Mac_App_Store/Np nên/C là/V dự_án/N tiếp_theo/V của/E Apple/Np khi/N hãng/N đã/R thanh_lọc/V các/L ứng_dụng/N trên/E App_Store/Np cho/E các/L thiết_bị/N i/V OS/Np 
+Phan_Tuấn_Theo_Digital_Trends/Np 

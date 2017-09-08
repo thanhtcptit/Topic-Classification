@@ -1,0 +1,18 @@
+Đàn_ông/N bị/V bệnh/N gút/V nên/C ăn/V gì/P
+Bệnh/N gút/N thường/R xảy_ra/V với/E nam_giới/N trung_niên/A /M tuổi/N 40-50/M /N chiếm/V 95%/M
+Những/L người/N có/V nguy_cơ/N cao/A là/C béo/A phì/A nghiện/V rượu/N cà_phê/N người/N có/V tiền_sử/N gia_đình/N bị/V bệnh/N gút/V  /M Gút/Np là/V một/M dạng/N của/E viêm/N khớp/N thường/R có/V những/L đợt/N kịch_phát/V tái_phát/V nhiều/A lần/N
+Bên_cạnh/N dùng/V thuốc/N chế_độ/N ăn/V cũng/R có/V vai_trò/N rất/R quan_trọng/A trong/E điều_trị/V cơn/Nc gút/N cấp_tính/A mạn_tính/A và/CC có/V tác_dụng/N làm/V giảm/V các/L cơn/N cấp/V
+Theo/E bác_sĩ/N Nguyễn_Văn_Tiến/Np Trung_tâm/N Giáo_dục/N Truyền_thông/N dinh_dưỡng/N Viện_Dinh/Np dưỡng/V Quốc_gia/Np người_bệnh/N gút/V nên/C sử_dụng/V thức_ăn/N ít/A chứa/V nhân/N purin/N như/C ngũ_cốc/N các/L loại/Nc hạt/N bơ/N mỡ/N đường/N trứng/N sữa/N phomat/N rau_quả/N hạn_chế/V thức_ăn/N chứa/V nhiều/A axit/N uric/V như/C thịt/N cá/N hải_sản/N gia_cầm/N óc/N gan/N bầu_dục/N đậu/N đỗ/V
+Tuyệt_đối/A không/R uống/V rượu/N bia/N cà_phê/N chè/N vì/E nó/P làm/V giảm/V khả_năng/N bài_xuất/V axit/N uric/V qua/V thận/N hậu_quả/N là/V làm/V tăng/V lactat/N máu/N
+Bên_cạnh/N đó/P cần/V duy_trì/V cân/N nặng/A hợp_lý/A nếu/C người/N thừa/V cân/A và/CC béo/A phì/A không/R nên/V giảm/V cân/A quá/R nhanh/A
+Tăng_cường/V đào_thải/N axit/V uric/V qua/V thận/N bằng/E cách/N uống/V nhiều/A nước/N không/R ăn/V thức_ăn/N có/V vị/N chua/N /M quả/Nc chua/N dưa/N chua/N cà/N muối/N /EOS
+Các/L thực_phẩm/N không/R nên/V ăn/V Thực_phẩm/N có/V nhiều/A purin/N Không/R uống/V rượu/N bia/N cà_phê/N chè/N
+Không/R ăn_uống/V thực_phẩm/N /A rau_quả/N /A có/V vị/N chua/N vì/E làm/V tăng/V axit/N máu/N
+Không/R ăn/V phủ_tạng/N động_vật/N nước/N luộc/V thịt/N nước/N sườn/N cá/N hộp/N thịt/N hộp/N
+Không/R ăn/V chế_phẩm/N có/V cacao/N chocolate/N
+Các/L thực_phẩm/N ăn/V với/E số_lượng/N vừa_phải/N /M ăn/V hạn_chế/V /M Thịt/Np cá/N các/L loại/N hải_sản/N gia_cầm/N đậu/N đỗ/V
+Các/L thực_phẩm/N nên/C ăn/V Uống/V đủ/A nước/N 2/M 2,5/M lít/Nu một/M ngày/N nên/C uống/V nước_khoáng/N nước/N rau/N
+Sữa/Np rau/N xanh/A quả/N chín/M ngũ_cốc/N /V gạo/N ngô/N khoai/N …/N /A có_thể/R sử_dụng/V với/E tỷ_lệ/N nhiều/A hơn/R bình_thường/A một_chút/N
+Giảm/V lượng/N đạm/N trong/E khẩu_phần/N Tổng_lượng/N thịt/N hoặc/CC cá/N …/V đạm/N động_vật/N đậu/N đỗ/V khoảng/A 150/M g/Nu một/M ngày/N
+Nên/C ăn/V đa_dạng/A các/L loại/N thực_phẩm/N để/E bổ_sung/V các/L chất/N dinh_dưỡng/N cần_thiết/A
+Cách/V tính/V các/L thực_phẩm/N tương_đương/A như/C sau/N Lượng/N đạm/N trong/E 100/M g/Nu thịt/N =/A 180/M g/Nu đậu_phụ/N =/A 70/M g/Nu lạc/V hạt/N =/A 100/M g/Nu cá/N =/A 100/M g/Nu tôm/N

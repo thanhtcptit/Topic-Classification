@@ -1,0 +1,68 @@
+Bệnh_nhân/N tố/N phòng_khám/N chữa/V bệnh/N mập_mờ/N để/E rút/V tiền/N
+Phòng_khám/N đa_khoa/N Minh_Châu/Np số/N 297/M Trương_Công_Định/Np phường/N 3/M TP/Np Vũng_Tàu/Np tỉnh/N Bà/N Rịa/Np Vũng_Tàu/Np bị/V bệnh_nhân/N khiếu_nại/V và/N phản_ảnh/V về/V việc/N khám/V chữa/V bệnh/N mập_mờ/N đẩy/V giá/N lên/V để/E rút_tiền/V người_bệnh/N
+Anh/N HTV/Np
+ngụ/V tại/E huyện/N Long_Điền/Np tỉnh/N Bà/N Rịa/Np Vũng_Tàu/Np phản_ảnh/V ngày/N 194/M anh/N đến/V phòng_khám/N đa_khoa/N Minh_Châu/Np vì/E bị/V tiểu/V gắt/A tiểu/A buốt/N
+Mỗi/L ngày/N nói/V bệnh/N khác/A nhau/N
+Anh/N V/Np
+được/V hướng_dẫn/V siêu_âm/N xét_nghiệm/V máu/N nước_tiểu/N và/CC phải/V đóng/V 1080000/M đồng/Nu
+Theo/E anh/N V/Np cả/P bác/N sĩ/N siêu_âm/N và/CC bác/N sĩ/N lấy/V dịch/N niệu_đạo/N cho/V anh/N đều/R nói/V tiếng/N Trung_Quốc/Np
+Sau/E đó/P thông_qua/V người/N phiên_dịch/V anh/N V/Np
+được/V bác/N sĩ/N thông_báo/V anh/N bị/V viêm/N tuyến_tiền_liệt/N nặng/A và/CC sùi/N mào_gà/N
+Anh/N V/Np
+được/V thông_báo/V chữa/V bệnh/N sùi/N mào_gà/A bằng/A cách/N đốt/V và/N truyền/V dịch/N từ/E 7/M đến/E 10/M ngày/N với/E giá/N mỗi/M ngày/N từ/E 2/M triệu/M đồng/Nu trở/V lên/R
+Với/E bệnh/N viêm/N tuyến_tiền_liệt/N anh/N V/Np
+được/V ra/V giá/N thuốc/N nội/N 48/M triệu/N đồng/Nu thuốc/N ngoại/N 68/M triệu/M đồng/Nu
+Vì/E số/N tiền/N lớn/A nên/C anh/N V/Np
+chỉ/R đồng_ý/V chữa/V bệnh/N viêm/N tuyến_tiền_liệt/N với/E giá/N thuốc/N nội/N
+Anh/N V/Np
+đã/R được/V truyền/V dịch/N làm/V thủ_thuật/N thông/N tiểu/N
+Thế/T nhưng/C đơn/N thuốc/N anh/N V/Np
+phải/V trả/V cho/E phòng_khám/N này/P không/R phải/A 48/M triệu/N mà/N thành/V 6014300/M đồng/N
+Số/N tiền/N 48/M triệu/N chỉ/R là/V tiền/N phí/N tiểu_phẫu/N anh/N V/Np
+phải/V trả/V thêm/V tiền/N truyền/V dịch/N 3/M chai/N nước/N hơn/R 1/M triệu/M đồng/Nu
+Do/E không/R có/V đủ/A tiền/N anh/N V/Np
+chỉ/R đóng/V 4/M triệu/M đồng/Nu cho/E phòng_khám/N và/CC phải/V nợ/V hơn/R 2/M triệu/M đồng/Nu nên/N anh/N V/Np
+phải/V thế_chấp/V giấy_chứng_minh/N nhân_dân/N
+Như/C vậy/P tổng_cộng/N anh/N V/Np
+phải/V trả/V cho/E phòng_khám/N Minh_Châu/Np hơn/R 7/M triệu/M đồng/Nu
+Sáng/N hôm/N sau/A anh/N V/Np
+đem/V tiền/N đến/V phòng_khám/N Minh_Châu/Np trả/V để/E lấy/V lại/R chứng_minh/V nhân_dân/N
+Lúc/N này/P anh/N mới/R được/V trả/V kết_quả/N xét_nghiệm/N
+Và/C anh/N rất/R bất_ngờ/A khi/N biết/V chỉ/R bị/V viêm/V đường/N niệu_đạo/N
+Anh/N V/Np
+gặp/V bác/N sĩ/N để/V hỏi/V thì/C được/V trả_lời/V viêm/N tuyến_tiền_liệt/N và/CC viêm/N niệu_đạo/N là/V một/M
+Anh/N V/Np
+đi/V khám/V nơi/N khác/A thì/C được/V khẳng_định/V anh/N không/R bị/V bệnh/N sùi/N mào_gà/N còn/V bệnh/N viêm/N niệu_đạo/N của/E anh/N chỉ/V hết/V vài/L trăm_ngàn/N tiền/N thuốc/N
+Anh/N TTH/Np
+ngụ/N TP/Np Vũng_Tàu/Np kể/V cũng/R bị/V phòng_khám/N Minh_Châu/Np lấy/V đến/V gần/A 15/M triệu/N đồng/V cho/V việc/N cắt/V bao/N quy/N đầu/N
+Anh/N H/Np
+kể/V lúc/N đầu/N anh/N gọi/V điện/N đến/V phòng_khám/N để/V hỏi/V chi_phí/N cắt/V bao/N quy/N đầu/N thì/C được/V lễ_tân/N trả_lời/V nếu/C cắt/V bằng/E dao/N bình_thường/A thì/C hết/V hơn/A 1/M triệu/N còn/R cắt/V hiện_đại/A thì/C hơn/A 2/M triệu/M
+Nhưng/C khi/N anh/N đến/V bác/N sĩ/N nói/V tiếng/N Trung_Quốc/Np báo/V có/V 2/M dịch_vụ/N loại/N thường/A 38/M triệu/N
+loại/N tốt/A cắt/V bằng/E máy/N 68/M triệu/N
+Để/E chắc_chắn/A người_nhà/N anh/N H/Np
+hỏi/V lại/R 68/M triệu/N đã/R bao_gồm/V gì/P thì/C được/V trả_lời/V đã/R bao_gồm/V thay/V băng/N vệ_sinh/V trong/E 10/M ngày_sau/N khi/N tiểu_phẫu/V
+Thế/T nhưng/C sau/E khi/N tiểu_phẫu/N anh/N H/Np
+phải/V trả/V thêm/V 16/M triệu/N đồng_tiền/N thuốc/N và/CC gần/A 600000/M đồng_tiền/N lấy/V máu/N xét_nghiệm/V máu/N
+Chưa/R hết/V sau/E khi/N lột/V bao/N quy/N đầu/N ba/M ngày/N liên_tục/A anh/N H/Np
+đến/V thay/V băng/N phải/V trả/V tiền/N phí/N vệ_sinh/N thay/V băng/N mỗi/L lần/N gần/A 15/M triệu/N đồng/N cũng/R như/C phải/V trả/V hơn/R 500000/M đồng/Nu tiền/N thuốc/N về/V uống/V
+Tổng_cộng/N anh/N H/Np
+đã/R phải/V trả/V cho/E phòng_khám/N số/N tiền/N gần/A 15/M triệu/M đồng/Nu
+Bác/N sĩ/N đăng_kí/N không/R có_mặt/V
+Theo/E tìm_hiểu/V của/E Tuổi_Trẻ/Np phòng_khám/N đa_khoa/N Minh_Châu/Np thuộc/V Công_ty/N TNHH/Np dịch_vụ/N y_tế/N Minh_Châu/Np do/E ông/N Văn_Trung_Mậu/Np sinh/V 1984/M trú/N đường/N Sư_Vạn_Hạnh/Np P1/Np 0/M Q5/Np TPHCM/Np đứng_tên/V làm_chủ/N
+Tháng/N 42017/M phòng_khám/N Minh_Châu/Np được/V Sở/N Y/Np tế/V Bà/N Rịa/Np Vũng_Tàu/Np cấp/V giấy_phép/N hoạt_động/V
+Theo/E phụ_lục/N kèm/V theo/R giấy_phép/N hoạt_động/V phòng_khám/N Minh_Châu/Np đăng_kí/V 10/M người/N gồm/V bảy/M bác_sĩ/N một/M kĩ_thuật_viên/N một/M y/N sĩ/N và/CC một/M nhân_viên/N trong/E đó/P người/N chịu/V trách_nhiệm/N chuyên_môn/N là/V bác/N sĩ/N Lê_Thị_Diệu_Hồng/Np TPHCM/Np
+Cũng/R theo/V phụ_lục/N này/P tất_cả/N 10/M người/N của/E phòng_khám/N làm_việc/V từ/E 7h/M 21h/N của/E cả/N 7/M ngàytuần/N và/CC không/R làm_việc/V nơi/N khác/A
+Tuy_nhiên/C mới_đây/N chiều/N 85/M khi/N Phòng/N Y/N tế/N TP/Np Vũng_Tàu/Np kiểm_tra/V phòng_khám/N này/P thì/C tất_cả/N 10/M người/N đăng_kí/V đều/A vắng_mặt/V
+Phòng_khám/N chỉ/R có/V một/M bác/N sĩ/N không/R có/V tên/N trong/E danh_sách/N đăng_kí/N trực/V
+Ngoài_ra/C phòng_khám/N không/R có/V bảng/N niêm/N yết_giá/N công_khai/A không/R cập_nhật/V số_lượng/N bệnh_nhân/N theo/V quy_định/N
+Có/V bác_sĩ/N Trung_Quốc/Np không/R
+Ngày/N 125/M chúng_tôi/P đã/R liên_lạc/V với/E người/Nc đàn_ông/N tên/N B/Np
+được/V cho/V là/C trợ_lí/N của/E ông/N Văn_Trung_Mậu/Np để/V làm_việc/V
+Ông/N B/Np
+giới_thiệu/V chúng_tôi/N đến/V phòng_khám/N gặp/V ông/N Lê_Đức/Np
+Trong/E cuộc/N trao_đổi/V với/E chúng_tôi/P ông/Nc Đức/Np nói/V rằng/C người_làm/N siêu_âm/N là/V bác/N sĩ/N Trung_Quốc/Np để/E hỗ_trợ/V kĩ_thuật/N cho/V người/N Việt/Np
+Chiều/N 125/M khi/N vẫn/R còn/V thời_gian/N làm_việc/V ghi/V trong/E phụ_lục/N giấy_phép/N chúng_tôi/N yêu_cầu/V được/V gặp/V bác/N sĩ/N Lê_Thị_Diệu_Hồng/Np thì/C được/V trả_lời/V không/R có_mặt/V
+Tiếp/V đó/P chúng_tôi/N yêu_cầu/V gặp/V bác/N sĩ/N Hồ_Lê_Ân/Np người/N có/V tên/N trong/E danh_sách/N phụ_trách/V khám/V chữa/V bệnh/N chuyên/N khoa_ngoại/V thì/C được/V báo/V bác/N sĩ/N này/P đã/R nghỉ_việc/V từ/E hôm_qua/N tức/V ngày/N 115/M
+Chiều/N 155/M chúng_tôi/N liên_lạc/V với/E ông/N Mậu/Np
+Khi/N được/V hỏi/V vì_sao/N có/V bác/N sĩ/N Trung_Quốc/Np trong/E phòng_khám/N Minh_Châu/Np ông/Nc Mậu/Np nói/V đó/P là/V chuyện/N bình_thường/A
+Sau/E đó/P ông/Nc Mậu/Np lại/R nói/V mập_mờ/A lúc/N nói/V có/V 2/M bác/N sĩ/N Trung_Quốc/Np đang/R xin/V phép/V lúc/N nói/V chưa/R có/V bác/N sĩ/N Trung_Quốc/Np khi/N lại/R nói/V bác/N sĩ/N Trung_Quốc/Np đã/R được/V cấp/V phép/N rồi/N

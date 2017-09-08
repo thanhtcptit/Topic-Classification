@@ -1,0 +1,19 @@
+Trẻ/A dễ/A sống/V thực_vật/N vì/E viêm/N não/N Nhật_Bản/Np
+Ngày/N 26/6/M Bệnh_viện/N Nhi_đồng/N 1/M /Nu TP_HCM/Np /M đang/R có/V 6/M trẻ/N thở/V máy/N vì/E viêm/N não/N Nhật_Bản/Np
+Từ/E đầu/N năm/N nơi/N này/P tiếp_nhận/V 25/M ca/N dương_tính/A với/E viêm/N não/N Nhật_Bản/Np chiếm/V 50%/M số/N ca/N bệnh/N viêm/N não/N của/E khoa/N
+Lượng/N bệnh_nhân/N thở/V máy/N nhiều/A hơn/A di_chứng/N nhiều/A hơn/R năm/N trước/E
+Đôi_lúc/N  /M trẻ/N phải/V nằm/V tạm/A ở/E khoa/N Cấp_cứu/V vì/E khoa/N Nhiễm/Np không/R còn/V giường/N hồi_sức/V thở/V máy/N
+Bệnh/N thường/R gặp/V từ/E tháng/N 6/M đến/E tháng/N 10/M  /M Bác_sĩ/N Trương_Hữu_Khanh/Np Trưởng_Khoa_Nhiễm_Thần/Np kinh/V Bệnh_viện/N Nhi_đồng/N 1/M cho_biết/V đa_số/N trẻ/A viêm/V não/N Nhật_Bản/Np hôn_mê/V sâu/A và/CC phải/A thở/V máy/N  /V việc/N điều_trị/V vô_cùng/R vất_vả/A
+Tuy/C đã/R giảm/V được/R tỷ_lệ/V tử_vong/N nhưng/C vẫn/R chưa/R giảm/V được/R di_chứng/N  /M Khoảng/N 60%/M trẻ/N hồi_phục/V bình_thường/A 30%/M nguy_cơ/N di_chứng/N nặng_nề/A 10%/M có_thể/R tử_vong/V  /M Di_chứng/N thường/R gặp/V là/C trẻ/A thở/V máy/N kéo_dài/V viêm/V phổi/N khi/N xuất_viện/N trở_về/V có_thể/R sống/V đời/N thực_vật/N chậm/A phát_triển/V trí_tuệ/N động_kinh/N yếu/A liệt/A chi/V bác_sĩ/N Khanh/Np nhấn_mạnh/V
+Có/V nhiều/A trẻ/N phải/V lệ_thuộc/V máy/N thở/V cả/P năm/N vẫn/R chưa/R cai/V được/R
+Trẻ/A viêm/N não/N thường/R biểu_hiện/V ban_đầu/N giống/A với/E khá/R nhiều/A bệnh/N là/V sốt/V nhức/V đầu/N nôn/V ói/V
+Sau/E đó/P trẻ/A sẽ/R diễn_tiến/V co_giật/N hôn_mê/V đôi_khi/R tiến_triển/V nhanh/A ngay/T trong/E ngày/N đầu_tiên/A
+Theo/E bác_sĩ/N Khanh/Np  /N sau/E khi/N trẻ/N có/V dấu_hiệu/N thay_đổi/V tri_giác/N hôn_mê/V thì/C mới/R thực_hiện/V  /N xét_nghiệm/V để/E chẩn_đoán/V
+Cha_mẹ/N cần/V theo_dõi/V kỹ/A khi/N thấy/V trẻ/N sốt/V nôn/V ói/V càng/R lúc/N càng/R tăng/V thì_phải/N để_ý/V đến/E các/L dấu_hiệu/N thần_kinh/N để/E có_thể/R can_thiệp/V kịp_thời/A
+Trẻ/A cần/V vào/E viện/N để/E điều_trị/V thở/V máy/N sớm/A giúp/V hạn_chế/V di_chứng/N
+Ở/E miền/N Nam/Np viêm/N não/N Nhật_Bản/Np gặp/V nhiều/A ở/E Đồng_bằng/N sông/N Cửu_Long/Np
+Bệnh/N lây/V từ/E muỗi/N Culex/Np còn/C gọi_là/X muỗi/N ruộng/N qua/V trung_gian/A truyền/V bệnh/N là/V lợn/N chim/N nên/C thường/R xuất_hiện/V nhiều/A ở/E những/L vùng/N nông_thôn/N trồng/V lúa/N nuôi/V lợn/N
+Bệnh/N không/R lây/V từ/E người/N qua/V người/N
+Bác_sĩ/N Khanh/Np khuyến_cáo/N viêm/N não/N Nhật_Bản/Np rất/R nguy_hiểm/A nhưng/C có_thể/A phòng_ngừa/V bằng/E vắcxin/N cần/V chích/V đủ/A 3/M mũi/N
+Nhiều/A người/N chỉ/R chích/V 2/M mũi/N quên/V nhắc/V lại_mũi/N 3/M nên/C không/R hiệu_quả/N
+Tạo/V thói_quen/N ngăn_ngừa/V và/CC diệt/V muỗi/N

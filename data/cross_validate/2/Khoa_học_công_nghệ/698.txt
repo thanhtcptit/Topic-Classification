@@ -1,0 +1,19 @@
+Màng/V nano/N biến/V nước_mặn/N thành/V nước_ngọt/N siêu/Z hiệu_quả/N
+Trái_Đất/Np là/V một/M hành_tinh/N đầy/A nước/N nhưng/C lại/R có/V rất/R ít/A nước/N uống/V được/R giáo_sư/N Narayana_Aluru/Np chuyên_ngành/N khoa_học/N và/CC kỹ_thuật/N cơ_khí/N Đại_học/N Illinois/Np trưởng/N nhóm/N nghiên_cứu/V cho_biết/V
+Nếu/C chúng_ta/P có_thể/R tìm/V ra/R một/M phương_pháp/N lọc/V nước_biển/N với/E giá/N rẻ/A có_thể/R giải_quyết/V được/R cuộc/N khủng_hoảng/V nước/N
+Theo/E Sciencealert/Np loại/Nc vật_liệu/N mới/R cho/V các/L phân_tử/N nước/N đi/V qua/E các/L lỗ/N cực/N nhỏ/A gọi_là/X nanopores/N và/CC chặn/V lại/R muối/N cùng/A các/L chất/N bẩn/A khác/A
+Đây/P là/V một/M màng/N mỏng/A độ/N dày/A cỡ/N nanomet/V chế_tạo/V bằng/E vật_liệu/N molybdenum/N disulphide/V MoS2/Np với/E các/L lỗ/N nanopores/V
+Molybdenum_Mo/Np là/V một/M kim_loại/N chuyển_tiếp/V rất/R cứng/A và/CC có/V màu/N trắng/A bạc/N
+Màng/V này/P có/V tác_dụng/N lọc/V nước_mặn/N hiệu_quả/N nhất/A trong/E số/N các/L màng/N mỏng/A nano/N hiện_nay/N cao/A hơn/R màng/V graphene/N 70%/M
+MoS2/M có_thể/R đáp_ứng/V được/R yêu_cầu/V trên/E cả/P về/E tiết_kiệm/V năng_lượng/N và/CC chi_phí/N vận_hành/V hệ_thống/N khử/N mặn/A
+Quá_trình/N khử/V mặn/A thông_thường/A dựa/V trên/E nguyên_lý/N thẩm_thấu/V ngược/A khi/N cho/V dòng/N nước_biển/N đi/V qua/V một/M màng/N nhựa/N mỏng/A
+Tuy_nhiên/C cách/N làm/V này/P có/V một_số/L nhược_điểm/N
+Kích_thước/N micro/N của/E các/L màng/N vẫn/R là/V quá/R lớn/A nếu/C so/V với/E nano/N gấp/V 1/M 000/M lần/N nghĩa_là/X cần/V đẩy/V dòng/N nước_biển/N với/E một/M áp_suất/N lớn/A hơn/R cần/V nhiều/A năng_lượng/N hơn/A để/E hoạt_động/V
+Chúng/P cũng/R dễ/A bị/V tắc_nghẽn/V làm/V tăng/V chi_phí/N bảo_trì/V
+Với/E màng/N nano/N MoS2/M nước_biển/N có_thể/R đi/V qua/R dễ_dàng/A hơn/R làm/V giảm/V hoặc/CC mất/V hẳn/R các/L nhược_điểm/N trên/E
+Ngoài_ra/C theo/E cấu_tạo/N phân_tử/V MoS2/M nguyên_tử/N Mo/Np nằm/V ở/E trung_tâm/N sẽ/R hút/V nước/N trong/E khi/N lưu_huỳnh/V S/Np thì/C đẩy/V theo/E cùng/A hướng/N làm/V cho/E tốc_độ/N nước/N đi/V qua/V nanopore/N tăng/V
+Nó/P kết_hợp/V cả/P tính_chất/N hóa_học/N của/E MoS2/Np và/CC dạng_hình/N học/V của/E nanopore/N
+Nhờ/E đó/P chúng_ta/P không/R cần/V phải/V chức_năng/N hóa/V các/L lỗ/N nanopore/V quá_trình/N cực_kỳ/R phức_tạp/A với/E màng/N graphene/N Mohammad_Heiranian/Np tác_giả/N chính/A của/E nghiên_cứu/N cho_biết/V
+Các/L nhà_nghiên_cứu/N sẽ/R bắt_tay/V với/E các/L hãng/N sản_xuất/V để/E đưa/V công_nghệ/N này/P vào/V cuộc_sống/N
+Họ/P tự_tin/V có_thể/R sản_xuất/V hàng_loạt/N ở/E quy_mô/N công_nghiệp/N
+Nghiên_cứu/V được/R công_bố/V trên/E tạp_chí/N Nature_Communications/Np hôm/N 14/10/M

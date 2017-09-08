@@ -1,0 +1,9 @@
+Triệu_tập/N đối_tượng/N xe_ôm/V chặt/A chém/N khách/N Tây/Np
+Đòi/V 500000/M đồng/Nu để/E chở/V khách/N từ/E bờ/N hồ/N Hoàn_Kiếm/Np về/V đường/N Đào_Tấn/Np nhưng/C du_khách/N Úc/Np không/R đồng_ý/V lái/N xe_ôm/N đã/R ép/V khách/N trả/V 100000/M đồng/Nu cho/V đoạn/N đường/N 900m/N từ/E Hàng_Đào/Np đến/V Hàng_Bông/Np
+Ngày/N 296/M Công_an/N quận/N Hoàn_Kiếm/Np Hà_Nội/Np cho/V biết/V đã/R triệu/N tập/V Nguyễn_Văn_Thanh/Np 58/M tuổi/N ở/E Bạch_Đằng/Np QH/Np oàn/V Kiếm/V đối/N tượng/N được/V xác_định/V là/V người/N hành_hung/V chặt/A chém/N một/M du_khách/N Úc/Np
+Theo/E đó/P sáng/N 246/M ông/N Amin_Goshti/Np 50/M tuổi/N quốc_tịch/N Australia/Np đi/V bộ/N ra/E khu_vực/N bờ/N hồ/N Hoàn_Kiếm/Np để/V đón/V xe_ôm/N về/V nhà/N ở/V quận/N Ba_Đình/Np
+Khi/N ông/N Amin_Goshti/Np trả_giá/V Thanh/Np xoè/V 5/M ngón/N tay/N ông/N Amin_Goshti/Np nghĩ/V số/N tiền/N phải/V trả/V cho/R đoạn/N đường/N 50000/M đồng/Nu nên/N đã/R đồng_ý/V
+Đến/E phố/N Hàng_Bông/Np ông/N Amin_Goshti/Np yêu_cầu/V dừng/V xe/N lại/R để/E hỏi/V rõ/A số/N tiền/N từ/E bờ/N hồ/N Hoàn_Kiếm/Np về/V Đào_Tấn/Np thì/C lái/V xe_ôm/N cho/V biết/V là/V 500000/M đồng/N nên/C ông/N không/R đồng_ý/V
+Thanh/Np đã/R ép/V ôm/V Amin_Goshti/Np trả/V 100000/M đồng/Nu cho/V đoạn/N đường/N từ/E Hàng_Đào/Np đến/V Hàng_Bông/Np với/E khoảng_cách/N chỉ/N 900m/M
+Quá/V bức_xúc/A vì/E bị/V chặt/V chém/N ông/N Amin_Goshti/Np chụp/V ảnh/N lại/R biển/N số/N xe/N thì/C bị/V Thanh/Np lao/V vào/V hành_hung/N
+Sau/E khi/N bị/V triệu_tập/V lên/R cơ_quan/N công_an/N Thanh/Np đã/R thừa/V nhận/V hành_vi/N của/N mình/N

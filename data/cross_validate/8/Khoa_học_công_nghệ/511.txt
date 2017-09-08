@@ -1,0 +1,27 @@
+Robot/Np ong/V quét/V mắt/N laser/N như/C trong/E trò_chơi/N điện_tử/N
+Theo/E Live_Science/Np  /V các/L nhà_nghiên_cứu/N đang/R phát_triển/V robot/N bay/V nhỏ/A như/C loài/Nc ong/N được/V đặt/V tên/N là/V RoboBees/Np
+Trong/E tương_lai/N gần/A loại/Nc robot/N này/P sẽ/R được/V dùng/V để/E thụ_phấn/V cho/E cây_trồng/N hay/C tìm_kiếm/V định_vị/V nạn_nhân/N trong/E thảm_họa/N hay/C thiên_tai/V
+Những/L đôi/M mắt/N laser/N này/P cũng/R có_thể/R làm/V trợ_thủ/N cho/E con_người/N trong/E điều_khiển/V điện_thoại/N thông_minh/A máy_tính/N bảng/N máy_tính_xách_tay/N và/CC thiết_bị/N di_động/V khác/A bằng/E cử_chỉ/N đơn_giản/A
+Nghiên_cứu/V trước_đây/N đã/R tạo/V ra/R những/L con/N ong/V con/N robot/V biết/V bay/V nối/V với/E dây_dẫn/N và/CC di_chuyển/V dưới/E nước/N
+Tuy_nhiên/C những/L robot/N này/P thiếu/V khả_năng/N nhận_biết/V môi_trường/N xung_quanh/N
+Đây/P là/V một/M rào_cản/N lớn/A bởi/E những/L robot/N này/P có_thể/R đâm/V vào/E tường/N hoặc/CC không_thể/R hạ_cánh/V chính_xác/A xuống/E cánh/N hoa/N
+Để/E giải_quyết/V thách_thức/N này/P các/L nhà_nghiên_cứu/N định/V trang_bị/V cho/E robot/N cặp/M mắt/N laser/N radar/V
+Công_nghệ/N này/P được/R gọi_là/X lidar/N có/V tác_dụng/N phát/V ra/R xung/N laser/N vô_hình/A thay_vì/V sóng_vô_tuyến/N
+Cảm_biến/N sẽ/R đo/V xem/V thời_gian/N ánh_sáng/N phản_xạ/N lại/R từ/E đó/P tính_toán/V khoảng_cách/N xác_định/V kích_thước/N hình_dáng/N của/E mục_tiêu/N hoặc/CC vật/N cản/V
+Thiết_bị/N này/P sử_dụng/V laser/N với/E cường_độ/N thấp/A an_toàn/A với/E người/N
+Công_nghệ/N của/E chúng_tôi/P rất/R giống/A với/E thiết_bị/N Kinect/Np của/E Microsoft/Np đi/V kèm/V với/E máy/N chơi/V game/N Xbox/Np có_thể/R cảm_nhận/V chuyển_động/V của/E bạn/N trong/E trò_chơi/N Karthik_Dantu/Np một/M nhà_khoa_học/N máy_tính/N tại/E Đại_học/N Buffalo/Np ở/E New_York/Np cho_biết/V
+Đây/P là/V công_nghệ/N cực_kỳ/A an_toàn/A tương_tự/A như/C những/L công_nghệ/N đang/R được/V ứng_dụng/V trong/E đời_thường/N
+Lidar/Np cũng/R là/V công_nghệ/N đang/R sử_dụng/V trong/E mẫu/N xe/N không/R người/N lái/V để/E tự_động/A điều/N hướng/N môi_trường/N xung_quanh/N
+Hệ_thống/N lidar/N này/P thường/R có/V kích_thước/N như/C đèn/N xe/N
+Về/V cơ_bản/A đó/P là/V công_nghệ/N tương_tự/A mà/C các/L hãng/N sản_xuất/V xe/N đang/R sử_dụng/V để/E đảm_bảo/V xe/N không/R người/N lái/V không/R đâm/V vào/E vật/N cản/V Dantu/Np cho_biết/V
+Khó_khăn/A là/C chúng_ta/P cần/V phải/V thu/V nhỏ/A công_nghệ/N đó/P để/E nó/P hoạt_động/V trên/E những/L con/Nc ong/N robot/V với/E kích_thước/N nhỏ/A cỡ/N một/M đồng/Nu xu/Nu
+Chuyên_gia/N máy_tính/N Sanjeev_Koppal/Np và/CC chuyên_gia/N cảm_biến/V Huikai_Xie/Np từ/E Đại_học/N Florida/Np sẽ/R chế_tạo/V các/L cảm_biến/N siêu/Z nhỏ/A để/E phát_hiện/V ánh_sáng/N phản_xạ/N
+Trong/E khi/N đó/P Dantu/Np sẽ/R lập_trình/V nhận_thức/V và/CC các/L thuật_toán/N điều/N hướng/N mới/A để/E giúp/V RoboBees/Np có_thể/R phân_tích/V và/CC lập/V bản_đồ/N môi_trường/N xung_quanh/N từ/E tín_hiệu/N ánh_sáng/N phản_xạ/N
+Về/V mặt/N cơ_bản/A lidar/N khai_thác/V tiếng_vang/N của/E một/M xung/N ánh_sáng/N Koppal/Np nói/V
+Bạn/N có_thể/A tưởng_tượng/V rằng/C tiếng_vang/A của/E một/M xung/N ánh_sáng/N rời/V khỏi/V nguồn/N phát/V va/V vào/E vật/N cản/V và/CC quay/V trở_lại/V trong/E khoảng/N thời_gian/N cực/A ngắn/A
+Nhanh_chóng/A phát_hiện/V tín_hiệu/N dội/V lại/R mà/C không/R dùng/V tới/E mạch/N điện/N phức_tạp/A đồng_thời/R phải/V có/V kích_thước/N rất/R nhỏ/A là/V một/M trong/E những/L thách_thức/N lớn/A đối_với/E chúng_tôi/P
+Các/L thiết_bị/N lidar/N siêu/Z nhỏ/A này/P chỉ/R nặng/A khoảng/N 56/M mg/Nu Koppal/Np nói/V
+Các/L nhà_nghiên_cứu/N hy_vọng/V sẽ/R phát_triển/V thành_công/V bộ/N cảm_biến/N này/P trong/E ba/M năm/N tới/V
+Sau/E đó/P hợp_tác/V với/E các/L nhà_khoa_học/N đại_học/N Havard/Np tích_hợp/V công_nghệ/N này/P vào/V Robobees/Np
+Công_nghệ/N lidar/N siêu/Z nhỏ/A sẽ/R không_chỉ/C dành/V cho/E robot/N trong/E tương_lai/N
+Nó/P có_thể/R ứng_dụng/V trong/E việc/N hỗ_trợ/V con_người/N tương_tác/V với/E các/L thiết_bị/N di_động/V sử_dụng/V  /M giao_thức/N tự_nhiên/A như/C Kinect/Np của/E Microsoft/Np biết/V phát_hiện/V cử_chỉ/N mà/C người/N điều_khiển/V thực_hiện/V

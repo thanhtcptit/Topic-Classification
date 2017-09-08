@@ -1,0 +1,26 @@
+Nhiều/A chủ/N thẻ/N ATM/Np bị/V rút/V sạch/A tiền/N lúc/N nửa_đêm/N
+Cứ/R vào/V nửa_đêm/N ngân/N hàng_không/N còn/R làm_việc/V tiền/N trong/E tài_khoản/N của/E một_số/L người/N lại/R không_cánh_mà_bay/X dù/C thẻ/N ATM/Np của/E bạn/N vẫn/R yên_vị/V trong/N ví/N
+Thủ_phạm/N không/R phải/A ma/A mà/C là/V tội_phạm/N
+Anh/N Trương_Kiến_An/Np Q1/Np 0/M TPHCM/Np chủ/N thẻ/N ngân/V hàng/N Agribank/Np cho/V biết/V ngày/N 56/M khi/N đang/R đi/V công_tác/V tại/E Bình_Phước/Np anh/N cần/V rút_tiền/V nhưng/C khi/N vừa/R đưa/V thẻ/N vào/V máy/N ATM/Np thì/C máy/N nuốt/V luôn/R thẻ/V
+Mất/V tiền/N do/E chủ_quan/N về/V bảo_mật/V
+Tôi/P đã/R vào/V chi_nhánh/N ngân_hàng/N Agribank/Np để/V hỏi/V thì/C nhân_viên/N nói/V thẻ/N của/E tôi/P trong/E diện/N bị/V sao_chép/V dữ_liệu/N nói/V tài_khoản/N không/R còn/V tiền/N anh/N An/Np cho/V biết/V
+Từ/E đầu/N tháng/N 6/M đến/E nay/N anh/Nc An/Np đã/R khiếu_nại/V Agribank/Np hai/M lần/N một/M lần/N là/V ở/E chi_nhánh/N Bình_Phước/Np và/CC một/M lần/N ở/V chi_nhánh/N tại/E TPHCM/Np tuy_nhiên/N vẫn/R chưa/R được/V giải_quyết/V
+Cũng/R theo/V anh/N An/Np theo/V dữ_liệu/N mà/C ngân_hàng/N cung_cấp/V thì/C thẻ/N của/E anh/N đã/R bị/V kẻ_gian/V rút/V lúc/N 0h32/M ngày/N 16/M
+Có/V ba/M giao_dịch/N rút/V
+Tuy_nhiên/C do/C không/R đăng_kí/V dịch_vụ/N thông_báo/V số_dư/V qua/R tin_nhắn/V nên/C tôi/N không/R biết/V bị/V rút/V hết/V tiền/N anh/N An/Np nói/V thêm/V
+Trả_lời/V Tuổi_Trẻ/N chiều/N 37/M đại_diện/N ngân_hàng/N Agribank/Np TPHCM/Np cho/V biết/V đã/R tiếp_nhận/V phản_ảnh/N của/E anh/N An/Np và/CC đang/R giải_quyết/V
+Do/E thẻ/N bị/V rút/V tại/E máy/N ATM/Np của/E NH/Np khác/A nên/V Agribank/Np phải/V phối_hợp/V với/E ngân_hàng/N thanh_toán/N để/E tra/V soát/N đại_diện/V Agribank/Np khẳng_định/V
+Cẩn_trọng/N mật_khẩu/N
+Trước/E đó/P từng/R có/V nhiều/A chủ/N thẻ/N tại/E các/L ngân_hàng/N khác/A cũng/R bị/V mất/V tiền/N lúc/N nửa_đêm/N
+Theo/E các/L chuyên_gia/N kẻ_gian/N hiểu/V rõ/A quy_định/N của/E ngân_hàng/N nên/C thường/R chọn/V thời_điểm/N gần/A 12h/M đêm/N để/E có_thể/R rút/V số/N tiền/N tối_đa/A cho/V phép/N của/E hai/M ngày/N
+Thời_điểm/N này/P thường/R chủ/N thẻ/N cũng/R đang/R ngủ/V không/R xem/V tin_nhắn/N báo/N thay_đổi/V số_dư/N nên/C không_thể/R phát_hiện/V ngay/R bị/V mất/V tiền/N
+Các/L ngân_hàng/N đã/R liên_tục/V đưa/V ra/R những/L khuyến_cáo/N về/V mật_khẩu/N và/CC cả/N biện_pháp/N để/V đối_phó/V
+Chẳng_hạn/N Eximbank/Np vừa/R đưa/V ra/R quy_định/N mật_khẩu/N đăng_nhập/N ngân/V hàng/N điện_tử/N buộc/V phải/V dài/A tối_thiểu/A 8/M kí_tự/N bao_gồm/V cả/P kí_tự/N chữ/N và/CC số/N có/V chứa/N chữ/N hoa/N và/CC chữ/N thường/A hoặc/N các/L kí_tự/N đặc_biệt/A
+Hiệu_lực/N của/E mật_khẩu/N cũng/R giới_hạn/V tối_đa/A 90/M ngày/N trường_hợp/N nhập/V sai/N mật_khẩu/N 5/M lần/N hoặc/N quên/V mật_khẩu/N tài_khoản/N sẽ/R bị/V khoá/N và/CC người_dùng/V phải/V liên_hệ/V trực_tiếp/A ngân_hàng/N để/E mở/V lại/N
+Trước/E đó/P Agribank/Np cũng/R buộc/V phải/V áp_dụng/V biện_pháp/N giới_hạn/V thời_gian/N hoạt_động/V của/E một_số/N ATM/Np ở/E những/L khu_vực/N không/R đảm_bảo/V an_ninh/N nhằm/V tránh/V việc/N tội_phạm/N lợi_dụng/V các/L cây/N ATM/Np để/E rút_tiền/V lúc/N nửa_đêm/N
+ATM/Np Agribank/Np lại/R ngừng/V giao_dịch/V để/V nâng_cấp/V
+Anh/N Trịnh_Nam_Phát/Np ngụ/V QT/Np ân/V Phú/Np một/M chủ/N thẻ/N của/E Agribank/Np phản_ảnh/N do/E cần/V tiền/N gấp/A ngày/N 17/M anh/N đã/R đi/V rút_tiền/V ở/E hàng_loạt/N máy/N ATM/Np của/E Agribank/Np trên/E địa_bàn/N quận/N Tân_Bình/Np và/CC Tân_Phú/Np nhưng/C không_thể/R giao_dịch/V được/R
+Sáng/N 17/M anh/N cũng/R đến/V trực_tiếp/A chi_nhánh/N Agribank/Np cùng/A nhiều/A khách/N hàng/N khác/A anh/N không_thể/R rút/V được/R tiền/N
+Không_chỉ/C vậy/P nếu/C đem/V thẻ/N ATM/Np của/E Agribank/Np đi/V rút/V tại/E máy/N ATM/Np của/E NH/Np khác/A cũng/R không/R được/V các/L khoản/N tiền/N chuyển_khoản/V từ/E cuối/N ngày/N 306/M cũng/N bị/V treo/V
+Trả_lời/V vấn_đề/N này/P đại_diện/N Agribank/Np tại/E TPHCM/Np xác_nhận/V thời_điểm/N trên/E các/L giao_dịch/N bị/V gián_đoạn/V do/E ngân_hàng/N nâng_cấp/V hệ_thống/N và/CC đến/E nay/N các/L máy/N ATM/Np của/E Agribank/Np đã/R giao_dịch/V bình_thường/A
+Agribank/Np đang/R nâng_cấp/V bảo_đảm/V an_ninh/N hệ_thống/N và/CC tới/V đây/P sẽ/R tiếp_tục/V nâng_cấp/V phần_mềm/N để/E đảm_bảo/V an_toàn/A cho/E ngân_hàng/N và/CC người_dùng/V thẻ/N

@@ -1,0 +1,15 @@
+Chiến_binh/N robot/N siêu/Z nhỏ/A tìm/V diệt/V tế_bào/N ung_thư/N
+Theo/E Phys/Np org/V trong/E nghiên_cứu/N được/V  /V công_bố/V trên/E tạp_chí/N Nature_Nanotechnology/Np hôm/N 15/8/M  /Nu các/L nhà_khoa_học/N từ/E Đại_học/N Bách_khoa/N Montréal/Np và/CC Đại_học/N McGill/Np Canada/Np tìm/V ra/R phương_pháp/N sử_dụng/V robot/N sinh_học/N chỉ/R nhỏ/A bằng/E cỡ/N phân_tử/V mang/V trên/E mình/P thuốc/N đặc_trị/V len_lỏi/V trong/E các/L mạch_máu/N để/E tìm/V đến/E tiêu_diệt/V tế_bào/N ung_thư/N
+Phương_pháp/N sử_dụng/V robot/N mang/V thuốc/N đảm_bảo/V hiệu_quả/N tối_đa/A đối_với/E  /M khối_u/N  /V mục_tiêu/N hạn_chế/V gây/V nguy_hiểm/A cho/E các/L cơ_quan/N cũng_như/C mô/P khỏe_mạnh/A xung_quanh/N  /A Đây/P được/V coi/V là/V một/M bước/N đột_phá/V ngoạn_mục/A trong/E nghiên_cứu/N điều_trị/V ung_thư/N
+Những/L quân_đoàn/N chiến_binh/N robot/V nano/N thực_ra/A là/V hơn/A 100/M triệu/N vi_khuẩn/V roi/N có/V khả_năng/N tự/P di_chuyển/V và/CC nạp/V đầy/A thuốc/N
+Chúng/P di_chuyển/V theo/E con/Nc đường/N ngắn/A nhất/A giữa/E điểm/N tiêm/V thuốc/N tới/E khu_vực/N có/V tế_bào/N ung_thư/N giáo_sư/N Sylvain_Martel/Np chủ_tịch/N Hội_đồng/N nghiên_cứu/V robot/N nano/V y_học/N kiêm/V giám_đốc/N Phòng_thí_nghiệm/N Nanorobotics_Đại/Np học/V Bách_Khoa_Montréal/Np giải_thích/V
+Các/L robot/N sinh_học/N này/P có_thể/R mang/V thuốc/N thâm_nhập/V sâu/A vào/E bên/N trong/N khối_u/N
+Ngoài_ra/C robot/N sinh_học/N có_thể/A tự_động/A phát_hiện/V khu_vực/N tế_bào/N ung_thư/N đang/R phát_triển/V thông_qua/V cơ_chế/N đặc_biệt/A tên/N hypoxic/V zone/N
+Hypoxic/Np zone/V là/V các/L vùng/N thiếu/A oxy/N do/E  /N các/L tế_bào/N ung_thư/N phát_triển/V thường/R  /N tiêu_thụ/V  /N oxy/N  /A quá/R mức/N
+Các/L robot/N tự_động/A phát_hiện/V những/L nơi/N cạn_kiệt/V oxy/N và/CC mang/V thuốc/N tới/V đúng/A địa_chỉ/N
+Hiện_nay/N khu/N hypoxic/N zone/V không_thể/R tiếp_cận/V và/CC điều_trị/V bằng/E phương_pháp/N thông_thường/A bao_gồm/V xạ_trị/V
+Để/E di_chuyển/V robot/N sinh_học/N của/E nhóm/N Martel/Np dựa/V trên/E hai/M cơ_chế/N tự_nhiên/A
+Một/M loại/Nc la_bàn/N được/R tạo/V ra/R bằng/E cách/N tổng_hợp/V chuỗi/Nc hạt/N nano/V từ/E cho_phép/V chúng/P di_chuyển/V theo/E hướng/N của/E từ_trường/N điều_khiển/V bằng/E máy_tính/N
+Trong/E khi/N đó/P một/M cảm_biến/N đo/V nồng_độ/N oxy/N cho_phép/V chúng/P săn_tìm/V khu_vực/N hypoxic/V zone/N
+Bằng/Np cách/V khai_thác/V hai/M cơ_chế/N này/P các/L nhà_khoa_học/N chỉ/R ra/V vi_khuẩn/N roi/N hoàn_toàn/A có_thể/A hoạt_động/V như/C những/L robot/N sinh_học/N nhân_tạo/A ứng_dụng/V trong/E nhiều/A lĩnh_vực/N
+Hóa_trị/N vốn/N độc_hại/A cho/E toàn_bộ/L cơ_thể/N có_thể/R được/V thay_thế/V bằng/E robot/N sinh_học/N mang/V thuốc/N đến/E đúng/A vị_trí/N khối_u/N giúp/V loại_bỏ/V tác_dụng/N phụ/V có/V hại/V đồng_thời/R tăng_cường/V hiệu_quả/N điều_trị/V giáo_sư/N Martel/Np cho_biết/V

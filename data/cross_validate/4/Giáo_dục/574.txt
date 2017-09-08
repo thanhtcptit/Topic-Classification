@@ -1,0 +1,12 @@
+10/M địa_phương/N có/V điểm/N thi/V Ngoại_ngữ/N cao/A nhất/R
+Năm/N 2017/M cả/P nước/N có/V hơn/A 756 0/M thí_sinh/N dự/V thi/V môn/N Ngoại_ngữ/N gồm/V tiếng/N Anh/Np Pháp/Np Nga/Np Đức/Np Nhật/Np Trung_Quốc/Np trong/E đó/P tiếng/N Anh/N chiếm/V đa_số/N
+Đây/P là/V con_số/N dự/V thi/V cao/A nhất/R từ/E trước/N đến/E nay/N bởi/E Ngoại_ngữ/N trở_thành/V môn/N thi/V bắt_buộc/V để/E xét/V tốt_nghiệp/V chứ/C không/R phải/V môn/N tự/P chọn/V như/C trước/N  /EOS
+/M Nhấp/Np vào/E thanh/N điểm/N trung_bình/A của/E từng/R địa_phương/N để/E xem/V số_liệu/N cụ_thể/A /V Với/E lợi_thế/N đô_thị/N tiếp_xúc/V với/E ngoại_ngữ/N nhiều/A TP_HCM/Np Hà_Nội/Np Đà_Nẵng/Np Bà/N Rịa/Np Vũng_Tàu/Np đã/R góp_mặt/V trong/E top/N 10/M địa_phương/N có/V điểm/N trung_bình/A cao/A nhất/R
+Cụ_thể/A TP_HCM/Np đứng/V đầu/N với/E 5,9/M điểm/N Bà/N Rịa/Np Vũng_Tàu/Np xếp/V thứ_ba/N với/E 5,1/M Hà_Nội/Np xếp/V thứ/N 4/M với/E 5/M điểm/N Đà_Nẵng/Np xếp/V thứ/N 6/M với/E 4,95/M điểm/N
+Trừ/V TP_HCM/Np có/V điểm/N trung_bình/A đạt/V gần/A 6/M điểm/N 9/M địa_phương/N còn/V lại/R trong/E top/N 10/M chỉ/R đạt/V từ/E 4,8/M đến/E 5,1/M điểm/N  /A Tuy/C
+điểm/N trung_bình/A Ngoại_ngữ/N thấp/A nhất/A trong/E 9/M môn/N thi/V tính/V riêng/A tiếng/N Anh/Np là/V 4,6/M điểm/N nhưng/C so/V với/E hai/M kỳ/N thi/V THPT/Np quốc_gia/N trước/E đó/P con_số/N này/P đã/R được/V cải_thiện/V rõ_rệt/N /V tăng/V từ/E 1/M đến/E hơn/R 2/M điểm/N /V
+Ngoài_Hà_Nội/Np Nam_Định/Np là/V đại_diện/N còn/V lại/R của/E phía/N Bắc/Np góp_mặt/V trong/E top/N 10/M  /M Tương_tự/A như/C Toán/Np 10/M tỉnh/N có/V điểm/N trung_bình/A Ngoại_ngữ/N thấp/A nhất/R đều/R thuộc/V khu_vực/N miền/N núi/N phía/N Bắc/Np với/E mức/N điểm/N không/R vượt/V quá/R 3,7/M
+Điều/N này/P không/R bất_ngờ/A vì/E trong/E hai/M kỳ/N thi/V năm/N 2015/M và/CC 2016/M điểm/N Ngoại_ngữ/N của/E khu_vực/N này/P luôn/R xếp/V cuối/N dù/E khi/N đó/P Ngoại_ngữ/N vẫn/R là/V môn/N tự/P chọn/V
+Thậm_chí/R năm/N 2016/M tỉnh/N Lai_Châu/Np không/R có/V thí_sinh/N nào/P chọn/V môn/N thi/V này/P
+Năm/N nay/P Lai_Châu/Np có/V điểm/N trung_bình/A Ngoại_ngữ/N thấp/A thứ/N 9/M với/E 3,6361/M điểm/N
+Sơn_La/Np xếp/V cuối/N bảng/N với/E 3,317/M điểm/N không/R có/V thí_sinh/N nào/P đạt/V điểm/N tuyệt_đối/A đồ_thị/N phổ/V điểm/N lệch/A hẳn/R về/E bên/N trái/N

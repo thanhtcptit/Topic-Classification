@@ -1,0 +1,21 @@
+69/M người/N nhiễm/V liên_cầu_khuẩn/N lây_truyền/V từ/E lợn/N
+Số/N người/N mắc/V liên/X cầu/N lợn/N rải_rác/A từ/E đầu/N năm/N tại/E 23/M tỉnh_thành/N trên/E cả/P nước/N
+Nhiều/A nhất_là/X tại/E Hà_Nội/Np và/CC Bến_Tre/Np mỗi/M địa_phương/N 8/M bệnh_nhân/N
+So/V với/E cùng/A kỳ/N năm/N 2016/M số/N ca/N bệnh/N tăng/V gấp/V 3/M trong/E khi/N số/N tử_vong/N tăng/V một/M người/N
+Chia_sẻ/V tại/E hội_thảo/N về/E dịch_bệnh/N mùa_hè/N ngày/N 13/7/M tiến_sĩ/N Trần_Đắc_Phu/Np Cục_trưởng/N Y_tế/N dự_phòng/V /N Bộ/N Y_tế/N /M đặc_biệt/A nhấn_mạnh/V tình_trạng/N bệnh/N liên_cầu_khuẩn/N truyền/V từ/E lợn/N sang/V người/N
+Khuẩn/Np này/P tồn_tại/V trên/E cả/P lợn/N bệnh/N và/CC lợn/N lành/A
+Vì_thế/C người/N tiếp_xúc/V /N giết_mổ/V chăn_nuôi/V /M ăn/V thực_phẩm/N từ/E lợn/N chưa/R nấu/V chín/M đặc_biệt/A là/C tiết_canh/N đều/R có/V nguy_cơ/N lây/V bệnh/N
+Cũng/R theo/E tiến_sĩ/N Phu/Np số/N bệnh_nhân/N gia_tăng/V đột_biến/A trong/E năm/N nay/P có_thể/R do/E ngành/N y_tế/N tập_trung/V giám_sát/V chặt/A hơn/R
+Tuy_nhiên/C thực_tế/N là/V ngày_càng/X có/V nhiều/A bệnh/N lây_truyền/V từ/E động_vật/N sang/V người/N
+Liên/Np cầu/V lợn/N là/V bệnh/N nguy_hiểm/A gồm/V 3/M thể/R nhiễm_trùng/V huyết/N viêm/N màng/N não/N mủ/N hoặc/CC kết_hợp/V cả/P hai/M
+Tùy/V từng/R thể/R mà/C bệnh/N diễn_biến/N nặng/A hay/C nhẹ/A có/V trường_hợp/N ngay/T từ/E ban_đầu/N nhiễm_khuẩn/N đã/R nặng/A
+Bệnh/N có_thể/A gây/V tử_vong/V nếu/C điều_trị/V muộn/A
+Tỷ_lệ/N tử_vong/V khoảng/N 7%/M
+Người/N từng/R nhiễm/V liên_cầu_khuẩn/N lợn/N vẫn/R có_thể/R mắc/V lại/R
+Để/E phòng_bệnh/V người_dân/N không/R nên/V giết_mổ/V lợn/N ốm/V chết/V không/R xử_lý/V thịt/N lợn/N sống/V bằng/E tay/N trần/N nhất_là/X khi/N có/V vết_thương/N ở/E tay/N rửa/V tay/N sạch/A sau/E khi/N chế_biến/V thịt/N
+Không/R ăn/V lợn/N bệnh/N thịt/N lợn/N sống/V tiết_canh/N nội_tạng/N chưa/R nấu/V chín/M và/CC đặc_biệt/A không/R ăn/V thịt/N lợn/N ốm/A chết/V
+Trong/E bất_cứ/R trường_hợp/N tiếp_xúc/V với/E lợn/N ốm/V chăm_sóc/V nuôi/V hoặc/CC giết_mổ/V tiêu_hủy/V nên/C có/V phương_tiện/N phòng_hộ/V
+Khi/N sốt/V cao/A /M 40-41/M độ/N C/N /A xuất_hiện/V các/L mảng/N xuất_huyết/V hoại_tử/V dưới/E da/N tiêu_chảy/N cứng_cổ/N có_thể/R khó/A thở/V người_dân/N nên/C đến/V bệnh_viện/N sớm/A tránh/V nguy_cơ/N tử_vong/N
+6/M tháng/N đầu/N năm/N cả/P nước/N cũng/R ghi_nhận/V số/N bệnh_nhân/N ho_gà/A tăng/V vọt/V
+Cùng/A kỳ/N năm_ngoái/N cả/P nước/N chỉ/R có/V 93/M ca/N thì/C năm/N nay/P đến/E 266/M ca/N tăng/V 186%/M 3/M trường_hợp/N tử_vong/N
+Số/N người_bệnh/N than/N cũng/R tăng/V lên/R 12/M ca/N trong/E khi/N năm_ngoái/N chỉ/R có/V 3/M trong/E đó/P Điện_Biên/Np có/V đến/V 6/M người/N mắc/V Cao_Bằng/Np 4/M và/CC Hà_Giang/Np 2/M

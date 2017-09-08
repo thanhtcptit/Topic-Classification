@@ -1,0 +1,15 @@
+​/N Vì_sao/N cần/V cập_nhật/V ngay/R iOS/N 935/M cho/V iPhone/M
+Theo/E Apple/Np thông_tin/N kèm/V bản/N iOS/V 935/M ba/N lỗi/N bảo_mật/V CVE/Np 20164654/M CVE/Np 20164655/M và/N CVE/Np 20164656/M được/V khắc_phục/V gồm/V hai/M lỗi/N tồn_tại/V trong/E nhân/N hệ_điều_hành/N iOS/V và/CC một/M trong/N WebKit/N
+Các/L lỗ_hổng/N được/V khám_phá/V và/N thông_báo/V bởi/E các/L công_ty/N bảo_mật/V Lookout/Np và/CC Citizen_Lab/Np
+Lỗi/N bảo_mật/V do/E Lookout/Np khám_phá/V có_thể/R bị/V khai_thác/V đánh_cắp/N dữ_liệu/N cá_nhân/A của/E nạn_nhân/N sau/E khi/N họ/P bị/V lừa/V click/V vào/E một/M liên_kết/N website/N gửi/V trong/E tin_nhắn/N SMS/Np
+Lỗi/N theo/E mô_tả/N của/E Lookout/Np là/V âm_thầm/A và/N núp_bóng/N khiến/V nạn_nhân/N không/R hề/V hay_biết/V thiết_bị/N của/E mình/P đã/R bị/V tổn_hại/V
+Một/M loại/N mã/N độc/A được/V Lookout/Np và/CC Citizen_Lab/Np đặt/V tên/N Pegasus/Np đang/R hoành_hành/V khai_thác/V bộ/N ba/N lỗi/N bảo_mật/V iOS/V được/V gọi/V tên/N Trident/Np nhắm/V đến/E các/L thiết_bị/N iPhone/N của/E các/L chính_trị_gia/N tại/E Trung_Đông/Np và/CC cả/R iPhone/M của/E bất_kì/N người_dùng/N nào/N trên/N thế_giới/N
+Sau/E khi/N đã/R bẻ_khoá/V iPhone/M mục_tiêu/N Pegasus/Np ngay_lập_tức/N lùng_sục/V những/L dữ_liệu/N bên/N trong/N thiết_bị/N như/C lịch_sử/N cuộc_gọi/N tin_nhắn/N lịch/N biểu/V danh_bạ/N
+Nó/P sao_chép/V toàn_bộ/N bao_gồm/N khả_năng/N kích_hoạt/V camera/N và/CC microphone/N để/E theo_dõi/V trực_tiếp/A hoạt_động/V của/E nạn_nhân/N ngay/T tại/E thời_điểm/N đó/P
+Ngay/T cả/P những/L trao_đổi/N từ/E các/L ứng_dụng/N tin_nhắn/N OTT/Np như/C WhatsApp/N Tango/Np Viber/Np FaceTime/V WeChat/N Gmail/Np Skype/Np Facebook/Np
+cũng/R sẽ/R bị/V đánh_cắp/V
+Các/L lỗ_hổng/N bảo_mật/V có_thể/A tấn_công/V vào/R hệ_điều_hành/N Apple/Np iOS/V thành_trì/N bảo_vệ/V dữ_liệu/N của/E người_dùng/N iPhone/Np và/CC iPad/N từng/N bị/V xuyên/V thủng/V với/E các/L mức/N giá/N chào_hàng/V ngất/N ngưỡng/N nhiều/A triệu/M USD/Nu như/N NSO/Np Group/Np Zerodium/Np
+Cập_nhật/V iOS/N 935/M
+iOS/N 935/M phát_hành/N đến/V người_dùng/N thiết_bị/N iOS/N gồm/V iPhone/N 4S/M trở/V lên/R iPad/M 2/M trở/V lên/V tất_cả/N các/L phiên_bản/N iPad/M Mini/Np và/CC iPad/N Pro/Np iPod/M Touch/Np thế_hệ/N thứ/N 5/M và/N 6/M
+Người_dùng/N có_thể/R tải/N và/CC cài_đặt/V qua/V dạng/N OTA/Np Software_Update/Np hoặc/CC kết_nối/V thiết_bị/N vào/R máy_tính/N và/CC mở/V iTunes/N để/V cập_nhật/V
+Apple/N cũng/R sẽ/R đưa/V các/L bản/N vá/N này/P vào/E trong/N phiên_bản/N thử_nghiệm/V iOS/N 10/M Beta/Np và/CC phiên_bản/N iOS/N 10/M chính_thức/N sẽ/R ra_mắt/V với/E iPhone/N thế_hệ/N kế_tiếp/V ra_mắt/N đầu/N tháng/N 9/M tới/V đây/P

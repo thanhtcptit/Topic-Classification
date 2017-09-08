@@ -1,0 +1,15 @@
+Người_nhà/N bệnh_nhi/N truy_sát/N bảo_vệ/V bệnh_viện/N
+Một/M bảo_vệ/N của/E Bệnh_viện/N Sản_Nhi_Nghệ_An/Np bị/V người_nhà/N bệnh_nhi/N điều_trị/V tại/E bệnh_viện/N này/P dùng/V dao/N đâm/V trọng_thương/A trong/E khuôn_viên/N bệnh_viện/N sáng/N 306/M
+Thông_tin/N ban_đầu/N khoảng/N 7h30/M sáng/N 306/M ông/N Lô_Minh_Hương/Np 60/M tuổi/N quê/N huyện/N Quỳ_Hợp/Np Nghệ_An/Np là/V nhân_viên/N bảo_vệ/V tại/E Bệnh_viện/N Sản_Nhi_Nghệ_An/Np bất_ngờ/A bị/V một/M người/Nc đàn_ông/N dùng/V dao/N loại/N dao/N gọt/N hoa_quả/N tấn_công/V tại/E khu_vực/N nhà/N gửi/V xe/N bệnh_viện/N
+Nhiều/A nhân_chứng/N tại/V hiện_trường/N kể/V lại/R nghi/V phạm/N dùng/V dao/N đâm/V liên_tiếp/A vào/E người/N ông/N Hương/Np
+Sau/E đó/P ông/Nc Hương/Np bỏ/V chạy/V vào/R phía/N trong/N bệnh_viện/N cầu_cứu/V
+Nhóm/N bảo_vệ/V bệnh_viện/N ở/E gần/A đó/P chạy/V tới/R để/E ứng_cứu/V ông/N Hương/Np và/CC khống_chế/V nghi/V phạm/N
+Nhận/V được/R tin/N báo/V công_an/N phường/N Hưng_Dũng/Np và/CC Công_an/N TP/Np Vinh/Np nhanh_chóng/A phong_toả/V hiện_trường/N và/CC đưa/V nghi/V phạm/N về/V trụ_sở/N để/E làm/V rõ/A
+Vụ_việc/N xảy/V ra/R vào/V đầu/N giờ/N sáng/N khiến/V bệnh_nhân/N người_nhà/N bệnh_nhân/N hoang_mang/V lo_lắng/V
+Bác/N sĩ/N Phan_Văn_Tư/Np giám_đốc/V Bệnh_viện/N Sản_Nhi_Nghệ_An/Np cho_hay/V do/E ông/Nc Hương/Np bị/V đâm/V trọng_thương/A mất/V máu/N rất/R nhiều/A nguy_kịch/N đến/V tính_mạng/N nên/C các/L cán_bộ/N bác_sĩ/N y_tá/N sinh_viên/N thực_tập/N cùng/A đăng_kí/N hiến/V máu/N để/E tập_trung/V cứu_chữa/N cho/E ông/N Hương/Np
+Tại/E hiện_trường/N ở/V bãi/N gửi/V xe_máy/N vương_vãi/V nhiều/A vệt/N máu/N của/E ông/N Hương/Np
+Đến/E 10h15/N sáng/N 306/M công_an/N đã/R khám_nghiệm/V xong/V hiện_trường/N
+Ông/N Hoàng_Ngọc_Hiếu/Np giám_đốc/N Công_ty/N TNHH/Np dịch_vụ/N bảo_vệ/V vệ_sĩ/N Bảo_An_Nghệ_An/Np cho/V biết/V ông/Nc Hương/Np làm/V tại/E đơn_vị/N này/P được/V hơn/R một/M năm/N
+Ca/N trực/V ngày/N của/E công_ty/N tại/E Bệnh_viện/N Sản_Nhi_Nghệ_An/Np có/V 11/M người_làm/N nhiệm_vụ/N bảo_vệ/V tại/E các/L khoa/N và/CC đây/P là/V lần/N đầu_tiên/N xảy/V ra/R sự_việc/N nghiêm_trọng/A như/C vậy/P
+Bước_đầu/N công_an/N xác_định/V nghi/V phạm/N là/V một/M người_nhà/N bệnh_nhi/N điều_trị/V tại/E Bệnh_viện/N Sản_Nhi_Nghệ_An/Np
+Cơ_quan/N điều_tra/V đang/R lấy/V lời/N khai/V nghi/V phạm/N làm/V rõ/A nguyên_nhân/N vụ_việc/N

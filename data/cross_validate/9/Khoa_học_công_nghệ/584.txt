@@ -1,0 +1,12 @@
+Mỹ/Np phát_triển/V công_nghệ/N khai_thác/V năng_lượng/N sóng/N biển/N
+Được/V lắp_đặt/V ngoài/E khơi/N bờ/N biển/N Hawaii/Np tại/E khu/N thử_nghiệm/V năng_lượng/N sóng/N Vịnh_Kaneohe/Np thiết_bị/N nặng/A 40/M tấn/Nu này/P là/V máy_phát_điện/N nhờ/V sóng/N biển/N đầu_tiên/A
+Theo/E Cục/N năng_lượng/N Quốc_gia/Np Mỹ_Do/Np E/Np sắp/R tới/V sẽ/R có/V hàng_loạt/N máy/N phát/V như_vậy/X được/V lắp_đặt/V cung_cấp/V năng_lượng/N sạch/A cho/E các/L thành_phố/N ven/N biển/N Mỹ/Np
+Khoảng/N 50%/M dân_số/N Mỹ/Np sinh_sống/V dọc/A theo/E các/L đô_thị/N có/V đường/N bờ/N biển/N dài/A 80/M km/Nu đường/N theo/E đánh_giá/N của/E DoE/Np dự_án/N có/V tiềm_năng/N lớn/A
+Thiết_bị/N do/E công_ty/N NWEI/Np thiết_kế/V có/V tên/N Azura/Np được/V lắp_đặt/V sâu/A dưới/E 300/M m/Nu nước/N tháng/N trước/A và/CC có/V công_suất/N 20/M kW/Nu
+Theo/E NWEI/Np nếu/C lắp_đặt/V dưới/E sâu/A hơn/A tại/E các/L vùng/N có/V sóng/N lớn/A hơn/R công_suất/N có_thể/R lên/V tới/E 1/M MW/Np đủ/A để/E cung_cấp/V cho/E hàng/R trăm/M hộ/N gia_đình/N
+Azura/Np được/V thiết_kế/V để/E hấp_thụ/V năng_lượng/N chuyển_động/V của/E sóng/N theo/E mọi/L hướng/N
+Đây/P là/V chìa_khóa/N quyết_định/V thành_công/V của/E dự_án/N
+Sóng/N có/V cả/P chuyển_động/V ngang/A và/CC chuyển_động/V dọc/A lên/R xuống/V hầu_hết/R các/L thiết_kế/N khác/A chỉ/R có_thể/R hấp_thụ/V năng_lượng/N của/E một_chiều/N chuyển_động/V DoE/Np cho_biết/V
+Azura/Np có_thể/R khai_thác/V năng_lượng/N chuyển_động/V theo/E 360/M độ/N cho/E công_suất/N đầu_ra/N cao/A hơn/A hẳn/R Nhóm/N nghiên_cứu/V dự_định/V sẽ/R lắp_đặt/V hệ_thống/N quy_mô/N công_suất/N megawatt/V vào/E năm/N 2017/M đồng_thời/R tiếp_tục/V thử_nghiệm/V Azura/Np với/E sự/Nc hỗ_trợ/V của/E Hải_quân/N Mỹ/Np
+Trong/E khi/N đó/P một/M thiết_bị/N tương_tự/A cũng/R được/V lắp_đặt/V ngoài/E khơi/N bờ/N biển/N Tây_Australia/Np và/CC đi/V vào/V vận_hành/V hòa/V vào/E điện_lưới/N địa_phương/N từ/E tháng/N 2/2015/M
+Theo/E World_Ocean_Review/Np tổng/N năng_lượng/N sóng/N biển/N toàn_cầu/N vào_khoảng/X 11/M 400/M TWh/Np mỗi/M năm/N và/CC có_thể/R chuyển/V 1/M 700/M TWh/Np trong/E đó/P thành/V điện_năng/N đáp_ứng/V khoảng/N 10%/M nhu_cầu/N dùng/V điện/N của/E thế_giới/N

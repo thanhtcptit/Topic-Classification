@@ -1,0 +1,17 @@
+Đã/R có/V máy_tính/N tại/E Việt_Nam/Np lây_nhiễm/V virus/N WannaCry/Np nguy_hiểm/A nhất/R lịch_sử/A 
+Nguy_cơ/N bị/V tống_tiền/V vì/E lây_nhiễm/V mã/N độc/A WannaCry/Np 
+Mã/N độc/A tống_tiền/V WannaCry/Np trong/E hệ_điều_hành/N Windows/Np XP/Np đã/R gây/V ra/R cuộc/N tấn_công/V mạng/N được/V cho/V là/V chưa/R từng/R có/V trong/E tiền_lệ/N chỉ/R trong/E vài/L giờ/N đã/R lây_nhiễm/V hơn/R 100/M nghìn/N máy_tính/N trên/E toàn/N thế_giới/N 
+Theo/E ghi_nhận/V bước_đầu/N từ/E Hệ_thống/N giám_sát/V virus/N của/E Bkav/Np sáng/N 13/5/M đã/R có/V những/L trường_hợp/N lây_nhiễm/V mã/N độc/A này/P tại/E Việt_Nam/Np 
+Bkav/Np cho/V rằng/C con_số/N lây_nhiễm/V được/R dự_báo/V sẽ/R tăng/V mạnh/A vào/E đầu/N tuần/N tới/V với/E số_lượng/N lớn/A máy_tính/N được/V bật/V khi/N mọi/L người/N đi/V làm/V trở_lại/V 
+Tuy_nhiên/C công_ty/N này/P cho_hay/V hiện/N tai/N chưa/R có/V con_số/N cụ_thể/A về/E những/L trường_hợp/N lây_nhiễm/V tại/E Việt_Nam/Np 
+WannaCry/Np có/V khả_năng/N quét/V toàn_bộ/L các/L máy_tính/N trong/E cùng/A mạng/N để/E tìm_kiếm/V và/CC lây/V trực_tiếp/A vào/E các/L máy/N có/V chứa/V lỗ_hổng/N EternalBlue/Np mà/C không/R cần/V người/N dùng/V phải/V thao_tác/V trực_tiếp/A với/E file/N đính/N kèm/V hay/C link/V độc_hại/A 
+Vì_vậy/C chỉ/R cần/V một/M máy_tính/N trong/E cơ_quan/N //X doanh_nghiệp/N bị/V nhiễm/V mã/V độc/A toàn_bộ/L các/L máy_tính/N khác/A trong/E mạng/N sẽ/R có/V nguy_cơ/N bị/V mã/V độc/A tấn_công/V mã_hoá/V dữ_liệu/N 
+Theo/E nhận_định/N của/E các/L chuyên_gia/N Bkav/Np WannaCry/Np có_thể/R xếp/V vào/E mức/N nguy_hiểm/N cao/A nhất/A vì/E vừa/R lây_lan/V nhanh/A vừa/R có/V tính/N phá_hoại/V nặng_nề/A 
+Kiểu/N lây_nhiễm/V của/E mã/N độc/A tuy/C không/R mới/A nhưng/C cho/V thấy/V xu_hướng/N tận_dụng/V các/L lỗ_hổng/N mới/R để/E tấn_công/V kiếm/V tiền/N sẽ/R còn/V được/V hacker/N sử_dụng/V nhiều/A trong/E thời_gian/N tới/V đặc_biệt/A là/C các/L lỗ_hổng/N của/E hệ_điều_hành/N 
+Sau/E khi/N quét/V bằng/E tool/N nếu/C phát_hiện/V máy_tính/N có/V lỗ_hổng/N người/N dùng/V cần/V sao_chép/V toàn_bộ/L dữ_liệu/N quan_trọng/A trên/E máy/N cập_nhật/V bản/N vá/V cho/E hệ_điều_hành/N bằng/E cách/N vào/V Windows_Update/Np →/V Check/Np for/V updates/N để/E kiểm_tra/V các/L bản/N vá/V mới/A nhất/R 
+Để/E phòng_ngừa/V nguy_cơ/N lây_nhiễm/V mã/N độc/A các/L chuyên_gia/N khuyến_cáo/N người/N dùng/V mở/V các/L file/N văn_bản/N nhận/V từ/E Internet/Np trong/E môi_trường/N cách_ly/V Safe_Run/Np và/CC cài/V phần_mềm/N diệt/V virus/N thường_trực/V trên/E máy_tính/N để/E được/V bảo_vệ/V tự_động/A 
+Bkav/Np cũng/R cho_biết/V đã/R phát_hành/V công_cụ/N miễn_phí/V kiểm_tra/V WannaCry/Np giúp/V người/N sử_dụng/V quét/V xem/V máy_tính/N có/V đang/R bị/V nhiễm/V Wanna_Crypt/Np không/R 
+Công_cụ/N này/P có_thể/R kiểm_tra/V và/CC cảnh_báo/V nếu/C máy_tính/N có/V chứa/V lỗ_hổng/N EternalBlue/Np lỗ_hổng/N mà/C Wanna_Crypt/Np đang/R khai_thác/V để/E xâm_nhập/V máy_tính/N 
+Người/N sử_dụng/V có_thể/R tải/N công_cụ/N từ/E địa_chỉ/N Bkav.com.vn/Tool/CheckWanCry.exe/Np 
+Công_cụ/N không/R cần/V cài_đặt/V mà/C có_thể/R khởi/V chạy/V luôn/R để/E quét/V 
+Trước/E đó/P Trung_tâm/N ứng_cứu/V khẩn_cấp/V máy_tính/N Việt_Nam/Np VNCERT/Np cũng/R đã/R phát/V lệnh/N yêu_cầu/V toàn_quốc/N chặn/V kết_nối/V đến/E các/L máy_chủ/N điều_khiển/V mã/N độc/A nguy_hiểm/A WannaCry/Np Khôi_Linh/Np 

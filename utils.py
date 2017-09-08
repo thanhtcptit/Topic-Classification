@@ -1,0 +1,18 @@
+import os
+HOME_DIR = os.path.expanduser('~') + '/'
+PROJECT_DIR = os.path.dirname(__file__)
+DATA_DIR = os.path.join(PROJECT_DIR, 'data/')
+ARTICLE_DIR = os.path.join(PROJECT_DIR, 'data/article/')
+HTML_DIR = os.path.join(PROJECT_DIR, 'data/html/')
+HTML_LINK_DIR = os.path.join(PROJECT_DIR, 'data/html_link/')
+SEGMENT_WORD_DATA_DIR = os.path.join(PROJECT_DIR, 'data/processed_article/segmented_data/')
+TAG_WORDS_DATA_DIR = os.path.join(PROJECT_DIR, 'data/processed_article/tagged_data/')
+CLEAN_DATA_DIR = os.path.join(PROJECT_DIR, 'data/processed_article/clean_data/')
+CROSS_VALIDATE_DIR = os.path.join(PROJECT_DIR, 'data/cross_validate/')
+TEST_DATA_DIR = os.path.join(PROJECT_DIR, 'data/processed_article/test/')
+TEMP_FILE = os.path.join(PROJECT_DIR, 'data/buffer.txt')
+STOP_WORDS = os.path.join(PROJECT_DIR, 'data/stop_words.txt')
+TOKENIZER = os.path.join(PROJECT_DIR, 'lib/vn.tokenizer/')
+TAGGER = os.path.join(PROJECT_DIR, 'lib/vn.tagger/')
+TRAINED_DIR = os.path.join(PROJECT_DIR, 'data/trained_data/')
+LOG = os.path.join(PROJECT_DIR, 'data/log.txt')

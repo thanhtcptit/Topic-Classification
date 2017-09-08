@@ -1,0 +1,11 @@
+Một_số/L trường/N ĐH/Np Quốc_gia/Np TP_HCM/Np sẽ/R tổ_chức/V thi/V đánh_giá/V năng_lực/N
+Chiều/N 20/12/M tại/E cuộc/N họp_bàn/V về/E công_tác/N tuyển_sinh/V TS/N Nguyễn_Đức_Nghĩa/Np Phó_giám_đốc/N Đại_học/N Quốc_gia/Np TP_HCM/Np cho_biết/V năm/N 2017/M các/L trường/N thành_viên/N chủ_yếu/A dựa/V vào/E kết_quả/N thi/V THPT/Np quốc_gia/N để/E tuyển_sinh/V
+Ngoài_ra/C một_số/L trường/N thành_viên/N sẽ/R thí_điểm/V tổ_chức/V kỳ/N thi/V đánh_giá/V năng_lực/N
+Đây/P không/R phải/V là/V điều_kiện/N tiên_quyết/V để/E xét/V tuyển/V vào/E các/L trường/N mà/C chỉ/R tạo/V thêm/R một/M cơ_hội/N xét/V tuyển/V cho/E thí_sinh/N bên_cạnh/N phương_án/N truyền_thống/N
+Chỉ_tiêu/N dự_kiến/V xét/V tuyển/V theo/E kỳ/N thi/V năng_lực/N này/P tối_đa/A là/V 20%/M ông/Nc Nghĩa/Np cho_hay/V
+Theo/E đề_án/N đang/R xây_dựng/V bài/N thi/V đánh_giá/V năng_lực/N gồm/V phần/N tự/P luận/V /N thi/V 30/M phút/Nu /M và/CC 100/M câu_hỏi/N trắc_nghiệm/V /A 150/M phút/Nu /A với/E nội_dung/N đánh_giá/V năng_lực/N tiếng/N Việt/Np tiếng/N Anh/Np tư_duy/N logic/N và/CC năng_lực/N giải_quyết/V vấn_đề/N về/E khoa_học_tự_nhiên/N khoa_học_xã_hội/N
+Ông/Nc Nghĩa/Np khẳng_định/V các/L câu_hỏi/N trong/E kỳ/N thi/V năng_lực/N này/P sẽ/R không/R hoàn_toàn/A lặp/V lại/R nội_dung/N kiến_thức/N trong/E kỳ/N thi/V THPT/Np quốc_gia/N mà/C chủ_yếu/A kiểm_tra/V năng_lực/N giải_quyết/V vấn_đề/N của/E thí_sinh/N
+Đại_học/N Quốc_gia/Np TP_HCM/Np sẽ/R sớm/A công_bố/V danh_sách/N các/L trường/N có/V phương_án/N xét/V tuyển/V bằng/E kỳ/N thi/V đánh_giá/V năng_lực/N
+Năm/N 2017/M Đại_học/N Quốc_gia/Np vẫn/R dành/V 5%/M tổng/N chỉ_tiêu/N các/L ngành/N nhóm/N ngành/N xét/V tuyển/V thẳng/A theo/E quy_chế/N tuyển_sinh/V của/E Bộ/N Giáo/Np dục/V 10-15/M %/N chỉ_tiêu/N xét/V tuyển/V học_sinh/N từ/E các/L trường/N chuyên/A năng_khiếu/A trên/E cả/P nước/N  /EOS
+Điều_kiện/N xét/V tuyển/V chung/A của/E các/L trường/N thành_viên/N là/V tốt_nghiệp/V THPT/Np có/V điểm/N trung_bình_cộng/N ba/M năm/N THPT/Np từ/E 6,5/M trở_lên/A đối_với/E hệ/N đại_học/N và/CC từ/E 6/M trở_lên/A đối/V hệ/N cao_đẳng/A
+Trước/E đó/P Đại_học/N Quốc_gia/Np Hà_Nội/Np ra/R thông_báo/V từ/E năm/N 2017/M không/R tổ_chức/V kỳ/N thi/V đánh_giá/V năng_lực/N như/C 2/M năm/N trước/A mà/C sử_dụng/V kết_quả/N bài/N thi/V THPT/Np quốc_gia/N phục_vụ/V công_tác/N xét/V tuyển/V đại_học/N

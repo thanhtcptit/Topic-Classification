@@ -1,0 +1,15 @@
+Liệu_pháp/N khiến/V tế_bào/N ung_thư/N máu/N tiêu_diệt/V lẫn/V nhau/N
+Theo/E Iflsience/Np các/L nhà_khoa_học/N thuộc/V Viện/N nghiên_cứu/V Scripps/Np TSRI/Np Mỹ/Np đã/R tìm/V ra/R kỹ_thuật/N thay_đổi/V lập_trình/N sinh_học/N khiến/V tế_bào/N bạch_cầu/N biến_đổi/V thành/V tế_bào/N miễn_dịch/N có/V tác_dụng/N tiêu_diệt/V bệnh_bạch_cầu/N
+Chìa_khóa/N là/V một/M kháng_thể/N hiếm/A của/E người/N
+Kháng_thể/R là/V những/L protein/N được/V sản_xuất/V một_cách/N tự_nhiên/A bởi/E hệ_thống/N miễn_dịch/V của/E cơ_thể/N con_người/N
+Chúng/P giống/A như/C còng/A tay/N của/E cảnh_sát/N tế_bào/N bạch_cầu/N gắn/V vào/E những/L kẻ/N xâm_lược/V như/C vi_khuẩn/N để/E trực_tiếp/A vô_hiệu_hóa/V hoặc/CC đánh_dấu/V tiêu_hủy/A chúng/P
+Trong/E quá_trình/N tìm_kiếm/V các/L loại/Nc kháng_thể/N để/E điều_trị/V cho/E những/L người/N bị/V rối_loạn/V tế_bào/N miễn_dịch/V các/L nhà_khoa_học/N vô_tình/A phát_hiện/V một/M nhóm/N kháng_thể/N có_thể/A biến/V tế_bào/N tủy/V xương/N thành/V một/M dạng/N tế_bào/N khác/A hẳn/R giống/A với/E tế_bào/N thần_kinh/N bình_thường/A
+Các/L nhà_nghiên_cứu/N đã/R thử_nghiệm/V loại/N kháng_thể/N này/P với/E một/M mẫu/N máu/N người/N có/V rất/R nhiều/A tế_bào/N  /V bạch_cầu/N dòng/N tủy/N cấp_tính/A AML/Np nguy_hiểm/A
+AML/Np là/V một/M loại/Nc bệnh_bạch_cầu/N tấn_công/V đặc_biệt/A mạnh/A vào/E các/L tế_bào/N tủy/V trong/E cơ_thể/N lực_lượng/N chống/V lại/R các/L bệnh/N nhiễm_khuẩn/V ký_sinh_trùng/N và/CC ngăn_ngừa/V sự/Nc lây_lan/V của/E tổn_thương/N mô/P
+Người/N bị/V AML/Np sẽ/R sản_sinh/V quá/R nhiều/A tế_bào/N bạch_cầu/N trong/E tủy/N xương/N làm/V ngăn_trở/V việc/N sản_sinh/V bình_thường/A của/E các/L loại/Nc tế_bào/N máu/N khác/A
+Kết_quả/N thu/V được/R rất/R đáng/V chú_ý/V các/L kháng_thể/N biến_đổi/V các/L tế_bào/N AML/Np thành/V tế_bào/N tua/V tế_bào/N hỗ_trợ/V quan_trọng/A trong/E hệ_thống/N miễn_dịch/V
+Càng/R tiếp_xúc/V lâu/A với/E các/L kháng_thể/N các/L tế_bào/N AML/Np càng/R trở_nên/V giống/A như/C những/L tế_bào/N chuyên/A săn_lùng/V và/CC tiêu_diệt/V các/L mối/N đe_dọa/V trong/E cơ_thể/N như/C virus/N vi_khuẩn/V và/CC các/L tế_bào/N ung_thư/N
+Những/L tế_bào/N tua/N này/P được/R mệnh_danh/V là/C sát_thủ/V tự_nhiên/N có/V khả_năng/N túm/V lấy/V những/L người/N anh_em/N ung_thư/N của/E chúng/P phá_hủy/V tới/E 15%/M tế_bào/N ung_thư/N trong/E vòng/N một/M ngày/N
+Các/L sát_thủ/N này/P dường_như/R chỉ/R nhằm/V đến/E mục_tiêu/N duy_nhất/A là/V tế_bào/N AML/Np chứ/C không/R phải/V các/L loại/N tế_bào/N ung_thư/N khác/A
+Các/L nhà_nghiên_cứu/N hy_vọng/V rằng/C kỹ_thuật/N mà/C họ/P gọi_là/X liệu_pháp/N fratricidin/N này/P có_thể/R được/V sử_dụng/V để/E chuyển_đổi/V một/M loạt/Nc các/L tế_bào/N ung_thư/N thành/V các/L sát_thủ/N tự_nhiên/A giúp/V chữa_trị/V hoàn_toàn/A ung_thư/N
+Nghiên_cứu/V được/R công_bố/V trên/E PNAS/Np hôm/N 20/10/M

@@ -1,0 +1,6 @@
+Nơi/N nào/P du_lịch/V lãng_mạn/A nhất/R dành/V cho/E các/L cặp/N đôi/N
+Du_lịch/V
+Các/L địa_điểm/N được/V tổng_hợp/V trong/E quyển/N sách/N The_World/Np s/N Most_Romantic_Destinations/Np 50/M Dreamy_Getaways/Np Private_Retreats/Np and/N Enchanting_Places/Np to/A Celebrate_Love/Np Những/L điểm/N đến/V lãng_mạn/A nhất/A thế_giới/N 50/M điểm/N du_lịch/V đáng/V mơ_ước/V nơi/N nghỉ_ngơi/V riêng_tư/N và/CC cuốn_hút/V để/V kỉ_niệm/V tình_yêu/N
+Các/L cặp/N đôi/N yêu/N thích/N du_lịch/V sẽ/R tìm/V thấy/V gợi_ý/N nơi/N ở/V các/L món/N ăn/V và/N hoạt_động/V nên/R tham_gia/V ở/V mỗi/N địa_điểm/N
+Quyển/N sách/N này/P cũng/R chia/V nội_dung/N thành/V nhiều/A mục/N thích_hợp/A cho/E những/L du_khách/N thích/V thám_hiểm/N hoặc/N chỉ/R thích/V nghỉ_dưỡng/V đơn_thuần/A
+Nếu/C muốn/V đi/V nghỉ/V tuần_trăng_mật/N hâm_nóng/A tình_cảm/N hoặc/N trải_nghiệm/A những/L điều/N mới_mẻ/A hãy/R lập/V kế_hoạch/N ghé/V thăm/V một_số/N địa_điểm/N như/C Paris/Np Hawaii/Np Italy/Np hay/V London/Np

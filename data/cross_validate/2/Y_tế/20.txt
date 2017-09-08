@@ -1,0 +1,20 @@
+Mổ/V mắt/N xong/V cả/P 4/M bệnh_nhân/N đều/R không/R nhìn/V thấy/V gì/P
+Bốn/M bệnh_nhân/N được/V đoàn/N từ_thiện/N đưa/V lên/R mổ/V mắt/N tại/E Bệnh_viện/N Q1/Np 0/M sau/N mổ/V cả/P bốn/M người/N đều/R không/R nhìn/V được/R nữa/R
+Hơn/A hai/M tuần/N sau/N khi/N được/V mổ/V mắt/N bên/N phải/A ông/Nc VVS/Np 64/M tuổi/N ở/E xã/N Tân_Trạch/Np huyện/N Cần_Đước/Np tỉnh/N Long_An/Np lo_lắng/V khi/N mắt/N bên/N phải/A của/E ông/N giờ/N không/R nhìn/V thấy/V gì/P
+Trước/E khi/N mổ/V mắt/N ông/N còn/R chạy/V xe_hàng/N chục/M cây_số/N được/V nay/N thì/N không_thể/A
+Ông/N S/Np
+kể/V ngày/N 126/M một/M đoàn/N từ_thiện/A đưa/V 6/M người/N từ/E trạm/N y_tế/N xã/N Mỹ_Lệ/Np lên/V Bệnh_viện/N Q1/Np 0/M TPHCM/Np để/E mổ/V đục/N thuỷ_tinh_thể/N
+Ông/N và/N ba/M bệnh_nhân/N khác/A được/V mổ/V vào/E ngày/N 136/M mổ/N cùng/N phòng/N cùng/N bác_sĩ/N cùng/N được/R mổ/V mắt/N bên/N phải/A sau/N khi/N được/V mổ/V đều/R không/R nhìn/V được/R nữa/R
+Theo/E lời/N ông/N S/Np sau/E khi/N mổ/V mắt/N ở/V Bệnh_viện/N Q1/Np 0/M được/V một/M tuần/N ông/N S/Np
+quay/V lại/R Bệnh_viện/N Q1/Np 0/M để/E tái/N khám/V và/N được/V bác_sĩ/N kê/V một/M toa/N thuốc/N uống/V
+Đến/E ngày/N 266/M ông/N lại/R đến/V tái/N khám/V thì/C bác_sĩ/N mổ/V mắt/N cho/V ông/N nói/V sẽ/R chuyển/V ông/N cùng/C ba/M bệnh_nhân/N cùng/A đợt/N mổ/V với/E ông/N sang/V Bệnh_viện/N Mắt/Np TPHCM/Np để/E khám/V lại/R và/N được/V kê/V thuốc/N vì/E Bệnh_viện/N Q1/Np 0/M không/R có/V loại/N thuốc/N mà/C ông/N và/CC ba/M bệnh_nhân/N cùng/A đợt/N mổ/V cần/V dùng/V
+Ba/M bệnh_nhân/N còn/V lại/V là/V bà/N LKT/Np
+72/M tuổi/N ông/N MVT/Np
+67/M tuổi/N ông/N MNT/Np
+48/M tuổi/N cùng/A ở/E xã/N Mỹ_Lệ/Np huyện/N Cần_Đước/Np
+Sau/E khi/N nhận/V phản_ánh/N của/E Tuổi_Trẻ/Np ông/N Đào_Xuân_Tùng/Np giám_đốc/V Bệnh_viện/N Q1/Np 0/M đã/N kiểm_tra/V lại/V vụ_việc/N
+Đánh_giá/V về/R quá_trình/N mổ/V bốn/N bệnh_nhân/N này/P ông/N Tùng/Np cho/V rằng/C khi/N mổ/V mắt/N cho/E những/L bệnh_nhân/N xong/R bác_sĩ/V thấy/V ca/N mổ/V tốt/A nhưng/C khám/V vẫn/R thấy/V giác_mạc/V phù_nề/N
+Khi/N giác_mạc/V hết/V phù_nề/N trong/E trở_lại/N mắt/N sẽ/R hồi_phục/A như/A bình_thường/A
+Ông/Nc Tùng/Np nói/V sẽ/R mời/V những/L bệnh_nhân/N này/P khám/V lại/R
+Bác/N sĩ/N Phí_Duy_Tiến/Np phó/N giám_đốc/N Bệnh_viện/N Mắt/Np TPHCM/Np cho/V biết/V bệnh_viện/N sẵn_sàng/N nhận/V khám/V cho/E bốn/N bệnh_nhân/N này/P vào/E sáng/N 37/M
+Sau/E khi/N khám/V sẽ/R đánh_giá/V tình_trạng/N cụ_thể/A

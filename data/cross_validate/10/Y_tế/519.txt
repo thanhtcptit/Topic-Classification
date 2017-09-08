@@ -1,0 +1,18 @@
+Đi/V khám/V bệnh/N 123/M lần/N trong/E 4/M tháng/N để/E trục_lợi/V bảo_hiểm/N
+Ngày/N 23/5/M Bảo_hiểm/N Xã_hội/N Việt_Nam/Np cho_biết/V phát_hiện/V nhiều/A trường_hợp/N trục_lợi/V qua/V khám/V chữa/V bệnh/N bảo_hiểm_y_tế/V trong/E 4/M tháng/N đầu/N năm/N
+Một/M bệnh_nhân/N nữ/N thuộc/V diện/N bảo_trợ/V xã_hội/N tại/E TP_HCM/Np khám/V 57/M lần/N tại/E 13/M cơ_sở/N y_tế/N tổng_chi/V phí/N gần/A 40/M triệu/M đồng/Nu
+Người/N này/P thường_xuyên/A đi/V khám/V 2/M đến/E 3/M lần/N một/M ngày/N tại/E các/L cơ_sở/N y_tế/N tuyến/N huyện/N ở/E TP_HCM/Np
+Bà/N được/V chỉ_định/V nhiều/A loại/Nc thuốc/N điều_trị/V tăng/V huyết_áp/N tiểu_đường/N bệnh/N xương/N khớp/N tiết_niệu/N mắt/N tai/N mũi/N họng/N phổi/N viêm/N xoang/N thần_kinh/N hen/N
+Một/M bệnh_nhân/N khác/A tại/E Sóc_Trăng/Np từ/E ngày/N 1/7/2016/M đến/E 20/5/2017/M đi/V khám/V bệnh/N 215/M lần/N
+Từ/E đầu/N năm/N 2017/M đến/E nay/P người/N này/P khám/V 114/M lần/N chỉ/R tính/V riêng/A số/N tiền/N điện_châm/N điều_trị/V đau/V lưng/N đã/R trên/A 16/M triệu/M đồng/Nu
+Một/M người/N hưu_trí/N khác/A cũng/R khám/V 58/M lần/N tại/E 15/M cơ_sở/N y_tế/N tổng_chi/V phí/N gần/A 31/M triệu/M đồng/Nu
+Mỗi/L ngày/N người_bệnh/N này/P đi/V khám/V tại/E 2-3/M cơ_sở/N y_tế/N được/V chẩn_đoán/V và/CC cấp/V thuốc/N điều_trị/V các/L bệnh/N khác_nhau/A như/C tăng/V huyết_áp/N bệnh/N hô_hấp/N
+Ví_dụ/V ngày/N 9/1/M người/N này/P lĩnh/V thuốc/N Simbicort/Np 2/M tub/N tại/E 2/M cơ_sở/N khám/V chữa/V bệnh/N ngày/N 3/3/M lĩnh/V Aprovel/Np 28/M viên/N 3/M ngày_sau/N nhận/V tiếp/R 14/M viên/Nc thuốc/N này/P
+Ngày/N 4/4/M người_bệnh/N này/P lĩnh/V thuốc/N Procaralan/Np 7 g/M 28/M viên/N 3/M ngày_sau/N nhận/V tiếp/R 15/M viên/N một/M ngày_sau/N tiếp_tục/V 60/M viên/Nc
+Sang/V tháng/N 5/M người/N này/P cũng/R lĩnh/V thuốc/N 2/M lần/N vào/E ngày/N 9/M có/V 60/M viên/N và/CC ngày/N 15/M là/V 28/M viên/Nc
+Thống_kê/V cho/V thấy/V gần/A 2 0/M người/N đi/V khám/V bệnh/N có/V bảo_hiểm/N từ/E 50/M lần/N trở_lên/A trong/E 4/M tháng/N đầu/N năm/N với/E 160 4/M lượt/N trong/E đó/P người/N khám/V nhiều/A nhất_là/X 123/M lần/N kể_cả/X ngày/N nghỉ/V ngày/N lễ/N tết/N
+Theo/E ông/Nc Dương_Tuấn_Đức/Np Giám_đốc/N Trung_tâm/N giám_định/V và/CC thanh_toán/V đa/N tuyến/N của/E Bảo_hiểm_xã_hội/N Việt_Nam/Np phân_tích/V dữ_liệu/N toàn_quốc/N cũng/R bước_đầu/N phát_hiện/V những/L trường_hợp/N bất_thường/A như/C kéo_dài/V ngày/N nằm/V viện/N đề_nghị/V thanh_toán/V không/R đúng/A quy_định/N chỉ_định/V xét_nghiệm/V chẩn_đoán/V hình_ảnh/N quá/R mức/N cần_thiết/A áp/V sai/A giá/N dịch_vụ/N
+Đơn_cử/V khi/N phẫu_thuật/V thay/V thủy_tinh_thể/N một/M mắt/N đơn_thuần/A người_bệnh/N chỉ/R cần/V nằm/V viện/N 1-3/M ngày/N /A không/R có/V biến_chứng/N /M
+Tại_Bệnh/Np viện/N Mắt_Thanh_Hóa/Np thời_gian/N nằm/V 7,1/M ngày/N Bệnh_viện/N Mắt_Thái_Nguyên/Np là/V 6,3/M ngày/N Bệnh_viện/N Mắt_Sơn_La/Np là/V 7,5/M ngày/N
+Chênh_lệch/A tiền/N giường/N trên/E 1,9/M tỷ/N đồng/N
+Bảo_hiểm_xã_hội/X các/L tỉnh/N đang/R tổ_chức/V giám_định/V phối_hợp/V với/E Sở/N Y_tế/N các/L cơ_sở/N khám/V chữa/V bệnh/N tăng_cường/V kiểm_soát/V thông/N tuyến/N xử_lý/V các/L trường_hợp/N lạm_dụng/V thẻ/N bảo_hiểm_y_tế/X

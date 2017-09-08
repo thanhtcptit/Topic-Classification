@@ -1,0 +1,11 @@
+Đình_chỉ/N bếp/N ăn/V để/V xảy/V ra/R vụ/N hơn/R 60/M công_nhân/N ngộ_độc/N
+​/V Trước/E khi/N xảy/V ra/R vụ_việc/N hơn/A 60/M công_nhân/N nhà/N máy_may/N Hitexvinam/Np Nghệ_An/Np phải/V nhập_viện/V sau/N bữa/N cơm/N trưa/N bếp/N ăn/V tại/E nhà_máy/N này/P đã/R bị/V đình_chỉ/V hoạt_động/V
+Ngày/N 235/M ông/N Đinh_Văn_Thị/Np phó/Z chủ_tịch/N UBND/Np thị_xã/N Thái_Hoà/Np tỉnh/N Nghệ_An/Np cho/V biết/V thị_xã/N đã/R đình_chỉ/V hoạt_động/N bếp/N ăn/V do/E một/M đơn_vị/N cung_cấp/V thức/N ăn_ở/N huyện/N Quỳnh_Lưu/Np cho/V công_nhân/N nhà/N máy_may/V Hitexvinam/Np sau/N sự_việc/N hơn/R 60/M công_nhân/N nhà_máy/N này/P phải/V nhập_viện/V sau/N bữa/N ăn/V trưa/N
+Ông/N Thị/Np thông_tin/V trước/E đó/P ngày/N 185/M bếp/N ăn/V này/N từng/R bị/V đoàn/N kiểm_tra/V liên_ngành/N thị_xã/N Thái_Hoà/Np lập/V biên_bản/N đình_chỉ/V hoạt_động/N do/E không/R đạt/V 1632/M tiêu_chí/N vệ_sinh/N an_toàn/A thực_phẩm/N
+Tuy_nhiên/C bếp/N ăn/V này/P vẫn/R tiếp_tục/V hoạt_động/V và/N đến/E ngày/N 225/M thì/N xảy/V ra/R ngộ_độc/V tập_thể/N
+Ông/Nc Hoàng_Quốc_Sơn/Np chi_cục/N phó/N Chi_cục/N vệ_sinh/V an_toàn/N thực_phẩm/N Nghệ_An/Np cho/V biết/V đoàn/N công_tác/V của/E Sở/N Y/Np tế/N đã/R kiểm_tra/V việc/N chấp_hành/V các/L quy_định/N vệ_sinh/N an_toàn/A thực_phẩm/N và/CC lấy/V các/L mẫu/N thức_ăn/N để/E xét_nghiệm/V tìm/V nguyên_nhân/N gây/V ngộ_độc/V
+Bác/N sĩ/N Tăng_Viết_Hà/Np giám_đốc/V Bệnh_viện/N Đa_khoa/N Tây_Bắc_Nghệ_An/Np cho_hay/V đến/E sáng/N 235/M vẫn/R còn/R có/V 33/M người/N phải/V điều_trị/V tại/E khoa/N Truyền_nhiễm/N
+Trong/E số/N này/P có/V một/M ca/N nặng/A phải/A chuyển/V sang/V khoa/N Cấp_cứu/V
+Như_Tuổi_Trẻ/Np thông_tin/N sau/N bữa/N cơm/N trưa/N 225/M gồm/N rau_muống/N luộc/V thịt/N kho/N trứng/N và/CC canh/N rau/N khoảng/N 14h/M nhiều/N công_nhân/N nhà/N máy_may/N Hitexvinam/Np nôn/V ói/N đau/V bụng/N và/CC được/V đưa/V đi/V Bệnh_viện/N Đa_khoa/N Tây_Bắc_Nghệ_An/Np cấp_cứu/V
+Nhà_máy/N may/N Hitexvinam/Np do/E Hàn_Quốc/Np đầu_tư/V có/V quy_mô/N khoảng/N 3000/M công_nhân/N hoạt/N động_từ/N đầu/N năm/N 2017/M
+Đến/E nay/N có/V khoảng/A hơn/R 400/M công_nhân/N làm_việc/N

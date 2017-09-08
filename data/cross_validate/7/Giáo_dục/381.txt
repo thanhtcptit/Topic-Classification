@@ -1,0 +1,27 @@
+Hà_Nội/Np Sắp/R áp_dụng/V sổ/N điểm/N điện_tử/N ở/E trường/N THCS/Np THPT/Np 
+Việc/N sử_dụng/V sổ/N điểm/N điện_tử/N sẽ/R giúp/V giáo_viên/N giảm/V áp_lực/N khi/N tính/V điểm/N trung_bình/A môn/N xếp/V loại/N học_tập/V giúp/V nhà_trường/N dễ/A quản_lý/V và/CC hạn_chế/V việc/N sửa/V điểm/N 
+Thay/V sổ/N giấy/N bằng/E điện_tử/N Trao_đổi/V với/E PV/Np Dân_trí/N sáng/N 4/8/M ông/Nc Nguyễn_Trọng_Cường/Np Trưởng_phòng/N KH/Np CNTT/Np Sở/N GD&/Np ĐT/Np Hà_Nội/Np )/A cho_biết/V Sở/N GD&/Np ĐT/Np Hà_Nội/Np dự_kiến/V sẽ/R triển_khai/V áp_dụng/V sổ/N điểm/N điện_tử/N trong/E năm_học/N này/P 
+Theo/E đó/P Sở/N GD&/Np ĐT/Np thành_phố/N sẽ/R các/L văn_bản/N hướng_dẫn/V về/E kĩ_thuật/N cũng_như/C công_tác/N bảo_mật/V 
+Hiện/N mọi/L công_tác/N đang/R gần/A hoàn_thiện/V 
+Sở/N cũng/R đang/R xây_dựng/V các/L hệ_thống/N văn_bản/N để/E lấy/V ý_kiến/N của/E các/L đơn_vị/N 
+Trước_mắt/N sẽ/R áp_dụng/V cho/E khối/N trường/N từ/E THCS/Np THPT/Np và/CC Giáo_dục/N Thường_xuyên/A 
+Đối_với/E các/L trường/N tiểu_học/N do/E có/V một_số/L thay_đổi/V nên/C hiện_tại/N Sở/N đang/R chờ/V hướng_dẫn/V của/E Bộ/N GD&/Np ĐT/Np rồi/C mới/R thực_hiện/V ngay/R sau/E đó/P 
+Cụ_thể/A theo/E Sở/N GD&/Np ĐT/Np Hà_Nội/Np việc/N nhập/V điểm/N vào_sổ/V điểm/N điện_tử/N sẽ/R được/V thực_hiện/V theo/E quy_trình/N bắt_buộc/V thống_nhất/V ở/E các/L khâu/N và/CC định_kỳ/N theo/V từng/R tuần/N hoặc/CC từng/R tháng/N ở/E tất_cả/P các/L nhà_trường/N 
+Về/E việc/N khảo_sát/V máy_móc/N và/CC trình_độ/N CNTT/Np của/E giáo_viên/N khi/N áp_dụng/V đại_trà/N hình_thức/N này/P trên/E địa_bàn/N Hà_Nội/Np ông/Nc Cường/Np chia_sẻ/V khi/N áp_dụng/V tối_thiểu/V mỗi/M trường/N sẽ/R phải/V có/V một/M máy_tính/N đang/R hoạt_động/V để/E thực_hiện/V 
+Như_vậy/C các/L trường/N đều/R có_thể/A đáp_ứng/V được/R 
+Ngoài_ra/C Sở/N GD&/Np ĐT/Np Hà_Nội/Np cũng/R triển_khai/V tập_huấn/V trước/E khi/N thực_hiện/V 
+Theo/E tính_toán/V của/E Sở/N GD&/Np ĐT/Np Hà_Nội/Np năm_học/N 2016/M 2017/M toàn/R thành_phố/N có/V khoảng/A 2/M nghìn/M giáo_viên/N //X 2/M nghìn/N trường_học/N được/V tập_huấn/V công_tác/N quản_lý/V sổ/N điểm/N điện_tử/N 
+Thời_gian/N qua/V Sở/N đã/R tập_huấn/V cho/E khoảng/N 1.700/M giáo_viên/N //X 1.700/M 
+trường/N mỗi/M trường/N chỉ/R có/V duy_nhất/A một/M cán_bộ/N tham_dự/V tập_huấn/V )/A 
+Khoảng/N hết/V tháng/N 8/2016/M việc/N tập_huấn/V này/P sẽ/R hoàn_thành/V ở/E cả/P 2/M nghìn/N trường_học/N trên/E địa_bàn/N Hà_Nội/Np 
+Việc/N sửa/V điểm/N sẽ/R được/V lưu/V lại/R toàn_bộ/N Trả_lời/V câu_hỏi/N của/E PV/Np Dân_trí/Np về/E việc/N hiện/V một_số/L đơn_vị/N cung_cấp/V phần_mềm/N ghi/V không/R có/V ứng_dụng/N quản_lý/V việc/N sửa/V điểm/N trên/E hệ_thống/N sổ/N điểm/N điện_tử/N 
+Làm/V thế_nào/P để/E các/L trường/N quản_lý/V chặt_chẽ/A điểm_số/N học_bạ/V khi/N chỉ/R cần/V một/M cú/Nc click/N chuột/V giáo_viên/N có_thể/R sửa/V điểm/N học_sinh/N 
+Ông/Nc Cường/Np cho_hay/V điều/N này/P hoàn_toàn/A liên_quan/V đến/E yếu_tố/N kĩ_thuật/V và/CC xây_dựng/V hệ_thống/N phần_mềm/N 
+Theo/E đó/P việc/N sửa_sang/V điểm_số/N trên/E phần_mềm/N này/P không/R giống/A như/C sửa/V và/CC sẽ/R bị/V xóa/V sạch/A dấu_vết/N như/C sửa/V trên/E một/M bản/N Excel/Np 
+Yêu_cầu/N của/E việc/N sửa/V điểm/N trên/E phần_mềm/N này/P bắt_buộc/V phải/V đúng/A quy_trình/N có/V các/L bước/N 
+Đồng_thời/R trên/E hệ_thống/N sẽ/R lưu/V lại/R toàn_bộ/L quá_trình/N sửa_chữa/V thời_điểm/N nào/P ai/P sửa/V và/CC từ/E điểm/N nào/P sang/V điểm/N nào/P 
+Như_vậy/C có_thể/R nói/V phầm/N mềm/A này/P còn/R chi_tiết/A và/CC rõ_ràng/A hơn/R cả/T việc/N quản_lý/V trên/E sổ/N điểm/N bằng/E giấy/N ông/Nc Cường/Np cho_biết/V 
+Cũng/R theo/E ông/Nc Cường/Np toàn_bộ/L dữ_liệu/N sẽ/R tập_trung/V về/E hệ_thống/N server/N lưu_trữ/V 
+Các/L sever/N này/P được/V đặt/V ở/E trung_tâm/N thông_tin/N của/E toàn/N thành_phố/N và/CC lưu_trữ/V toàn_bộ/L quá_trình/N cập_nhật/V dữ_liệu/N rất/R chi_tiết/A 
+Việc/N quản_trị/V hệ_thống/N dữ_liệu/N này/P không_chỉ/R có/V một/M người/N mà/C là/V một/M bộ_phận/N quản_trị/V riêng/A nên/C khó/A có/V chuyện/N vô_tình/A bị/V xóa/V hoặc/CC bị/V mất/V 
+Mỹ_Hà/Np 

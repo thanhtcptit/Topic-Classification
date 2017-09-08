@@ -1,0 +1,9 @@
+Hà_Nội/Np nhắn_tin/V 13000/M chủ_tài_khoản/N Facebook/Np khai/V thuế/N
+Cục/N Thuế/Np TP/Np Hà_Nội/Np ngày/N 206/M cho/V biết/V đã/R xác_định/V 13422/M chủ_tài_khoản/N Facebook/Np có/V hoạt_động/N quảng_cáo/V và/N bán/V hàng/N qua/V mạng/N
+Cục/N Thuế/Np đã/R gửi/V tin_nhắn/V đến/E các/L tài_khoản/N để/V hướng_dẫn/V người/N kinh_doanh/V đăng_kí/N và/CC kê_khai/V thuế/N
+Ông/Nc Viên_Viết_Hùng/Np phó/N cục_trưởng/N Cục/N Thuế/Np TP/Np Hà_Nội/Np cho/V biết/V cơ/N quan_thuế/N Hà_Nội/Np đã/R gửi/V tin_nhắn/N SMS/Np đến/V các/L chủ_tài_khoản/N chưa/R đăng_kí/V thuế/N hướng_dẫn/V truy_cập/N trang/N httphanoigdtgovvn/N để/E được/V hướng_dẫn/V đăng_kí/N kê_khai/V thuế/N qua/V mạng/N
+Hiện_tại/N Cục/N Thuế/Np đang/R tập_trung/V hướng_dẫn/V hỗ_trợ/N và/CC khuyến_khích/V người/N kinh_doanh/V đăng_kí/V theo/V quy_định/N và/CC tự_giác/V thực_hiện/V nghĩa_vụ/N
+Theo/E thông_tin/N từ/E Tổng_cục/N thuế/N hiện/N có/V cơ/N quan_thuế/V Hà_Nội/Np và/CC TPHCM/Np đang/R chủ_động/V triển_khai/V việc/N quản_lí/V thuế/N đối_với/N cá_nhân/N kinh_doanh/V trên/N Facebook/Np
+Theo/E báo_cáo/N của/E Cục/N thuế/N TPHCM/Np cơ/N quan_thuế/N này/P đã/R gửi/V hơn/A 13000/M thông_báo/N đến/E các/L cá_nhân/N kinh_doanh/V trên/N Facebook/Np
+Và/C tới/V nay/P đã/R có/V một/M cá_nhân/N đến/V cơ/N quan_thuế/N để/E trao_đổi/V về/E quy_định/N quản_lí/N thuế/N đối_với/N kinh_doanh/V trên/N Facebook/Np
+Mục_đích/N quản_lí/V thuế/N đối_với/N kinh_doanh/V trên/N mạng_xã_hội/N trong/N đó/N có/V Facebook/N Tổng_cục/N thuế/N cho/V biết/V chỉ/R đảm_bảo/V người/N kinh_doanh/V nhận_thức/V rõ/A được/V trách_nhiệm/N và/CC nghĩa_vụ/N của/E mình/P chứ/R không/R phải/A vì/E tăng/V thu/N

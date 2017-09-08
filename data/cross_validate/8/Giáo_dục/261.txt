@@ -1,0 +1,29 @@
+Nam_sinh/N sáng_tạo/V phần_mềm/N học/V trên/E mạng/N được/V tuyển/V thẳng/A vào/E đại_học/N 
+Sóc_Trăng/Np Theo/V thầy/N Nguyễn_Trung_Vỹ/Np Phó_Hiệu/Np trưởng/Z trường/N THPT/Np Lịch_Hội_Thượng/Np ngay/T từ/E lúc/N học/V THCS/Np em/N Lâm_Thành_Lộc/Np đã/R có/V niềm/N đam_mê/V tin_học/N nên/C em/N luôn/R mày_mò/V nghiên_cứu/V về/E lập_trình/N và/CC đã/R hình_thành/V ý_tưởng/N sáng_tạo/V các/L sản_phẩm/N mô_hình/N phục_vụ/V cho/E việc/N học_tập/V 
+Và/C em/N đã/R thành_công/V với/E các/L sản_phẩm/N đó/P 
+Thầy_Vỹ/Np cho_biết/V ấn_tượng/N đầu_tiên/A của/E Lộc/Np là/V cho/E ra_đời/V sản_phẩm/N mang/V tên/N Học_Plus/Np 
+Đây/P là/V phần_mềm/N hệ_thống/N mang/V tính/N sáng_tạo/N cao/A hỗ_trợ/V đắc_lực/A cho/E việc/N học_tập/V của/E học_sinh/N và/CC chính/T đề_tài/N này/P cũng/R đã/R giúp/V em/N nhận/V giải/N Nhất/A trong/E cuộc_thi/N Sáng_tạo/V thanh_thiếu_niên/N nhi_đồng/N tỉnh/N Sóc_Trăng/Np và/CC giải/N Nhì/Np trong/E cuộc_thi/N Khoa_học_kỹ_thuật/Np cấp/V quốc_gia/N năm/N 2016/M 
+Em_Lâm_Thành_Lộc/Np cho_biết/V Hàng/N ngày/N em/N thấy/V các/L bạn/N học_sinh/N chủ_yếu/A sử_dụng/V internet/N để/E chơi/V game/N nghe/V nhạc/N hoặc/CC lên/V facebook/N rất/R ít/A ai/P sử_dụng/V cho/E việc/N học_tập/V cũng_như/C việc/N kiểm_tra/V kiến_thức/N của/E mình/P 
+Còn/C các/L website/N hỗ_trợ/V học_tập/V thì/C không/R nhiều/A và/CC đa_phần/A là/V tính/V phí/N và/CC đăng_nhập/V khó_khăn/A 
+Vì_vậy/C năm_học/N lớp/N 11/M em/N đã/R bắt_tay/V vào/R thực_hiện/V sản_phẩm/N “/V Học_Plus/Np để/E phục_vụ/V cho/E việc/N học_tập/V của/E mình/P và/CC cho/E các/L bạn/N khác/A 
+Do/E thường/R tham_khảo/V chức_năng/N giải/N toán/N trên/E trang/N Cốc_Cốc/Np và/CC “/V WolframAlpha/Np Lộc/Np nhận/V thấy/V 2/M trang/N này/P có_thể/R kết_hợp/V để/E tăng/V tốc_độ/N xử_lý/V 
+Vậy_là/C em/N bắt_tay/V vào/E nghiên_cứu/N viết/V mã/N nguồn/N để/E tạo/V nên/C tính_năng/V toán/N 
+Bằng/E phương_pháp/N này/P em/N cũng/R tích_hợp/V viết/V tiếp/R mã/V nguồn/N cho/E các/L tính_năng/N hóa_học/N lịch_sử/N và/CC quiz/N các/L câu/N trắc_nghiệm/V liên_quan/V đến/E kỹ_năng/N sống/V )/A 
+Theo/E Lâm_Thành_Lộc/Np không/R tốn/V chi_phí/N lại/R có_thể/R sử_dụng/V trên/E mọi/L thiết_bị/N được/R kết_nối/V internet/N với/E thời_gian/N từ/E lúc/N nhập/V dữ_liệu/N đến/E có/V kết_quả/N chỉ/R từ/E 5/M đến/E 10/M giây/Nu người/N sử_dụng/V sẽ/R được/V giải_quyết/V những/L bài_toán/N khó/A hoặc/CC nắm_bắt/V các/L giai_đoạn/N lịch_sử/N gắn/V liền/R với/E những/L tên_tuổi/N của/E các/L nhân_vật/N lịch_sử/N và/CC với/E phần_mềm/N trắc_nghiệm/V giúp/V khám_phá/V được/R bản_thân/N mình/P 
+Tất_cả/P những/L thứ/N đó/P chỉ/R cần/V truy_cập/V vào/E Học_Plus/Np là/V có/V một/M giải_pháp/N để/E trả_lời/V cụ_thể/A 
+Thầy_Trần_Trung_Vỹ/Np nhận_xét/V Trước/E khi/N có/V mô_hình/N của/E Lộc/Np nhiều/A em/N học_sinh/N cũng/R tổ_chức/V học/V nhóm/N nhưng/C thời_gian/N làm/V bài_tập/V hơi/R lâu/A và/CC tìm/V cách/N giải/N cũng/R khó/A hơn/R 
+Nhưng/C từ/E khi/N áp_dụng/V phần_mềm/N Học_Plus/Np các/L em/N dễ/A hợp_tác/V giải/V bài/N nhanh/A hơn/A nếu/C quên/V công_thức/N thì/C chỉ/R cần/V lên/R Hoc_Plus/Np tra_cứu/N là/V có/V hết/V 
+Phần_mềm/N “/V Học_Plus/Np rất/R thiết_thực/A hỗ_trợ/V rất/R nhiều/A cho/E học_sinh/N trong/E học_tập/V 
+Hiện_nay/N sản_phẩm/N của/E Lộc/Np được/V nhiều/A giáo_viên/N và/CC học_sinh/N sử_dụng/V 
+Với/E kết_quả/N trên/A Lâm_Thành_Lộc/Np đã/R được/V tuyển/V thẳng/A vào/E đại_học/N và/CC em/N đã/R đăng_ký/V học/V tại/E trường/N ĐH/Np Khoa_học_tự_nhiên/N ĐH/Np Quốc_gia/Np TPHCM/Np 
+Năm/N 2017/M Lâm_Thành_Lộc/Np tiếp_tục/V cho/V ra_đời/V sản_phẩm/N “/V Luyện/Np thi/V môn/N Giáo_dục/N công_dân/N trực_tuyến/A và/CC tiếp_tục/V đạt/V giải/N Nhất/A cấp/N tỉnh/N và/CC được/V chọn/V đi/V dự/V thi/V cấp/V quốc_gia/N 
+Nói/V về/E ý_tưởng/N của/E sản_phẩm/N này/P Lộc/Np cho_biết/V Trong/E kỳ/N thi/V THPT/Np Quốc_gia/Np năm/N 2017/M môn/N GDCD/Np là/V môn/N thuộc/V tổ_hợp/N môn/N khoa_học_xã_hội/N thi/V theo/E hình_thức/N trắc/V nhiệm/N 
+Ở/E thời_điểm/N đó/P chưa/R có/V trang_web/N hay/C phần_mềm/N luyện/V thi/N nào/P hỗ_trợ/V cho/E thí_sinh/N luyện/V thi/V 
+Từ/E đó/P em/N hình_thành/V ý_tưởng/N sáng_tạo/V ra/R một/M trang_web/N giúp/V các/L bạn/N học_sinh/N có_thể/A ôn/V thi/V môn/N GDCD/Np một_cách/N đơn_giản/A dễ_dàng/A và/CC có/V hiệu_quả/N với/E hệ_thống/N chấm/V bài/N tự_động/A 
+Sau/E hơn/A một/M tháng/N mày_mò/V nhiên/N cứu/V sản_phẩm/N đã/R ra_đời/V và/CC đưa/V vào/E ứng_dụng/N có/V hiệu_quả/N cao/A 
+Với/E sản_phẩm/N này/P nhà_trường/N có_thể/R sử_dụng/V vào/E việc/N luyện/V thi/V môn/N GDCD/Np cho/E học_sinh/N 
+Học_sinh/N có_thể/A tự/P luyện/V thi/V cho/E mình/P mọi/L lúc/N mọi/L nơi/N rút/V ngắn/A thời_gian/N luyện/V thi/V bằng/E cách/N thi/V trực_tuyến/A thay_vì/V thi/V trên/E giấy/N như/C trước/N 
+Đồng_thời/R cũng/R tiết_kiệm/V được/R chi_phí/N hơn/A bởi/E trước_đây/N phải/V in/V đề/N và/CC photo/V đề/N giảm/V được/R thời_gian/N của/E giáo_viên/N bằng/E cách/N tự_động/A chấm/V bài/N có/V độ_chính_xác/N cao/A hơn/A chấm/N thủ_công/N 
+Thầy_Nguyễn_Trung_Vỹ/Np Phó_Hiệu/Np trưởng/Z trường/N THPT/Np Lịch_Hội_Thượng/Np cho_biết/V Chưa/R dừng/V lại/R ở/E các/L tính_năng/N hiện/N có/V Lộc/Np đã/R nghiên_cứu/V để/E tích_hợp/V thêm/V tính_năng/N luyện/V thi/V GDCD/Np cũng_như/C các/L môn/N Vật_lý/N Anh_văn/N giúp/V các/L em/N học_sinh/N thuận_tiện/A hơn/A trong/E học_tập/V 
+Qua/E đó/P cũng/R khơi/V dậy/V tinh_thần/N tìm_tòi/V nghiên_cứu/V khoa_học/N của/E học_sinh/N trong/E nhà_trường/N 
+Không_chỉ/C đạt/V giải/N trong/E cuộc_thi/N sáng_tạo/V thanh_thiếu_niên/N nhi_đồng/N Lâm_Thành_Lộc/Np còn/R sở_hữu/V nhiều/A giải_thưởng/N cao/A như/C Giải_Nhì_Tin/Np học/V tỉnh/N giải/N Nhì/Np giải/V Toán/N trên/E máy_tính/N casio/N tỉnh/N Huy_chương/N Bạc/N cuộc_thi/N Volympic_Toán/Np lớp/N 12/M Huy_chương/N Đồng/Np cuộc_thi/N Volympic_Vật_Lý/Np 12/M …/M Cao_Xuân_Lương/Np 

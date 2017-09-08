@@ -1,0 +1,7 @@
+Trung_học/N Thực_hành/V ĐH/Np Sư_phạm/N TP_HCM/Np công_bố/V điểm/N thi/V
+Ngày/N 14/6/M trường/N Trung_học/N Thực_hành/V sẽ/R công_bố/V điểm_chuẩn/A vào/E 3/M lớp/N chuyên/A Toán/Np Văn/Np và/CC Anh_văn/N
+Dự_kiến/V điểm_chuẩn/N năm/N nay/P sẽ/R thấp/A hơn/A năm/N trước/A vì/E mặt_bằng/N chung/A khá/R thấp/A
+>/M >/N Điểm/N thi/V Toán/Np >/V >/M Điểm/N thi/V Văn/Np >/V >/M Điểm/N thi/V tiếng/N Anh/N Năm/N nay/P trường/N tuyển/V 3/M lớp/N chuyên/A mỗi/L lớp/N 35/M chỉ_tiêu/N
+Số_lượng/N đăng_ký/V vào/V chuyên/A Anh/N cao/A nhất/A với/E 634/M em/N tiếp/V đó/P là/V Toán/Np 335/M em/N và/CC Văn/Np 282/M em/N
+Thí_sinh/N phải/V thi/V 3/M môn/N cơ_bản/A Toán/Np Văn/Np Anh/Np và/CC một/M môn/N chuyên/A
+Điểm/N xét/V tuyển/V là/V tổng/N điểm/N 3/M môn/N cơ_bản/A và/CC điểm/N bài/N thi/V môn/N chuyên/A tương_ứng/V với/E lớp/N chuyên/A /V đã/R tính/V hệ_số/A 2/M /Nu

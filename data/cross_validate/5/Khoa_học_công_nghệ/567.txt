@@ -1,0 +1,17 @@
+Những/L điểm/N đặc_biệt/A của/E sao/P Thiên_Vương/Np
+Sao_Thiên_Vương/X hành_tinh/N thứ/N 7/M tính_từ/V Mặt_Trời/Np do/E nhà/N thiên_văn_học/N William_Herschel/Np khám_phá/V thường/R ít/A được/V nhắc/V đến/R nhưng/C nó/P mang/V những/L đặc_điểm/N kỳ_lạ/A mà/C không/R hành_tinh/N nào/P trong/E hệ/N Mặt_Trời/Np có/V theo/V How_Stuff_Works/Np
+Chu_kỳ/N quỹ_đạo/A của/E Sao_Thiên_Vương/Np bằng/E 84/M năm/N trên/A Trái_Đất/Np
+Khoảng_cách/N trung_bình/A từ/E hành_tinh/N này/P đến/E Mặt_Trời/Np xấp_xỉ/A ba/M tỷ/N km/Nu
+Các/L nhà/N thiên_văn/N dựa/V vào/E dữ_liệu/N thu_thập/V từ/E chuyến/N bay/V của/E tàu_vũ_trụ/N Voyager/Np 2/M vào/E năm/N 1986/M để/E mô_phỏng/V từ/E quyển/N của/E hành_tinh/N băng/N khổng_lồ/A
+Kết_quả/N  /V cho/E thấy/V từ_trường/N sao/P Thiên_Vương/Np rất/R kỳ_lạ/A
+Trục/N từ_trường/N không/R đi/V qua/E khối/N tâm/N của/E hành_tinh/N mà/C bị/V nghiêng/V một/M góc/N bằng/E 60°/M so/V với/E trục_quay/N
+Sao_Thiên_Vương/Np được/V đặt/V tên/N theo/E vị/N thần/N bầu_trời/N của/E người/N Hy_Lạp/Np cổ/N  /M Uranus/Np
+Đây/P là/V hành_tinh/N duy_nhất/A lấy/V tên/N theo/E một/M vị/Nc thần/N trong/E  /M thần_thoại/N Hy_Lạp/Np thay_vì/V trong/E  /M thần_thoại/N La_Mã/Np
+Trục/N của/E Trái_Đất/Np chỉ/R bị/V nghiêng/V một/M góc/N bằng/E 23/M 5/M độ/N nhưng/C trục_quay/N của/E sao/P Thiên_Vương/Np bị/V nghiêng/V một/M góc/N rất/R lớn/A bằng/E 98/M độ/N gần/A song_song/A với/E mặt_phẳng/N quỹ_đạo/N
+Do_đó/C cực/N bắc/N và/CC cực/N nam/N của/E hành_tinh/N này/P gần_như/R nằm/V tại/E vị_trí/N  /M xích_đạo/N  /V so/V với/E những/L hành_tinh/N khác/A
+Hai/M vùng/N cực/A nhận/V được/R nhiều/A năng_lượng/N ánh_sáng/N Mặt_Trời/Np hơn/A vùng/N xích_đạo/N
+Các/L nhà_khoa_học/N cho/V rằng/C trục_quay/N của/E sao/P Thiên_Vương/Np bị/V nghiêng/V như_vậy/X do/E trong/E giai_đoạn/N hình_thành/V hệ/N Mặt_Trời/Np một/M tiền/N hành_tinh/N có/V kích_cỡ/N bằng/E Trái_Đất/Np đã/R va_chạm/V với/E sao/P Thiên_Vương/Np làm/V lệch/A trục_quay/N của/E hành_tinh/N
+Sao_Thiên_Vương/Np có/V thành_phần/N hóa_học/N tương_tự/A như/C  /V sao/P Hải_Vương/Np nhưng/C khác_biệt/A so/V với/E hai/M  /N hành/V tinh_khí/N khổng_lồ/A  /V lớn/A hơn/R là/V  /M sao/N Mộc/Np  /V và/CC  /V sao/T Thổ/Np
+Vì/E lý_do/N này/P các/L nhà/N thiên_văn/N đôi_khi/R phân_loại/V sao/P Thiên_Vương/Np thuộc/V dạng/N hành_tinh/N băng/N khổng_lồ/A
+Bầu/V  /M khí_quyển/N  /N của/E sao/P Thiên_Vương/Np lạnh/A nhất/R trong/E số/N các/L hành_tinh/N nằm/V trong/E hệ/N Mặt_Trời/Np với/E nhiệt_độ/N cực_tiểu/A bằng/E 224/M  /N °/V C/N
+Những/L đám/Nc mây/N tầng/N thấp/A trong/E bầu/N khí_quyển/N của/E hành_tinh/N chứa/V chủ_yếu/A là/V nước/N trong/E khi/N methane/V  /N CH4/Np lại/R chiếm/V chủ_yếu/A trong/E tầng/N mây/N phía/N trên/N  /M Cấu_trúc/V bên/N trong/E sao/P Thiên_Vương/Np chỉ/R chứa/V một/M lõi/N băng/N và/CC đá/N

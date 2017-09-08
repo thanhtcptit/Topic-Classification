@@ -1,0 +1,12 @@
+TP_HCM/Np công_bố/V chỉ_tiêu/N lớp/N 10/M công_lập/N
+Sáng/N 4/4/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np công_bố/V chỉ_tiêu/N tuyển_sinh/V vào/E lớp/N 10/M công_lập/N năm_học/N 2017-2018/M là/V 63 0/M tăng/V 1 0/M chỉ_tiêu/N so/V với/E năm/N trước/E
+Những/L trường/N THPT/Np có/V chỉ_tiêu/N tuyển_sinh/V cao/A là/C THPT/Np Hùng_Vương/Np /M 1 5/M học_sinh/N /A Mạc_Đĩnh_Chi/Np /V 1 0/M /N
+Gia_Định/Np /V 1 0/M /N
+Trần_Phú/Np và/CC Tây_Thạnh/Np /V 900/M /N
+Con_số/N này/P không/R biến_động/V nhiều/A so/V với/E các/L năm/N
+Theo/E số_liệu/N các/L phòng/N giáo_dục/V gửi/V về/E Sở/N năm/N nay/P có/V khoảng/N 81 0/M thí_sinh/N đăng_ký/V thi/V vào/E lớp/N 10/M THPT/Np công_lập/V tăng/V khoảng/N 13 0/M em/N so/V với/E năm_ngoái/N
+Trong/E đó/P 20 0/M em/N sẽ/R rớt/V phải/V vào/V các/L trường/N THPT/Np tư_thục/N trung_tâm/N giáo_dục/V thường_xuyên/A trường/N nghề/N
+Các/L thí_sinh/N dự/V thi/V 3/M môn/N Ngữ_văn/N Toán/Np Anh_văn/N vào/E ngày/N 2/M và/CC 3/6/M
+Điểm/N trúng_tuyển/V là/V tổng/N điểm/N 3/M môn/N trong/E đó/P môn/N Ngữ_văn/N và/CC Toán/Np nhân/V hệ_số/N 2/M môn/N Anh_văn/N hệ_số/N 1/M
+Trước/E đó/P Sở/N Giáo/Np dục/V TP_HCM/Np công_bố/V 1 0/M chỉ_tiêu/N tuyển_sinh/V vào/E các/L trường/N chuyên/A lớp/N chuyên/A  /M Thí/N
+sinh/V dự/V thi/V môn/N chuyên/A /V 150/M phút/Nu /V vào/E chiều/N 3/6/M

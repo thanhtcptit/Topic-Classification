@@ -1,0 +1,44 @@
+Đại_học/N Đà_Lạt/Np Mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V từ/E 15,5/M 17/M điểm/N 
+Mức/N điểm/N nhận/V hồ_sơ/N đăng_ký/V xét/V tuyển/V trên/E đã/R bao_gồm/V điểm/N ưu_tiên/V khu_vực/N và/CC đối_tượng/N 
+Để/E hỗ_trợ/V thí_sinh/N nhà_trường/N cũng/R công_bố/V đường_dây_nóng/N tư_vấn/V với/E số/N điện_thoại/N 0263.3825091/M và/CC email/V phongquanlydaotao@dlu.edu.vn/N 
+Chỉ_tiêu/N xét/V tuyển/V của/E Trường/N ĐH/Np Đà_Lạt/Np STT/Np Tên/N ngành/N học/V Mã/Np ngành/N Tổ_hợp/N môn/N xét/V tuyển/V Chỉ_tiêu/N Mức/N điểm/N nhận/V hồ_sơ/N ĐKXT/Np Các/L ngành/N đào_tạo/V đại_học/N 3195/M 1/M 
+Toán_học/N 52460101/M Toán/N Vậtlý/Np Hóahọc/Np Toán/Np Vậtlý/Np TiếngAnh/Np Toán/Np TiếngAnh/Np KHTN/Np 
+80/M 15.5/M 2/M 
+Sư_phạm/N Toán_học/N 52140209/M 30/M 17/M 3/M 
+Công_nghệ_thông_tin/X 52480201/M 300/M 15.5/M 4/M 
+Vật_lý_học/N 52440102/M 80/M 15.5/M 5/M 
+Sư_phạm/N Vật_lý/N 52140211/M 30/M 17/M 6/M 
+Công_nghệ/N kỹ_thuật/N điện_tử/N truyền_thông/N 52510302/M 100/M 15.5/M 7/M 
+Kỹ_thuật/N hạt_nhân/N 52520402/M 40/M 17/M 8/M 
+Hóa_học/N 52440112/M 80/M 15.5/M 9/M 
+Sư_phạm/N Hóa_học/N 52140212/M 30/M 17/M 10/M 
+Kế_toán/N 52340301/M 100/M 15.5/M 11/M 
+Sinh_học/N 52420101/M Toán/N Hóahọc/Np Sinhhọc/Np Toán/Np Sinh/Np TiếngAnh/Np Toán/Np TiếngAnh/Np KHTN/Np 
+100/M 15.5/M 12/M Sư_phạm/Np Sinh_học/N 52140213/M 30/M 16/M 13/M 
+Nông_học/N 52620109/M 100/M 15.5/M 14/M 
+Công_nghệ_sinh_học/N 52420201/M 365/M 15.5/M 15/M 
+Khoa_học/N môi_trường/N 52440301/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Hóa_học/N Sinh_học/N Toán/Np Sinh/Np Tiếng_Anh/Np Toán/Np Tiếng_Anh/Np KHTN/Np 
+80/M 15.5/M 16/M 
+Công_nghệ/N sau/N thu_hoạch/V 52540104/M 125/M 15.5/M 17/M 
+Quản_trị/V kinh_doanh/V 52340101/M Toán/N Vật_lý/N Hóa_học/N Toán/Np Vật_lý/N Tiếng_Anh/Np Toán/Np Văn/Np Tiếng_Anh/Np Toán/Np Tiếng_Anh/Np KHXH/Np 
+200/M 16/M 18/M 
+Luật/N 52380101/M Văn/Np Lịch_sử/N Địa_lý/N Toán/Np Văn/Np Tiếng_Anh/Np Toán/Np Tiếng_Anh/Np KHXH/Np Văn/Np Tiếng_Anh/Np KHXH/Np 
+300/M 17/M 19/M 
+Văn_hóa/N học/V 52220340/M Văn/Np Lịch_sử/N Địa_lý/N Văn/Np Tiến/Np g/N Anh/N KHXH/Np Văn/Np Tiếng_Anh/Np Lịch_sử/N Văn/Np Tiếng_Anh/Np Địa_lý/N 
+30/M 15.5/M 20/N 
+Văn_học/N 52220330/M 60/M 15.5/M 21/M 
+Sư_phạm/N Ngữ_văn/N 52140217/M 30/M 17/M 22/M 
+Việt_Nam/Np học/V 52220113/M 30/M 15.5/M 23/M 
+Lịch_sử/N 52220310/M Văn/Np Lịch_sử/N Địa_lý/N Văn/Np Tiếng_Anh/Np KHXH/Np Văn/Np Tiếng_Anh/Np Lịch_sử/N 
+30/M 15.5/M 24/M 
+Sư_phạm/N Lịch_sử/N 52140218/M 20/N 17/M 25/M 
+Quản_trị/V dịch_vụ/N du_lịch/V và/CC lữ_hành/V 52340103/M Văn/Np Lịch_sử/N Địa_lý/N Toán/Np Văn/Np Tiếng_Anh/Np Văn/Np Tiếng_Anh/Np KHXH/Np 
+200/M 17/M 26/M 
+Công_tác/N xã_hội/N 52760101/M Văn/Np Lịch_sử/N Địa_lý/N Toán/Np Văn/Np Tiếng_Anh/Np Toán/Np Tiếng_Anh/Np KHXH/Np Văn/Np Tiếng_Anh/Np KHXH/Np 
+40/M 15.5/M 27/M 
+Đông/Np phương/N học/V 52220213/M 255/M 16/M 28/M 
+Quốc_tế/N học/V 52220212/M 30/M 15.5/M 29/M 
+Xã_hội_học/N 52310301/M 30/M 15.5/M 30/M 
+Ngôn_ngữ/N Anh/N 52220201/M Toán/Np Văn/Np Tiếng_Anh/Np Toán/Np Tiếng_Anh/Np KHXH/Np 
+240/M 15.5/M 31/M 
+Sư_phạm/N Tiếng_Anh/Np 52140231/M 30/M 17/M Ngọc_Hà/Np 

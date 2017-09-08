@@ -1,0 +1,10 @@
+Bộ/N Y_tế/N truy/V nguyên_nhân/N hàng/R chục/M bé/N trai/N Hưng_Yên/Np bị/V sùi/V mào_gà/N
+Cục/N Quản/Np lý/N khám/V chữa/V bệnh/N Bộ/N Y_tế/N yêu_cầu/V Giám_đốc/N Sở/N Y_tế/N tỉnh/N Hưng_Yên/Np Bệnh_viện/N Da_liễu/Np Trung_ương/N phối_hợp/V xác_minh/V thông_tin/N hàng/R chục/M bé/N trai/N bị/V sùi/V mào_gà/N sau/E khi/N cắt/V bao/N quy/N đầu/N ở/E một/M phòng_khám/N tư/N tại/E Hưng_Yên/Np
+Bệnh_viện/N Da_liễu/Np Trung_ương/N cung_cấp/V thông_tin/N hồ_sơ/N bệnh_án/V cho/E Sở/N Y_tế/N Hưng_Yên/Np để/E xem_xét/V điều_tra/V xác_minh/V sự_việc/N  /M Kết/Np
+quả/N xử_lý/V báo_cáo/V về/E Cục/N trước/E ngày/N 28/7/M
+Trước/E đó/P đại_diện/N Bệnh_viện/N Da_liễu/Np Trung_ương/N thông_báo/V về/E sự/Nc gia_tăng/V bất_thường/A các/L bé/N trai/N mắc/V bệnh/N sùi/V mào_gà/N tại/E huyện/N Khoái_Châu/Np Hưng_Yên/Np
+Thống_kê/V từ/E ngày/N 1/5/M đến/E ngày/N 15/7/M có/V hơn/A 1 0/M bệnh_nhân/N đến/E điều_trị/V sùi/N mào_gà/V tại/E Bệnh_viện/N Da_liễu/N Trung_ương/N trong/E số/N đó/P 59/M trẻ/N dưới/E 15/M tuổi/N
+Đáng/V chú_ý/V đến/V 39/M cháu/N ngụ/V ở/E tỉnh/N Hưng_Yên/Np và/CC riêng/A huyện/N Khoái_Châu/Np là/V 37/M bệnh_nhi/N
+Hà_Nội/Np có/V 2/M bé/N  /M Bác_sĩ/N khai_thác/V tiền_sử/N nhiều/A gia_đình/N cho_biết/V trước/E đó/P đã/R đưa/V con/N đi/V điều_trị/V chít/V hẹp/A bao/N quy/N đầu/N tại/E một/M phòng_khám/N tư/A ở/E xã/N Dạ_Trạch/Np huyện/N Khoái_Châu/Np
+Theo/E thanh_tra/N Sở/N Y_tế/N Hưng_Yên/Np phòng_khám/N này/P hoạt_động/V không/R phép/N
+Nhiều/A chuyên_gia/N cho/V rằng/C nếu/C số/N trẻ/N này/P cùng/A cắt/V bao/N quy/N đầu/N tại/E một/M phòng_khám/N tư/N cùng/C thời_điểm/N và/CC cùng/A mắc/V bệnh/N sùi/V mào_gà/N thì/C nhiều/A khả_năng/N do/E dụng_cụ/N chưa/R được/V vệ_sinh/V đúng/A cách/N

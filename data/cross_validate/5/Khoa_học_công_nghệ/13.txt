@@ -1,0 +1,6 @@
+Tín_đồ/N điện_thoại_di_động/N tăng/V lên/R 5/M tỉ/M người/N
+Việc/N gia_tăng/V chủ_yếu/A nhờ/V việc/N ngày_càng/X có/V nhiều/A người/N dân/N châu/N Á/Np trang_bị/V điện_thoại_di_động/N trong/E đó/P riêng/A Ấn_Độ/Np có/V thêm/V khoảng/N 310/M triệu/N thuê_bao/N mới/A trong/E ba/M năm/N tới/V
+Điện_thoại/N di_động/V là/V một/M nền_tảng/N toàn_cầu/N và/CC hiện/N đang/R hỗ_trợ/V cho/E 23/M dân_số/N thế_giới/N cung_cấp/V các/L kết_nối/N và/CC cơ_sở_hạ_tầng/N tạo/V năng_lượng/N cho/E nền/N kinh_tế/N kĩ_thuật_số/N mới/A và/CC giải_quyết/V các/L thách_thức/N kinh_tế/N xã_hội/N tờ/N The_Star/Np ngày/N 13/M dẫn/N lời/N ông/N Mats_Granryd/Np tổng_giám_đốc/N GSMA/Np nói/V
+Theo/E nghiên_cứu/N tính/V đến/E cuối/N năm/N 2016/M thế_giới/N có/V 488/M tỉ/N người_dùng/N điện_thoại_di_động/N với/E 79/M tỉ/N thẻ/N SIM/Np được/V kích_hoạt/V
+55/M kết/N nối/V được/R thực_hiện/V thông_qua/N mạng/N di_động/V băng_thông_rộng/N 3G/N 4G/N và/CC tỉ/N lệ/N này/P sẽ/R tăng/V lên/R 75/M trong/E vòng/N ba/M năm/N tới/V
+GSMA/Np cũng/R dự_đoán/N công_nghệ/N mạng/N di_động/V 5G/N sẽ/R được/V đưa/V vào/R thương_mại_hoá/N trong/N năm/N 2019/M và/N 13/M dân_số/N toàn_cầu/N sẽ/R sử_dụng/V 5G/M vào/E năm/N 2025/M

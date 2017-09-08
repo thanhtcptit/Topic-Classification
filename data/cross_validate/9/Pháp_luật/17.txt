@@ -1,0 +1,22 @@
+Tăng/Np án/N với/N ông/N trùm/N bảo_kê/N chợ/N gỗ/N Minh/Np Sâm/Np
+Nguyễn_Ngọc_Minh/Np tức/V Minh/Np Sâm/Np bị/V tăng/V án_từ/N 2/M năm/N lên/V 3/M năm/N tù/N còn/V đồng_phạm/N Quách_Văn_Lộc/Np tăng/V từ/E hơn/N 18/M tháng/N lên/R 30/M tháng/N tù/N liên_quan/V vụ/N lập/V bến_bãi/N bảo_kê/N chợ/N gỗ/N tại/E thị_xã/N Từ_Sơn/Np
+Ngày/N 306/M TAND/Np Cấp/N cao/A tại/E Hà_Nội/Np đã/R mở/V phiên_toà/N phúc_thẩm/V xét_xử/V bị_cáo/N Nguyễn_Ngọc_Minh/Np tức/V Minh/Np Sâm/Np 57/M tuổi/N ngụ/N thị_xã/N Từ_Sơn/Np Bắc_Ninh/Np cùng/A đồng_phạm/N về/V tội/N cưỡng_đoạt/V tài_sản/N và/CC tàng_trữ/N trái_phép/A vũ_khí/N quân_dụng/N
+Sau/E khi/N xem/V xét_lại/N toàn_bộ/N nội_dung/N vụ/N án/N TAND/Np Cấp/N cao/A đã/R quyết_định/V tăng/V mức/N hình_phạt/N đối_với/N hai/M bị_cáo/N
+Theo/E đó/P Minh/Np Sâm/Np bị/V tuyên_phạt/V 36/M tháng/N tù/N về/V tội/N cưỡng_đoạt/V tài_sản/N Quách_Văn_Lộc/Np 30/M tháng/N tù/N về/V tội/N tàng_trữ/V trái_phép/N vũ_khí/N quân_dụng/N
+Các/L bị_cáo/N khác/A giữ/V nguyên/A mức/N án/N sơ_thẩm/N
+Trước/E đó/P tại/N phiên_toà/N sơ_thẩm/V ngày/N 16/M TAND/Np tỉnh/N Bắc_Ninh/Np đã/R kết_luận/V có/V 9/M bị/N hại/V bị/V nhóm/N Minh/Np Sâm/Np cưỡng_đoạt/A hơn/R 117/M triệu/M đồng/Nu phạt/N trùm/N Minh/Np Sâm/Np 24/M tháng/N tù/N
+Bản_án/N vấp/N phải/V sự/N phản_ứng/V của/E dư_luận/N vì/N cho/V rằng/E xử/N Minh/Np Sâm/Np quá/R nhẹ/A
+Sau/N đó/P Viện/N KSND/Np Cấp/V cao/N tại/E Hà_Nội/Np đã/R có/V quyết_định/N kháng_nghị/V cho/V rằng/N bản_án/N của/E TAND/Np tỉnh/N Bắc_Ninh/Np xử/V nhóm/V Minh/Np Sâm/Np là/V chưa/N chính_xác/A không/R đánh_giá/V đúng/A các/L chứng_từ/N tài_liệu/N của/E vụ/N án/N
+Tự_lập/N bến_bãi/N để/E thu/V tiền/N bảo_kê/N
+Theo/E hồ_sơ/N vụ/N án/N năm/N 2000/M Nguyễn_Ngọc_Minh/Np thành_lập/V Công_ty/N TNHH/Np Đại_An/Np có/V trụ_sở/N đặt/V tại/E phường/N Đình_Bảng/Np Thị_xã/N Từ_Sơn/Np
+Từ/E tháng/N 62012/M đến/N tháng/N 52014/M Minh/Np đã/R xây_dựng/V 2/M khu/N chợ/N Phù_Khê_Thượng/Np và/CC Phù_Khê_Đông/Np thuộc/V địa_bàn/N thị_xã/N Từ_Sơn/Np
+Cả/P hai/M dự_án/N đều/R được/V UBND/Np tỉnh/N Bắc_Ninh/Np phê_duyệt/V
+Ngoài_ra/C Minh/Np còn/R tự_ý/A biến/V một/M phần/N đất/N của/E dự_án/N để/E hình_thành/V khu/N chợ/N Tấn_Bào/Np
+Sau/E khi/N các/L chợ/N đi/V vào/V hoạt_động/V Minh/Np không/R làm/V văn_bản/N giấy/N tờ_trình/N cơ_quan/N có/V thẩm_quyền/N phê_duyệt/V nội_dung/N quy_chế/N hoạt_động/N và/CC mức/N thu/V phí/N của/E chợ/N mà/C đã/R tự_ý/N thành_lập/V Ban/N quản_lí/N chợ/N Đồng_Bèo/Np tự/P đề/V ra/R quy_định/N nộp/V các/L phí/N bến_bãi/N công_nông/N
+Đồng_thời/N Minh/Np chỉ_đạo/V phân_công/N cụ_thể/A trách_nhiệm/V từng/N nhân_viên/N của/E Ban/N quản_lí/N chợ/N Đồng_Bèo/Np bắt_buộc/V các/L xe/N gỗ/N đi/V vào/V khu_vực/N các/L chợ/N nêu/V trên/N để/E nộp/V phí/N theo/V quy_định/N của/N Minh/Np
+Các/L tiểu_thương/N ở/V chợ/N ngoài/N việc/N hàng/N tháng/N phải/V trả/V tiền/N thuê/V ki/N ốt/N điện/N nước/N thì/C đều/R phải/V cho/V xe/N chở/V gỗ/N đi/V qua/V đường/N Nguyễn_Văn_Cừ/Np tỉnh_lộ/V 277/M nộp/N tiền/N phí/N bến_bãi/N tuỳ/V theo/E trọng_tải/N của/N xe/N
+Nếu/C lái_xe/N hoặc/N chủ/N gỗ/N nào/P không/R nộp/V tiền/N thì/C sẽ/R bị/V đàn_em/N của/E Minh/Np sâm/V không/R cho/V dừng/V đỗ/N gỗ/N tại/E các/L khu_vực/N chợ/N không/R phát/V thẻ_vàng/N cho/V xe/N ra/V khỏi/V chợ/N và/CC bị/V các/L đối_tượng/N hung_hăng/N uy_hiếp/N
+Các/L bị/N hại/V thấy/V Minh/Np là/V người/N có/V thế_lực/N đồng_thời/N bản_thân/N cũng/R đang/R thuê/V ki/N ốt/N tại/E chợ/N của/E Minh/Np hoặc/N kinh_doanh/V gỗ/N ở/E xã/N Phù_Khê/Np nên/V thường/R lo_sợ/V bị/V Minh/Np gây/V khó_dễ/N
+Thực_tế/N có/V chị/N Nguyễn_Thị_Xuyên/Np do/E chống_đối/N không/R cho/V xe/N vào/V Văn_phòng/N chợ/N Đồng_Bèo/Np nộp/V phí/N hạ/V gỗ/N nên/C đã/R bị/V công_an/N kiểm_lâm/V đến/V kiểm_tra/V thu_giữ/N xe/N gỗ/N
+Sau/E đó/P bà/Nc Xuyên/Np đã/R phải/V nộp/V các/L loại/N phí/N theo/V quy_định/N của/N Minh/Np
+Bằng/Np các/L thủ_đoạn/N nêu/V trên/N từ/E tháng/N 122012/M đến/E ngày/N 82014/M Nguyễn_Ngọc_Minh/Np đã/R cùng/A nhân_viên/N của/E Ban/N quản_lí/N chợ/N Đồng_Bèo/Np dùng/V thủ_đoạn/N uy_hiếp/N tinh_thần/N để/E cưỡng_đoạt/V của/N 12/M bị/N hại/V tổng_số/N tiền/N hơn/R 182/M triệu/M đồng/Nu

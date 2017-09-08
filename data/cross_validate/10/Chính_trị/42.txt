@@ -1,0 +1,4 @@
+Clip/N thông/V xe/N cầu_vượt/N cửa_ngõ/N sân_bay/N Tân_Sơn_Nhất/Np
+Sáng/N 37/M cầu_vượt/N tại/E giao_lộ/N Trường_Sơn/Np và/CC nhánh/N đường/N Tân_Sơn_Nhất/Np Bình_Lợi/Np Vành_đai/V ngoài/N QT/Np ân/V Bình/Np TPHCM/Np chính_thức/A khánh_thành/V
+Sáng/N cùng/A ngày/N cầu_vượt/N Nguyễn_Thái_Sơn/Np Nguyễn_Kiệm/Np cũng/R chính_thức/A thông/V xe/N nhánh/N đầu_tiên/A từ/E Nguyễn_Thái_Sơn/Np Hoàng_Minh_Giám/Np
+Hai/M nhánh/N còn/V lại/R Nguyễn_Kiệm/Np Hoàng_Minh_Giám/Np và/CC Hoàng_Minh_Giám/Np Nguyễn_Thái_Sơn/Np thi_công/V được/R 50/M đang/R chờ/V mặt_bằng/N để/V hoàn_tất/V công_trình/N

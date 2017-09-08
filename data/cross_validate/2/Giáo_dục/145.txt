@@ -1,0 +1,7 @@
+Trường/N TH/Np Thực_Hành/Np công_bố/V điểm/N thi/V vào/E lớp/N 10/M chuyên/N
+Bảng/N điểm/N môn/N Văn/Np
+Bảng/N điểm/N môn/N Toán/Np
+Bảng/N điểm/N môn/N tiếng/N Anh/Np
+Theo/E ban_giám_hiệu/N dự_kiến/V lúc/N 14h/M ngày/N 146/M nhà_trường/N sẽ/R công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M chuyên/N điểm_chuẩn/V vào/E lớp/N 10/M thường/N sẽ/R do/E Sở/N GDĐT/N công_bố/V
+Nếu/C thí_sinh/N có/V nhu_cầu/N phúc_khảo/V bài/N thi/V thì/C làm/V đơn/N và/CC nộp/V từ/E nay/N đến/E hết/V 11h/N trưa/N 136/M
+HOÀNG/M HƯƠNG/N

@@ -1,0 +1,11 @@
+Nâng/V cấp/N iOS/N 10/M cho/N iPhone/M gặp/V lỗi/N
+Theo/E báo/N Anh/Np Guardian/Np đăng_tải/V Apple/Np có/V xác_nhận/V một/M lỗi/N nhỏ/A trong/E khâu/N cập_nhật/V phần_mềm/N khiến/V một/M số_ít/N người_dùng/N trong/E giờ/N đầu_tiên/A cho/V tải/N iOS/N 10/M cài_đặt/N
+Hiện/N sự_cố/N kĩ_thuật/N đã/R được/V khắc_phục/V
+Tuy_vậy/N một_số/N người_dùng/N iPhone/N và/CC iPad/N vẫn/R báo/V lên/V diễn_đàn/N người_dùng/N Apple/Np các/L sự_cố/N họ/P gặp/V phải/V ngày/N 149/M cho/V biết/V điện_thoại/N iPhone/N hay/C máy_tính_bảng/N iPad/N của/E họ/P trở_thành/V cục/N gạch/N không/R làm_gì/N được/V khi/N nâng_cấp/V iOS/N 10/M hoặc/N phần_mềm/N iTunes/Np bị/V treo/V khi/N đang/R cài_đặt/V
+Trong/E số/N những/L báo_cáo/N có/V phóng_viên/N trang/N tin/N công_nghệ/N Engadget/Np gặp/V những/L sự_cố/N tương_tự/A
+iOS/N 10/M loại_bỏ/N iPhone/M 4S/N và/CC iPad/N 2/M
+Các/L dòng/N thiết_bị/N sẽ/R cập_nhật/V iOS/N 10/M thừa_hưởng/N một_số/N tính_năng/N chọn_lọc/N tuỳ/V dòng/N thiết_bị/N gồm/V iPhone/N 55/M C/Np 5S/M iPhone/N 66/M Plus/Np iPhone/M 6S/N 6S/M Plus/Np và/CC iPhone/M SE/Np
+Máy_tính/N bảng/N iPad/N 4/M iPad/M Air/Np và/CC Air/Np 2/M hai/M phiên_bản/N iPad/M Pro/Np iPad/M Mini/Np 2/M trở/V lên/R và/N iPod/M Touch/Np thế_hệ/N thứ/N 6/M
+Như/C vậy/P iPhone/N 4S/N và/CC iPad/N 2/M iPad/Nu 3/M hay/N iPad/M Mini/Np không/R còn/R có_thể/A đón_nhận/V những/L tính_năng/N mới/A từ/E iOS/N 10/M
+Người_dùng/N iPhone/N và/CC iPad/N có_thể/A nâng_cấp/V iOS/N 10/M qua/N dạng/N OTA/Np OvertheAir/V bằng/E cách/N kết_nối/N Internet/Np qua/V WiFi/N chọn/V Settings/Np Cài_đặt/V General/Np About/Np phần/N nâng/V cấp/N iOS/N 10/M sẽ/N xuất_hiện/V
+Hoặc/C có_thể/A nâng_cấp/V qua/R iTunes/M kết_nối/N iPhoneiPad/V vào/E PC/Np hay/N Mac/Np bằng/E cáp/N rồi/C mở/V iTunes/N theo/V các/L bước/N cài/V đặt/V

@@ -1,0 +1,8 @@
+Sang/V nhà/N hàng_xóm/N giải_quyết/V mâu_thuẫn/V 4/M người/N bị/V tạt/V axít/V
+Ngày/N 3/7/M Công_an/N TP/Np Biên_Hòa/Np /V Đồng_Nai/Np /V đã/R tạm/A giữ/V hình_sự/N Lê_Văn_Hào/Np /M 48/M tuổi/N /A để/E điều_tra/V hành_vi/N tạt/V axit/V vào/E đám/N đông/N khiến/V 4/M người/N bị_thương/V nặng/A  /EOS
+Chiều_qua/N trong/E lúc/N đi/V trên/E đường/N ông/Nc Hào/Np và/CC chị/N  /V Giáp_Thị_Mỹ_Trinh/Np /M 23/M tuổi/N  /N cùng/A ở/E phường/N Tân_Biên/Np TP/Np Biên_Hòa/Np /V xảy_ra/V mâu_thuẫn/N
+Bị/V hàng_xóm/N dùng/V trái/N dừa/N ném/V gây/V thương_tích/N cô_gái/N gọi/V người_yêu/N em_gái/N cùng/A bố/N mình/P đến/V nhà/N ông/Nc Hào/Np để/E nói_chuyện/V
+Thấy/V cô_gái/N kéo/V nhiều/A người/N đến/V tìm/V ông/Nc Hào/Np cầm/V dao/N ra/V chống_trả/N
+Trong/E quá_trình/N ẩu_đả/V ông/N này/P vơ/V lấy/V can/Nc axit/N /V dùng/V để/E gia_công/V đồ/N gỗ/N /A tạt/V vào/E đám/N đông/N khiến/V cô_gái/N cùng/A 3/M người_thân/N  /A bị/V bỏng/A nặng/A phải/V nhập_viện/V cấp_cứu/V
+Ngoài_ra/C nhiều/A người_thân/N và/CC hàng_xóm/N hai/M bên/N vào/R can_ngăn/V cũng/R bị_thương/V nhẹ/A  /EOS
+Sau/E khi/N vụ_việc/N xảy_ra/V ông/Nc Hào/Np bỏ/V trốn/V đến/E trưa/N nay/P thì_ra/C đầu_thú/N

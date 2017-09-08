@@ -1,0 +1,12 @@
+Tàu/N nghiền/N đá_đưa/A 30/M khách/N tham_quan/V N chui/V M vịnh/N Hạ_Long/Np
+Tàu/N chở/V khách/N tham_quan/V trái_phép/A bị/V tổ/N kiểm_tra/V liên_ngành/N của/E UBND_TP/Np Hạ_Long/Np phát_hiện/V tại/E khu_vực/N Cột/Np 5/M phường/N Hồng_Hà/Np
+Theo/E Trung/Np tâm/N thông_tin/N văn_hóa/N thành_phố/N đây/P là/V  /N tàu/N vỏ/N gỗ/N chuyên_dùng/N để/E nghiền/V đá/N lạnh/A trọng_tải/N khoảng/A 15/M tấn/Nu
+Khi/N bị/V phát_hiện/V tàu/N chở/V 30/M người/N gồm/V 19/M người_lớn/N 11/M trẻ_em/N
+Chủ/N tàu/N là/V ông/Nc Nguyễn_Văn_Lợi/Np trú/V tại/E phường/N Hồng_Hà/Np TP/Np Hạ_Long/Np
+Ông/Nc Lợi/Np cho/E cháu/N là/V Nguyễn_Văn_Bình/Np mượn/V tàu/N để/E chở/V khách/N tham_quan/V vịnh/N khởi_hành/V từ/E khu_vực/N Bến/Np cá/N cũ/A Cột/Np 5/M không/R thuộc/V điểm/N đón/V trả/V khách/N theo/V quy_định/N
+Tàu/N không/R có/V đăng_ký/V đăng_kiểm/V lái/V tàu/N không/R có/V bằng_cấp/N chứng_chỉ/N hành_nghề/V trên/E tàu/N không/R có/V phao/N cứu_sinh/V hay/C bất_cứ/R một/M phương_tiện/N cứu/V đuối/A nào/P
+Tàu/N sau/N đó/P bị/V thu_giữ/V và/CC đưa/V về/E ban/N quản_lý/V vịnh/N Hạ_Long/Np để/E xử_lý/V
+Toàn_bộ/N hành_khách/N được/V di_chuyển/V lên/E bờ/N an_toàn/A
+Hiện/N cơ_quan_chức_năng/N TP/Np Hạ_Long/Np đang/R tiếp_tục/V điều_tra/V để/E làm/V rõ/A vụ_việc/N
+Năm/N 2016/M TP/Np Hạ_Long/Np đã/R phát_hiện/V và/CC xử_phạt/V hơn/A 20/M trường_hợp/N tàu/N “/V du_lịch/N chui/V ”/A núp_bóng/V tàu/N cá/N
+Năm/N 2017/M ít_nhất/X 4/M vụ/Nc tàu/N hoạt_động/V du_lịch/N chui/V bị/V phát_hiện/V

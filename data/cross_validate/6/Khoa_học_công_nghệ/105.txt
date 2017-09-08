@@ -1,0 +1,40 @@
+​/N Không/R dễ/A chặn/V tin_nhắn/V rác/N
+Cụ_thể/N Công_ty/N CP/Np truyền_thông/N VMG/Np bị/V xử_phạt/V 120/M triệu/N đồng/N cho/V hành_vi/N vi_phạm/V cung_cấp/V thông_tin/N dự_đoán/N trước/N kết_quả/N xổ_số/N
+Ba/M công_ty/N khác/A là/V Công_ty/N CP/Np thương_mại/N và/CC phát_triển/V dịch_vụ/N viễn_thông/N Việt/Np
+Công_ty/N CP/Np truyền_thông/N H2T/M Việt_Nam/Np
+Công_ty/N TNHH/Np Phát_triển/V dịch_vụ/N giải_trí/V Đất_Việt/Np bị/V xử_phạt/V 40/M triệu/N đồng/Nu cho/V hành_vi/N vi_phạm/V phát_tán/V tin/N nhắc/V rác/N
+Tin_nhắn/V rác/N vẫn/R hoành_hành/V
+Đánh_giá/V về/R thực_trạng/N tin_nhắn/V rác/N hiện_nay/N Trung_tâm/N ứng_cứu/V khẩn_cấp/N máy_tính/N Việt_Nam/Np VNcert/V thừa_nhận/V vấn_nạn/N vẫn/R đang/R được/V phát_tán/V ngày_càng/N đa_dạng/A bằng/V các/L thủ_đoạn/N có/V chiều_hướng/N ngày_càng/N tinh_vi/A phức_tạp/V
+Đại_diện/N nhà/N mạng/N Viettel/Np cho/V biết/V trên/E mạng/N của/E họ/P vẫn/R còn/V khoảng/N 1/M triệu/N tin_nhắn/V rác/N được/V phát_tán/V mỗi/M tháng/N
+Thanh_tra/N Bộ/N cũng/R nhận_định/V vấn_nạn/N tin_nhắn/V rác/N hiện_nay/N vẫn/R liên_tục/A tấn_công/V thuê_bao/N di_động/N bất_kể/N ngày_đêm/N gây/V bức_xúc/A cho/V người_dùng/N
+Nội_dung/N tin_nhắn/V rác/N từ/E quảng_cáo/N cho/V các/L dịch_vụ/N kinh_doanh/V bất_động_sản/N SIM/Np số/N đẹp/A quà/N tặng/V âm_nhạc/N dịch_vụ/N truyền_hình/N cáp/V cho/V vay/V vốn/N ngân_hàng/N thời/N trang/N
+cho/V tới/E tin_nhắn/N dẫn_dụ/N lừa_đảo/N mời/V nghe/V lời/N nhắn/V để/E trừ/V tiền/N trong/E tài_khoản/N di_động/V chơi/V lô/N đề/N
+Theo/E Thanh_tra/N Bộ/N các/L doanh_nghiệp/N cung_cấp/V dịch_vụ/N nội_dung/N chủ_yếu/A vi_phạm/V trong/E số/N 4/M hành_vi/N sau/N gửi/V phát_tán/N tin_nhắn/V rác/N để/E quảng_cáo/V dịch_vụ/N trên/N đầu/N số/N cung_cấp/N dịch_vụ/N nội_dung/N
+cung_cấp/V thông_tin/N dự_đoán/N trước/N kết_quả/N xố/V số/N khi/N cung_cấp/V dịch_vụ/N nội_dung/N
+cung_cấp/V dịch_vụ/N có/V nội_dung/N cờ_bạc/N lô/N đề/V hoặc/N để/E phục_vụ/V chơi/V cờ_bạc/N lô/N đề/V
+không/R cung_cấp/V công_khai/A thông_tin/N về/V giá/N cước/N trước/E khi/N tính/V cước/N người_dùng/N gọi/V điện/N đến/E tổng_đài/N 1900xxxx/N cung_cấp/V các/L dịch_vụ/N thông_tin/N giải_trí/V thương_mại/N
+Không/R dễ/A ngăn_chặn/V
+Người_dùng/N vào_cuộc/N
+Trong/E khi/N chờ/V các/L nhà/Nc mạng/N thực_hiện/V cam_kết/N của/E mình/N với/E Bộ/N Thông_tin/N và/CC Truyền_thông/V nhiều/A người_dùng/N đã/R chủ_động/V áp_dụng/V các/L biện_pháp/N kĩ_thuật/A để/E giảm_thiểu/V chuyện/N bị/V làm_phiền/V bởi/E những/L tin_nhắn/N rác/N
+Hầu_hết/N smartphone/N hiện_nay/N đều/R có/V sẵn/N tính_năng/N chặn/V theo/V số/N điện_thoại/N được/V tích_hợp/V sẵn/A trong/E hệ_điều_hành/N của/N máy/N
+Theo/E cách/N này/P người_dùng/A nếu/C phải/V nhận/V tin_nhắn/N hay/C cuộc_gọi/N thường_xuyên/A từ/E một_số/N điện_thoại/N không/R mong_muốn/V họ/P có_thể/A đưa/V số/N điện_thoại/N đó/P vào/V danh_sách/N hạn_chế/V black/N list/N để/E ngăn_chặn/V thuê_bao/N đó/P thực_hiện/V gửi/V tin_nhắn/N rác/N gọi/V điện/N quảng_cáo/V đến/V mình/N
+Bên_cạnh/N đó/P rất/R nhiều/A phần_mềm/N diệt/V virus/N của/E các/L hãng/N bảo_mật/V được/R sử_dụng/V tại/E Việt_Nam/Np như/C Kaspersky/Np Bkav/Np
+đều/R có/V tính_năng/N ngăn_chặn/V tin_nhắn/V rác/N
+Các/L phần_mềm/N này/P được/V phát_triển/V có/V qua/N nghiên_cứu/V thực_tế/N thị_trường/N Việt_Nam/Np nên/V có/V khả_năng/N chẩn_đoán/V và/CC lọc/V tin_nhắn/V rác/N khá/R tốt/A
+Người_dùng/N có_thể/A cài_đặt/V trên/N smartphone/N như/C một/M giải_pháp/N vừa/R bảo_vệ/V điện_thoại/N vừa/R hạn_chế/V bị/V tin_nhắn/V rác/N làm_phiền/N
+Trước/E đây/P Cục/N An_toàn/A thông_tin/N đã/R từng/R trình/V lãnh_đạo/N Bộ/N Thông_tin/N và/CC truyền_thông/N dự_thảo/N Tiêu_chí/N hướng_dẫn/V phát_hiện/V ngăn_chặn/V và/N quy_định/N về/V xử_lí/N thuê_bao/N phát_tán/N tin_nhắn/V rác/N với/E đề_xuất/N hạn_mức/N tin/N nhắn_gửi/V đi/V từ/E một/M thuê_bao/N di_động/V dự_kiến/N là/V 5/M tinphút/N hoặc/N 20/M tingiờ/N hoặc/N 50/M tin/N 24/M giờ/N
+Tuy_nhiên/C đề_xuất/N đến/E giờ/N vẫn/R còn/V là/V dự_thảo/N do/N không_những/N không/R giải_quyết/V triệt_để/N tin_nhắn/N rác/N mà_còn/N làm/V phát_sinh/V nhiều/A câu_chuyện/N dở_khóc_dở_cười/X
+Tuổi_Trẻ/Np đã/R từng/R đăng/V câu_chuyện/N về/E việc/N một/N thuê_bao/N bức_xúc/A khiếu_kiện/V nhà/N mạng/N vì/E bạn_bè/N không/R đến/V dự/V tiệc/N sinh_nhật/V của/E khổ_chủ/N do/N
+không/R nhận/V được/R tin_nhắn/V mời/V
+Sau/E khi/N kiểm_tra/V nhà/N mạng/N cho/V biết/V do/C khổ_chủ/N nhắn/V cùng/A lúc/N hàng/R chục/M tin_nhắn/N làm/V tổng_đài/N nghi_ngờ/V phát_tán/N tin_nhắn/V rác/N nên/C tiến_hành/V chặn/V
+Đại_diện/N nhà/N mạng/N giải_thích/V Khi/N ghi_nhận/V một/M thuê_bao/N gửi/V một/M số_lượng/N nhiều/A tin_nhắn/N trong/E thời_gian/N 5/M phút/N đến/V một/M hoặc/N nhiều/A số/N thuê_bao/N khác/A hệ_thống/N sẽ/R tự_động/A chặn/V chiều/N nhắn_tin/V đi/V
+Hạn_mức/N tin_nhắn/N sẽ/R được/V tuỳ_chỉnh/V theo/V các/L thời_điểm/N trong/E ngày/N cũng/R như/A các/L ngày/N nghỉ/N lễ/N tết/N
+Điều/N này/P nhằm/V làm/V giảm_thiểu/N nguy_cơ/N nhắn_tin/V rác/N hoặc/N điện_thoại/N người_dùng/N bị/V lợi_dụng/V nhắn_tin/V đến/E các/L đầu/N số/N mất/V tiền/N
+Trong/E khi/N đó/P theo/V cam_kết/N tăng_cường/N ngăn_chặn/V tin_nhắn/V rác/N vừa/R được/V 5/M nhà/N mạng/N MobiFone/V Vinaphone/Np Viettel/Np Gtel/Np Vietnamobile/Np kí_kết/V với/E nhau/N dưới/E sự/N chứng_kiến/V của/E Bộ/N Thông_tin/N và/CC Truyền_thông/V các/L nhà/N mạng/N sẽ/R phối_hợp/V trong/E việc/N xác_định/V và/N chia_sẻ/V mẫu/N tin_nhắn/V rác/N
+cách_thức/N ngăn_chặn/V tin_nhắn/V rác/N
+phương_thức/N tiếp_nhận/V và/N xử_lí/N phản_ảnh/N tin_nhắn/V rác/N từ/E người/N dân/N
+thời_gian/N thực_hiện/V báo_cáo/N và/CC công_bố/V kết_quả/N chặn/V tin_nhắn/V rác/N
+Từ/E đó/P các/L nhà/N mạng/N sẽ/R cùng/A xây_dựng/V một/M hệ_thống/N cơ_sở_dữ_liệu/N tập_trung/V về/V mẫu/N tin_nhắn/V rác/N được/V cập_nhật/V liên_tục/A để/E huấn_luyện/V cho/E các/L hệ_thống/N chặn/N tin_nhắn/V rác/N của/E từng/N mạng/N di_động/V
+Qua/E đó/P kết_hợp/V được/R năng_lực/N của/E tất_cả/N các/L hệ_thống/N và/CC biện_pháp/N ngăn_chặn/V tin_nhắn/N rác/N của/E các/L nhà/N mạng/N
+Trao_đổi/V với/E Tuổi_Trẻ/Np một/M lãnh_đạo/N Viettel/Np nhận_định/V Đây/P là/V một/M cuộc_chiến/N
+Theo/E lãnh_đạo/N này/P Việc/N chặn/V tin_nhắn/N rác/N là/V câu_chuyện/N gian_nan/N khó/A lường/V bởi/C các/L đối_tượng/N sẽ/R liên_tục/V đối/V phương_thức/N hoạt_động/V để/E vượt/V qua/R hệ_thống/N của/E nhà/N mạng/N

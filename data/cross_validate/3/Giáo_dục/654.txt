@@ -1,0 +1,21 @@
+3 0/M thí_sinh/N A đua/V N vào/E lớp/N 6/M trường/N chuyên/A Trần_Đại_Nghĩa/Np
+Sáng/N 30/6/M hàng/R nghìn/M học_sinh/N tập_trung/V tại/E 5/M hội_đồng/N thi/V tại/E quận/N 1/M và/CC quận/N 4/M làm/V thủ_tục/N tham_dự/V bài/N khảo_sát/V năng_lực/N tiếng/N Anh/Np xét/V tuyển/V vào/E lớp/N 6/M trường/N THPT/Np chuyên/A Trần_Đại_Nghĩa/Np
+Đưa/V con_gái/N đến/E điểm/N thi/V THPT/Np chuyên/A Trần_Đại_Nghĩa/Np từ/E rất/R sớm/A chị/N Lê_Thị_Thu_Trang/Np /V ngụ/V quận/N 9/M /Nu tỏ/V ra/R thoải_mái/A cho/E đây/P là/V cơ_hội/N để/E con/N cọ_xát/N
+Cháu/N không/R căng_thẳng/A ôn_tập/V bình_thường/A trước/E kỳ/N thi/V này/P
+Gia_đình/N cũng/R chọn/V cho/E cháu/N một/M trường/N THCS/Np gần/A nhà/N nếu_không/C đậu/V chị/N chia_sẻ/V
+Trong/E khi/N đó/P thấy/V các/L bạn/N của/E con_trai/N ở/E trường/N Tiểu_học/N Việt/Np Úc/Np đăng_ký/V thi/V chị/N Trần_Thị_Tuyết_Lan/Np cũng/R quyết_định/V cho/E con/N tham_gia/V
+Hơn/A một/M tháng/N nay/P gia_đình/N luôn/R theo/V sát/A hỗ_trợ/V cháu/N
+Năm/N nay/P tỷ_lệ/N chọi/V rất/R cao/A cánh/N cửa/N vào/E trường/N khá/R hẹp/A vừa/R thi/V vừa/R hy_vọng/V thôi/T chị/N nói/V
+Cùng/A nỗi/N lo/V ông/Nc Nguyễn_Ngọc_Đẩu/Np /V ngụ/V quận/N Thủ_Đức/Np /V đánh_giá/V để/E vượt/V qua/R kỳ/N khảo_sát/V vào/E trường/N này/P chưa/R bao_giờ/P dễ/A bởi/E học_lực/N của/E các/L thí_sinh/N rất/R tốt/A
+Trong/E 10/M cháu/N thì/C đến/V 8-9/M đứa/N có/V sức/N học/V vượt_trội/N
+Tôi/P đã/R cho/V con/N tự/P ôn_tập/V ở/E nhà/N và/CC học/V thêm/V tiếng/N Anh/Np ở/E những/L trung_tâm/N có_tiếng/A Sài_Gòn/Np ông/Nc Đẩu/Np cho_hay/V
+Từng/R đoạt/V nhiều/A giải_thưởng/N trong/E 5/M năm/N tiểu_học/N nhưng/C Nguyễn_Trung_Kiên/Np /V trường/N Tiểu_học/N Hanh_Thông/Np quận/N Gò_Vấp/Np /V vẻ/N khá/R căng_thẳng/A trước/E khi/N vào/V phòng/N thi/V
+Mấy/L tháng/N nay/P ba_mẹ/N đã/R cho/V cậu/N sử_dụng/V máy_tính/N để/E đọc/V báo/N cập_nhật/V kiến_thức/N thời_sự/A nhưng/C nam_sinh/N vẫn/R sợ/V gặp/V những/L câu_hỏi/N khó/A
+Không_chỉ/R là/V tiếng/N Anh/Np và/CC kiến_thức/N sách_vở/N các/L đề/N thi/V năm/N trước/A hỏi/V rất/R rộng/A không/R phải/V ai/P cũng/R nắm/V được/R Kiên/Np lo_lắng/V
+Bài/N khảo_sát/V năng_lực/N xét/V tuyển/V vào/E lớp/N 6/M trường/N chuyên/A Trần_Đại_Nghĩa/Np gồm/V 2/M phần/N trắc_nghiệm/V tự/P luận/V nội_dung/N bao_gồm/V các/L lĩnh_vực/N toán_học/N tư_duy/N toán/Nc thực_tiễn/N năng_lực/N tiếng/N Anh/Np hiểu_biết/V tự_nhiên/N khoa_học/N thường_thức/A
+Thí_sinh/N làm/V bài/N trắc_nghiệm/V trước/A với/E thời_gian/N 45/M phút/Nu chiếm/V 60%/M tổng_số/N điểm/N bài/N thi/V
+Tiếp/V đó/P các/L em/N làm/V phần/N tự/P luận/V với/E thời_gian/N tương_tự/A
+Có/V gần/A 3 0/M thí_sinh/N tranh/N 525/M suất/N vào/E THPT/Np chuyên/A Trần_Đại_Nghĩa/Np tại/E 5/M hội_đồng/N thi/V THCS/Np Trần_Văn/Np Ơn/Np THPT/Np Lương_Thế_Vinh/Np THPT/Np chuyên/A Trần_Đại_Nghĩa/Np THPT/Np Trưng_Vương/Np /M quận/N 1/M /Nu và/CC THPT/Np Nguyễn_Hữu_Thọ/Np /M quận/N 4/M /Nu
+Đây/P là/V năm/N thứ_ba/N trường/N tổ_chức/V khảo_sát/V năng_lực/N bằng/E tiếng/N Anh/Np để/E chọn/V học_sinh/N vào/E lớp/N 6/M
+Nếu_không/C trúng_tuyển/V vào/E trường/N chuyên/A này/P học_sinh/N vẫn/R được/V xét/V tuyển/V vào/E lớp/N 6/M theo/E quy_định/N của/E Ban/N chỉ_đạo/V tuyển_sinh/V các/L quận/N huyện/N
+Năm_ngoái/N điểm/N trúng_tuyển/V của/E kỳ/N khảo_sát/V năng_lực/N vào/E lớp/N 6/M trường/N này/P là/V 57/M /N thang/N điểm/N 100/M /N

@@ -1,0 +1,18 @@
+Nữ/N kĩ_sư/N Facebook/Np nói/V về/V kinh_nghiệm/N khởi_nghiệp/V
+Tại_Hội_nghị/N Sáng_lập/N viên/N nữ/N Female_Founders_Conference/Np do/E quỹ/N đầu_tư/V Y_Combinator/Np tổ_chức/V cựu/N phó/N giám_đốc/N hoạt_động/V tại/E Dropbox/Np kiêm/V một/M trong/E những/L kĩ_sư/N đầu_tiên/A tại/E Facebook_Ruchi_Sanghvi/Np chia_sẻ/V những/L kiến_thức/N và/CC kinh_nghiệm/N của/E cô/N về/V bí/N quyền/N làm/V một/M người/N lãnh_đạo/V
+Trong/E đó/P cách/N tốt/A nhất/A để/E thành_công/V là/V gạt/N bỏ/V thiên_kiến/N cá_nhân/N và/CC tìm/V ra/R giải_pháp/N mới/A
+Trong/E buổi/N nói_chuyện/V Ruchi_Sanghvi/Np kể/V lại/R trải_nghiệm/A của/E cô/N sau/E khi/N rời/V Facebook/Np để/E thành_lập/V công_ty/N riêng/A Cove/Np rồi/C sau/N đó/P về/V đầu_quân/V cho/E Dropbox/Np trên/E cương_vị/N phó/N giám_đốc/N hoạt_động/V
+Cứ/R sau/E mỗi/M lần/N chuyển/V việc/N Ruchi/Np cho/V biết/V cô/N thấy/V mình/N luôn/R tìm/V cách/N tái_hiện/V lại/R nhịp/N làm_việc/V khẩn_trương/N khi/N còn/V làm/V trong/E bộ_phận/N News_Feed/Np của/N Facebook/Np
+Nói/V về/E Cove/Np Ruchi/Np cùng/A đội/N nhóm/N của/E mình/N từng/R làm_việc/V trong/E văn_phòng/N đặt/V sau/N lưng/N một/M nhà_máy/N dệt/V 14/M tiếng/N mỗi/M ngày/N để/E tạo/V ra/R một/M cơ_sở/N vững_chắc/N cho/V sản_phẩm/N sau_cùng/N của/E họ/P song/N lại/R không/R bao_giờ/N sức/N hút/V mà/N người_ta/N vẫn/R thường/A mong_đợi/V ở/E những/L công_ty/N khởi_nghiệp/V
+Ruchi_Sanghvi/Np
+Sau_này/N khi/N Cove/Np được/V Dropbox/Np mua/V lại/R Sanghvi/Np tiếp_tục/V đặt/V câu/N hỏi/V về/E cơ_cấu/N của/E công_ty/N mới/R vẫn/R dựa/V trên/E những/L kinh_nghiệm/N ở/V Facebook/Np
+DropBox/N đã/R dành/V rất/R nhiều/A thời_gian/N để/E sửa/V những/L lỗi/N hay/N lỗ_hổng/V vốn/N chỉ/V tác_động/V đến/E một/M lượng/N rất/R nhỏ/A người_dùng/A đại_chúng/N và/CC đây/P là/V điều/N cô/N không/R hiểu/V tại_sao/N
+Cô/N nghĩ/V lẽ_ra/N công_ty/N cần/V tung/V ra/R sản_phẩm/N mới/R một_cách/N thường_xuyên/A hơn/R thay_vì/V bỏ/V công_sức/N vá/N lỗi/N hoặc/N phí/N quá/R nhiều/A thời_gian/N cho/V việc/N hoàn_thiện/V hoá/N các/L tính_năng/N
+Nhưng/C rồi/C thực_tế/N đã/R cho/V thấy/V tất_cả/P cách/N làm/V truyền_thống/N kiểu/N Facebook/Np sự/N lặp/V lại/R liên_tục/A và/CC vá/V lỗi/N trong/E thời_gian_thực/N lại/R không/R phù_hợp/V với/E DropBox/N vốn/N là/V dịch_vụ/N được/V khách/N hàng/N gửi_gắm/A niềm/N tin/V bằng/E dữ_liệu/N cá_nhân/A của/E họ/P từ/E ảnh/N cưới/N cho/E đến/V bản_thảo/N đánh_máy/N
+Giá_trị/N của/E DropBox/N nằm/V ở/E tính/N chi_tiết/A
+Chất_lượng/N thật_sự/N rất/R quan_trọng/A cho/E DropBox/N và/CC kết_quả/N là/V chúng_tôi/N phải/V đi/V chậm/A lại/V –/N không/R quá/V chậm/A nhưng/C đủ/A chậm/A hơn/R Facebook/Np Sanghvi/Np tâm_sự/V
+Giá_trị/N công_ty/N là/V chìa_khoá/N cho/V tất_cả/N
+Việc/N nhận/V biết_điều/N gì/P là/V độc_đáo/A trong/E giá_trị/N của/E công_ty/N bạn/N sẽ/R cho/V bạn/N biết/V cách/N giải_quyết/V các/L vấn_đề/N ra/V quyết_định/N về/V hình_mẫu/V kinh_doanh/N dòng/N thời_gian/N sản_phẩm/N tuyển_dụng/N và/CC đo_lường/V mức_độ/N thành_công/V của/N bản_thân/N
+Nên/C thay_vì/V nghe/V những/L lời/N khuyên/V chung_chung/N thường/N dành/V cho/E các/L công_ty/N khởi_nghiệp/V Sanghvi/Np cho/V biết/V tốt/A nhất/A nên/V tạo_dựng/V hệ_thống/N dựa/V trên/N tiêu_chuẩn/N của/E riêng/N bạn/N
+Và/C quan_trọng/A nhất/A cô/N nhấn_mạnh/V là/V đừng/N bỏ_cuộc/V
+Toàn_văn/N bài/N nói_chuyện/V của/E Ruchi_Sanghvi/Np tại/E Y_Combinator/Np Female_Founders_Conference/Np 2015/M Nguồn/N YouTube/N

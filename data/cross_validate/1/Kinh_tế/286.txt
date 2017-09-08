@@ -1,0 +1,26 @@
+Giá/N vàng/N biến_động/V bất_thường/A USD/Np tăng/V 
+Lúc/N 12h30/M hôm_nay/N 5/4/M giá/N vàng/N SJC/Np tại/E Hà_Nội/Np được/V một_số/L doanh_nghiệp/N niêm_yết/V giao_dịch/V ở/E mức/N 36,42/M triệu/M đồng/Nu //X lượng/N (/N mua/V vào/E 36,5/M triệu/M đồng/Nu //X lượng/N (/N bán/V ra/R đối_với/E giao_dịch/N bán_lẻ/V và/CC 36,43/M triệu/M đồng/Nu //X lượng/N 36,49/M triệu/M đồng/Nu //X lượng/N đối_với/E giao_dịch/V bán_lẻ/V 
+Các/L mức/N giá/N này/P giảm/V chiều/N mua/V vào/E 20.000/M đồng/lượng/N và/CC giảm/V chiều/N mua/V vào/E 40.000/M đồng/lượng/N so/V với/E thời_điểm/N 9h/M sáng/N nay/P 
+Trước/E đó/P mở_cửa/V phiên/N giá/N vàng/N miếng/N SJC/Np tại/E Hà_Nội/Np được/V doanh_nghiệp/N niêm_yết/V ở/E mức/N 36,4/M triệu/M đồng/Nu //X lượng/N 36,56/M triệu/M đồng/Nu //X lượng/N giảm/V 50.000/M đồng/lượng/N chiều/N mua/V nhưng/C tăng/V 30.000/M đồng/lượng/N chiều/N bán/V so/V với/E hôm/N trước/A 
+Đến/V gần/A 9h/M giá/N vàng/N giao_dịch/V ở/E mức/N 36,44/M triệu/M đồng/Nu //X lượng/N 36,52/M triệu/M đồng/Nu //X lượng/N tức/C tăng/V 10.000/M đồng/lượng/N so/V hôm/N trước/A 
+Tại/E TPHCM/Np giá/N vàng/N SJC/Np được/V doanh_nghiệp/N vàng/N lớn/A niêm_yết/V giao_dịch/V ở/E mức/N 36,34/M triệu/M đồng/Nu //X lượng/N 36,54/M triệu/M đồng/Nu //X lượng/N 
+Chênh_lệch/A giữa/E giá/N vàng/N trong/E nước/N và/CC thế_giới/N đang/R 2/M triệu/M đồng/Nu //X lượng/N nghiêng/V về/E giá/N trong/E nước/N 
+Phiên/N giao_dịch/V hôm_nay/N 5/4/M giá/N vàng/N SJC/Np hết/V tăng/V rồi/R giảm/V trong/E bối_cảnh/N giá/N vàng/N thế_giới/N biến_động/V 
+Phiên/N giao_dịch/V hôm_qua/N giá/N vàng/N lúc/N đầu/N tăng/V gần/A 100.000/M đồng/lượng/N sau/E đó/P giảm/V nhẹ/A 
+Giao_dịch/V trên/E thị_trường/N cải_thiện/V hơn/R nhưng/C số/N khách_hàng/N mua/V vào/R chiếm/V ưu_thế/A 
+Tuy_nhiên/C để/E thu_hút/V lưu_lượng/N nhà_đầu_tư/N tham_gia/V mạnh_mẽ/A hơn/R thị_trường/N vẫn/R đòi_hỏi/V thêm/V những/L biến_động/N bứt_phá/A hơn/A về/E giá/N 
+Trên/E thị_trường/N thế_giới/N giá/N vàng/N giao/V ngay/T tại/E châu/N Á/Np hiện/N có/V biên_độ/N giảm/V hơn/R 1/M USD/Nu giao_dịch/V ở/E mức/N 1.254,5/M USD/ounce/Np 
+Trước/E đó/P giá/N vàng/N giao/V tháng/N 6/M tăng/V 4,2/M USD/Nu lên/V mức/N 1.258,2/M USD/ounce/Np 
+Giá/N vàng/N giao/V ngay/R tăng/V 3/M USD/Nu đạt/V mức/N 1.25,55,7/M USD/ounce/Np trong/E phiên/N có/V thời_điểm/N giá/N phá/V vỡ/V ngưỡng/N 1.260/M USD/ounce/Np nhưng/C sau/E đó/P mức/N trên/E không/R giữ/V được/R lâu/A 
+Giá/N vàng/N thế_giới/N tăng/V khi/N đồng/N USD/Np suy_yếu/A sau/E khi/N thị_trường/N đón_nhận/V hàng_loạt/N thông_tin/N kinh_tế/N không/R mấy/L lạc_quan/A từ/E Mỹ/Np 
+Cụ_thể/A theo/V báo_cáo/N từ/E Bộ/N Thương/Np mại/V Mỹ/Np chi_tiêu/V xây_dựng/V của/E nước/N này/P chỉ/R tăng/V 0,8%/M so/V với/E mức/N dự_báo/V đưa/V ra/R trước/E đó/P là/V tăng/V 1,2%/M 
+Còn/C chỉ_số/N sản_xuất/V ISM/Np cũng/R chỉ/R tăng/V ở/E mức/N 57,2/M thấp/A hơn/R so/V với/E con_số/N kỳ_vọng/V 57,7/M giá/N vàng/N thế_giới/N đã/R được/V đẩy/V lên/R ngay/T sau/E những/L dữ_liệu/N kinh_tế/N được/V công_bố/V 
+Cùng_với/N đó/P các/L nhà_đầu_tư/N vẫn/R tăng_cường/V mua/V vàng/N trước/E những/L lo_ngại/V về/E tình_hình/N bất_ổn/A chính_trị/N tại/E châu/N Âu/Np như/C cuộc/N bầu_cử/V Tổng_thống/N Pháp/Np sẽ/R khởi_động/V vào/E ngày/N 23/4/M 
+Đến/V với/E thị_trường/N ngoại_tệ/N hôm_nay/N 5/4/M giá/N USD/Np tại/E Vietcombank/Np được/V ở/E mức/N 22.685/M 
+VND/Nu mua/V vào/E 22.775/M VND/Nu (/N bán/V ra/R tăng/V 20/M VND/Nu và/CC 30/M VND/Nu so/V với/E hôm/N trước/A 
+Tại/E BIDV/Np giá/N USD/Np tăng/V 10/M VND/Nu lên/V 22.665/M 
+VND-22/M 735/M VND/Nu Vietbank/Np giữ/V nguyên/A chiều/N mua/V là/C 22.610/M VND/Nu tăng/V 10/M VND/Nu chiều/N bán/V lên/R 22.740/M 
+VND/Nu Eximbank/Np tăng/V 20/M VND/Nu lên/V 22.650/M 
+VND/Nu 22.750/M VND/Nu 
+Giá/N USD/Np bật/V tăng/V trở_lại/V sau/E khi/N đã/R giảm/V xuống/R thấp/A nhất/R gần/A 2/M tháng/N do/E nhu_cầu/N về/E ngoại_tệ/N của/E doanh_nghiệp/N ở/E mức/N thấp/A 
+An_Hạ/Np 

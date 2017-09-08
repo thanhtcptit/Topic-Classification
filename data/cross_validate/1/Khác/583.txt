@@ -1,0 +1,20 @@
+Kẻ/N tạo/V ra/R WannaCry/Np mới/R nhận/V được/R 50 0/M USD/Nu tiền/N chuộc/V
+CEO/Np James_Smith/Np của/E Elliptic/Np hãng/N khởi_nghiệp/V tại/E London/Np đang/R giúp/V các/L cơ_quan/N pháp_luật/N theo_dõi/V tội_phạm/N sử/N dựng/V tiền/N ảo/A cho_biết/V tổng/N các/L khoản/N thanh_toán/V gửi/V tới/E những/L kẻ/Nc tin_tặc/N tính/V đến/E 7h/M sáng/N nay/P /A theo/E giờ/N Mỹ/Np /V là/V khoảng/N 50 0/M USD/Nu
+Trước/E đó/P những/L kẻ/N tạo/V ra/R mã/N độc/A này/P đã/R yêu_cầu/V người/N dùng/V mỗi/L máy_tính/N bị/V nhiễm/V trả/V 300/M USD/Nu qua/E hệ_thống/N tiền/N ảo/A Bitcoin/Np để/E mở/V được/R các/L tập_tin/N bị/V khóa/N
+Nếu_không/C thanh_toán/V sau/E 72h/M khoản/N tiền/N chuộc/V sẽ/R tăng/V gấp/V đôi/M lên/R 600/M USD/Nu và/CC các/L tập_tin/N có_thể/R bị/V khóa/V vĩnh_viễn/A nếu/C họ/P không/R trả/V tiền/N sau/E 7/M ngày/N
+Chúng_tôi/P thấy/V những/L khoản/N thanh_toán/V bắt_đầu/V tăng/V lên/R trong/E hôm_nay/N
+Có_thể/R vì/E là/V hạn/N chót/N cho/E những/L người/N nhiễm/V mã/V độc/A cuối/N tuần/N trước/A trước/E khi/N tiền/N chuộc/V tăng/V gấp/V đôi/M ông/Nc Smith/Np nhận_định/V
+Một/M trong/E những/L lý_do/N chính/A khiến/V lượng/N tiền/N chuộc/V tăng/V chậm/A là/V nhiều/A người/N không/R biết/V cách/N mua/V và/CC thanh_toán/V bằng/E Bitcoin/Np
+Nếu/C các/L doanh_nghiệp/N bị/V đòi/V tiền/N chuộc/V bằng/E Bitcoin/Np hầu_hết/X họ/P sẽ/R hỏi/V nó/P là/V gì/P vị/N này/P nói/V thêm/V
+Các/L nhà_nghiên_cứu/N cũng/R không/R thấy/V dấu_hiệu/N nào/P chứng_tỏ/V trả/V tiền/N chuộc/V thì/C những/L tệp_tin/N sẽ/R được/V mở/V khoá/N
+Tuy_vậy/C theo/E công_ty/N an_ninh/N mạng/N Check_Point/Np việc/N tự/P giải_mã/V là/C rất/R mơ_hồ/A
+Không/R giống/A như/C các/L ransomware/N khác/A WannaCry/Np dường_như/R không/R đưa/V ra/R cách/N để/E kết_hợp/V một/M thanh_toán/V với/E người/N thực_hiện/V nó/P
+Hầu_hết/L ransomware/N tạo/V ra/R một/M ID/Np và/CC một/M ví/N Bitcoin/Np cho/E mỗi/L nạn/N nhận/V để/E gửi/V mã/V giải/N
+Còn_Wanna/Np Cry/Np chỉ/R yêu_cầu/V bạn/N thực_hiện/V thanh_toán/V và/CC sau/E đó/P chờ_đợi/V
+Chuyên_gia/N nghiên_cứu/V cao_cấp/A về/E công_nghệ/N tài_chính/N Brian_Knight/Np tại/E George_Mason_University/Np nhận_định/V Không/R tổ_chức/V nào/P có_thể/R cắt/V đứt/V sự/N truy_cập/V
+Bạn/N có_thể/A ở/E Belarus/Np Malaysia/Np hay/C mặt_trăng/N để/E nhận/V Bitcoin/Np từ/E một/M ai/P đó/P
+Tuy_nhiên/C nếu/C người/N sử_dụng/V có/V các/L hành_động/N như/C bán/V lấy/V tiền/N địa_phương/N hay/C vô_tình/A đặt/V tên/N địa_chỉ/N IP/Np họ/P có_thể/R bị/V phát_hiện/V
+Coinbase/Np một/M trong/E số_ít/N công_ty/N Bitcoin/Np được/V Sở/N Giao/V dịch/N Chứng_khoán/N Mỹ/Np quản_lý/V cho_biết/V họ/P giám_sát/V các/L giao_dịch/N của/E khách_hàng/N để/E ngăn_ngừa/V việc/N rửa_tiền/V và/CC các/L hoạt_động/N phạm_pháp/A như/C ransomware/N
+Đồng_thời/R công_ty/N này/P đang/R hợp_tác/V với/E các/L cơ_quan/N thực_thi/V pháp_luật/N và/CC các/L nạn/N nhận/V để/E giải_quyết/V nhanh_chóng/A cơn/Nc bão/N WannaCry/Np
+Hiện_tại/N những/L kẻ/N tin_tặc/N mới/R nhận/V được/R rất/R ít/A tiền/N chuộc/V dù/E cuộc/N tấn_công/V diễn/V ra/R trên/E quy_mô/N toàn_cầu/N
+Đồng_thời/R Chính_phủ/N và/CC các/L Cơ_quan/N bảo_mật/V trên/E khắp/A thế_giới/N khuyến_cáo/N những/L người/N bị/V WannaCry/Np tấn_công/V không/R nên/V trả/V tiền/N chuộc/V

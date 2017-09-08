@@ -1,0 +1,20 @@
+Mỹ/Np chế_tạo_máy/N đọc/V ý_nghĩ/N
+Theo/E Science_Alert/Np các/L nhà_nghiên_cứu/N chọn/V ra/R 23/M tình_nguyện_viên/N và/CC tiến_hành/V kiểm_chứng/V bằng/E bộ/N 1/M 000/M bức/Nc ảnh/N màu/N in/V hình/N các/L khuôn_mặt/N lấy/V ngẫu_nhiên/A
+Các/L bức/N ảnh/N này/P được/V tạo/V thành/V từ/E tổ_hợp/N 300/M đặc_điểm/N khác_nhau/A
+Tình_nguyện_viên/N được/V xem/V hình_ảnh/N trong/E khi/N não/N họ/P kết_nối/V với/E máy/N cộng_hưởng/V từ/E chức_năng/N f/V MRI/Np thiết_bị/N phát_hiện/V những/L thay_đổi/V tinh_tế/A trong/E mạch_máu/N của/E bộ_não/N để/E theo_dõi/V hoạt_động/N của/E hệ/N thần_kinh/N
+Máy/N f/V MRI/Np kết_hợp/V với/E một/M chương_trình/N trí_tuệ_nhân_tạo/X chuyên/A phân_tích/V và/CC xử_lý/V thông_tin/N từ/E não/N của/E tình_nguyện_viên/N sau/E đó/P tái_tạo/V lại/R hình_ảnh/N đang/R hiển_thị/V trong/E não/N cùng/A lúc/N với/E bức/Nc ảnh/N mà/C các/L tình_nguyện_viên/N đang/R xem/V
+Dựa/V trên/E sự/Nc nhận_biết/V của/E não/N bộ/N đối_với/E 300/M đặc_điểm/N ở/E các/L bức/Nc ảnh/N nhóm/N nghiên_cứu/V có_thể/R giải_mã/V và/CC tái_tạo/V hình_ảnh/N trong/E não/N người/N
+Giai_đoạn/N một/M của/E thí_nghiệm/N là/V dạy/V cho/E phần_mềm/N trí_tuệ_nhân_tạo/X cách/V đọc/V hoạt_động/V thần_kinh/N và/CC giải_mã/V thành/V các/L đặc_điểm/N khuôn_mặt/N tương_ứng/V với/E hình_ảnh/N mắt/N nhìn/V thấy/V
+Quá_trình/N so_sánh/V giữa/E ảnh/N thật/A và/CC ảnh/N tái_tạo/A từ/E tín_hiệu/N f/V MRI/Np giúp/V phần_mềm/N trí_tuệ_nhân_tạo/X hiểu/V hơn/R về/E cách_thức/N biểu_đạt/V thông_tin/N của/E não/N bộ/N từng/P người/N
+Sau/E khi/N phần_mềm/N trí_tuệ_nhân_tạo/X quen/V với/E việc/N đọc/V thông_tin/N từ/E não/N giai_đoạn/N hai/M của/E thí_nghiệm/N được/V tiến_hành/V
+Lần/N này/P phần_mềm/N trí_tuệ_nhân_tạo/X được/V giao/V nhiệm_vụ/N phải/V tái_tạo/V lại/R những/L gương_mặt/N chỉ/R dựa/V trên/E hoạt_động/N của/E não/N tình_nguyện_viên/N
+Những/L hình_ảnh/N tình_nguyện_viên/N xem/V ở/E giai_đoạn/N này/P hoàn_toàn/A khác/A với/E giai_đoạn/N trước/E
+Để/E tái_tạo/V lại/R từng/R khuôn_mặt/N phần_mềm/N trí_tuệ_nhân_tạo/X dựa/V trên/E thông_tin/N hoạt_động/V từ/E hai/M vùng/N riêng_biệt/V trong/E não/N người/N hồi/N góc/N ANG/Np xử_lý/V thông_tin/N liên_quan/V đến/E ngôn_ngữ/N xử_lý/V số/N nhận_thức/V không_gian/N và/CC sự/Nc hình_thành/V ký_ức/N sống_động/A trong/E khi/N vỏ_não/V occipitotemporal/N OTC/Np xử_lý/V tín_hiệu/N thị_giác/V
+Chúng_tôi/P có_thể/R lấy/V ký_ức/N của/E một/M ai/P đó/P những/L thứ/N thuộc/V về/E nội_tâm/N rất/R riêng_tư/A và/CC đưa/V ra/R khỏi/V não/N của/E họ/P nhà/N thần_kinh/N học/V Brice_Kuhl/Np một/M thành_viên/N của/E nhóm/N nghiên_cứu/V cho_biết/V
+Nghiên_cứu/V được/R công_bố/V hôm/N 1/M //X //X 6/M trên/E tạp_chí/N Journal/Np of/E Neuroscience/Np
+Kết_quả/N cho/V thấy/V khuôn_mặt/N được/V tái_tạo/V bằng/E thuật_toán/N đọc/V suy_nghĩ/N chưa/R mô_tả/V được/R hình_ảnh/N thực_sự/A trong/E não/N nhưng/C đã/R có_thể/A mang/V đến/R một_số/L thông_tin/N cơ_bản/A như/C giới_tính/N trạng_thái/N vui_buồn/V hay/R màu_da/N
+Những/L chi_tiết/N cơ_bản/A khác/A của/E khuôn_mặt/N có_thể/R được/V đọc/V từ/E não/N
+Nhóm/N nghiên_cứu/V đang/R tăng/V độ_chính_xác/N của/E phần_mềm/N trí_tuệ_nhân_tạo/N và/CC độ/N khó/A của/E công_việc/N đọc/V thông_tin/N bằng/E cách/N tái_tạo/V hình_ảnh/N trong/E trí_nhớ/N
+Đây/P là/V một/M kỹ_thuật/N đòi_hỏi/V nhiều/A thời_gian/N nhưng/C hứa_hẹn/V mang/V lại/R ứng_dụng/V thú_vị/A trong/E cuộc_sống/N
+Có_thể/R trong/E tương_lai/N con_người/N sẽ/R gửi/V cho/E nhau/N những/L tin/N nhắn/V dưới/E dạng/N suy_nghĩ/N và/CC ký_ức/N mà/C không/R cần/V phải/V viết/V hay/C nói/V ra/R
+Tội_phạm/N cũng/R có_thể/R bị/V buộc/V phải/V khai/V ra/R hành_vi/N phạm_tội/V thông_qua/V ký_ức/N

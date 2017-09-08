@@ -1,0 +1,8 @@
+Đình_chỉ/N công_tác/N giám_đốc/N Bệnh_viện/N đa_khoa/N Hoà_Bình/Np lần/V hai/M
+Sở/N Y/Np tế/N Hoà_Bình/Np đã/R có/V quyết_định/N đình_chỉ_công_tác/X lần/N thứ_hai/N đối_với/N ông/N Trương_Quý_Dương/Np giám_đốc/V Bệnh_viện/N đa_khoa/N tỉnh/N Hoà_Bình/Np
+Việc/N đình_chỉ/V nhằm/V tiếp_tục/V xem_xét/V trách_nhiệm/N trong/E vụ/Nc tai_biến/N chạy/V thận/N nhân_tạo/A làm/V 8/M bệnh_nhân/N tử_vong/N hôm/N 295/M
+Đây/P là/V quyết_định/N tạm/V đình_chỉ_công_tác/X thứ_hai/N đối_với/N ông/N Dương/Np trong/E gần/A 20/M ngày/N qua/V
+Sở/N Y/Np tế/N Hoà/Np Bình/Np cũng/R tiếp_tục/V phân_công/V ông/N Quách_Thiên_Tường/Np phó/N giám/N đốc/V Bệnh_viện/N đa_khoa/N Hoà/Np Bình/Np phụ_trách/V điều_phối/V bệnh_viện/N
+Bà/N Đỗ_Thị_Điệp/Np điều_dưỡng/A viên/N Đơn_nguyên/V Thận/Np nhân_tạo/A một/M trong/E ba/M người/N bị/V đình_chỉ_công_tác/X đợt/N trước/A cùng/C ông/N Dương/Np nay/N đã/R được/V đi/V làm/V trở_lại/V
+Người/N còn/V lại/V là/V Trần_Văn_Sơn/Np cán_bộ/N Phòng/N vật_tư/N Bệnh_viện/N đa_khoa/N Hoà/Np Bình/Np đã/R bị/V tạm/A giam/V
+Theo/E thông_tin/N từ/E Bệnh_viện/N đa_khoa/N Hoà_Bình/Np ông/N Trương_Quý_Dương/Np sinh/V năm/N 1962/M đã/R làm/V lãnh_đạo/N bệnh_viện/N này/P từ/E năm/N 2002/M

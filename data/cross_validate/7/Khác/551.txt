@@ -1,0 +1,17 @@
+Dự_đoán/N quán_quân/V cuộc_thi/N Cuộc/N đua/V số/N nhận/V laptop/N 10/M triệu/M đồng/Nu
+Để/E tham_gia/V độc_giả/N Like/Np fanpage/V Cuộc/N đua/V số/N sau/E đó/P Like/Np và/CC chia_sẻ/V bài/N đăng/N này/P ở/E chế_độ/N công_khai/A
+Sau/E đó/P bình_luận/V tên/N đội/N sẽ/R vô_địch/A cùng/A một_số/L may_mắn/A bất_kỳ/A có/V 3/M chữ_số/N từ/E 100-999/M
+/M Ví_dụ/N Đội/N ABC/Np –/V 317/M /N
+Giải_thưởng/N bao_gồm/V một/M giải/N nhất_là/X một/M laptop/N có/V giá_trị/N tương_đương/A 10/M triệu/M đồng/Nu
+Một/M giải/N nhì/N là/V một/M lò_vi_sóng/N trị_giá/V 2/M triệu/M đồng/Nu và/CC 10/M giải/N ba/M là/V 6/M tháng/N sử_dụng/V miễn_phí/V FShare/Np
+Thời_gian/N tham_gia/V hợp_lệ/N được/R tính/V tới/E hết/V 20h30/M ngày/N 10/5/2017/M
+Mỗi/L tài_khoản/N Facebook/Np chỉ/R được/V trả_lời/V một/M lần/N câu/N trả_lời/V đã/R chỉnh_sửa/V không/R được/R tính/V là/V hợp_lệ/N
+Con_số/N may_mắn/A sẽ/R được/V chọn/V ngẫu_nhiên/A bằng/E trang_web/N random/N org/EOS
+Trong/E trường_hợp/N có/V nhiều/A người/N cùng/A số/N may_mắn/A hoặc/CC cùng/A độ/N lệch/A gần/A nhất/R với/E số/N may_mắn/A giải_thưởng/N sẽ/R được/V xác_định/V dựa/V vào/E thời_gian/N dự_đoán/N sớm/A nhất/R
+Kết_quả/N sẽ/R được/V công_bố/V trên/E fanpage/N Cuộc/N đua/V số_từ/A 11/M đến/E 12/5/2017/M
+Cuộc_thi/N “/M Cuộc/N đua/V số/N ”/V với/E chủ_đề/N “/M Xe/N không/R người/N lái/V ”/N diễn/V ra/R từ/E tháng/N 11/2016/M đến/E tháng/N 5/2017/M
+Đây/P là/V cuộc_thi/N dành/V cho/E sinh_viên/N đại_học/N trên/E cả/P nước/N với/E tổng/N giá_trị/N giải_thưởng/N lên/R tới/V 700/M triệu/M đồng/Nu
+Ở/E vòng/N sơ/A loại/N đã/R có/V 145/M đội/N thi/V đến/V từ/E 26/M trường/N đăng_ký/V tham_dự/V
+8/M đội/N xuất_sắc/A nhất/A của/E 8/M đại_học/N trên/E toàn_quốc/N đã/R lọt/V vào/E vòng/N chung_kết/N
+Trận/N chung_kết/N Cuộc/N đua/V số/N sẽ/R diễn/V ra_vào/V lúc/N 19h/M ngày/N 10/5/2017/M tại/E Nhà_thi_đấu/N Cầu_Giấy/Np Hà_Nội/Np
+Trận/N đấu/V sẽ/R được/V tường_thuật/V trực_tiếp/A trên/E Truyền_hình/N FPT/Np Báo_điện_tử/N VnExpress/Np và/CC Fanpage/Np cuộc_thi/N

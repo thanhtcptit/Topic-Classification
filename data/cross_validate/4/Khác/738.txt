@@ -1,0 +1,16 @@
+Dấu_hiệu/N sớm/A chứng_tỏ/V con/Nc bạn/N có/V IQ/N thấp/A hoặc/CC cao/A
+Chỉ_số/N thông_minh/A IQ/Np trung_bình/A là/V từ/E 85/M đến/E 115/M
+Một_số/L chuyên_gia/N cho/V rằng/C thông_minh/A còn/R cần/V được/R tính/V tới/E các/L yếu_tố/N như/C xúc_cảm/V giao_tiếp/V kỹ_năng/N tương_tác/V xã_hội/N  /EOS
+Có_thể/R trẻ/A biết/V đi/V và/CC biết/V nói/V chậm/A hơn/R bạn_bè/N cùng/A lứa/N theo/V Livestrong/Np
+Các/L dấu_hiệu/N khác/A gồm/V Kỹ_năng/N xã_hội/N kém/A trong/E các/L tình_huống/N chơi/V với/E trẻ/N khác/A
+Chậm/Np phát_triển/V các/L kỹ_năng/N chăm_sóc/V bản_thân/N vệ_sinh/N mặc/V quần_áo/N và/CC ăn_uống/V  /EOS
+Khi/N lớn/V lên/R trẻ/A gặp/V khó_khăn/A trong/E các/L kỹ_năng/N học_thuật/V và/CC các/L kỹ_năng/N công_việc/N cũng/R kém_cỏi/V  /EOS
+Có_thể/R trẻ/A biết/V đi/V và/CC biết/V nói/V sớm/A hơn/R bạn_bè/N cùng/A lứa/N có/V kỹ_năng/N giao_tiếp/V và/CC xã_hội/N tốt/A
+Trẻ/Np cũng/R có_thể/R ưa/V vận_động/V thích_thú/V với/E các/L hoạt_động/N mỹ_thuật/A đòi_hỏi/V khéo_tay/N
+Có/V khả_năng/N nói/V nhanh/A và/CC sử_dụng/V các/L câu/N từ/E phức_tạp/N
+Có/V lòng/N cảm_thông/V với/E người/N khác/A
+Làm/V lãnh_đạo/N trong/E nhóm/N trẻ/N
+Một_số/L trẻ/N vừa/R có/V IQ/N cao/A lại/R vừa/R có/V khó_khăn/N trong/E việc/N học_tập/V
+Theo/E cuốn/Nc Parents/Np V Guide/Np to/A IQ/Np Testing/Np and/CC Gifted_Education/Np của/E tác_giả/N  /V David_Palmer/Np trẻ/N mắc/V hội_chứng/N rối_loạn/V giảm/V chú_ý/V thường/R có/V IQ/Np từ/E bình_thường/A tới/V cao/A
+Các/L trẻ/N này/P có_thể/R rất/R giỏi/A chơi/V game/N nghe/V được/R nhiều/A cuộc/N hội_thoại/V cùng/A lúc/N và/CC rất/R tích_cực/A trong/E khi/N chơi_đùa/V nhưng/C cùng/A lúc/N trẻ/A dường_như/R lại/R không/R tập_trung/V nhảy/V từ/E hoạt_động/N này/P sang/V hoạt_động/V khác/A và/CC có/V điểm_số/N các/L bài/N thi/V học_thuật/V thấp/A hơn/R kỳ_vọng/V  /EOS
+T/Np

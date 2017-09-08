@@ -1,0 +1,3 @@
+Điểm_chuẩn/N vào/V lớp/N 10/M chuyên/A tại/E TP_HCM/Np
+Chiều/N 12/6/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M chuyên/A các/L trường/N THPT/Np chuyên/A Lê_Hồng_Phong/Np Trần_Đại_Nghĩa/Np các/L lớp/N chuyên/A của/E trường/N THPT/Np Nguyễn_Thượng_Hiền/Np Gia_Định/Np Mạc_Đĩnh_Chi/Np Nguyễn_Hữu_Cầu/Np Nguyễn_Hữu_Huân/Np Củ_Chi/Np Trung_Phú/Np
+Các/L trường/N THPT/Np sẽ/R nhận/V hồ_sơ/N nhập_học/V vào/E lớp/N 10/M chuyên/A từ/E 13/M đến/E 19/6/M

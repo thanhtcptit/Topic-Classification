@@ -1,0 +1,14 @@
+Vi_rút/N Zika/Np “/V sống/V khỏe/A trong/E não/N trẻ/A sơ_sinh/A 
+Đây/P là/V nghiên_cứu/N đầu_tiên/A chứng_minh/V sự/N sao_chép/V ARN/Np của/E vi_rút/N Zika/Np trong/E mô/P não/N của/E trẻ/N bị/V tật/N đầu/N nhỏ/A và/CC sau/A đó/P tử_vong/V cũng_như/C trong/E bánh/N rau/N của/E phụ_nữ/N bị/V sảy/V thai/N 
+TS/N Julu_Bhatnagar/Np cùng/C các/L cộng_sự/N thuộc/V chi_nhánh/N Bệnh/N truyền_nhiễm/A của/E CDC/Np đã/R xét_nghiệm/V mô/P tổ_chức/V của/E 52/M trường_hợp/N bệnh_nhân/N nghi/V nhiễm/V Zika/Np trên/E lâm_sàng/N và/CC dịch_tễ/N 
+Xét_nghiệm/V bao_gồm/V mô/P bánh/N rau/N và/CC mô/P dây/N rốn/N và/CC tế_bào/N thai_nhi/V từ/E những/L trường_hợp/N sảy/V thai/N )/A của/E 44/M phụ_nữ/N nghi/V nhiễm/V Zika/Np trước/E khi/N sinh/V và/CC mô/P não/N bao_gồm/V cả/P vỏ_não/N cầu/N não/N tuỷ_sống/N thận/N gan/N lách/V phổi/N và/CC tim/N từ/E 8/M trẻ/N bị/V tật/N đầu/N nhỏ/A chết/V sau/E khi/N sinh/V 
+Trong/E số/N 44/M phụ_nữ/N 30/M có/V kết_quả/N thai_nghén/V hoặc/CC sinh_nở/V bất_lợi/N sảy/V thai/N lựa_chọn/V chấm_dứt/V thai/N kỳ/N thai/N chết/V lưu/V hoặc/CC trẻ/A sơ_sinh/A bị/V tật/N đầu/N nhỏ/A và/CC 22/M trẻ/N chưa/R phát_hiện/V thấy/V điều/N gì/P bất_thường/A 
+Xét_nghiệm/V phản_ứng/N chuỗi/Nc polymerase/N phiên/N mã/V ngược/A RT-PCR/Np cho/V thấy/V nhiễm/V Zika/Np trong/E mô/P não/N từ/E 8/M trẻ/N sơ_sinh/A bị/V tật/N đầu/N nhỏ/A và/CC mô/P bánh/N rau/N //X phôi_thai/N từ/E 24/M phụ_nữ/N 
+16/M phụ_nữ/N này/P nằm/V trong/E số/N 22/M phụ_nữ/N có/V kết_quả/N thai_nghén/V hoặc/CC sinh_nở/V bất_lợi/N 
+Cả/P 16/M phụ_nữ/N cũng_như/C mẹ/N của/E 8/M trẻ/N đã/R tử_vong/V vì/E tật/N đầu/N nhỏ/A đều/R bị/V nhiễm/V vi_rút/V Zika/Np trong/E 3/M tháng/N đầu/N của/E thai/N kỳ/N 
+Ngược_lại/X 8/M phụ_nữ/N có/V mô/P bánh/N rau/N cho/V thấy/V bằng_chứng/N của/E nhiễm/V Zika/Np nhưng/C sinh/V con/N khỏe_mạnh/A bị/V nhiễm/V vi_rút/V Zika/Np trong/E 3/M tháng/N cuối/N thai/N kỳ/N 
+Tất_cả/P những/L em/N bé/N này/P đều/R xét_nghiệm/V âm_tính/A với/E vi_rút/N sau/E khi/N sinh/V 
+Kết_quả/N cho/V thấy/V rằng/C nhiễm/V Zika/Np trong/E ba_tháng/N đầu/N của/E thai/N kỳ/N có/V hại/V cho/E thai_nhi/N và/CC trẻ/A hơn/R so/V với/E nhiễm/V trong/E 3/M tháng/N cuối/N 
+Kết_quả/N nghiên_cứu/V cũng/R cho/E thấy/V các/L tế_bào/N Hofbauer/Np thường/R tiếp_cận/V mạch_máu/N của/E thai_nhi/N có_thể/R tạo/V điều_kiện/N cho/E việc/N lây_truyền/V hoặc/CC gieo_rắc/V vi_rút/N vào/E của/E thai_nhi/N 
+Những/L phát_hiện/V này/P tiếp_tục/V ủng_hộ/V mối/N liên_quan/V giữa/E vi_rút/N Zika/Np với/E tật/N đầu/N nhỏ/A gợi_ý/V sự/Nc liên_kết/V của/E nó/P với/E kết_quả/N thai_nghén/V bất_lợi/N và/CC chứng_minh/V bằng_chứng/N vi_rút/N Zika/Np nhân/V lên/R và/CC tồn_tại/V dai_dẳng/A trong/E não/N của/E thai_nhi/N và/CC trong/E bánh/N rau/N 
+Cẩm_Tú_Theo_Medscape/X 

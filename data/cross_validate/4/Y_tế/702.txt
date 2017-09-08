@@ -1,0 +1,15 @@
+Gia_đình/N Việt/Np 4/M người/N bị/V gút/V khiến/V giáo_sư/N Pháp/Np ngạc_nhiên/V
+Giáo_sư/N Thomas_Bardin/Np là/V chuyên_gia/N hàng_đầu/N thế_giới/N về/E bệnh/N gút/N hiện/N công_tác/V tại/E Trường_Đại/Np học/V Paris/Np 7/M Pháp/Np
+Nhiều/A năm/N qua/V ông/N dành/V thời_gian/N đi/V khắp_nơi/N để/E tìm_hiểu/V về/E tình_hình/N dịch_tễ/N của/E bệnh/N gút/N nhằm/V tìm/V ra/R phương_pháp/N điều_trị/V tối_ưu/A nhất/R cho/E các/L bệnh_nhân/N
+Năm/N 2014/M vị/N giáo_sư/N đặt_chân/V đến/E Việt_Nam/Np
+Ghé/V thăm/V một/M gia_đình/N ở/E miền/N Trung/Np ông/N vô_cùng/R ngạc_nhiên/V khi/N thấy/V cả/P 4/M anh/Nc chị_em_ruột/N trong/E nhà/N đều/R bị/V bệnh/N gút/V
+Người/Nc em_út/N ở/E tuổi/N 30/M đã/R bị/V liệt/A phải/V ngồi/V xe_lăn/N ít_lâu/N sau/E anh/N qua_đời/V do/E biến_chứng/N suy/V tim/N
+Giáo_sư/N nhận_định/V nguyên_nhân/N gây/V bệnh/N trong/E trường_hợp/N này/P có_thể/R là/V gene/N di_truyền/V
+Từ/E đó/P ông/N bắt_đầu/V nhiều/A nghiên_cứu/V về/E gene/N gây/V bệnh/N gút/N tại/E Việt_Nam/Np
+Sau/E đó/P giáo_sư/N Thomas/Np thực_hiện/V một/M khảo_sát/V  /N lớn/A hơn/R trên/E hàng/R trăm/M bệnh_nhân/N đến/E điều_trị/V tại/E  /M Phòng_khám/N đa_khoa/N Viện_Gút/Np TP_HCM/Np
+Nghiên_cứu/V ghi_nhận/V mỗi/M năm/N có/V đến/T 4 0/M người/N mắc/V bệnh/N gút/N điều_trị/V tại/E đây/P trong/E đó/P có/V nhiều/A ca/N bệnh/N rất/R nặng/A  /A thậm_chí/R bại_liệt/A và/CC tử_vong/A do/E biến_chứng/N
+Nguyên_nhân/N phổ_biến/V là/V người_bệnh/N ít/A khi/N quan_tâm/V điều_trị/V hạ/V nồng_độ/N axit/N uric/V máu/N sớm/A mà/C chỉ/R có/V thói_quen/N điều_trị/V các/L cơn/N đau/V cấp_tính/A
+Bệnh/N gút/V  /N không/R được/V điều_trị/V sớm/A tình_trạng/N lắng_đọng/V  /M uric/N sẽ/R gia_tăng/V và/CC phá_hủy/V các/L khớp/N gây/V suy/V tim/N suy/V thận/N  /M Tình_trạng/N này/P  /V rất/R hiếm/A gặp/V ở/E châu/N Âu/Np và/CC Mỹ/Np vị/Nc giáo_sư/N đánh_giá/V
+Nhằm/V hỗ_trợ/V công_tác/N nghiên_cứu/V và/CC điều_trị/V bệnh/N gút/N tại/E Việt_Nam/Np giáo_sư/N Thomas/Np và/CC các/L nhà_khoa_học/N thuộc/V  /N Trường_Đại/Np học/V Paris/Np 7/M đã/R  /V ký/V thỏa_thuận/N hợp_tác/V song_phương/A với/E  /N Trung_tâm/N Nghiên_cứu/V bệnh/N gút/N Pháp/Np Việt/Np /M thuộc/V Viện_Gút/Np TP_HCM/Np /M
+Các/L chuyên_gia/N  /A kỳ_vọng/V sự/N hợp_tác/V này/P mở/V ra/R nhiều/A hướng/N phát_triển/V mới/R trong/E lĩnh_vực/N nghiên_cứu/V và/CC điều_trị/V gút/N mang/V lại/R nhiều/A lợi_ích/N hơn/A cho/E người_bệnh/N Việt_Nam/Np
+Viện_Gút/Np cũng/R ký/V thỏa_thuận/V  /N hợp_tác/V với/E Trường_Đại/Np học/V Y_Dược/Np TP_HCM/Np  /M Bệnh_viện/N Quân/Np Y/N 175/M /N Bộ/N Quốc_Phòng/Np /V nhằm/V  /V nghiên_cứu/V  /N quản_lý/V và/CC điều_trị/V bệnh_nhân/N gút/N bị/V biến_chứng/V nặng/A

@@ -1,0 +1,15 @@
+Hơn/A 40%/M người/N ung_thư/N gan/N phát_hiện/V trễ/A không_thể/R điều_trị/V
+Bác_sĩ/N Nguyễn_Đình_Song_Huy/Np Trưởng_Khoa/Np U/Np gan/A Phó_giám_đốc/N Trung_tâm/N Ung_bướu/Np Bệnh_viện/N Chợ_Rẫy/Np cho_biết/V ung_thư/N gan/N là/V ung_thư/N phổ_biến/V nhất/A tại/E Việt_Nam/Np có/V mối/N liên_hệ/V chặt_chẽ/A với/E nhiễm/V virus/N viêm/N gan/N B/Np /V HBV/Np /V và/CC virus/N viêm/V gan/N C/N /M HCV/Np /M  /M Trong/E nghiên_cứu/V trên/N  /M nam_giới/N mắc/V bệnh/N chiếm/V hơn/A 81%/M
+Hơn/A 90%/M bệnh_nhân/N từ/E 40/M tuổi/N trở_lên/A phần_lớn/N có/V nhiễm/V HBV/Np HCV/Np
+Theo/E bác_sĩ/N Huy/Np Việt_Nam/Np nằm/V trong/E vùng/N dịch_tễ/N nhiễm/V virus/N viêm/N gan/N B/Np việc/N tầm/N soát/V ung_thư/N gan/N trên/E các/L đối_tượng/N nguy_cơ/N cao/A hạn_chế/V
+Do_đó/C bệnh_nhân/N thường/R được/V khám/V và/CC phát_hiện/V muộn/A khi/N đã/R không_thể/R điều_trị/V thời_gian/N sống/V trung_bình/A không/R quá/R một/M năm/N
+Giáo_sư/N Robert/Np G_Gish/Np Đại_học/N Stanford/Np Mỹ/Np cho_biết/V một_số/L yếu_tố/N nguy_cơ/N gây/V bệnh/N ung_thư/N gan/N là/V viêm/N gan/N siêu_vi/V B/N C/N rượu/N các/L yếu_tố/N tự/P miễn/V các/L yếu_tố/N di_truyền/V bệnh/N gan/N nhiễm/V mỡ/N không/R do/E rượu/N độc_tố/N afalatoxin/N thường/R gặp/V trong/E lương_thực/N thực_phẩm/N bị/V mốc/N  /M Đái_tháo_đường/N cũng/R làm/V tăng/V nguy_cơ/N ung_thư/N gan/A gấp/V 2,5/M lần/N  /M Tỷ_lệ/N tử_vong/N do/E ung_thư/N gan/N ở/E nam_giới/N thừa/A cân/N cao/A gấp/V 4,5/M lần/N ở/E nam_giới/N có/V trọng_lượng/N bình_thường/A  /EOS
+Tiến_sĩ/N  /M Nguyễn_Tuấn/Np Phó_giám_đốc/N Bệnh_viện/N Hoàn_Mỹ_Sài_Gòn/Np cho_biết/V  /M ung_thư/N gan/N tuy/C là/V bệnh/N nguy_hiểm/A  /N và/CC có/V diễn_biến/N phức_tạp/A nhưng/C có_thể/R phòng_ngừa/V và/CC chữa/V khỏi/R nếu/C phát_hiện/V sớm/A
+Bệnh/N có/V triệu_chứng/N thầm_lặng/A khó/A nhận_biết/V nên/C cách/N tốt/A nhất_là/X kiểm_tra/V sức_khỏe/N định_kỳ/N điều_trị/V quản_lý/V các/L vấn_đề/N gan/A  /M Các/L phương_pháp/N điều_trị/V ung_thư/N gan/N chủ_yếu/A hiện_nay/N là/V phẫu_thuật/V cắt/V gan/N phá_hủy/V khối_u/N tại_chỗ/A bằng/E sóng/N cao_tần/A RFA/Np hay/C vi_sóng/V MWA/Np nút/N mạch/N hóa_chất/N TACE/Np
+Phòng_ngừa/N ung_thư/N gan/N Nên/C đi/V khám/V sức_khỏe/N định_kỳ/N 6-12/M tháng/N
+Nếu/C có/V vấn_đề/N về/E sức_khỏe/N lá/N gan/A như/C tăng/V men/N gan/N gan/N nhiễm/V mỡ/N viêm/N gan/N
+thì_phải/N điều_trị/V
+Những/L bệnh_nhân/N có/V virus/N viêm/N gan/N B/Np C/Np phải/V tích_cực/A điều_trị/V nên/C đi/V tầm/N soát/V kiểm_tra/V định_kỳ/N 3/M tháng_một/V lần/N
+Hạn_chế/V rượu_bia/N tránh/V các/L hóa_chất/N gây/V ung_thư/N
+Giữ/V trọng_lượng/N hợp_lý/A tránh/V tăng/V cân/N
+Việc/N tiêm_chủng/V phòng_ngừa/V virus/N viêm/N gan/N B/Np nên/C được/V tiến_hành/V rộng_rãi/A nhất_là/X trẻ/N mới/R sinh/V để/E giảm/V nguy_cơ/N ung_thư/N gan/A trong/E tương_lai/N

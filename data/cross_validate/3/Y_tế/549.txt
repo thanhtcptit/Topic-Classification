@@ -1,0 +1,10 @@
+Hợp_đồng/N 100%/M chữa/V hết/V bệnh/N khiến/V bác_sĩ/N phì_cười/V
+Ngày/N 12/6/M bệnh_nhân/N 67/M tuổi/N có/V tiền_sử/N uống/V rượu/N và/CC bị/V loãng_xương/V được/V vợ/N đưa/V vào/E phòng_khám/N cấp_cứu/V
+Kết_quả/N thăm_khám/V xét_nghiệm/V cho/E thấy/V ông/N gãy/V xương/N sườn/N số/N 6/M phía/N bên/N phải/V cơ_thể/N
+Vợ/N bệnh_nhân/N tỏ_vẻ/V lo_lắng/V hỏi/V bác_sĩ/N Ông_xã/N tôi/P bị/V gãy/V xương/N sườn/N bác_sĩ/N có/V cam_kết/N điều_trị/V hết/V 100%/M cho/E ông/N ấy/P không/R
+Bác_sĩ/N Thiệu/Np cười/V Tôi/P cam_kết/V điều_trị/V hết/V 100%/M cho/E chồng/N chị/N nếu/C chị/N ký/V hợp_đồng/N với/E các/L điều_kiện/N ràng_buộc/V nhé/T
+Bác_sĩ/N đề_nghị/V điều_khoản/N 1/M trong/E hợp_đồng/N là/V người/N vợ/N phải/V làm/V cho/E chồng/N không/R bị/V loãng_xương/V điều_khoản/N 2/M là/V không/R uống/V rượu/N nữa/R và/CC điều_khoản/N 3/M là/V đưa/V anh_ấy/P trở_về/V với/E tuổi/N 27/M
+Người/N vợ/N tần_ngần/V một/M lúc/N Bác_sĩ/N điều_trị/V hết/V khả_năng/N của/E bác_sĩ/N là/V được/V
+Theo/E bác_sĩ/N Thiệu/Np bệnh_nhân/N đã/R lớn_tuổi/A lại/R bị/V loãng_xương/V uống/V nhiều/A bia_rượu/N khả_năng/N điều_trị/V hết/V bệnh/N chỉ/R 25%/M
+Việc/N thay_đổi/V lối/N sống/V chế_độ/N ăn_uống/V
+đóng/V vai_trò/N quan_trọng/A trong/E quá_trình/N hồi_phục/V xương/N của/E bệnh_nhân/N

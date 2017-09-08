@@ -1,0 +1,27 @@
+Tránh/V bẫy/N trong/E đề/N thi/V để/E đạt/V điểm_cao/N môn/N Hóa/V
+Nếu_không/C tập_trung/V và/CC không/R bình_tĩnh/A thì/C học_sinh/N sẽ/R rất/R dễ/A mắc/V sai_lầm/A trong/E các/L kiểu/N câu_hỏi/N có/V bẫy/N như/C một_số/L ví_dụ/V sau/A Bẫy/N về/E kiến_thức/N lý_thuyết/N Việc/N học/V lý_thuyết/N không/R kỹ/A có_thể/R gây/V nhầm_lẫn/V trong/E những/L câu_hỏi/N thuộc/V phần/N kiến_thức/N trọng_tâm/A
+Chẳng_hạn/X bẫy/N phản_ứng/N của/E sắt/N đơn_chất/N /M Fe/Np /V với/E chất/N oxy_hóa/V mạnh/A như/C HNO3/Np H2SO4/Np  /V đặc/A nóng/A
+Nhiều/A học_sinh/N vội_vàng/A thường/R kết_luận/V trong/E trường_hợp/N này/P Fe/Np sẽ/R tạo/V ion/N Fe3/M +/Nu nhưng/C thực_tế/N nếu/C Fe/Np dư/V phản_ứng/V hoàn_toàn/A thì/C sản_phẩm/N cuối_cùng/A là/V Fe2/M +/N
+Hoặc/C nếu/C các/L chất/N đều/R hết/V có_thể/R tạo/V cả/P hai/M dạng/N ion/N sắt/N
+Bẫy/N về/E ngôn_ngữ/N của/E đề/N  /M Nhiều/A khi/N học_sinh/N không/R suy_nghĩ/V kỹ/A về/E những/L từ/N xuất_hiện/V trong/E đề_bài/N dẫn/V đến/E hiểu/V lầm/V đề/N
+Ví_dụ/V  /M Xà_phòng/N hóa/V hết/V  /M a/N gam/N etylaxetat/V  /A bằng/E  /N 120ml/M dung_dịch/N NaOH/Np 2M/M sau/E phản_ứng/N cô/N cạn/V dung_dịch/V được/R 18/M gam/Nu  /M chất_rắn/N  /Np Tìm/V giá_trị/N của/E a/N
+Không/R ít/A học_sinh/N hiểu/V lầm/V đề/N là/V lượng/N NaOH/Np phản_ứng/V vừa/R đủ/A rồi/C tính/V theo/E số/N mol/N của/E NaOH/Np ban_đầu/N hoặc/CC tưởng/V rằng/C 18/M gam/Nu chất_rắn/N là/V muối/N natri/V axetat/N rồi/C tính/V theo/E số/N mol/N của/E muối/N
+Thực_chất/N ở/E đây/P chỉ/R este/V hết/R còn/R NaOH/Np có_thể/R còn/V dư/N và/CC chất_rắn/N có_thể/R chứa/V NaOH/Np
+Bởi_vậy/C học_sinh/N cần/V đặt/V ẩn_số/N cho/E số/N mol/N của/E este/N lập/V phương_trình/N phản_ứng/V xà_phòng/N hóa/V và/CC giải/V theo/E số/N mol/N của/E este/N
+Không/R nên/C làm/V những/L câu/N tính_toán/V trước/A Với/E đề/N thi/V năm/N nay/P số_lượng/N câu/V lý_thuyết/N và/CC câu/N tính_toán/V theo/E tỷ_lệ/N khoảng/A 60/40/M
+Do_vậy/C học_sinh/N cần/V biết/V cách/N phân_bố/V thời_gian/N hợp_lý/A khi/N làm/V bài/N
+Học_sinh/N thường/R tập_trung/V cho/E các/L câu_hỏi/N tính_toán/V nên/C bị/V tốn/V quá/R nhiều/A thời_gian/N cho/E các/L câu/N khó/A và/CC câu_hỏi/N có/V bẫy/N đến/E khi/N sắp/R hết/V giờ/N thì/C mới/R trả_lời/V câu_hỏi/N lý_thuyết/N  /EOS
+Trong/E khi/N đó/P mỗi/L câu_hỏi/N đều/R mang/V lại/R 0,25/M điểm/N các/L câu_hỏi/N lý_thuyết/N thường/R không/R khó/A và/CC chỉ/R cần/V bình_tĩnh/A đọc/V kỹ/A là/V trả_lời/V đúng/A
+Vì_thế/C học_sinh/N nên/C ưu_tiên/V các/L câu_hỏi/N lý_thuyết/N và/CC câu_hỏi/N dễ/A trước/E
+Câu_hỏi/N sơ_đồ/N chuyển_hóa/V hoặc/CC câu/V biểu/V bảng/N trong/E đề/N thường/R dài/A nhiều/A dữ_kiện/N
+Để/E tiết_kiệm/V thời_gian/N học_sinh/N nên/C dựa/V vào/E chất/N đã/R suy_luận/V ra/R được/V để/E loại/V dần/R đáp/V áp/V
+Mẫu/N câu/N này/P thường/R không/R cần/V luận/V hết/V các/L dữ_kiện/N vẫn/R tìm/V được/R đáp_án/V đúng/A
+Với/E các/L bài_tập/N tính_toán/V khó/A /V trên/E mức/N 8/M điểm/N /A học_sinh/N nên/C tóm_tắt/V bài/N theo/E sơ_đồ/N suy_luận/V kỹ/A rồi/R giải/V
+Mẫu/N câu_hỏi/N này/P thường/R áp_dụng/V kết_hợp/V nhiều/A phương_pháp/N bảo_toàn/V
+Tránh/V việc/N học/V thủ_thuật/N và/CC những/L bài/N khó/A Nhiều/A học_sinh/N khi/N luyện/V thi/V THPT/Np quốc_gia/N vẫn/R ảo_tưởng/V về/E mức_độ/N khó/A của/E đề/N nên/C học/V toàn/R những/L kiến_thức/N cao_siêu/A hay/C thủ_thuật/V giải/N đề/N trắc_nghiệm/V mà/C không/R cần/V hiểu/V bản_chất/N
+Nhưng/C thực_tế/N ba/M đề/N thi/V mà/C Bộ/N Giáo/N dục/N và/CC Đào_tạo/N giới_thiệu/V rất/R chuẩn/A kiến_thức/N theo/E chương_trình/N sách_giáo_khoa/N cơ_bản/A lớp/N 12/M
+Có/V khoảng/N 12/M câu/N là/V mức_độ/N biết/V 12/M câu/N mức_độ/N hiểu/V /A 24/M câu/N này/P tương_đương/V với/E bài_tập/N trong/E sách_giáo_khoa/N /A và/CC khoảng/A 16/M câu/N yêu_cầu/V học_sinh/N phải/V hiểu/V bản_chất/N và/CC vận_dụng/V mở_rộng/V nâng/V cao/A
+Vì_vậy/C trong/E giai_đoạn/N nước_rút/N này/P học_sinh/N cần/V rà_soát/V kiến_thức/N sách_giáo_khoa/N theo/V khung/N chương_trình/N thi/V mà/C Bộ/N Giáo/N dục/N và/CC Đào_tạo/N hướng_dẫn/V để/E ôn_luyện/V những/L vùng/N kiến_thức/N mà/C mình/P chưa/R nắm/V chắc/A tránh/V việc/N học/V thuộc_lòng/V máy_móc/N hay/C chỉ/R tập_trung/V vào/E việc/N học/V thủ_thuật/N mẹo/V giải/N đề/N
+Với/E kinh_nghiệm/N 18/M năm/N luyện/V thi/V tôi/P khẳng_định/V đề/N thi/V môn/N Hóa/V hàng/N năm/N đều/R không/R có/V mẹo/N để/E chọn/V đáp_án/N
+Tất_cả/L câu_hỏi/N từ/E dễ/A đến/E khó/A đều/R xuất_phát/V từ/E bản_chất/N hóa_học/N suy_luận/V rồi/C giải/V theo/E các/L phương_pháp/N đặc_thù/A của/E bộ_môn/N  /EOS
+Tôi/P nhấn_mạnh/V một/M lần/N nữa/R phương_châm/N tốt/A nhất/R trong/E thời_gian/N cuối/N này/P là/V học/V thật/R kỹ/A sách_giáo_khoa/N cơ_bản/A không/R lao/V vào/E những/L bài_tập/N khó/A tránh/V học/V dồn_dập/A gây/V căng_thẳng/A

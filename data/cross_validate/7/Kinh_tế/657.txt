@@ -1,0 +1,21 @@
+Apple/Np khuyến_khích/V thanh_toán/V di_động/V
+Theo/E thông_tin/N trên/E trang_web/N chính_thức/A của/E Apple_Trung_Quốc/Np từ/E ngày/N 18-24/M //X 7/M người/N dùng/V sử_dụng/V Apple_Pay/Np để/E trả/V tiền/N tại/E các/L điểm/N chấp_nhận/V dịch_vụ/N chuyển_tiền/V nhanh/A UnionPay/Np sẽ/R được/V chiết_khấu/V lên/R đến/T 50%/M
+Ngoài_ra/C mức/N điểm/N thưởng/V dành/V cho/E người/N dùng/V cao/A gấp/V 50/M lần/N so/V với/E các/L thẻ_tín_dụng/N thông_thường/A
+Có/V tổng_cộng/N 28/M hệ_thống/N cửa_hàng/N bán_lẻ/V siêu_thị/N và/CC nhà_hàng/N /V 7-Eleven/Np Watson/Np Starbucks/Np Burger_King/Np /V cùng/A 16/M công_ty/N kinh_doanh/V trực_tuyến/A /M ứng_dụng/N chia_sẻ/V xe_đạp/N Mobike/Np dịch_vụ/N du_lịch/V trực_tuyến/A Ctrip/Np JD m/Np /V tham_gia/V chương_trình/N  /EOS
+Các/L mức/N ưu_đãi/V dành/V cho/E người/N dùng/V Apply_Pay/Np thay_đổi/V tùy_thuộc/N vào/E chính_sách/N của/E mỗi/M công_ty/N
+Ví_dụ/V tại/E cửa_hàng/N 7-Eleven/Np và/CC Watsons/Np số/N tiền/N chiết_khấu/V chỉ/R ở/E mức/N tương_ứng/V lần_lượt/R là/V 10/M nhân_dân_tệ/N và/CC 50/M nhân_dân_tệ/N
+Còn_Pizza_Hut/Np cung_cấp/V giảm_giá/A 80/M nhân_dân_tệ/N cho/E các/L hóa_đơn/N trị_giá/V từ/E 160/M nhân_dân_tệ/N trở_lên/A thanh_toán/V qua/V Apple_Pay/Np
+Hệ_thống/N này/P chỉ/R cho_phép/V các/L cửa_hàng/N ở/E Bắc_Kinh/Np Thượng_Hải/Np Quảng_Châu/Np và/CC Thâm_Quyến/Np áp_dụng/V khuyến_mãi/V
+Ngoài/E các/L nhà_bán_lẻ/N 17/M ngân_hàng/N Trung_Quốc/Np bao_gồm/V cả/P bốn/M ngân_hàng/N quốc_doanh/N lớn/A nhất/R sẽ/R tặng/V điểm/N thưởng/V cao/A hơn/R gấp/V 50/M lần/N so/V với/E thông_thường/A khi/N chủ/N thẻ_tín_dụng/N những/L nhà_băng/N này/P thực_hiện/V các/L khoản/N thanh_toán/V thông_qua/V Apple_Pay/Np
+Đây/P là/V chương_trình/N khuyến_mãi/V lớn/A nhất/R mà/C Apple_Pay/Np tung/V ra/R kể/V từ/E khi/N ra_mắt/V tại/E thị_trường/N này/P vào/E ngày/N 18/2/2016/M
+Các/L chuyên_gia/N cho/V rằng/C Apple/Np đưa/V ra/R nhiều/A ưu_đãi/V thu_hút/V khách_hàng/N trước/E những/L nền_tảng/N thanh_toán/V di_động/N đang/R chiếm/V thế/P như/C Alipay/Np /V Alibaba_Group/Np /V hay/C WeChat/Np Pay/Np /M Tencent_Holdings/Np /M
+Bà/Nc Kitty_Fok/Np Giám_đốc/N điều_hành/V IDC/Np China/Np nhận_xét/V không/R dễ_dàng/A cho/E Apple/Np giữ_chân/V người/N dùng/V vì/E họ/P không/R có/V nền_tảng/N truyền_thông/N xã_hội/N của/E riêng/A mình/P
+Tuy_nhiên/C bà/N cũng/R đánh_giá/V cao/A sự/Nc cố_gắng/V của/E ông/N lớn/V Mỹ/Np khi/N quyết_tâm/V giành/V thị_phần/N ở/E Trung_Quốc/Np điều/N này/P làm/V thị_trường/N tăng/V tính/N cạnh_tranh/V và/CC khách_hàng/N sẽ/R hưởng/V lợi/N nhiều/A hơn/R
+Theo/E hãng/N nghiên_cứu/V Analysys/Np thị_trường/N thanh_toán/V di_động/V từ/E một/M bên/N thứ_ba/N ở/E Trung_Quốc/Np đang/R do/E Alipay/Np và/CC WeChat/Np Paychi/Np phối/V chiếm/V tỷ_lệ/N lần_lượt/R 53,7%/M và/CC 39,5%/M thị_phần/N tính/V đến/E quý/N I/2017/Np
+Tại/E cửa_hàng/N 7-Eleven/Np ở/E Thâm_Quyến/Np một/M nhân_viên/N bán/V hàng/N cho_biết/V đa_số/L người/N tiêu_dùng/V mua_sắm/V thông_qua/V Alipay/Np và/CC WeChat/Np Pay/Np trong/E khi/N các/L khoản/N trả/V tiền/N bằng/E Apple_Pay/Np rất/R hiếm/A
+Mọi/L người/N quen/V dùng/V Alipay/Np và/CC WeChat/Np Pay/Np ở/E Trung_Quốc/Np cũng_như/C nhận/V các/L khoản/N giảm_giá/V hoặc/CC ưu_đãi/V khác/A từ/E hai/M nền_tảng/N này/P
+Nhưng/C nếu/C Apple_Pay/Np đưa/V ra/R những/L chương_trình/N quảng_cáo/V lớn/A tôi/P nghĩ/V nó/P sẽ/R thu_hút/V thêm/V nhiều/A người/N tiêu_dùng/V sử_dụng/V nó/P nhân_viên/N bán/V hàng/N nói/V
+Không/R giống/A như/C Alipay/Np và/CC Tencent_Pay/Np có_thể/R cài_đặt/V trong/E tất_cả/P các/L loại/N thiết_bị/N di_động/V Apple_Pay/Np lại/R chỉ/R tương_thích/V với/E các/L dòng/N điện_thoại/N i/V Phone/Np và/CC đồng_hồ/N thông_minh/A Apple_Watches/Np
+Điều/N này/P gây/V bất_tiện/A cho/E người/N dùng/V cũng_như/C khả_năng/N phổ_biến/V của/E ứng_dụng/N
+Trong/E 3/M tháng/N đầu/N năm/N nay/P Apple/Np đã/R vận_chuyển/V 9,6/M triệu/N i/V Phone/Np đến/E Trung_Quốc/Np giảm/V 26,7%/M so/V với/E cùng/A kỳ/N năm/N trước/A
+Hãng/N hiện/N chiếm/V 9,2%/M thị_phần/N điện_thoại/N thông_minh/A trong/E quý/N I/2017/Np giảm/V so/V với/E mức/N 11%/M trong/E quý/N IV/2016/Np và/CC 12,7%/M quý/N I/2016/Np

@@ -1,0 +1,3 @@
+Bài/N giải/N môn/N hoá/V THPT/Np Quốc_gia/N mã_đề/N 206/M
+Nhóm/N giáo_viên/N Nguyễn_Trọng_Danh/Np Trần_Trọng_Tuyền/Np Ngân_hàng/N đề/V thi/V www/N
+789vn/M thực_hiện/N

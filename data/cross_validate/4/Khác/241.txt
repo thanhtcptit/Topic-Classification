@@ -1,0 +1,26 @@
+Báo_Tuổi_Trẻ/Np ra_mắt/V Cẩm_nang/N An_toàn/A Văn_hoá/V giao_thông/N
+Cẩm_nang/N là/V món/N quà/N mà/C Ủy/Np ban/N An_toàn/A giao_thông/N quốc_gia/N Sở/N GTVT/Np TPHCM/Np Phòng/N CSGT/Np đường_bộ/N đường_sắt/N Công_an/N TPHCM/Np Công_ty/N Cổ_phần/N đầu_tư/V kinh/N doanh/N Địa_ốc/N Hưng_Thịnh/Np và/CC báo/N Tuổi_Trẻ/Np dành/V tặng/V học_sinh/N sinh_viên/N TP/Np
+Sáng/N nay/P 116/M tại/E Nhà_văn/N hoá/N Thanh_Niên/Np TPHCM/Np báo/N Tuổi_Trẻ/Np đã/R phối_hợp/V với/E Ủy_Ban_An_toàn/N giao_thông/N Quốc_gia/N Sở/N GTVT/Np TPHCM/Np Phòng/N CSGT/Np đường_bộ/N đường_sắt/N Công_an/N TPHCM/Np và/CC đơn_vị/N đồng_hành/V là/V Công_ty/N Cổ_phần/N đầu_tư/V kinh_doanh/V Địa_ốc/N Hưng_Thịnh/Np tổ_chức/V gala/N diễn_đàn/N Văn_hoá/V giao_thông/N
+Gala/N là/V buổi/N tổng_kết/V cho/E diễn_đàn/N văn_hoá/N giao_thông/N mà/C báo/N Tuổi_Trẻ/Np phát_động/V gần/A 5/M tháng/N qua/V
+Đặc_biệt/A gala/N cũng/R là/V dịp/N để/E ra_mắt/V cuốn/N Cẩm_nang/N An_toàn/A Văn_hoá/N an_toàn/A giao_thông/N
+Đây/P là/V món/N quà/N mà/C Ban/N tổ_chức/V dành/V tặng/V cho/E các/L bạn/N trẻ/N học_sinh/N sinh_viên/N từ/E các/L tỉnh/N lên/V học_tập/N sinh_sống/V và/N làm_việc/V tại/N TPHCM/Np
+Phát_biểu/V tại/E gala/N ông/N Đỗ_Văn_Dũng/Np Phó_tổng/V biên_tập/V báo/N Tuổi_Trẻ/Np chia_sẻ/V một/M thực_tế/N đáng/V buồn/V Trung_bình/A mỗi/M năm/N hàng/R chục/M ngàn/M người/N thiệt_mạng/V do/E tai_nạn/V giao_thông/N một/M con_số/N khiến/V chúng_ta/N giật_mình/V
+Đằng/N sau/N con_số/N tang_thương/A ấy/P là/V những/L chuyện/N đau_buồn/A của/E mỗi/L gia_đình/N có/V người_thân/N bạn_bè/N gặp/V nạn/N
+Và/C có_lẽ/N rằng/C những/L người_làm/N báo/N chúng_tôi/N cảm_nhận/V nỗi/Nc đau/A ấy/P một_cách/N thường_trực/N từ/E lúc/N tiếp_cận/V thông_tin/N phóng_viên/N chứng_kiến/V ghi_nhận/V hiện_trường/N đến/V những/L biên_tập_viên/N xử_lí/V tin/N bài/N xuất_bản/V những/L bản/N tin/N ấy/P ông/Nc Dũng/Np nói/V
+Chúng_tôi/P gọi/V đó/P là/V những/L bản/N tin_buồn/N và/CC không/R bao_giờ/N mong_muốn/V xuất_hiện/V trên/E trang/N báo/N mà/C các/L vị/N cầm/V đọc/V mỗi/N buổi/N sáng/N
+Theo/E ông/Nc Dũng/Np nguyên_nhân/N tai_nạn/N giao_thông/N đến/V từ/V nhiều/A yếu_tố/N như/C cơ_sở_hạ_tầng/N kém/A phương_tiện/N không/R đủ/V điều/N kiện/V
+nhưng/C cần/V đặc_biệt/A lưu_tâm/A đến/V yếu_tố/N văn_hoá/N ý_thức/N của/E người/N tham_gia/V giao_thông/N
+Xuất_phát/V từ/E những/L trăn_trở/N ấy/P báo/V Tuổi_Trẻ/Np quyết_định/V mở/V diễn_đàn/N Văn_hoá/V giao_thông/N
+Sau/E gần/A 5/M tháng/N phát_động/N diễn_đàn/N đã/R thu_hút/V hàng/R ngàn/M ý_kiến/N hưởng_ứng/V của/N bạn_đọc/N
+Những/L ý_kiến/N đều/R xuất_phát/V từ/E trải_nghiệm/N mỗi/L cá_nhân/N tham_gia/V giao_thông/N cũng/R như/A góc/N nhìn/V phản_biện/N so_sánh/N với/E các/L nước/N
+Có/V nhiều/A ý_kiến/N ngay_lập_tức/R tạo/V sự/Nc đồng_thuận/N song/N cũng/R có/V những/L ý_kiến/N trái/N chiều/N tạo/V nên/V sự/N tranh_luận/V sôi/N nổi/V
+Tuy_nhiên/C đa_số/N ý_kiến/N đều/R đồng_ý/V rằng/C văn_hoá/N giao_thông/N trước_hết/N phải/A là/V tuân_thủ/N luật/N giao_thông/N sau/N đó/P là/V những/L ứng_xử/N văn_minh/N cách/V hành_xử/N đẹp/A của/E người/N tham_gia/V giao_thông/N
+Và/C thông_qua/V cuốn/N Cẩm_nang/N Văn_hoá/N an_toàn/A giao_thông/N báo/N Tuổi_Trẻ/Np mong_muốn/V truyền_tải/N phần_nào/N nội_dung/N thảo_luận/V sôi_nổi/N của/E diễn_đàn/N đến/E các/L bạn/N trẻ/N
+Cuốn/Nc cẩm_nang/N ngoài/N nội_dung/N cơ_bản/A về/E văn_hoá/N giao_thông/N còn/R cung_cấp/V cho/E bạn_đọc/N giải_pháp/N ứng_xử/V trong/E một_số/N tình_huống/N giao/V thông_thường/A gặp/V sơ_đồ/N các/L phương_tiện/N giao_thông/N công_cộng/A các/L quy_định/N pháp_luật/N cơ_bản/A mới/A nhất/A về/V giao_thông/N tranh/N biếm_hoạ/N bài/N viết/V hình_ảnh/N đặc_sắc/N liên_quan/V đến/E văn_hoá/N giao/V thông/N
+Trong/E thời_gian/N tới/V với/E xu_hướng/N sử_dụng/V các/L phương_tiện/N giao_thông/N công_cộng/N hiện_đại/A tàu_điện_ngầm/N đường_sắt/N trên/N cao/A
+việc/N sử_dụng/V phương_tiện/N cá_nhân/A dần/R hạn_chế/V thì/C yếu_tố/N văn_minh/N trong/E ứng_xử/N giữa/E những/L người/N tham_gia/V giao_thông/N càng/R được/V đặt/V ra/R cấp_thiết/V
+Với/E vai_trò/N là/V cơ_quan/N truyền_thông/N báo/N Tuổi_Trẻ/Np sẽ/R đặc_biệt/A ưu_tiên/A cho/E những/L thông_tin/N cũng/R như/C tiếp_tục/V tổ_chức/V các/L sự_kiện/N mang/V ý_nghĩa/N xã_hội/N đến/V với/N bạn_đọc/N
+Chúng_tôi/N mong_muốn/V sẽ/R nhận/V được/R sự/N hỗ_trợ/V phối_hợp/N tham_gia/V của/E các/L lãnh_đạo/N cơ_quan/N ban_ngành/N tổ_chức/V xã_hội/N và/CC các/L đơn_vị/N đồng_hành/V nhằm/V góp/V sức/N lan_toả/V hiệu_ứng/N cho/V các/L hoạt_động/N ông/N Đỗ_Văn_Dũng/Np nói/V
+Ông/Nc Khuất_Việt_Hùng/Np Phó_Chủ_tịch/N chuyên_trách/N Ủy/Np ban/N An_toàn/A giao_thông/N Quốc_gia/N nhận_định/V nhờ/V diễn_đàn/N của/E báo/N Tuổi_Trẻ/Np văn_hoá/N giao_thông/N không/R còn/V lắng_đọng/N nữa/R mà/C đã/R được/V lan_toả/V tạo/V hiệu_ứng/N tích_cực/A tranh_luận/V sôi_nổi/N
+Ông/Nc Hùng/Np cũng/R tin/V rằng/N cuốn/N Cẩm_nang/V Văn_hoá/N An_toàn/A giao_thông/N với/E nội_dung/N hay/C sẽ/R truyền_tải/V thông_tin/N hữu_ích/A đến/V với/E mọi/N người/N
+Ông/N gợi_ý/V đưa/V cẩm_nang/N lên/E các/L ứng_dụng/N điện_thoại_thông_minh/X

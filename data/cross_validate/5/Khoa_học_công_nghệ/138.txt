@@ -1,0 +1,18 @@
+​/N Đánh_cắp/N dữ_liệu/N Yahoo/Np hacker/N Nga/Np nhắm/V vào/R ai/P
+Xem/V Yahoo/Np bị/V hack/V người_dùng/N cần/V xử_trí/V ra/V sao/P
+Các/L cá_nhân/N cụ_thể/N bị/V tấn_công/V trong/E vụ_việc/N này/P gồm/V các/L nhà/N ngoại_giao/V các/L giám_đốc_điều_hành/N và/CC một/M phóng_viên/N điều_tra/V
+Cáo_trạng/N của/E Bộ/N tư_pháp/N Mỹ/Np mô_tả/V chi_tiết/N một_vài/N phương_pháp/N mà/C các/L tin_tặc/N bị/V buộc_tội/V đã/R sử_dụng/V
+Trong/E bốn/M người/N bị/V buộc_tội/N có/V 2/M nhân_viên/N tình_báo/N Nga/Np là/V Dmitry_Dokuchaev/Np và/CC Igor_Sushchin/Np thuộc/V Tổng_cục/N An_ninh/N Liên_bang/N Nga/Np FSB/Np và/CC hai/M hacker/N Karim_Baratov/Np và/CC Alexsey_Belan/Np được/V cho/V là/V được/V thuê/V thực_hiện/V vụ/N tấn_công/V
+Theo/E đơn/N kiện/V các/L hacker/N đã/R giành/V được/R quyền/N truy_cập/V vào/R hàng/R triệu/M tài_khoản/N email/N của/E Yahoo/Np lùng_sục/V trong/E đó/P các/L thông_tin/N về/V thẻ_tín_dụng/N chứng_từ/N tài_chính/N và/CC thông_tin/N đăng_nhập/V các/L tài_khoản/N cá_nhân/N khác/A như/A Gmail/Np hay/C các/L trang_web/N bán_lẻ/V
+Nhà/N chức_trách/N Mỹ/Np cho/V biết/V tên/N Belan/Np vốn/N đã/R nằm/V trong/E danh_sách/N tội_phạm/N công_nghệ/N bị/V truy_nã/V của/E FBI/Np và/CC hiện/N đang/R sống/V ở/V Nga/Np
+Tên/N này/P đã/R truy_cập/V được/R vào/V hơn/A 30/M triệu/N tài_khoản/N Yahoo/Np và/CC đánh_cắp/V các/L thông_tin/N liên_lạc/N của/E họ/N để/E gửi/V thư/N rác/N
+Tên_Belan/Np cũng/R là/V người/N đã/R có/V âm_mưu/N kiếm/V lợi/N từ/E những/L người/N từng/R lên/V mạng/N tìm_kiếm/V thông_tin/N về/V thuốc/N chữa/V bất_lực/N cho/V đàn_ông/N
+Bằng/Np cách/V thao_túng/V các/L máy_chủ/N của/E Yahoo/Np tên/N này/P đã/R điều_chỉnh/V cả/P việc/N truy_cập/V của/E người_dùng/N trên/E mạng/N để/E dẫn/V họ/N tới/V trang_web/N của/E một/M hãng/N dược/N kinh_doanh/V online/N có/V chính_sách/N trả/V hoa_hồng/N cho/E những/L người/N giúp/V họ/N kéo/V thêm/V lượng/N truy_cập/V vào/V trang_web/N
+Ngoài_ra/C bản/Nc cáo_trạng/N của/E Bộ/N tư_pháp/N Mỹ/Np cũng/R bao_gồm/V một/M danh_sách/N rất/R dài/A những/L cá_nhân/N bị/V nhóm/N hacker/V săn_lùng/N mặc_dù/N không/R ai/P trong/E đó/P được/V nêu/V tên/N cụ_thể/A
+Nhóm/N hacker/N đoạt/V được/R quyền/N truy_cập/V vào/R tài_khoản/N của/E một/M nhà/N ngoại_giao/N châu/N Âu/Np và/CC tấn_công/V vào/E các/L tài_khoản/N của/E một/N cựu/N Bộ/N trưởng/N Phát_triển/N Kinh_tế/N của/E một/M nước/N giáp/V biên_giới/N với/E Nga/Np và/CC cả/R tài_khoản/N của/E vợ/N ông/N này/P
+Chúng/P cũng/R đã/R truy_cập/V vào/E các/L tài_khoản/N của/E một/M phóng_viên/N điều_tra/V người/N Nga/Np 3/M nhân_viên/N một/M công_ty/N cung_cấp/V dịch_vụ/N đám/N mây/N của/E Mỹ/Np một/M quan_chức/N cấp/N cao/A của/E hãng/N cung_cấp/V dịch_vụ/N web/N của/E Nga/Np 14/M nhân_viên/N của/E một/M ngân_hàng/N Thuỵ_Sĩ/Np một/M giám_đốc/N kinh_doanh/V của/E một/M hãng/N tài_chính/N Mỹ/Np
+Theo/E cáo_trạng/N nhóm/N hacker/N chủ_yếu/A sử_dụng/V thủ_đoạn/N tấn_công/V lừa_đảo/V trực_tuyến/N phishing/N để/E chiếm_đoạt/V dữ_liệu/N người_dùng/N
+Các/L hacker/N gửi/V một/M đường/N dẫn/V link/N tới/V một/M trang_web/N giả_mạo/N hệt/N như/C thật/N có/V chứa/N mã/V độc/N
+Khi/N nạn_nhân/N nhập/V tên/N tài_khoản/N username/N và/CC mật_khẩu/V password/V vào/E trang_web/N giả_mạo/N hacker/N thu_thập/V thông_tin/N đó/P và/N dùng/V chúng/N để/V truy_cập/V vào/R trang_web/N thật/A
+Vụ/N tấn_công/V làm/V rò_rỉ/N dữ_liệu/N này/P ảnh_hưởng/V nặng_nề/A đến/V giá/N bán/V các/L khối/N tài_sản/N và/CC dịch_vụ/N của/E Yahoo/Np với/E Verizon/Np vừa_qua/N
+Xem/V Verizon/Np kết_thúc/V một/M triều/N đại/N mang/V tên/N Yahoo/Np

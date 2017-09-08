@@ -1,0 +1,33 @@
+Cuộc/N đua/V tìm/V vật_chất/N tối/N
+Theo/E Guardian/Np đây/P là/V phát_biểu/V của/E nhà/N vũ_trụ/N học/V Carlos_Frenk/Np tại/E cuộc/N họp/V thường_niên/A của/E Hiệp_hội/N tiến_bộ/N khoa_học/N Mỹ/Np AAAS/Np diễn/V ra/R từ/E 11/M 15/2/M tại/E thủ_đô/N Washington/Np
+Phát_biểu/V dựa/V trên/E kết_quả/N thu/V được/R từ/E các/L máy/N dò/V vật_chất/N tối/N nhạy/A nhất/R trên/E thế_giới/N tháng/N 12/M năm_ngoái/N
+Nhà_vật_lý/N Alex_Murphy/Np đã/R thí_nghiệm/V đưa/V một/M thùng/N xenon/N lỏng/V xuống/R một/M mỏ/N vàng/N ở/E Nam_Dakota_Mỹ/Np khoảng/N 1/M 5/M km/Nu
+Đây/P là/V thùng/N chứa/V 1/3/M tấn/N xenon/N ở/E nhiệt_độ/N 65/M độ/N C/N có/V khả_năng/N phát_hiện/V các/L sự_kiện/N hiếm_hoi/V khi/N một/M nguyên_tử/N xenon/V va_chạm/V với/E một/M hạt/N vật_chất/N tối/N tạo/V ra/R một/M chớp/N sáng/N nhỏ/A
+Murphy/Np hiện/V cộng_tác/V với/E các/L nhà_khoa_học/N khác/A tại/E phòng_thí_nghiệm/N LUX/Np Đại_học/N Nam_Dakota/Np
+Tuy_nhiên/C Murphy/Np chia_sẻ/V nhóm/N của/E ông/N thực_sự/A vẫn/R chưa/R phát_hiện/V ra/R loại/Nc vật_chất/N bí_ẩn/A tạo/V nên/C khoảng/N 1/4/M vũ_trụ/N này/P
+Dù_vậy/C tin/N tốt/A là/V vùng/N tìm_kiếm/V đã/R được/V thu_hẹp/V lại/R ông/N nói/V ám_chỉ/V đến/E nhiều/A nơi/N khác_nhau/A đã/R được/V các/L nhà_khoa_học/N tìm_kiếm/V vật_chất/N tối/N
+Có/V quá/R nhiều/A mô_hình/N được/V kỳ_vọng/V
+Nghĩa_là/X có_thể/R chúng_tôi/P sẽ/R sớm/A tìm/V ra/R vật_chất/N tối/N nhưng/C cũng/R có_thể/R phải/V mất/V thêm/R một/M khoảng/N thời_gian/N rất/R dài/A nữa/T
+Các/L nhà_vật_lý/N tin/V rằng/C một_số/L loại/N vật_chất/N tối/A tồn_tại/V do/E các/L nhà/N thiên_văn/N có_thể/R phát_hiện/V lực/N hấp_dẫn/V mà/C nó/P tác_động/V lên/R các/L ngôi_sao/N và/CC thiên_hà/N
+Tuy_nhiên/C bản_thân/N nó/P không_chỉ/R vô_hình/A mà_còn/C chưa/R bao_giờ/P được/V các/L máy/N dò/V phát_hiện/V trực_tiếp/A hoặc/CC gián_tiếp/V
+Họ/P cho/V rằng/C vật_chất/N tối/N bao_gồm/V các/L hạt/N nặng/A tương_tác/V yếu/A –/A Wimps/Np là/V vật_chất/N còn/V lại/R sau/E Big_Bang/Np có_thể/R đi/V xuyên/V qua/E vật_chất/N thường/R mà/C không/R để/V lại/R dấu_vết/N gì/P trừ/V hấp_dẫn/V
+Có/V một/M nhiệm_vụ/N to_lớn/A hơn/R là/C chỉ/R cố_gắng/V tìm_kiếm/V vật_chất/N tối/N
+Đây/P sẽ/R là/V chìa_khóa/N để/E mở/V ra/R các/L lý_thuyết/N vật_lý/N sâu_sắc/A hơn/R một/M nhiệm_vụ/N dài_hơi/A
+LUX/Np không/R phải/V là/V nơi/N duy_nhất/A truy_tìm/V vật_chất/N tối/N
+Một/M nhóm/N nghiên_cứu/V khác/A tại/E Australia/Np đang/R xây_dựng/V một/M hệ_thống/N dò/V vật_chất/N tối/N mới/A nhất/A thế_giới/N nằm/V bên/E dưới/N một/M mỏ/N vàng/N các/L hang_động/N giúp/V che_chắn/V thiết_bị/N khỏi/V bức_xạ/N vũ_trụ/A làm/V sai_lệch/N kết_quả/N đo/V được/R
+Một/M máy/N dò/V khác/A được/V gắn/V trên/E trạm/N vũ_trụ/N quốc_tế/N ISS/Np với/E hy_vọng/N tìm/V thấy/V các/L dấu_hiệu/N gián_tiếp/V về/E vật_chất/N tối/N
+Ngoài_ra/C còn/R một_số/L thí_nghiệm/N với/E thùng/N chứa/V xenon/N và/CC va_chạm/V giữa/E các/L hạt/N tương_tự/A của/E LUX/Np hy_vọng/V sẽ/R cho/V kết_quả/N vào/E năm/N sau/A 2017/M
+Thực_sự/A công_việc/N không/R có/V tính/N cạnh_tranh/V lắm/R
+Nếu/C một/M trong/E những/L đối_thủ/N của/E chúng_tôi/P thu/V được/R tín_hiệu/N rõ_ràng/A về/E đặc_trưng/A của/E vật_chất/N tối/N tôi/P nghĩ/V ai/P cũng/R vui_mừng/V Murphy/Np nói/V
+Cũng/R theo/V Murphy/Np trong/E vài/L năm/N tới/V LUX/Np sẽ/R tiếp_tục/V cải_tiến/V hệ_thống/N và/CC nhận/V thêm/V khoảng/N 10/M tấn/Nu xenon/N lỏng/V về/V cơ_bản/A trở_thành/V một/M thiết_bị/N dò_tìm/V mới/R có/V tên/N LUX_/Np Zeplin/Np
+Nhưng/C các/L kết_quả/N có_thể/R sẽ/R phải/V chờ/V tới/E năm/N 2018/M do/E các/L thách_thức/N về/V kỹ_thuật/N
+Chúng_tôi/P phải/V giữ/V 10/M tấn/Nu xenon/N lỏng/V sâu/A dưới/E lòng/N đất/N 1/M 5/M km/Nu đảm_bảo/V không/R làm/V thất_thoát/V vì/E nó/P rất/R đắt/A mà/C lượng/N chất_khí/N làm/V lạnh/A lớn/A như_vậy/X luôn/R tiềm_tàng/V rủi_ro/A cao/A
+Vì_vậy/C tuyệt_đối/A không/R được/V thất_bại/V
+Trong/E khi/N đó/P tại/E AAAS/Np các/L nhà_nghiên_cứu/N đang/R còn/V một/M mối/N bận_tâm/N khác/A tìm_kiếm/V một/M loại/Nc hạt/N bí_ẩn/A
+Đây/P là/V loại/Nc neutrino/N thứ/N 4/M được/V gọi_là/X vô_trùng/A vì/E thậm_chí/R nó/P còn/R không/R có/V cả/P các/L điện_tích/N yếu/A như/C ở/E các/L neutrino/N thông_thường/A
+Kam_Biu_Luk/Np một/M nhà_vật_lý/N tại/E Đại_học/N California_Berkeley/Np công_bố/V số_liệu/N mới/R cho/V thấy/V một/M bất_đồng/V bất_ngờ/A giữa/E các/L quan_sát/V và/CC dự_đoán/N của/E chúng_tôi/P trong/E việc/N tìm_kiếm/V các/L hạt/N này/P
+Ông/N và/CC các/L cộng_sự/N trong/E một/M thí_nghiệm/N tại/E Trung_Quốc/Np đã/R tìm/V thấy/V một/M sự/Nc dư_thừa/V bất_thường/A của/E các/L phản/N neutrino/V phù_hợp/V với/E hai/M thí_nghiệm/N khác/A
+Họ/P công_bố/V kết_quả/N vào/E hôm/N 13/2/M trên/E tạp_chí/N Physical_Review_Letters/Np
+Nhà/N vũ_trụ/V học/V Olga_Mena_Requejo/Np cho/V rằng/C các/L neutrino/N mới/R cần/V phải/V được/V tìm/V thấy/V từ/E đó/P các/L nhà_khoa_học/N có_thể/A tìm_hiểu/V thêm/V về/E mối/N quan_hệ/N giữa/E vật_chất/N và/CC phản/V vật_chất/N và/CC trả_lời/V một/M câu_hỏi/N về/E vật_lý/N kể/V từ/E những/L năm/N 1950/M Đặc_tính/N của/E neutrino/N là/V gì/P Nó/P thực_sự/A rất/R lạ_thường/A và/CC tối/A quan_trọng/A
+Sau/E khi/N tìm/V ra/R hạt/N boson/N Higgs/Np vào/E năm/N 2012/M các/L nhà_khoa_học/N đã/R trải/V qua/R một/M cuộc/N khủng_hoảng/V hiện_sinh/N theo/E Tim_Andeen/Np một/M trong/E hàng/R trăm/M nhà_khoa_học/N tham_gia/V cuộc/N tìm_kiếm/V này/P
+Nhưng/C hiện_nay/N các/L lĩnh_vực/N nghiên_cứu/V đã/R rộng_lớn/A hơn/A dấu_hiệu/N của/E siêu/Z đối_xứng/N các/L chiều/N không_gian/N khác/A vật_chất/N tối/N …/A Chúng_tôi/P không/R còn/V hạt/N Higgs/Np để/E tìm_kiếm/V nhưng/C chúng_tôi/P biết/V chắc/A đó/P không/R phải/V là/V sự/Nc kết_thúc/V Andeen/Np nói/V

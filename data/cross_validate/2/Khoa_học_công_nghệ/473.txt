@@ -1,0 +1,23 @@
+Những/L điểm/N mới/R đáng/V chú_ý/V trên/E mac/N OS/Np Sierra/Np 
+Quyết_định/V đổi/V tên/N của/E nền_tảng/N này/P mà/C theo/V Apple/Np nhằm/V mục_đích/N để/E đồng_nhất/V cách/N gọi/V tên/N các/L nền_tảng/N của/E hãng/N như/C máy_tính/N là/V mac/N OS/Np điện_thoại/N là/V i/V OS/Np hay/C đồng_hồ/N là/V watch/N OS/Np 
+Như_vậy/C cái/Nc tên/N Mac/Np OS_X/Np sau/E 15/M năm/N tồn_tại/V và/CC phát_triển/V sẽ/R chính_thức/A khép/V lại/R trang/N sử/N của/E mình/P trong/E năm/N nay/P 
+Với/E mac/N OS/Np Sierra/Np Apple/Np lần/N đầu_tiên/A đưa/V vào/E tính_năng/N Siri/Np cô/N trợ_lý/N ảo/A quen_thuộc/A đối_với/E người/N dùng/V i/N OS/Np 
+Cô/N trợ_lý/V ảo/A trên/E mac/N OS/Np mới/R sẽ/R giúp/V cho/E người/N dùng/V thiết_lập/V các/L công_việc/N từ/E việc/N mở/V tin/N nhắn/V lên/V lịch/N hẹn/V hoặc/CC tìm_kiếm/V các/L thông_tin/N trên/E internet/N 
+Hơn/A thế/P Siri/Np còn/R hỗ_trợ/V người/N dùng/V nhiều/A hơn/R trong/E các/L công_việc/N như/C tìm_kiếm/V các/L tập_tin/N hình_ảnh/N để/E họ/P có_thể/R lồng/V ngay/R vào/E các/L ứng_dụng/N soạn_thảo/V đang/R soạn/V dở_dang/A 
+Các/L kết_quả/N do/E cô/Nc trợ_lý/N tìm_kiếm/V được/R thông_báo/V đến/E người/N dùng/V qua/R thanh/N công_cụ/N notitication/N center/N và/CC người/N dùng/V có_thể/R tuỳ/V chọn/V xem/V và/CC kéo/V thả/V tất_cả/P các/L tập_tin/N vào/E những/L văn_bản/N 
+Một/M tính_năng/N khác/A đáng/V chú_ý/V của/E mac/N OS/Np đó/P là/V Continuity/Np cho_phép/V người/N dùng/V có_thể/R quản_lý/V các/L thiết_bị/N của/E Apple/Np tốt/A hơn/R 
+Trong/E đó/P người/N dùng/V có_thể/R mở/V khoá/N thiết_bị/N mac/V bằng/E chính/T chiếc/Nc đồng_hồ/N Apple_Watch/Np đang/R sử_dụng/V 
+Chẳng_hạn/X khi/N bạn/N đứng/V gần/A chiếc/Nc máy_tính/N Mac/Np sử_dụng/V nền_tảng/N mac/V OS/Np Sierra/Np chiếc/Nc đồng_hồ/N sẽ/R như/A một/M công_cụ/N mở/V khoá/N giúp/V chiếc/Nc máy_tính/N có_thể/A sẵn_sàng/A để/E làm_việc/V 
+Và/C ngược_lại/C khi/N bạn/N đi/V xa/V chiếc/Nc máy/N thiết_lập/V Bluetooth/Np từ/E đồng_hồ/N Apple_Watch/Np và/CC máy_tính/N mất/V kết_nối/V 
+Thì/C lúc/N này/P đây/P máy_tính/N Mac/Np sẽ/R tự_động/A khoá/N màn_hình/N ở/E chế_độ/N khoá/N password/N mà/C bạn/N đã/R thiết_lập/V trước/E đó/P 
+Bên_cạnh/N đó/P một/M tính_năng/N khác/A đó/P là/V Universal_Clipboard/Np giúp/V người/N dùng/V có_thể/R copy/V hoặc/CC dán/V bất_cứ/R các/L đoạn/N văn_bản/N đường/N links/V từ/E các/L thiết_bị/N i/V OS/Np sang/V Mac/Np và/CC ngược_lại/X 
+Đây/P là/V một/M tính_năng/N rất/R thú_vị/A nó/P cho_phép/V bạn/N đang/R xem/V tin_tức/N trên/E i/N Phone/Np nhưng/C muốn/V copy/V đoạn/N văn_bản/N này/P vào/E Word/Np trên/E máy_tính/N để/E soạn_thảo/V thì/C chỉ/R chọn/V copy/V từ/E i/N Phone/Np và/CC trên/E Mac/Np chọn/V chức_năng/N dán/V 
+Ngoài/E những/L cải_tiến/V trên/A m/X các/L tính_năng/N như/C i/N Cloud/Np Safari/Np và/CC Apple_Pay/Np cũng/R được/V nâng_cấp/V hơn/R so/V với/E các/L thế_hệ/N trước/A 
+Trong/E đó/P Apple_Pay/Np được/V nâng/V tầm/N hơn/A khi/N có/V sự/Nc đồng_nhất/V giữa/E các/L thiết_bị/N với/E nhau/N sử_dụng/V chung/A tài_khoản/N 
+Người/N dùng/V có_thể/R dùng/V đến/E cảm_biến/V vân/N tay/N để/E thanh_toán/V trên/E i/N Phone/Np hoặc/CC dùng/V mã/N PIN/Np trên/E đồng_hồ/N để/E thanh_toán/V một/M hoá_đơn/N dễ_dàng/A 
+Đây/P được/V xem/V là/C động_thái/N mà/C hãng/N muốn/V tấn_công/V mạnh/A hơn/R vào/E nền_tảng/N thanh_toán/V di_động/N hiện_nay/N nơi/N mà/C Google/Np với/E Android_Pay/Np đang/R có/V sự/N phát_triển/V khá/R tốt/A 
+Ngoài_ra/C macOS/N mới/R cũng/R tích_hợp/V tính_năng/N Picture/Np in/V Picture/Np đã/R từng/R xuất_hiện/V trên/E i/N Pad/Np 
+Cho_phép/V người/N dùng/V kéo/V ra/R một/M cửa_sổ/N nhỏ/A để/E xem/V video/N trên/E Safari/Np và/CC trang_web/N có_thể/A ẩn/V xuống/R để/E có/V thêm/V không_gian/N làm_việc/V 
+Theo/E công_bố/V phiên_bản/V mac/N OS/Np Sierra/Np sẽ/R chính_thức/A có_mặt/V vào/E mùa/N thu/V năm/N nay/P 
+Bản/N thử_nghiệm/V sẽ/R có_mặt/V trong/E tháng/N 7/M dành/V cho/E các/L lập_trình_viên/N 
+Phan_Tuấn/Np 

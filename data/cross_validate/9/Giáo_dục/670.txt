@@ -1,0 +1,7 @@
+TP_HCM/Np công_bố/V điểm/N thi/V lớp/N 10/M
+Chiều/N 12/6/M Sở/N Giáo/N dục/N và/CC Đào_tạo/N TP_HCM/Np chính_thức/A công_bố/V điểm/N thi_tuyển/V sinh/V lớp/N 10/M
+Chỉ/R 11/M thí_sinh/N có/V tổng/N điểm/N 3/M môn/N /V Toán/Np Văn/Np tiếng/N Anh/Np /V từ/E 27/M trở_lên/A
+Trong/E đó/P thí_sinh/N đạt/V điểm_cao/N nhất_là/X 28,25/M điểm/N
+Thí_sinh/N bắt_đầu/V nộp/V đơn/N phúc_khảo/V từ/E hôm_nay/N đến/E 14/6/M tại/E trường/N phổ_thông/N nơi/N theo/V học/V lớp/N 9/M không/R phải/V nộp/V lệ_phí/N và/CC không/R giới_hạn/V môn/N phúc_khảo/V
+Dự_kiến/V ngày/N 3/7/M Sở/N sẽ/R công_bố/V điểm_chuẩn/V vào/E lớp/N 10/M và/CC danh_sách/N học_sinh/N trúng_tuyển/V vào/E các/L trường/N THPT/Np
+Năm/N nay/P TP_HCM/Np có/V khoảng/N 73 0/M thí_sinh/N giành/V khoảng/N 63 0/M chỉ_tiêu/N vào/E các/L trường/N THPT/Np công_lập/V

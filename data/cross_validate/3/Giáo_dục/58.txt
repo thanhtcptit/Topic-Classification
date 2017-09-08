@@ -1,0 +1,7 @@
+Bài/N giải/N bài/N thi/V khoa_học_xã_hội/X THPT/Np Quốc_gia/N 2017/M
+Sáng/N 246/M hơn/N 430000/M thí_sinh/N dự/V thi/V bài/N thi/V khoa_học_xã_hội/X gồm/V ba/N môn/N thi/V thành_phần/N lịch_sử/N địa_lí/A và/CC giáo_dục/N công_dân/N
+Tuổi_Trẻ_Online/Np mời/V bạn_đọc/N xem/V bài/N giải/N của/E từng/N môn/N
+Bài/N giải/N môn/N lịch_sử/N
+Bài/N giải/N môn/N địa_lí/V
+Bài/N giải/N môn/N giáo_dục/V công_dân/N
+Bộ/N GDĐT/N công_bố/V toàn_bộ/N bài/N thi/N khoa_học/N xã/N hội/N THPT/Np

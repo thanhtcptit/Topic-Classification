@@ -1,0 +1,24 @@
+Người/N già/A ngồi/V xe_lăn/N đi/V khám/V BHYT/Np không/R được/V ưu_tiên/V
+Vợ/N tôi/P là/V bà/N NTH/Np
+68/M tuổi/N ở/E QC/Np ái/V Răng/Np TP/Np Cần_Thơ/Np bị/V tai_biến/V phải/V ngồi/V xe_lăn/N chúng_tôi/N mua/V BHYT/Np khám/V chữa/V bệnh/N ban_đầu/N tại/E Bệnh_viện/N BV/Np quận/N Cái/N Răng/Np
+Khi/N đi/V khám/V thì/C được/V BV/Np này/P chuyển/V viện/N đến/V BV/Np Đa_khoa/N TP/Np Cần_Thơ/Np khám/V
+Lần/N đầu/N chúng_tôi/N đến/V khám/V là/V ngày/N 255/M tại/N BV/Np Đa_khoa/N TP/Np Cần_Thơ/Np vợ/N tôi/P khám/V ở/V 2/M phòng/N với/N bệnh/N nhiễm_khuẩn/N đường/N tiết_niệu/V bác_sĩ/N cho/E thuốc/N và/CC hẹn/V tái/N khám/V ngày/N 16/M
+còn/C bệnh/N tăng/V huyết_áp/N vô/V căn/N di_chứng/N nhồi/V máu/N não/N bệnh/N đái_tháo_đường/Np thì/C bác_sĩ/N cho/V thuốc/N 30/M ngày/N ghi/V hẹn/N khám/V ngày/N 246/M
+Theo/E hai/M ngày/N hẹn/V này/N chúng_tôi/N lấy/V ngày/N 246/M để/N đi/V khám/V nhưng/C đây/P là/V thứ_bảy/N BV/Np không/R nhận/V khám/N bằng/N thẻ/N BHYT/Np vì_vậy/N sáng/N thứ_hai/N 266/M vợ_chồng/N tôi/P đến/V khám/V thì/C BV/Np Đa_khoa/V Cần_Thơ_từ/N chối/N khám/V vì/E lí_do/V giấy/N hẹn/V không/R đúng/A ngày/N bắt/V phải/V về/V BV/Np Cái/Nc Răng/Np xin/V giấy/N khác/A
+Trong/E khi/N vợ_chồng/N tôi/P già/A đi/V xe_lăn/N làm_sao/N đi_lại/V nhiều/A lần/N như/C vậy/P được/V sao/P lại/R không/R được/V ưu_tiên/V
+Trong/E điều_kiện/N lỗi/N này/P là/V của/E BV/Np hẹn/V ngày/N thứ_bảy/N chứ/C không/R phải/V lỗi/N chúng_tôi/N
+TH/Np
+Cần_Thơ/Np
+Trao_đổi/V với/E chúng_tôi/P về/E vấn_đề/N người_nhà/N của/E bệnh_nhân/N NTH/Np
+phản_ảnh/N bác_sĩ/N Trần_Văn_Thường/Np trưởng/N khoa/N khám/V bệnh/N BV/Np Đa_khoa/N TP/Np Cần_Thơ/Np cho/V biết/V Sau/E khi/N nhận/V phản_ảnh/N của/N người_bệnh/N chúng_tôi/N đã/R cho/V kiểm_tra/V trên/N hệ_thống/N và/CC những/L bác_sĩ/N trực_tiếp/A khám/V bệnh/N
+Vụ_việc/N này/P nhân_viên/N BV/Np đã/R làm/V đúng/A thủ_tục/N và/CC quy_định/N khám/V chữa/V bệnh/N của/N BHYT/Np
+Cụ_thể/N là/V giấy/N hẹn/V tái/N khám/V do/E BV/Np cấp/V cho/V bệnh_nhân/N NTH/Np
+ghi/V rõ/A ngày/N 16/M tái/N khám/V và/N giấy/N này/P chỉ/R có/V thời_hạn/N trong/E vòng/N 10/M ngày/N
+Còn/C bệnh_nhân/N căn_cứ/N ngày/N hẹn/V trên/E toa/N thuốc/N thứ/N 2/M ghi/N tái/N khám/V sau/E 30/M ngày/N tức/V ngày/N 246/M là/V do/N người_bệnh/N hiểu/V lầm/N
+Đây/P chỉ/R là/V toa/N thuốc/N đã/R được/V mặc_định/V trên/E máy/N dành/V cho/E tất_cả/N người_bệnh/N khi/N hết/V thuốc/N họ/N sẽ/R trở/V về/V nơi/N đăng_kí/V khám/V bệnh/N ban_đầu/N để/E tái/N khám/V và/N nhận/V thuốc/N chứ/C không/R phải/A là/V giấy/N hẹn/V tái/N khám/V tại/E BV/Np Đa_khoa/N TP/Np Cần_Thơ/Np
+Vì_vậy/C khi/N bà/N H/Np
+đến/V BV/Np khám/V ngày/N 266/M đưa/V giấy/N hẹn/V của/E BV/Np thì/C nhân_viên/N BV/Np trả_lời/V giấy/N hết/V hạn/N phải/V xin/V lại/V giấy/N khác/A là/V đúng/A
+Trường_hợp/N BHYT/Np đi/V trái/A tuyến/N theo/V quy_định/N của/E BHYT/Np chỉ/V ưu_tiên/A nếu/C là/V trường_hợp/N cấp_cứu/V riêng/N trường_hợp/N bà/N H/Np
+đi/V tái/N khám/V chứ/C không/R phải/V cấp_cứu/V
+BV/Np chúng_tôi/P cũng/R nhận/V lỗi/N là/V trong/E toa/N thuốc/N ghi/V mặc_định/N phần/N hết/V thuốc/N hẹn/V tái/N khám/V cho/V tất_cả/N trường_hợp/N gây/V hiểu/V lầm/V cho/V người_bệnh/N
+Chúng_tôi/P sẽ/R góp_ý/V để/E chỉnh_sửa/V lại/V

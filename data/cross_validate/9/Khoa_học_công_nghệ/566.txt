@@ -1,0 +1,16 @@
+Máy_bay/N dùng/V dầu/N ăn/V để/E tiết_kiệm/V tiền/N
+Trước/E khi/N chiếc/Nc phi_cơ/N Airbus/Np của/E hãng/N Air_Canada/Np rời/V thành_phố/N Toronto/Np tại/E Canada/Np để/E tới/V thành_phố/N Mexico_City/Np thủ_đô/N của/E Mexico/Np vào/E chiều/N 18/6/M người_ta/N đổ/V cả/P dầu/N sinh_học/N lẫn/C xăng/N máy_bay/N vào/E thùng/N nhiên_liệu/N của/E nó/P
+Dầu/Np sinh_học/N được/V tái_chế/V từ/E dầu/N ăn/V đã/R sử_dụng/V và/CC chiếm/V 50%/M tổng/N nhiên_liệu/N The_Star/Np cho_biết/V
+Chuyến/N bay/V mang/V số_hiệu/N 911/M với/E 120/M hành_khách/N là/C chuyến/N bay/V thương_mại/N đầu_tiên/A sử_dụng/V nhiên_liệu/N sinh_học/N của/E Air_Canada/Np
+Đây/P là/V một/M phần/N trong/E nỗ_lực/N tìm_kiếm/V công_nghệ_sạch/N nhằm/V giảm/V lượng/N khí/N phát/V thải/V của/E máy_bay/N của/E Tổ_chức/N Hàng_không/Np Dân_dụng/A Quốc_tế/N /A ICAO/Np /A
+Ban/N lãnh_đạo/N Air_Canada/Np hi_vọng/V việc/N trộn/V lẫn/C dầu/N sinh_học/N và/CC xăng/N máy_bay/N sẽ/R làm/V giảm/V từ/E 40%/M lượng/N khí_thải/N trở_lên/A
+Hỗn_hợp/A này/P do/E một/M công_ty/N có/V tên/N SkyNRG/Np phát_minh/V đã/R đạt/V các/L tiêu_chuẩn/N dành/V cho/E nhiên_liệu/N máy_bay/N thông_thường/A
+Vì_thế/C người_ta/P có_thể/R đưa/V nó/P vào/E động_cơ/N máy_bay/N mà/C không/R phải/V thay_đổi/V kết_cấu/N động_cơ/N
+Air_Canada/Np cũng/R sẽ/R thay_thế/V những/L cuốn/Nc sách/N hướng_dẫn/V vận_hành/V máy_bay/N dành/V cho/E phi_công/N bằng/E máy_tính/N bảng/N i/A Pad/Np vì/E tổng/N khối_lượng/N của/E những/L cuốn/Nc sách/N có_thể/R lên/V tới/R 50/M kg/Nu
+Sự_biến/N mất/V của/E những/L cuốn/Nc sách/N sẽ/R khiến/V tổng/N khối_lượng/N của/E máy_bay/N giảm/V dẫn/V đến/E giảm/V lượng/N nhiên_liệu/N mà/C phi_cơ/N sử_dụng/V
+Nếu/C giảm/V được/R lượng/N khí_thải/N bạn/N sẽ/R giảm/V được/R chi_phí/N dành/V cho/E nhiên_liệu/N
+Mỗi/L phi_cơ/N đốt/V khoảng/A 3 0/M kg/Nu xăng/N trong/E mỗi/M giờ/N Claude_Saint/Np Martin/Np giám_đốc/N phụ_trách/V công_nghệ/N tiết_kiệm/V nhiên_liệu/N của/E Air_Canada/Np phát_biểu/V
+Trong/E bối_cảnh/N giá/N dầu_mỏ/A không_thể/R giảm/V mạnh/A trong/E tương_lai/N gần/A nhiều/A hãng/N hàng_không/N đang/R tìm/V cách/N giảm/V chi_phí/N nhiên_liệu/N để/E tăng/V lợi_nhuận/N
+Ngoài_ra/C Liên_minh/N châu/N Âu/Np cũng/R lên/V kế_hoạch/N đánh/V thuế/N khí_thải/V carbon/N nên/C các/L hãng/N có/V thêm/V một/M lý_do/N để/E giảm/V khí_thải/N từ/E máy_bay/N
+Bà/N Andrea_Debbane/Np phó_chủ_tịch/N phụ_trách/V các/L vấn_đề/N môi_trường/N của/E tập_đoàn/N sản_xuất/V máy_bay/N Airbus/Np khẳng_định/V rằng/C giảm/V lượng/N khí/N CO2/Np mang/V đến/R cho/E các/L hãng/N hàng_không/N lợi_thế/N cạnh_tranh/V
+Nếu/C muốn/V giảm/V lượng/N khí/N CO2/Np người_ta/P phải/V tìm/V cách/N chế_tạo/V những/L máy_bay/N sử_dụng/V nhiên_liệu/N hiệu_quả/N bà/Nc Debbane/Np giải_thích/V

@@ -1,0 +1,8 @@
+​/N Sắp/N thông/V xe/N cầu_vượt/N nút/N giao_thông/N Nguyễn_Thái_Sơn/Np Nguyễn_Kiệm/Np
+Từ/E 8h/M ngày/N 37/M sẽ/N tổ_chức/V thông/V xe/N trên/E một/M nhánh/N cầu_vượt/N nút/N giao_thông/N Nguyễn_Thái_Sơn/Np Nguyễn_Kiệm/Np hướng/V từ_đường/N Hoàng_Minh_Giám/Np đến/V Nguyễn_Thái_Sơn/Np quận/N Gò_Vấp/Np
+Hiện/N việc/N xây_dựng/V nhánh/N cầu_vượt/N Hoàng_Minh_Giám/Np Nguyễn_Thái_Sơn/Np thuộc/V dự_án/N xây_dựng/V cầu_vượt/N thép/N tại/E nút/N giao/N Nguyễn_Thái_Sơn/Np Nguyễn_Kiệm/Np đã/R cơ_bản/A hoàn_thành/V
+Sở/N Giao_thông/N vận/N tải/N TPHCM/Np sẽ/R tổ_chức/V cho/V lưu_thông/V một_chiều/N trên/N cầu_vượt/V theo/V hướng/N từ_đường/N Hoàng_Minh_Giám/Np đến/V Nguyễn_Thái_Sơn/Np
+Cấm/V xe/N có/V tải_trọng/N trên/A 10/M tấn/N xe/N thô_sơ/N và/CC người/N đi/V bộ/V lưu_thông/V trên/N cầu/N
+Phía/N dưới/N cầu_vượt/N giao_thông/N theo/V hướng/N từ_đường/N Đặng_Văn_Sâm/Np đến/V nút/N giao/V Nguyễn_Kiệm/Np Nguyễn_Thái_Sơn/Np được/V tổ_chức/V như/C sau/N
+Phần/N đường/N giữa/E cầu_vượt/N và/CC dải_phân_cách/N trồng/V cây_xanh/N sẽ/R cấm/V lưu_thông/V xe/N 2/M và/N 3/M bánh/N phần/N đường/N giữa/N dải_phân_cách/N trồng/V cây_xanh/N và/CC vỉa_hè/N phía/N công_viên/N Gia_Định/Np cấm/V lưu_thông/V ôtô/N trừ/V xe_buýt/N
+Hướng/N từ/E nút/N giao/V Nguyễn_Kiệm/Np Nguyễn_Thái_Sơn/Np đến/V đường/N Đặng_Văn_Sâm/Np các/L loại/Nc xe/N được/V phép/V lưu_thông/V bình_thường/N

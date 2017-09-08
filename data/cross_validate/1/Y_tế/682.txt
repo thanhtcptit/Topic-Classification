@@ -1,0 +1,9 @@
+Bác_sĩ/N bị/V cảnh_cáo/V do/E sản_phụ/N tử_vong/N sau/N sinh/V mổ/V
+Theo/E nhận_định/N của/E Sở/N Y_tế/N Quảng_Trị/Np bác_sĩ/N Lê_Hoài_Nhân/Np 51/M tuổi/N Trưởng/Np khoa/N Sản_Bệnh/Np viện/N tỉnh/N Quảng_Trị/Np đã/R không/R thực_hiện/V đúng/A trách_nhiệm/N quản_lý/V để/E nhân_viên/N thuộc/V quyền/N gây/V hậu_quả/N nghiêm_trọng/A khi/N thực_hiện/V nhiệm_vụ/N  /EOS
+Hội_đồng/N chuyên_môn/N Sở/N Y_tế/N kết_luận/V bác_sĩ/N Nhân/Np chưa/R làm/V tốt/A trách_nhiệm/N của/E trưởng/N ca/N trực/V hồi/N tháng/N 3/M khiến/V sản_phụ/N Tâm/Np tử_vong/V do/E chảy_máu/V ổ_bụng/N sau/N sinh/V mổ/V  /M Trưởng/Np kíp/N đã/R phân_công/V nhiệm_vụ/N chưa/R hợp_lý/A khi/N giao/V bác_sĩ/N chưa/R dày_dặn/V kinh_nghiệm/N thực_hiện/V phẫu_thuật/V mà/C không/R kiểm_tra/V theo_dõi/V bệnh_nhân/N chưa/R sát/A từ/E khi/N chỉ_định/V mổ/V đến/E lúc/N ngừng/V thở/V
+Trình_độ/N chuyên_môn/N của/E y_bác_sĩ/N phiên/N trực/V còn/R hạn_chế/V chưa/R nhận_biết/V diễn_biến/N của/E bệnh/N
+Giữa/E tháng/N 3/M sản_phụ/N Tâm/Np mang/V thai/N 39/M tuần/N tuổi/N nhập_viện/V Quảng_Trị/Np chờ/V sinh/V lần/N 2/M
+Chiều/N cùng/A ngày/N sản_phụ/N được/V chỉ_định/V mổ/V lấy/V thai/N
+Sau/N mổ/V sản_phụ/N được/V theo_dõi/V tại/E khoa/N Phẫu_thuật/V gây_mê/N hồi_sức/V đến/E khi/N sức_khỏe/N ổn_định/V thì/C chuyển/V về/E khoa/N Sản/Np
+Sáng/N hôm_sau/V sản_phụ/N đột_ngột/A đau/V ngực/N khó/A thở/V sùi/V bọt/N mép/N rồi/C ngừng/V tim/N ngừng/V thở/V tử_vong/V  /M Sở/N
+Y_tế/N Quảng_Trị/Np sau/E đó/P nhận_định/V sản_phụ/N ngừng/V tuần_hoàn/N hô_hấp/N không/R hồi_phục/V nhiều/A khả_năng/N do/E thuyên/N tắc/V mạch/N phổi/N sau/E lấy/V thai/N giờ/N thứ/N 12/M

@@ -1,0 +1,8 @@
+8/M tình_huống/N cha_mẹ/N làm/V hư/V con/N mà/C không/R biết/V
+a/N
+Không/R nhân_nhượng/A nhưng/C mua/V một/M món/N rẻ/A hơn/A cho/E con/Nc khi/N ở/E quầy/N thanh_toán/V
+b/N
+Bảo/V con/N là/C bé/N đã/R có/V một/M núi/N thú/N bông/N nên/C không/R mua/V nữa/R
+Nếu/C bé/N còn/V mè_nheo/N bạn/N giải_thích/V tiếp/V đến/E khi/N con/N hiểu/V
+c/N
+Nói/V không/R đưa/V ra/R lý_do/N và/CC sau/N đó/P không/R nói/V thêm/V gì/P nữa/R về/E việc/N này/P

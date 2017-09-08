@@ -1,0 +1,28 @@
+Xây/V thang_máy/N trong/E tiểu_thuyết/N viễn_tưởng/V
+Trong/E lĩnh_vực/N du_hành/V không_gian/N lên/R cao/A 100/M km/Nu đầu_tiên/A là/V công_việc/N khó_khăn/A và/CC tốn_kém/V nhất/A với/E công_nghệ/N hiện_nay/N
+Mọi/L độ/N cao_lớn/A hơn/A 50/M km/Nu đều/R yêu_cầu/V tên_lửa/N đẩy/V nhưng/C tên_lửa/N đẩy/V lại/R có/V hiệu_suất/N rất/R thấp/A
+Nhiên_liệu/N ngoài/E việc/N dùng/V để/E đưa/V tàu_vũ_trụ/N vào/E quỹ_đạo/N còn/R phải/V dùng/V để/E vận_chuyển/V chính/T nhiên_liệu/N
+Ngoài_ra/C nhiên_liệu/N còn/R tiêu/V tốn/V vì/E các/L vấn_đề/N liên_quan/V đến/E tầng/N khí_quyển/N
+Trong/E thế_kỷ/N 20/M các/L nhà_khoa_học/N và/CC kỹ_sư/N đã/R thử_nghiệm/V rất/R nhiều/A cách/N để/E vượt/V qua/E các/L khó_khăn/N trên/A như/C phóng/V tàu_vũ_trụ/N ở/E quỹ_đạo/N để/E lợi_dụng/V được/R tốc_độ/N quay/V của/E Trái_Đất/Np hay/C phóng/V tên_lửa/A từ/E bóng_bay/N hoặc/CC sử_dụng/V các/L hệ_thống/N phóng/V khác_nhau/A
+Tuy_nhiên/C cách/N hiệu_quả/N nhất/A ít_nhất/A là/V theo/E tính_toán/V lý_thuyết/N là/V sử_dụng/V thang_máy/N không_gian/N
+Ý_tưởng/N này/P lần/N đầu_tiên/A được/V đề_cập/V trong/E cuốn/Nc tiểu_thuyết/N viễn_tưởng/V The_Fountains/Np of/E Paradise/Np của/E tác_giả/N Arthur/Np C_Clarke/Np
+Thang_máy/N có_thể/A chở/V hành_khách/N và/CC hàng_hóa/N từ/E bề_mặt/N Trái_Đất/Np lên/R quỹ_đạo/V địa_tĩnh/N ở/E khoảng_cách/N 36/M 000/M km/Nu
+Chi_phí/N cho/E một/M kg/N hàng_hóa/N vận_chuyển/V bằng/E thang_máy/N là/V 220/M USD/Nu rẻ/A hơn/R rất/R nhiều/A so/V với/E giá/N vận_chuyển/V theo/E phương_pháp/N hiện_nay/N là/V 25/M 000/M USD/Nu
+Thang_máy/N không_gian/N cũng/R có/V nhiều/A ưu_điểm/N khác/A như/C điểm/N đặt/V cố_định/N hay/C có_thể/R thực_hiện/V nhiều/A chức_năng/N của/E một/M vệ_tinh/N
+Tuy_nhiên/C thiết_kế/V hiện_tại/N của/E thang_máy/N đang/R vượt/V qua/V khả_năng/N xây_dựng/V của/E con_người/N
+Nó/P sẽ/R cần/V một/M cái/Nc tháp/N hoặc/CC một/M sợi/Nc cáp/N kéo_dài/V tới/E quỹ_đạo/N địa_tĩnh/V thêm/V một/M sợi/Nc cáp/N dài/A hàng/R trăm/M km/Nu nữa/R nối/V với/E một/M đối_trọng/N có/V kích_thước/N của/E một/M tiểu/N hành_tinh/N để/E giúp/V giữ/V cân_bằng/A cấu_trúc/N
+Vật_liệu/N chế_tạo/V thang_máy/N chịu/V được/V sức/N nặng/A của/E chính/T nó/P cũng/R chưa/R có/V
+Hiện/N các/L vật_liệu/N như/C ống/N nano/N carbon/N ống/N nano/N boron/V nitride/N hay/C sợi/N kim_cương/N nano/N đang/R được/V nghiên_cứu/V thử_nghiệm/V
+Mẫu/N thiết_kế/V của/E Thothx/Np cố_gắng/V tiến/V gần/A tới/E các/L giới_hạn/N này/P
+Tháp/N có/V chiều_cao/N khoảng/A 20/M km/Nu đường_kính/N 230/M m/Nu
+Nó/P có_thể/R phóng/V vệ_tinh/N từ/E sàn/N gắn/V với/E tháp/N
+Tuy/C 20/M km/Nu quá/R nhỏ/A so/V với/E khoảng_cách/N 36/M 000/M km/Nu nó/P vẫn/R cao/A gấp/V 20/M lần/N so/V với/E bất_kỳ/R công_trình/N nhân_tạo/A nào/P khác/A và/CC sẽ/R giúp/V tiết_kiệm/V 1/3/M chi_phí/N phóng/V vệ_tinh/N
+Chức_năng/N chính/A của/E Thothx/Np  /V là/V phóng/V tàu_vũ_trụ/N với/E đỉnh/N tháp/N như/C một/M bệ_phóng/N cho/E các/L hoạt_động/N cất_cánh/V hạ_cánh/V tiếp/V nhiên_liệu/N và/CC phóng/V trở_lại/V quỹ_đạo/N
+Ngoài_ra/C tháp/N còn/R có_thể/A được/V sử_dụng/V để/E nghiên_cứu/V khoa_học/N truyền_thông/N du_lịch/N viễn_thám/V và/CC gắn/V máy_phát_điện/N gió/N  /M Những/L tháp/N nhỏ/A chiều_cao/N từ/E 25/M 150/M m/Nu sẽ/R được/V sử_dụng/V cho/E các/L mục_đích/N truyền_thông/N và/CC viễn_thám/N
+Thân/N tháp/N được/V làm_bằng/V các/L bộ_phận/N có_thể/R bơm/V hơi/R được/V gia_cố/N
+Phần/N thành/V trong/E tháp/N sẽ/R là/V phần/N có_thể/A bơm/V hơi/R và/CC có/V một/M khoảng/N rỗng/A để/E đặt/V thang_máy/N
+Nó/P cũng/R được/V dùng/V để/E gắn/V sàn/N nâng/V ổn_áp/A và/CC các/L thành_phần/N khác/A của/E hệ_thống/N
+Tháp/N quá/R cao/A để/E có_thể/R giữ/V bằng/E dây_cáp/N néo/N vì_thế/C công_ty/N đề_xuất/V sử_dụng/V hệ_thống/N bánh_đà/N để/E tạo/V cân_bằng/A động/N
+Các/L bánh_đà/N có_thể/A chống/V lại/R sự/N bẻ/V cong/A tháp/N và/CC giữ/V nó/P đứng/V vững/A
+Các/L xe_tăng/N áp/V cũng/R sẽ/R được/V sử_dụng/V chạy/V bên/N trong/E lõi/N hoặc/CC bên/N ngoài/N các/L trục/N như/C một/M con/Nc nhện/N cơ_khí/N vì/E không_thể/R sử_dụng/V cáp/N
+Dây_cáp/N sẽ/R đứt/V vì/E chính/T sức/N nặng/A của/E nó/P

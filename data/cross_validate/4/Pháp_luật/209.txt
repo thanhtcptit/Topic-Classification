@@ -1,0 +1,7 @@
+Bắt/V hai/M cán_bộ/N quản_lí/V thị_trường/N tỉnh/N Sóc_Trăng/Np
+Hai/M cán_bộ/N quản_lí/V thị_trường/N tỉnh/N Sóc_Trăng/Np bị/V bắt/V do/E liên_quan/V đến/E việc/N kiểm_nghiệm/V phân_bón/N tại/E một/M cơ_sở/N kinh_doanh/V phân_bón/N ở/V thị_xã/N Ngã_Năm/Np Sóc_Trăng/Np
+Chiều/N 96/M đại_tá/N Nguyễn_Minh_Ngọc/Np phó/N giám_đốc/N công_an/N tỉnh/N Sóc_Trăng/Np cho/V biết/V cơ_quan/N điều_tra/V Công_an/N tỉnh/N Sóc_Trăng/Np đã/R khởi_tố/V bắt/V tạm/N ông/N Châu_Hoài/Np Phương/Np chi_cục/N phó/N Chi_cục/N quản_lí/N thị/N trường/N Sóc_Trăng/Np và/CC ông/N Ưng_Văn_Thanh/Np chuyên_viên/N chi_cục/N này/P
+Lệnh/Np khám_xét/V nơi/N làm_việc/V và/N nơi/N ở/V của/E hai/M cán_bộ/N quản_lí/N thị/N trường/N này/P được/V thực_hiện/V ngay/T trong/N chiều/N cùng/V ngày/N
+Một/M lãnh_đạo/N Sở/N Công_thương/N Sóc_Trăng/Np xác_nhận/V có/V việc/N hai/M cán_bộ/N quản_lí/N thị/N trường/N bị/V bắt/V
+Theo/E vị/Nc lãnh_đạo/N này/P nguyên_nhân/N hai/M cán_bộ/N quản_lí/N thị/N trường/N bị/V bắt/V do/E liên_quan/V đến/E trách_nhiệm/N trong/E việc/N kiểm_nghiệm/V phân_bón/N tại/E một/M cơ_sở/N kinh_doanh/V phân_bón/N xảy/V ra/R trước/N đó/P ở/V thị_xã/N Ngã_Năm/Np Sóc_Trăng/Np
+Tuổi_Trẻ/Np tiếp_tục/V cập_nhật/V thông_tin/N

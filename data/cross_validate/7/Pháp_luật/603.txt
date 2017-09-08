@@ -1,0 +1,7 @@
+Cô_giáo/N mầm_non/V vận_chuyển/V gần/A 3/M kg/Nu ma_túy/N đá/N
+Ngày/N 18/6/M Phòng/N cảnh_sát/N điều_tra/V tội_phạm/N về/V ma_túy/N /V Công_an/N Hải_Phòng/Np /V cho_biết/V cơ_quan/N CSĐT/Np vừa/R ra/V quyết_định/N khởi_tố/V bắt/V tạm/A giam/V Hoàng_Thị_Thoa/Np /V 45/M tuổi/N /A trú/V tại/E thôn/N 8/M xã/N Tam_Hưng/Np huyện/N Thuỷ_Nguyên/Np về/E hành_vi/N vận_chuyển/V trái_phép/A chất/N ma_túy/N
+Trước/E đó/P 16h/M ngày/N 17/6/M tại/E tỉnh_lộ/N 359C/M thị_trấn/N Núi_Đèo/Np huyện/N Thuỷ_Nguyên/Np nhà_chức_trách/N kiểm_tra/V xe_khách/N Móng_Cái/Np Hải_Phòng/Np đã/R phát_hiện/V bắt/V quả_tang/R Hoàng_Thị_Thoa/Np vận_chuyển/V trái_phép/A hơn/A 2,8/M kg/Nu ma_túy/N đá/N
+Tại/E cơ_quan/N điều_tra/V Thoa/Np khai/V nhận/V thông_qua/V mạng/N xã_hội/N quen/V một/M đối_tượng/N tại/E thành_phố/N Móng_Cái/Np /V Quảng_Ninh/Np /V và/CC được/V người/N này/P đặt/V vấn_đề/N thuê/V vận_chuyển/V số_lượng/N lớn/A ma_túy/N đá/V từ/E khu_vực/N vùng_biên/N về/E Hải_Phòng/Np giao/V cho/E đầu_nậu/N với/E giá/N 10/M triệu/M đồng/Nu mỗi/M phi_vụ/N
+Chiều/N ngày/N 16/6/M Thoa/Np nhận_lời/V và/CC bắt/V xe/N ra/R Móng_Cái/Np nhận/V 9/M gói/N ma_túy/N đá/V sau/E đó/P quấn/V 7/M gói/N quanh/N người/N và/CC 2/M gói/N để/E trong/E túi_xách/N  /EOS
+Cảnh_sát/N cho_biết/V Thoa/Np là/V cô_giáo/N mầm_non/V tại/E một/M trường/N đóng/V trên/E địa_bàn/N huyện/N Thủy_Nguyên/Np
+Vụ_án/N đang/R được/V cảnh_sát/N mở_rộng/V điều_tra/V

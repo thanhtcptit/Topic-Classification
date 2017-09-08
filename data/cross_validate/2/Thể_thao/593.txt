@@ -1,0 +1,83 @@
+Bị/V cầm/V hoà/N Quang_Liêm/Np vẫn/R còn/V cửa/N vô_địch/A giải/N Siêu/Np đại/V kiện_tướng/N
+Với/E khai_cuộc/V Gambit_Hậu/Np tiếp_nhận/V Quang_Liêm/Np tạo/V được/R lợi_thế/N từ/E khá/R sớm/A
+Anh/N đưa/V ván/N đấu/V vào/E thế/P Hậu/N chống/V xe/N và/CC mã/V và/CC sau/E đó/P là/V Hậu/N chống/V xe/N
+Tuy_nhiên/C đây/P chính/T là/V ý_đồ/N cầu_hòa/N của/E Lu_Shanglei/Np
+Kỳ_thủ/N đang/R đứng/V cuối/N bảng/N đã/R tạo/V được/R một/M thế/N phòng_thủ/V khiến/V cho/E Quang_Liêm/Np dù/C còn/C Hậu/Np cũng/R không_thể/R làm/V được/R gì/P
+Cấu_trúc/V tốt/A của/E Trắng/Np khá/R rời_rạc/A và/CC không/R đủ/A để/E tấn_công/V
+Đây/P là/V trận/N hòa/V có/V phần/N đáng/V tiếc/V của/E kỳ_thủ/N số_một/N Việt_Nam/Np nhưng/C Lu_Shanglei/Np cũng/R chứng_minh/V được/R bản_lĩnh/N của/E đại/A kiện_tướng/N thuộc/V top/N 10/M Trung_Quốc/Np
+Sau/E tám/M ván/N đấu/V kỳ_thủ/V này/P đạt/V thành_tích/N 4/M hòa/V và/CC 4/M thua/V
+Nhưng/C lạ/A ở/E chỗ/N cả/P bốn/M ván/N thua/V đều/R trước/E những/L đối_thủ/N đồng_hương/N
+Kết_quả/N này/P vẫn/R giúp/V Quang_Liêm/Np giữ/V vị_trí/N thứ_hai/N trên/E bảng/N điểm/N cùng/C có/V năm/N điểm/N như/C Ding_Liren/Np /V 2 3/M /N
+Kỳ_thủ/V người/N TP_HCM/Np vẫn/R còn/V cơ_hội/N vô_địch/A nếu_như/C ở/E ván/N cuối/N anh/N đánh_bại/V Wei_Yi/Np /V 2 8/M /N người/N đang/R đứng/V đầu/N với/E sáu/M điểm/N còn/C Ding_Liren/Np không_thể/R thắng/V Arkadij_Naiditsch/Np /V 2 2/M /N
+Kết_quả/N ván/N 8/M Vassily_Ivanchuk/Np ½/M ½/M Yu_Yangyi_Vladimir_Malakhov/Np 0/M 1/M Ding_Liren_Arkadij_Naiditsch/Np 1/M 0/M Ruslan_Ponomariov_Wang_Hao/Np ½/M ½/M Wei_Yi_Lê_Quang_Liêm/Np ½/M ½/M Lu_Shanglei_Biên/Np bản/N ván/N đấu/V Lê_Quang_Liêm/Np vs/V Lu_Shanglei/Np 1/M
+d4/M d5/N 2/M
+c4/M e6/N 3/M
+Nf3/M Nf6/N 4/M
+Nc3/M dxc4/N 5/M
+e4/M Bb4/N 6/M
+Bg5/M c5/N 7/M
+Bxc4/M cxd4/N 8/M
+Nxd4/M Qa5/N 9/M
+Bd2/M O/Np O/Np 10/M
+Nc2/M Nc6/N 11/M
+Nxb4/M Qxb4/N 12/M
+b3/M Qe7/N 13/M
+O/M O_Rd/Np 8/M 14/M
+Qe1/M Ne5/N 15/M
+Bg5/M Qc5/N 16/M
+Be3/M Qc7/N 17/M
+Nb5/M Qb8/N 18/M
+f3/M a6/N 19/M
+Nd4/M Nxc4/N 20/M
+bxc4/M e5/N 21/M
+Nb3/M Be6/N 22/M
+Na5/M Rd3/N 23/M
+Rb1/M b5/N 24/M
+Nc6/M Qc7/N 25/M
+Nb4/M Ra3/N 26/M
+Qc1/M Qa5/N 27/M
+Bd2/M Qa4/N 28/M
+Nd5/M Bxd5/N 29/M
+Rb4/M Bxc4/N 30/M
+Rxa4/M Rxa4/N 31/M
+Rd1/M Rxa2/N 32/M
+Bc3/M Re8/N 33/M
+Rd2/M Ra4/N 34/M
+Qd1/M Ra3/N 35/M
+Bb2/M Ra2/N 36/M
+Bc3/M Ra3/N 37/M
+Bb2/M Ra2/N 38/M
+Ba1/M Ra3/N 39/M
+Rd8/M Bb3/N 40/M
+Rxe8/M +/N Nxe8/Np 41/M
+Qc1/M b4/N 42/M
+Bb2/M Ra2/N 43/M
+Qc6/M Ba4/N 44/M
+Qxa6/M Rxb2/N 45/M
+Qxa4/M Kf8/N 46/M
+Qa5/M Rd2/N 47/M
+Qxb4/M +/N Rd6/Np 48/M
+f4/M Kg8/N 49/M
+Qb5/M Re6/N 50/M
+f5/M Re7/N 51/M
+Qc5/M Kf8/N 52/M
+g4/M Nf6/N 53/M
+g5/M Nxe4/N 54/M
+Qd5/M Nxg5/N 55/M
+Qd8/M +/N Re8/Np 56/M
+Qxg5/M f6/N 57/M
+Qh5/M h6/N 58/M
+Qg6/M Rd8/N 59/M
+Qh7/M Rd4/N 60/M
+Qh8/M +/N Kf7/N 61/M
+Qc8/M Rf4/N 62/M
+Kg2/M Rd4/N 63/M
+Kf3/M Rf4/M +/N 64/M
+Ke3/M Rd4/N 65/M
+Qe6/M +/N Kf8/Np 66/M
+Qa2/M Rf4/N 67/M
+Qa8/M +/N Kf7/Np 68/M
+Qd5/M +/N Kf8/Np 69/M
+Qd8/M +/N Kf7/N 70/M
+Qd5/M +/N Kf8/Np 71/M
+Qd8/M +/N Kf7/Np 72/M

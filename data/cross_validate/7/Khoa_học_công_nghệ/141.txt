@@ -1,0 +1,32 @@
+​/N Phát_hiện/V mã/N độc/N xoá/N dữ_liệu/N StoneDrill/N
+Nhiễm/V đến/E đâu/P xoá/V đến/V đó/P
+Một_khi/N máy/N bị/V tấn_công/V StoneDrill/V sẽ/R tự/V đưa/V mình/N vào/V quá_trình/N nhớ/V của/E trình_duyệt/N ưa_thích/N của/N người_dùng/N
+Trong/E quá_trình/N này/P nó/P sử_dụng/V hai/M kĩ_thuật/N chống/V làm/V giả/N tinh_vi/N nhằm/V đánh_lừa/V các/L giải_pháp/N bảo_mật/V được/V cài_đặt/V trong/E máy/N của/N nạn_nhân/N
+Lúc/N này/P mã/V độc/A bắt_đầu/V phá_huỷ/V các/L tập_tin/N trên/N máy_tính/N
+Tất_nhiên/N mọi/L thứ/N dữ_liệu/N quý_giá/V trên/N máy_tính/N bị/V lây_nhiễm/V cũng/R sẽ/R bị/V xoá/V sạch/A
+StoneDrill/N giống/A như/C một/M chiếc/Nc máy_ủi/N phá/V nát/A mọi/N thứ/N dữ_liệu/N trên/E đường/N đi/V của/N nó/P
+Bên_cạnh/N module/N xoá/N dữ_liệu/N các/L nhà/N nghiên_cứu/V của/E Kaspersky_Lab/Np cũng/R tìm/V thấy/V backdoor/N StoneDrill/N vốn/N được/V phát_triển/V bởi/E cùng/N các/L nhà/N lập_trình/N và/CC được/V sử_dụng/V cho/E mục_đích/N gián_điệp/N
+Các/L chuyên_gia/N đã/R phát_hiện/V bốn/M bảng/N chỉ_huy/V và/N điều_khiển/V đã/R được/V các/L kẻ/N tấn_công/V sử_dụng/V để/E chạy/V các/L hoạt_động/N gián_điệp/N với/E sự/N giúp_đỡ/V của/E backdoor/N StoneDrill/N chống/V lại/R một_số/N mục_tiêu/N không/N rõ/V
+Cho/E đến/E thời_điểm/N này/P ít_nhất/X hai/M đối_tượng/N của/E mã/N độc/N xoá/N dữ_liệu/N StoneDrill/N đã/R được/V xác_định/V một/M ở/N Trung_Đông/Np và/CC một/M ở/N Châu_Âu/Np
+Các/L nhà/N nghiên_cứu/V vẫn/R chưa/R tìm/V ra/R cách_thức/N phát_tán/N của/E loại/N mã/N độc/A này/P
+Có/V động_cơ/N chính_trị/N
+Năm/N 2012/M một/M loại/Nc mã/N độc/A xoá/N dữ_liệu/N vô_cùng/N khét_tiếng/N khác/A là/V Shamoon/Np còn/R được/V biết/V đến/R là/V Disttrack/Np đã/R từng/R tấn_công/V hơn/A 35000/M máy_tính/N của/E một/M công_ty/N dầu_khí/N ở/V Trung_Đông/Np
+Cuộc/N tấn_công/V này/N đã/R khiến/V 10/M nguồn/N cung_cấp/V dầu_mỏ/N của/E thế_giới/N có/V nguy_cơ/N bị/V nguy_hiểm/N
+Sự_cố/N đó/P được/V xem/V là/C khởi_đầu/V cho/E những/L chuyện/N càng/R trở_nên/V nghiêm_trọng/A hơn/R sau_này/N
+Chẳng_hạn/N StoneDrill/N được/V xem/V là/C sự/Nc trở_lại/V của/E Shamoon/Np khi/N các/L nhà/N nghiên_cứu/V của/E Kaspersky_Lab/Np vô_tình/A phát_hiện/V ra/V nhiều/A điểm/N tương_đồng/A giữa/E hai/M mã/N độc/A này/P
+Thậm_chí/R StoneDrill/N còn/R được/V xem/V là/C Shamoon/Np 20/M bởi/N nó/P rất/R khác_biệt/A và/CC tinh_vi/A hơn/A cả/T Shamoon/Np
+Chúng_tôi/P đã/R bị/V thu_hút/V bởi/E sự/N tương_đồng/A và/CC sự/Nc so_sánh/V giữa/N hoạt_động/N của/E ba/N nhóm/N mã/N độc/A nguy_hiểm/A này/P
+Liệu_Stone/Np Drill/Np có/V phải/A là/V một/M mã/N độc/A xoá/N dữ_liệu/N khác/A được/V triển_khai/V bởi/E nhân_tố/N Shamoon/Np
+Hay_Stone/Np Drill/Np và/CC Shamoon/Np thuộc/V hai/M nhóm/N khác/A nhau/N và/CC hoàn_toàn/A tách_biệt/A nhưng/C lại/R vô_tình/A nhằm/V vào/E các/L tổ_chức/N Saudi/Np cùng/A lúc/N
+Hoặc/C hai/M nhóm/N tách_biệt/A nhưng/C lại/R được/V sắp_xếp/V theo/V cùng/N mục_tiêu/N của/E chúng/N Mohamad_Amin_Hasbini/Np nhà/N nghiên_cứu/V bảo_mật/N cao_cấp/A của/E bộ_phận/N nghiên_cứu/V và/N phân_tích/N toàn_cầu/N của/E Kaspersky/Np đưa/V ra/V các/N nghi_vấn/N
+Cũng/R theo/V Mohamad_Amin_Hasbini/Np Một/M giả_thuyết/N có_thể/A được/V đặt/V ra/R từ/E việc/N trong/E khi/N Shamoon/Np gắn/V các/L phần/N ngôn_ngữ/N có/V nguồn_gốc/N Ả_Rập/Np thì/C StoneDrill/V lại/R gắn/V các/L phần/N ngôn_ngữ/N có/V nguồn_gốc/N Persian/Np
+Điều/N này/P có_thể/A khiến/V các/L nhà/N phân_tích/V địa/N chính_trị/N nhanh_chóng/A chỉ/V ra/V rằng/C cả/P Iran/Np và/CC Yemen/Np đều/R là/V những/L tay_chơi/N trong/E cuộc/N xung_đột/V uỷ_quyền/N giữa/N Iran/Np và/CC Ả/Np rập/V Xêút/Np và/CC Ả/Np rập/V Xêút/Np là/V nơi/N mà/N hầu_hết/N nạn_nhân/N của/E các/L hoạt_động/N này/P được/V tìm/V thấy/V
+Tuy_nhiên/C chúng_tôi/P không/R loại_trừ/V khả_năng/N các/L đồ/N tạo_tác/N này/P là/V giả/A
+Làm_gì/N để/E phòng_chống/V mã/N độc/A xoá/N dữ_liệu/N
+Tiến_hành/N đánh_giá/V an_ninh/A của/E mạng_lưới/N điều_khiển/N nghĩa_là/N kiểm_toán/N an_ninh/N thử_nghiệm/N xâm_nhập/V phân_tích/V lỗ_hổng/N để/E xác_định/V và/CC loại_bỏ/V bất_kì/N lỗ_hổng/N bảo_mật/V nào/N
+Xem_lại/N các/L chính_sách/N bảo_mật/V của/E nhà/N cung_cấp/V và/CC các/L bên/N thứ_ba/N trong/E trường_hợp/N họ/N có/V quyền/N truy_cập/V trực_tiếp/A vào/V mạng/N điều_hành/V
+Tìm_kiếm/V sự/N hiểu_biết/V bên/N ngoài/N sự/N hiểu_biết/V từ/E các/L nhà/N cung_cấp/V danh_tiếng/N giúp/V các/L tổ_chức/N tiên_đoán/V được/R các/L cuộc/N tấn_công/V vào/R cơ_sở_hạ_tầng/N của/E công_ty/N trong/N tương_lai/N
+Đào_tạo/N nhân_viên/N đặc_biệt/A quan_tâm/N nến/N đội_ngũ/N hoạt_động/V và/N kĩ_thuật/N và/CC nhận_thức/N của/E họ/P về/V những/L mối/N đe_doạ/N và/CC cuộc/N tấn_công/V gần/A đây/P
+Cung_cấp/N bảo_vệ/V trong/E phạm_vi/N trong/N và/CC ngoài/N
+Một/M chiến_lược/N an_ninh/N thích_hợp/N phải/V cung_cấp/V đủ/A các/L nguồn_lực/N đáng/V để/V để/V phát_hiện/V các/L cuộc/N tấn_công/V và/N phản_ứng/N để/E ngăn_chặn/V tấn_công/V trước/E khi/N nó/P xâm_nhập/V các/L đối_tượng/N quan_trọng/A
+Đánh_giá/V các/L phương_pháp/N bảo_vệ/V cấp/N cao/A bao_gồm/V việc/N kiểm_tra/V tính/N toàn_diện/A cho/E các/L bộ/N điều_khiển/N và/CC giám_sát/V mạng/N chuyên_dụng/A để/E tăng_cường/V an_ninh/N cho/E công_ty/N và/CC giảm_thiểu/V cơ_hội/N phá_hoại/V thành_công/V ngay/R cả/T khi/N một_số/N điểm/N nút/N bị/V tổn_thương/N cũng/R không_thể/A vá/V hay/V loại_bỏ/V

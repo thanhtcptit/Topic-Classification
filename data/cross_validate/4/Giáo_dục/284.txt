@@ -1,0 +1,6 @@
+Đại_học/N Y_dược/N TPHCM/Np công_bố/V ngưỡng/N nhận/V hồ_sơ/N xét/V tuyển/V 
+Theo/E đó/P điểm/N “/V sàn/N của/E 3/M ngành/N gồm/V Y/N đa_khoa/A Răng_Hàm_Mặt/Np Dược_học/N là/V 23/M điểm/N 
+Các/L ngành/N còn/V lại/R điểm/N nhận/V hồ_sơ/N từ/E 19/M điểm/N trở_lên/A 
+Đây/P là/V tổng/N điểm/N 3/M môn/N theo/V tổ_hợp/N gồm/V Toán/Np Hóa/Np Sinh/Np 
+Điểm/N này/P chưa/R gồm/V điểm/N ưu_tiên/V khu_vực/N và/CC đối_tượng/N 
+Cụ_thể/A điểm_sàn/N và/CC chỉ_tiêu/N từng/R ngành/N như/C sau/N Tên/N ngành/N Mã/Np ngành/N Chỉ_tiêu/N Điểm/N sàn/N xét/V tuyển/V Y/N đa_khoa/A 52720101/M 400/M 23/M Y_học/N dự_phòng/V 52720103/M 120/M 19/M Răng_Hàm_Mặt/Np 52720601/M 100/M 23/M Dược_học/N 52720401/M 380/M 23/M Y_học/N cổ_truyền/A 52720201/M 150/M 19/M Điều_dưỡng/N 52720501/M 150/M 19/M Điều_dưỡng/N Hộ_sinh/V )/A 52720501/M 80/M 19/M Điều_dưỡng/N gây_mê/V hồi_sức/V )/A 52720501/M 60/M 19/M Xét_nghiệm/N Y_học/N 52720332/M 80/M 19/M Phục_hồi/V chức_năng/N 52720503/M 60/M 19/M Kỹ_thuật/N hình_ảnh/N y_học/N 52720330/M 60/M 19/M Kỹ_thuật/N phục/V hình/N răng/N 52720602/M 40/M 19/M Y_tế/N công_cộng/A 52720301/M 80/M 19/M Lê_Phương/Np 

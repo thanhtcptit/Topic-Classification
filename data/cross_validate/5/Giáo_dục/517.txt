@@ -1,0 +1,19 @@
+Cách/V điều_chỉnh/V nguyện_vọng/N xét/V tuyển/V đại_học/N
+Từ/E 15/7/M đến/E hết/V ngày/N 23/7/M là/V thời_gian/N để/E thí_sinh/V thay_đổi/V nguyện_vọng/N xét/V tuyển/V đại_học/N cao_đẳng/N sư_phạm/V
+Năm/N nay/P mỗi/L em/N có/V duy_nhất/A một/M lần/N điều_chỉnh/V  /N và/CC chỉ/R được/V sử_dụng/V một/M trong/E hai/M phương_thức/N trực_tuyến/A hoặc/CC bằng/E phiếu/N
+Điều_chỉnh/N nguyện_vọng/N trực_tuyến/A Phương_thức/N này/P  /A chỉ/R áp_dụng/V cho/E thí_sinh/N không/R tăng/V thêm/R số/N nguyện_vọng/N  /A đăng_ký/V xét/V tuyển/V  /A và/CC không/R điều_chỉnh/V ưu_tiên/V khu_vực/N đối_tượng/N
+Thời_gian/N cho_phép/V thực_hiện/V từ/E 8h/M ngày/N 15/7/M đến/E 17h/M ngày/N 21/7/M
+Trước/E đó/P từ/E ngày/N 9/7/M đến/E 11/7/M thí_sinh/N có_thể/R thay_đổi/V thử/V
+Website/N nhận/V thay_đổi/V điều_chỉnh/N nguyện_vọng/N đăng_ký/V xét/V tuyển/V trực_tuyến/A là/V http/N //X //X thisinh ithptquocgia u /V
+Tên/N đăng_nhập/V là/V số/N CMND/Np của/E thí_sinh/N mật_khẩu/N đăng_nhập/V được/V cấp/V khi/N đăng_ký/V dự/V thi/V
+Trường_hợp/N đã/R thay_đổi/V mật_khẩu/N sau/E khi/N được/V cấp/V thì/C dùng/V mật_khẩu/N đã/R thay_đổi/V
+Nếu/C thí_sinh/N quên/V mật_khẩu/N phải/V đến/V điểm/N tiếp_nhận/V để/E xin/V cấp/V lại/R  /M Thí_sinh/N thực_hiện/V 5/M bước/N tiếp_theo/V để/E đổi/V nguyện_vọng/N /V chi_tiết/N xem/V  /N tại/E đây/P /M
+Điều_chỉnh/N bằng/E phiếu/N nộp/V trực_tiếp/A Nếu/C thí_sinh/N tăng/V số_lượng/N nguyện_vọng/N đăng_ký/V xét/V tuyển/V so/V với/E đăng_ký/V ban_đầu/N hoặc/CC có/V điều_chỉnh/N ưu_tiên/V khu_vực/N ưu_tiên/V đối_tượng/N phải/V thực_hiện/V bằng/E phiếu/N và/CC tại/E điểm/N tiếp_nhận/V
+Với/E hình_thức/N này/P thí_sinh/N tải/N 2/M mẫu/Nu Phiếu/N điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V sau/E đó/P điền/N đầy_đủ/A thông_tin/N tất_cả/P nguyện_vọng/N đăng_ký/V xét/V tuyển/V và/CC thống_nhất/V giữa/E Phiếu/Np số/N 1/M Phiếu/Np số/N 2/M
+Thí_sinh/N đến/V điểm/N tiếp_nhận/V nộp/V phiếu/N số/N 1/M để/E máy_tính/N cập_nhật/V vào/E cơ_sở_dữ_liệu/N của/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N
+Điểm/N tiếp_nhận/V sẽ/R xác_nhận/V phiếu/N số/N 2/M để/E thí_sinh/V lưu/V lại/R /M nội_dung/N phiếu/N số/N 2/M phải/V giống/V phiếu/N số/N 1/M /Nu
+Khi/N đến/V nộp/V phiếu/N điều_chỉnh/V thí_sinh/V phải/V đem/V theo/E CMND/Np và/CC Phiếu/Np đăng_ký/V dự/V thi/V số/N 2/M để/E có/V cơ_sở/N điền/N và/CC kiểm_tra/V Phiếu/N điều_chỉnh/V nguyện_vọng/N
+Thí_sinh/N phải/V ghi/V đúng/A mã/N trường/N mã/N ngành/N nhóm/N ngành/N mã/V tổ_hợp/N xét/V tuyển/V theo/E quy_định/N của/E trường/N đăng_ký/V xét/V tuyển/V theo/E đề_án/N tuyển_sinh/V của/E trường/N
+Nếu/C tăng/V số_lượng/N nguyện_vọng/N thí_sinh/N phải/V nộp/V bổ_sung/V lệ_phí/N cho/E số/N nguyện_vọng/N tăng/V thêm/V theo/V quy_định/N
+Thời_gian/N điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V bằng/E phiếu/N từ/E ngày/N 15/7/M đến/E hết/V ngày/N 23/7/M
+Trước/E 17h/M ngày/N 25/7/M thí_sinh/V kiểm_tra/V kết_quả/N điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V và/CC đề_nghị/V điều_chỉnh/V sai_sót/N giữa/E kết_quả/N điều_chỉnh/V trên/E hệ_thống/N với/E thông_tin/N trên/E Phiếu/Np đề_nghị/V đăng_ký/V điều_chỉnh/V /N nếu/C có/V /M

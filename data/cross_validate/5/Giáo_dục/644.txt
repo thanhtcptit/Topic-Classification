@@ -1,0 +1,20 @@
+Trường/N công_an/N xét/V tuyển/V hồ_sơ/N từ/E 15,5/M điểm/N
+Ngày/N 14/7/M thượng_úy/N Nguyễn_Mạnh_Tuấn/Np Thư_ký/N Hội_đồng/N tuyển_sinh/V Tổng_cục/N Chính_trị/N Công_an/N nhân_dân/N /N Bộ/N Công/N an/M /Nu thông_tin/N về/E ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N của/E các/L trường/N khối/N công_an/N
+Thí_sinh/N chỉ/R được/V xét/V tuyển/V khi/N đáp_ứng/V được/R 3/M yêu_cầu/N đạt/V sơ_tuyển/N đạt/V ngưỡng/N sàn/N 15,5/M điểm/N của/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N trong/E đó/P điểm_số/V các/L môn/N thuộc/V tổ_hợp/N xét/V tuyển/V từ/E 5/M trở_lên/A
+Riêng/T ngành/N Ngôn_ngữ/N Anh/N của/E Học_viện/N An_ninh/N nhân_dân/N điểm/N tiếng/N Anh/Np phải/V đạt/V từ/E 7/M /N chưa/R nhân/V hệ_số/N đối_với/E thang/N điểm/N 10/M /N
+Điểm_sàn/N xét/V tuyển/V của/E các/L đại_học/N khác/A Sinh_viên/N Học_viện/N Cảnh_sát/N nhân_dân/N tập/V điều_lệnh/V đầu/N năm_học/N
+Ảnh/N minh_họa/V Giang_Huy/Np
+Về/E việc/N điều_chỉnh/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V Bô/Np ̣/V Công_an/N cho_phép/V thí_sinh/N có/V nhiều/A lựa_chọn/V
+Lựa_chọn/V 1/M điều_chỉnh/V tổ_hợp/N để/E đăng_ký/V xét/V tuyển/V  /M Thí_sinh/N đạt/V sơ_tuyển/N đã/R nộp/V hồ_sơ/N xét/V tuyển/V về/E trường/N  /N Công_an/N nhân_dân/N /N CAND/Np /M  /N có_thể/R điều_chỉnh/V tổ_hợp/N để/E đăng_ký/V xét/V tuyển/V  /A trong/E một/M trường/N
+Ví_dụ/V lúc/N đầu/N thí_sinh/N đăng_ký/V tổ_hợp/N A1/Np của/E Học_viện/N An_ninh/N nhân_dân/N giờ/N có_thể/A chuyển/V sang/V tổ_hợp/N D01/Np của/E trường/N này/P
+Lựa_chọn/V 2/M điều_chỉnh/N ngành/N học/V trong/E cùng/A một/M trường/N
+Ví_dụ/V thí_sinh/V đã/R đăng_ký/V xét/V tuyển/V tổ_hợp/N A1/M ngành/N An_toàn/A thông_tin/N của/E Học_viện/N An_ninh/N nhân_dân/N có_thể/R chuyển/V sang/V đăng_ký/V xét/V tuyển/V bằng/E tổ_hợp/N A1/Np hoặc/CC D1/Np C3/Np ngành/N Nghiệp_vụ/N An_ninh/N của/E Học_viện/N
+Lựa_chọn/V 3/M điều_chỉnh/V giữa/E các/L trường/N trong/E khối/N  /V theo/E phân_vùng/N tuyển_sinh/V phía/N Bắc/Np và/CC phía/N Nam/Np  /M Ví_dụ/N lúc/N đầu/N thí_sinh/N đăng_ký/V xét/V tuyển/V tổ_hợp/N A1/M ngành/N Nghiệp_vụ/N An_ninh/N của/E Học_viện/N An_ninh/N nhân_dân/N
+Sau/E khi/N có/V điểm/N trong/E thời_gian/N điều_chỉnh/V thí_sinh/V có_thể/R chuyển/V nguyện_vọng/N đăng_ký/V xét/V tuyển/V sang/E tổ_hợp/N khác/A ngành/N khác/A tại/E Học_viện/N Cảnh_sát/N nhân/V nhân/N Đại_học/N Kỹ_thuật/N Hậu_cần/N Công_an/N nhân_dân/N Học_viện/N Chính_trị/N Công_an/N nhân_dân/N hoặc/CC Đại_học/N Phòng/N cháy/V chữa_cháy/V
+Lựa_chọn/V 4/M điều_chỉnh/V thứ_tự/N ưu_tiên/A của/E các/L nguyện_vọng/N
+Thí_sinh/N đã/R đạt/V sơ_tuyển/V vào/E các/L trường/N CAND/Np mong_muốn/V vào/V đào_tạo/V theo/E chỉ_tiêu/N của/E Bộ/N Công/N an/M nhưng/C chưa/R đăng_ký/V xét/V tuyển/V vào/E trường/N trên/E Cổng/N thông_tin/N hoặc/CC thứ_tự/N ưu_tiên/A của/E nguyện_vọng/N là/V từ/E 2/M trở/V đi/R nếu/C muốn/V xét/V tuyển/V vào/E trường/N CAND/Np thì_phải/V điều_chỉnh/V nguyện_vọng/N đó/P là/V thứ/N nhất/M  /M Theo/E
+quy_định/N thí_sinh/N có/V nguyện_vọng/N vào/E các/L trường/N quân_đội/N công_an/N sẽ/R phải/V đăng_ký/V ở/E nguyện_vọng/N 1/M  /M Lựa_chọn/N 5/M điều_chỉnh/V ra/V trường/N ngoài/E  /M Thí_sinh/N  /A đã/R nộp/V hồ_sơ/N xét/V tuyển/V về/E trường/N CAND/Np nhưng/C nay/P không/R muốn/V xét/V tuyển/V vào/E trường/N trong/E khối/N nữa/R có_thể/R điều_chỉnh/V nguyện_vọng/N ra/V các/L trường/N ngoài/N ngành/N
+Thí_sinh/N chỉ/R cần/V điều_chỉnh/V trường/N ngoài/E ngành/N thành/V nguyện_vọng/N 1/M
+Bộ/N Công/Np an/M có/V mẫu/N Phiếu/N đỉnh/N chỉnh/V nguyện_vọng/N xét/V tuyển/V riêng/A /N xem/V chi_tiết/N /N
+Thí_sinh/N muốn/V thay_đổi/V sẽ/R khai/V và/CC nộp/V phiếu/N tại/E đơn_vị/N sơ_tuyển/V từ/E ngày/N 7/7/M đến/E 18/7/M  /EOS
+Đô/Np ́/V i/N vơ/V ́/M i/N chiê/V ́/M n/N sĩ/N nghi/V ̃/M a/N vu/V ̣/A nê/V ́/N u/A chi/V ̉/N thi/V mô/P ̣/M t/Nu tô/N ̉/N hơ/V ̣/M p/N môn/N thi/V ̀/N chi/V ̉/M đươ/N ̣/V c/N điê/V ̀/N u/A chi/V ̉/N nh/V nga/N ̀/A nh/V xe/N ́/V t/N tuyê/V ̉/M n/N hoă/V ̣/M c/N trươ/V ̀/N ng/V xe/N ́/V t/N tuyê/V ̉/M n/N

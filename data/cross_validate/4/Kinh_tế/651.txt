@@ -1,0 +1,11 @@
+Chi/V 1/M đồng/Nu mua/V cổ_phiếu/N nhận/V cổ_tức/N 4/M đồng/Nu
+Trung_tâm/N Lưu/Np ký/V chứng_khoán/N Việt_Nam/Np /V VSD/Np /M vừa/R thông_báo/V ngày/N 5/5/M tới/E đây/P sẽ/R chốt/V danh_sách/N cổ_đông/N Công_ty_cổ_phần/N Meinfa/Np /V Mã/Np CK/Np MEF/Np /V để/E doanh_nghiệp/N thực_hiện/V trả/V cổ_tức/N bằng/E tiền/N năm/N 2015/M
+Tỷ_lệ/N chi_trả/V là/V 40%/M tức/C mỗi/L cổ_phiếu/N của/E cổ_đông/N hiện_hữu/N được/V nhận/V 4 0/M đồng/Nu
+Thời_gian/N thực_hiện/V 16/5/M  /EOS
+Meinfa/Np là/V doanh_nghiệp/N chuyên/A sản_xuất/V và/CC mua_bán/V các/L sản_phẩm/N cơ_khí/N và/CC máy_móc/N thiết_bị/N phục_vụ/V ngành/N y_tế/N  /V các/L sản_phẩm/N từ/E kim_loại/N máy/N thông_dụng/A máy/N chuyên_dụng/A dụng_cụ/N chăn_nuôi/V thú_y/N dụng_cụ/N cầm/V tay/N các/L loại/N
+Hiện/N MEF/Np có/V 4/M công_ty/N thành_viên/N  /EOS
+Doanh_nghiệp/N chính_thức/A đăng_ký/V giao_dịch/V trên/E UPCoM/Np từ/E cuối/N năm/N 2011/M với/E giá/N ngày/N đầu_tiên/A 34 0/M đồng/Nu mỗi/M cổ_phiếu/N
+Đến/E nay/P giá/N cổ_phiếu/N MEF/Np đã/R xuống/V dưới/E mệnh_giá/N rất/R sâu/A còn/R 900/M đồng/Nu mỗi/L cổ_phiếu/N và/CC hầu_như/R không/R có/V giao_dịch/N  /A Tuy/C
+nhiên/A kể/V từ/E 2011/M Meinfa/Np luôn/R chi_trả/V cổ_tức/N ở/E mức/N 30-40/M %/Nu  /EOS
+Năm/N 2015/M công_ty/N đạt/V doanh_thu/N 268/M tỷ/N đồng/N lãi/N sau/E thuế/N hơn/A 20/M tỷ/N đồng/N
+Năm/N 2016/M Meinfa/Np đặt/V mục_tiêu/N 280/M tỷ/N đồng/N doanh_thu/N và/CC 21/M tỷ/Nu đồng/N lãi/N sau/E thuế/N cổ_tức/N dự_kiến/V 30%/M

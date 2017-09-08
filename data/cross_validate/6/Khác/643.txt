@@ -1,0 +1,10 @@
+Đào/V móng/N nhà/N 3/M tầng/N có/V làm/V đổ/V nhà/N cấp/V bốn/M bên_cạnh/N
+Tôi/P mới/R mua/V mảnh/Nc đất/N trong/E ngõ/N ở/E quận/N Hoàng_Mai/Np /V Hà_Nội/Np /V
+Tôi/P vừa/R hoàn_tất/V việc/N phá_bỏ/V nhà/N cũ/A
+Khu_vực/N này/P trước_đây/N là/V ao/N cá/N được/V lấp/V để/E xây/V nhà/N  /EOS
+Vì/E nền/N đất/N yếu/A nên/C tôi/P sẽ/R phải/V đào_sâu/V đóng/V cọc/N bê_tông/V
+Tôi/P e_ngại/V việc/N thi_công/V này/P có_thể/R làm/V nứt/V tường/N sụp/V nhà/N hàng_xóm/N  /EOS
+Theo/E các/L anh_chị/N nguy_cơ/N này/P có/V cao/A không/R
+Tôi/P có/V cách/N nào/P để/E xử_lý/V tình_huống/N này/P
+Tôi/P xin/V cảm_ơn/V  /EOS
+Tấn_Chia/Np sẻ/V kinh_nghiệm/N khó_khăn/N khi/N làm/V nhà/N của/E bạn/N  /M tại/E đây/P

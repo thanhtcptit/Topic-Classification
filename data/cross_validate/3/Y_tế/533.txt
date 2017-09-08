@@ -1,0 +1,13 @@
+Tưởng/V trúng_thực/V hóa/N bị/V nhồi/V máu/N thận/N hiếm/A gặp/V
+Sáng/N 15/6/M ông/Nc Luận/Np đột_nhiên/V đau/V âm_ỉ/A bên/N hông/N bên/N trái/A tự/P mua/V thuốc/N uống/V nhưng/C không/R đỡ/V
+Cơn/Nc đau/V ngày_càng/X dữ_dội/A nên/C ông/N đến/V cấp_cứu/V tại/E Bệnh_viện/N Trưng_Vương/Np
+Kết_quả/N chụp/V CT/Np phát_hiện/V nhánh/N mạch_máu/N lớn/A nuôi/V thận/N đã/R tắc/V hoàn_toàn/A
+Đây/P là/V nhánh/N cung_cấp/V phần_lớn/N lượng/N máu/N nuôi/V quả/N thận/N trái/A
+Bác_sĩ/N cho_biết/V đây/P là/V  /M bệnh/N nhồi/V máu/N thận/N tức/C tình_trạng/N thận/N thiếu/A máu/N nuôi/V do/E mạch_máu/N bị/V tắc_nghẽn/V
+Nếu/C để/E kéo_dài/V quả/N thận/N có/V nguy_cơ/N bị/V hoại_tử/V
+Thời_gian/N nhồi/V máu/N của/E bệnh_nhân/N đã/R qua/V 36/M giờ/Nu thận/N đã/R hoại_tử/V 20%/M tiên_lượng/N điều_trị/V khó_khăn/N
+Các/L bác_sĩ/N đã/R nhanh_chóng/A can_thiệp/V nội/N mạch/N nhằm/V phá/V vỡ/V khối/N máu/N đông/A gây/V tắc/V mạch/N  /EOS
+Sau/E thủ_thuật/N bệnh_nhân/N không/R còn/V đau/V bụng/N  /M quả/Nc thận/N trái/A dần/R phục_hồi/V
+Phần/N hoại_tử/V theo/E thời_gian/N sẽ/R có/V cơ_chế/N tự_nhiên/A đào_thải/A mô/P hoại_tử/V ra/R ngoài/E
+Tiến_sĩ/N Lê_Nguyễn_Quyền/Np Phó_giám_đốc/N Bệnh_viện/N Trưng_Vương/Np  /V cho_biết/V tình_trạng/N nhồi/V máu/N thận/N rất/R hiếm/A gặp/V triệu_chứng/N thường/R mơ_hồ/A dễ/A nhầm_lẫn/V với/E các/L cơn/N đau/V bụng/N thông_thường/A khiến/V người_bệnh/N chủ_quan/A
+Bác_sĩ/N khuyến_cáo/N  /M khi/N đau/V vùng/N hông/N nhiều/A giờ/N liền/R mà/C không/R khỏi/V nên/C đi/V khám/V chụp/V CT/Np Scan/Np để/E được/V chẩn_đoán/V và/CC điều_trị/V kịp_thời/A đặc_biệt/A là/C những/L người/N có/V tiền_sử/N tăng/V huyết_áp/N

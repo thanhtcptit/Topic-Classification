@@ -1,0 +1,11 @@
+Mở_đường/N bay/V thẳng/A Cần_Thơ/Np Bangkok/Np
+Chiều/N 26/M tại/N TP/Np
+Cần_Thơ/N Công_ty/N Cổ_phần/N Dịch_vụ/N vận_chuyển/V Thế_giới/N WorldTrans/N đã/R công_bố/V mở/V đường_bay/N Cần_Thơ/Np Bangkok/Np của/N Thái_Lan/Np bằng/E hình_thức/N thuê/V chuyến/N sau/A hơn/A 1/M năm/N gián_đoạn/N
+Theo/E đó/P đường_bay/N Cần_Thơ/Np Bangkok/Np và/CC ngược_lại/N bắt_đầu/V đi/V vào/V hoạt_động/V chính_thức/A vào/V 276/M với/E 10/M chuyến/N bay/V thuê/V chuyến/N bằng/E máy_bay/N Airbus/Np 320/M với/N 179/M chỗ/N ngồi/V thời_gian/N bay/V 90/M phút/N
+Dự_kiến/N chuyến/N bay/V xuất_phát/V từ/E Cần_Thơ/Np đi/V Bangkok/Np vào/V lúc/N 9/M giờ/Nu sáng/N và/CC đến/N Bangkok/Np lúc/N 10/M giờ/N 35/M phút/N
+Chặng/N bay/V từ/E Bangkok/Np về/V Cần_Thơ/Np khởi_hành/V lúc/N 7/M giờ/Nu sáng/N và/CC đến/N Cần_Thơ/Np lúc/N 8/M giờ/Nu 35/M phút/Nu sáng/N
+Dự_kiến/N giá/N vé/N khứ_hồi/V cho/V chặng/N bay/V Cần_Thơ/Np Bangkok/Np và/CC Bankok/Np Cần_Thơ/Np khách/N đoàn/N 45/M triệu/N đồngvé/N và/CC khách/N lẻ/N là/V 48/M triệu/N đồngvé/N
+Ông/N Trần_Tường_Huy/Np Tổng/N giám_đốc/N WorldTrans/N đơn_vị/N khai_thác/V đường_bay/N Cần_Thơ/Np Bangkok/Np cho/V biết/V đường_bay/N này/P chính_thức/A hoạt_động/V sẽ/R mở/V ra/R cơ_hội/N cho/V du_khách/N Cần_Thơ/Np và/CC các/L tỉnh_thành/N Đồng_bằng/N sông/N Cửu_Long/Np đi/V du_lịch/V đến/V Thái_Lan/Np thuận_tiện/V hơn/R
+Ở/E chiều/N ngược_lại/N theo/V ông/N Huy/Np việc/N khai_trương/V đường_bay/N mới/A này/P cũng/R mở/V ra/R cơ_hội/N quảng_bá/V du_lịch/V các/L tỉnh/N khu_vực/N Đồng_bằng/N sông/N Cửu_Long/Np nói_chung/N và/CC TP/Np
+Cần_Thơ/Np nói_riêng/N với/E du_khách/N Thái_Lan/Np một/M trong/E những/L thị_trường/N tiềm_năng/N trong/E khu_vực/N Đông_Nam/Np Á/Np
+Số_liệu/N thống_kê/V cho/V thấy/V số/N du_khách/N Việt_Nam/Np đến/V Thái_Lan/Np lên/V đến/R 900/M ngàn/N lượt/N vào/E năm/N 2016/M và/N dự_báo/N sẽ/R vượt/V 1/M triệu/N lượt/N người/N trong/E năm/N 2017/M

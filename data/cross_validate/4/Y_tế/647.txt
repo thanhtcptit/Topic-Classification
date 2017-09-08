@@ -1,0 +1,6 @@
+Đại_dịch/N Ebola/Np tái/A bùng_phát/V
+Theo/E CNN/Np ca/N tử_vong/N đầu_tiên/A là/V một/M nam_giới/N 45/M tuổi/N
+Tài_xế/N taxi/N chở/V bệnh_nhân/N cùng/A người/N đã/R chăm_sóc/V ông_ta/N đều/R mắc/V virus/N rồi/R qua_đời/V
+Hiện/N có/V tổng_cộng/N  /V 19/M trường_hợp/N nghi_ngờ/V và/CC chắc_chắn/A nhiễm/V Ebola/Np
+Trả_lời/V phỏng_vấn/V Reuters/Np phát_ngôn_viên/N Tổ_chức/N Y_tế/N Thế_giới/N /V WHO/Np /V cho_biết/V tổ_chức/N này/P đang/R làm_việc/V với/E các/L chuyên_gia/N để/E tiến_hành/V một/M cuộc/N điều_tra/V dịch_tễ/N nhằm/V hiểu/V rõ/A hơn/R về/E mức_độ/N lây_lan/V đồng_thời/R khoanh_vùng/V những/L người/N dễ/A mắc/V virus/N
+Bên_cạnh/N đó/P  /V 300 0/M liều/N văcxin/N phòng/N Ebola/Np do/E tập_đoàn/N Merck/Np phát_triển/V đã/R sẵn_sàng/V chờ/V cấp/V phép/N sử_dụng/V  /M Thử_nghiệm/V lâm_sàng/N tại/E Guinea/Np cho/V thấy/V loại/Nc văcxin/N này/P đạt/V hiệu_quả/N bảo_vệ/V 100%/M

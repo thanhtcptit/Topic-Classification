@@ -1,0 +1,20 @@
+Thanh_niên/N đột_nhiên/V viêm/N cơ/N tim/N cấp/V sau/E đợt/N cảm/V
+Bệnh_nhân/N vào/V cấp_cứu/V tại/E Bệnh_viện/N Đa_khoa/N Sài_Gòn/Np
+Khoảng/N một/M tuần/N trước/A anh/N bị/V  /V viêm/N đường/N hô_hấp/N trên/A đau/V họng/N  /N sốt/V nhẹ/A ho/V ít/A không/R đi/V khám/V bác_sĩ/N
+Xét_nghiệm/V cơ_bản/A cho/E thấy/V bạch_cầu/N tăng/V cao/A bác_sĩ/N cho/V nhập_viện/V với/E chẩn_đoán/V ban_đầu/N là/V viêm/N họng/N và/CC tiếp_tục/V theo_dõi/V
+Bác_sĩ/N Nguyễn_Khắc_Vui/Np Phó_Giám/Np đốc/V Bệnh_viện/N Đa_khoa/Np Sài_Gòn/Np cho_biết/V với/E 3/M yếu_tố/N là/V bệnh_nhân/N từng/R khởi_phát/V viêm/N hô_hấp/N tim/N đập/V mạnh/A và/CC bất_thường/A về/E men/N tim/N bác_sĩ/N nghi_ngờ/V đây/P là/V tình_trạng/N viêm/V cơ/N tim/N do/E virus/N
+Sau/E khi/N thực_hiện/V thêm/R nhiều/A xét_nghiệm/V chuyên_biệt/A bác_sĩ/N xác_định/V kết_quả/N đúng/A như/C dự_đoán/N  /EOS
+Trong/E 24/M giờ/N đầu_tiên/A nhịp/N tim/N bệnh_nhân/N giảm/V nhanh/A liên_tục/A
+Nhịp/N tim/N lúc/N đầu/N là/V 86/M lần/N một/M phút/N có/V lúc/N rơi/V xuống/R thấp/A nhất/A với/E 49/M lần/N một/M phút/N
+Bác_sĩ/N phải/V tích_cực/A theo_dõi/V về/E sinh/V hiệu/N chống/V nhiễm_trùng/N điều_trị/V hỗ_trợ/V
+Sau/E khoảng/A một/M tuần/N chỉ_số/N men/V tim/N trở_về/V bình_thường/A nhịp/N tim/N vẫn/R còn/R chậm/A nên/C bệnh_nhân/N tiếp_tục/V được/V dùng/V phác_đồ/N chống/V virus/N
+Theo/E bác_sĩ/N Vui/Np viêm/N cơ/N tim/N cấp/V do/E virus/N nếu_không/C để_ý/V thường/R dễ/A bỏ/V sót/V trong/E chẩn_đoán/V
+Đây/P  /V là/V một/M bệnh/N nguy_hiểm/A  /M diễn_tiến/N trong/E thời_gian/N rất/R nhanh/A  /N có/V nguy_cơ/N gây/V tử_vong/V và/CC đột_tử/V cao/A
+May_mắn/A trường_hợp/N này/P phát_hiện/V kịp_thời/A bệnh_nhân/N chưa/R bị/V sốc/N tim/N
+Bệnh/N khá/R hiếm/A gặp/V đây/P là/V lần/N đầu_tiên/A Bệnh_viện/N Đa_khoa/Np Sài_Gòn/Np tiếp_nhận/V một/M bệnh_nhân/N
+Thông_thường/A virus/N khi/N vào/V cơ_thể/N bước_đầu/N thường/R khởi_phát/V viêm/N họng/N sốt/V sau/E khoảng/N 5-7/M ngày/N sẽ/R xâm_nhập/V vào/E não/N hoặc/CC các/L cơ_quan/N khác/A
+Khi/N tấn_công/V vào/E tim/N  /M virus/N sẽ/R làm/V tổn_thương/V tế_bào/N cơ/N tim/N làm/V giảm/V sức/N co_bóp/V cơ/N tim/N rối_loạn/V nhịp/N tim/N dẫn/V đến/E trụy/N mạch/N
+Trong/E một_số/L trường_hợp/N dù/C được/R phát_hiện/V sớm/A nhưng/C người_bệnh/N vẫn/R có_thể/A tử_vong/V trong/E vòng/N 24-48/M giờ/Nu  /EOS
+Bác_sĩ/N khuyến_cáo/N bệnh_nhân/N không/R chủ_quan/A với/E các/L bệnh/N cảm/V cúm/N thông_thường/A cần/V theo_dõi/V điều_trị/V những/L bệnh/N nhiễm_trùng/A bội_nhiễm/A
+Phòng_tránh/V bằng/E cách/N giữ/V vệ_sinh/N hạn_chế/V tiếp_xúc/V với/E người/N đang/R mắc/V bệnh/N virus/N
+Khi/N  /V có/V dấu_hiệu/N bất_thường/A như/C sốt/V đau/V tư/N ́/N c/N ngư/N ̣/M c/N hoă/V ̣/M c/N khó/A thở/V thì/C nên/C đi/V khám/V bác_sĩ/N để/E được/V chẩn_đoán/V kịp_thời/A không/R nên/V tự_ý/A uống/V thuốc/N điều_trị/V

@@ -1,0 +1,38 @@
+Học_viện/N Công_nghệ/N Bưu_chính/N Viễn_thông/Np Mức/N điểm/N nhận/V hồ_sơ/N xét/V tuyển/V  /N từ/E 16-18/M 
+Cụ_thể/A như/C sau/N Cơ_sở/N đào_tạo/V phía/N Bắc/Np Từ/E 18,00/M điểm/N trở_lên/A Cho/V tổ_hợp/N môn/N xét/V tuyển/V A00/Np A01/Np D01/Np Cơ_sở/N đào_tạo/V phía/N Nam/Np Từ/E 16,00/M điểm/N trở_lên/A Cho/V tổ_hợp/N môn/N xét/V tuyển/V A00/Np A01/Np D01/Np Mức/N điểm/N nhận/V hồ_sơ/N đăng_ký/V xét/V tuyển/V trên/E áp_dụng/V cho/E đối_tượng/N là/V học_sinh/N phổ_thông/N tại/E khu/N 3/M 
+Chỉ_tiêu/N xét/V tuyển/V vào/E đại_học/N hệ/N chính_quy/V Đợt/N 1/M năm/N 2017/M của/E Học_viện/N như/C sau/N I/M 
+CHỈ_TIÊU_XÉT_TUYỂN/X 1/M Cơ_sở/N đào_tạo/V Phía_Bắc/Np mã/V trường/N BVH/Np Địa_chỉ/N Km10/M đường/N Nguyễn_Trãi/Np Quận_Hà_Đông/Np Tp/Np 
+Hà_Nội/Np TT/Np Ngành/N đào_tạo/V Mã/Np ngành/N Tổ_hợp/N xét/V tuyển/V Chỉ_tiêu/N (/N 1/M )/Nu 2/M )/Nu (/N 3/M )/Nu (/N 4/M )/Nu (/N 5/M )/Nu Trình_độ/N đại_học/N 2.320/M 1/M 
+Kỹ_thuật/N điện_tử/N truyền_thông/N 52520207/M Toán/Np Lý/Np Hóa/Np Khối/N A/N cũ/A )/A Toán/Np Lý/Np Anh/N Khối/N A1/Np cũ/A 
+400/M 2/N 
+Công_nghệ/N kỹ_thuật/N điện/N điện_tử/N 52510301/M 250/M 3/M 
+Công_nghệ_thông_tin/N 52480201/M 620/M 4/M 
+An_toàn/A thông_tin/N 52480299/M 200/M 5/M 
+Công_nghệ/N đa_phương_tiện/N 52480203/M Toán/Np Lý/Np Hóa/Np Khối/N A/N cũ/A )/A Toán/Np Lý/Np Anh/N Khối/N A1/Np cũ/A Toán/Np Văn/Np Anh/N Khối/N D1/Np cũ/A 
+220/M 6/M 
+Quản_trị/V kinh_doanh/V 52340101/M 180/M 7/M 
+Marketing/N 52340115/M 160/M 8/M 
+Kế_toán/N 52340301/M 190/M 9/M 
+Truyền_thông/N đa_phương_tiện/N 52320104/M 100/M 2/M 
+Cơ_sở/N đào_tạo/V Phía_Nam/Np mã/V trường/N BVS/Np Địa_chỉ/N Số/N 11/M Nguyễn_Đình_Chiểu/Np Quận/N 1/M Thành_phố/N Hồ_Chí_Minh/Np TT/Np Ngành/N đào_tạo/V Mã/Np ngành/N Tổ_hợp/N xét/V tuyển/V Chỉ_tiêu/N (/N 1/M )/Nu 2/M )/Nu (/N 3/M )/Nu (/N 4/M )/Nu (/N 5/M )/Nu Trình_độ/N đại_học/N 730/M 1/M 
+Kỹ_thuật/N điện_tử/N truyền_thông/N 52520207/M Toán/Np Lý/Np Hóa/Np Khối/N A/N cũ/A )/A Toán/Np Lý/Np Anh/N Khối/N A1/Np cũ/A 
+120/M 2/N 
+Công_nghệ/N kỹ_thuật/N điện/N điện_tử/N 52510301/M 120/M 3/M 
+Công_nghệ_thông_tin/N 52480201/M 170/M 4/M 
+An_toàn/A thông_tin/N 52480299/M 70/M 5/M 
+Công_nghệ/N đa_phương_tiện/N 52480203/M Toán/Np Lý/Np Hóa/Np Khối/N A/N cũ/A )/A Toán/Np Lý/Np Anh/N Khối/N A1/Np cũ/A Toán/Np Văn/Np Anh/N Khối/N D1/Np cũ/A 
+70/M 6/M 
+Quản_trị/V kinh_doanh/V 52340101/M 60/M 7/M 
+Marketing/N 52340115/M 60/M 8/M 
+Kế_toán/N 52340301/M 60/M Năm/N 2017/M Học_viện/N tiếp_tục/V áp_dụng/V chính_sách/N học_bổng/N đặc_biệt/A miễn_giảm/A từ/E 50%/M đến/E 100%/M học_phí/N trong/E năm_học/N thứ/N nhất/M cho/E các/L thí_sinh/N có/V kết_quả/N thi/V cao/A 
+Cụ_thể/A Miễn/Np 100%/M học_phí/N trong/E năm_học/N thứ/N nhất/M cho/E các/L thí_sinh/N đạt/V kết_quả/N thi/V từ/E 27,0/M điểm/N trở_lên/A điểm/N theo/V 3/M môn/N thi/V //X bài/N thi/V xét/V tuyển/V và/CC điểm/N ưu_tiên/V trong/E kỳ/N thi/V tốt_nghiệp/V THPT/Np quốc_gia/N năm/N 2017/M Miễn/Np 50%/M học_phí/N trong/E năm_học/N thứ/N nhất/M cho/E cácthí/N sinh/V đạt/V kết_quả/N thi/V từ/E 25,0/M điểm/N đến/V 26,75/M điểm/N điểm/N theo/V 3/M môn/N thi/V //X bài/N thi/V xét/V tuyển/V và/CC điểm/N ưu_tiên/V trong/E kỳ/N thi/V tốt_nghiệp/V THPT/Np quốc_gia/N năm/N 2017/M 
+Phương_thức/N tuyển_sinh/V Học_viện/N Công_nghệ/N Bưu_chính/N Viễn_thông/Np chỉ/R sử_dụng/V duy_nhất/A kết_quả/N kỳ/N thi/V tốt_nghiệp/V THPT/Np quốc_gia/N năm/N 2017/M để/E thực_hiện/V xét/V tuyển/V thí_sinh/V vào/E đại_học/N Xét/V tuyển/V theo/E ngành/N học/V và/CC theo/V tổ_hợp/N bài/N thi/V //X môn/N thi/V xét/V tuyển/V tương_ứng/V Không/R giới_hạn/V số/N ngành/N khi/N thí_sinh/N đăng_ký/V xét/V tuyển/V nhưng/C thí_sinh/N phải/V sắp_xếp/V nguyện_vọng/N theo/E thứ_tự/N ưu_tiên/V từ/E cao/A xuống/R thấp/A nguyện_vọng/N 1/M là/V nguyện_vọng/N cao/A nhất/R 
+2/M 
+Ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/V Học_viện/N sẽ/R công_bố/V chi_tiết/A ngay/T sau/E khi/N Bộ/N Giáo/N dục/N và/CC Đào_tạo/N thông_báo/V ngưỡng/N đảm_bảo/V chất_lượng/N đầu_vào/N 
+3/M 
+Nguyên_tắc/N xét/V tuyển/V ​/M Xét/V trúng_tuyển/V từ/E thí_sinh/N có/V kết_quả/N cao/A xuống/V và/CC đảm_bảo/V chất_lượng/N tuyển_sinh/V Xét/V tuyển/V theo/E ngành/N và/CC theo/V tổ_hợp/N môn/N thi/V //X bài/N thi/V xét/V tuyển/V tương_ứng/V Điểm/N trúng_tuyển/V của/E các/L tổ_hợp/N môn/N thi/V //X bài/N thi/V xét/V tuyển/V trong/E cùng/A một/M ngành/N là/V bằng/E nhau/N Xét/V tuyển/V các/L nguyện_vọng/N bình_đẳng/A theo/V kết_quả/N thi/V điểm/N trúng_tuyển/V giữa/E các/L nguyện_vọng/N là/V bằng/E nhau/N )/A nếu/C thí_sinh/N không/R trúng_tuyển/V nguyện_vọng/N ở/E thứ_tự/N ưu_tiên/A thứ/N nhất/M (/Nu nguyện_vọng/N 1/M )/Nu thì/C sẽ/R được/V tự_động/A xét/V tuyển/V ở/E nguyện_vọng/N ưu_tiên/V thứ_hai/N nguyện_vọng/N 2/M )/Nu và/CC kế_tiếp/V (/N giống/A như/C năm/N 2015/M và/CC 2016/M )/Nc Thí_sinh/Np chỉ/R trúng_tuyển/V vào/E 1/M nguyện_vọng/N ưu_tiên/V cao/A nhất/R trong/E danh_sách/N các/L nguyện_vọng/N đã/R đăng_ký/V khi/N đã/R trúng_tuyển/V ở/E nguyện_vọng/N nào/P thì/C không/R được/V xét/V tuyển/V tiếp/V ở/E nguyện_vọng/N sau/A Điểm/N trúng_tuyển/V được/R tính/V theo/E thang/N điểm/N 10/M trên/E tổng/N điểm/N tối_đa/A của/E 3/M bài/N thi/V //X môn/N thi/V trong/E tổ_hợp/N xét/V tuyển/V là/C 30/M Học_viện/N không/R sử_dụng/V kết_quả/N miễn/V thi/V bài/N thi/V môn/N ngoại_ngữ/N không/R sử_dụng/V tiêu_chí/N phụ/V để/E xét/V tuyển/V Các/L điều_kiện/N và/CC nguyên_tắc/N khác/A thực_hiện/V theo/E Quy_chế/N tuyển_sinh/V đại_học/N hệ/N chính_quy/V hiện_hành/N của/E Bộ/N Giáo/N dục/N và/CC Đào_tạo/N 
+Các/L thí_sinh/N đạt/V điểm/N trúng_tuyển/V mà/C Học_viện/N đã/R công_bố/V phải/V nộp/V Giấy/N chứng_nhận/V kết_quả/N thi/V bản_gốc/N có/V đóng_dấu/N đỏ/A )/A về/E Học_viện/N trong/E thời_gian/N quy_định/N để/E xác_nhận/V việc/N nhập_học/V của/E mình/P 
+Chỉ/R có/V các/L thí_sinh/N trúng_tuyển/V và/CC đã/R nộp/V Giấy/N chứng_nhận/V kết_quả/N thi/V mới/R được/V Học_viện/N gửi/V Giấy_báo/N nhập_học/V 
+Các/L thí_sinh/N không/R nộp/V Giấy/N chứng_nhận/V kết_quả/N thi/V coi/V như_không/X có/V nguyện_vọng/N học/V tại/E Học_viện/N và/CC sẽ/R không/R được/V gọi/V nhập_học/V 
+Thời_gian/N nhận/V Giấy/N chứng_nhận/N kết_quả/N thi/V Từ/E thời_điểm/N công_bố/V điểm/N trúng_tuyển/V đến/E 17h00/M ngày/N 7/8/2017/M (/N tính/V theo/E dấu/N bưu_điện/N trên/E bì_thư/N 
+Hồng_Hạnh/Np 

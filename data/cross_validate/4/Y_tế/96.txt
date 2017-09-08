@@ -1,0 +1,8 @@
+​/N Xuất_hiện/V chuỗi/N phản_ứng/N liên_quan/V đến/E nước/N muối/N sinh/V lí/N
+Trung_tâm/N quốc_gia/N theo_dõi/V phản_ứng/N có/V hại/N của/E thuốc/N vừa/R có/V báo_cáo/N cho_hay/N đã/R ghi_nhận/V chuỗi/N phản_ứng/N liên_quan/V đến/E sản_phẩm/N nước/N muối/N sinh_lí/N NaCl/N 09/M của/N Công_ty/N Fresenius_Kabi_Bidiphar/Np
+Theo/E báo_cáo/N trên/N liên_quan/V đến/E sản_phẩm/N thuộc/V lô/N 86LCN067/Np có/V 4/M bệnh_nhân/N xuất_hiện/V các/L phản_ứng/N như/C ra/V nhiều/A mồ_hôi/N mạch/N nhanh/A huyết_áp/N tụt/V một/M người/N hai/M bệnh_nhân/N sốt/N lạnh/A run/V và/CC một/M bị/N phù/V mặt/N lở_loét/N vùng/N môi/N trên/N
+Trước/N đó/P từ/E tháng/N 3/M 5/M Trung_tâm/N này/P cũng/R nhận/V được/R nhiều/A báo_cáo/N ghi_nhận/N phản_ứng/N của/E nhiều/A loại/N thuốc/N
+Trong/E đó/P có/V thuốc/N Bio/Np taksym/V lô/N 8041016w/N với/E bốn/M bệnh_nhân/N sốc/N phản_vệ/V một/M bị/N mẩn/V ngứa/N nổi/V mề_đay/N
+thuốc/N Fercayl/Np lô/N 104254/M liên_quan/N ba/M bệnh_nhân/N mệt/N đau/V mắt/N đau/V lưng/N
+thuốc/N DFS/Np Drotaverine/Np lô/N 010716/M có/V năm/M bệnh_nhân/N bị/V áp/V xe/N đau/V nhức/A vùng/N tiêm/N
+thuốc/N Taxibiotic/Np 2000/M lô/N B66034/Np có/V một/M bệnh_nhân/N có/V biểu_hiện/N sốc/N phản_vệ/A hai/M có/V phản_ứng/N dị_ứng/N trên/N da/N

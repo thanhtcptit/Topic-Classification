@@ -1,0 +1,16 @@
+Hướng_dẫn/V mới/R nhất/A khi/N chăm_sóc/V trẻ/N sốt/V 
+ /M  /N Những/L hướng_dẫn/V trong/E điều_trị/V sốt/V sử_dụng/V các/L phương_thuốc/N không/R kê/V toa/N đã/R được/V đăng_tải/V trên/E tạp_chí/N Nhi_khoa/Np số/N mới/A nhất/A  /N Sốt/V giúp/V trẻ/A nhanh/A khỏi/V ốm/V  /M Nên/C tạo/V cho/E trẻ/N sự/N thoải_mái/A chứ/C không/R phải/V là/C làm/V thế_nào/N để/E hạ/V sốt/V nhanh_nhất/A BS/Np Janice_Sullivan/Np trưởng/Z nhóm/N nghiên_cứu/V ĐH/Np Louisville/Np trưởng/Z nhóm/N nghiên_cứu/V nói/V 
+ /A Vì/E sốt/V là/V biểu_hiện/V cơ_thể/N đang/R chống/V lại/R bệnh_tật/N làm/V chậm/A lại/R sự/N sinh_sôi/V của/E vi_khuẩn/N vi_rút/N hay/C kích_thích/V cơ_thể/N tăng_cường/V phản_ứng/V miễn_dịch/V 
+ /M Đó/P là/V lợi_ích/N của/E sốt/V và/CC nó/P có_thể/R rút/V ngắn/A thời_gian/N ốm/A của/E trẻ/N BS/Np Janice_Sullivan/Np nhấn_mạnh/V 
+ /M Lưu_ý/V các/L dấu_hiệu/N đi/V kèm/V  /N BS/Np Sullivan/Np cho_biết/V các/L bậc/N cha_mẹ/N nên/C nhận_thức/V rằng/C sốt/V chỉ/R là/V một/M dấu_hiệu/N cho/V thấy/V trẻ/N ốm/V và/CC nên/V lưu_ý/V các/L dấu_hiệu/N khác/A chẳng_hạn/X như/C tình_trạng/N lơ_mơ/A đau/V hay/C mất/V nước/N để/E xem/V liệu/V có/V cần/V phải/V đi/V khám/V không/R 
+ /A Nên/C đánh_thức/V trẻ/A khi/N trẻ/N cần/V uống/V thuốc/N hạ/V sốt/V  /M Chúng_tôi/P khuyến_khích/V các/L bậc/N cha_mẹ/N đánh_thức/V trẻ/A để/E cho/V chúng/P uống/V thuốc/N hạ/V sốt/V bởi_vì/E nếu/C trẻ/A ngủ/V sẽ/R không_thể/R nhận_biết/V được/R dấu_hiệu/N của/E sự/Nc khó_chịu/A của/E chúng/P BS/Np Sullivan/Np cho_biết/V 
+ /M Một/M nghiên_cứu/N cũng/R cho/V thấy/V phần_lớn/N các/L bậc/N cha_mẹ/N thường/R không/R đánh_thức/V trẻ/A khi/N đã/R đến/V giờ/N uống/V thuốc/N hạ/V sốt/V 
+ /N Dùng/V liều/N phù_hợp/V với/E cân/N nặng/A  /A Khi/N thấy/V cần/V phải/V sử_dụng/V thuốc/N thì/C tuyệt_đối/A không/R cho/V trẻ/N dùng/V loại/N cho/E người_lớn/N 
+Theo/E khảo_sát/V thì/C các/L bậc/N cha_mẹ/N thường/R cho/V trẻ/N dùng/V quá/R nhiều/A hoặc/CC không/R dùng/V đủ/A thuốc/N 
+Báo_cáo/V của/E BS/Np Sullivan/Np nhấn_mạnh/V rằng/C liều/N dùng/V nên/C phù_hợp/V với/E cân/N nặng/A chứ/C không/R phải/V tuổi/N hay/C chiều_cao/N 
+Quá/V liều/N sẽ/R gây/V hại/V cho/E gan/N 
+ /M Tôi/P nghĩ/V rằng/C có/V rất/R nhiều/A người/N không/R nhận/V ra/R rằng/C acetaminophen/N nguy_hiểm/A như_thế_nào/X Claire_Mc/Np Carthy/Np BS/Np Nhi/Np bệnh_viện/N Nhi_Boston/Np Mỹ/Np cho_biết/V 
+ /N Một_số/M nghiên_cứu/V cho/E thấy/V việc/N sử_dụng/V thuốc/N luân_phiên/V và/CC kết_hợp/V sẽ/R hiệu_quả/A hơn/R nhưng/C báo_cáo/V cũng/R khuyến_nghị/V rằng/C cha_mẹ/N không/R nên/V tự_ý/A pha_trộn/V các/L loại/N thuốc/N vì/E nguy_cơ/N quá/R liều/A là/V rất/R cao/A 
+ /M Cẩn_thận/N với/E thuốc/N ho/N thuốc/N cảm/V  /A Hướng_dẫn/V mới/R cũng/R khuyến_khích/V cha_mẹ/N không/R nên/V cho/E trẻ/N uống/V thuốc/N ho/V hay/C thuốc/N cảm/V lạnh/A có/V chứa/V thành_phần/N acetaminophen/N hay/C ibuprofen/N 
+Sullivan/Np cho_biết/V các/L bậc/N cha_mẹ/N thường/R không/R chú_ý/V loại/N những/L thuốc/N này/P và/CC thường/R khiến/V cho/E tác_dụng/N giảm/V sốt/V tăng/V gấp/V đôi/M 
+ /M Nhân_Hà_Theo_Reuters/Np 

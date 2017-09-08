@@ -1,0 +1,17 @@
+1 0/M thí_sinh/N tranh/N suất/N vào/V chuyên/A Đại_học/N Sư_phạm/N TP_HCM/Np
+Sáng/N 5/6/M hơn/R 1 0/M thí_sinh/N thi/V vào/E lớp/N 10/M chuyên/A trường/N Trung_học/N Thực_hành/V Đại_học/N Sư_phạm/N TP_HCM/Np với/E môn/N thi/V đầu_tiên/A Toán/N cơ_bản/A
+Nhiều/A em/N rời/V phòng/N thi/V với/E nét_mặt/N vui/A vì/E đề/N thi/V Toán/Np bám/V sát/A chương_trình/N THCS/Np với/E các/L câu_hỏi/N cơ_bản/A
+Lê_Trọng_Tấn/Np /V trường/N THCS/Np Dĩ_An/Np Bình_Dương/Np /V tự_tin/V đạt/V 8/M điểm/N khi/N phần_lớn/N các/L dạng/N bài/N đã/R được/V luyện_tập/V nhuần_nhuyễn/N
+Câu/N 3b/M mang/V tính/N vận_dụng/V thực_tế/N khá/R hay/A các/L câu/N hình_học/N cơ_bản/A dễ/A làm/V Tấn/Np nhận_xét/V
+Dù_Toán/Np không/R phải/V là/C thế/P mạnh/A song/C Vũ_Thu_Thảo/Np /V trường/N THCS/Np Quang_Trung/Np quận/N 4/M đăng_ký/V vào/E lớp/N chuyên/A Văn/Np /A cũng/R hoàn_thành/V các/L câu_hỏi/N
+Đề/Np tương_tự/A như/C đề/N Toán/Np thi/V lớp/N 10/M cuối/N tuần/N trước/E
+Em/N đoán/V mình/P được/V 7/M điểm/N nữ_sinh/N chia_sẻ/V
+Thạc_sĩ/N Phạm_Hồng_Danh/Np /V trưởng/N bộ_môn/N Toán/Np cơ_bản/A trường/N Đại_học/N Kinh_tế/N TP_HCM/Np /V nhận_xét/V với/E đề/N thi/V này/P thí_sinh/V với/E học_lực/N trung_bình/A dễ/A đạt/V điểm/N 6/M thí_sinh/N đăng_ký/V chuyên_môn/N này/P có_thể/R đạt/V 8-9/M điểm/N
+Yêu_cầu/N đề_bài/N rõ_ràng/A dễ/A hiểu/V không/R đánh_đố/V
+Câu/N ứng_dụng/V tính/N vận_tốc/A của/E xe_tải/N chỉ/R cần/V học_sinh/N biết/V suy_luận/V và/CC đặt/V phương_trình/N là/V giải/N dễ_dàng/A ông/Nc Danh/Np cho_biết/V
+Năm/N nay/P trường/N Trung_học/N Thực_hành/V tuyển_sinh/V 3/M lớp/N chuyên/A Toán/Np Văn/Np và/CC Anh_văn/N mỗi/L lớp/N 35/M chỉ_tiêu/N
+Số_lượng/N đăng_ký/V vào/V chuyên/A Anh/N cao/A nhất/A với/E 634/M em/N tiếp/V đó/P là/V Toán/Np 335/M em/N và/CC Văn/Np 282/M em/N
+Thí_sinh/N phải/V thi/V 3/M môn/N cơ_bản/A Toán/Np Văn/Np Anh/Np và/CC một/M môn/N chuyên/A
+Điểm/N xét/V tuyển/V là/V tổng/N điểm/N 3/M môn/N cơ_bản/A và/CC điểm/N bài/N thi/V môn/N chuyên/A tương_ứng/V với/E lớp/N chuyên/A /V đã/R tính/V hệ_số/A 2/M /Nu
+Năm_ngoái/N điểm_chuẩn/V vào/E lớp/N chuyên/A Toán/Np là/V 30,5/M chuyên/A Văn/Np 26/M và/CC chuyên/A Anh/N 29/M
+Từ/E hai/M năm/N nay/P học_sinh/N trường/N Trung_học/N Thực_hành/V được/R xét/V tuyển/V thẳng/A vào/E các/L trường/N đại_học/N thành_viên/N Đại_học/N Quốc_gia/Np TP_HCM/Np

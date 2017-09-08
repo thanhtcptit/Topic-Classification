@@ -1,0 +1,18 @@
+Lupus/Np bệnh/N nguy_hiểm/A tấn_công/V phụ_nữ/N trẻ/A
+Tiến_sĩ/N Nguyễn_Bách/Np Trưởng_Khoa_Thận_Lọc/Np máu/N Bệnh_viện/N Thống_Nhất/Np TP_HCM/Np cho_biết/V lupus/N ban/N đỏ/A hệ_thống/N là/V bệnh_lý/N của/E mô/P liên_kết/V  /V tự/P miễn/V có_nghĩa/V cơ_thể/N tự/P sản_xuất/V ra/R kháng_thể/N chống/V lại/R chính/T bản_thân/N mình/P
+Bệnh/N thường/R gặp/V ở/E nữ_giới/N nhiều/A gấp/V 9/M lần/N so/V với/E nam/N
+Lứa/N tuổi/N mắc/V bệnh/N chủ_yếu/A 20/M đến/E 30/M tuổi/N  /EOS
+Theo/E bác_sĩ/N Bách/Np bệnh/N có/V yếu_tố/N di_truyền/A  /A thường/R xảy_ra/V ở/E người/N có/V HLA-DR/Np 2/M 3/M 8/M các/L gen/N mã_hóa/V bổ/V thể/R C1q/M C2/M C4/M
+Yếu_tố/N nguy_cơ/N mắc/V bệnh/N là/V sử_dụng/V  /V một_số/L thuốc/N tiếp_xúc/V ánh_sáng/N mặt_trời/N nhiễm/V một_số/L loại/Nc virus/N  /M Anh/Nc chị_em_ruột/N của/E các/L bệnh_nhân/N có/V nguy_cơ/N mắc/V bệnh/N cao/A gấp/V nhiều/A lần/N so/V với/E người/N thường/R
+Biểu_hiện/V lâm_sàng/N thường/R rất/R đa_dạng/A các/L triệu_chứng/N ở/E nhiều/A cơ_quan/N không/R điển_hình/N thường/R gặp/V là/C sốt/V đau/V khớp/N nổi/V ban/N ở/E da/N phù/N da/N xanh_xao/A thiếu/A máu/N rụng/V tóc/N có_khi/N khó/A thở/V đau/V ngực/N bác_sĩ/N Bách/Np chia_sẻ/V
+Các/L triệu_chứng/N thường/R mơ_hồ/A và/CC giống/A với/E nhiều/A bệnh_lý/N khác/A  /A nên/C bệnh_nhân/N khi/N khởi_phát/V bệnh/N thường/R đi/V khám/V ở/E nhiều/A chuyên_khoa/N
+Nhiều/A người/N mất/V vài/L năm/N mới/R được/V chẩn_đoán/V bệnh/N
+Bệnh/N gây/V tổn_thương/V hầu_hết/R hệ/N cơ_quan/N cơ_thể/N trường_hợp/N nặng/A đe_dọa/V tính_mạng/N  /M Những/L tổn_thương/N ở/E các/L nội_tạng/N thường/R gặp/V là/C tràn/V dịch/N màng/V tim/N viêm/N cơ/N tim/N tràn/V dịch/N màng/N phổi/N viêm/N phổi/N viêm/N cầu/N thận/N tác_động/V lên/R hệ/N thần_kinh/N gây/V co_giật/V rối_loạn/V tâm_thần/N ở/E hệ/N tạo/V máu/N gây/V thiếu/V máu/N xuất_huyết/V
+Theo/E bác_sĩ/N Bách/Np  /M hiện_nay/N việc/N điều_trị/V có/V nhiều/A tiến_bộ/N có/V nhiều/A thuốc/N ức_chế/V miễn_dịch/N mới/A ít/A độc_tính/A hơn/R  /M Bệnh/N chưa/R  /V thể/R điều_trị/V dứt_điểm/V mà/C chỉ/R có_thể/R kiểm_soát/V để/E hạn_chế/V tái_phát/V
+Nếu/C khống_chế/V bệnh/N tốt/A bệnh_nhân/N vẫn/R có_thể/A sinh_hoạt/V bình_thường/A
+Quá_trình/N  /M điều_trị/V phải/V kéo_dài/V gần_như/R suốt/A đời/N quan_trọng/A nhất_là/X bệnh_nhân/N phải/V theo_dõi/V thường_xuyên/A định_kỳ/N  /M Tình_trạng/N bệnh/N nặng/A nhẹ/A còn/R phụ_thuộc/V vào/E cơ_địa/N và/CC mức_độ/N mẫn_cảm/V của/E cơ_thể/N người_bệnh/N
+Có/V những/L bệnh_nhân/N chỉ/R cần/V duy_trì/V thuốc/N là/V sức_khỏe/N ổn_định/A vẫn/R sinh/V con/N sống/V cuộc_sống/N bình_thường/A tuổi_thọ/N cao/A
+Có/V người/N vừa/R phát_hiện/V bệnh/N là/C đã/R ở/V giai_đoạn/N nặng/A khó/A cứu_chữa/V tiên_lượng/N xấu/A  /A Tuy/C
+nhiên/C đa_số/N trường_hợp/N phát_hiện/V sớm/A điều_trị/V kịp_thời/A vẫn/R mang/V lại/R nhiều/A cơ_hội/N
+Thời_gian/N sống_còn/V của/E bệnh_nhân/N ngày_càng/N được/V cải_thiện/V đáng_kể/A có_thể/A đến/V 20-30/M năm/N tùy/V số/N cơ_quan/N tổn_thương/V và/CC hiệu_quả/N điều_trị/V  /M Tại/E
+châu/N Âu/Np và/CC Mỹ/Np 95%/M bệnh_nhân/N lupus/N sống/V thêm/V được/R 5/M năm/N 90%/M trong/E 10/M năm/N và/CC 78%/M sống/V 20/M năm/N

@@ -1,0 +1,17 @@
+Biến/V nước/N sông/N Tô_Lịch/Np thành/V nước/N uống/V
+Bên/N bờ/N sông/N Tô_Lịch/Np con/Nc sông/N nô/V ̉/M i/N tiê/V ́/M ng/N bâ/V ̉/M n/N va/V ̀/N hôi/A vơ/V ́/M i/N ma/N ̀/A u/A nươ/V ́/A c/N đen/A ngo/A ̀/M m/Nu Giáo_sư/N Côn/Np lấy/V nước/N sông/N đưa/V vào/E máy/N lọc/V những/L dòng/N nước/N tinh_khiết/A từ_từ/A chảy/V ra/R
+Không/R chần_chừ/V ông/N đưa/V nước/N lên/R miệng/N uống/V
+Một_số/L người/N đứng/V xem/V ông/N làm/V buổi/N thực_nghiệm/V hôm_qua/N cũng/R uống/V thử/V
+Tôi/P uống/V thấy/V bình_thường/A nước/N không/R hề/T có/V mùi_gì/N một/M phụ_nữ/N uống/V và/CC cho_biết/V
+Theo/E Trần_Hồng_Côn/Np mục_đích/N của/E ông/N là/V giúp/V những/L người_dân/N sống/V ở/E những/L nơi/N có/V nguồn/N nước/N bị/V ô_nhiễm/V những/L nơi/N bị/V lũ_lụt/N có/V đủ/A nước_sạch/N để/E ăn_uống/V
+Do_vậy/C qua/V nhiều/A năm/N nghiên_cứu/V ông/N đã/R đưa/V ra/R công_nghệ/N có_thể/A lọc/V nước/N bất_kỳ/R thành/V nước_sạch/N để/E có_thể/R uống/V trực_tiếp/A được/R
+Giáo_sư/N Côn/Np cho_biết/V máy/N lọc/V nước/N được/V xếp/V 4/M tầng/N lọc/V để/E chuyên/A xử_lý/V kim_loại/N nặng/A chất_hữu_cơ/N và/CC amoni/N asen/N và/CC tầng/N tiệt_trùng/A
+Trước_đây/N công_nghệ/N tiệt_trùng/V bằng/E clo/N hoặc/CC tia_cực_tím/N khá/R phức_tạp/A song/C hiện_nay/N áp_dụng/V công_nghệ/N nano/V bạc/N để/E tiệt_trùng/V
+Công_nghệ/N hấp_thụ/V chọn_lọc/V là/V phương_pháp/N phủ/V các/L nam_châm/N kim_loại/N có/V kích_thước/N nano/V lên/R bề_mặt/N vật_liệu/N siêu/Z rỗng/N tạo/V ra/R diện_tích/N tiếp_xúc/V cực/N lớn/A giữa/E các/L loại/N nam_châm/N nano/A và/CC các/L phân_tử/N nước/N
+Các/L chất_độc/N hại/V được/R giữ/V chặt/A bằng/E lực/N liên_kết/V của/E các/L phân_tử/N việc/N xử_lý/V hoàn_toàn/A không/R sử_dụng/V các/L phản_ứng_hóa_học/N hóa_chất/N nên/C tuyệt_đối/A an_toàn/A
+Ngoài_ra/C giáo_sư/N Trần_Hồng_Côn/Np còn/R áp_dụng/V công_nghệ/N diệt/V khuẩn/N bằng/E Nano_Bạc/Np đang/R ứng_dụng/V ở/E các/L nước/N tiên_tiến/A trên/E thế_giới/N
+Nanosky/Np sử_dụng/V vật_liệu/N siêu/Z rỗng/N được/V phủ/V các/L hạt/N nano/N bạc/N có/V kích_thước/N từ/E 10/M tới/E 30nm/M
+Khi/N dòng/N nước/N len_lỏi/V qua/E lớp/N vật_liệu/N này/P thì/C 99,99%/M vi_khuẩn/N vi_rút/N trong/E nước/N sẽ/R bị/V tiêu_diệt/V
+Ông/Nc Hà_Anh_Sơn/Np giám_đốc/N một/M công_ty/N chuyên/A ứng_dụng/V công_nghệ/N nano/V cho_biết/V dựa/V theo/E công_nghệ/N mà/C GS/Np
+TS/N Trần_Hồng_Côn/Np phát_minh/V đơn_vị/N này/P đã/R thử_nghiệm/V sản_phẩm/N trong/E 3/M năm/N để/E đưa/V ra/R nguồn/N được/V xử_lý/V đảm_bảo/V tiêu_chuẩn/N nước/N đóng_chai/V được/R Tổng_cục/N Tiêu_chuẩn/N đo_lường/V chất_lượng/N chứng_nhận/N
+Đặc_biệt/A máy/N lọc/V nước/N không/R cần/V chạy_điện/N nên/C có_thể/R áp_dụng/V ở/E nhiều/A điều_kiện/N địa_hình/N

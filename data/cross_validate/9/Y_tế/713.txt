@@ -1,0 +1,9 @@
+Hàng/R trăm/M công_nhân/N nhập_viện/V sau/E bữa/N cơm/N trưa/N
+Sự_việc/N xảy_ra/V tại/E Công_ty/N TNHH/Np T/Np O/Np P_Outdoor_Vina/Np /V 100%/M vốn/N Hàn_Quốc/Np /V tại/E huyện/N Bàu_Bàng/Np tỉnh/N Bình_Dương/Np
+Chiều/N 28/6/M gần/A 200/M công_nhân/N đang/R được/V cấp_cứu/V tại/E các/L cơ_sở/N y_tế/N quanh/N khu_vực/N nghi/V do/E ngộ_độc/V thực_phẩm/N
+Theo/E các/L công_nhân/N buổi_trưa/N họ/P ăn/V cơm/N trong/E công_ty/N với/E các/L món/N trứng/N luộc/V bò/V xào/N canh/V rau_ngót/N
+Sau/E khoảng/A một/M tiếng/N hàng/R trăm/M người/N đồng_loạt/R có/V dấu_hiệu/N mệt_mỏi/A khó/A thở/V nôn/V ói/V ngất_xỉu/V
+Số/N công_nhân/N này/P sau/E đó/P được/V đi/V cấp_cứu/V tại/E các/L bệnh_viện/N lân_cận/A
+Bệnh_viện/N Đa_khoa/Np Mỹ_Phước/Np thị_xã/N Bến_Cát/Np tiếp_nhận/V hàng/R chục/M công_nhân/N của/E công_ty/N T/Np O/Np P/Np với/E các/L dấu_hiệu/N nghi/V ngộ_độc/V thực_phẩm/N
+Đến/E tối/N một_số/L ca/N nhẹ/A đã/R được/V xuất_viện/V các/L ca/N nặng/A vẫn/R đang/R được/V theo_dõi/V
+Vụ_việc/N đang/R được/V cơ_quan_chức_năng/N điều_tra/V làm/V rõ/A
